@@ -6,7 +6,7 @@ if __name__ == "__main__":
 
     parser = argparse.ArgumentParser()
     parser.add_argument("raw_metadata")
-    parser.add_argument("out_filename", default="data.out")
+    parser.add_argument("out_filename", default="sp.data")
     args = parser.parse_args()
 
     metadata = None
@@ -19,7 +19,8 @@ if __name__ == "__main__":
         with open(w["filename"], 'r') as f:
             output += [(s.strip(), w["author"], w["id"]) for s in f.readlines()]
     random.shuffle(output)
-    
-    with open(args.out_filename, 'w+') as out:
+
+    with open(args.out_filename, 'w+') as f:
         for o in output:
-            out.write(str(o) + "\n")
+            f.write(str(o) + "\n")
+

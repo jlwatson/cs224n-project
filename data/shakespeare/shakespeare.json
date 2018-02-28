@@ -2,7 +2,8 @@
     "description": "Metadata for Shakespeare binary classification dataset. Both WS's work and those of his contemporaries are included in sentence form.",
     "authors": [
         ["shakespeare", 0],
-        ["dekker", 1]
+        ["dekker", 1],
+        ["jonson", 2]
     ],
     "works": [
         {
@@ -16,6 +17,24 @@
             "author": 0,
             "title": "All's Well That Ends Well",
             "filename": "endswell_shakespeare.txt"
+        },
+        {
+            "id": 2,
+            "author": 1,
+            "title": "The Noble Spanish Soldier",
+            "filename": "spanish_dekker.txt"
+        },
+        {
+            "id": 3,
+            "author": 0,
+            "title": "As You Like It",
+            "filename": "likeit_shakespeare.txt"
+        },
+        {
+            "id": 4,
+            "author": 2,
+            "title": "The Alchemist",
+            "filename": "alchemist_jonson.txt"
         }
     ]
 }
