@@ -1,0 +1,21 @@
+{
+    "description": "Metadata for Shakespeare binary classification dataset. Both WS's work and those of his contemporaries are included in sentence form.",
+    "authors": [
+        ["shakespeare", 0],
+        ["dekker", 1]
+    ],
+    "works": [
+        {
+            "id": 0,
+            "author": 1,
+            "title": "The Pleasant Comedie of Old Fortunatus",
+            "filename": "fortunatus_dekker.txt"
+        },
+        {
+            "id": 1,
+            "author": 0,
+            "title": "All's Well That Ends Well",
+            "filename": "endswell_shakespeare.txt"
+        }
+    ]
+}
