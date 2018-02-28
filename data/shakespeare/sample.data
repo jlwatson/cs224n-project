@@ -1,3 +1,4 @@
+(sentence, author_id, work_id)
 ('faults whipped them not; and our crimes would', 0, 1)
 ('Oh learned! Which of the seven?', 1, 0)
 ('I thought travel would turn my father madman or fool.', 1, 0)
@@ -1746,7 +1747,6 @@
 ('his great right to be so: Gerard de Narbon.', 0, 1)
 ("I'll build a tomb for him of massy gold.", 1, 0)
 ('That he does weigh too light: my greatest grief.', 0, 1)
-(sentence, author_id, work_id)
 ("Oh rare: what meat's that?", 1, 0)
 ('Yet lost thou art, thy fame, thy wealth are lost,', 1, 0)
 ('To England shalt thou ride; thy virtuous brother', 1, 0)
