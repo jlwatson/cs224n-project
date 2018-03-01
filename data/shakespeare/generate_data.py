@@ -13,7 +13,7 @@ if __name__ == "__main__":
     with open(args.raw_metadata, 'r') as f:
         metadata = json.load(f)
 
-    output = ["(sentence, author_id, work_id)"]
+    output = []
     for w in metadata["works"]:
         auth = w["author"]
         with open(w["filename"], 'r') as f:
@@ -21,6 +21,7 @@ if __name__ == "__main__":
     random.shuffle(output)
 
     with open(args.out_filename, 'w+') as f:
+        f.write("(sentence, author_id, work_id)\n")
         for o in output:
             f.write(str(o) + "\n")
 
