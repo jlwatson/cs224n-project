@@ -7,6 +7,7 @@ from keras.preprocessing.text import Tokenizer
 
 import ast
 import hashlib
+import numpy as np
 
 TEST_SPLIT = 0.2
 BATCH_SIZE = 32
@@ -23,9 +24,13 @@ tokenizer = Tokenizer()
 texts = [d[0] for d in data]
 tokenizer.fit_on_texts(texts)
 x = tokenizer.texts_to_sequences(texts)
-y = [d[1] for d in data]
 
-vocab_size = len(tokenizer.word_docs)
+y_vals = [d[1] for d in data]
+y = np.zeros((len(y_vals), len(set(y_vals))))
+for i, v in enumerate(y_vals):
+    y[i, v] = 1.0
+
+vocab_size = len(tokenizer.word_docs) + 1 # somehow getting an extra val in there
 
 split = int(0.2*len(data))
 
@@ -34,14 +39,12 @@ x_test, y_test = x[:split], y[:split]
 
 x_train = sequence.pad_sequences(x_train)
 x_test = sequence.pad_sequences(x_test)
-print('x_train shape:', x_train.shape)
-print('x_test shape:', x_test.shape)
 
 print('Build model...')
 model = Sequential()
-model.add(Embedding(vocab_size, 128))
-model.add(LSTM(128, dropout=0.2, recurrent_dropout=0.2))
-model.add(Dense(1, activation='sigmoid'))
+model.add(Embedding(vocab_size, EMBEDDING_DIM))
+model.add(LSTM(EMBEDDING_DIM, dropout=0.2, recurrent_dropout=0.2))
+model.add(Dense(3, activation='sigmoid'))
 
 model.compile(loss='binary_crossentropy',
               optimizer='adam',
