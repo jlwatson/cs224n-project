@@ -3,7 +3,8 @@
     "authors": [
         ["shakespeare", 0],
         ["dekker", 1],
-        ["jonson", 2]
+        ["jonson", 2],
+        ["apocrypha", 3]
     ],
     "works": [
         {
@@ -35,6 +36,18 @@
             "author": 2,
             "title": "The Alchemist",
             "filename": "alchemist_jonson.txt"
+        },
+        {
+            "id": 5,
+            "author": 0,
+            "title": "Antony and Cleopatra",
+            "filename": "antony_shakespeare.txt"
+        },
+        {
+            "id": 6,
+            "author": 3,
+            "title": "Vortigern and Rowena",
+            "filename": "vortigern_apocrypha.txt"
         }
     ]
 }
