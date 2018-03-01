@@ -7,6 +7,7 @@ from keras import utils
 
 import glob
 import random
+import numpy as np
 
 BATCH_SIZE = 32
 CANDIDATES = ["gavin-andresen", "hal-finney", "jed-mccaleb", "nick-szabo", "roger-ver"]
@@ -71,7 +72,51 @@ model.fit(x_train, y_train,
           batch_size=BATCH_SIZE,
           epochs=15,
           validation_split=0.2)
+
 score, acc = model.evaluate(x_test, y_test,
                             batch_size=BATCH_SIZE)
 print('Test score:', score)
 print('Test accuracy:', acc)
+
+from sklearn.metrics import confusion_matrix
+import matplotlib.pyplot as plt
+
+def plot_confusion_matrix(cm, classes,
+                          normalize=False,
+                          title='Confusion matrix',
+                          cmap=plt.cm.Blues):
+    """
+    This function prints and plots the confusion matrix.
+    Normalization can be applied by setting `normalize=True`.
+    """
+    if normalize:
+        cm = cm.astype('float') / cm.sum(axis=1)[:, np.newaxis]
+        print("Normalized confusion matrix")
+    else:
+        print('Confusion matrix, without normalization')
+
+    plt.imshow(cm, interpolation='nearest', cmap=cmap)
+    plt.title(title)
+    plt.colorbar()
+    tick_marks = np.arange(len(classes))
+    plt.xticks(tick_marks, classes, rotation=45)
+    plt.yticks(tick_marks, classes)
+
+    fmt = '.2f' if normalize else 'd'
+    thresh = cm.max() / 2.
+    for i, j in itertools.product(range(cm.shape[0]), range(cm.shape[1])):
+        plt.text(j, i, format(cm[i, j], fmt),
+                 horizontalalignment="center",
+                 color="white" if cm[i, j] > thresh else "black")
+
+    plt.tight_layout()
+    plt.ylabel('True label')
+    plt.xlabel('Predicted label')
+
+pred = np.argmax(model.predict(x_test, batch_size=BATCH_SIZE), axis=1)
+truth = np.argmax(y_test, axis=1)
+cnf_matrix = confusion_matrix(truth, pred)
+
+plot_confusion_matrix(cnf_matrix, classes=CANDIDATES, normalize=False,
+                      title='Normalized confusion matrix')
+plt.show()
