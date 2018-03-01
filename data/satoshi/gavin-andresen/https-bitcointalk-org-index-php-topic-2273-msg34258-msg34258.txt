@@ -1,0 +1,15 @@
+
+
+There really is no "from" -- there is just 'where the coins were sent last
+time they were sent somewhere.'  
+  
+If that 'somewhere' was a shared wallet (like a mybitcoin account) where all
+the incoming transactions get mixed up, knowing what address they were sent to
+previously is worse than useless information. You might decide it is a good
+idea to try to refund bitcoins to that address and end up sending them to some
+random mybitcoin user, and NOT your customer.  
+  
+Adding possibly-worse-than-useless features to the bitcoin GUI is a bad idea.
+Am I missing some other reason for wanting to see the last addresses to which
+the coins you received were sent?
+

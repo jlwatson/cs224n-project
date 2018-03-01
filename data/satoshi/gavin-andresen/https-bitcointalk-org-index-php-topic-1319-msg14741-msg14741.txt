@@ -1,0 +1,13 @@
+
+
+I just updated the code/patch:  
+monitoraddress allwallet <url>  
+... gets triggered for all transactions that go into your wallet. That
+includes 'change' transactions that can occur when you send somebody coins,
+which I expect will strike some people as a bug and others as an important
+feature.  
+  
+And I combined the getblockby methods into one. I know I would've never
+remembered "is it getblockybycount or getblockbynumber or getblockbyheight or
+getblockbydepth" -- I will remember "getblock".
+

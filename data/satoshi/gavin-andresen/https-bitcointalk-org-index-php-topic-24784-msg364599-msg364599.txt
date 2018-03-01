@@ -1,0 +1,10 @@
+
+
+Does this patch give any sort of warning if bitcoin isn't being used through a
+proxy?  
+  
+I worry that a user will be REALLY careful keeping all their addresses
+separated so their ordinary transactions are separate from their fund-the-
+oppositition transactions, and then will get busted by the Secret Police who
+were eavesdropping on their bitcoin IP traffic at their ISP.  
+

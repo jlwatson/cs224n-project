@@ -1,0 +1,15 @@
+
+
+I listen to the network (via http://bitcointalk.org/index.php?topic=2808.0),
+and while transactions generally come pretty randomly, there is occasionally a
+cluster of a dozen or so transactions, coming very quickly, within a second or
+two. It took me a while to realize that when these happen, it is always the
+top of the hour. I don't notice them every hour, but several times a day,
+always on the hour.  
+  
+Looking at blockexplorer, it looks like these are a series of small payments,
+a few cents or a few bitcoins, generally from high value transactions near 50
+btc. And they each normally have a 0.01 btc transaction fee.  
+  
+An interesting pattern...
+

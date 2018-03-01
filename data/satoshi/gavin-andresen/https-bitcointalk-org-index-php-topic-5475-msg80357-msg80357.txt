@@ -1,0 +1,19 @@
+
+
+Quote from: Nefario on April 06, 2011, 12:40:59 PM
+
+OK that's pretty much what I was talking about then. So my stupidly small
+transaction at the moment won't be accepted by most miners, which means it
+wont get recorded in the block chain which means it wont happen, right?  
+
+  
+Yes, and right now it will sit in your wallet at 0 confirmations and get
+rebroadcast once in a blue moon (ok, not that long, but I'm too lazy right now
+to dig out the rules for when transactions are rebroadcast) until it DOES make
+it into a block.  
+  
+And you'll have to hack your copy of bitcoin to be able to send a less-
+than-.01 transaction without a fee; the RPC send* methods automatically add
+the fee, and the GUI will tell you a fee is necessary (and won't let you send
+unless you agree to it).  
+

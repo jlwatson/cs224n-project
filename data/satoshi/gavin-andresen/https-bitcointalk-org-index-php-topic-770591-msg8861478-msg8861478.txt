@@ -1,0 +1,28 @@
+
+
+Quote from: kokojie on September 17, 2014, 03:32:40 PM
+
+I am not the best person to discuss the technical details here, but how do you
+explain PoW altcoins are easily 51% attacked to death. But then PoS altcoins
+all avoided this fate, and most of them (the non scammy ones), works and works
+well. Clearly when put in a equal competition (altcoins), the PoS system came
+out on top in an equal competitive environment (without early start advantage
+etc...).  
+
+  
+I think we'll see non-clone coins being broken after two things happen:  
+  
+1\. They become valuable enough for attackers to bother, and there is some way
+for them to cash out.  
+2\. The attackers have some time to do what they need to do to mount an
+attack-- write code, deploy botnets, hack into some big exchange(s), get their
+hands on some early-adopter's wallet backups, or whatever.  
+  
+Once the tools and techniques are developed, then I think we'll see what we
+see in PoW 51% attacks: attacks against even mostly-worthless clonecoins,
+because if they've already got the tools then they might just attack for the
+lulz.  
+  
+I'm surprised you count peercoin a PoS success-- they're still running with
+centralized checkpoints, aren't they?  
+

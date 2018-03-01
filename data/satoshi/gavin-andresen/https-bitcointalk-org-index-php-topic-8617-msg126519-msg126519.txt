@@ -1,0 +1,11 @@
+
+
+My rule of thumb is "never inline methods more than 1 line long."  
+  
+Unless you're doing something super performance-critical, in which case my
+rule of thumb is "don't change anything until after you've written a realistic
+benchmark."  
+  
+But I'm an old-fashioned C++ coder, kids these days seem to want to put all
+the code in .hpp files.  
+

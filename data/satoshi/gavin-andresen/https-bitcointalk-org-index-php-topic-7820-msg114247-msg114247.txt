@@ -1,0 +1,11 @@
+
+
+Quote from: Fractality on May 10, 2011, 09:49:07 AM
+
+Not sure how many addresses would be required. Probably also depending on the
+business. Maybe hundreds, or even thousands?  
+
+  
+Extending the getnewaddress RPC call to take a [count] parameter would be
+easy. Doing the same for the GUI would be pretty easy, too...  
+

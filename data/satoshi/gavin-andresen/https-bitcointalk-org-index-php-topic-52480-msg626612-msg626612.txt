@@ -1,0 +1,30 @@
+
+
+Quote from: Cryptoman on November 21, 2011, 09:20:11 PM
+
+Gavin, aren't you going to post the hashes signed with your private key?  
+
+  
+The download directory contains them in a file called SHASUMS.asc:  
+http://sourceforge.net/projects/bitcoin/files/Bitcoin/bitcoin-0.5.0/SHASUMS.asc/download  
+  
+... which I'll reproduce here just because it is easy:  
+  
+
+Code:
+
+\-----BEGIN PGP SIGNED MESSAGE-----  
+Hash: SHA1  
+  
+d80b811852744aaa23bc7eddd23cdac4d56bb50f bitcoin-0.5.0-linux.tar.gz  
+86b0de71d601176ba49a84da59baf37ec3b561ec bitcoin-0.5.0-macosx.dmg  
+4649a78d3a55843b7ced690694b9b241a26f4d93 bitcoin-0.5.0-win32-setup.exe  
+97ef546d923e75f309a19f8a52b07affc0942948 bitcoin-0.5.0-win32.zip  
+\-----BEGIN PGP SIGNATURE-----  
+Version: GnuPG v1.4.9 (Darwin)  
+  
+iEYEARECAAYFAk7Kdy8ACgkQdYgkL74406g2ogCgiMfivGR4xJOacx/DnYfIiBO0  
+tlgAmwRYs7eKIgz1v3t1tj1I3NrrBfij  
+=SFwh  
+\-----END PGP SIGNATURE-----  
+

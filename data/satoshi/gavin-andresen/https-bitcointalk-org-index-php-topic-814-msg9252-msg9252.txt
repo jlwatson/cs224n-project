@@ -1,0 +1,22 @@
+
+
+1) Have you been using bitcoin for more than two months?  
+Yes, almost 3 months now.  
+  
+2) Are you currently attempting to generate coins?  
+No (well, not on the production network; I am generating blocks on the TEST
+network)  
+  
+3) If not currently generating, have you attempted in the past? If generating,
+how long have you been generating?  
+Yes, before the big slashdot interest influx I was generating.  
+  
+4) Have you ever succeeded in generating a block? Many blocks?  
+Probably around 10 blocks while I was generating.  
+  
+5) Why or why not do you generate?  
+I'm a big believer in the power of division of labor and comparative advantage
+to make the world a better place. I don't have any particular advantage for
+mining bitcoins, and I bet people who _do_ (who have access to lots of cheap
+CPU cycles) will be more efficient at mining than me.  
+

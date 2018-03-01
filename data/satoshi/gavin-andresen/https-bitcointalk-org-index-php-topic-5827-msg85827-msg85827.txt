@@ -1,0 +1,21 @@
+
+
+Quote from: adv on April 14, 2011, 02:54:18 PM
+
+Looks like ugly coders for some reason decided to always answer yes to this
+question from the console. :^/  
+
+  
+I'm not really ugly, am I? You should have seen me in college when I was too
+cheap to get a haircut...  
+  
+So: bitcoind doesn't ask for confirmation before sending fees with a
+transaction because it is was much easier to implement that way, and for most
+uses of bitcoind paying an occasional transaction fee isn't a problem.  
+  
+If you'd like to help fix it, patches are welcome. I think a new setting that
+says "don't pay more than N bitcoins for any transaction without asking me"
+and a new argument to the send routines to say either "I'm willing to pay up
+to X bitcoins for this transaction" or "I want to pay X bitcoins in
+transaction fees with this transaction" is a good idea.  
+

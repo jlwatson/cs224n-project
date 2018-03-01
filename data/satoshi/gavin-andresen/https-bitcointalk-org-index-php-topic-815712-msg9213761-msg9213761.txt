@@ -1,0 +1,24 @@
+
+
+Quote from: trout on October 15, 2014, 06:23:31 PM
+
+Of course one can say, let's put it 50% per year until the bandwidth stops
+growing that fast,  
+and then we fork again. But this only postpones the problem. Trying to predict
+now exactly when this happens, and to program for it now, seems futile.  
+
+  
+Okey dokey. My latest straw-man proposal is 40% per year growth for 20 years.
+That seems like a reasonable compromise based on current conditions and
+trends.  
+  
+You seem to be looking hard for reasons not to grow the block size-- for
+example, yes, CPU clock speed growth has stopped. But number of cores put onto
+a chip continues to grow, so Moore's Law continues. (and the reference
+implementation already uses as many cores as you have to validate
+transactions)  
+  
+PS: I got positive feedback from a couple of full-time, professional
+economists on my "block size economics" post, it should be up tomorrow or
+Friday.  
+

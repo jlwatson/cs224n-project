@@ -1,0 +1,16 @@
+
+
+One Amazon "EC2 compute unit" is, according to them, approximately equal to a
+1ghz 2007 Xeon processor (that's a m1.small).  
+  
+Judging by my laptop generating experience, there's no way an m1.small
+instance would generate enough ฿ to be profitable.  
+  
+The heftiest instance you can buy ("large CPU") is 20 units big, and costs
+$0.231 per hour; with bitcoins selling for about a half a penny each it would
+have to generate 46 per hour (or about a block an hour) to break even.
+Ummm.... no, that does not compute.  
+  
+RE: how did I get hashes-per-second on my mac: I applied laszlo's patch to a
+version I compiled from source code.
+

@@ -1,0 +1,14 @@
+
+
+Quote from: joe on March 06, 2011, 12:33:14 AM
+
+The solution for sending coins to people is ...  
+
+  
+Cool... but Hal just convinced me we don't need that feature for bitcoin 1.0.  
+  
+Is anybody willing to commit to actually implementing any of these?  
+  
+I know the bitcoin<->Berkeley DB code pretty well, so I'll volunteer to do the
+"Import a backed up wallet" feature.  
+

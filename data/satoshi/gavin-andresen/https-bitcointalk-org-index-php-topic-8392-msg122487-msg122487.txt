@@ -1,0 +1,12 @@
+
+
+I think sipa is right-- it will just look like a weird double-spend.  
+  
+Probably a good idea to reject transactions with non-canonical signatures
+(reject if encode(decode(tx)) != tx ).  
+  
+I assume the DER-encoded ASN.1 octet representation is the same between
+different ECDSA implementations (so if a non-openssl-based implementation
+creates transactions its transactions would be accepted), is that a good
+assumption?  
+

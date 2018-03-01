@@ -1,0 +1,18 @@
+
+
+Quote from: Rassah on September 14, 2012, 03:34:17 PM
+
+Now, I could be wrong, and it may be that any coins stored this way must be
+fully spent when signed, instead of being able to be spent in parts (vault has
+to be emptied entirely, portion is sent to the recepient, remainder goes back
+into the vault maybe?)  
+
+Two-people-required-to-spend bitcoin addresses would be a great feature for
+blockchain.info.  
+  
+Coins would be sent to that address, then both address owners would have to
+agree to spend them (by signing transactions).  
+  
+The incoming coins **do** have to be fully spent, but it is easy to create
+transactions that send the change back into the "vault" (multisig address).  
+

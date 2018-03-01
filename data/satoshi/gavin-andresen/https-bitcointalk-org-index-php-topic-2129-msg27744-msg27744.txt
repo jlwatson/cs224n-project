@@ -1,0 +1,28 @@
+
+
+I just commited svn r197 (version 0.3.17.05); it is a "prevent possible
+security problems we haven't thought of" fix.  
+  
+Before this change, you could compile your own version of bitcoin, create
+nonstandard transactions containing extra information or fancy new payment
+features, and all the official bitcoin clients on the network would happily
+include those transactions in the blocks they were generating and would relay
+them to their peers.  
+  
+After this change, official bitcoin clients will **not** relay nonstandard
+transactions or include them in blocks that they create. They will, however,
+still accept non-standard transactions that do manage to get included in a
+generated block.  
+  
+So, what should you do if you had a fantastic scheme for doing something
+fabulous with bitcoin that relied on the ability to generate nonstandard
+transactions?  
+  
+1\. Implement your fantastic new features.  
+2\. Run it on the testnet to test it out. You can pretty easily generate
+blocks there, and, as said above, peers _will_ accept your nonstandard
+transactions in blocks that you generate.  
+3\. Convince the rest of us that your idea is great-- or, at least, convince a
+good percentage of the bitcoin-generating nodes that your idea is great.  
+  
+

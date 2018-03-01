@@ -1,0 +1,25 @@
+
+
+If more bitcoin adoption means bitcoin mining replaces actual, physical gold
+and silver mining then that should be a net positive for the environment. Gold
+mining is dirty, dangerous, and destructive; if bitcoins eventually become "a
+better gold", then there will be less pressure to dig up virgin wilderness.  
+  
+Right now, bitcoin mining is inefficient, but natural economic forces will
+make it become increasingly efficient. We've already seen that, with more
+efficient GPU mining replacing CPU mining because you get more hashing for
+less electricity.  
+  
+Eventually, I'm confident you'll see big commercial-scale bitcoin mining
+operations in places where either electricity is clean and cheap to produce,
+or where the waste heat from bitcoin production is put to productive use
+(maybe we'll all have network-connected bitcoin-mining space heaters to warm
+our offices in 10 years).  
+  
+Before then, we probably **will** see bitcoin production using cheap, dirty
+electricity in poorer countries. If history is any guide, as that helps to
+make those countries richer their citizens will demand better environmental
+standards. Even if we all decided that is unacceptable, I don't see any way to
+prevent it-- there's no way to tell if a bitcoin was generated using solar
+panels in the Sahara or dirty coal in Pennsylvania.  
+

@@ -1,0 +1,24 @@
+
+
+For the voting problem:  
+  
+It would probably be best to give each voter a "yes" and "no" address that
+they are expected not to share with anybody else. They can then vote by
+sending the right number of bitcoins to one of those addresses.  
+  
+You can decide what happens if they send to both addresses.  
+  
+If you want the vote results to be public, then you can pre-publish before the
+vote a hash of the list of all addresses and voters. Then after the vote
+publish the list; everybody can make sure it hashes to the correct value, that
+it has the right list of voters, that it has twice as many addresses as
+voters, and each voter can check to make sure the addresses assigned to them
+are on the list.  
+  
+And the voters could then look at the transactions in the blockchain during
+the voting period, to those addresses to audit the vote.  
+  
+There's probably a complicated crypto protocol you could put on top to make
+the votes anonymous-but-verifiable, too -- so even the vote organizer doesn't
+know who voted for what.
+

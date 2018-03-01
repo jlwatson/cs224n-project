@@ -1,0 +1,8 @@
+
+
+Quote from: Kim Jae on June 07, 2011, 08:00:09 AM
+
+Depends if you use the sendtoaddress or sendfrom command.  
+
+No, they're always mixed.  
+

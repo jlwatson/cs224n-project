@@ -1,0 +1,20 @@
+
+
+Here's a scheme that would work:  
+  
+1\. Exchange creates a special bitcoin keypair for each exchange rate it wants
+to publish.  
+E.g. maybe there is a 1mtgxbtcusd9873919fp876... address for mtgox btc/usd  
+  
+2\. Exchange funds that address with a bunch of bitcoins.  
+  
+3\. Every 10 minutes the exchange performs a send-to-self transaction FROM
+that address TO that address with the number of bitcoins that correspond to
+the current exchange rate.  
+  
+Voila, exchange rate is broadcast to anybody who cares to listen. You know it
+is the exchange, because the exchange is the only entity that can spend
+bitcoins from the special exchange address.  
+  
+You have to trust the exchange not to broadcast a bogus price...  
+

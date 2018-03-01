@@ -1,0 +1,17 @@
+
+
+Quote from: luv2drnkbr on May 06, 2013, 01:52:52 AM
+
+You idiots know it's just a default setting that can be changed, right?  
+  
+You can just change this in the config, and connect to a few nodes in pools
+that accept non-standard tx's.  
+
++1  
+  
+Knock yourselves out, no fork needed, just add this to your bitcoin.conf and
+convince a few big miners or mining pools to do the same:  
+  
+minrelaytxfee=0  
+  
+

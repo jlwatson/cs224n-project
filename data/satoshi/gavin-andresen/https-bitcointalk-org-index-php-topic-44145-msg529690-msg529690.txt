@@ -1,0 +1,15 @@
+
+
+sendfrom needs the minconf to know if it should fail because of too few
+confirmed coins in the account.  
+  
+move used to need minconf for essentially the same reason, but as of (some
+release in the past) it always succeeds.  
+E.g. if account A has 5 0-confirmation bitcoins and 5 1-confirmation bitcoins
+then:  
+move "A" "B" 10  
+... used to fail, because A's 1-confirmation balance was only 5.  
+  
+Now it will succeed, giving it a -5 one-confirmation balance. move "A" "B" 100
+will also now always succeed, making A's balance go negative.  
+

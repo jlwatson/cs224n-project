@@ -1,0 +1,11 @@
+
+
+https://github.com/bitcoin/bitcoin/pull/88  
+  
+This makes CTransaction::CreateTransaction use the same rules for what
+transactions require a fee as CBlock::CreateBlock.  
+  
+The mismatch was the root cause of the transaction slowness (low-priority free
+transactions were created but weren't being included into blocks until they
+'matured' and had a higher priority).  
+

@@ -1,0 +1,10 @@
+
+
+RE: agreed upon spot to place or distribute messages:  
+  
+I think it is time to start experimenting with a <bytes> OP_DROP OP_DUP
+OP_HASH160 ...etc transaction type on the testnet.  
+  
+And time to finish implementing headers-only-for-initial-download mode so new
+users don't have to wait so long to get their free Faucet bitcoins.  
+

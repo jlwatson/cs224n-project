@@ -1,0 +1,8 @@
+
+
+One of the influences on Bitcoin was Nick Szabo's idea of Bit Gold. I kind of
+wish it had been called Bitgold but that would have caused confusion with
+Nick's (somewhat different) idea.  
+  
+Maybe we should call block creation "panning".  
+

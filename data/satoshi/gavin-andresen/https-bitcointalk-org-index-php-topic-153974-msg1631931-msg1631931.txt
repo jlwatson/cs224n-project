@@ -1,0 +1,10 @@
+
+
+Please stop the "Gavin's decision" meme, too: I went with the in-the-moment
+consensus when it became clear that it was POSSIBLE to switch to the 0.7 fork.  
+  
+And as Melbustus said: that was only possible because the split was close to
+50/50. If more miners had already upgraded to 0.8, an alert would have been
+sent to non-0.8 peers telling them to either upgrade or shutdown until we
+could find a workaround for the problem.  
+

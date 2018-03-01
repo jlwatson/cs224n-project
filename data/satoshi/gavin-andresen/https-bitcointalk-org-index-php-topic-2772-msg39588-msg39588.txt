@@ -1,0 +1,42 @@
+
+
+Quote from: bitcoinex on January 19, 2011, 10:41:42 PM
+
+1\. Not to touch anything and make "a week of refactoring".  
+  
+I personally do not quite understand the code which is in one giant file
+main.cpp. I twice tried to start watch it but fell asleep in the middle. Git
+does not like this arrangement of the code too.  
+
+  
+Having spent a lot of time working with the existing code, I don't think
+splitting the code into multiple files would make it much easier to work with.
+The hard part is figuring out how everything fits together (for example "if I
+have a CWalletTx, how do I get the CBlock that it is in (if any)?"). Just
+rearranging the code that is there now won't make that problem any better.  
+  
+
+Quote
+
+2\. We're all bitcoin millionaires and billionaires (except of me, probably).
+Maybe it's time to hire 1-2 employees? Or establish a reward for bugs busters?  
+
+  
+I don't think anybody who has worked on the code, except for Satoshi, has a
+lot of bitcoins. I certainly don't. I hope to earn some with Clearcoin....  
+  
+
+Quote
+
+I am concerned about errors that prevent realize listtransatstions (
+https://www.bitcoin.org/smf/index.php?topic=2306.0 ). From a distance at least
+one bug look quite dangerous:
+https://github.com/bitcoin/bitcoin/issues/#issue/28  
+
+  
+The listaccounts bug is nearly fixed. I cannot reproduce the dangerous-looking
+bug, even running bitcoind under the valgrind memory-checking tool (valgrind
+actually simulates machine instructions to catch memory access errors)-- tcatm
+seems to be the only person having the issue.  
+  
+

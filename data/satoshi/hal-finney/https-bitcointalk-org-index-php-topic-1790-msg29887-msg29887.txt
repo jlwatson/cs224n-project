@@ -1,0 +1,10 @@
+
+
+I thought of a possible problem with all these proposals: front-running by
+miners. This is where a miner sees an attempt to register a name, thinks it is
+a good name, and registers it for himself instead. Since domain registration
+fees are based on the value of average names, extra-good names wouldn't be
+covered by the fees and might be stolen in this way. Some existing registrars
+have been accused of a similar practice, registering names through agents
+after people query for name availability.
+

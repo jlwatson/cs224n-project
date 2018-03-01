@@ -1,0 +1,14 @@
+
+
+I actually created and spent some "input from wallet a", "input from wallet b"
+private testnet transactions earlier this week (I'm working on some lower-
+level RPC commands for bitcoind -- see https://gist.github.com/2839617 for the
+half-baked spec).  
+  
+Somebody could build a transaction-combining service on top of those low-level
+RPC commands, although I suspect to be really resistant to sophisticated
+network analysis doing "one or more inputs from A in, one or more from B in,
+ApayToSomebody Achange BpayToSomebodyElse Bchange out" won't help much. There
+is a lot of prior work on "mix networks" and maintaining anonymity, and the
+only thing I know about it is that it is a hard problem to get right.  
+

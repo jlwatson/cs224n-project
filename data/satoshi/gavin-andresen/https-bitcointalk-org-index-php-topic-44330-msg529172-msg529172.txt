@@ -1,0 +1,20 @@
+
+
+RE: cannot act as a RPC client:  
+  
+I believe it will still be able to act as a RPC server.  
+  
+So you can run the GUI with the -server switch, but you'll have to talk to it
+using (for example)  
+bitcoind getinfo  
+  
+... as opposed to today, where you can run "bitcoin -server" to get the GUI
+and then run "bitcoin getinfo" to talk to the running GUI process.  
+  
+RE: why switch: because no wxwidgets programmers stepped up and made it
+better. And from what I can see, QT is more popular and supported (so there
+are more programmers able and willing to help improve).  
+  
+RE: screen shots: See the bitcoin-qt thread in the Alternative Clients sub-
+forum here.  
+

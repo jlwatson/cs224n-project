@@ -1,0 +1,16 @@
+
+
+All this endless talking about the Perfect URI Scheme is very nice.  
+  
+So is anybody, you know, actually working on IMPLEMENTING something?  
+  
+You'll need to know how to write browser plugins for Firefox/Safari/Chrome/IE
+and figure out how to pass arguments to a running bitcoin/bitcoind and know
+how the bitcoin/bitcoind will prompt the user to confirm the transaction. Oh,
+and figure out how to get the browser plugin(s) installed when bitcoin is
+installed.  
+  
+Deciding on whether it is bitcoin:address or bitcoin://amount/address is the
+easy part, and I think whoever actually does the work of making this happen
+should define the standard.  
+

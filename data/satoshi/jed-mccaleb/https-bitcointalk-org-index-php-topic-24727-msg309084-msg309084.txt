@@ -1,0 +1,17 @@
+
+
+mewantsbitcoins:  
+Your password was probably brute forced from the user dump like mine was. Mine
+wasn't super simple either.  
+> If someone gained admin level user account why would they go to the lengths
+of SQLi to get the database?  
+My account still had admin access. They were able to get my account password
+because of the SQLi  
+  
+I'm sure Mark is very busy with mtgox so has been neglecting Kalyhost.  
+  
+Mistakes were obviously made but I don't think Mark is being greedy or
+incompetent here. He needs to hire more people and he knows this. But which if
+you have ever tried to do you know takes time which he doesn't have much of
+these days.
+

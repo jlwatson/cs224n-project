@@ -1,0 +1,10 @@
+
+
+The bottleneck for getting this pulled is testing.  
+  
+It needs a thorough test plan that tries to test edge cases where things might
+break, and then it needs people to carry out that test plan to make sure it is
+solid. "It works for me" isn't good enough for wallet-touching code.  
+  
+See https://github.com/bitcoin/QA for a suggested process.  
+

@@ -1,0 +1,12 @@
+
+
+By the way:  
+  
+I really like your proposal, ByteCoin. I think it captures the intuitive
+notion of "incentivize publishing blocks immediately as the best policy".  
+  
+IF all proof-of-work-valid chains are relayed (and, as I said, my intuition is
+that they should be) then highest-number-of-transactionseconds seems like a
+very good criteria for resolving ties.  
+  
+

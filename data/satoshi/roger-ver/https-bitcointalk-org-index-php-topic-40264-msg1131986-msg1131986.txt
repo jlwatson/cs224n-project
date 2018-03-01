@@ -1,0 +1,14 @@
+
+
+I recently changed the password to my wallet.  
+Now when trying to pair my iphone with my existing wallet by scanning the QR
+code, I receive the following error:  
+  
+  
+  
+When I enter the password that I am %100 sure is the correct password (I can
+login to the wallet in Safari using this password.) I still receive the same
+error.  
+I have already run the "integrity check" on the wallet as well.  
+  
+

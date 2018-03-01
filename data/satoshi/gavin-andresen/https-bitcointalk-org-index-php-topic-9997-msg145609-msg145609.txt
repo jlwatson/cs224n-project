@@ -1,0 +1,10 @@
+
+
+Released, transaction id
+fe5ee70feac0db3963d20fa746257ec18fec7379f90ca6a1ef4c1df564c6e413  
+  
+I'm still not sure why they didn't release automatically; they should have.
+Debugging the problem fully will have to wait until I am back home on my main
+development machine. If anybody else has the same problem, send me an email
+and I'll fix it ASAP.  
+

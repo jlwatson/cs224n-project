@@ -1,0 +1,9 @@
+
+
+Quote from: Calavera on April 15, 2011, 11:58:43 AM
+
+Do wallets not partition the funds into different bitcoin addresses?  
+
+  
+No, they don't.  
+

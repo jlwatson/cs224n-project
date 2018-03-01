@@ -1,0 +1,14 @@
+
+
+I was actually thinking a return address would be a good use for the
+arbitrary-message-to-receiver OP_DROP transaction type.  
+  
+Maybe make a convention that bytes be a JSON dictionary, so it could be:  
+  
+{'return_address':'n2cGZYsiii1uAiDPM6ipPBqqXa4Z9bXh2t'} OP_DROP ...etc...  
+  
+... which would be inefficient (58 bytes to encode the 20-byte return address)
+but wonderfully extensible.  
+  
+And again: I'd like to see experimentation on testnet.
+

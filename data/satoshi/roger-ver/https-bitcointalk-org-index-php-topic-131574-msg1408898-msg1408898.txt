@@ -1,0 +1,43 @@
+
+
+I'm sad to report that Bitcoinstore.com has encountered our first scammer:  
+  
+  
+  
+**************************************************  
+**************************************************  
+******Contact details removed until things cool down*****  
+**************************************************  
+**************************************************  
+**************************************************  
+  
+  
+He ordered a video card earlier this week, but insisted that we declare it as
+$0 dollars for customs.  
+Legally we are not allowed to do this, so we offered to declare the full
+amount, or refund his money.  
+  
+******* asked for a refund which was promptly sent.  
+  
+Unfortunately an extra 4.5119 was also sent to him that he is refusing to
+return. (I understand that this is partially Bitcoinstore's fault)  
+  
+The Bitcoin address and payments in question are:
+http://blockchain.info/address/1H4UR5M72Ybpo4zrqWe8JKKYSeN1gxqBcU  
+  
+He has refused to refund the money when asked via email, and when I called on
+the telephone, he hung up on me as soon as I told him my name.  
+  
+Other than the reputational enforcement from this posting, I don't know what
+else can be done.  
+  
+Any ideas?  
+  
+ _BitcoinStore customer information is normally considered private, and will
+only be divulged in cases of blatant attempted scamming._  
+ _Because this order was placed with Bitcoin, we have no idea if the above is
+his real name,  
+but we can assume that the address is valid, and I know that the telephone
+number is valid as well  
+because when I called him, he knew exactly who I was, and why I was calling._
+

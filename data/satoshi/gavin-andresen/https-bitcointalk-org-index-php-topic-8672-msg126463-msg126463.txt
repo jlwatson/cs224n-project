@@ -1,0 +1,15 @@
+
+
+Quote from: carbonpenguin on May 17, 2011, 06:36:46 PM
+
+I'd read somewhere it was vulnerable to a "man-in-the-middle" attack. Not sure
+what that means, but I figured it'd be good to be careful.  
+
+  
+To be completely sure you get all the donations you deserve, you should put
+the donation address on an http **s** :// page.  
+  
+Otherwise hackers can hijack http: pages if they can insert themselves into
+the network between you and your web visitors, and replace the donation
+address on the webpage with their bitcoin address.
+

@@ -1,0 +1,15 @@
+
+
+Quote from: theymos on November 21, 2010, 06:42:28 AM
+
+Also, I think there may be some cases where a keypool address would be thrown
+away without a generation (like if Bitcoin crashes, or maybe even when it
+shuts down).  
+
+The keypool IS used for coin-generation transactions.  
+  
+And the way it is implemented, it should never throw away keys. If I recall
+correctly, there is a very small chance if you lose power or bitcoin crashes a
+key from the keypool could be used twice. But that has no bad effects, it is
+just very unusual.
+

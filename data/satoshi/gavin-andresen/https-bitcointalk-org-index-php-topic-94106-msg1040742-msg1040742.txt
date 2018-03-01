@@ -1,0 +1,23 @@
+
+
+I am not a lawyer, but I believe the answer depends on how bitcoins are
+classified by the Securities and Exchange Commission.  
+  
+If they're a currency then insider trading rules don't apply. But last time I
+looked the legal definition of 'currency' in the U.S. was the money issued by
+a recognized government. The only insiders for a currency are the people who
+issue it (I bet there are strict rules on trading of any kind by Treasury or
+Federal Reserve employees who have inside knowledge).  
+  
+If Bitcoin gets classified as a commodity, then I'm not sure what rules apply.
+If an employee at Apple knows that the next generation iPad is going to use a
+lot of unobtanium, buys a bunch on the unobtanium exchange, then sells after
+the announcement for a profit are they guilty of insider trading? Probably...  
+  
+If Bitcoin gets classified as a security, then I'm pretty sure insider trading
+rules would apply.  
+  
+As always, if you're an employee at, oh, I dunno, Walmart and you know that
+Walmart will start accepting Bitcoin next March (I can dream, can't I?) and
+are tempted to buy a bunch of coin now I'd suggest you talk to a lawyer first.  
+

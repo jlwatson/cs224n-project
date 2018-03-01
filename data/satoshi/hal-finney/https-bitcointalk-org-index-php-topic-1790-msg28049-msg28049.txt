@@ -1,0 +1,37 @@
+
+
+  
+A few more questions about
+http://privwiki.dreamhosters.com/wiki/Bitcoin_DNS_System_Proposal  
+  
+It appears this can support several top level domains, such as .anon, .sex,
+.p2p, or whatever. Other proposals envisioned a single new TLD like .bitdns.  
+  
+Names can be changed when registered, but only from one TLD to another. You
+could change pics.sex to pics.p2p. I don't understand the motivation for this.
+It seems like something that would seldom be useful.  
+  
+I'm still confused about fees. I was assuming that fees would be paid to the
+DNS servers, for the service of acting as a gateway from the Bitcoin block
+chain to the DNS system. I now see another interpretation, where DNS servers
+don't receive the fees, but they nevertheless demand that transaction fees of
+a certain minimum level be paid to miners. As long as they see that the domain
+name was registered with a large enough transaction fee to the miner, they
+will pass it through to the DNS. Is it possible that this is what was
+intended?  
+  
+The proposal seems to envision a relatively small set of DNS servers that
+would be authorities for these new domain names and be the ones who bring the
+names from the block chain into DNS. These would be somewhat analogous to
+registrars today. (I may be misunderstanding this!) Each of these DNS servers
+publishes a schedule of fees for performing this service. To register a new
+name... hmm, I am guessing now. Would you contract with one particular DNS
+server to do something else than host your regular DNS records?  
+  
+I had thought it would be ok to expect DNS servers to follow the block chain
+and honor valid domain name transactions without requiring certain minimum
+fees. Domain names are so valuable (at least at first) that miners already
+have ample motivation to demand substantial (like $100 = 500 Bitcoins per
+transaction) fees. Eventually, if the system is successful, virtually all DNS
+servers would read the block chain.
+

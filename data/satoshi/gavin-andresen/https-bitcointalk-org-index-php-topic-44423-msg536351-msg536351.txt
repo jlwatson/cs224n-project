@@ -1,0 +1,24 @@
+
+
+Quote from: dree12 on September 20, 2011, 07:52:48 PM
+
+He never stated it's faster. And it likely isn't if the pattern is big enough:
+GPU's can't access memory nearly as well as CPUs.  
+
+GPUs suck at accessing main memory.  
+  
+But they're very, very good at accessing on-board memory. See, for example
+(from a couple of years ago)  
+http://blog.cudachess.org/2009/07/cpu-vs-cuda-gpu-memory-bandwidth/  
+
+Quote
+
+CUDA-enabled GPU offers up to 8X the speed of main memory and 4X the speed of
+L1-cache compared to a moderne CPU...  
+
+I predict it'll take... mmm... 3 weeks after source code is released for the
+first faster-on-a-GPU solidcoin 2.0 closed-source miner to come out. 8 weeks
+until there's an open-source one available.  
+  
+But my predictions are often wrong.  
+

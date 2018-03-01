@@ -1,0 +1,16 @@
+
+
+There's a built-in mechanism for ensuring that this is never a serious
+problem: the more coins that are lost, the more valuable the remaining coins
+become.  
+  
+And the more valuable something is, the more careful people are not to lose
+it. So there's a nice feedback loop that should naturally limit the number of
+coins lost.  
+  
+If Bitcoin becomes the world's stable reserve currency then one bitcoin might
+end up being worth tens of thousands of dollars and we'll all get **much**
+more serious about backing up our wallets and keeping them secure. Or, I think
+more likely, most people will use a service that they trust to keep their
+coins backed up and secure...  
+

@@ -1,0 +1,27 @@
+
+
+Quote from: genjix on November 02, 2011, 11:29:35 PM
+
+I propose 3 step phase plan:  
+  
+step 1. Protocol specifics are definitively agreed upon. No going back after
+this step. Takes as long as it has too, but ideally 1 month.  
+step 2. Implementations are all synchronised and ready with branch/patches
+ready to accept the new changes. Testing needs to be done. 1 month.  
+step 3. A date is set for the switch-over. Packages are released and all
+merchants/users/vendors/miners are given a switch-over date before the change
+becomes live. Enough time needs to be give for everybody to change over. I
+propose 2 months.  
+  
+After this and with enough testing, the OP_EVAL can be introduced into the GUI
+and such after a while. This puts the total timeframe at around under 6
+months.  
+
+  
+The beauty of OP_EVAL is it is backwards-compatible with old
+merchants/users/vendors/miners; there is no reason to require that they all
+switch over at the same time, they can continue to operate with their old
+software for as long as they like (assuming all this happens, there will be
+increasing pressure over time for them to upgrade so they can pay to
+newfangled BIP 13 bitcoin addresses).  
+

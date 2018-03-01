@@ -1,0 +1,16 @@
+
+
+PHP 5.3.3. on my mac gives:  
+
+Code:
+
+object(stdClass)#1 (1) {  
+["e"]=>  
+float(5.01)  
+}  
+
+  
+Please be specific about what platform you're running on, what version of PHP
+are you running, are you running with a standard php.ini or have you tweaked
+it, etc.
+

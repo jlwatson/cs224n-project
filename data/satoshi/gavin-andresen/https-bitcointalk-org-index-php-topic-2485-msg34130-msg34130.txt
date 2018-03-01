@@ -1,0 +1,16 @@
+
+
+I think of this as a subset of the "I want to move N bitcoins from my wallet
+to a USB stick that I'll put in my safe deposit box so it cannot be hacked",
+"bitcoins as a long-term store of value" feature:  
+https://github.com/bitcoin/bitcoin/issues#issue/2  
+  
+A solution should:  
+\+ Make accidental double-spending impossible (or at least, very hard)  
+\+ Remove the private keys from your wallet so if the wallet is stolen they
+coins are safe  
+\+ Be as close to 100% safe as possible, even if your computer gets hit by
+lightning at exactly the wrong time.  
+  
+That last one is the tricky bit.  
+

@@ -1,0 +1,8 @@
+
+
+Is Decrits meant to be a decentralized solution?  
+  
+How is the coin minting queue managed? E.g. you say "Once enough minters have
+joined the queue..." : what if there is disagreement about which miners are in
+the queue or if there are "enough"?  
+

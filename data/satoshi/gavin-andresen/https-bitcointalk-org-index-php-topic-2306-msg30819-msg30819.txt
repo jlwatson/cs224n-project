@@ -1,0 +1,11 @@
+
+
+... and I just noticed an egregious bug: listtransactions was reporting the
+receiving address instead of the account name for "receive" transactions. Fix
+is svn rev 104. Please bang on it and let me know if I screwed anything else
+up.  
+  
+While I was committing, I also added "time" to transaction info output, and
+fixed a little bug reported a while ago (setgenerate true 0 is now the same as
+setgenerate false).  
+

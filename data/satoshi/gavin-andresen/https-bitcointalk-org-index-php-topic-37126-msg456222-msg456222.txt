@@ -1,0 +1,47 @@
+
+
+RE: negative account balances:  
+  
+There is (was?) a patch proposed with an RPC call to prepare a send
+transaction, which would lock the inputs involved and return the transaction
+fee and a transaction id. And commit/reject RPC calls, which take the
+transaction id and either commit it or rejects it. That's the only really
+right way to estimate transaction fees before sending. I haven't reviewed the
+patch, and I don't think it has been thoroughly tested; there might be denial-
+of-service attacks possible or odd edge cases (e.g. could one customer who
+decides to go to lunch while the "this transaction will cost you 0.0005 BTC,
+OK/Cancel?" dialog is open tie up the entire wallet's balance, making sends
+fail for everybody?)  
+  
+There's also an estimatetxfee patch, but the problem is that between the time
+you estimate the tx fee and the time the send happens the state of the wallet
+might change, making the estimate wrong.  
+  
+The real question is why should customer A pay a transaction fee just because
+customer B funded their account with tons of tiny transactions? If customer A
+puts 1,000 bitcoins in their account and pays 0 fee, they're going to be
+pretty upset at you if you charge them to withdraw **THEIR** money from the
+account.  
+  
+For ClearCoin, I just treated transaction fees as a cost of doing business,
+and refunded customer accounts when a send resulted in a transaction fee (via
+the RPC move method from a special FEES account that I pre-funded to cover
+transaction fees).  
+  
+So sends look like:  
+sendfrom "account" <to> <amount>  
+... return txid  
+gettransaction <txid>  
+... return txinfo  
+if txinfo says a fee was paid:  
+move "FEES" "account" <amount-of-fee-paid>  
+  
+  
+RE: static addresses  
+  
+I don't follow. You mean have one address per account? You could call
+getaddressesbyaccount and the return the first address or (if empty array)
+return getaccountaddress? Or if you create an account when a user signs up for
+your service, call getaccountaddress and then you KNOW that
+getaddressesbyaccount will return at least one address.  
+

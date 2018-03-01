@@ -1,0 +1,7 @@
+
+
+The corresponding bitcoin address is 17kzeh4N8g49GFvdDzSf8PjaPfyoD1MndL.
+Here's the blockexplorer link:
+http://blockexplorer.com/address/17kzeh4N8g49GFvdDzSf8PjaPfyoD1MndL. When the
+balance goes to zero, someone's got it.
+

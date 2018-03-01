@@ -1,0 +1,4 @@
+
+
+latency of what? getblocktemplate? getbalance?  
+

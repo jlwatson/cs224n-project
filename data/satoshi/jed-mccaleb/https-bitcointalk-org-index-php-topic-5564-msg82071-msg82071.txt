@@ -1,0 +1,18 @@
+
+
+imanikin: I get your point that dark pools seem like an unfair advantage to
+bigger investors. But I would argue that the market has a very different
+reaction to when a big investor places an order than to when a small one does.
+For example, if a small investor places a bid for 50BTC above all the others
+there will probably be 0 reaction. But if a big investor places a bid for
+5000BTC above all the others the market definitely reacts. Specifically tons
+of people jump in front of his order. Probably his order is never filled since
+the price will just move above it.  
+  
+There is also the unfair fact that 1 big trader is more valuable to the market
+than 1 small one since a big trader provides more liquidity. So an exchange
+has more incentive to keep the big guys happy.  
+  
+I'm actually a bit curious what would happen if the order book wasn't shown at
+all. I suppose it would make trading less interesting.
+

@@ -1,0 +1,7 @@
+
+
+This would be a good bitcoin.stackexchange.com question.  
+  
+Do what deepceleron says... although you might want to copy JUST the two
+blk*.dat files (you don't need addr.dat or the database/ subdirectory).
+

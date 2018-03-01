@@ -1,0 +1,8 @@
+
+
+See: Average block size chart  
+  
+Since implementing the "dust rule", block size has been pretty steady; I would
+guess we won't hit the 1MB hard limit for another two years, but that is just
+a guess, we could easily hit it sooner or later than that.  
+

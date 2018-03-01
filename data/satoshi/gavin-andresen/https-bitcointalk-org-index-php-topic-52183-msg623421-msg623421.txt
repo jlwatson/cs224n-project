@@ -1,0 +1,20 @@
+
+
+Quote from: Mr. Flibble on November 18, 2011, 11:07:54 AM
+
+I accidentally sent some bitcoins to a testnet address from MtGOX.  
+
+  
+First: sounds like a bug in Mt Gox's bitcoin address validation code that they
+should fix.  
+  
+Second: Do you own the testnet wallet with that address in it? If you do, then
+it is possible to transfer the public/private keypair from your testnet wallet
+to your main wallet and recover the coins (but you'll need to use PyWallet or
+one of sipa's export/import private keys bitcoin branches).  
+  
+Because the coins are recoverable, you shouldn't expect Mt. Gox to refund the
+transaction... (otherwise everybody could create testnet versions of their
+main-net bitcoin addresses, withdraw, and then as Mt Gox to "refund" their
+"mistake")  
+

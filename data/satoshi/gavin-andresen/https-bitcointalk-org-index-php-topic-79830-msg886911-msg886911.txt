@@ -1,0 +1,12 @@
+
+
+I've been procrastinating creating a "Bitcoin Testing Project" to fund testing
+work, and I was actually thinking a few days ago that vulnerability bounties
+would fit in nicely as one of the things a Bitcoin Testing organization would
+tackle.  
+  
+I decided to stop procrastinating today; see my announcement here for a
+Bitcoin Testing Project:  
+https://bitcointalk.org/index.php?topic=80019.0  
+  
+

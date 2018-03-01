@@ -1,0 +1,6 @@
+
+
+Yes, not implemented yet. Do you want to remove them just so the listaccounts
+output isn't messy, or is the lack of a deleteaccount API call preventing you
+from doing something you need to do?  
+

@@ -1,0 +1,26 @@
+
+
+Quote from: acoindr on March 22, 2013, 07:48:37 PM
+
+I don't think they're looking at the way the underlying network works. I think
+they're talking about the infrastructure built on top of it.  
+
+  
+I think you're exactly right.  
+  
+FinCEN cares mostly about big-time money laundering and terrorist financing.
+If I was running a cash-for-bitcoins service in the US and started moving more
+than a few hundred bitcoins a month through my bank account, then I'd talk to
+a lawyer. If I was running an exchange, I would have already talked to a
+lawyer. If I was a US-based miner exchanging more than a few hundred freshly-
+made bitcoins for cash every month, then I would talk with a lawyer. If you
+hold other people's bitcoins... then I'd talk with a lawyer (even if you're
+not a money transmitter, there might be consumer protection or banking laws
+that might apply).  
+  
+Otherwise, I wouldn't worry. If I was a miner transferring my bitcoins to an
+exchange and selling them, then FinCEN won't come after me. FinCEN will get
+reports from the exchange, and that's what they really care about. The IRS
+might come after me if I don't report the income, but I think they'd charge me
+with tax evasion, not being an unlicensed money transmitter.  
+

@@ -1,0 +1,18 @@
+
+
+Backup every 30 sendtoaddress or generatenewaddress and you'll be fine-- you
+should always have at least 3 backup copies of all your keys.  
+  
+If you're running a very busy service so backing up every 30 is too often,
+then run with -keypool=1000 and backup at least every 300 sends/generates.  
+  
+I worry about bitcoin accumulating too many features and not doing any of them
+very well. I suppose it wouldn't hurt to add an option so it automatically
+creates timestamped wallet backups... but should it erase old backups? (if it
+doesn't, I KNOW people will forget to erase them and will be upset when their
+disk fills up with wallet backups and they're left to figure out how to clean
+up the resulting mess). Should it encrypt them? What should it do if an
+automatic time-stamped wallet backup fails? When encrypted wallets are
+implemented, what should happen to old backups if the wallet encryption key is
+changed?  
+

@@ -1,0 +1,14 @@
+
+
+I made a google spreadsheet with the number of transactions occurring in the
+bitcoin block chain per month, and the total value of those transactions:  
+https://spreadsheets.google.com/pub?key=0Ar4FtkFP4j73dDQyY3ZJWjdhMlBkZEtTSFJTZm9ieUE&hl=en&gid=0  
+(click on the BitcoinTransactions spreadsheet; the first is just another
+version of #produced over time)  
+  
+Looks like bitcoin is growing nicely; I'm not sure why the big spikes in July
+and October...  
+  
+I made the calculations using my bitcointools python code:  
+https://github.com/gavinandresen/bitcointools/blob/master/statistics.py  
+

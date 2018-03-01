@@ -1,0 +1,39 @@
+
+
+Quote from: Meni Rosenfeld on November 28, 2011, 08:38:31 PM
+
+Features like those I described will only be necessary years from now, though
+Gavin has implementing an open market for tx fees high on his todo list. I'm
+not sure what are his plans for this though.  
+
+  
+It is high on my list because I think most miners (and pools) would be happy
+to include many more free transactions than the current rules allow, and if
+there is another price spike or somebody rich decides it would be fun to make
+the block chain a couple of gigabytes bigger it is much easier to react if the
+fees are not hard-coded.  
+  
+The rough plan is:  
+  
+\+ Give miners more "knobs" to set fee policy-- let them specify (via command-
+line switch and maybe bitcoind RPC command) how much (if any) space to set
+aside in blocks for free transactions, how much to charge per-kilobyte and/or
+per-ECDSA-signature-validation, and what the priority/size/number-of-
+signatures thresholds are for considering a transaction for inclusion in the
+free space.  
+  
+\+ As Meni says, teach clients to look at the recent blockchain history and,
+for a given transaction, estimate how much of a fee will be required to get it
+into a block reasonably quickly. Maybe a "createtransaction" RPC call that
+locks coins for a certain amount of time and returns the how-long-to-confirm
+estimate along with "commit/aborttransaction" calls....  
+  
+\+ Figure out a reasonable UI for fees. Maybe: calculate the probability
+sending the transaction with 0 fee will get into the next, oh, 3 blocks, and
+if it is greater than, oh, 90% then just send it without a fee. Otherwise, let
+the user decide between paying a fee that will get it included (with 90%
+probability) in the next 3 blocks or letting them know how long it might take
+if they pay no fee.  
+  
+Lots of details to be worked out...  
+

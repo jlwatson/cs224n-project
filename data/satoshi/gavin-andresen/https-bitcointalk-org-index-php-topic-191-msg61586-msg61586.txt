@@ -1,0 +1,31 @@
+
+
+Quote from: Luke-Jr on March 07, 2011, 03:45:59 PM
+
+No. As long as SHA-256 is used for any blocks in the chain, the entire chain
+is compromised by a client forging a new block that can sit in-place of the
+real one in history.  
+
+  
+So lets say I can create SHA-256 collisions fairly easily, and I want to
+replace an old transaction somewhere in the block chain.  
+  
+I create an alternate version of the transaction with the same hash... and
+then? Whenever clients happen to connect to my node to get old transactions I
+feed them the bogus version?  
+  
+How do I get a majority of the network to accept the bogus version as valid,
+when the majority of the network probably already has already downloaded the
+old, valid version?  
+  
+Same question if I'm creating duplicate (old) block hashes instead of
+duplicate transaction hashes.  
+  
+  
+I suppose I could try to double-spend with two transactions that hash to the
+same value... and hope that the merchant's bitcoin accepts Transaction Version
+1 while the majority of the rest of the network accepts Transaction Version 2
+(where I pay myself). But if SHA-256 ever gets close to being broken I'm sure
+bitcoin will be upgraded so new clients only accept upgraded hashes for new
+blocks/transactions.  
+

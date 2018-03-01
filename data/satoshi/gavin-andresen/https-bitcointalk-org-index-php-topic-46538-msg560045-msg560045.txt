@@ -1,0 +1,64 @@
+
+
+In an effort to keep discussion on track, I split the discussion of Lamport
+versus Bernstein signature schemes into its own thread.  
+  
+So: can anybody think of any potential attacks that would be enabled by having
+a standard form:  
+  
+
+Code:
+
+DUP HASH160 <scripthash> EQUALVERIFY OP_EVAL
+
+... spent by providing:  
+
+Code:
+
+<signatures> <serialized script>
+
+  
+The simplest <serialized script> would be <pubkey> CHECKSIG.  
+  
+  
+Things that occur to me or were brought up in the IRC discussion:  
+  
+
+  * Denial-of-service if <serialized script> is allowed to contain OP_EVAL.  
+  
+Proposal on the table is to completely disallow recursion, which eliminates
+that threat. I'm tempted to allow limited recursion (max 2 levels deep maybe)
+because it would allow some really cool things to be done in the future....  
+
+  * Stealing coins because old miners/clients will not verify the signature hidden inside <serialized script>.  
+  
+If 50+% of the hashing power on the network support OP_EVAL, then transactions
+that pass the <scripthash> check but fail the signature check inside the
+<serialized script> would be accepted as valid by old miners and clients, but
+would fail to confirm because they would be rejected by the majority of
+miners.  
+  
+ ~~That CANNOT be used to trick exchanges or people using old software,
+because the old software will not recognize the new script form, and will
+simply ignore the transaction-- you will **not** get "0/unconfirmed" OP_EVAL
+transactions displayed in old versions of Bitcoin.~~ Wrong again! See
+casacius' excellent response.  
+
+  * Creating or modifying <serialized scripts>  
+  
+Maybe there's an attack waiting to happen because an attacker could trigger a
+buffer overflow bug by doing something like:  
+<safe serialized script> 119 OP_ADD OP_EVAL  
+But if there is a buffer overflow bug in an implementation's transaction
+script interpreter, then an attacker can almost certainly just send a "tx"
+message containing a non-OP_EVAL script that triggers the bug. OP_EVAL
+certainly does mean one more thing for an implementation to get right, but it
+isn't actually very hard to implement if you're already able to validate "tx"
+messages.  
+
+  
+Any other attacks anybody can think of? If implementations are strict in which
+transaction forms they'll accept as "valid AND mine (counts towards my wallet
+balance)", but liberal in what transaction forms they'll accept as "valid, but
+I can't spend it" then it seems to me the risks are small.  
+

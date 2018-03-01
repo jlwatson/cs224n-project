@@ -1,0 +1,43 @@
+
+
+This patch adds the following JSON-RPC commands to bitcoin/bitcoind:  
+  
+
+  *  **monitoraddress <bitcoinaddress> <url> [monitor=true]**  
+When coins are sent to <bitcoinaddress> POST JSON transaction info to <url>.  
+If <bitcoinaddress> is 'allwallet' then monitor coins sent to all of your
+addresses.  
+Pass false as third param to stop monitoring.
+
+  *  **monitorblocks <url> [monitor=true] [startblockcount=0]**  
+POST block information to <url> as blocks are added to the block chain.  
+[monitor] true will start monitoring, false will stop.  
+Pass [startblockcount] to start monitoring at/after block with given
+blockcount.
+
+  *  **listmonitored**  
+Returns list describing where blocks and transactions are being POSTed.
+
+  *  **getblock <hash|number>**  
+Returns details of the block with <hash> (hexadecimal) or <number>.
+
+  *  **gettransaction <hash>**  
+Returns details of transaction with <hash> (hexadecimal).
+
+This patch also modifies the "sendtoaddress" function so it returns the
+transaction ID on a successful send (instead of the string "sent").  
+  
+ **If you use the monitor* functionality** to POST information be sure to
+think through the security of your application. For example, if you use
+monitoraddress to get notified of customer payments you should think about
+whether or not a customer could fake a payment by POSTing bogus information to
+your web server.  
+  
+Full source code is at: http://github.com/gavinandresen/bitcoin-
+git/tree/monitorreceived  
+As always, bug reports, suggestions for improvement and feedback is welcome.  
+
+* * *
+
+ _Updated monitoraddress/getblock commands as discussed below_  
+

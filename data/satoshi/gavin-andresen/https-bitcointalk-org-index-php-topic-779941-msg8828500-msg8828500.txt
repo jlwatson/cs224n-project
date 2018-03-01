@@ -1,0 +1,9 @@
+
+
+I needed that, so hacked together a disconnectpeer RPC call:  
+https://github.com/gavinandresen/bitcoin-
+git/commit/499ae0b3d77e1c41d79f34329d555980676d1f3a  
+  
+Needs more thorough testing-- I'm not sure if calling CloseSocketDisconnect
+directly from the RPC thread is the cleanest way of disconnecting a peer.  
+

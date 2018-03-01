@@ -1,0 +1,48 @@
+
+
+Quote from: ShadowOfHarbringer on October 28, 2010, 01:08:47 PM
+
+Maybe somebody is simply messing with the network using a botnet or other
+large scale attack ?  
+I would like to hear Satoshi's opinion on what would exactly happen if (50% -
+1) nodes of the network started to revoke the same transactions
+simultaneously. I mean there would be 50% - 1 "cheaters" working together, and
+the rest would be honest nodes.  
+  
+Would the network still work properly in that case ? Or perhaps would some
+transactions be irreversably damaged ? Would the network figure out which hash
+calculations to trust and which not ?  
+
+  
+Here's what could happen if somebody controls 50% of the nodes-that-are-
+accepting-connections:  
+  
+I join the network with a node behind a firewall (so I only connect out to 8
+nodes). I have a 1-in-256 chance that all my connections are to the cheater's
+nodes.  
+  
+If I am very unlucky and all of my connections ARE to cheater nodes, then they
+can:  
+\+ refuse to relay my transactions to the rest of the network  
+\+ refuse to send me new "block created" messages  
+\+ send me only the addresses of other cheater nodes  
+  
+They could also send me a bogus version of the block chain (well, bogus back
+to the last compiled-in checkpoint), but that would be easy to detect (number
+of blocks in the chain would be different from what everybody else sees).  
+  
+They could NOT:  
+\+ modify/"damage" transactions  
+\+ hurt the vast majority of network nodes that have at least one connection
+to a non-cheater  
+  
+I'm glossing over some details and possible attacks (e.g. if the attacker can
+hijack my internet connections -- maybe I'm using a wireless network at a cafe
+-- then I'm screwed because they can just redirect all of my connections to
+cheaters).  
+  
+The bottom line is: make sure you have the right number of blocks
+(bitcoinwatch.com, for one, will tell you the block count). Don't do financial
+transactions on untrusted networks. And if your transactions don't go through
+after half an hour, restart bitcoin to connect to a new set of peers.  
+

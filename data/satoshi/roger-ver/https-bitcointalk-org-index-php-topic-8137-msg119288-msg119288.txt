@@ -1,0 +1,18 @@
+
+
+Quote from: genjix on May 13, 2011, 09:59:47 AM
+
+Not giving an exact figure here but the amount of funds on Britcoin are
+usually 100x the volume of the market.  
+  
+But it varies: there was a point where we were getting 3k volume per day and
+had 10k GBP, 10k BTC.  
+  
+Usual MtGox volume is 20k, so I'd say they likely have ~200k online.  
+
+  
+I think you are off by at least an order of magnitude, or two.  
+The recent volume on MtGox has been over $200K USD per day.  
+100x that would give an estimate of $20M USD in the market on Mt Gox.  
+(I would guess this is high, 10x = $2M USD seems more reasonable at this time)
+

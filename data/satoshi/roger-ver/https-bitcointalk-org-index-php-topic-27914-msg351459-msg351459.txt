@@ -1,0 +1,39 @@
+
+
+I can get these new ATI Firepro cards and ship the same day from Santa Clara
+CA.  
+Does anyone know if these will be any good for mining?  
+I couldn't find any information for hash rates on these,  
+Feel free to email me directly if you have any special requests.  
+  
+roger@memorydealers.com  
+  
+ATI FirePro V7800 2GB DDR5 DVI/2DisplayPort PCI-Express Video Card, Retail  
+Specifications  
+Mfr Part Number: 100-505604  
+Features  
+ATI Eyefinity Technology  
+Support ATI CrossFire Pro Technology  
+Support ATI FirePro S400 Synchronization Module  
+AutoDetect Technology  
+Full 30-bit Display Pipeline  
+Multi-View Display  
+Certification  
+Support DirectX 11.0, Full Shader Model 5.0 and OpenGL 3.2  
+OpenCL 1.0  
+GPU: ATI FirePro V7800  
+Memory: 2GB DDR5  
+Brandwidth: 128.0 GB/s  
+Shader Processing Units: 1440  
+Memory Interface: 256-bit  
+Bus: PCI-Express 2.0 x16  
+Max. Resolution: 2560x1600 @ 60Hz  
+Connectors: DVI, Dual DisplayPort  
+Thermal: Fansink  
+Support Microsoft DirectX 11, Shader Model 5.0 and OpenGL 3.2  
+System Requirements:  
+512MB of system memory  
+CD-ROM drive (or internet access) for software installation  
+Power supply w/75W for graphics  
+One 2x3 power connectors
+

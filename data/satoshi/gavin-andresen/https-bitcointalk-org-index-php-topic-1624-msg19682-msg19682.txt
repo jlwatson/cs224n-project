@@ -1,0 +1,14 @@
+
+
+Ok, looks like two problems-- if rpcallowip=* works, then maybe bitcoin thinks
+your IP is something else (or maybe there is a bug in the bitcoin rpcallowip
+code). Run this on the web server:  
+
+Code:
+
+curl http://www.whatismyip.com/automation/n09230945.asp
+
+  
+As to why the PHP code isn't working-- can you turn on error_reporting and get
+more information on what isn't working?  
+

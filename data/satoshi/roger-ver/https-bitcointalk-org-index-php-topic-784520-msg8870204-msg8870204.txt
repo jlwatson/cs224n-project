@@ -1,0 +1,16 @@
+
+
+Quote from: BTCLuke on September 18, 2014, 04:29:35 AM
+
+@Roger: You mention on the page that you eventually want BBH to be
+distributed... Have you considered talking to the OpenBazaar devs to see if
+you can get it included into that software? I've seen the beta; this thing
+could replace amazon & the Silk Road both someday.  
+
+  
+I'm very interested in and supportive of OpenBazaar.  
+I'm confident distributed hosting of some sort will be available within the
+next few years.  
+Currently I'm trying to figure out a way to make the payouts trustless using
+something like http://realitykeys.com/
+

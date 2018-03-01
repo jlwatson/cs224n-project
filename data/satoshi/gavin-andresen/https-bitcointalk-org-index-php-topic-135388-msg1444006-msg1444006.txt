@@ -1,0 +1,25 @@
+
+
+Yes, please do a proof-of-concept on testnet.  
+  
+I suspect this code in CTransaction::GetMinFee() makes the attacks either
+slower or more expensive than you estimate because fees increase for
+transactions larger than 250Kbytes:  
+  
+
+Code:
+
+// Raise the price as the block approaches full  
+if (nBlockSize != 1 && nNewBlockSize >= MAX_BLOCK_SIZE_GEN/2)  
+{  
+if (nNewBlockSize >= MAX_BLOCK_SIZE_GEN)  
+return MAX_MONEY;  
+nMinFee *= MAX_BLOCK_SIZE_GEN / (MAX_BLOCK_SIZE_GEN - nNewBlockSize);  
+}  
+
+  
+I don't think these vulnerabilities are serious enough to warrant Official CVE
+Numbers, because I think if we create CVE numbers for every expensive-to-
+mount, easy-to-recover-from DoS vulnerability we will be denial-of-service-ing
+the attention span of users, and they might start ignoring warnings.  
+

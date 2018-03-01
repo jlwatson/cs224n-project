@@ -1,0 +1,24 @@
+
+
+First: the bitcoin.org homepage links will be updated as soon as sirius has a
+chance to wake up, read his email, and make the changes.  
+  
+
+Quote from: slush on February 21, 2011, 09:43:58 PM
+
+Thank you for new release! I have two little questions:  
+  
+\- Windows build use little different skin than previous version. Is this a
+mistake or intention? Nothing which I really care about, I just noticed.  
+\- Is there a reason why "bitcoin.exe -datadir=c:\bitcoin2 -nolisten" don't
+start second client instance?  
+
+  
+A different skin for the Windows build is from upgrading the wxWidgets used to
+build (2.9.1 instead of 2.9.0).  
+  
+Did anybody test the -nolisten with the GUI bitcoin on Windows?  
+I believe there is windows-specific code for checking to see if another
+bitcoin is running that looks at window titles; file an issue at github if
+-nolisten isn't doing what you expect.  
+

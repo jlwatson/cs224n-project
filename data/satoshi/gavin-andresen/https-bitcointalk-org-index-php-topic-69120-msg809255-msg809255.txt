@@ -1,0 +1,8 @@
+
+
+Full disclosure blog post is at:  
+http://gavintech.blogspot.com/2012/03/full-disclosure-bitcoin-qt-on-
+windows.html  
+  
+Executive summary: we were compiling Windows binaries with the wrong flags.  
+

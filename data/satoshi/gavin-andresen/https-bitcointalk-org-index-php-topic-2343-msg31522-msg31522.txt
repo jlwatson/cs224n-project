@@ -1,0 +1,94 @@
+
+
+Quote from: genjix on December 18, 2010, 09:07:12 PM
+
+However is category really that necessary? Amount is already + or -. Or is
+move also in there too?  
+  
+BTW I don't see any addresses in that output you pasted.  
+
+  
+move is its own category (and may be + or -, never has a txid or fees). And
+the output I pasted is what listtransactions does right now (it doesn't report
+bitcoin addresses).  
+  
+After some private feedback, I'm now leaning towards listtransactions giving
+multiple category:send entries (with the same txid) for the multisend case.
+That matches what is done for the category:receive end. transaction fee... I
+think I'll do what is easiest to implement which is repeat it in all of them.  
+  
+So the example would look like this, with three receives and three sends:  
+  
+
+Code:
+
+{  
+"account" : "Test3",  
+"address" : "1aTest3blahblahblah9d87"  
+"category" : "receive",  
+"amount" : 3.03000000,  
+"confirmations" : 66,  
+"txid" :  
+"36c86ca499275945a3f1805d6e070ac00b2d32e5e16a4c9cf2c83b189a347d88",  
+"time" : 1292532062,  
+"comment" : "multisend, Test1 to Test2 and Test3 twice (same addr)"  
+},  
+{  
+"account" : "Test3",  
+"address" : "1aTest3blahblahblah9d87"  
+"category" : "receive",  
+"amount" : 3.00000000,  
+"confirmations" : 66,  
+"txid" :  
+"36c86ca499275945a3f1805d6e070ac00b2d32e5e16a4c9cf2c83b189a347d88",  
+"time" : 1292532062,  
+"comment" : "multisend, Test1 to Test2 and Test3 twice (same addr)"  
+},  
+{  
+"account" : "Test2",  
+"address" : "1aTest2blahblahblahQ9Qe"  
+"category" : "receive",  
+"amount" : 2.00000000,  
+"confirmations" : 66,  
+"txid" :  
+"36c86ca499275945a3f1805d6e070ac00b2d32e5e16a4c9cf2c83b189a347d88",  
+"time" : 1292532062,  
+"comment" : "multisend, Test1 to Test2 and Test3 twice (same addr)"  
+},  
+{  
+"account" : "Test1",  
+"address" : "1aTest3blahblahblah9d87"  
+"category" : "send",  
+"amount" : -3.03000000,  
+"fee" : 0.00000000,  
+"confirmations" : 66,  
+"txid" :  
+"36c86ca499275945a3f1805d6e070ac00b2d32e5e16a4c9cf2c83b189a347d88",  
+"time" : 1292532062,  
+"comment" : "multisend, Test1 to Test2 and Test3 twice (same addr)"  
+},  
+{  
+"account" : "Test1",  
+"address" : "1aTest3blahblahblah9d87"  
+"category" : "send",  
+"amount" : -3.00000000,  
+"fee" : 0.00000000,  
+"confirmations" : 66,  
+"txid" :  
+"36c86ca499275945a3f1805d6e070ac00b2d32e5e16a4c9cf2c83b189a347d88",  
+"time" : 1292532062,  
+"comment" : "multisend, Test1 to Test2 and Test3 twice (same addr)"  
+},  
+{  
+"account" : "Test1",  
+"address" : "1aTest2blahblahblahQ9Qe"  
+"category" : "send",  
+"amount" : -2.00000000,  
+"fee" : 0.00000000,  
+"confirmations" : 66,  
+"txid" :  
+"36c86ca499275945a3f1805d6e070ac00b2d32e5e16a4c9cf2c83b189a347d88",  
+"time" : 1292532062,  
+"comment" : "multisend, Test1 to Test2 and Test3 twice (same addr)"  
+},  
+

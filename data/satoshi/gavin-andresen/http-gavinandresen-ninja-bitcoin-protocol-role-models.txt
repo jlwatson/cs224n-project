@@ -1,0 +1,52 @@
+
+
+A couple of months ago, I was having Yet Another Argument with a Bitcoin Core
+contributor about the one megabyte block size limit.
+
+I had asked: "what other successful Internet protocols impose arbitrary limits
+on themselves similar to the one-megabyte limit?"
+
+His answer was "there are limits on the size of the global routing table in
+the Border Gateway Protocol (BGP) protocol."
+
+BGP is the protocol routers use to decide what to do when they get a data
+packet bound for an IP address like "111.12.1.1" - they send it to China
+(111.12.1.1 belongs to the China Mobile Communications Corporation right now).
+
+So I went and skimmed through the BGP protocol documents. Then read the
+wikipedia page on BGP. And had the opportunity to talk with Justin Newton, who
+participated in the debates on Internet scalability fifteen years ago.
+
+And found that there are _no_ protocol-level limits on the size of BGP routing
+tables. There is no place in any BGP specification I can find that says
+"Routing Tables Shall Be No More Than Eleven Gigabytes Big."
+
+BGP is interesting, because it is a completely different way of doing
+decentralized consensus than Bitcoin. Instead of proof-of-work, BGP's
+consensus is built on real-world trust relationships between people operating
+the networks that make up the Internet. That works surprisingly well most of
+the time, especially considering the stunning lack of security in the BGP
+protocol.
+
+There **are** limits on routing table sizes, but they are not top-down-
+specified-in-a-standards-document protocol limits. They are organic limits
+that arise from whatever hardware is available and from the (sometimes very
+contentious!) interaction of the engineers keeping the Internet backbone up
+and running.
+
+I haven't been able to find a widely-used Internet-scale protocol that
+arbitrarily limits itself. The closest I've found is the Simple Mail Transport
+Protocol (SMTP) which has a SIZE header that a server can use to specify the
+maximum email message size it will accept. The arbitrary limit chosen by the
+SMTP designers is 99,999,999,999,999,999,999 bytes (just under 100 exabytes).
+
+The HTTP 2.0 spec explicitly discusses denial-of-service attacks, but doesn't
+impose hard limits: "An endpoint MAY treat activity that is suspicious as a
+connection error of type ENHANCE_YOUR_CALM" (I can't help imagining the server
+as a California Surfer saying "enhance your calm, dude!)
+
+That's a well-designed spec. Trust that smart developers will fix scaling or
+denial-of-service issues as they arise- and, if for some unforeseen reason it
+turns out they can't, trust that there will be either an amendment to the spec
+or a "best practices" document to fix the problem(s).
+

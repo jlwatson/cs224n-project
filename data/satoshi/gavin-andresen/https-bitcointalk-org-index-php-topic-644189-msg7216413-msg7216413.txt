@@ -1,0 +1,11 @@
+
+
+New 'estimatefee' and 'estimatepriority' RPC commands were just pulled into
+Bitcoin Core.  
+  
+And I threw up a web page that updates estimates with every new block found:
+http://bitcoincore.org/smartfee/  
+  
+Assuming I got the crontab correct, daily fee/priority estimates will be
+archived there starting tomorrow.  
+

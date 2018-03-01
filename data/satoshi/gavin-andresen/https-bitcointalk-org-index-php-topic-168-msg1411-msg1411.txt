@@ -1,0 +1,11 @@
+
+
+It took me over a week to generate any coins, then I generated two blocks (100
+bitcoins) in just a few hours (running bitcoin on my 2GHZ dual core mac
+laptop).  
+  
+While it is fun to see bitcoins generated "out of thin air", it is much more
+important to figure out how to make them easier to buy and easier to spend.
+Since you're not a programmer/developer, I'd like to hear any ideas you have
+on how to make bitcoin less geeky and more user-friendly.  
+

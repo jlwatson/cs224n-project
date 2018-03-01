@@ -1,0 +1,21 @@
+
+
+No issues with export wallets/private keys. I share gmaxwell's concerns about
+making it easy to shoot yourself in the foot, but most of us are grown-ups and
+if you're talking using the RPC interface there are already plenty of ways to
+shoot your feet.  
+  
+Remove private key I had issues with, because if you're using the 'accounts'
+feature then removing keypairs from a wallet (and their associated
+transactions) does unpredictable things to account balances. At the very
+least, I think it should tell you what effects it had. Maybe a JSON result
+that tells you how account balances changed, e.g. { "" : 1, "John's Wallet" :
+6.2, etc.}. That way, if it had an unexpected effects you would know to
+restore the wallet from backup.  
+  
+And it seems like 'sweep private key' and 'merge wallets' is really the
+functionality most people want, not import private key/wallet keys. The only
+issue I have with them is they are slow because of the rescanning of the block
+chain, and they may not work or may not be secure if you don't happen to have
+the whole block chain downloaded.  
+

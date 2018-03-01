@@ -1,0 +1,9 @@
+
+
+I just got stuck-- looks like somebody is serving up the testnet2 blockchain
+to testnet3 nodes that connect to them (that's what is causing the 'nBits
+below minimum work' message).  
+  
+Re-running to connect to a real testnet3 node is getting me the correct
+blockchain (with 6,905 blocks).  
+

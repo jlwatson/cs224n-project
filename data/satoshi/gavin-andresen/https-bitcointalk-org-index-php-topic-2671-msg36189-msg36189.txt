@@ -1,0 +1,43 @@
+
+
+https://github.com/bitcoin/bitcoin/pull/24  
+This adds a new field to the output of gettransaction <txid> : "details"  
+  
+It is an array of objects containing account/address/category/amount (and
+maybe fee). For most transactions to or from your wallet, it will contain just
+one object, but for sends from one account to another it will contain multiple
+objects.  
+  
+Example output:  
+  
+
+Code:
+
+{  
+"amount" : 0.00000000,  
+"fee" : 0.00000000,  
+"confirmations" : 609,  
+"txid" : "b593920033b905c0e7c1d82d5b3e15a114841fa916719e968add3212e07c73a0",  
+"time" : 1294342907,  
+"details" : [  
+{  
+"account" : "Test2",  
+"address" : "mtQArCTnZHGsPf89jus6khxriYsJbU673P",  
+"category" : "send",  
+"amount" : -11.00000000,  
+"fee" : 0.00000000  
+},  
+{  
+"account" : "Test1",  
+"address" : "mtQArCTnZHGsPf89jus6khxriYsJbU673P",  
+"category" : "receive",  
+"amount" : 11.00000000  
+}  
+]  
+}  
+
+  
+I'm not sure "details" is the right name for this information; if you have a
+better suggestion, speak up.  
+  
+

@@ -1,0 +1,9 @@
+
+
+Answering my own questions: Project using CMake  
+  
+I looked at 'weechat'; they're migrating from gnu autotools to cmake (still
+support both, but recommend cmake).  
+  
+So another +1 for cmake.
+

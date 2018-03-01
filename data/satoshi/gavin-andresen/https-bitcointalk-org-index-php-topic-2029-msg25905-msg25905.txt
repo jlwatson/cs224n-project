@@ -1,0 +1,59 @@
+
+
+I wrote this three years ago, and I'd still like to see something like it
+implemented. Now we've got Bitcoin, implementing it might be much easier; I'd
+love to see a bitcoin bbs/forum that uses these ideas to reward thoughtful,
+high-quality discussion (replace "email list" everywhere below with
+"discussion forum" and I think it all still works):  
+  
+
+* * *
+
+I was listening to "The Ethics of Liberty" yesterday, and it got me thinking
+about email lists.  
+  
+Most email discussion lists seem to suffer from a Tragedy of the Commons--
+there's not a whole lot of motivation for people posting their opinions to
+think twice about spouting off, or going on and on and on, or otherwise
+polluting the list with stuff that the subscribers to the list might consider
+junk.  
+  
+There are a couple of solutions to these kinds of problems. You can try to set
+up some kind of policing system, with trusted moderators given the power to
+bless posts, ban people, etc. You need really thick-skinned, generous-hearted,
+even-tempered moderators for that to work.  
+  
+A solution that works in the real world that hasn't been tried for the email
+mailing list problem (as far as I know) is some kind of economic system, where
+the common resource is given a value and anybody wanting to use the resource
+must pay rent (which is then used to maintain the resource).  
+  
+So, here's a thumbnail sketch of how this might work for an email mailing
+list:  
+  
+Create an artificial currency. If you have enough of this currency, you're
+allowed to post messages to the list. Longer posts cost more than shorter
+posts.  
+  
+Everybody starts with some amount of this currency. Everybody is allowed to
+use it themselves, give it away, or sell it (for real money!) to people who
+want to use it to post messages.  
+  
+Every message posted includes ways of:  
+\- Tagging the message as "Worthwhile" --> transfers currency from your
+account to the poster's account.  
+\- Tagging the message as "Waste of my Time" --> transfers currency from
+poster's account to the common pool of currency.  
+  
+The amount of currency in the system is tied to the desired message traffic.
+We all have a limited attention span; basically, the trick will be to create
+an artificial economy so that the people who contribute positively are
+encouraged to contribute more, and people who "pollute" are punished.  
+  
+Currency goes into the system every day (again, based on desired message
+traffic per day). Some is assigned to new people signing up for the list, and
+the rest evenly distributed to everybody already on the list.  
+  
+"Lurkers" on the list could either hoard their currency, offer to sell it, or
+give it away to people from whom they want to hear more.
+

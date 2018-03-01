@@ -1,0 +1,14 @@
+
+
+A couple of minor clarifications:  
+  
+There has always been an artificial block size limit; Satoshi's code
+exponentially increased required transaction fees required to get into a block
+as the block filled up from 250K to an absolute-maximum 500K. There are almost
+certainly still miners running with that algorithm; their effective maximum
+block size is a little more than 250K.  
+  
+Also, solo/p2p miners and pool operators running a recent version of bitcoind
+can very easily change the maximum block size; it is a command-line /
+bitcoin.conf setting. They don't need to use different software.
+

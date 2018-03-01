@@ -1,0 +1,42 @@
+
+
+In another thread, [mike] wrote:  
+  
+
+Quote from: [mike] on February 07, 2011, 12:10:44 PM
+
+I don't know of any algorithms that will make ECDSA much faster using GPUs.
+The best bet for speeding this up (assuming we care) is to exploit the special
+properties of the secp256k1 curve:  
+  
+http://portal.acm.org/citation.cfm?id=1514739  
+  
+http://www.hyperelliptic.org/tanja/KoblitzC.html  
+
+  
+I'm trying to inplement the secp256k1 shortcut. Should have results shortly.
+Unfortunately I only expect about 20% speedup. We'll see.  
+  
+I'm also looking at batch signature verification:  
+  
+http://cseweb.ucsd.edu/~mihir/papers/batch.pdf  
+  
+http://www.math.snu.ac.kr/~jhcheon/publications/2007/BatchVer_PKC2007_CL.pdf  
+  
+This can theoretically speed up verification by almost a factor of 4 (table 6
+in 2nd paper) if you have a lot of signatures in a batch. It requires a slight
+change in the ECDSA signature format: (r, s) is replaced by (R, s), where R is
+the EC point of which r is the x coordinate. This change could be applied
+retroactively, as R is calculated and discarded every time the sig is
+verified.  
+  
+We do tend to have sigs in batches, namely blocks; sometimes several dozen or
+even hundreds, and this will grow. Batch verification returns true iff all
+sigs are valid. A good block should never have invalid signatures so it makes
+sense to batch the verify.  
+  
+I need to research some security aspects, namely: does R need to be checked to
+see if it's on the curve (ie y^2 = x^3 + 7)? And what is an appropriate
+security parameter for the probability the batch verify test could be fooled?
+The papers talk about 2^80 but that seems too conservative.
+

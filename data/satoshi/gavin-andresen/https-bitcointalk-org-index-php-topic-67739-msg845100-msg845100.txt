@@ -1,0 +1,63 @@
+
+
+Quote from: etotheipi on April 10, 2012, 04:49:54 PM
+
+The issue, of course, is that it's not really feasible to have regular users
+contacting miners to help them replace tx like this (in the event that the
+seller broadcasts the 31-day tx right away, hoping the buyer can't figure out
+how to replace it). Also, I didn't like the idea that anyone would be able to
+bribe a miner to replace their 0-confirmation tx. But that's a whole 'nother
+story...  
+
+In the long run, I think we have to assume that miners will do what is most
+profitable, and design escrow/payment protocols around that assumption.  
+  
+Replacing non-final transactions in the memory pool potentially opens up a
+whole bucket of worms, but I think the short-term challenge is to figure out
+if we should change the rules we have now. If we do (I think we should), then
+I think it would be a mistake to do anything other than "create rules that
+will maximize miner profits." Because if we do something else, then sooner or
+later I believe there **will** be a "miners special" version of the code that
+has miner-friendly rules.  
+  
+
+* * *
+
+If you agree with me that the default rules in the client should maximize
+miners' profits, then it seems to me there's one simple rule change we should
+make:  
+  
+If you've got two otherwise equivalent transactions that spend the same
+input(s), keep the one with the most fees.  
+  
+Right now, the rule is "keep the first one you see."  
+  
+The bag of worms comes into play if you've got two transactions that spend the
+same input(s) that, for example, look like this:  
+  
+Transaction 1: final transaction (can go into a block RIGHT NOW) that has a
+fee of 0.005 BTC  
+Transaction 2: transaction that won't be final for 3 days that has a fee of
+0.1 BTC  
+  
+Should a miner put Transaction 1 into the block they're mining and take the
+smaller fee now, or not include it, hoping that nobody else mines Transaction
+1 in the next 3 days so maybe they can mine Transaction 2 and get the bigger
+fee?  
+  
+I'm not an expert in game theory, but I believe the winning strategy in the
+above situation, assuming everybody knows about both transactions, is to mine
+Transaction 1 right away (any economists reading who know a lot more about
+game theory than I do?).  
+  
+That suggests the rules for transactions that spend the same inputs aught to
+be:  
+  
+1\. If you have two free transactions, keep the first one you see.  
+2\. If you have a free and a fee-paying transaction, always keep the fee-
+paying one.  
+3\. If you have two final, fee-paying transactions, keep/mine/relay the one
+with the higher fee.  
+4\. If one or both of the transactions is non-final, keep/relay the one that
+will become final first.  
+

@@ -1,0 +1,14 @@
+
+
+Quote from: Luke-Jr on January 27, 2012, 02:09:00 AM
+
+There is no OP_P2SH. BIP 12, 16, and 17 are all competing standards for P2SH.
+BIP 17 is the most sane, and BIP 16 the least.  
+
+  
+<begin troll>  
+  
+No it is not! BIP 17 is bad for the network and will give you herpes!  
+  
+<end troll>  
+

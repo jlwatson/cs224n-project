@@ -1,0 +1,5 @@
+
+
+That's where it is. Maybe you were looking at another Library folder? Start
+with your home directory and open Library from there.
+

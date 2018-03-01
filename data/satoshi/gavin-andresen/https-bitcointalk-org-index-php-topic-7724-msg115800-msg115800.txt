@@ -1,0 +1,20 @@
+
+
+Quote from: doood on May 10, 2011, 09:15:28 PM
+
+It's an extra point of attack on those coins if someone else also holds a
+copy, and you have to trust bitbills.com just a little bit more.  
+Some would prefer to think that they hold the ONLY copy with no backup.  
+
+  
+So whenever you meet (or communicate with) somebody who owns bitbills check
+your bills' public address against their bills' public address. If there is
+significant counterfeiting going on, eventually you'll find a match. Try to
+redeem both and you'll quickly find out which is real and which is counterfeit
+(or that both are counterfeit).  
+  
+I was going to suggest creating a public Google Documents doc where people
+could enter their bitbill public keys, but griefers could just look at the
+block chain and pretend that they were holding bitbills that they don't
+actually own.  
+

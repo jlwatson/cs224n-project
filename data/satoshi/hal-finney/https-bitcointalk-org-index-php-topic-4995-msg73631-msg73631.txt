@@ -1,0 +1,5 @@
+
+
+Why did you put paytxfee=0.00 in your bitcoin.conf? Is it possible you had
+another value in the past?
+

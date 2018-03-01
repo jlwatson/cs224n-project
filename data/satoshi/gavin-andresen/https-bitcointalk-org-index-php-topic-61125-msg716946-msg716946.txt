@@ -1,0 +1,32 @@
+
+
+Quote from: westkybitcoins on January 27, 2012, 04:57:10 PM
+
+I'm curious to know how thoroughly these proposals have been tested. That
+might go a long way toward swaying opinion. I would imagine having a public
+alt-coin for the sole purpose of implementing one proposal or the other and
+seeing how easy it is to break could be a great proving ground.  
+
+Testing is actually one of the reasons I don't like BIP 17; it is harder to
+test, because it is much easier to steal BIP-17 transactions if the network
+hasn't yet upgraded (Luke has had to test BIP 17 on the main network instead
+of testnet because I wrote a BIP-17-stealing robot and ran it on testnet).  
+  
+I've spent the last couple of days running "transaction fuzzing" tests against
+both the new BIP 16 code and old clients; so far it has turned up no problems.
+"Fuzzing" means throwing lots and lots of random inputs at a program and
+making sure it deals with them properly; it is another good way of finding the
+"what do you know, we didn't think of that..." bugs.  
+  
+The fuzzing tool is here:  
+https://github.com/gavinandresen/bitcoin-git/tree/fuzzer  
+  
+Also RE: ghastly exploits:  
+  
+Satoshi himself made changes to the way the scripting language works after a
+series of 'ghastly exploits' were discovered back in 2010 after the first
+slashdotting. I'm so stubbornly against BIP 17 because it basically reverts
+one of the changes he made (separating execution of scriptSig and
+scriptPubKey-- take that discussion to another thread in Dev&Tech if you want
+to argue more about it, please).  
+

@@ -1,0 +1,18 @@
+
+
+Quote from: Strider Hiryu on August 25, 2012, 08:20:48 PM
+
+Isn't the implication here that you could destabilize a site by spamming them
+with low value transactions? And increase their transaction fees when
+SelectCoins randomly picks up the low value inputs.  
+
+The attacker will pay transaction fees to send those spammy inputs, and that
+has been a large enough disincentive that it hasn't happened.  
+  
+That said, SelectCoins aught to be improved; ideally, it should never include
+an input if the fee for adding that input is greater than that input's value.  
+  
+Or maybe it should just ignore inputs below the 'spam transaction' threshold
+for now, as being more trouble than they're worth.  
+  
+

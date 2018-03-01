@@ -1,0 +1,32 @@
+
+
+I gathered data on transaction first-confirmation times this weekend:  
+  
+https://docs.google.com/open?id=0B74FtkFP4j73TXZUY05kSFVzN00  
+  
+Each line in the file (except the first one) represents one transaction. Each
+column is:  
+  
+Number of seconds the transaction spent in the memory pool.  
+  
+Size, in bytes, of the transaction.  
+  
+Fees attached to the transaction (in satoshis).  
+  
+Priority (floating-point number) of the transaction when it first entered the
+memory pool. Priority 0.0 transactions have inputs that aren't yet confirmed.  
+  
+Last column is "1" if the transaction exited the memory pool normally, by
+being included in the a block, or "0" if the transaction was still in the
+memory pool when I shut down bitcoind.  
+  
+\--------------  
+  
+I haven't really analyzed it yet (feel free to help if you're a data geek); I
+plan on testing some algorithms for suggesting a reasonable fee if you want
+your transaction to get confirmed quickly, and suggesting an estimate of how
+long you'll have to wait if you don't attach any fee at all.  
+  
+But it look like 35% of transactions this past weekend got into a block within
+10 minutes, and 87% got into a block within one hour.  
+

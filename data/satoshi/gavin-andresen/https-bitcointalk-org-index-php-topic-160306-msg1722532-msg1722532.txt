@@ -1,0 +1,35 @@
+
+
+Here's the thumbnail sketch on the code that I think needs to be written to
+handle fees properly:  
+  
+1). Memory-limit the memory pool-- the set of transactions waiting in memory
+eligible to be included in a block. Matt Corallo has been working on that. The
+limit should be a small multiple of the median block size of the last few
+hundred blocks.  
+  
+2) Use the same algorithm/parameters/etc for adding transactions to the memory
+pool that we use to fill blocks.  
+  
+3) Only relay transactions that fit into your memory pool. This is the DoS
+prevention, your transaction won't get relayed if your node doesn't think it
+will end up in a block soon.  
+  
+4) Estimate minimum transaction fee / priority needed to get into a block,
+based one:  
+a) At startup: the transactions in the last few blocks  
+b) If you've been running long enough to "warm up" your memory pool:
+transactions in the memory pool  
+  
+5) Expose the estimate in the GUI's "suggested transaction fee" dialog.  
+  
+All of that will give a floating fee that will change based on how many
+transactions, at what priorities/fees, are currently waiting to get into
+blocks.  
+  
+There is one more change I'd like to make that is independent; re-define
+"dust" based on the floating transaction fee (e.g. a dust output is any output
+with a value of less than 1/4 the minimum fee-per-kb required to get into one
+of the next 6 blocks). And make any transactions with dust outputs non-
+standard, so they're not included in the memory pool or relayed.
+

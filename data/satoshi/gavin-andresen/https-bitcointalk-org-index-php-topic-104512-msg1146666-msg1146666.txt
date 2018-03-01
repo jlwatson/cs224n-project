@@ -1,0 +1,13 @@
+
+
+mmm, no.  
+  
+To be valid JSON, arg[1] must be:  
+
+Code:
+
+[{"txid":"eb63d5d53cd906b5cf75a014e1bcf1c0198ae58d378d45dbfa15045ac89a38ac","vout":0}]  
+
+  
+WTF is Windows doing with the arguments?
+

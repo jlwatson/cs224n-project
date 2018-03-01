@@ -1,0 +1,31 @@
+
+
+Quote from: caveden on March 01, 2011, 05:41:57 PM
+
+By the way, an important question: if I generate a 500KB block with only free
+transactions in it, it will be accepted by the network, right?  
+Or this current "default fee policy" is not just for the default client, but
+for the protocol as a whole?  
+
+  
+You can generate a 1MB block with only free transactions in it and it will get
+accepted (maximum block size is 1MB, although the standard bitcoin client will
+never generate blocks larger than 500K).  
+  
+
+Quote from: Syke
+
+That sounds like the pool needs to do it differently, not the network. If this
+is a pool payout to 500 people in a single transaction, then the pool needs to
+break it down into smaller transactions. I sent a few regular transactions
+yesterday and they were immediately included in solved blocks.  
+
+  
+The problem isn't the pool payout-- the problem is that people participating
+in the pool end up with wallets full of tiny (e.g. penny-size) transactions.
+When they go to spend those tiny transactions, they're bundled up together to
+make a transaction that is small in value but large in size.  
+  
+Pools can mitigate the problem by requiring larger minimum payouts (e.g. 1 BTC
+instead of 0.01 BTC).  
+

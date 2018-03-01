@@ -1,0 +1,7 @@
+
+
+You're missing a blank line between the HTML headers and the HTML body--
+PostBin and Bitcoin both think you're sending an empty request.  
+  
+I dunno enough about JayRock to suggest how to fix that...  
+

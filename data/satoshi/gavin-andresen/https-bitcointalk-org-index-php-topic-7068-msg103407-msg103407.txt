@@ -1,0 +1,24 @@
+
+
+I launched a new version of the Bitcoin Faucet today, with a few changes:  
+  
+1\. Payout is now 0.02 bitcoins (down from 0.05), to reflect the rise in value
+of bitcoins versus other currencies.  
+  
+2\. Recent Sends page, showing scrambled email addresses and (not scrambled)
+IP addresses of the last 100 people to get coins from the Faucet.  
+  
+3\. Behind the scenes, faucet payouts are bundled up and sent in batches every
+N minutes, to minimize the fees that the Faucet pays.  
+  
+I want to recruit some trusted volunteers to be "Faucet Police" -- if somebody
+notices a fishy pattern of either IP addresses or email addresses, I'll give
+the Faucet Police the ability to temporarily stop the flow of coins from the
+Faucet.  
+  
+If you're willing to help out and you've got a good reputation/history here on
+the forums, email me (gavinandresen@gmail.com) your google account information
+along with what time zone you're usually in, and I'll try to pick a couple
+handfuls of people so no matter what time of day or night, somebody will be
+awake and ready to turn off the spigot.  
+

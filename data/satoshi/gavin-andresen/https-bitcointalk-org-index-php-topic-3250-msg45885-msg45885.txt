@@ -1,0 +1,7 @@
+
+
+-rescan will be in 0.3.20.  
+  
+It takes about a minute right now on my machine (but that will get longer and
+longer as there are more and more transactions in the block chain).  
+

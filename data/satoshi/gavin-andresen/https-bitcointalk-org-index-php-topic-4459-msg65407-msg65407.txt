@@ -1,0 +1,23 @@
+
+
+So I got email today from a merchant asking the most-frequently-asked
+question: if I just put a bitcoin address on my "pay me" page, how do I know
+who paid me?  
+  
+Which got me to wondering... can we do better than answer "run a bitcoin
+daemon and ask it for a new address for every order" or "use a shopping cart
+interface from your online wallet provider" ?  
+  
+Ideally, the web software could generate a payment URI without talking to
+bitcoind, and copying/pasting or clicking on the URI would generate a
+transaction tagged with the right order ID.  
+  
+Adding another transaction type that allows (say) an extra, arbitrary 512
+bytes of data mostly solves the problem; the web software could encrypt or
+hash the order ID and generate a transaction that is the store's public
+bitcoin address and the encrypted/hashed order ID (or customer number or
+whatever).  
+  
+Can we do better? It would be nice if it was impossible to tell how many
+orders the merchant was getting...  
+

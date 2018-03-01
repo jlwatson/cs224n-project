@@ -1,0 +1,21 @@
+
+
+Lots of good ideas here!  
+  
+I like Gavin's idea to display full precision in the UI and allow it on
+payments.  
+  
+I like ribuck's terminology: 100 bitcents in a bitcoin, 1000 millicents in a
+bitcent, 1000 microcents in a Millicent.  
+  
+I like [mike]'s suggestion to allow miners to store information relating to
+costs and policies, and to adapt network behavior from that information. I'd
+suggest using it specifically to normalize the "anti-spam" limits: the 0.01
+minimums for large-transaction fees and for free transactions. Clearly Bitcoin
+needs a way to adjust these values, and Mike's proposal seems like a good
+candidate.  
+  
+I also wonder if the anti-spam rule shouldn't be changed, to trigger if the
+largest output is tiny, rather than for any output. In Gavin's example,
+outputs of 1.5 and 0.000001 change seem ok to me.
+

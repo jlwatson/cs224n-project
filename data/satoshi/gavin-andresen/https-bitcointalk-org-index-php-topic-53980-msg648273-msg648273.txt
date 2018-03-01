@@ -1,0 +1,12 @@
+
+
+Quote from: pc on December 12, 2011, 05:11:30 PM
+
+If all you're trying to do is have users sign off on which they think is the
+"most correct" blockchain, I think it'd be easier to just have accounts
+signing hashes of blocks they think are correct, and distributing those hashes
+separately, rather than trying to embed them in the blockchain somehow.  
+
+  
++1  
+

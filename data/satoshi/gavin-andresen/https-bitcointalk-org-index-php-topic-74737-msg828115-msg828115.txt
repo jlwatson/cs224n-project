@@ -1,0 +1,22 @@
+
+
+Quote from: Daily Anarchist on March 30, 2012, 05:31:29 PM
+
+When will the Ubuntu Package be updated?  
+
+When the maintainer (Matt) has a little time.  
+
+Quote from: rjk on March 30, 2012, 05:20:06 PM
+
+The signmessage feature is nice - but is there a way to verify the message
+within the GUI?  
+
+No, not yet. Anybody know if there's a web page that will do the verification?
+(would be easy to create one...)  
+
+Quote from: bitlotto on March 30, 2012, 09:31:43 PM
+
+Does the software use https://en.bitcoin.it/wiki/BIP_0021 as the QR format?  
+
+Yes.  
+

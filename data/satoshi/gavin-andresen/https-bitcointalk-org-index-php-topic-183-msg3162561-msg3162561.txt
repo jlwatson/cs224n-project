@@ -1,0 +1,11 @@
+
+
+No, I don't have time to clean up the code, port it to the latest AppEngine
+API, etc.  
+  
+The Faucet was the simplest possible project I could think of to get my feet
+wet with Bitcoin; the hard part is preventing cheaters who try to get more
+than their fair share, and I was never able to come up with a really good
+solution (that is tied into the whole identity-on-the-Internet thing, which
+**nobody** has solved).
+

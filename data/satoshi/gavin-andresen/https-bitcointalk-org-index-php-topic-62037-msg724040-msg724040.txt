@@ -1,0 +1,20 @@
+
+
+Thanks to midnightmagic who directed me to this very helpful video about
+identifying and then dealing with "poisonous people" in open source software
+projects:  
+http://youtu.be/ZSFDm3UYkeE  
+  
+Advice on disinfecting:  
+http://youtu.be/ZSFDm3UYkeE?t=34m22s  
+  
+Watch the whole thing for examples of "poisonous person" behavior, like
+repeatedly flooding mailing lists/forums with their opinion or comments, not
+listening to the opinion of others, or making sweeping "the world will end
+if..." statements about the project.  
+  
+I'll be blunt: I think Luke Dashjr fits the definition of a poisonous person,
+and I think Bitcoin would be better without him. At the very least, we
+wouldn't be creating two BIPs for every technical issue, one for Luke and one
+for the rest of us (see BIP 16/17, and now we have BIP 20/21, too).  
+

@@ -1,0 +1,28 @@
+
+
+Quote from: cypherdoc on December 17, 2011, 06:20:37 PM
+
+i hadn't backed up my wallet for a while and just noticed that there is now a
+wallet.dat and a wallet.dat.rewrite in my Bitcoin folder. which is the real
+private key wallet that needs to be backed up?  
+
+  
+wallet.dat  
+  
+wallet.dat.rewrite SHOULD be automatically removed as part of the upgrade-
+to-0.5 process; I don't know why it isn't in some cases-- and, frankly, I
+would much rather spend time getting really, truly secure wallet solutions
+working.  
+  
+RE: bitcoin version 0.4 starting up on your machine:  
+  
+You should run the old bitcoin, un-check the "start on windows system
+startup", then exit.  
+Then remove it using the Add/Remove Programs control panel doo-hickey (did
+that move again in Vista?). You should see both "bitcoin" (the old 0.4) and
+"bitcoin-qt" (the new 0.5).  
+  
+... all of which is, I know, annoying and painful. Again, frankly, I'm more
+interested in spending time on the very-highest-priority issues rather than
+making every beta release upgrade completely smooth in all cases.  
+

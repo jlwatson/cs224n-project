@@ -1,0 +1,16 @@
+
+
+The windows setup.exe is signed, as is the Mac .app bundle. The executables
+inside them are not signed (I can't think of a good reason to sign them, it
+would not increase download security at all).  
+  
+You can also still check the download packages using the SHASUMS.asc file,
+which is signed with my gpg key.  
+  
+And if you are running Linux or Windows you could check all of the files in
+the installer against other core developer's keys.  
+  
+If the code signing certificate was revoked then we would go back to just
+using gpg keys. The code signing certificate is great because Windows and OSX
+know how to check it automatically when the download happens.
+

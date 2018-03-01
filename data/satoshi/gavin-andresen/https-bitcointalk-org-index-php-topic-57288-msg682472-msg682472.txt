@@ -1,0 +1,21 @@
+
+
+Quote from: SAC on January 09, 2012, 01:42:08 PM
+
+So enquiring minds want to know (especially mine) are any of the leaders, hell
+even the followers of the bitcoin project going to stand up for the freedom
+and openness this project claims to support.  
+
+What do I personally think? I think it was mean, and luke-jr shouldn't have
+done it.  
+  
+But if your system has a requirement "everybody will play nice" then your
+system is broken. You have to assume that people will try to break what you
+build (and also have to assume that nobody is perfect so you'll have to have a
+way of fixing your system when you find out it is broken).  
+  
+So my heart feels sorry for CoiledCoin; my head thinks it is possible Luke-Jr
+did all the altchains a favor by demonstrating a problem that needs to be
+solved. And I'll re-iterate what I say in my "Be Safe" post: only invest money
+or time in altcoins (or Bitcoin, for that matter) that you can afford to lose.  
+

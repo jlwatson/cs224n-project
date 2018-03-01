@@ -1,0 +1,11 @@
+
+
+I think this is a terrible idea.  
+  
+If it was "higher fee with superset of outputs of first spend" then that'd be
+fine.  
+  
+Zero-confirmation transactions will never be safe because of potential Finney
+attacks. But we don't need (and, in my opinion, shouldn't) make them less safe
+by encouraging anti-social behavior via default mining policy.  
+

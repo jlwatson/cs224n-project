@@ -1,0 +1,9 @@
+
+
+Would there be interest in a network based on a GPU-resistant problem, instead
+of SHA-256? Then everyone could be a miner again.  
+  
+(I know what you're thinking: like what problem, exactly? Well I don't know
+GPU architecture, but I imagine such problems exist. Maybe some of the memory
+based problems in http://en.m.wikipedia.org/wiki/Proof-of-work_system)
+

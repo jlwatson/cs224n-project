@@ -1,0 +1,29 @@
+
+
+So the plan is for the next release of bitcoin to switch from the wxWidgets
+GUI we have now to the vastly nicer QT GUI that John Smith created.  
+  
+I spent some time yesterday compiling Qt and bitcoin-qt, and some time this
+morning doing a very quick code review (executive summary: looks great!).  
+  
+I'm mostly posting this as a brain dump of "stuff not to forget" when it is
+time to pull QT and remove WX.  
+  
+Major behavioral differences I noticed during code review:  
+  
+
+  * Does not generate new receiving addresses automatically (good idea, I think, but may be controversial).
+  * Cannot act as a rpc client (ok with me, we'll still compile/ship a headless bitcoind)
+
+  
+Will-need-to-be-done stuff:  
+  
+
+  * Find and replace or remove references to wxwidgets in documentation, makefiles, etc.
+  * Change makefiles to track rpc.cpp --> bitcoinrpc.cpp name changes
+  * The QT library is LGPGL licensed; do we need to change READMEs or other files?
+
+  
+... and probably a bunch of other little things I didn't notice or I forgot to
+write down.  
+

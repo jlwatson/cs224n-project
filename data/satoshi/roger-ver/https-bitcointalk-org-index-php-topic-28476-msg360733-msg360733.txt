@@ -1,0 +1,24 @@
+
+
+@ Codemojo,  
+  
+Thanks for getting it up so quick!  
+http://leetcoin.appspot.com/merch/  
+  
+Can we add a bit better instructions for the input page?  
+I want to make it easy enough for my mother to use.  
+  
+I imagine that the text could read:  
+  
+ _This website will easily allow anyone to accept bitcoins at their store.  
+  
+All you need to do is:  
+1\. Upload your company logo and text. (optional)  
+2\. Enter the Bitcoin address that you would like to RECEIVE payments to.  
+3\. Print the resulting form, and display it prominently in your checkout
+area.  
+_  
+  
+  
+If anyone else has additional ideas or comments, please let us know!
+

@@ -1,0 +1,14 @@
+
+
+With the current transaction fee rules, inputs of less than about 0.00005 BTC
+will cost more to spend than they are worth.  
+  
+(somebody check my arithmetic, I'm good at dropping digits: MIN_TX_FEE is
+0.0005 BTC per kilobyte, an extra input is a signature+pubkey+a few extra
+bytes = 100 bytes, so minimum fee per input is about 0.00005 BTC)  
+  
+Wallet software should probably display micro-inputs as zero to the user (they
+really are worthless right now, since they cost more to spend than they are
+worth) and ignore them when computing the wallet balance or getting inputs to
+spend.  
+

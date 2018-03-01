@@ -1,0 +1,5 @@
+
+
+Is anyone else having trouble getting http://bitcoin.clarkmoody.com/ to stream
+data like normal?
+

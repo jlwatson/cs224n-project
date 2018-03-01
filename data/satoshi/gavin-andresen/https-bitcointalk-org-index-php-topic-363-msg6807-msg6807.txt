@@ -1,0 +1,6 @@
+
+
+Can you be more specific about where your build fails? Is it in the new code
+to support the -port / -rpcport options (which I should have put on a
+different git branch) ?  
+

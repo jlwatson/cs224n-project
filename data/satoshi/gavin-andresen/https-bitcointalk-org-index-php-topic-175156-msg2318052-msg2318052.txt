@@ -1,0 +1,35 @@
+
+
+I've started and then stopped writing about Zerocoin three or four times now;
+my thoughts about it are still muddled.  
+  
+It adds a whole lot of complexity to transaction creation/verification to
+solve one problem: how to mix coins/transactions with zero trust in the mixing
+process. That's technically nifty, but I wonder if it is the best engineering
+solution.  
+  
+I wonder if just using a couple of semi-trusted mixers would be a lot
+faster/smaller/simpler.  
+  
+And then I start thinking about "tainted coins" in general. If we imagine a
+world with either mandatory or voluntary "taint tracking" (I have no idea
+whether or not that will ever happen), then it seems to me any mixing scheme
+that isn't "always on" is likely to fail in practice-- all coins coming out of
+the mix will be considered tainted.  
+  
+Why? I assume that most users (if you are reading this are **NOT** "most
+users") don't care much about privacy/anonymity. So I would assume most people
+would choose the lowest cost, fastest, most convenient method for their
+transactions. Anybody using a mixer will be either a weirdo, principled
+privacy nut (like us) or a criminal. I don't see other "privacy first"
+projects taking over the world, but do see lots of big, successful "quick and
+easy and free" projects.  
+  
+Then my thoughts get muddled, because "it is hopeless, just give up" is not an
+answer I'm willing to accept. But it feels to me like finding an essentially
+zero-cost way to increase transaction privacy that everybody uses by default
+is the best answer. Making your network connection more private is the other
+piece of the puzzle, though, and all of the solutions for that (either route
+through a couple of semi-trusted proxies or use Tor or i2p) add significant
+convenience/speed/financial costs.  
+

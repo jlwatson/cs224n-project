@@ -1,0 +1,20 @@
+
+
+Limit-per-ip-range is an interesting idea.  
+  
+I'd like to give the current not-yet-released solution a month or two to work
+before trying something else. I see two possible directions:  
+  
+\+ Limit-per-{connection,ip-range}. Trouble with this is an attacker who has
+multiple IPs (think botnet operator) can mount a distributed flood attack.  
+  
+or/and  
+  
+\+ Take transaction priority into account when deciding what to drop.  
+  
+I'd really like to talk to a p2p network researcher; it seems to me it might
+be possible to keep some statistics on what "typical" bitcoin network traffic
+looks like; perhaps nodes could drop neighbors if they notice network traffic
+from them looks way out of whack (e.g. sending a much-larger-than-typical
+number of addr messages or free transactions or...).  
+

@@ -1,0 +1,28 @@
+
+
+Several people have asked me privately via email what I think of Butterfly
+Labs and ASIC mining in general, so:  
+  
+What do I think of ASICs hitting the "mining scene" ?  
+  
+meh.  
+  
+It shows that Bitcoin is considered stable enough for a company to invest a
+LOT of money on design and production on it, which is very good. ASICs were
+bound to happen if Bitcoin survived long enough.  
+  
+The long-term outlook for mining is "mining will happen with very specialized
+hardware, in places where either electricity is free or generating lots of
+heat is a benefit and not a cost" (and probably both; I still think Iceland
+will be a big mining hot-spot eventually).  
+  
+I'm not worried about Butterfly Labs deciding to take over the blockchain with
+their superior hashpower. They'd be idiots to do something like try to mount a
+51% attack-- they don't want to kill Bitcoin, they want it to get more
+successful so they sell more hardware.  
+  
+And if they are successful they will very quickly have competitors.  
+  
+Full disclosure: I spent some of my bitcoins to pre-order their USB coffee-
+warmer doo-hickey. It gets cold here in the winter.  
+

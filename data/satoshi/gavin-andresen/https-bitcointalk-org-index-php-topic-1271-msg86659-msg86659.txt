@@ -1,0 +1,5 @@
+
+
+You're right-- full-precision is in git-head, but wasn't in 0.3.20. It will be
+in 0.3.21.  
+

@@ -1,0 +1,19 @@
+
+
+Quote from: jon_smark on June 03, 2011, 01:41:47 PM
+
+Not only you can in theory, but also in practice I suspect both Gavin and Jeff
+would actually welcome multiple independent implementations of the protocol,
+since that's a good way for any potential vulnerabilities to be found and
+fixed.  
+  
+In other words, go forward!  
+
+Yes, diversity is good. If you do decide to go for it, do lots of testing on
+either the test network or with a testnet-in-a-box setup before even THINKING
+about handling real bitcoins. If you screw up and lose other people's money it
+will take a long time to earn back their trust.  
+  
+Oh, and speaking of trust... unless you have a recognized Brand Name, I don't
+think you'll have any success with a closed-source client.  
+

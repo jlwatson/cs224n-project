@@ -1,0 +1,21 @@
+
+
+Quote from: finway on December 13, 2011, 03:40:39 AM
+
+I dont' see the OP_EVAL nor OP_NOP1 in this block ?  
+And how many pools is supporting this "OP_EVAL"?  
+
+  
+These bytes at the end of the coinbase: 074f505f4556414c  
+... are the 7-character string "OP_EVAL" (07 is the length, 4f is the letter
+O, etc).  
+  
+There are no OP_EVAL transactions in that block; it isn't safe to send OP_EVAL
+transactions until after a majority of miners support it.  
+  
+I believe Eligius is the only pool supporting OP_EVAL right now; Tycho of
+DeepBit has finished integrating the backport and has said he'll start
+supporting it after more testing, before the end of this month. Last I heard
+slush was also working on supporting it.  
+  
+

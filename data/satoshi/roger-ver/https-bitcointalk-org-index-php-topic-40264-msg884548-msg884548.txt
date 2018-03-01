@@ -1,0 +1,30 @@
+
+
+  
+Request #1  
+  
+Can I ask where you get the exchange rate for Chinese Yuan?  
+  
+In your app it shows 1 BTC = 30.125 RMB (Currently Bitcoin is $5.04)  
+But according to www.xe.com 30.125 RMB would only be $4.78 (Why is there a
+$0.26 difference per bitcoin?)  
+  
+  
+Request #2)  
+Yesterday I had a meeting about Bitcoin with several people in a hotel in
+China.  
+We were all sharing the Hotel Wifi.  
+After explaining Bitcoin, I had them install your app. The first person
+installed it with little trouble.  
+When the 2nd person tried to create a wallet on their laptop, an error was
+given that a wallet was just created by the same IP address.  
+You may want to consider lifting the restriction on the number of wallets that
+can be created from the same IP address.  
+Luckily my friend already had a VPN subscription so he was easily able to
+change his IP address and create a wallet.  
+  
+  
+  
+Thanks for working on making such a great app!  
+  
+

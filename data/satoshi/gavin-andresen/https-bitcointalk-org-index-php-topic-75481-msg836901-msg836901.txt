@@ -1,0 +1,21 @@
+
+
+Quote from: etotheipi on April 05, 2012, 02:35:52 PM
+
+In all cases: the Bitcoin network is acting as an escrow service -- and it's
+conditions are release are: "Wait for further instructions that are agreed
+upon by any two of these three people."  
+  
+**BTW:** I'm not proposing that this is _the only_ way to escrow in the BTC
+network. I _would_ like to see some kind of time-locked tx that prevents
+laziness, and doesn't give one party too much power. But I don't know how it
+can be done when tx-replacement isn't enabled on the network.  
+
+  
+I think it is really important that the bitcoins involved in failed escrows
+not be destroyed, but EVENTUALLY make their way back into the economy.  
+  
+So I'd really like to see network and client support for having both people
+pre-sign and hold on to a transaction with a far-in-the-future lockTime (maybe
+as a fee-only transaction).
+

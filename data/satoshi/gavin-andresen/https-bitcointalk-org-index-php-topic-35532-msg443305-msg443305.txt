@@ -1,0 +1,18 @@
+
+
+Alternative algorithms for determining the "best" block chain would be a good
+research topic, I think.  
+  
+Model or simulate either a 'natural' block-chain splits (X% of the network
+gets disconnected for time T) or attacks (attacker with 51+% of hashing rate
+double-spends a transaction by surprising the network with a N-length better
+block chain).  
+  
+Then see what the behavior is like under different potential algorithms for
+determining the best chain-- the one we have now (most difficulty always wins)
+or some variant (like more recent blocks are given greater weight).  
+  
+And think really hard about potential attacks, especially mixed-mode attacks
+(what if the attacker can mount a Sybil attack on one of the big mining pools?
+Or can DOS one or more of the big mining pools? etc)  
+

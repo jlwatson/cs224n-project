@@ -1,0 +1,14 @@
+
+
+Quote from: Vinz87 on April 13, 2014, 11:08:12 AM
+
+not if priority is greater than 57600000, according to the official wiki.  
+
+  
+There is a lot of competition for the free transaction area in blocks these
+days; you need a much higher priority to get confirmed quickly, 57.6 million
+is not enough any more.  
+  
+A future version of the reference implementation wallet will automatically
+estimate the priority needed.  
+

@@ -1,0 +1,11 @@
+
+
+blkindex.dat contains all the transactions, in records that look like:  
+key: "tx" + HASH_OF_TRANSACTION  
+value: serialized CTxIndex  
+  
+The CTxIndex points to a record in one of the blk000n.dat files.  
+  
+That does bring up an interesting point, though: if lightweight clients are
+implemented, they wouldn't be able to support an arbitrary 'gettransaction'.  
+

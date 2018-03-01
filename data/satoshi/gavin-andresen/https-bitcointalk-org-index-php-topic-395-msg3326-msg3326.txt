@@ -1,0 +1,35 @@
+
+
+Quote
+
+Could someone make a graph of all the coin values ever awarded, their path
+through the system, and their current holder? Something like
+http://www.wheresgeorge.com/ but on the whole economy?
+
+  
+Every generated coin gets a unique address, so you until they get bundled
+together and sent somewhere you don't know to whom ("whom" as in "which
+Bitcoin Address") they belong.  
+  
+
+Quote
+
+Yes. You can get the "top 10 most valuable BitCoin addresses", but not the
+"top 10 richest users"
+
+  
+You can get the top 10 addresses that have received the most coins (and could
+figure out how many have gone back out), but there will probably be a lot of
+generated coins that have never been spent which will just look like little
+50-coin islands.  
+  
+
+Quote
+
+But could someone, conceivably, state with accuracy how much money has been
+donated to Bitfountain's posted address?
+
+  
+Yes; the ~~BitFountain~~ ~~BitTap~~ BitFaucet donation address doesn't change,
+so you can see how many bitcoins have gone in.  
+

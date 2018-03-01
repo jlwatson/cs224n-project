@@ -1,0 +1,36 @@
+
+
+Hello everyone, MagicalTux is busy getting everything back in order on mtgox
+so he asked me to post here and answer any questions people have.  
+  
+First, only a small amount of BTC was stolen. MtGox will refund the stolen BTC
+to the compromised user.  
+  
+ **Everyone's bitcoins are safe on the site. We still are holding all the
+coins safely in reserve. The vast majority of the coins are stored offline so
+they are impossible to compromise.**  
+  
+He understands the rollback won't be popular with people who were able to pick
+up coins for .10 or whatever but none of those trades were legitimate so mtgox
+has a legal obligation to reverse the trades.  
+  
+I'm sure when you think about it you don't actually want to buy stolen coins
+and take advantage of the situation.  
+  
+Things have been very hectic with mtgox since MagicalTux took over. He has
+simultaneously been trying to fend off persistent ddos attacks, hire more
+staff, deal with the huge increase in users, improve the code to support the
+much larger trade volume, ensure regulatory compliance and deal with various
+security issues. Obviously things haven't gone as smoothly as we would like
+but we can see the light at the end of the tunnel with more people being hired
+and the backend changes done. MtGox will hopefully be able to regain your
+trust in the coming weeks.  
+  
+The site should be up again shortly. I'm asking him to clear all the standing
+orders.  
+  
+Please post any questions you have here and I'll do my best to answer.  
+  
+  
+  
+

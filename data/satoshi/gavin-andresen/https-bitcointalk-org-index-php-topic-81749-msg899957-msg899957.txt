@@ -1,0 +1,75 @@
+
+
+We have been quietly notifying the largest exchanges, merchant service
+providers and mining pools about this issue, and waited until they upgraded or
+patched their code to go public with this:  
+  
+\-----BEGIN PGP SIGNED MESSAGE-----  
+Hash: SHA512  
+  
+CVE-2012-2459: Critical Vulnerability  
+  
+A denial-of-service vulnerability that affects all versions of  
+bitcoind and Bitcoin-Qt has been reported and fixed. An attacker  
+could isolate a victim's node and cause the creation of blockchain  
+forks.  
+  
+Because this bug could be exploited to severely disrupt the Bitcoin  
+network we consider this a critical vulnerability, and encourage  
+everybody to upgrade to the latest version: 0.6.2.  
+  
+Backports for older releases (0.5.5 and 0.4.6) are also available if  
+you cannot upgrade to version 0.6.2.  
+  
+Full technical details are being withheld to give people the  
+opportunity to upgrade.  
+  
+Thanks to Forrest Voight for discovering and reporting the vulnerability.  
+  
+  
+Questions that might be frequently asked:  
+  
+How would I know if I am the victim of this attack?  
+  
+Your bitcoin process would stop processing blocks and would have a  
+different block count from the rest of the network (you can see the  
+current block count at websites like blockexplorer.com or  
+blockchain.info). Eventually it would display the message:  
+  
+"WARNING: Displayed transactions may not be correct! You may need to  
+upgrade, or other nodes may need to upgrade."  
+  
+(note that this message is displayed whenever your bitcoin process  
+detects that the rest of the network seems to have a different  
+block count, which can happen for several reasons unrelated to  
+this vulnerability).  
+  
+  
+Could this bug be used to steal my wallet?  
+  
+No.  
+  
+  
+Could this bug be used to install malware on my system?  
+  
+No.  
+  
+  
+\-----BEGIN PGP SIGNATURE-----  
+Version: GnuPG v1.4.9 (Darwin)  
+  
+iQIcBAEBCgAGBQJPsTpaAAoJECnZ7msfxzDB76cQALBqcEb40dQOtopbsk7vHDuL  
+FL4xd56B1/s3idyHGeCuwJX5bgxGD9b3svayXhDiLo9O+5E3sxsLY1HehTXnU8KV  
+BGpIQ7I+XLDcmarGYrDLMNMDLFOp/1hTipi08X3cr6oHNdYOxGbdtqCQR8xxtdfh  
+Mmo07ReYYWamlF+QbwoXIJQOEka2UVeWWgmk1C+WW1phI3P3Of5EvWvkmOurZsY1  
+zew7G3sk0Lu8glxSt8qq1SKlDXOaSqTBPxs+2FtgkUplNrAIyufu0vCTsnC44oie  
+ndJD6XZAaG6cYr3adGQKmUjRR+oyZarMtBdDHBvYHkrQI4uQclL1aS7DhkLtH8kp  
+fBRHdqmbBJpmpWOcs+OZeaQCzrArKihuVVZqP4HYbHgGHLV3Ls1bebyWm5eLZH6Z  
+C5l3B4Hz/lp50gJpVsIZI291l3KWfoBW2qGyQv51U4uByLU8tPzgr5bdyo6YCo4N  
+XQZHveNInMDI8jSimGyHg7WNm0YjkSAM8PEIJhQuL+RaHKgN/ghLPR+1K1YZnMjq  
+BPdJZVDpP2bgClyj6P+UkhAplEoenxZUsjyRmcs9EWjHZo3UUI9MLZW96vkR0Wlv  
+UBgq0/jSNQ6s3U3YwKM8CDFJ4OB7Mu1Ln6sn+Tu5sl3xtPyapARA5K67FYSpvqVX  
+GNIME8aiNjICQmtIFiuX  
+=9L8G  
+\-----END PGP SIGNATURE-----  
+

@@ -1,0 +1,21 @@
+
+
+ribuck: what do you suggest instead?  
+  
+I've read Ken Thompson's paper; that is what motivated me to propose a
+reproducible virtual machine image as the best we can do **IN PRACTICE**.  
+  
+Yes, it is theoretically possible somebody might sneak bitcoin-stealing code
+into the gcc compiler. Code that detects that bitcoin is being compiled and
+injects instructions to send coins to the sneaky gcc hacker.  
+  
+In reality, we trust that the gcc maintainers are trustworthy and careful and
+that they care about their reputations. If you don't trust them, what is the
+alternative?  
+  
+Nefario: can "we" make building bitcoin easier? I've been asking people to
+submit patches to the bitcoin linux build process, but so far none have been
+forthcoming...  
+  
+devrandom: Nice!  
+

@@ -1,0 +1,17 @@
+
+
+Quote from: mkrogh on August 15, 2010, 08:48:59 PM
+
+.... This system requires that the majority work according to the protocol in
+any case.  
+...  
+The NY vending machine can only take the coin if it controls a lot of CPU
+power and can generate a block, but the whole bitcoin system is built on the
+assumption that the vast majority of CPU power is honest. And being honest
+with my proposal means following the pseudocode above.  
+
+Right, that's my issue with your proposal: what incentive does the NY vending
+machine have to be honest? It can be "dishonest", ignore verifiers all-
+together, and accept more transactions (better for it) with less work (also
+better for it).  
+

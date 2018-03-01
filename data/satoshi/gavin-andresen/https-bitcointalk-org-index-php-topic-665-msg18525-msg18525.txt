@@ -1,0 +1,7 @@
+
+
+If you're running something like mybitcoin or mtgox or any other site that
+lets customers keep bitcoins in accounts, then one-customer-per-bitcoin-
+process isn't at all practical. To start with, every bitcoin process has a
+complete copy of the block chain...
+

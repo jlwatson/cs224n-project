@@ -1,0 +1,24 @@
+
+
+Quote from: doldgigger on July 13, 2011, 09:44:35 AM
+
+As you are writing this is expected behaviour, does this mean the transaction
+will eventually get confirmed at some point (if so, how will it be funded?)?
+Or do I have to do something in order to recover the coins?  
+
+It will get confirmed; it is already 'funded' (you can never send more coins
+than you have in total in your wallet).  
+  
+This example might help; if you have exactly two accounts in your bitcoin
+wallet and their balances are:  
+  
+Account A: -0.1 BTC  
+Account B: 1 BTC  
+  
+... then if you tried to send 1 btc from account B the send would fail with an
+"insufficient funds" error.  
+  
+I'd suggest funding a 'TransactionFees' account, and then when a sendfrom
+results in transaction fees reimburse the account by moving funds from
+TransactionFees.
+

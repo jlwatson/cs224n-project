@@ -1,0 +1,10 @@
+
+
+RE: BIP 0010 : Cool!  
+  
+Suggestion: if we're going to borrow PGP's file format, then we should be as
+compatible as possible, and reference their standards document:
+http://tools.ietf.org/html/rfc2440  
+  
+In particular, they use Radix64 encoding, not hex...  
+

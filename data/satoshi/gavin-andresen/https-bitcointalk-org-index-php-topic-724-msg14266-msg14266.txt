@@ -1,0 +1,61 @@
+
+
+I've been working on a "monitoraddress" / "monitorblocks" patch, so bitcoind
+will POST transaction/block information to an arbitrary URL.  
+  
+And it seems to me "getblock" should be split into "getblockbycount",
+"getblockbyhash" and "gettransaction". I also have some suggestions for making
+the naming more consistent:  
+  
+I'd suggest getblockby* return:  
+
+Code:
+
+{  
+"hash" : "00000000002d1a4380793affbc610885aa2e0b224eeedd64ffe108044ec7d434",  
+"blockcount" : 71995,  
+"version" : 1,  
+"merkleroot" :
+"9d436c694968454ea0d17f4aece3b829930027c3cb918e5107a1605aa2eeae33",  
+"time" : 1280823515,  
+"nonce" : 2918845955,  
+"tx" : [ "f85e77e4379694c8d2c1232d6fddfc7792073fb8484bdac37a9ba5ed1d245c57",
+etc ]  
+}  
+
+  
+Reasoning:  
+blockcount instead of 'height' or 'depth' because getinfo returns "blockcount"  
+getblockbyhash might return a block not on the "best" chain; return
+blockcount=-1 in that case?  
+version instead of 'ver' because abbrvs shd b avoided (thy cn b hrd to
+rd/rmbr)  
+only return transaction hashes; if you need more transaction details, call
+gettransaction.  
+No n_tx (or n_anything) because it is implicit in length of returned array  
+  
+(stuff I'm not sure about: what is 'bits' in the implemented getblock? Is that
+difficulty? Does anybody really need all the detailed merkle tree info?)  
+  
+I'd suggest gettransaction return:  
+
+Code:
+
+{  
+"txid" : ...transaction id passed in,  
+"version" : 1,  
+"time" : ...transaction time...,  
+"confirmations" : n,  
+"block" : "block hash", # (if confirmations > 0)  
+"from" : [ [ "txid", n ], ... ], # Empty if coin generation transaction  
+"to" : [ [ "address", amount ], ... ],  
+}  
+
+  
+Reasoning:  
+Returning the CScript string seems like it is both too much detail AND not
+very useful (I want the bitcoin addresses, NOT OP_DUP 0xblahblahblah ...)  
+"from" is just a list of pointers to previous transaction "to"s  
+confirmations is duplicate info (you could getblockbyhash and then look at its
+blockcount), but is so useful I think it belongs here.  
+

@@ -1,0 +1,19 @@
+
+
+I get the impression that many people think that price of BTC is somehow
+influenced by difficulty.  
+I actually I don't agree that difficulty going up will increase the value of
+coins.  
+The only thing that will increase the value of coins is more actual users.  
+Miners don't really increase the value of BTC. And difficulty going up just
+means there are more miners.  
+It is a misconception is that difficulty drives price. Price is as always
+determined by supply and demand.  
+And difficulty doesn't effect the supply of coins since the rate of new coins
+is unrelated to the difficulty. So it isn't a factor in price  
+  
+But as price changes difficulty does change. Since as price goes up it
+attracts more miners.  
+  
+Price determines difficulty. Not the other way around.
+

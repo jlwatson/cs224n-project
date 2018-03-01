@@ -1,0 +1,32 @@
+
+
+Quote from: genjix on October 07, 2011, 03:06:58 AM
+
+If you're looking for a good library/framework, then Twisted is a really good
+choice. It's a piece of battle-hardened software and used by several big
+vendors (like Facebook, Rackspace .etc).  
+
+  
+Mmmm.... Twisted....  
+  
+I started defining a BitcoinProtocol class derived from
+twisted.internet.protocol.Protocol for my cross-implementation at-the-network-
+level testing project. I plan on using Twisted and Trial (the Twisted unit
+testing framework) to feed canned block-chains to "empty" nodes and make sure
+they Do The Right Thing (reject blocks that violate the blockchain rules or
+contain invalid transactions, accept blocks that contain weird-but-valid
+transactions, etc).  
+https://github.com/gavinandresen/Bitcoin-protocol-test-
+harness/blob/master/BitcoinClient.py  
+  
+Anyway, the BitcoinProtocol class might be a good place to start for anybody
+who wants to do some python-based bitcoin network programming. Good example to
+demonstrate is a little dump-blocks tool I wrote to spit out a blockchain in
+JSON format:  
+https://github.com/gavinandresen/Bitcoin-protocol-test-
+harness/blob/master/dumpblocks.py  
+  
+  
+(I'm a Twisted newbie, so improvements, suggestions, etc are very much
+appreciated)
+

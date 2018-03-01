@@ -1,0 +1,21 @@
+
+
+I think there's no such thing a a "typical" settings file on Linux!  
+  
+I just did a quick survey of 20 .conf files in /etc on my debian system, and
+found:  
+1 file used "key value"  
+5 used "key=value" (actually, a couple were "key = value", allowing whitespace
+around the "=")  
+14 did their own thing.  
+  
+The 14 that did their own thing were all over the map; from one-value-per-line
+to "key:value" to full-blown XML. # is  
+the universal comment character in the Linux world.  
+  
+My vote would be for:  
+  
+# comment  
+key1=value1  
+  
+

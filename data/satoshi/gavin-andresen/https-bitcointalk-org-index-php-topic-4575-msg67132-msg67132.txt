@@ -1,0 +1,29 @@
+
+
+How long is the split? There's really no problem if the split is less than the
+block generation maturation time (20+ hours)-- a bunch of miners will be
+disappointed on one side of the split or the other, but that's about the
+extent of the damage.  
+  
+Longer than 24 hours... is kind of hard to imagine for a big country.  
+  
+Would transactions continue to be processed: yes, but... the sudden drop in
+network hashing rate (and the drastic slow-down in block generation) might
+trigger future safety checks in Bitcoin, so you might have to do something
+special to tell it "yes, I really do want to generate transactions even though
+something weird is happening with the network."  
+  
+If a little country or region got split from the main network, it will
+probably have a lot less hashing power and it will take much longer to
+generate the 100 blocks needed to start to cause problems. That's a feature,
+not a bug.  
+  
+After communication was restored the more-difficulty block chain would "win"
+and transactions from the losing block chain would get retransmitted and move
+over to the more-difficulty chain.  
+  
+If somebody had a super-secret communication channel that worked during the
+split they could use it to double-spend. But if the bad guys have a super-
+secret channel then probably some good guys would, too, and as jgarzik points
+out, it only takes one little link to relay blocks and prevent a split.  
+

@@ -1,0 +1,12 @@
+
+
+Alternative algorithms for accepting deep block-chain re-orgs sound like a
+research project to me. Before changing something that critical I would like
+to see simulations of how different re-org policies behave under different
+attack scenarios, and non-attack "what if there is a bug that causes an
+inadvertent block chain split" scenarios.  
+  
+And I'd like to see a whitepaper that lays out the issues and summarizes
+simulation results. And lots of extra credit if it gets peer-reviewed and
+published in one of the IEEE or ACM journals.  
+

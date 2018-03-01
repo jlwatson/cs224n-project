@@ -1,0 +1,10 @@
+
+
+OP_0 pushes an empty array of bytes onto the stack, so you should
+RIPEMD160(SHA256([])).  
+  
+(thanks go genjix for setting me straight, I'd been thinking OP_0 pushed a
+0x00 onto the stack, and that isn't right. The scripting engine knows that an
+empty array is 'False', and FIPS standards make sure hashing empty
+strings/arrays is well-defined...)  
+

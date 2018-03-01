@@ -1,0 +1,14 @@
+
+
+Quote from: slothbag on September 07, 2012, 10:12:57 AM
+
+0.7rc1 was running perfectly fine on Windows 7 for the past couple weeks. Just
+installed rc2 and it freezes on the splash screen where it says loading block
+index.  
+....  
+Edit: Eventually it does open. But it never used to say "Program is not
+responding" during the startup phase before.  
+
+Anybody else having success or failure running rc2 on Windows 7, please let us
+know...  
+

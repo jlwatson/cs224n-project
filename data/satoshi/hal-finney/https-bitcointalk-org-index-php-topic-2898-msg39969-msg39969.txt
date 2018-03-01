@@ -1,0 +1,17 @@
+
+
+I think it will work to give change to the paying Bitcoin address. The client
+avoids this for privacy reasons - it tries to hide which output is payment and
+which is change. But it should work.  
+  
+Oh, wait, you want to feed the change back into the card, don't you? That's
+trickier, because Bitcoin payments must reference the hash of the source
+transaction. What you need to do is store on the card the original source
+transaction hash (that funded the address on the card). Then when you make a
+payment, the terminal uses this for the txin, and creates a tx that gives
+change back to your address. It computes the hash of this new transaction and
+writes it back to the card. This will then be used as the txin for the next
+payment.  
+  
+Does anyone know a smart card that supports ECDSA signatures?
+

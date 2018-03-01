@@ -1,0 +1,39 @@
+
+
+I spent a bunch of time getting the mingw-cross-compiled Qt compiled with
+-openssl-linked for the payment protocol work (it uses QtNetwork to fetch
+PaymentRequest/PaymentACK messages via https).  
+  
+The magic configure incantation was:  
+
+Quote
+
+# Compile static libraries, and use statically linked openssl (-openssl-
+linked):  
+OPENSSL_LIBS="-L$DEPSDIR/openssl-1.0.1c -lssl -lcrypto -lgdi32" ./configure
+-prefix $INSTDIR -I $DEPSDIR/openssl-1.0.1c/include -confirm-license -release
+-opensource -static -no-qt3support -xplatform unsupported/win32-g++-cross -no-
+multimedia -no-audio-backend -no-phonon -no-phonon-backend -no-declarative
+-no-script -no-scripttools -no-javascript-jit -no-webkit -no-svg -no-
+xmlpatterns -no-sql-sqlite -no-nis -no-cups -no-iconv -no-dbus -no-gif -no-
+libtiff -no-opengl -nomake examples -nomake demos -nomake docs -no-feature-
+style-plastique -no-feature-style-cleanlooks -no-feature-style-motif -no-
+feature-style-cde -no-feature-style-windowsce -no-feature-style-windowsmobile
+-no-feature-style-s60 -openssl-linked  
+
+  
+Nothing special needed to be done for the openssl build:  
+  
+
+Quote
+
+./Configure --cross-compile-prefix=i586-mingw32msvc- mingw  
+
+  
+  
+The payment protocol code add a couple more depedencies to Bitcoin-Qt:  
+  
+\+ QtNetwork with OpenSSL support  
+\+ Google's protocol buffer library and compiler.  
+  
+

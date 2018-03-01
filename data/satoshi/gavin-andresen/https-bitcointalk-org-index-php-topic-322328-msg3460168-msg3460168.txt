@@ -1,0 +1,15 @@
+
+
+RE: bitcoin-security mailing list: bottom line is I don't trust you. I think
+you have made irresponsible decisions in the past, and I don't trust that you
+would handle sensitive security issues responsibly. Happily there have been
+approximately zero cross-implementation security issues in the last six
+months, so it is more of a theoretical issue that you're not on the list....  
+  
+RE: foundation phone call: I personally agree that fundraising for a vaporware
+wallet is less newsworthy than a 9 million dollar reputable VC investment.  
+  
+RE: libbitcoin: when there is significant software using it and it has been
+"battle tested" a bit I'd be happy to mention it. But last I heard even
+Intersango was not using it because it was too slow/immature.  
+

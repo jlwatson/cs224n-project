@@ -1,0 +1,25 @@
+
+
+Quote from: HlllD on January 01, 2011, 07:21:59 PM
+
+How many <account> and <bitcoinaddress> can one client handle in a server
+environment?  
+
+  
+It aught to be able to handle hundreds of accounts and thousands of addresses,
+although (as far as I know) nobody has done scalability/stress testing with
+that many (simulated) users.  
+  
+The listtransactions method scans through all wallet transactions (and then
+sorts them by time), so if you've got thousands or tens of thousands of
+accounts with millions of transactions and you're using listtransactions to
+show customers their account histories, that might be a bottleneck.  
+  
+However, I wouldn't be at all surprised if something ELSE becomes the
+bottleneck if you had that many accounts-- for example, there is only one RPC
+thread handling requests, and some requests (like a send bitcoins request) can
+take seconds to process. I've been writing code long enough to know that I
+can't look at code (even code I've written) and figure out where the
+performance problems are lurking-- you've got to actually measure or simulate
+real-world behavior.  
+

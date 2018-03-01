@@ -1,0 +1,12 @@
+
+
+The first part of the chain that got orphaned, starting at block 225,430, is
+here:  
+  
+http://skypaint.com/bitcoin/fork08.dat  
+  
+The first three blocks in the 0.7-compatible chain starting at block 225,430
+is:  
+  
+http://skypaint.com/bitcoin/fork07.dat  
+

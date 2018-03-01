@@ -1,0 +1,14 @@
+
+
+I hate to inject gloom and doom into a fun topic like vanity bitcoin
+addresses... but y'all should be aware that one of my longer-term goals for
+the Bitcoin system is to make bitcoin addresses disappear. I hope Bitcoin
+software 10 years from now tells users "You're about to pay 11 micro-Bitcoins
+to Amazon.com" and not "2mRwtf8blahblahblah". And I'm not alone, I know Mike
+Hearn feels strongly about making bitcoin addresses go away for ordinary
+users.  
+  
+If you do spent lots of time creating The World's Best system for mining
+vanity bitcoin addresses, please don't be upset or surprised if you find it is
+obsolete when " ** _Bitcoin 2017 Turbo++ Enhanced Edition_** " is released.  
+

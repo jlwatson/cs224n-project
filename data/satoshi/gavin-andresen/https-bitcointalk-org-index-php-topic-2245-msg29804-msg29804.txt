@@ -1,0 +1,14 @@
+
+
+Quote from: theymos on December 13, 2010, 04:41:26 PM
+
+You should be using getreceivedbyaddress rather than getreceivedbyaccount. You
+didn't assign that address to any account.  
+
+  
+What theymos said. You're asking for the balance of the _account_ named
+'1Fs5rqB2sXZ3kax1r3HfuYpK2ksSxLYJT8', and there is no such account.  
+  
+Whether bitcoin should return an error (instead of 0) if you ask for the
+balance of a non-existant account is debatable...  
+

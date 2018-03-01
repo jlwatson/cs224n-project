@@ -1,0 +1,17 @@
+
+
+Quote from: CharlieContent on December 19, 2012, 02:47:23 PM
+
+Quote from: MemoryDealers on December 19, 2012, 02:42:52 PM
+
+There is no way for an admin or anyone else in the entire world other than
+someone who knows the current password to change the password.  
+If you kept your password a secret, then no one else in the entire world has
+access to the funds in your blockchain wallet.  
+
+  
+How can anyone trust you after this?  
+
+  
+You don't have to trust me because the code is open source.
+

@@ -1,0 +1,19 @@
+
+
+Quote from: cheako911 on March 06, 2015, 05:59:49 AM
+
+How do TX relayers get paid?  
+
+  
+Why do we need transaction relayers? What vital function do they provide?  
+  
+Miners need to be connected to each other, and to transaction creators
+(individual users, exchanges, merchants, online wallets, etc).  
+  
+And transaction creators need to be able to connect to miners, but it seems to
+me transaction fees should certainly be enough incentive for miners to arrange
+for there to be plenty of opportunity for transaction creators to send them
+fee-paying transactions (it's cheap to run nodes that have tens of thousands
+of incoming connection slots).  
+  
+

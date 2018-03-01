@@ -1,0 +1,55 @@
+
+
+Quote from: kjj on October 25, 2012, 04:29:27 AM
+
+...On the other hand, if it (MD5) was used in bitcoin transactions, those
+transactions would still be totally safe, for at least a few more years,
+because all of the attacks require conditions that can't be met in the bitcoin
+system.  
+
+  
+I think that is a good thought experiment: If you replaced all uses of SHA256
+in Bitcoin with MD5, what attacks would be possible? (please check my work, I
+am not an expert on hash collisions)  
+  
+Well, to generate a collision:  
+
+Quote
+
+...the attacker needs to generate ... a 128-byte block of data, aligned on a
+64-byte boundary that can be changed freely by the collision-finding
+algorithm.  
+
+  
+Block hashing would be safe, for now; the block header that is hashed is only
+80 bytes long, much less than the 128 bytes of wiggle room needed to find a
+collision.  
+  
+I believe an attacker could easily produce two different non-standard
+transactions that hashed to the same txid. That would be a disaster, they
+could split the blockchain and/or double-spend by broadcasting one version of
+the transaction to half the network and the other to the other half of the
+network.  
+  
+To split the chain the attacker would mine a block containing the 'poison'
+transaction hash, and then broadcast two versions of the same block,
+containing the two different-but-same-hash transactions. Half the network
+would think that block contains 't1', and half 't2'. Everything would be just
+fine until the attacker spent the outputs of t1 and/or t2... then Bad Things
+would happen.  
+  
+Double-hashing doesn't help at all: If HASH(t1) == HASH(t2) then
+HASH(HASH(t1)) == HASH(HASH(t2))  
+  
+
+* * *
+
+I do agree with everybody who points out that SHA256 isn't close to being
+broken. If it does ever start to get close, then I'm sure we could figure out
+a backwards-compatible fixes and phase them in (something like "a block's
+coinbase transaction must include a SHA3-based transaction merkle root",
+create a new version of OP_CHECKSIG that used SHA3, roll out a new alert
+system that used SHA3, etc).  
+  
+  
+

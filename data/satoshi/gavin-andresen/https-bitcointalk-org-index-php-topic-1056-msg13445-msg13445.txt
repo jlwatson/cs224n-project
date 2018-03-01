@@ -1,0 +1,52 @@
+
+
+RE: hippich XML/JSON:  
+XML ain't gonna happen, and I think JSON is overkill for this. Using the same
+format as the bitcoin.conf file is the right answer, I think (easy to
+implement, human-readable, comments allowed in the file, easy to extend as
+necessary). That's what I mocked up at skypaint.com.  
+  
+RE: nimnul http://localhost:.../  
+If you've never installed bitcoin, or bitcoin isn't running already, you get
+an unhelpful error message. One advantage of a "payment request file" is many
+users will understand that you need something called "Bitcoin" to open a
+"Bitcoin Payment Request" file.  
+  
+RE: mizerydearia Linux support:  
+In my research I briefly an across a reference to a KDE startup file to
+associate mime types with applications, so I _think_ it would work nicely
+cross-platform if you've already installed bitcoin. (UPDATE: cross-desktop
+spec here)  
+  
+RE: nimnul clipboard monitoring:  
+Seems to me that's a feature for geeks, because only geeks would happen to
+know that if you highlight a bitcoin address when bitcoin was running you
+could automatically launch bitcoin. And there's no way that would be turned on
+by default. And it also seems to me clipboard monitoring is perfect for a
+standalone, general-purpose utility ("if selection matches any of THESE
+regepxs, launch THAT applications with arguments "beginpayment %{address}
+%{amount}" ... ).  
+  
+RE: mizerydearia portable devices:  
+I've never programmed for Android or iPhone; anybody know how they handle non-
+standard MIME types? Can apps register themselves as content handlers?  
+  
+  
+  
+Thinking about actually implementing this, the hard part is getting a running
+(or just launched) Bitcoin's attention in a cross-platform way. Using the
+existing command-line control (which uses JSON-RPC under the covers) would be
+the most straightforward, but that requires that you set a rpcuser/rpcpassword
+in the bitcoin.conf file AND run bitcoind or bitcoin -server. Yuck.  
+  
+I suppose, as a special case, payment request JSON-RPC calls could be allowed
+with no rpcpassword, and -server could be made the default. Makes me a little
+nervous, though.  
+  
+Running bitcoin /path/to/browser/cache/with/payment_request_file (which is
+what the web browsers will do) should:  
+IF bitcoin isn't running: launch it, and **wait** until it is ready to receive
+payment request messages  
+Send running bitcoin (...somehow...) "Hey, we got a payment request here for
+you to deal with" messgae.  
+

@@ -1,0 +1,9 @@
+
+
+From the source code:  
+
+Code:
+
+main.h: // To limit dust spam, require a 0.01 fee if any output is less than
+0.01  
+

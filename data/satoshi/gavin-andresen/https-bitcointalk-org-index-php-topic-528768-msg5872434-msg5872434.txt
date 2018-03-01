@@ -1,0 +1,11 @@
+
+
+Sounds familiar...  
+  
+... I think I ran into a similar problem that turned out to be ssh being upset
+that the file permissions on the id_dsa file used to login to the virtual
+machine were too permissive (because I was running from a FAT32-formatted USB
+stick that didn't support file permissions at all, if I recall correctly,
+which I probably don't).  
+  
+

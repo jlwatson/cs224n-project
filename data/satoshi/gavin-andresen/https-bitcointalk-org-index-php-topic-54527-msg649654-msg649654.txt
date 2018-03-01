@@ -1,0 +1,13 @@
+
+
+Quote from: Luke-Jr on December 14, 2011, 12:24:48 AM
+
+Anything I'm missing here?  
+
+... if you're sending a transaction, then its timestamp should be the time it
+is sent.  
+And coinbase transactions should be assigned the block timestamp.  
+  
+I think. It is odd that different machines may assign the same transaction
+different timestamps...
+

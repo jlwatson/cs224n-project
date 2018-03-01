@@ -1,0 +1,15 @@
+
+
+Yep, if you control more than 50% of the hashing power you can just refuse to
+work on anybody else's blocks and your chain will always eventually be the
+longest.  
+  
+Of course, if you do that there will be constant block chain splits and
+transaction confirmations will take twice as long (because you'd be throwing
+away the other half of the network's hashing power), so we'd all notice.  
+  
+And I'm pretty confident we'd think of an effective way to ignore your blocks.
+Seems like an awfully big risk for a +50% pool operator to take; why would
+they want to undermine the system that is (almost certainly) making them lots
+of money?  
+

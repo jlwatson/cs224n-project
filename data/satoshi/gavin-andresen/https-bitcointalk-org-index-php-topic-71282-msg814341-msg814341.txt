@@ -1,0 +1,12 @@
+
+
+See this thread for BIP16-compatible-backported release candidates:  
+https://bitcointalk.org/index.php?topic=72069.0  
+  
+A final 0.6 release candidate will be out very soon, the last issues are being
+resolved now.  
+  
+Again: if you don't upgrade and are a solo miner, pool operator, or p2pool
+user you will **almost certainly waste time hashing bad blocks** after April
+1.  
+

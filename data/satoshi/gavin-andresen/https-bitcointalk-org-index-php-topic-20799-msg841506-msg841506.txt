@@ -1,0 +1,21 @@
+
+
+Quote from: DeepBit on April 07, 2012, 05:31:08 PM
+
+Don't worry, they don't have any chance to win  
+
++1  
+  
+Personally, I consider the coin creation function (50 BTC every 10 minutes,
+halving every 4 years) and rules for whether or not you can spend the coins
+you have (if, and only if, you can satisfy the scriptPubKey by creating an
+ECDSA signature then you can spend them) sacrosanct. Them's the rules of
+Bitcoin, change them and it ain't Bitcoin any more.  
+  
+Extending Bitcoin to new and wonderful types of transactions is fine, and,
+actually, I believe Therilith could build most of what he wants on top of
+Bitcoin using pre-signed fee-only non-final transactions with a lockTime 10
+years in the future.  
+  
+Convincing people to agree to do that would be another thing all together...  
+

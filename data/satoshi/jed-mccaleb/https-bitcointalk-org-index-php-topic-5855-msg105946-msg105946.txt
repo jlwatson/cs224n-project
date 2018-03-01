@@ -1,0 +1,13 @@
+
+
+I noticed that sometimes the price is sent in quotes:  
+  
+
+Code:
+
+{"channel":"24e67e0d-1cad-4cc0-9e7a-f8523ef460fe","depth":{"price":"3","type":2,"volume":-6},"op":"private","origin":"broadcast","private":"depth"}  
+{"channel":"24e67e0d-1cad-4cc0-9e7a-f8523ef460fe","depth":{"price":1,"type":2,"volume":10},"op":"private","origin":"broadcast","private":"depth"}
+
+  
+Not a big deal but weird that it isn't consistent.
+

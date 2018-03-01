@@ -1,0 +1,19 @@
+
+
+Quote from: j16sdiz on March 14, 2011, 07:50:25 AM
+
+It does not work that way .. printf("%.8f") behaviour is inconsistent across
+platform. If you don't believe, try  
+  
+
+Code:
+
+printf("%.2f", -999.04)  
+
+  
+\-- some platform give -999.03, some give -999.04.  
+
+  
+I tried it... got -999.04 on my Mac and Linux machines. What platform gives
+the wrong answer?  
+

@@ -1,0 +1,11 @@
+
+
+Quote from: TangibleCryptography on July 09, 2012, 12:29:29 PM
+
+Anything I am missing?  
+
+Depending on what you're doing, you should support BIP 13:
+https://en.bitcoin.it/wiki/BIP_0013  
+  
+Also see: https://en.bitcoin.it/wiki/Base58Check_encoding for pseudo-code.  
+

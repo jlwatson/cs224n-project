@@ -1,0 +1,20 @@
+
+
+Quote from: Hal on March 11, 2011, 07:54:36 PM
+
+I had the impression the roadmap called for a BitDNS-like decentralized
+mapping system, since Gavin asked to map "strings" to addresses. Maybe I
+misunderstood.  
+
+  
+In my head I was imagining a way of telling bitcoin to subscribe to some
+service(s) that did the mapping-- maybe a setting in the GUI where you could
+specify "use these six services, in this order, to try to resolve bitcoin
+addresses that aren't plain-old-bitcoin-addresses." With the services
+specified by name+URL (and some standard REST-ful protocol was defined for
+mapping string to bitcoin address). Or maybe name+pattern+URL.  
+  
+I haven't looked at genjix' patch, and haven't thought deeply about security
+issues-- but I bet there are lots...  
+  
+

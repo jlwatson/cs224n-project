@@ -1,0 +1,17 @@
+
+
+Quote from: Insti on August 04, 2010, 12:17:00 PM
+
+The 1 BTC transaction is a transaction with 1 input and 2 outputs, but it's
+still only 1 transaction.  
+
+The rule is "if any TxOut (output) has a value of less than 0.01 bitcoins,
+charge a 0.01 fee":  
+
+Code:
+
+main.h:  
+foreach(const CTxOut& txout, vout)  
+if (txout.nValue < CENT)  
+nMinFee = CENT;  
+

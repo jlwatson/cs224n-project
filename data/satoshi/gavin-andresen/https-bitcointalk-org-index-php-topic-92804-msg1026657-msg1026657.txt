@@ -1,0 +1,21 @@
+
+
+RE: 101 or 103 unused keys in the keypool: That's normal. Here's the sequence
+of events that causes it:  
+  
+\+ You do something that requests a new key from the keypool. Several things
+do that (including the 'getinfo' RPC call -- it requests a key from the
+keypool so it can report the keypoololdest time).  
+\+ The keypool automatically adds new keys so there are always at least 100
+(by default)  
+\+ The something you did returns the key back to the keypool, so now there are
+100+1  
+  
+I tend to have 104 keys in my keypools, because I do a lot of 4-core CPU
+mining on testnet-in-a-box setups, and the 4 miner threads each grab a keypool
+key that is released when bitcoind quits.  
+  
+RE: better backup: good idea. However, the keypool might not survive for much
+longer; they're likely to be replaced by Hierarchical Deterministic Wallets
+(see https://en.bitcoin.it/wiki/BIP_0032 ).
+

@@ -1,0 +1,41 @@
+
+
+So while driving across Wyoming today my mind wandered to proof-of-stake. And
+whether or not it would be possible to attack a proof-of-stake system by
+repeatedly sending expensive to verify but invalid proofs of stake.  
+  
+I think you could.  
+  
+Example: if the proof-of-stake involves creating a bunch of valid signatures
+using private keys that you own, then an attacker could buy or create a few
+thousand keys (e.g. buy 10,000 units of currency and then split them into
+10,000 addresses) and submit a proof-of-stake where 9,999 signatures are valid
+and the last one is invalid.  
+  
+The proof-of-stake will fail, but it will cost the victims approximately the
+same CPU time to find that out as it takes the attacker to generate the
+signatures. If the attacker can repeatedly send the same proof-of-stake, and
+the victims don't cache the work of checking the signatures, then you've got
+the basis for a great denial-of-service attack.  
+  
+Proof-of-work doesn't suffer from this attack, because it is MUCH easier to
+validate proof-of-work (one hash operation) than to generate it. I haven't
+thought deeply about whether or not you could come up with a proof-of-stake
+that has the same "hard to generate, easy to validate" property. I suppose you
+could require that a proof-of-stake have a small, limited number of
+signatures-- requiring that stakeholders maintain a small number of large-
+balance addresses. That's bad for privacy and security, though.  
+  
+You could disconnect/ban peers that submit invalid proofs-of-stake; an
+attacker would have to mount a Sybil attack using lots of IP addresses to get
+around that. That might be a problem in an IPv6 world of essentially infinite
+IP addresses, though...  
+  
+A hybrid system that requires proof-of-work AND proof-of-stake might work.
+You'd have to be careful to tie the proof-of-stake to the proof-of-work,
+though, otherwise an attacker might be able to re-use the same proof-of-work
+over and over.  
+  
+I'm curious: if you've been working on a proof-of-stake system, is this kind
+of attack the kind of thing you've already thought about and solved?  
+

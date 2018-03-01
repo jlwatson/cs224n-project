@@ -1,0 +1,29 @@
+
+
+Quote from: retep on December 21, 2012, 08:11:38 PM
+
+When you get down to it news reports saying "hackers try to DoS attack Bitcoin
+network, Bitcoin running a bit slow, counter-measures are being deployed, no
+coins lost" are _far_ less damaging to credibility than "thousands lose their
+Bitcoins due to new sophisticated malware attack"  
+
+Exactly.  
+  
+My priorities are:  
+  
+\+ Network Security  
+\+ Network Scalability  
+\+ Network Stability  
+  
+After those Big Three:  
+  
+\+ Wallet Security  
+  
+Usability of the reference implementation is not on my priority list. I
+believe the vast majority of users will (if they aren't already) use bitcoin
+via a web-based service or an app on their mobile phone.  
+  
+RE: the bitcoin.org homepage: I think replacing the links to Bitcoin-Qt on the
+hompage with just a link to the clients page is a good idea. Somebody should
+get the consensus to do that and submit a pull request.  
+

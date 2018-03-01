@@ -1,0 +1,31 @@
+
+
+The block size will be raised, that is the overwhelming consensus among the
+people who are actually writing code and using Bitcoin for products and
+services that it needs to happen.  
+  
+And there is a tiny minority of people who will loudly proclaim that isn't
+true and that the core developer are going to destroy Bitcoin if the block
+size is raised.  
+  
+If you want to be helpful, please organize a list of objections to raising the
+block size limit and responses to those objections.  
+  
+I believe the last objection raised was that a higher block size limit would
+make it impossible to mine anonymously, but I think that has been debunked
+with the notion of "read the firehose of transactions non-anonymously, then
+broadcast just new block header + coinbase + listof(truncated transaction
+hashes) anonymously."  
+  
+I'll soon be writing up a plan for how we can safely raise the block size
+limit.  
+  
+  
+RE: central planning:  
+  
+No central planning is why I would like to eliminate the hard, upper blocksize
+limit entirely, and let the network decide "how big is too big."  
+  
+RE: "the plan" : The plan from the beginning was to support huge blocks. The
+1MB hard limit was always a temporary denial-of-service prevention measure.  
+

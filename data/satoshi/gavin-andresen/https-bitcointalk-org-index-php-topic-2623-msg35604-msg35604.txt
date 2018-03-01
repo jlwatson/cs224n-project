@@ -1,0 +1,25 @@
+
+
+Very nice! Let me ask some dumb questions:  
+  
+
+Quote from: David Armstrong on January 05, 2011, 11:50:20 AM
+
+I've setup a launchpad PPA to host Ubuntu packages of bitcoin.  
+
+  
+What does PPA stand for?  
+  
+Does launchpad help solve the 'trusted build' problem-- e.g. does the build
+process automatically fetch from source code that we can all look at and
+audit?  
+  
+How hard would it be to setup something similar to produce regular builds of
+the github integration repository?  
+  
+Right now, the bitcoin build process is "Satoshi does it." Using Launchpad to
+create the Linux builds seems like the right way to go.  
+  
+Last dumb question: are there services similar to Launchpad for building
+Mac/Windows software?  
+

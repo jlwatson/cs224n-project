@@ -1,0 +1,13 @@
+
+
+There is a bug in the 0.3.20 candidate release that causes rendering issues on
+Windows.  
+  
+I have no idea how to fix it; I don't even have a real Windows machine on
+which to test it (I built 0.3.20 on an Amazon EC2 windows virtual machine).  
+  
+Anybody willing to step up and fix it?  
+  
+If nobody steps up and commits to continuing to develop the wxWidgets GUI, we
+may have to stop supporting/developing it and start releasing only bitcoind.  
+

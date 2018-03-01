@@ -1,0 +1,5 @@
+
+
+bitcointools has a fixwallet.py that can often fix broken wallet.dat files.  
+https://github.com/gavinandresen/bitcointools/  
+

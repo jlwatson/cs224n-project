@@ -1,0 +1,21 @@
+
+
+Here's how I would approach this idea. The concept would be to function in
+max-anonymity mode by default as now, but to also specify a certain address as
+being associated with an identity. Receiving coins to that address is trivial,
+just give out that address for payment. Add a feature to make identified
+payments from that address as you propose. Important, payments from that
+address should use that same address for change. Equally important, make sure
+that regular "anonymous" payments DO NOT use the identified address, otherwise
+your anonymity will be compromised. That way, anonymous and identified
+payments can coexist.  
+  
+You could also have more than one identified address, keeping each separate.
+Probably you'd want to use the address label to choose which to pay with. But
+the same principles would apply: change back to the same address, and never
+use it for regular payments.  
+  
+As far as getting started, I'd like to see a sticky walking through the steps
+to create a pull request. But yeah, you can check out from sourceforge using
+svn, get your changes working, and post the output of svn diff as a patch.
+

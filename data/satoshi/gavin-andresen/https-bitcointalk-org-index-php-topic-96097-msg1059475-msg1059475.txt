@@ -1,0 +1,31 @@
+
+
+Quote from: barbarousrelic on July 27, 2012, 07:42:22 PM
+
+ **Do we want to keep the maximum block size large enough that all
+transactions can be included in every block, or do we want to keep it small to
+increase tx fees and incentivize mining?**  
+
+Good question.  
+  
+In my humble opinion, the block size should not be arbitrarily limited as it
+is now (1MB is the limit; typical blocks these days are 30-250K big), but
+should 'float' -- miners should collectively decide how large a block they're
+willing to validate and build on top of.  
+  
+Obviously a miner wants to include as many fee-paying transactions in their
+blocks as possible, until the fee paid is less than their cost of validating
+and including the transaction (which is a small cost).  
+  
+But miners also don't want to spend a very long time validating other miners'
+blocks, so they have an incentive to ignore blocks that are outrageously big.
+If they _were_ willing to build on a 10-gigabyte-big block that took ten
+minutes to download and signature check, then they're shooting themselves in
+the foot-- an evil miner could mine a huge block, and then get a head start on
+mining the next block while the rest of the network was busy validating it.  
+  
+BUT: moving to a floating maximum block size determined by miners will be
+really hard; it will require everybody-- merchants and miners and users-- to
+upgrade. It may never happen, because other ways of supporting very high
+transaction volumes might develop before then.
+

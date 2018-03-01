@@ -1,0 +1,16 @@
+
+
+Just to close the loop on this:  
+  
+This happened when:  
+You ran version 0.3.17, and sent/received some coins  
+You then ran an earlier version, and the coins you sent/received with 0.3.17
+were rewriten to the wallet (e.g. you spent them or they got included in a
+block). They'd get rewritten incorrectly (marked as version 0.3.17, but
+missing extra info).  
+... and then you upgraded to version 0.3.17 again. Bitcoin would crash trying
+to read the extra, missing info.  
+  
+svn r196 fixes the problem, by storing the extra account info in a different
+way and detecting the badly-written 0.3.17 entries.  
+

@@ -1,0 +1,29 @@
+
+
+Quote from: teukon on October 09, 2014, 09:46:18 PM
+
+Yeah, 40% of a 250 GB connection works out to about 23 MB depending on how you
+define month. May I ask what would happen regarding TOR?  
+
+  
+Thanks for checking my math! I used 31-day months, since I assume that is how
+ISPs do the bandwidth cap.  
+  
+RE: what happens with Tor:  
+  
+Run a full node (or better, several full nodes) that is connected to the
+network directly-- not via Tor.  
+  
+But to keep your transactions private, you broadcast them through a Tor-
+connected SPV (not full) node. If you are mining, broadcast new blocks the
+same way.  
+  
+That gives you fully-validating-node security plus transaction/block privacy.
+You could run both the full node and the SPV-Tor-connected node on a machine
+at home; to the rest of the network your home IP address would look like a
+relay node that never generated any transactions or blocks.  
+  
+If you live in a country where even just connecting to the Bitcoin network is
+illegal (or would draw unwelcome attention to yourself), then you'd need to
+pay for a server somewhere else and administer it via Tor.
+

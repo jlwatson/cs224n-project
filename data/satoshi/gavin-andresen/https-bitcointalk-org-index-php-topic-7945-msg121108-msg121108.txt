@@ -1,0 +1,25 @@
+
+
+Quote from: nereer on May 14, 2011, 06:43:16 PM
+
+What kind of scope is there for managing address/wallet creation?  
+
+  
+If you're willing to muck with the transaction processing code, you could only
+allow transactions to addresses that have been created and blessed by the
+Central Authority. You'd have to also teach the wallet code not to create lots
+of addresses, but if you're going to require users to register and not be
+anonymous you might as well centrally create and issue them their wallets.  
+  
+You then need a mechanism to broadcast new, blessed public keys to the entire
+network, but that might be as simple as generating a transaction from a baked-
+in blessed address (owed by the Central Authority) to the newly created
+blessed address.  
+  
+Implementing and debugging would be a lot of work, and I'd be nervous about
+neglecting some little detail and leaving the system open to hacks (Bitcoin is
+nice because so many people are extremely motivated to find any chink in the
+system and either exploit it or patch it-- a small complementary currency
+wouldn't have that advantage). But it could be done.  
+  
+

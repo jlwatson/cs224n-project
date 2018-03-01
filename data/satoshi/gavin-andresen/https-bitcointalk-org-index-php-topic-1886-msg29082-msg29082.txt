@@ -1,0 +1,15 @@
+
+
+Oh, and RE: privacy:  
+  
+Mixing all of the 'coins' for all of the accounts together is, I think, an
+overall plus for privacy. True, you might receive coins from somebody and be
+able to figure out "Hey, they sent me some of exactly the same coins I
+deposited in my BigBitBank account yesterday! They must have an account at
+BigBitBank, too!"  
+  
+But mixing all the accounts' coins together makes it **much** more difficult
+to figure out where any user's coins came from, or, if you know where they
+came from, where the user is spending their bitcoins. Unless you can subpeona
+BigBitBank's records, of course...  
+

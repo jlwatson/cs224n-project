@@ -1,0 +1,12 @@
+
+
+Quote from: jomplox on January 29, 2013, 01:43:33 PM
+
+I got a mostly idle linux VPS. I would like to somehow support the overall
+Bitcoin movement.  
+Can you guys share some ideas?  
+
+  
+Run a testnet node and turn on CPU mining. We need more stable, long-running
+-testnet nodes.  
+

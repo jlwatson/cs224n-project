@@ -1,0 +1,17 @@
+
+
+Quote from: Fuserleer on May 30, 2013, 08:37:56 PM
+
+ **Currency generation** is a collaborative effort between n-client nodes and
+a hatching node. Each node in the system will cast a vote to a random hatching
+node to whether to create a currency unit (EMU).  
+
+  
+How do you prevent Sybil attacks-- somebody creating a gazillion n-client
+and/or hatching nodes, and voting themselves lots and lots of new currency?  
+  
+And how does a node choose a "random" node-- does every node know about every
+other node? If yes, then how do you avoid getting O(N^2) communication as the
+number of nodes (N) rises and every existing node must be told about every new
+node?  
+

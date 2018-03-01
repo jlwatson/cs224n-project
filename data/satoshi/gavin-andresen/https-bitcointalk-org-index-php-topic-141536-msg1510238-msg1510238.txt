@@ -1,0 +1,25 @@
+
+
+Quote from: etotheipi on February 07, 2013, 03:08:31 PM
+
+EDIT: the part about "same protocol" is not entirely true: BIP 10 was created
+for Armory offline, with the intention of supporting OP_EVAL (yeah, long time
+ago). But it needs to be updated to be more flexible...and hopefully
+standardized, too. Hopefully, the devs of other applications will be more
+interested in helping develop it, now that this kind of functionality is
+closer to actually being usable.  
+
+  
+The payment protocol (or a simple extension of it) is intended to be that
+more-flexible, standardized protocol.  
+  
+
+Quote
+
+It doesn't look like anyone else is working on this kind of interface, yet. I
+guess you can expect Armory to be the first. Should definitely be done within
+the next 3 months (for linked wallets).  
+
+  
+Excellent!
+

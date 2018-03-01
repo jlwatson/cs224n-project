@@ -1,0 +1,33 @@
+
+
+Reminder to anybody running a bitcoind server: be sure the debug.log isn't
+filling up your server's disk. With the slashdotting, now might be a good time
+to setup a debug.log housekeeping system.  
+  
+I'm doing this on my Debian server:  
+  
+My crontab:
+
+Code:
+
+# Rotate bitcoin logs  
+0 8 * * * /usr/sbin/logrotate --state /home/gavin/.bitcoin/logrotate.state
+/home/gavin/bc_logrotate.conf  
+
+My bc_logrotate.conf file:
+
+Code:
+
+#  
+# Rotate the bitcoin debug.log file  
+#  
+# This should be added to crontab to be run every day:  
+# /usr/sbin/logrotate /path/to/bc_logrotate.conf  
+#  
+compress  
+copytruncate  
+  
+/home/gavin/.bitcoin/debug.log {  
+rotate 5  
+}  
+

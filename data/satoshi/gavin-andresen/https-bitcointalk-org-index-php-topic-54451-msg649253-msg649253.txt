@@ -1,0 +1,50 @@
+
+
+Here's how to figure it out from the Satoshi client code:  
+  
+The IMPLEMENT_SERIALIZE macro is used to both store transactions on disk and
+to serialize them into a byte-array that can be hashed.  
+  
+For class CTransaction, that looks like:  
+
+Code:
+
+IMPLEMENT_SERIALIZE  
+(  
+READWRITE(this->nVersion);  
+nVersion = this->nVersion;  
+READWRITE(vin);  
+READWRITE(vout);  
+READWRITE(nLockTime);  
+)  
+
+  
+READWRITE is a wrapper that is overloaded to Do The Right Thing for all the
+types bitcoin deals with; for complex types like CTxOut, IMPLEMENT_SERIALIZE
+is (essentially) called recursively.  
+  
+Expand out all of the types and, assuming I didn't screw up (always an iffy
+assumption), it looks like a CTransaction is serialized as:  
+  
+
+Code:
+
+nVersion  
+vin.size (vectors are serialized as a compressed count immediately followed by
+their contents)  
+vin[].prevout (vin->prevout->hash followed immediately by vin->prevout->n, as
+36 bytes)  
+vin[].scriptSig (CScripts are serialized as a vector of bytes)  
+vin[].nSequence  
+... repeated for each vin  
+vout.size  
+vout[].nValue  
+vout[].scriptPubKey  
+... repeated for each vout  
+nLockTime  
+
+  
+String all those bytes together, SHA256 them twice, and you should get the
+transaction hash for the merkle chain.  
+  
+

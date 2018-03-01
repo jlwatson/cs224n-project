@@ -1,0 +1,21 @@
+
+
+[I'd delete this post if I could. It doesn't say much now. I had a post here
+saying we weren't in a bubble but I had a mistake on my spreadsheet. It now
+looks like we are. ]  
+  
+I would argue that BTC price is essentially determined by the number bitcoin
+users there are. In order to be a bitcoin user you must hold bitcoins. This
+means each additional bitcoin user creates demand. It is of course hard to
+determine exactly how many bitcoin users there are so I'll assume it is
+proportional to the number of forum users. (This isn't exactly true since the
+number of forum accounts is strictly increasing but the userbase isn't
+necessarily but I think since it is so new we can ignore this)  
+Anyway this is a chart of (BTC Price*# of coins)/(# of forum users)  
+  
+  
+  
+  
+(If someone has another metric to use other than forum membership I'd be glad
+to plug that in also)
+

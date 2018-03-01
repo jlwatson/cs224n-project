@@ -1,0 +1,13 @@
+
+
+Quote from: Isosceles on December 28, 2011, 01:31:09 AM
+
+Can you do a "1-of-1 or 2-of-2" transaction, where either the overseer spends
+the coins, or both the overseer & the holder spends the coins?  
+
+  
+You can do 2-of-3 (overseer holds 2, so can always spend, you hold 1) instead
+to accomplish the same thing. I suppose having the overseer put transactions
+in the block-chain that everybody can see might make you and the people you're
+paying trust them more...  
+

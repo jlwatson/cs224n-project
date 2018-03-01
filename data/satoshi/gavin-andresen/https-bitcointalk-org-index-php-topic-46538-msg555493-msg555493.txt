@@ -1,0 +1,14 @@
+
+
+Quote from: groffer on October 03, 2011, 04:40:04 AM
+
+If the mediator generates the script and you use the hash without checking the
+script then you would have to fully trust the mediator.  
+
+  
+So in an escrow situation all three parties have to exchange public keys and
+agree on one particular way of putting them together into a Script that they
+all agree on (so they all agree on the Script's hash). That seems OK-- the
+three parties have to exchange public keys before creating any transactions in
+any case.  
+

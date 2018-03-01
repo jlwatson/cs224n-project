@@ -1,0 +1,15 @@
+
+
+HarrKPeters: We are doing something like you suggest now: **2B+ lumens will be
+awarded to projects built on Stellar** more info here:
+https://bitcointalk.org/index.php?topic=1529992.new#new  
+and here: https://www.stellar.org/blog/build-challenge/  
+  
+Emerger: We are limited on how we can do it by US regulations. We have to
+ensure that we are not giving lumens to people on the US sanctions list. So we
+need some way of verifying who they are.  
+  
+Crypto*Digger: yes the distributed exchange is working but it depends on 3rd
+parties to become what we call anchors to put other currencies into the
+network.
+

@@ -1,0 +1,11 @@
+
+
+Quote from: kuzetsa on September 20, 2012, 03:03:09 PM
+
+So uhm, is 0.6.x effectively "long term support" version?  
+
+No, these are Luke's pet branches, which I think are a bad idea because they
+divert development and testing efforts away from the latest release.  
+  
+The first real 'stable' release will be 1.0, and we're not there yet.
+

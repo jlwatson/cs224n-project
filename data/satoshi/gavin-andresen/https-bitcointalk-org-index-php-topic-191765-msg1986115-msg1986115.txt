@@ -1,0 +1,10 @@
+
+
+Bitcoin Foundation uses CloudFlare to protect bitcoinfoundation.org from
+distributed denial of service attacks.  
+  
+As the message says, either your computer or a computer on the same network /
+ISP as yours was sending lots of spammy requests to CloudFlare. So they ask
+you to solve a CAPTCHA to prove that you're not part of the bad guy's botnet.  
+  
+

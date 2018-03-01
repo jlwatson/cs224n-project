@@ -1,0 +1,26 @@
+
+
+Why did you pick 0.0005 BTC ? That is a mostly arbitrary number.  
+  
+I estimate a current-worst-case "orphan cost" of an average 250-byte
+transaction is 0.00008 BTC. See https://gist.github.com/gavinandresen/5044482
+(more accurate analyses welcome, I don't pretend to have a monopoly on the
+"right" answer).  
+  
+That number will drop as CPUs get faster/cheaper, or bitcoin value rises. So
+you could argue that even though dust is not economical to spend today, in 20
+years it will be.  
+  
+So I guess I'll rephrase my question again: Rough, back-of-the-envelope: how
+much does it cost to keep a dust-like transaction output in the unspent
+outputs set for 20 years?  
+  
+If it is a lot, then we should set the "expected time when it will be
+economical to spend" to either "right now" or "very soon."  
+  
+If it is tiny, then we shouldn't worry so much about optimizing unspent txout
+size, and concentrate on other things.  
+  
+I have no idea what the answer is.  
+  
+

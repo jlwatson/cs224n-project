@@ -1,0 +1,10 @@
+
+
+In addition to documenting the on-the-wire protocol, I think we should
+document the rules a peer should follow. Some rules are for behaving
+cooperatively, such as participating in the flood-based broadcasting. Others
+are for using the network safely, how and when to validate incoming blocks and
+other data. I think you have some of this in the original wiki page RHorning,
+but I'm not sure it has all propagated to the new wiki.  
+  
+

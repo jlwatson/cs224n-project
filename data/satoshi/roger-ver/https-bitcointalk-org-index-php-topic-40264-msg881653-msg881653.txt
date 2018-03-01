@@ -1,0 +1,6 @@
+
+
+When displaying national currencies, the iPhone app should display a
+consistent number of decimal places.  
+  
+

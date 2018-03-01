@@ -1,0 +1,12 @@
+
+
+listunspent output is designed to be read by machines, not people, and its
+output is designed to go directly into createrawtransaction.  
+  
+If you need all the human-friendly details of a transaction, use
+getrawtransaction <txid> 1  
+  
+I'm against adding "address" to the listunspent output, because most of the
+time it will be unused and sometimes it would just not appear at all (because
+not all scriptPubKeys are bitcoin addresses).
+

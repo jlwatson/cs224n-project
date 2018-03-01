@@ -1,0 +1,14 @@
+
+
+Quote from: ThePiachu on December 30, 2011, 08:47:16 PM
+
+Anyone interesting in creating and testing more unit tests together?  
+
+  
+Good Idea. How are you creating the files?  
+  
+What language are you writing in? Anybody want to volunteer to write a
+Satoshi-bitcoin unit tester in C++ that parses ThePiachu's format? Or do you
+already have code that runs them? Committing a gazillion Script unit test
+cases to src/test/scriptTests/ sounds like a very good idea to me.  
+

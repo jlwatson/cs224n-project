@@ -1,0 +1,26 @@
+
+
+Quote from: Luke-Jr on January 11, 2012, 06:38:51 PM
+
+It basically makes a special-case out of a specific template. This is like
+saying "if you see a program that does X, instead of executing it, execute
+_something else_ instead".  
+
+  
+No, not "something else", it is "if you see this very-specific sequence of
+bytes in the scriptPubKey then do this ADDITIONAL validation."  
+  
+As for saying something in BIP 16 about obsoleting scriptPubKey : no. Although
+I think in the future we'll move towards all transactions being pay-to-script-
+hash, I think it is dumb to put anything like "we think this is what is going
+to happen in the future" into standards documents.  
+  
+Can we keep the big picture in mind? The reason I'm pushing so hard for "send
+bitcoins to a multisignature-protected-address" functionality is so users stop
+losing their bitcoins to malware infecting their computers and smartphones and
+to scammers.  
+  
+We can spend more months arguing over trivia, but I would much rather we spent
+the time thinking hard about, and building, great wallet and escrow solutions
+that solve Bitcoin's biggest technical problems.  
+

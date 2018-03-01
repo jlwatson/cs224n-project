@@ -1,0 +1,24 @@
+
+
+Quote from: jon_smark on February 01, 2011, 08:42:17 PM
+
+Here's my use case: suppose I have a potentially large number of users making
+transfers directed towards me (each using a separate account). My application
+will need to periodically poll the bitcoin daemon to find out what new
+transfers have been confirmed, so it can update the user's account/assets on
+the application side.  
+
+  
+Two thoughts:  
+  
+listaccounts [minconfirmations] (also new in 0.3.20, if I'm remembering
+correctly) will give you all accounts and their balances. If an account's
+balance doesn't change, you know it hasn't received coins.  
+  
+And why do you need to periodically update the user's account/assets? Could
+you just query bitcoind for their current balance when they fetch their
+'account status' page (or wherever you show the user how many bitcoins they
+have)? Are you doing something with the received bitcoins without an explicit
+action on the part of the user, and does that something care about the total
+balance or individual transactions?  
+

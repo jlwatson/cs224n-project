@@ -1,0 +1,23 @@
+
+
+Multisignature adoption has to follow a multi-step process:  
+  
+1\. A majority of miners have to put multisignature transactions into blocks
+so they get confirmed.  
+  
+2\. A significant fraction of everybody else has to relay multisignature
+transactions so they reliably get to the miners (preferably more than 50%).  
+  
+3\. Depending on what you're using multisig FOR (escrow? secure wallets?),
+more technical infrastructure will need to be built.  
+  
+4\. After all of the above is done... y'all will be able to reliably use
+multisignature transactions.  
+  
+April 1'st was the first step and we're doing pretty well with the second
+step, version 0.6 has a lot of support on the network already. In fact, it is
+going so well I think we should turn on the 'addmultisigaddress' JSON-RPC
+method so people can start creating and experimenting with multisig with the
+0.6.1 release.  
+  
+

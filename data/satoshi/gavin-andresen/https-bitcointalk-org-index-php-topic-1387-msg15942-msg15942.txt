@@ -1,0 +1,12 @@
+
+
+ByteCoin: cool! Are you finding alternative public keys for a given ECC
+private key? (are there multiple public keys for a given private ECC key??? I
+know very little about elliptic curve cryptography)  
+  
+And to all: I couldn't resist, I updated the patch so it can search for a
+regular expression and so it starts a separate thread and doesn't monopolize
+the RPC thread. My machine is busy looking for a bitcoin address that matches
+'^1Gavin' right now.  
+  
+

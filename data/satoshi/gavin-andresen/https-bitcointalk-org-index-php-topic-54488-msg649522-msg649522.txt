@@ -1,0 +1,6 @@
+
+
+I'll be uploading Release Candidate 2 binaries this afternoon, with two bug
+fixes from RC1 (text was being truncated in the wallet passphrase dialog box,
+and previous versions of bitcoin-qt did not display "alert" messages).  
+

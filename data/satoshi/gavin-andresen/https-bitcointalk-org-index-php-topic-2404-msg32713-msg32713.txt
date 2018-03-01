@@ -1,0 +1,35 @@
+
+
+Quote from: davout on December 23, 2010, 09:56:32 AM
+
+Yea, that particular edge case makes it pretty hard to track payments and map
+the transactions to database records  
+
+  
+If you expect a one-to-one relationship between transactions and bitcoin
+addresses, then yes, a multisend will be a problem for you.  
+  
+If I were implementing the anonymous fund-with-a-bitcoin-address system, I
+would do something like:  
+  
+Customer "Ed" gives a "send winnings to address"-- lets say it just happens to
+be 1Ed....  
+Casino gives a funding address -- lets call that address 1fundEd...  
+  
+Casino creates an account named "1Ed..." and associates it with address
+1fundEd.  
+So any coins Ed sends to 1fundEd.... go into the 1Ed... account.  
+  
+When Ed wants to place a bet, casino checks to see if he has money: getbalance
+1Ed....  
+If he does, he can place a bet.  
+If he wins, casino sends money:  
+move BANK 1Ed... <amount Ed won above his bet>  
+sendfrom 1Ed... 1Ed.... <amount Ed won> # Account name and cash-out address
+are the same.  
+If he loses:  
+move 1Ed... BANK <amount Ed lost>  
+  
+listtransactions is for showing Ed a detailed list of what happened to his
+account.  
+

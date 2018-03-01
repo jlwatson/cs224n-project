@@ -1,0 +1,17 @@
+
+
+The list of possible new features and bugs at
+https://github.com/bitcoin/bitcoin/issues is getting longer every day; I'd
+like to see the bugs resolved before the bug list gets so long we all just
+start ignoring it.  
+  
+So: who is willing and able to help out? Don't ask permission, just jump in,
+grab a bug that catches your interest, add comments to it as you start to
+figure out what the problem is (or isn't), and submit a PULL request when you
+have a fix.  
+  
+Your reward will be recognition, admiration and respect. It is time to take
+bitcoin from, essentially, a single-programmer project to a robust open source
+project with lots of contributors.  
+  
+

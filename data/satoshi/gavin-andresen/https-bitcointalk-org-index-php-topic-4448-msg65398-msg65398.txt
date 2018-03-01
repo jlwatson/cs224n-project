@@ -1,0 +1,27 @@
+
+
+Focusing on the use cases is the right approach.  
+  
+
+Quote from: Hal on March 14, 2011, 07:53:48 PM
+
+4\. Export selected keys for transferring their funds to someone else; the
+recipient imports the keys and gains access to the funds.  
+Any others?  
+
+  
+One variation:  
+  
+5\. Export keys to transfer funds to somebody else. Recipient is expected to
+import and then immediately send-to-self. Sender keeps the keys 'set aside' in
+the wallet until they are spent by recipient, or, if not spent by recipient
+(lost in transit maybe, or recipient chokes on a lollipop before having a
+chance to redeem), may be added back into the sender's balance.  
+  
+And one usability comment:  
+  
+Is "selected keys" the right way to go? Just selecting an amount of bitcoins
+to export/send seems like a better way to go (with a send-to-self transaction
+generated, if necessary, to create the right amount), with maybe an "advanced"
+option later that lets you select specific inputs to export/send.  
+

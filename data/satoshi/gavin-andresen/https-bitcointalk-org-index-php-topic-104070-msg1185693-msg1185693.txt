@@ -1,0 +1,19 @@
+
+
+BCDataStream.write takes binary data, so add a .decode('hex_codec') to the big
+long hex string:  
+
+Code:
+
+test.write("0100000001da8d10a3b749dbda1658298d84512836c1bfb2bcbe7b61dcdd3e508bcb7e1477000000006c493046022100e041a6e5df8c8b44231b4fee02b34e2f12d553ab54dc434c1bf95dffb68e5f8d022100c74e5318b4c209397be7e1ea4f4ef783d036f5fbe894918e8e31c72e49f75fc30121034ecf9a2859c419500001e05710bec6673db9a8ea5faaf07497c9c996e1d28f81ffffffff0280324c35800000001976a914fc8e972d3f4c41b44a3ee71051aaf52f107ceb0f88ac005cb2ec220000001976a914847641ad2efb44d949070bf6e7b1c367c70f194388ac00000000".decode('hex_codec'))  
+parse_Transaction(test)  
+{'lockTime': 0, 'version': 1, 'txIn': [{'sequence': 4294967295,
+'prevout_hash':
+'\xda\x8d\x10\xa3\xb7I\xdb\xda\x16X)\x8d\x84Q(6\xc1\xbf\xb2\xbc\xbe{a\xdc\xdd>P\x8b\xcb~\x14w',
+'scriptSig':
+'I0F\x02!\x00\xe0A\xa6\xe5\xdf\x8c\x8bD#\x1bO\xee\x02\xb3N/\x12\xd5S\xabT\xdcCL\x1b\xf9]\xff\xb6\x8e_\x8d\x02!\x00\xc7NS\x18\xb4\xc2\t9{\xe7\xe1\xeaON\xf7\x83\xd06\xf5\xfb\xe8\x94\x91\x8e\x8e1\xc7.I\xf7_\xc3\x01!\x03N\xcf\x9a(Y\xc4\x19P\x00\x01\xe0W\x10\xbe\xc6g=\xb9\xa8\xea_\xaa\xf0t\x97\xc9\xc9\x96\xe1\xd2\x8f\x81',
+'prevout_n': 0}], 'txOut': [{'value': 550650000000, 'scriptPubKey':
+'v\xa9\x14\xfc\x8e\x97-?LA\xb4J>\xe7\x10Q\xaa\xf5/\x10|\xeb\x0f\x88\xac'},
+{'value': 150000000000, 'scriptPubKey':
+'v\xa9\x14\x84vA\xad.\xfbD\xd9I\x07\x0b\xf6\xe7\xb1\xc3g\xc7\x0f\x19C\x88\xac'}]}  
+

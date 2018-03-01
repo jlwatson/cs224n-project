@@ -1,0 +1,30 @@
+
+
+As an online merchant who is trying to deal with these exact issues, I would
+like to offer a few thoughts.  
+  
+1\. I think it will be quite some time before items are priced ONLY in BTC. I
+think most merchants will list their prices in USD, EUR, Yen, RMB etc and ALSO
+be willing to accept BTC at the current exchange rate at the time of sale.  
+  
+2\. To deal with the wild exchange rate fluctuations merchants have three main
+options:  
+A. Hold onto the BTC in the hopes the value will increase further.  
+B. Find another merchant to spend the BTC to.  
+C. Exchange them immediately for a national currency.  
+  
+I suspect "C" will be the most common. With a little programming a system can
+be setup to calculate the required amount of BTC required at the time of sale.  
+In fact, bitcoincharts.com has a wonderful calculator that would allow a
+merchant to calculate how many bitcoins they would need to sell to receive the
+required amount of USD.  
+See here:  
+  
+  
+  
+With a little programming, I am sure an automated system can be setup where
+the merchant can sell their bitcoins for the expected amount of national
+currency as soon as they receive the payment. The sooner people can develop
+software to do this for common shopping cart programs such as Magento and Open
+cart, the sooner major merchants will begin accepting bitcoins as payment.
+

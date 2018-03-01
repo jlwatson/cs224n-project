@@ -1,0 +1,13 @@
+
+
+Y'all probably want this:  
+https://github.com/bitcoin/bitcoin/pull/491  
+  
+However, I don't think you can fix all the problems that a fixed transaction
+fee cause; the real problem is that basic economics says that you need to let
+the price of a scare resource change, ideally in a market, to match the
+underlying real costs.  
+  
+(bitcoin's fee structure isn't right either, and fixing it to create a market
+between miners and clients is high on the TODO list)  
+

@@ -1,0 +1,12 @@
+
+
+Quote from: mtgox on February 01, 2011, 08:20:55 PM
+
+Almost everyone had transactions from "united". It does NOT mean that your
+account was compromised. It does mean that the attacker has your username. It
+was just them using the merchant API to send you 0 BTC.  
+
+Does this mean the merchant API has/had a way of discovering account names?
+And this involved sending a dummy transaction of 0 to each account? Has this
+been fixed?
+

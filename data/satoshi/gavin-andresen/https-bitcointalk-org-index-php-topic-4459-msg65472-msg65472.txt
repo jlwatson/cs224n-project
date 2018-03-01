@@ -1,0 +1,29 @@
+
+
+RE: opening up the "store random stuff in the block chain" argument:  
+  
+Several things make me not worried about that:  
+  
+1\. OP_CHECKSIG drives network-wide costs (see the thread on network-wide
+transaction cost back-of-the-envelope calculations).  
+2\. New -limitefreerelay code will, I'm pretty confident, mitigate penny-
+flooding.  
+3\. 512 bytes plus inputs plus outputs will will make these either "very-low-
+priority-free" or over 1K non-free transactions.  
+4\. We're past the point where block chain download size is 'convenient' for
+new users. We should implement lightweight client mode (download only block
+headers until you start solo mining) as soon as possible.  
+  
+  
+RE: pregenerate a bunch of addresses to use for payment:  
+  
+I like that idea! If you're getting, say, 20 bitcoin orders a day then 1,000
+addresses would last you a month. And even if you recycled them when you ran
+out it should be easy to match orders to addresses based on the transaction
+date and amount...  
+  
+  
+The whole "click to pay" feature needs to be figured out, and should work
+nicely in all four cases of (customer,merchant) using (bitcoin,online wallet).
+My brain isn't up to it today, though...  
+

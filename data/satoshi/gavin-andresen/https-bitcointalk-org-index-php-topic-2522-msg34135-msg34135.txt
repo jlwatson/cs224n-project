@@ -1,0 +1,25 @@
+
+
+I'd love to see a pure-Javascript front-end GUI for bitcoind developed.  
+  
+I'm tempted to write one myself, but I've got a lot of other things on my TODO
+list right now. Here's what I'm imagining:  
+  
+\+ Open source, pure JavaScript interface to bitcoin that communicates with a
+running bitcoin/bitcoind using the JSON-RPC api.  
+  
+\+ Open up the index.html page that is the GUI and you'd be asked for the
+host:port (default: localhost:8332), username and password.  
+  
+\+ From there, you'd have a nice Javascript/HTML GUI showing all your wallet
+transactions (using RPC listtransactions).  
+  
+\+ And it'd show your default receiving address, have a Send Bitcoins button,
+etc.  
+  
+\+ And it'd poll bitcoin/bitcoind every, oh, minute or so to look for new
+transactions.  
+  
+I'm imagining shipping a webGUI/index.html (plus associated
+CSS/javascript/etc) as part of the bitcoin(d) source package.  
+

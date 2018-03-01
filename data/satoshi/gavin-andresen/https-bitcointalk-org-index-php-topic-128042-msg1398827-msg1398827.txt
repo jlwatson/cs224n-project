@@ -1,0 +1,16 @@
+
+
+Quote from: Hal on December 14, 2012, 01:43:57 AM
+
+bitcoin-qt tries to randomize the position of the change output, but I believe
+the code has a flaw...  
+
+Ay carumba, how did we not notice that for over two years?  
+  
+I introduced that bug with the 'sendmany' command two years ago (commit
+b9d1ed85). This is why programmers should not be trusted to test their own
+code (I probably carefully tested to make sure the change position looked
+random when I send to more than one destination, and never tested the
+degenerate send-to-one case; sigh).  
+  
+

@@ -1,0 +1,35 @@
+
+
+Quote from: [Tycho] on May 15, 2011, 01:56:43 AM
+
+Bitcoin addresses of all users were removed by me in order to implement new
+system for enhanced security.  
+Additional details will be available shortly.  
+  
+I found that someone changed bitcoin addresses of some users. I'm not sure how
+the attacker got passwords, but now you'll have to use e-mail confirmation for
+changing your wallet address.  
+I'm very sorry that I haven't implemented this feature earlier, so your stolen
+bitcoins **will be reimbursed**.  
+(Please note: I can't garantee that I can do such reimbursment in the future).  
+  
+Your money is safe and i'll give instructions on setting your address again.
+Please wait.  
+  
+A total of ~150 BTC were stolen: 136 from this user **and ~14 BTC from
+others**.  
+
+  
+Wow!  
+That is very generous of you!  
+Can I ask about how many users had their bitcoin addresses changed?  
+So this sounds like it means that none of my employees violated my trust. (I'm
+still implementing stronger security measures.)  
+Would you agree?  
+  
+I have been worried all day about who could be a thief at my company.  
+I was worried even more about it than the missing bitcoins.  
+  
+Thank you again, and I will gladly continue mining with deepbit because of
+your help! (I'll keep a much lower balance though)
+

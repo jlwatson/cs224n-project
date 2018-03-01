@@ -1,0 +1,16 @@
+
+
+Quote from: kjj on August 21, 2012, 08:38:15 PM
+
+Classical computing has a 50 year head start, but development in quantum
+computing will likely be faster (we already know how to miniaturize, and we
+have computer aided design and manufacturing tools). But not so fast that we
+won't see problems coming decades in advance and have plenty of chances to
+switch algorithms.  
+
++1  
+  
+I think I've said it before, but I'll say it again: I'll start to worry when
+there is a quantum computer that can factor 64-bit numbers faster than non-
+quantum computers. I bet that is at least 20 years away...  
+

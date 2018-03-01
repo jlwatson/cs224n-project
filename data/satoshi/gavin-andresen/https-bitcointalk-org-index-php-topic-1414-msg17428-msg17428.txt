@@ -1,0 +1,17 @@
+
+
+RE: how many free keys are in the pool:  
+  
+By default, there are at least 100 free keys in the pool, always.  
+  
+When a key is taken out, if the number of free keys drops below 100 (or the
+-keypool= number) another is generated.  
+  
+Keys are put back if they're unused-- for example, a key is needed for every
+miner hashing thread, so if you're on a 4-core machine and turn on coin
+generation and then turn it back off you'll wind up with 104 keys in the free
+pool.  
+  
+But for most people most of the time there will be exactly 100 free keys.  
+  
+

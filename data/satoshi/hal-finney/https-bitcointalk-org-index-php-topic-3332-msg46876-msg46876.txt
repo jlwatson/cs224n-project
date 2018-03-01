@@ -1,0 +1,9 @@
+
+
+Verifying an ECDSA signature takes about 3 ms. Let's say the typical
+transaction has 2 inputs. Each transaction is verified twice, once alone and
+once in a block. That's 12 ms per node, times 10000 nodes for 120 cpu-seconds,
+aka 2 cpu-minutes or 1/30 cpu-hour. I'm going to say a computer draws 300W @
+$0.10/kWh for electricity, for $0.03 per cpu-hour. YMMV. That makes $0.001 for
+cpu costs, a tenth of a cent, which appears to dominate.
+

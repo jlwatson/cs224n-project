@@ -1,0 +1,15 @@
+
+
+Quote from: theymos on February 23, 2011, 11:05:11 AM
+
+(Edit: Hal's explanation fits. People must be sending Faucet coins to the
+Faucet.)  
+
+  
+"people" is me-- when I tweak the Faucet's code I erase my IP address from its
+database and then have it send coins to itself as a sanity test.  
+  
+And Hal's right, Bitcoin chooses transactions to spend, not specific outputs
+(which only matters for sends-to-self, where you own both outputs of a
+transaction).  
+

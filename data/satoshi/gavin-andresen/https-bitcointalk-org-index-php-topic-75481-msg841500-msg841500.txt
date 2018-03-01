@@ -1,0 +1,34 @@
+
+
+Quote from: etotheipi on April 07, 2012, 08:42:43 PM
+
+I just realized one complication -- the 2-of-2 tx (or 2-of-3) has to be
+created and _fully signed_ before any of the spending tx can be created --
+because they need the tx-hash for the 2-of-2 txout, which won't be available
+until all signatures are collected.
+
+Yes, if Bob puts in a deposit it adds a step internally.  
+  
+I think for this to have a reasonable user-interface Alice and Bob's bitcoin
+clients will need to communicate in real time.  
+  
+My inclination is to add JSON-RPC methods to bitcoin-qt/bitcoind to support
+this, and not build it into bitcoin-qt's GUI (or at least not right away). I'm
+imagining Armory or little "let's make a deal" 2-party-escrow-apps that... Do
+The Right Thing.  
+  
+Random UI thoughts:  
+  
+Alice could be asked "How much do you trust Bob?" and "How much do you think
+Bob trusts you?" If an answer is "not at all" then propose an escrow that
+requires a substantial deposit. If the answer is "a lot" then maybe no deposit
+is required. It'd be way spiffy cool if it was automagically tied into the
+#bitcoin-otc web of trust sytem...  
+  
+(... more random thoughts: would IRC as the communication mechanism under the
+covers be a good or bad idea? might be a convenient way to prototype...)  
+  
+I'm imagining Bob gets the details of the proposed escrow and can either agree
+or disagree (maybe with a message to let Alice know what he WOULD agree to).  
+  
+

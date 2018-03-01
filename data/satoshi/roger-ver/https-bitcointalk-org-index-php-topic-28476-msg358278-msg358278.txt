@@ -1,0 +1,53 @@
+
+
+I was looking at this great little tool to convert BTC addresses into 2D
+Barcodes:  
+  
+http://qr.ma.eatgold.com/  
+  
+It then occurred to me that this could be a great way to help new physical
+businesses accept bitcoins.  
+  
+The idea is to make a website that lets a Bitcoin user to upload their:  
+1\. Bitcoin address  
+2\. optional company logo and text  
+  
+Then the website would output a page similar to the attached photo I made:  
+  
+  
+  
+The new Bitcoin merchant could then print out this page, and tape it next to
+their cash register so any customer with a smartphone can use it to pay with
+bitcoins.  
+  
+Making this webpage is beyond my skill set, but I am sure someone here can
+make this easily.  
+  
+I know several businesses that would likely start using bitcoins right away if
+they could do it this easily.  
+  
+Once this tool is created, we should also have a link to it from the "Retail
+Business" section of
+https://en.bitcoin.it/wiki/How_to_accept_Bitcoin,_for_small_businesses  
+  
+Any thoughts?  
+  
+\--------Edit-------  
+Bounty List:  
+www.memorydealers.com 1BTC  
+V4Vendettas 1BTC  
+  
+(2 BTC Total)  
+  
+  
+\-------7-16-2011 Edit------  
+1.5 BTC paid by myself.  
+  
+Now that a pretty decent tool is online at: http://ma.eatgold.com/accept/  
+  
+I posted a link to it from the Wiki here:  
+https://en.bitcoin.it/wiki/How_to_accept_Bitcoin,_for_small_businesses#Retail_businesses  
+Where else can we post this tool that people who need it can easily find it?  
+  
+Please post it online, and then post the link back here for us all to see.  
+

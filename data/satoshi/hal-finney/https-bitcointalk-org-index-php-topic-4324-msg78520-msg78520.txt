@@ -1,0 +1,14 @@
+
+
+I added a step to the wiki:  
+  
+# Recheck blockexplorer to make sure the address still shows the right amount,
+in case the block chain reorganizes  
+  
+Checking the address balance once, then waiting for more blocks, is not safe
+by itself as the transaction may go away.  
+  
+(Just realized my solution is still vulnerable: the transaction could pay you,
+go away, you wait n blocks, and a different transaction pays you, you recheck
+the balance and it looks good, but then the 2nd transaction goes away.)
+

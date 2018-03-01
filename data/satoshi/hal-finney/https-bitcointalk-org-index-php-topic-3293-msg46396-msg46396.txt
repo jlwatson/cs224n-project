@@ -1,0 +1,17 @@
+
+
+IMO one way to get a handle on a reasonable value for 1 bitcoin is via this
+formula:  
+  
+probability Bitcoin ultimately succeeds * value of 1 bitcoin if it succeeds  
+  
+Bitcoin has the potential to become the dominant currency for large-scale
+electronic transactions worldwide. If this happens, bitcoins could be worth
+millions of dollars each.  
+  
+So what is the probability of such a grandiose outcome? One in a million?
+Maybe so.  
+  
+I see the recent increase in value as a rise in the consensus probability that
+Bitcoin will succeed.  
+

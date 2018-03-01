@@ -1,0 +1,6 @@
+
+
+The sum of the IN values has to be greater than or equal to the sum of the OUT
+values. If it is greater, the difference is a transaction fee, collectable by
+whoever generates the block that includes this transaction.
+

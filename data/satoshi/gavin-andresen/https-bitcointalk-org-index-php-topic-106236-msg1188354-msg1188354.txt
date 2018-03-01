@@ -1,0 +1,16 @@
+
+
+Release candidate 3 binaries are up; major differences from rc2 are:  
+  
+1) Fix the IPv6 RPC problem (you will get a warning in debug.log, that is
+expected)  
+2) Updated translations  
+  
+\------  
+  
+We could use more people "gitian building" releases; if you have a machine
+with at least 3 gig of memory and 20 gig of disk space, you can now help
+reproduce the builds using LXC running inside something like VirtualBox:  
+https://github.com/bitcoin/bitcoin/blob/master/contrib/gitian-
+descriptors/README#L57
+

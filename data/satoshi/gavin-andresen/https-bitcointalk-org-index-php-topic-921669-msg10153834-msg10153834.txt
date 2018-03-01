@@ -1,0 +1,38 @@
+
+
+Quote from: inBitweTrust on January 12, 2015, 05:57:15 PM
+
+I applaud him for his intentions and honesty but I would suggest this is going
+too far as I would be comfortable recommending my luddite mother invest a
+couple thousand on the side and store it in the insured multisig vault with
+coinbase. People should diversify their investments and that includes
+partially investing into Bitcoin.  
+
+  
+Really?  
+  
+If your luddite parents' computer might already be compromised, they cannot
+securely connect to coinbase (or circle or any other easy-enough-for-a-
+luddite-to-use service) to set up an account. The might THINK they're
+connecting to coinbase/circle/whoever, but malware could be man-in-the-middle
+attacking the website they're looking at.  
+  
+They think they're opening an account at coinbase/circle/whatever... but
+they're just giving the attacker all their bank account information, getting
+bitcoin 'deposit' addresses from the attacker, etc. Your parents will have no
+clue until their bank tells them about odd wire transfers or they try to send
+bitcoin somewhere, it fails, and coinbase customer support tells them "Sorry,
+can't help you, you don't have an account with us."  
+  
+I would say the same about traditional online banking, except your luddite
+parents almost certainly already have a relationship with their bank, and the
+bank already knows their name and how to contact them. And it is harder for an
+attacker to man-in-the-middle the fiat banking system and get away with it,
+since identities are tied to bank accounts, wire transfers, etc.  
+  
+I don't know how the "Bitcoin for Luddites" problem will be solved. Maybe
+hardware wallets, maybe hardware authentication tokens, maybe Apple or Google
+will get iPhone or Android security tight enough to trust, maybe it will take
+"come to our branch to set up an account" to get good-enough security and
+usability.  
+

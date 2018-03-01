@@ -1,0 +1,19 @@
+
+
+If there is a longer fork with more work that your node thinks is invalid,
+you'll get this alert:  
+  
+Warning: Displayed transactions may not be correct! You may need to upgrade,
+or other nodes may need to upgrade.  
+  
+(see the GetWarnings() function in main.cpp).  
+  
+If you are on the fork with the most work... I suppose if the second-best
+chain was forked more than 6 blocks back and contained more than... oh, 5
+blocks and the timestamp on the last block in that chain was less than ?an
+hour ago? that could trigger another alert.  
+  
+All that might be tricky to implement-- either (or both) forks might
+themselves have forks. Or, theoretically, there could be three or more active
+forks, some of which might have equal proof-of-work...  
+

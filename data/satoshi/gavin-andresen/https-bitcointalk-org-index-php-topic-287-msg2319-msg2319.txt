@@ -1,0 +1,11 @@
+
+
+But how would you distinguish between a legitimate micropayment-processing IP
+and a spammy "I want to make Bitcoin use so much bandwidth nobody is willing
+to run it any more" IP?  
+  
+Really small micropayments seem to me to be a really hard problem, and I don't
+think Bitcoin should try to solve too many very hard problems all at once.  
+  
+  
+

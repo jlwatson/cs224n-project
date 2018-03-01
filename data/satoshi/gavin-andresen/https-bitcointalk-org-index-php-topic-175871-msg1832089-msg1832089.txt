@@ -1,0 +1,15 @@
+
+
+I think including a message that is NOT stored in the blockchain but is just
+broadcast across the network is a good idea. The receiver would only get the
+message if they were online and saw the transaction broadcast, but I think
+that would be fine (and perhaps services would spring up to deliver the extra
+transaction data associated with old transactions).  
+  
+First, though, I think the transaction memory pool needs to be re-implemented,
+and the transaction relaying rules need to be changed so that the entire size
+of the transaction (not just the part that will be stored in the block chain)
+is considered in the priority/fee calculations.  
+  
+And fixing the client so it calculates fees properly is higher priority...  
+

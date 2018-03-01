@@ -1,0 +1,10 @@
+
+
+Quote from: Red Emerald on February 02, 2012, 01:54:35 AM
+
+Have you found any cool vulnerabilities with this?  
+
+No, bitcoind is solid as a rock, both with and without the BIP 16 patches
+applied.  
+  
+

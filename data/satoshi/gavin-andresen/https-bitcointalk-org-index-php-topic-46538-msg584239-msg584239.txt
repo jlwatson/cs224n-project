@@ -1,0 +1,8 @@
+
+
+I don't know nuthin about error-detecting checksums, but I think the time it
+would take to implement it and argue about it would be better spent on more
+user-friendly, secure ways of making bitcoin payments. I haven't heard of even
+a single case of "I manually typed in a bitcoin address and the coins got lost
+because I made an undetected transposition error."  
+

@@ -1,0 +1,13 @@
+
+
+Quote from: lachesis on July 12, 2010, 09:39:23 PM
+
+Gavin, you COULD look at the previous owner of the coins and remove that
+address from your blacklist. However, I dunno about the IP data.  
+
+Yeah, I could, but it seemed like more trouble than it was worth; if you got
+coins from the Faucet into a non-empty wallet and then donated them back
+there's no guarantee that the donation back would be the SAME coins. I just
+don't want to deal with a lot of "I got five coins and then sent back ten but
+I still can't get more from the Faucet...."  
+

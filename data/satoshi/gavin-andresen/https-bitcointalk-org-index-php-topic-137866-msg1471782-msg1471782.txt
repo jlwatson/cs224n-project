@@ -1,0 +1,42 @@
+
+
+RE: what's my role in the core team: I try to do whatever needs to get done,
+that isn't getting done. Today I'm cross-compiling the 0.8 release and testing
+it on Windows, trying to track down a crash-at-exit issue and an excessive-
+memory-use issue that seems to only happen on Windows.  
+  
+When I'm not doing nitty-gritty things like that, I try to work on big, what-
+is-most-likely-to-make-Bitcoin-succeed problems.  
+  
+RE: why pay me a salary? "why pay for the cow if you can get the milk for
+free?"  
+  
+I told myself (and my wife) a couple of years ago that I wasn't going to sink
+dollars into Bitcoin-- that I'd sink time into it, and that I'd EARN bitcoins
+by starting a bitcoin-related startup.  
+  
+Well, there's enough core development work to keep me busy full time. I wasn't
+very happy doing core development work AND trying to make ClearCoin happen;
+I'm happier when I can concentrate on one thing. Besides, having my own
+startup introduces potential conflicts of interest (ClearCoin sparked
+conspiracy theories about why I push for multisig transactions so hard).  
+  
+RE: what if I get hit by a bus?  
+  
+Then the other core developers will carry on without me. I'm not
+indispensable.  
+  
+RE: Why should you join the Foundation? What is in it for you, personally?  
+  
+That is a hard question, because you can "free ride" -- if we're successful
+making Bitcoin successful, everybody will benefit. Personally, I don't respect
+people with that kind of "I'm not going to do it because I'm sure somebody
+else will" attitude, and I think in the long run the people who take the risks
+and roll up their sleeves and do the work needed tend to win in the end.  
+  
+Really, the main benefit of joining the Foundation is it is an organization
+full of people who **are** rolling up their sleeves and doing the work. If
+you're smart, you'll realize that networking with those types of people is to
+your long-term benefit.  
+  
+

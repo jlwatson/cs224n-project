@@ -1,0 +1,12 @@
+
+
+Quote from: Alex Zee on September 20, 2011, 08:08:39 AM
+
+Is there a way to un-encrypt the wallet?  
+
+No.  
+  
+Why not? I don't remember. Why would you want to un-encrypt it? (I ask because
+if you want to save an unencrypted backup then maybe a better feature would be
+"backup wallet" with an option to backup encrypted or unencrytped)
+

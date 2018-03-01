@@ -1,0 +1,38 @@
+
+
+Quote from: cypherdoc on January 03, 2012, 01:33:23 AM
+
+give me an example of a mistake at this stage of my scenario that would
+implicate the owner of D.  
+
+  
+Ok, here are three:  
+  
+Authorities gather enough circumstantial evidence to get a warrant. They raid
+the guy's house/office, and find a wallet on an unencrypted hard disk with
+private keys corresponding to "B". That should be enough evidence to convict.  
+  
+Or the guy thinks he's being clever by breaking up his 10,000 BTC into 50 BTC
+chunks and slowly, over time, transfers them to new wallets C, then D. Then
+deletes B and C.  
+But he doesn't realize that the graph of transactions he is creating would be
+IMPOSSIBLE to happen by chance if wallets B and C belonged to innocent
+bystanders (what are the chances that, say, 10,000 stolen bitcoins were broken
+up into a bunch of pieces and then just happened to end up later in the SAME
+wallet?)  
+  
+Or somebody with lots of connections to the bitcoin network is figuring out
+(with pretty good precision) what IP address each transaction is coming from.
+The guy doesn't use a proxy to hide his IP address, and the transactions from
+A->B->C->D all appear to come from IP addresses allow assigned by the same
+Internet Service Provider in the guy's town. The authorities subpoena the ISP
+and find out the guy was assigned those IP addresses when the transactions hit
+the network.  
+  
+\----  
+  
+All of the above is why I say it is hard to be anonymous when using Bitcoin,
+and I'd urge you not to do anything with bitcoins that would prompt The
+Authorities to bother getting subpoenas/warrants to try to figure out who you
+are.  
+

@@ -1,0 +1,20 @@
+
+
+Everybody likes this feature, and it feels like it is very close to being
+ready for inclusion.  
+  
+There are two reasonable requests in this thread that I think should be
+implemented before this is pulled:  
+  
+1\. Pieter's change to the API, so the <pubkey> is extracted/verified from  
+verifymessage <bitcoinaddress> <signature> <message>  
+  
+2\. ByteCoin's request that the <signature> be industry-standard-
+base64-encoded instead of hex or base58 encoded.  
+  
+  
+The nonce/no-nonce argument seems like "angels dancing on the head of a pin"
+to me; seems to me the tiny iota of theoretical added security (...sometime in
+the future maybe when SHA256 is broken or partly broken...) isn't worth the
+extra complexity.
+

@@ -1,0 +1,31 @@
+
+
+"1.c. Codified verification that can rigorously check if a transaction is
+valid or not for that particular template."  
+  
+Would this be codified by an extended scripting language, or by hard-coded
+logic in the client? I think it has to be a scripting language, otherwise it
+will be too hard to get agreement to add new templates. We would need to
+create scripting extensions to allow a wide range of new applications. For
+BitDNS we would need the ability to look back in the block chain and check if
+a given name has been registered before.  
+  
+"3. Every transaction must still comply with the existing enforced network
+rules. Such as no, double spending."  
+  
+With the kinds of scripting extensions I anticipate, we could actually replace
+all these implicit, hard-coded Bitcoin rules with explicit scripted tests. The
+same kind of script that could test that a new BitDNS name had not been
+registered before, could be used to test that a Bitcoin transaction wasn't a
+double-spend.  
+  
+There might be some template applications where the double-spending rules
+don't make sense. Some of the BitDNS proposals don't do true Bitcoin
+transactions at all, they piggyback extra data on top of a dummy Bitcoin
+transaction where you just pay yourself. It would be nice to remove this
+unnecessary part.  
+  
+In this view, the core logic of Bitcoin would check that blocks had the
+required difficulty, were properly formatted, and that their scripts all
+return true. Everything else would be done by application-specific layers.  
+

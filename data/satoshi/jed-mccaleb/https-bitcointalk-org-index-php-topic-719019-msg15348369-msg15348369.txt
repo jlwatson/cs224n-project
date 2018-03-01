@@ -1,0 +1,13 @@
+
+
+It doesn't even have to do that.  
+Stellar is perfect for remittances.  
+The majority of remittance traffic through stellar will use lumens as the
+bridge currency since it is much easier. So the market makers will have to
+maintain some float in lumens.  
+Let's assume we gain some traction in Nigeria.  
+There are ~$21B in remittances sent to Nigeria every year.  
+If you are interested in the potential price, you should calculate how much
+that float would mean the lumen price would have to be. That is one country
+and it is the floor and doesn't include the mark up for speculation.
+

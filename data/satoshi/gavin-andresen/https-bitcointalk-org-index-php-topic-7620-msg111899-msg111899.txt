@@ -1,0 +1,10 @@
+
+
+Quote from: bitlotto on May 09, 2011, 12:11:30 AM
+
+When the client says it needs a fee, inform the user if they waited "x" amount
+of time. The fee is waived.  
+
+  
+Good idea: https://github.com/bitcoin/bitcoin/issues/206  
+

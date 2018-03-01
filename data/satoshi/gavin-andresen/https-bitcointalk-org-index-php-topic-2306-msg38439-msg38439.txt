@@ -1,0 +1,21 @@
+
+
+Quote from: bitcoinex on January 15, 2011, 02:30:39 PM
+
+When will the official release of the next version of the client with these
+features?  
+
+  
+There's one tricky accounts-related bug that I think needs to get fixed before
+the next release:  
+https://github.com/bitcoin/bitcoin/issues#issue/25  
+  
+The only other possibly critical bug is:  
+https://github.com/bitcoin/bitcoin/issues/#issue/28  
+  
+... although I haven't been able to reproduce it, even running bitcoind on top
+of the 'valgrind' memory checker.  
+  
+I plan to pull patches into the integration git branch early next week, and
+I'll ask for help testing the result.
+

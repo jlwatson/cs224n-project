@@ -1,0 +1,12 @@
+
+
+I completely agree that more documentation is better, as long as you don't
+fall into the trap of "if the documentation says it it MUST be true."  
+  
+Suggestions on how to make the wiki better welcome (there is a discussion
+elsewhere about banning certain people from the wiki because they have a
+history of starting edit wars, which I would support, and discussion on the
+Foundation forums about making the wiki infrastructure independend of Mt. Gox,
+which I also support). Or volunteers to move technical documentation from the
+wiki to someplace better also welcome.  
+

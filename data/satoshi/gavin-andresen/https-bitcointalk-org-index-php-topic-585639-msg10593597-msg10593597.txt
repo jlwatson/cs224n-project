@@ -1,0 +1,11 @@
+
+
+... I managed to be wrong twice: I forgot about the AreInputsStandard check
+for P2SH transactions that makes any transaction with more than 15 signature
+operations non-standard.  
+  
+So if you REALLY need a m-of-16-to-20 transaction, use a non-standard raw
+CHECKMULTISIG, don't bother with Script gymnastics to try to workaround the
+520-byte push limit.  
+  
+

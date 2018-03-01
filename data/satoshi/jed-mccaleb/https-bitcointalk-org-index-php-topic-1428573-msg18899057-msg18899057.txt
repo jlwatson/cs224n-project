@@ -1,0 +1,7 @@
+> To claim the next air drop you only need to have bitcoins in an exchange
+like Poloniex?  
+  
+yes in an exchange that supports it. If you don't see your exchange listed
+here: https://www.stellar.org/blog/bitcoin-claim-lumens-2/ then contact them
+to suggest they support it.  
+

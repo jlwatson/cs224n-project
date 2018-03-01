@@ -1,0 +1,24 @@
+
+
+If we manage to get 55% or better on Feb 1, then for the next two week's I'll
+be sending out the message "Upgrade or you might be on the short end of a
+blockchain split come Feb 15" -- and I expect the result to be a large
+majority of miners supporting P2SH by the Feb 15'th switchover date. If we're
+still at 55% on Feb 7'th then I'll be worried, too, and might advise miners to
+push the hard switchover date a couple of weeks (if they're using the patches
+I'm creating then it is a command-line argument to bitcoind).  
+  
+The real danger is for the 45% -- after Feb 15 (assuming the switchover
+happens) all it takes is for one old miner who is including non-standard
+transactions in their blocks to create a block containing a transaction that
+is invalid under the new rules. They announce the block, and any miners who
+haven't upgraded would happily build on it, only to waste some hashing power
+because the 55% majority will sooner or later reject their chain.  
+  
+However, I don't think anybody will accidentally mine a block spending an
+'invalid under the new rules transaction' in it (the number of people mining
+non-standard transactions seems to be very small), and it seems unlikely an
+attacker would waste time solving one or more blocks that they knew were going
+to be rejected by a majority of the network.  
+  
+

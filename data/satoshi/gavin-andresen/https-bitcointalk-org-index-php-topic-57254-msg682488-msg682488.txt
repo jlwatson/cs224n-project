@@ -1,0 +1,39 @@
+
+
+Quote from: DeathAndTaxes on January 09, 2012, 02:53:53 PM
+
+There is no economic reason for a pool to reject any transaction w/ a 1
+satoshi fee.  
+
+  
+Why do you assume that?  
+  
+A pool operator will have hardware capable of validating X transactions per
+second. Right now, with low transaction volume, X is much bigger than current
+transaction volume, no matter what kind of hardware the pool operator is
+using.  
+  
+If we assume Bitcoin is successful, eventually the number of transactions to
+be processed will be bigger than X.  
+  
+The pool operator will have an incentive to sort transactions by the fee minus
+how expensive they are to process, and drop transactions that cost too much.
+(or maybe implement some more complicated strategy like Mike's assurance
+contracts-- I have no idea how it will evolve).  
+  
+
+Quote from: vess on January 09, 2012, 06:07:57 AM
+
+I wonder if it would be useful for miners to publish their transaction rules
+somewhere?  
+
+  
+Miners have an incentive to lie about transaction fees to clients-- they want
+higher fees, so even though they might accept 0.001BTC for a transaction they
+might tell clients that the fee is 0.005BTC.  
+  
+Clients should be able to get a pretty good idea of what transaction fees are
+needed (if any) to get a transaction into the block chain just by watching
+'tx' and 'block' messages and seeing what miners are actually doing, instead
+of trusting miners to tell the truth about what they are doing.  
+

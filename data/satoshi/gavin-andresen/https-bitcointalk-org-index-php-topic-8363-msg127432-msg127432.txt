@@ -1,0 +1,18 @@
+
+
+Quote from: WNS on May 18, 2011, 01:55:43 PM
+
+Okay I totally don't understand. If the block size is not a limit then why
+would anybody drop a tx that they had already paid the ECDSA price for?  
+
+  
+They haven't paid the ECDSA price. The decision is "I know how big this
+transaction, how many OP_CHECKSIG opcodes I'll have to compute to verify it,
+and how much transaction fees it pays. Should I do the work of verifying it or
+should I just ignore it?"  
+  
+  
+@ribuck: yes, the UI would be much simpler, but internally the client needs a
+model of what the miners are accepting. Maybe a really simple internal model
+will work if the UI is really simple...
+

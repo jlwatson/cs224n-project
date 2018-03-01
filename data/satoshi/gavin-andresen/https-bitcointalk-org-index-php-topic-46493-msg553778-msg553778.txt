@@ -1,0 +1,14 @@
+
+
+The new QT GUI (in git HEAD) has a nifty block-chain-download-progress
+indicator.  
+  
+I'd like to pull together a version 0.5 release candidate and start testing it
+early next week.  
+  
+Maybe the big feature for version 0.6 can be fast initial download (I'm
+thinking the best thing to do for brand-new, starting-with-an-empty-wallet
+installations is to download only block headers, function as a 'lightweight'
+client, and 'backfill' full blocks until you're caught up with the full
+chain-- then function as a 'full' client).  
+

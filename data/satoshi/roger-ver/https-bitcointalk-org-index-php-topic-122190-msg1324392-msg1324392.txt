@@ -1,0 +1,11 @@
+
+
+Quote from: sharky112065 on November 08, 2012, 03:16:59 PM
+
+Any plans to speed the site up? When I click on links, it takes a really long
+time before each page comes up.  
+
+  
+Currently all the caching is turned off while we make site improvements.  
+It will be turned back on soon and will speed things up a lot.
+

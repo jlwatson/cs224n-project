@@ -1,0 +1,25 @@
+
+
+Character set issues give me headaches.  
+  
+So I just ran a test at the command-line, moving 500 testnet bitcoins to an
+account named "฿"  
+  
+The account created is named "\u00E0\u00B8\u00BF", which is not what I
+intended. E0 B8 BF is the utf-8 representation of the unicode Thai Baht
+character.  
+  
+Thinking this through, trying hard not to get a headache...  
+  
+My terminal window has: LC_CTYPE=en_US.UTF-8  
+So when I copy&paste the Thai baht symbol, it is being encoded as UTF-8.  
+  
+I pass a UTF-8 string to bitcoind, and it uses the JSON-Spirit library to
+convert it into a JSON string (which is defined to be Unicode... encoded using
+backslashes, I think: see http://www.ietf.org/rfc/rfc4627.txt ). And there's
+the bug. Maybe. I think?  
+  
+Command-line bitcoind should be looking at the locale and converting JSON
+strings to/from that locale. Anybody motivated enough about internationalized
+account names (and send comments) to teach it to do that?  
+

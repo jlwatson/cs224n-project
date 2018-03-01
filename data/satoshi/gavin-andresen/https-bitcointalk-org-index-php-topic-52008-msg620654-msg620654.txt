@@ -1,0 +1,18 @@
+
+
+Quote from: wannaBhacker on November 16, 2011, 04:41:53 PM
+
+I have upgraded to RC5 0.5 XP SP 3. I have encrypted the wallet. How do I know
+if it worked for sure?  
+
+  
+To be absolutely sure, you need to extract your private keys and then run a
+tool to look for them in your wallet.dat file (or other files on your disk).  
+  
+If you are able to compile a custom version of bitcoin and run python, here's
+how:  
+https://gist.github.com/1361001  
+  
+If you can't compile a custom version of bitcoin or run python code, then
+you'll have to trust other people to thoroughly test.  
+

@@ -1,0 +1,45 @@
+
+
+Andreas M. Antonopoulos, author of "Mastering Bitcoin", public speaker,
+podcaster and pundit, is doing an AMA at: https://forum.bitcoin.com/ama-ask-
+me-anything/i-m-andreas-m-antonopoulos-author-of-mastering-bitcoin-public-
+speaker-podcaster-and-pundit-ask-me-almost-anything-t2549.html  
+  
+More about Andreas:  
+  
+
+Quote from: Andreas M. Antonopoulos
+
+Hello!  
+  
+I am Andreas M. Antonopoulos. I've been involved in bitcoin for 4 years, 3 of
+those as my full-time and only occupation.  
+  
+I'm a computer scientist with a Master's degree in Data Communications and
+have been coding since I was 11. For two decades I was a freelance security
+consultant, system administrator, IT manager and developer in a wide variety
+of roles. I've spent a lot of time working in the data centers of financial
+services companies.  
+  
+Once I discovered bitcoin and realized the power of this technology, I
+switched my focus entirely to bitcoin. I've written a technical book
+"Mastering Bitcoin" which is published by O'Reilly Media and also available as
+an open source title. The book is currently being translated into more than 30
+languages and can be read for free in 5 languages.  
+  
+You can buy the book from Amazon here:  
+http://www.amazon.com/Mastering-Bitcoin-Unlocking-Digital-
+Cryptocurrencies/dp/1449374042  
+  
+The source code for the book is here:  
+https://github.com/aantonop/bitcoinbook  
+  
+  
+I spend most of my time speaking at conferences, community meetups and doing
+interviews with both mainstream and independent media. You can find a
+collection of my videos here:  
+https://www.youtube.com/playlist?list=PLPQwGV1aLnTthcG265_FYSaV24hFScvC0  
+  
+I'm also the CTO of Third Key Solutions that specializes in multi-signature
+solutions for companies.
+

@@ -1,0 +1,12 @@
+
+
+Quote from: Andrew Vorobyov on May 31, 2012, 12:58:57 PM
+
+How can I create several multisignature transactions using same addresses?  
+
+Use one of the send commands to send to the multisig address several times and
+you will create several multisig transactions.  
+  
+addmultisigaddress does not create a transaction, it just creates a place for
+future transactions to go.  
+

@@ -1,0 +1,11 @@
+
+
+With davidonpda's help, I did some testing myself today with Satoshi's latest
+code changes (setting priority based on transaction age, bitcoin amounts in,
+and total transaction size in bytes -- svn rev 176).  
+  
+It behaved as expected, putting larger, older transactions ahead of the
+pennies being flooded into the network, so "normal" transactions will be
+confirmed promptly even if somebody decides to be a jerk and floods the
+network with transactions.  
+

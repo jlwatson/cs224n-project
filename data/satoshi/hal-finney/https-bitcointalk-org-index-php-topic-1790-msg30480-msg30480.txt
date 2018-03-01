@@ -1,0 +1,13 @@
+
+
+"To implement this simply requires adding one new field to each transaction,
+the 'name' (or hash) of the 'stock' being transferred."  
+  
+In the case of DNS this still leaves the problem of discovering where in the
+world are your DNS records hosted. I think you need one more piece of data,
+the IP addresses of your authoritative DNS name servers.  
+  
+I'm unclear on who gets to register new names in your scheme, how much they
+have to pay, and who receives thevpayment. Also, are name registrations
+permanent and forever?
+

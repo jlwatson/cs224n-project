@@ -1,0 +1,23 @@
+
+
+Testing changes to Bitcoin-Qt continues to be a chronic problem, and as
+alternative implementations of Bitcoin start to mature testing to make sure
+that they interoperate correctly and don't harm the network will become a big
+problem.  
+  
+Therefore, I'm creating a decentralized, transparent organization using the
+BetterMeans system. I'll need help from people willing to be fundraisers,
+testers, project managers, toolmakers, troll-catchers, etc.  
+  
+I'll create and hold a secure wallet that will be used for donations (at least
+until the project gets mature enough to turn over that responsibility to
+somebody else), but we'll use the BetterMeans "Credits" system so that
+everybody working on the project collaboratively decides who gets what, and
+what the priorities aught to be.  
+  
+So: it is easy to talk about stuff like this, who's willing to help make it
+happen? Send me an email at gavinandresen@gmail.com if this sounds like a
+project you'd like to help with, describing what you think the highest
+priorities for the project aught to be, how you could contribute, how much
+time you could contribute per week, and any relevant prior experience.  
+

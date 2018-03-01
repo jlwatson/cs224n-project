@@ -1,0 +1,11 @@
+
+
+Fine, then ponder this for a while:  
+https://bitcointalk.org/index.php?topic=42417.msg517020#msg517020  
+  
+Executive summary: asymmetric difficulty adjustments and adjustments based on
+time are really, really hard to get correct.  
+  
+I haven't thought about it hard, but I trust ArtForz when he says he thinks it
+is IMPOSSIBLE to get it right.  
+

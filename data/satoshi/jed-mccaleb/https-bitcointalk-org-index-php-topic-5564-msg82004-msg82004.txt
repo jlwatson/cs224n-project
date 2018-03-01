@@ -1,0 +1,17 @@
+
+
+imanikin: can you point to the threads explaining what you don't like about
+the DP?  
+  
+The DP definitely reduces volatility. It is hard to buy a sell a lot of BTC
+otherwise.  
+  
+The only other complaint I've heard about it is that it makes it hard for
+speculators to know how much they will move the market with an order. But the
+only reason to worry about this is if you want to do tricky things like dump a
+bunch of BTC to lower the price and then buy it back plus some. But I'm not
+sure this is such a bad thing.  
+  
+I tend to think it is fine how it is but the limit should be raised so it is
+really just very large orders.
+

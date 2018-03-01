@@ -1,0 +1,44 @@
+
+
+CAs will issue you multi-domain certificates for not a WHOLE lot more than a
+single-domain certificate, which suggests to me a possible short-term
+workaround/hack until DNSSEC/DANE is widely deployed.  
+  
+Get a certificate that is valid for these subdomains:  
+merchant.com  
+www.merchant.com  
+BaseBitcoinAddress.merchant.com (e.g.
+1gavinR2Y6RiHnEbf3sJBGbbKTc5t66do.merchant.com )  
+  
+(in X.509 speak: Subject Alternative Names)  
+  
+Payment requests from the merchant would include that certificate and the full
+public key (or script) that corresponds to 1baseBitcoinAddress.  
+  
+Bitcoin clients would have to notice that the merchant's SSL certificate
+included a bitcoin address as one of the top-level domains, and would need to
+reject any payment requests that didn't include the full public key/script
+(and would always pay to BaseBitcoinAddress*hash(payment_request) where '*" is
+whatever hierarchical deterministic wallet scheme we decide we like).  
+  
+
+* * *
+
+Reasons not to do this or why it might not work:  
+  
+* It is a hack.  
+* domain names are not case-sensitive (GOOGLE.com and google.com are the same); bitcoin addresses are.  
+* The extra cost to the merchant for the multi-domain cert might not be worth the incremental security benefit; if they have good monitoring (which they should), then they should detect an attacker's intrusion within minutes and so their potential loss might be tiny.  
+  
+
+* * *
+
+Edited, to add references to relevant standards:  
+  
+X.509 certificates for the Internet:  
+http://www.rfc-editor.org/rfc/pdfrfc/rfc5280.txt  
+  
+Subdomain names must be less than 63 characters and start with a letter:  
+http://www.rfc-editor.org/rfc/pdfrfc/rfc1034.txt  
+  
+

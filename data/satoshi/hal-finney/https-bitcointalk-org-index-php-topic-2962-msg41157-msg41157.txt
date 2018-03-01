@@ -1,0 +1,9 @@
+
+
+I was scared to upgrade since I had a fair amount of vintage bitcoins in
+there. But everything seemed ok. I'll play with it some more and see if I can
+get a key pool.  
+  
+I was wrong about the wkey, it would mostly add creation and expiration dates,
+maybe a future feature.  
+

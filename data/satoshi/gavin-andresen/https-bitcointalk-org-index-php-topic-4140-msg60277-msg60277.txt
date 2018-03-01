@@ -1,0 +1,19 @@
+
+
+Quote from: JollyGreen on March 05, 2011, 08:18:40 AM
+
+Seems like it would be useful if the GUI client had an option similar to the
+bitcoind "sendfrom" functionality. Do you think this would be impossible to
+try and get into the client? Am I just wasting my time?  I'm willing to do the
+work and write some code for review, but I don't want to go down that road if
+it's something everyone would basically vote down at review time.  
+
+  
+I wouldn't have any objections to changes that let you decide which input
+transactions or receiving addresses to choose when sending coins, as long as
+it is well-tested, follows the coding guildelines (see coding.txt in the
+source directory) and it doesn't make the "I just want to send some coins"
+case look more complicated (maybe hide it behind an Advanced... button in the
+Send dialog).  
+  
+

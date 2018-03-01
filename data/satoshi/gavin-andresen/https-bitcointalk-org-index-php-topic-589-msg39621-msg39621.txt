@@ -1,0 +1,21 @@
+
+
+Run one instance normally. It'll listen for incoming bitcoin network
+connections on port 8333, rpc connections on port 8332, and connect to other
+nodes.  
+  
+Run the other instance with a different -datadir, and a bitcoin.conf like
+this:  
+nolisten=1  
+rpcport=7332 (or whatever you like)  
+noirc=1  
+connect=127.0.0.1:8333  
+  
+You'll need to be running the latest source code from github for the nolisten
+option.  
+  
+The noirc and connect settings aren't strictly necessary; leave them out and
+the second instance will make 8 outgoing connections to other bitcoin nodes.
+You'll save a little network bandwidth if the nolisten instance only connects
+to the other node.
+

@@ -1,0 +1,28 @@
+
+
+Quote from: shads on November 03, 2011, 03:53:47 PM
+
+I just mean make a new tx after each new block appears or at least at some
+regular interval so we can test building blocks knowing that one of these new
+tx types is included. Actually if there's an rpc call available to create one
+that would work as well... Then people testing can just create one when they
+need it.  
+
+  
+I'm proposing one new RPC command: 'addmultisigaddress' ... that combines
+several public keys into one BIP 13 -style newfangled bitcoin address.  
+  
+You get the public keys from the 'validateaddress' RPC command, which I've
+extended to give the full public key if you give it one of your bitcoin
+addresses.  
+  
+I extended the 'send*' RPC commands so they know how to send to the newfangled
+bitcoin addresses, and can send coins you received as multisignature
+transactions if you hold all the corresponding private keys (listtransactions
+will also show you them, getbalance counts them in your balance, etc). So yes,
+anybody can generate new transactions to test...  
+  
+Alan Reiner is proposing BIP 10 as the 'real' way to get multisignature
+transactions signed and spent: https://gist.github.com/1321518  
+(no implementation yet, as far as I know).  
+

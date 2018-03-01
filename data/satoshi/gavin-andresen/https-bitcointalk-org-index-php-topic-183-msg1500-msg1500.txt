@@ -1,0 +1,19 @@
+
+
+Showing the number of Bitcoins available is on my TODO list. I just checked
+and the balance is up to 1,135 (thanks to whoever donated!).  
+  
+And right now it is 5 bitcoins per IP address (not bitcoin address). Not per-
+day-- just 5. I want to start out conservatively, I will loosen it to 5 per
+(day?/week?/month?) if people start having lots of trouble because they get a
+dynamic IP address from their ISP that already got some.  
+  
+RE: captchas: yeah, I was gonna start out with a captcha, but I wanted it to
+be as simple and non-threatening as possible. I don't _think_ anybody who has
+access to hundreds or thousands of working public IP addresses would go to the
+effort of writing a bitcoin-harvesting robot, though I suppose somebody with a
+botnet might take a crack at it. To make that tougher I could make it 5
+bitcoins per IP AND 5 bitcoins per bitcoin address (so they couldn't have all
+the bots in the botnet using the same BC address).  
+  
+

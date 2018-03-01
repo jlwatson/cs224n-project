@@ -1,0 +1,25 @@
+
+
+Quote from: caveden on April 02, 2013, 03:14:21 PM
+
+Quote
+
+There is one more change I'd like to make that is independent; re-define
+"dust" based on the floating transaction fee (e.g. a dust output is any output
+with a value of less than 1/4 the minimum fee-per-kb required to get into one
+of the next 6 blocks). And make any transactions with dust outputs non-
+standard, so they're not included in the memory pool or relayed.  
+
+  
+Why not applying the same logic you described above? (they only get dropped if
+they can't fit in your memory pool)  
+
+  
+Because dust outputs are more trouble than they're worth. They bloat wallets,
+cost more in fees to spend than they're worth (unless you go to ridiculous
+lengths to spend them), and are abused as a side-channel-in-the-blockchain-
+communication-mechanism.  
+  
+If I could go back in time, I would go back and try to convince Satoshi to
+make them non-standard to begin with....
+

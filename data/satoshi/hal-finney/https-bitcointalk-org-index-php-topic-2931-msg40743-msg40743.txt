@@ -1,0 +1,11 @@
+
+
+Now, when you connect to the port, the client spews out a version message,
+which reveals its identity. With the shy patch, there's no response. It could
+be ssh, could be torrent, could be bitcoin, could be http, could be anything.
+The scanner would have to try to send crafted packets for each of dozens or
+hundreds of known protocols, to try to elicit a response.  
+  
+Of course while we're all on 8333, it's pretty obvious what's what. But
+presumably that will change eventually.
+

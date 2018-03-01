@@ -1,0 +1,9 @@
+
+
+The wiki page is luke-jr's baby. Several of us are tired of having wiki-
+editing wars so we just ignore it.  
+  
+Suggestions for a better "RFC process" are welcome; which open source project
+should we emulate? (e.g. bittorrent has BEPs, python has PEPs, are there other
+models to follow?)
+

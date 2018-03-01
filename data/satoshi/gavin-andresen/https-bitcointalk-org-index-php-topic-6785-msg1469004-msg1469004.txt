@@ -1,0 +1,17 @@
+
+
+Quote from: davout on January 09, 2013, 09:53:19 AM
+
+Quote from: ErebusBat on January 09, 2013, 04:24:32 AM
+
+Why so long?  
+
+Because the wallet is massive  
+
+  
+... and because bitcoind's wallet code hasn't been optimized for massive
+wallets. "patches welcome"  
+(although I think the wallet code needs a complete rewrite, we've learned a
+lot over the last couple of years and need wallets that are much easier to
+back up and keep secure).  
+

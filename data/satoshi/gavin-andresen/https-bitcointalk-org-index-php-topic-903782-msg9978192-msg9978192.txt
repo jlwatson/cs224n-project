@@ -1,0 +1,30 @@
+
+
+RE: can't wrap your head around what the Bitcoin Foundation does:  
+  
+It is in big letters at the new https://bitcoinfoundation.org/ home page:  
+  
+
+Quote
+
+WHAT WE DO:  
+Fund development for Bitcoin  
+Core and common-good  
+bitcoin infrastructure
+
+  
+See the blog post from last month on the Foundation's "pivot" to focus on
+development and infrastructure:  
+https://blog.bitcoinfoundation.org/everybody-pivots/  
+  
+RE: "The Board appears to have not settled on an exact date":  
+  
+Settled 11 days ago; see https://blog.bitcoinfoundation.org/elections-update/
+for the exact dates for the two individual seats.  
+  
+The election dates for the 'affiliate member seat' isn't yet set, the process
+for affiliate organizations to nominate and then cast their votes is still
+being worked out (and you don't need to care, unless you are part of the
+leadership of one of the Foundation's affiliate organizations and need to
+figure out how you and your members will come to consensus on how to vote).
+

@@ -1,0 +1,14 @@
+
+
+https://github.com/bitcoin/bitcoin/pull/10  
+  
+Three changes to listtransactions:  
+  
+Add address to listtransactions output.  
+  
+"multisends" (non-standard, use one transaction to send to multiple addresses)
+generate N "category":"send" lines.  
+  
+Bug fix: listtransactions wasn't reporting pay-by-IP-connection receive
+transactions.  
+

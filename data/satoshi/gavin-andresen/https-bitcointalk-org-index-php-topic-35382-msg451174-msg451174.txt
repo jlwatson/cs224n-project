@@ -1,0 +1,35 @@
+
+
+Half-baked thoughts on transaction relaying (I agree that it may become a
+major problem because there are no incentives to properly relay transactions
+right now):  
+  
+I think writing code to reliably detect that a peer isn't relaying
+transactions is possible. Something like:  
+Generating a new transaction:  
+Pick a connected peer at random "P"  
+Relay new transaction to all nodes EXCEPT P  
+If, after a little while, P doesn't tell us about our new transaction then it
+is likely P is not relaying properly.  
+(assumption is that we are not P's only connection, and it will get the
+transaction from its other peers)  
+  
+And I think something like the above could be one of the metrics used to
+measure "ill-behaving peers" (other metrics might be number of double-spend
+transactions or orphan blocks received, number of spammy-looking transactions
+received, etc). If a peer is too ill-behaved, the penalty could be shunning--
+drop its connection and add its IP to a temporary refuse-connections list.  
+  
+(maybe lesser penalties make sense, too-- maybe order-of-relaying is based on
+good behavior, so the code announces new blocks/transactions to better-behaved
+peers fore worse-behaved peers).  
+  
+If cheating miners find themselves disconnected from the rest of the network,
+that is a strong incentive not to cheat.  
+  
+I'd really like somebody with a lot more network design experience than me to
+run some simulations and see what network behavior would be like with/without
+rules like I'm proposing. Or tell me that disconnecting ill-behaving nodes is
+a terrible idea because it makes it easy for an attacker to shatter the
+network into a gazillion pieces...  
+

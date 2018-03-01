@@ -1,0 +1,23 @@
+
+
+Seems like everyone's tugging in a different direction. Here are some of the
+specific issues:  
+  
+1\. Bitcoin main chain vs start a new chain, with DCCs ("DomainChain coins").  
+  
+2\. Permanent name registration vs renewal necessary.  
+  
+3\. Support for an unlimited family of applications vs just focus on DNS.  
+  
+4\. DNS "gateway" servers setting minimum transaction fees vs burning a DCC to
+register a domain.  
+  
+5\. Include in the block chain, in addition to domain name: just ownership
+public key, vs ownership public key plus authoritative DNS server IP
+addresses, vs arbitrary DNS records.  
+  
+6\. Single TLD .web or .p2p, etc., vs "advisory" TLDs which may be ignored,
+versus all TLDs being allowed in names.  
+  
+Any other issues/design choices which can be factored out?
+

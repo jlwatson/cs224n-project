@@ -1,0 +1,72 @@
+
+
+Quote from: ribuck on January 26, 2012, 09:45:00 PM
+
+1\. It's prudent to avoid executing data from the stack. Why? Because you have
+a scripts that manipulate data on the stack. Obviously the system is designed
+so that scripts can't manipulate the data that is going to be executed. But if
+there is a bug, you have all the pieces in place for an exploit. The script
+doesn't have opcodes to manipulate off-stack data, so Luke's implementation
+seems safer.  
+
+  
+Did you read BIP 16?  
+  
+
+Quote
+
+Validation fails if there are any operations other than "push data" operations
+in the scriptSig.
+
+  
+So there is no manipulation allowed AT ALL.  
+  
+
+Quote
+
+2\. Supporters of BIP 16 claim that it allows 5-10 times more headroom before
+block size limits are reached. Supporters of BIP 17 claim that it puts fewer
+bytes into the block. Can someone please make a clear statement about what
+these proposals actually mean for scalability?  
+
+  
+A maximum of 1,000 "naked" OP_CHECKMULTISIG operations are allowed in the
+scriptSigs and scriptPubKeys of transactions in any given block.  
+  
+We had a block earlier this month with 1,8000 scriptSigs, so I think we are
+uncomfortably close to that limit.  
+  
+BIP 16 "hides" the CHECKMULTISIGS in the serialized script, so more of them
+are allowed.  
+  
+
+Quote
+
+3\. It's clear that both BIP 16 and BIP 17 transactions can be spent by others
+if those transactions are broadcast before 50% of the mining power (plus a
+safety margin) supports them. It's also clear that the BIP 17 transactions are
+easier to spend in this situation. However I think this is a non-issue because
+(a) mining power will quickly rise above 50% once consensus is reached, and
+(b) who is going to broadcast these newfangled transactions before the mining
+power is there to support them?
+
+  
+At the very least BIP 17 is harder to test-- Luke had to test on the main
+network because I was naughty and wrote and ran a BIP-17-transaction-stealing
+bot (sorry, I couldn't resist).  
+  
+
+Quote
+
+3\. I have a vague feeling of undue haste. Gavin has already said that his
+motivation is the security of people's transactions, and I don't doubt it. But
+is that the whole motivation? Gavin needs to say whether it's commercially
+relevant to his current work project whether BIP 16 or BIP 17 is chosen (or
+how quickly the new functionality is firmed up). It's no big deal if Gavin has
+a commercial interest. In that case, he should just step aside from
+administering the oversight of this particular decision.  
+
+  
+I have zero commercial interest; I am not being paid by anybody for anything
+right now.  
+

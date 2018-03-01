@@ -1,0 +1,38 @@
+
+
+This has been lingering for months, and got bogged down in discussions of some
+nifty new mega-efficient binary protocol for stuff. That hasn't happened. So:
+https://github.com/bitcoin/bitcoin/pull/198  
+  
+This adds these new RPC commands:  
+  
+monitortx/monitorblocks: POST JSON-RPC to a URL when new wallet transactions
+or blocks are received.  
+listmonitored: list URLS that will be POSTed to  
+getblock: get information about a block, given depth in main chain.  
+  
+monitortx posts the same information you get from gettransaction.  
+monitorblock/getblock posts:  
+
+Code:
+
+{  
+"hash" : "00000000839a8e6886ab5951d76f411475428afc90947ee320161bbf18eb6048",  
+"blockcount" : 1,  
+"version" : 1,  
+"merkleroot" :
+"0e3e2357e806b6cdb1f70b54c3a3a17b6714ee1f0e68bebb44a74b1efd512098",  
+"time" : 1231469665,  
+"nonce" : 2573394689,  
+"difficulty" : 1.00000000,  
+"tx" : [  
+"0e3e2357e806b6cdb1f70b54c3a3a17b6714ee1f0e68bebb44a74b1efd512098"  
+],  
+"hashprevious" :
+"000000000019d6689c085ae165831e934ff763ae46a2a6c172b3f1b60a8ce26f",  
+"hashnext" :
+"000000006a625f06636b8bb6ac7b960a8d03705d1ace08b1a19da3fdcc99ddbd"  
+}  
+  
+  
+

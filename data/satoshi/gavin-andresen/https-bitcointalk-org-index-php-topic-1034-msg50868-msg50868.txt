@@ -1,0 +1,10 @@
+
+
+I just committed (to git and svn) an updated build-msw.txt  
+Thanks to m0mchil for putting together a working windows/mingw build
+environment.  
+  
+And I'll be making the 0.3.20 build environment virtual machines (for Windows,
+Linux32, and Linux64, in the Amazon EC2 cloud) public, hopefully, if all goes
+well, later today.  
+

@@ -1,0 +1,47 @@
+
+
+I just committed a minimal implementation of "accounts", as discussed a few
+weeks ago in this thread.  
+  
+If you're using the command-line or JSON APIs, you should be aware of a change
+that might make your code break: the sendtoaddress method will return a
+hexadecimal transaction id (256-bit hash) instead of the string 'sent'.  
+  
+All of the 'label' commands have been renamed; the old names are still
+supported but are deprecated and may eventually be removed.  
+  
+If you're developing a web service using bitcoin, the new 'sendfrom' and
+'move' methods can make it much easier to keep track of customer account
+balances. The API is intended to be used like this:  
+  
+Create a new account: just generate a unique account ID in your application
+(maybe customer's login name).  
+  
+Get a bitcoin receiving address associated with the account:  
+getaccountaddress <account_id>  
+Note: multiple bitcoin addresses can be associated with the account  
+  
+Send bitcoins from the customer's account:  
+sendfrom <fromaccount> <tobitcoinaddress> <amount> [minconf=1] [comment]
+[comment-to]  
+Will fail if <fromaccount> doesn't have enough bitcoins (otherwise returns
+transaction id)  
+  
+Move bitcoins between accounts:  
+move <fromaccount> <toaccount> <amount> [minconf=1] [comment]  
+Will fail if <fromaccount> doesn't have enough bitcoins  
+  
+Report account balance:  
+getbalance [account] [minconf=1]  
+  
+  
+The empty-string account is a little bit special. Any coins received on
+bitcoin addresses not associated with other accounts is credited to it, and
+coins sent via the (old) sendtoaddress method are debited from it.  
+  
+Coming soon, I hope, will be a gettransaction <txid> method to return details
+of a transaction that is stored in your wallet (like which account it was to
+or from and whether or not transaction fees were paid). And listtransactions,
+to get an accountant-friendly itemized list of all the transactions that went
+into any particular account balance.  
+

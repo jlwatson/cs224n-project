@@ -1,0 +1,25 @@
+
+
+Quote from: jav on February 04, 2011, 05:11:28 PM
+
+So as a merchant, you would then receive a transaction, broadcast it and wait
+- let's say 5 seconds - whether you see any conflicting transactions. If not,
+you accept it. If the attacker still manages to pull of a well-timed double
+spend, you know at least, that when the next few confirmation blocks come
+around, the fraud will be punished.  
+
+  
+So if the merchant sees an attempted double-spend within 5 seconds they accept
+the bitcoins but don't give the merchandise/service/whatever.  
+  
+That sounds like a good idea to me. Maybe instead of 5 seconds it aught to be
+"before the transaction is fully confirmed."  
+  
+The only drawback I see is buggy clients that might have bugs that cause
+'honest' double-spending mistakes.  
+  
+Oh, and merchants would have to explain to customers whey they kept their
+double-spent coins (although the merchants could easily produce both
+transaction IDs to show the world that it WAS a double-spend, so they
+shouldn't have to worry about their reputation being sullied).
+

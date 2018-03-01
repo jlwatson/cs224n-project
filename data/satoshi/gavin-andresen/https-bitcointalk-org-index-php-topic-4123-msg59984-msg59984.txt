@@ -1,0 +1,7 @@
+
+
+fread failed means bitcoin couldn't read some data off of your hard disk.  
+  
+You might want to invest in a copy of SpinRite and check your hard disk for
+errors.  
+

@@ -1,0 +1,31 @@
+
+
+Bitcoin aims to produce blocks every ten minutes. But the actual time between
+blocks is quite variable, being governed by the Poisson distribution. I listen
+to block formation, and this variability is apparent. It's not unusual for
+blocks to be formed just a few seconds apart, while sometimes an hour goes by
+without one.  
+  
+This variability is intrinsic to the hash solutions used by Bitcoin, and will
+not change even as the network grows. It may be a problem particularly for
+transactions that want a single confirmation. An application where a ten
+minute delay is acceptable might be in trouble if the delay becomes an hour.  
+  
+A way to reduce the variability while maintaining the average solution time is
+to split the hash problem up into several sub-problems. Instead of solving a
+hash puzzle with difficulty 16,000, solve 4 puzzles with difficulty 4,000. The
+total difficulty and average time to find a solution is the same, but the
+variability is much less. Splitting into even more sub-problems will further
+reduce variability.  
+  
+A downside to reducing variability is that we would have more block
+collisions, where more than one node solved the same block at about the same
+time. This would reduce the efficiency of the network, as nodes work on blocks
+doomed to be superseded, and blocks get reshuffled in and out of the longest
+chain. Also, it would give more advantage to the fastest node; in the extreme,
+if we eliminated all variability, it would win every time.  
+  
+So we wouldn't want to go too far with this. But splitting into a modest
+number of sub-problems could substantially reduce the odds of hour+ inter-
+block intervals, hopefully without causing too many problems.
+

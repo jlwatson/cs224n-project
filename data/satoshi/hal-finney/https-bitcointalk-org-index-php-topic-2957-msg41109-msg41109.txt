@@ -1,0 +1,5 @@
+
+
+I made some edits. It might be nice to explain what the various SIGHASH values
+are intended to be used for, and whether they will work at this time.
+

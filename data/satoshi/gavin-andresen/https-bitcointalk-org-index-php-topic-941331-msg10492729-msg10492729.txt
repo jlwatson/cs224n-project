@@ -1,0 +1,54 @@
+
+
+Quote from: NewLiberty on February 17, 2015, 02:05:21 PM
+
+This is where my conversation with Gavin fell apart. He was not able to
+acknowledge the concept of a too-high limit. His reasoning was that since the
+limit was only one-sided (blocks with size above it are prevented) that it
+couldn't be too high.  
+
+  
+Huh what?  
+  
+I am not proposing infinitely sized blocks, so I obviously acknowledge the
+concept of a too-high limit as being plausible.  
+  
+If you want to continue the conversation, please be very explicit about what
+problem you think needs solving, and how whatever solution you're proposing
+solves that problem.  
+  
+We might agree or disagree on both of those points, but we won't have a
+productive conversation if you can't say what problem you are trying to solve.  
+  
+To summarize my position: I see one big problem that need solving:  
+  
+Supporting lots (millions, eventually billions) of people transacting in
+Bitcoin.  
+Ideally at as low a cost as possible, as secure as possible, and in the most
+decentralized and censorship-resistant way possible.  
+  
+It is hard to get consensus on HOW to solve that problem, because no solution
+is obviously lowest cost, most secure, and most decentralized all at the same
+time, and different people assign different weights to the importance of those
+three things.  
+  
+My bias is to "get big fast" -- I think the only way Bitcoin thrives is for
+lots of people to use it and to be happy using it. If it is a tiny little
+niche thing then it is much easier for politicians or banks to smother it,
+paint it as "criminal money", etc. They probably can't kill it, but they sure
+could make life miserable enough to slow down adoption by a decade or three.  
+  
+"Get big fast" has been the strategy for a few years now, ever since the
+project became too famous to fly under the radar of regulators or the
+mainstream press.  
+  
+The simplest path to "get big fast" is allowing the chain to grow. All the
+other solutions take longer or compromise decentralization (e.g. off-chain
+transactions require one or more semi-trusted entities to validate those off-
+chain transactions). I'm listening very carefully to anybody who argues that a
+bigger chain will compromise security, and those concerns are why I am NOT
+proposing an infinite maximum block size.  
+  
+There **is** rough consensus that the max block size must increase. I don't
+think there is consensus yet on exactly HOW or WHEN.  
+

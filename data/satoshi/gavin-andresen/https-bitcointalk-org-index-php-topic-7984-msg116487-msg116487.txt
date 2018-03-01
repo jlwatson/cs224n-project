@@ -1,0 +1,32 @@
+
+
+Quote
+
+Why not just accept the fee when the bitcoins are placed in escrow? You can
+always refund them later if the transaction fails.
+
+  
+Because that requires that you do some math to figure out how many to send to
+pay the escrow plus release the right amount.  
+  
+And because I'm planning on eventually implementing "receiver creates and
+pays" escrow transactions, so merchants can setup escrow transactions (via the
+API) for their customers. Merchants are used to paying fees as just a cost of
+doing business.  
+  
+RE: how will I prevent you from creating new escrow transactions if you don't
+pay? Click on "Create Escrow" and you'll be taken to a page that politely
+explains you're not allowed until you pay. If you use the API, the
+create_escrow call will fail.  
+  
+I realize some people may try to cheat by using/creating multiple Google
+accounts. That will be a cost of doing business for me. Perhaps I will reserve
+the right to publish deadbeat account email addresses on a "hall of shame..."
+(I'd implement a Terms of Service Agreement to which you would have to agree
+before creating a new escrow)  
+  
+RE: will this affect coins in existing escrow accounts:  
+  
+No, existing escrow accounts will be unaffected, these new rules will be for
+new escrow accounts only.
+

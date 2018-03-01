@@ -1,0 +1,27 @@
+
+
+Quote from: paulie_w on September 06, 2012, 02:08:18 AM
+
+remember that gavin has said elsewhere on this forum, that they just see the
+satoshi client as a proof-of-concept, nothing more.
+
+  
+I've said that I think the download-and-install-software-on-your-PC is a
+mostly-dead way of using software, and that the vast majority of people using
+Bitcoin in a year or three will be using it via a web application or on their
+smart phone. That's half of the reason why I don't think improving the UI is a
+high priority right now (the other half is because I think solving wallet
+security and backup issues is critical).  
+  
+RE: 2112 and GAAP: "patches welcome." I don't know nuthin about GAAP, so if
+you're complaining that the reference implementation doesn't adhere to them
+then I'm not surprised. Feel free to fix that, or write a detailed proposal on
+what's wrong, why it'll cause problems, and how it ought to be fixed.  
+  
+RE: funding development: funding open source software projects is tricky; if
+done poorly you end up with a couple of paid developers and lots of
+disappointed unpaid former contributors who decide "I'm not gonna work if I'm
+not gonna get paid."  
+  
+That said... stay tuned, and I'll say more when I can.  
+

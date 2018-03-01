@@ -1,0 +1,24 @@
+
+
+Quote from: Joe200 on September 20, 2012, 06:42:22 PM
+
+Why not try it? It should be easy to implement. Instead of arguing, let's just
+try it. You think it won't work, great. Let's try it.  
+
+  
+Yes, go ahead and implement it. Here's a thumbnail sketch of one way to start:  
+  
+\+ Create a web service that lets anybody upload their email address and a
+list of public keys.  
+  
+\+ Send the user an email whenever 'tainted' coins are sent to any of those
+public keys, telling them how tainted they are and where they came from.  
+  
+That's it.  
+  
+For extra credit, you could let users upload their wallet.dat files (private
+keys encrypted, I would hope) and auto-extract all the public keys in the
+wallet. Heck, if you stored the private-key-encrypted wallet.dats you might be
+able to charge a little for both blacklist detection and wallet backup.  
+  
+

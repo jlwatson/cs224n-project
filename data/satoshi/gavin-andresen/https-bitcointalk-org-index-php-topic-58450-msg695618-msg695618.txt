@@ -1,0 +1,23 @@
+
+
+Quote from: pc on January 16, 2012, 06:56:20 PM
+
+If somebody were mining using 0.5.0 or 0.5.1, could they have in theory been
+"tricked" into building onto malicious blocks?  
+
+  
+No, that's not a realistic attack.  
+  
+For an attacker to feed you a malicious block chain, they would have to be
+able to produce malicious blocks that have CORRECT proof-of-work. I don't
+think it is realistic to think that any attacker would throw lots of hash
+power onto a malicious block chain just so they can feed a bad block chain to
+somebody who connects to them.  
+  
+Especially since that somebody would discover that their version of the block
+chain was incorrect within about 10 minutes, as soon as they got a new block
+message.  
+  
+The bugfix was a "belt and suspenders" change to limit the potential damage
+from somebody who already had more than 50% of hashing power.  
+

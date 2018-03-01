@@ -1,0 +1,9 @@
+
+
+Thoughts:  
+  
+We need better authorization and authentication for payments. See
+https://gist.github.com/2217885 for my complete thoughts; the "are you paying
+who you think you are paying" process is relevant even if you're using a
+singlesig wallet.  
+

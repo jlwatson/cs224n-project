@@ -1,0 +1,10 @@
+
+
+Quote from: Joozero on June 11, 2010, 08:11:23 PM
+
+Will you share the source code of your service?  
+
+I'd be happy to share the interesting bits, but the architecture is... um,
+unique. I'll start a thread on the Development forum describing how I built
+it.
+

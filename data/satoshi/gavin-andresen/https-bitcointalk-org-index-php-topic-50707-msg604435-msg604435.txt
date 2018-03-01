@@ -1,0 +1,103 @@
+
+
+I just sent this email to several of the top mining pools; I'm also putting it
+here to get wider feedback from "the mining community":  
+
+* * *
+
+I'm writing to the top mining pools to see if you will support Bitcoin
+Improvement Proposals 11, 12, and 13:  
+https://en.bitcoin.it/wiki/BIP_0011  
+https://en.bitcoin.it/wiki/BIP_0012  
+https://en.bitcoin.it/wiki/BIP_0013  
+  
+I think they are critical to making Bitcoin more secure for people who have
+never heard of GPG or AES. They don't solve the wallet security problem, but
+they put in place low-level mechanisms that will allow higher-level services
+that DO solve the "computer virus stole my bitcoins" problem. Once multi-
+signature transactions are supported by the network, Bitcoin wallets can be
+coded to contact "Wallet Protection Services" to get a second
+signature/authorization before coins can be spent (details of exactly how the
+Wallet Protection Service and the client communicate will be in future BIPs).
+They will also make it possible to create escrow services that cannot spend
+the bitcoins in escrow among other interesting use cases.  
+  
+This same feature might be used to keep your pool's bitcoin balances more
+secure, also-- you could run your own Wallet Protection Code on a separate
+machine that (perhaps) required manual intervention before providing a second
+signature on pool payouts if some unusual payout activity was occurring
+because somebody managed to break your security and get access to the pool's
+wallet.  
+  
+I'm proposing extreme caution rolling out support for multi-signature
+transactions, and, especially, supporting the OP_EVAL feature that allows more
+secure bitcoin addresses-- and that is why I'm asking you whether or not
+you're willing to patch your mining pool software sometime in the next two
+months to support the new 'standard'  
+transaction types.  
+  
+I've already written an implementation for Bitcoin 0.5 that will soon become a
+PULL request.  
+  
+The new features are backwards-compatible with existing miners and clients,
+but we do have to be careful when rolling out OP_EVAL because an attacker
+could create non-standard transactions and try to split the block-chain.  
+  
+Here is the timeline I've proposed in BIP 0012 :  
+  
+Now until Jan 15, 2012 : miners update their software, start including
+CHECKMULTISIG and OP_EVAL transactions in blocks they mine, and indicate
+support by including the string "OP_EVAL" in the blocks they produce.  
+  
+Jan 15, 2012: we assess support for the new feature by looking at the
+percentage of blocks that contain "OP_EVAL". If a majority of miners are not
+supporting it, then deployment will be delayed or cancelled (a setting in
+bitcoin.conf controls the switchover date, with the default being Feb 1,
+2012).  
+  
+Feb 1, 2012: assuming there was majority support on Jan 15, OP_EVAL is fully
+supported/validated.  
+  
+\--------------  
+Questions I have for you:  
+  
+Is there anything I can do to make it easier for you to support these new
+features? For example, would patches against an earlier version of bitcoind be
+useful? (if so, what version?)  
+  
+Is the timeline reasonable?  
+  
+Questions you might have:  
+  
+What happens if you don't support these new transaction types but a majority
+of other miners do?  
+  
+If you do not put non-standard transactions in your blocks, then nothing will
+happen.  
+  
+If you DO put non-standard transactions in your blocks, then you would be
+vulnerable to an "invalidate blocks under the new rules" attack, where
+somebody sends you a transaction that is valid under the old interpretation of
+the OP_EVAL opcode (which is a no-op) but not valid under the new rules. Your
+miner would put that transaction in blocks that you mine, and all of your
+blocks would be rejected by the majority of miners.  
+  
+What happens if you DO support these new transaction types but a majority of
+other miners do not?  
+  
+All transactions that you put into blocks will be valid under both the old
+rules and the new rules, so there is no danger that blocks you create will be
+rejected by the network. There IS a danger that the rest of the network will
+accept a block under the old rules that you consider invalid under the new
+rules; that is why I am proposing that we evaluate acceptance of the new rules
+on January 15.  
+  
+Can you support one of the BIPs but not all of them?  
+  
+Yes-- supporting CHECKMULTISIG as a standard transaction type (BIP 11) can
+safely be deployed right now, there is no danger of a block-chain-split, etc.  
+  
+BIPs 12 and 13 will let users (or mining pools) use short bitcoin payment
+addresses to have bitcoins go directly into secure, multi-authentication-
+required-to-spend wallets.  
+

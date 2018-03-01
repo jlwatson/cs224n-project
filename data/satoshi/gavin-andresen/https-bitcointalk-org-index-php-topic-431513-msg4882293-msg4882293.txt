@@ -1,0 +1,32 @@
+
+
+How do transaction fees work in Ethereum?  
+  
+One of the non-obvious reasons Bitcoin works is transaction fees are based on
+the size (in bytes) of the transaction. And since there are no loops executing
+a transaction, CPU usage is bound by transaction size.  
+  
+If CPU usage to verify a transaction is NOT related to the transaction size,
+then you open yourself up to denial-of-service attacks. Like:  
+  
+Create an Ethereum transaction with a (huge!) fee that will pay for 60 seconds
+of CPU execution time.  
+... but craft it so execution takes 61 seconds (or, heck, make it an infinite
+loop, maybe you'll tickle a bug in the execution termination code).  
+  
+Now broadcast it. It will be rejected for insufficient fee, but _only after
+peers have wasted 60 seconds of CPU time_. And if the transaction is rejected,
+the attacker won't pay the fee.  
+  
+Then tweak it slightly and broadcast it again, maybe from a different IP
+address if you got banned for bad behavior.  
+  
+
+* * *
+
+I haven't thought deeply about whether or not there is a way to punish the
+attacker; my first thought would be to publish the attacker's transaction and
+take the fee but ignore any other effects of the transaction, but you'd have
+to be careful to design THAT mechanism so it couldn't be abused.  
+  
+

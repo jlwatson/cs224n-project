@@ -1,0 +1,11 @@
+
+
+Before you copy the blk* files, you must run with the -detachdb option and
+make sure you shutdown bitcoin and wait for it to exit completely. With 0.6.2,
+we change the default from "take a long time to shut down, but leave
+standalone .dat files" to "shutdown quickly, but leave .dat files that are
+tied to the database/log.* files".  
+  
+Too many ordinary users were quitting bitcoin and then immediately powering
+off their systems, leaving the database in a bad state.  
+

@@ -1,0 +1,20 @@
+
+
+Wait a while and they will be free again.  
+  
+If you are sending 1 BTC (that you just received) in a 250 byte transaction,
+you need to wait 24 hours (1 day).  
+Send 0.25 BTC, you'll need to wait 4 days.  
+Send just 0.01 BTC as a 250 byte transaction, and you need to wait 100 days
+before you'll be allowed to send it for free.  
+  
+priority is calculated as: #BTC * #confirmations / transaction size.  
+Very-low-priority is defined as less than 1 * 144 / 250 (1 BTC, 144
+confirmations == 24 hours, 250 bytes), and they require a fee.  
+  
+The tentative plan is for fees to be reduced to ~~5 mils (0.005 BTC)~~ half a
+mil (0.0005 BTC) for the next release. Changing the definition of "very low
+priority" at the same time probably makes sense.  
+  
+(corrected proposed fee)
+

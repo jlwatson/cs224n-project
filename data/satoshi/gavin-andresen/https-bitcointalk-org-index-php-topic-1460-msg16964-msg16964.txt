@@ -1,0 +1,23 @@
+
+
+svn r167 is a tweaked makefile.unix that Xunie reports allows bitcoind to
+compile cleanly on Ubuntu 10.04 x86_64.  
+  
+I tested on my Debian box and it does no harm; let me know if it breaks the
+build on any other unix flavors.  
+
+Code:
+
+Index: makefile.unix  
+===================================================================  
+\--- makefile.unix (revision 166)  
++++ makefile.unix (working copy)  
+@@ -26,7 +26,9 @@  
+-l ssl \  
+-l crypto \  
+-Wl,-Bdynamic \  
+\- -l gthread-2.0  
+\+ -l gthread-2.0 \  
+\+ -l z \  
+\+ -l dl  
+

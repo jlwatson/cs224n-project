@@ -1,0 +1,23 @@
+
+
+Quote from: JoelKatz on September 23, 2011, 11:05:23 PM
+
+(If there was nothing CPUs do best, why would be using them?)  
+
+  
+Well, CPUs are easy-to-program general purpose hardware that can do lots of
+things (and several things at the same time, in these days of multicore CPUs)
+pretty darn fast.  
+  
+GPUs are hard-to-program more-specialized hardware. These days they can do
+pretty much any raw calculation a CPU can do, faster-- it just takes a lot
+more effort on the programmer's part to figure out how. That extra effort is
+only worthwhile for the most performance-critical code.  
+  
+When I worked at Silicon Graphics I saw several interesting algorithms
+implemented using OpenGL operations reading and writing to texture memory
+and/or the accumulation buffer and/or the framebuffer. That was before OpenCL
+and GPU programming languages, but the experience gave me a lot of respect for
+the ability of good programmers to look at problems sideways and come up with
+... interesting ... solutions.  
+

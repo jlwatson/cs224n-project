@@ -1,0 +1,43 @@
+
+
+In another thread marcus of augustus says:  
+  
+
+Quote from: marcus_of_augustus on May 31, 2014, 09:38:04 AM
+
+Another "Troll" here:  
+  
+On the minus side of the ledger, Gavin omitted to mention the X.509 privacy-
+destroying functionality for the unaware that has been implemented as the
+default behavior of the "payment protocol" in 0.9 clients.  
+
+  
+I'll break my rule about feeding trolls again to debunk for about the
+hundredth time the myth that the use of X.509 certificates in the payment
+protocol is bad for privacy.  
+  
+It is not.  
+  
+If you are in a customer/merchant situation, the customer's privacy is not
+affected AT ALL. The merchant's identity is in the X.509 certificate, the
+customer is as anonymous as always (which is very often "not anonymous",
+because the merchant needs to know something about the customer to deliver
+their product).  
+  
+If you are a merchant, then part of the PURPOSE of the payment protocol is to
+provide a cryptographically secure, verified-in-some-way identity.  
+  
+If you are a merchant and want an pseudanonymous then that is easy: set up an
+anonymous email address and then get a free email certificate from any of the
+certificate authorities that provide them.  
+  
+If you have a philosophical hatred of X.509 and certificate authorities...
+then please invent a better identity verification system and get the world to
+adopt it. The payment protocol is specifically designed to make it easy to
+slide in a better system.  
+  
+(but if you have a philosophical hatred of X.509 then what are you doing
+posting here at bitcointalk, whose security relies on the very X.509
+certificates you find so despicable? There ARE alternatives, you should go
+hang out in forums.i2p or a Tor-based forum...)  
+

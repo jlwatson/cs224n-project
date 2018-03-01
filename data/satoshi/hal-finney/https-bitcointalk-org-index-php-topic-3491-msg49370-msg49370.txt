@@ -1,0 +1,10 @@
+
+
+The Double Trouble game only waits for one confirmation. This should take ten
+minutes on average. Unfortunately, the time is highly variable, from a few
+seconds to more than an hour. Makes for a frustrating experience sometimes.  
+  
+Gambling games need to switch to a chip system like real casinos. You'd buy
+chips with a delay, then gamble with them with instant payouts, cashing out
+any time.
+

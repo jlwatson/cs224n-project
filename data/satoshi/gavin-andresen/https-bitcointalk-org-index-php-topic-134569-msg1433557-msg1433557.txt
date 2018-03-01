@@ -1,0 +1,21 @@
+
+
+Quote from: oOoOo on January 03, 2013, 11:37:10 PM
+
+^As of Jan/13 are they all still required? Anything missing? Can I follow the
+instructions found here:  
+https://github.com/bitcoin/bitcoin/blob/master/doc/build-osx.txt ?  
+
+Yes, those instructions should work, but build-osx.txt tells you how to build
+bitcoind. See  
+https://github.com/bitcoin/bitcoin/blob/master/doc/readme-qt.rst  
+... for very similar instructions on building Bitcoin-Qt  
+  
+readme-qt.rst suggests downloading and installing the `Qt Mac OS X SDK` from
+the QT website, but you can also:  
+port install qt4-mac  
+  
+If something doesn't work, post here, or, even better, submit a patch for the
+documentation.  
+  
+

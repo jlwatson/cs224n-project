@@ -1,0 +1,13 @@
+
+
+I can see the GUI not allowing a less-than-CENT to save fat-fingered users
+from themselves, but I think the RPC should allow it; at the very least it
+makes it possible for a kind of grass-roots movement to arise between miners
+and people generating transactions so if we start seeing a lot of transactions
+with less-than-CENT-per-kbyte-fees then that's a really good indication the
+default definition of "free" needs to change.  
+  
+And now that the RPC and GUI allow full-precision amounts for send/move, there
+is no problem with "I got 50.000001 bitcoins from mining, how do I send ALL of
+them?"
+

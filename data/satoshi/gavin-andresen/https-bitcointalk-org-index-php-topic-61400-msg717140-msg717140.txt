@@ -1,0 +1,12 @@
+
+
+(channelling my inner CoinHunter):  
+  
+It is _**SIMPLE ECONOMICS**_ , people!  
+  
+price = function(supply,demand)  
+  
+So to create more demand, just fix the price and the supply! Easy-peasy!  
+  
+(ok, done, back to reality)  
+

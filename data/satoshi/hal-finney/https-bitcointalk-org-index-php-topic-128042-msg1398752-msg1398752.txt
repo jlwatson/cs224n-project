@@ -1,0 +1,15 @@
+
+
+bitcoin-qt tries to randomize the position of the change output, but I believe
+the code has a flaw:  
+  
+// Insert change txn at random position:  
+vector<CTxOut>::iterator position =
+wtxNew.vout.begin()+GetRandInt(wtxNew.vout.size());  
+wtxNew.vout.insert(position, CTxOut(nChange, scriptChange));  
+  
+The problem is that size() is one in the common case of one payee, so
+GetRandInt will always return 0.The change ends up in the first output.  
+  
+I think it should be size()+1.
+

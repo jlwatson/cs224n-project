@@ -1,0 +1,58 @@
+
+
+RE: 0-confirmation OP_EVAL transactions:  
+  
+I think I'm doubly-wrong.  
+  
+OP_EVAL transactions are non-standard to old clients, so they are dropped
+before being added to the memory pool. Old clients will not relay them, old
+miners that follow the IsStandard rules won't put them in blocks.  
+  
+When a transaction comes in that depends on a transaction that is not in the
+block chain or memory pool, it is shunted into the orphan transaction pool,
+and isn't listed by listtransactions or show up in the GUI until all of its
+inputs are satisfied.  
+  
+The risk would be a rogue miner putting invalid OP_EVAL transactions into
+blocks, which would trick old clients into showing transactions that depend on
+them as 0/ or 1/unconfirmed.  
+  
+  
+RE: "but bitcoin addresses are UGLY and the WRONG way to do it!"  
+  
+Okey dokey. If I recall correctly, people were saying exactly the same thing
+about URLs 10 years ago (...google... yup).  
+  
+If your argument is OP_EVAL is possibly insecure... it seems to me it is
+**much** easier to reason about the security of OP_EVAL than to reason about
+the security of URI schemes or schemes for passing around a transaction to be
+signed or using SIGHASH_ANYONECANPAY.  
+  
+I agree that protocols for passing around either transactions or signatures
+are needed, I just don't think agreeing on what those protocols aught to be
+will happen anytime soon (how much you want to bet there will be a protocol
+buffers versus JSON debate that rages on for at least six months?)  
+  
+RE: writing up a full design doc: I've always admired the IETF's "rough
+consensus and running code" approach to standards-making, so I'll be happy to
+write up a full design doc after I've got running code. Actually trying to
+IMPLEMENT multisignature transactions has taught me a whole lot about what
+will work in practice and what won't.  
+  
+  
+Finally, to try (in vain, probably) to focus discussion: The use cases I care
+about are:  
+  
+1\. A user running bitcoin on a device that gets infected by malware. I want
+them to be able to subscribe to some service that will provide transaction
+confirmation for any outgoing bitcoin transactions above a certain amount per
+day (like my bank does with my ATM card).  
+  
+2\. And I want them to be able to have a 'master wallet key' stored in
+physical form in their safe-deposit box so they can recover their wallet if
+they forget their passphrase or lose all their backups.  
+  
+OP_EVAL appeals to me because I can see EXACTLY how to make those use-cases
+work with minor variations to the infrastructure we have today for performing
+bitcoin payments.  
+

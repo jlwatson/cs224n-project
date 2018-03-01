@@ -1,0 +1,22 @@
+
+
+Quote from: thanke on December 20, 2012, 07:31:31 PM
+
+Since Mike laid out the advantages of moving to DNSSEC for the PKI as soon as
+possible (in the other thread), an SSL "hack" may just be what we need for
+know, rather than designing anything "serious" based on SSL which is then
+later discarded. I like this hack and don't see any problem with it. Bitcoin
+pubkeys can be encoded case-insensitive in base32. And the merchant can decide
+if the security benefit is worth it for him or not. Small merchants won't have
+that kind of monitoring.  
+
+  
+I'm liking the hack the more I think about it, too. Encoding a compressed
+public key (257 bits) in base32 would be 52 characters, which is comfortably
+less than the 63-character domain name limit.  
+  
+Anybody buying a multi-domain (not wildcard) certificate sometime soon? I'm
+curious to find out if CA's blink if you ask them to issue a certificate valid
+for something like
+BTC8df4rfkbmeopl49vvfgkjgtimb84k9gtredsxfr9fekspclen493.mydomain.com  
+

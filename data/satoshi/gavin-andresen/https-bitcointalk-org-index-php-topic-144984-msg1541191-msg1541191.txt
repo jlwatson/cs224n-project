@@ -1,0 +1,12 @@
+
+
+Quote from: markm on February 19, 2013, 09:11:15 PM
+
+So the current one megabyte hard limit is already double the limit Satoshi
+originally put in place?  
+
+No, the hard limit has been 1 megabyte forever. But 500K was the largest block
+Satoshi's code could possibly build (I believe that that wasn't even possible
+in practice, because you'd have to spend all 21 million bitcoins in fees to
+fill it to 500K).  
+

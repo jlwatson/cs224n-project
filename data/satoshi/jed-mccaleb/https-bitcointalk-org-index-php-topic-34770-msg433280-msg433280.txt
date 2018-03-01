@@ -1,0 +1,4 @@
+
+
+Wouldn't these double spend attacks be noticed by other clients though?
+

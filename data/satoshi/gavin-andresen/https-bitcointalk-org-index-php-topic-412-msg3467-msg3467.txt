@@ -1,0 +1,9 @@
+
+
+Unix and Mac and Windows all have ways of scheduling recurring tasks (Linux:
+crontab, Mac: crontab, or I think iCal can do it, Windows... I dunno).  
+  
+So if you're a little bit geeky, you could arrange for "bitcoin sendtoaddress
+1mJMYFAVORITECHARITY9R4 amount" to get run once a month. (just run bitcoin
+with the -server flag).  
+

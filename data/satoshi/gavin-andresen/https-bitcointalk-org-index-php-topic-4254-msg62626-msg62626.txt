@@ -1,0 +1,10 @@
+
+
+Quote from: [mike] on March 08, 2011, 10:26:17 PM
+
+It looked pretty reasonable when I gave it a quick read through. Are there any
+such transactions on the testnet for us to look at/test with?  
+
+Sure, here's one:  
+http://blockexplorer.com/testnet/tx/0d6c3d3470a89e4be56df04e80a9b7da1855bbe2cf07c1e99e22e0212688eb8b
+

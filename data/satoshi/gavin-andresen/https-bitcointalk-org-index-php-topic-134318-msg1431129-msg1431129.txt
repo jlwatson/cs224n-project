@@ -1,0 +1,14 @@
+
+
+In my experience, developers are really good at either ignoring documentation
+or interpreting it in a way different than the way the author intended.  
+  
+And spec authors are really good at getting details wrong, no matter how
+careful they are. And they're really bad at keeping track of changes.  
+  
+That's why I spent a lot of time over the past year developing test cases and
+tools that you can run your code against instead of writing specs.  
+  
+I may just be cynical because I spent so much time in 1997 working on the
+ISO/IEC-14772-1 Official, Formal Standard.  
+

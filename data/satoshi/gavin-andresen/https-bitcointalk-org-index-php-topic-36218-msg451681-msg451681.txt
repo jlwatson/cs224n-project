@@ -1,0 +1,22 @@
+
+
+Couple of things:  
+  
+First, I want to squash the "Satoshi mined a bunch of bitcoins on his own
+before releasing the bitcoin chain" idea. He publicly announced bitcoin
+version 0.1 six days after he generated the genesis block: January 9, 2009:  
+http://www.mail-archive.com/cryptography@metzdowd.com/msg10142.html  
+  
+According to the block chain history, he generated about 10 blocks total
+before the announcement. And we know that he didn't pre-generate blocks
+because the genesis block contains a quote from the January 3rd Financial
+Times newspaper.  
+  
+Second, I have no problem with alternative block chains, I just don't
+personally like how this particular alternative block chain is being promoted
+and developed and introduced. In particular, I think it is unfair to keep
+hundreds of thousands of whatever-coins for yourself, and it is unwise to
+think that a bitcoin variation that is "almost exactly like bitcoin, only
+different because... well, just because" will ever have anything more than
+speculative value.  
+

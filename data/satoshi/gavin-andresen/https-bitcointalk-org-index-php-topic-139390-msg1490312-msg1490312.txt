@@ -1,0 +1,17 @@
+
+
+Okey dokey, first I think **nobody should use an easy-to-memorize
+brainwallet** for anything more than experimenting. I predict we'll start
+seeing very unhappy brainwallet users reporting huge losses sooner or later.  
+  
+Second: the 'sentinel wallet' idea is all about incentives.  
+  
+You need to put enough BTC in the sentinel wallet so it is economically
+rational for an attacker to "take the money and run" rather than spend time
+and money trying to crack a bigger brainwallet that might not even exist.  
+  
+Again, I don't think you should use a brainwallet, so I'm not motivated to do
+the math to figure out how many BTC you should put into the sentinel wallet so
+a ration attacker will just take it, but that is the way you should think
+about it.
+

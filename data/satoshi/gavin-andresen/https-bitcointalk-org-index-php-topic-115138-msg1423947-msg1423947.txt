@@ -1,0 +1,16 @@
+
+
+The bitcoind sendmany RPC call uses destination addresses as JSON Object keys,
+so you can't send to the same address multiple times in one transaction.  
+  
+If you REALLY want to do that... first, why do you want to do that? I suppose
+if you want to use the blockchain as a messaging system then sending
+0.123+0.567+etc might be an inefficient way of sending a message... but please
+don't do that.  
+  
+Anyway, if you do REALLY want to do that, you'll have to write code to
+construct the transaction yourself. Then you could pass it to the
+signrawtransaction/sendrawtransaction RPC methods to broadcast it. (you can't
+use createrawtransaction to create it, because it uses the same JSON syntax as
+sendmany for destination outputs).  
+

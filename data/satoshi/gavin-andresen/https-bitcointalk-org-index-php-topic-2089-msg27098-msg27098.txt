@@ -1,0 +1,11 @@
+
+
+genjix, you're the third person to run into this problem; I'm looking into it.  
+  
+I suspect the problem is running a later svn version and then running the same
+wallet with an earlier svn version; the format of wallet transactions changed
+recently to support the 'accounts' feature.  
+  
+Your bitcoins are still safe in the wallet (all the private keys are still in
+there). Stay tuned...  
+

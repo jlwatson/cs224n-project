@@ -1,0 +1,15 @@
+
+
+Quote from: Jan on April 11, 2013, 05:19:56 PM
+
+Which reminded me of this from back in 1998:
+http://www.nngroup.com/articles/javaring-wearable-computer/  
+  
+
+I used to have one of these. In fact, I hacked a version of PGP to look for
+your private key on the ring, so you could sign or decrypt just by touching
+the ring to the reader. (Actually you had to kind of snap it in.) Since PGP
+already used the "key ring" terminology, I thought it was particularly
+apropos. Too bad they never caught on, although it would bring on the dreaded
+"stolen finger" attack.
+

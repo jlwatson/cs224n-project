@@ -1,0 +1,7 @@
+
+
+The code is open source.  
+Please feel free to take a look for insecurities:  
+  
+https://github.com/blockchain/My-Wallet-iPhone
+

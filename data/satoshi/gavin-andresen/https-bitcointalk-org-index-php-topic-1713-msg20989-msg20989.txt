@@ -1,0 +1,29 @@
+
+
+Computers could get 1 billion times faster and Bitcoin's hashing and elliptic
+curve digital signatures will still be "safe."  
+  
+2^256 is a really, really big number.  
+  
+2^226 is also a really, really big number. It is a billion times smaller than
+2^256, but still far and away big enough.  
+  
+Even 2^160 (the size of the bitcoin address hash) is big enough.  
+  
+Back-of-the-envelope:  
+Lets say computers in a few years can do a quadrillion hashes per second--
+that's about 2^50 hashes/second. How many seconds to find a SHA-256 hash
+collision? 2^205 seconds. That is much longer than the age of the universe.  
+  
+How long to find a bitcoin address hash collision? 2^130 seconds, which is
+43,161,132,283,224,056,755,882,116,619,960 years. Also much, much longer than
+the age of the universe.  
+  
+(actually, those numbers are the MAXIMUM time. Divide by two for the average
+time. Insanely big divided by two is still insanely big.)  
+  
+You should be worried that some weakness in SHA-256 is found that allows
+hashes to be cracked other than by brute-force. And if you're worried about
+that, then it is dumb to switch to SHA-512 now-- perhaps a flaw will be found
+in the entire SHA* family of hashing algorithms.  
+

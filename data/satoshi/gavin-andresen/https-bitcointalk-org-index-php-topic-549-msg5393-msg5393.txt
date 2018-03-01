@@ -1,0 +1,10 @@
+
+
+If a philanthropist wants to give away bitcoins to the bitcoin community, I'd
+be happy to reset the Bitcoin Faucet rules to whatever the philanthropist
+would like.  
+  
+Could be: donate 10,000 Bitcoins and then have the Faucet distribute 10 per IP
+address (regardless of whether or not they got coins from the Faucet before)
+until they're gone.  
+

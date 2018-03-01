@@ -1,0 +1,57 @@
+
+
+goatpig:  
+I think you aren't exactly understanding the proposal.  
+You have a list of nodes that you trust. These guys are the only ones who's
+vote you listen to. The idea is that if there are enough people you trust
+online it can't be compromised. A good amount of nodes you trust will be
+online at any given time. So they will see first hand if transactions should
+be added to the ledger or not. You are not relying on who they are trusting in
+turn if that is what your issue is.  
+  
+
+Quote
+
+You still need a system to define which votes are bogus within the web of
+trust
+
+People publish their node's public key you can add it to your client if you
+want. There are enough people even on this forum I would add. Keep in mind
+that you don't really have to _trust_ them. You just have to trust that  >50%
+of them wont be working together for some nefarious purpose.  
+  
+
+Quote
+
+Doesn't work like this. If that gigantic group's action affects the value of
+the same commodity by being part of the network, your wealth is effectively in
+the palm of their hands. There can't be several trust groups within the same
+network because they both affect the face value of your commodity. If entry in
+the network is submitted to the rules of the trust group, same problems as
+above apply.
+
+This scenario wouldn't be two competing ledgers it would be a ledger that is
+trusted by 99% of the legit nodes and a ledger held by a million fake nodes
+that no one trusts. You aren't the only one that wouldn't believe their BS
+ledger. No one legit would. So they aren't really a "part of the network."  
+  
+It is the same thing going on right now with bitcoin we are all implicitly
+saying we trust deepbit, artforz etc.  
+In the new system you would just add them to the your list of trusted nodes if
+you wanted.  
+  
+If you still don't see how it would work could you please describe a specific
+attack that would compromise it?  
+  
+  
+BitterTea:  
+
+Quote
+
+Anyway, security against double spending isn't the only function of mining, it
+also serves to distribute the currency initially. Unless you have another
+method to do so, mining is still a reality until all 21 million coins are
+distributed.
+
+Yeah I have a method but I want to make sure there are no holes in this first.
+

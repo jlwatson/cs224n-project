@@ -1,0 +1,10 @@
+
+
+I exchanged email with Jacob, and he's predicting bugs because some very good
+"white-hat" people are looking hard at the code, trying to find bugs or
+vulnerabilities.  
+  
+That's all. And that's good news; the more people who try to find problems
+with the code (and who will report any problems responsibly so they can get
+fixed before they're exploited), the better.  
+

@@ -1,0 +1,12 @@
+
+
+Pieter is exactly right. The current code is extremely conservative with
+multisig addresses, only counting them as yours if the wallet contains **all**
+the private keys.  
+  
+Loosening that to considering them yours if you have enough keys to spend
+might happen, although I am worried that might cause vulnerabilities for
+applications that make the implicit assumption that if they have the key
+necessary to spend that means nobody else can possibly spend those coins after
+6 confirmations. If it is a 1of2 multisig that wouldn't be true.  
+

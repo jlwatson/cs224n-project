@@ -1,0 +1,28 @@
+
+
+Relevant threads from the past:  
+http://bitcointalk.org/index.php?topic=227.0  
+http://bitcointalk.org/index.php?topic=1494.0  
+  
+I think a fully licensed online bitcoin exchange to/from US dollars via online
+credit card transactions (or another really quick, convenient mechanism) is
+critically needed.  
+  
+Is it worth attempting: I've been very tempted! Unfortunately, to do it right
+and jump through all the legal hoops would require at least posting a $50,000
+bond and probably thousands, possibly tens-of-thousands of dollars to hire
+lawyers to get all the paperwork in order.  
+  
+And then I'd have to figure out how to accept credit card payments for
+bitcoins in a way that didn't open me up to massive fraud (maybe secondary
+approval via a phone call or text message). And convince a merchant account
+provider that I'd solved that problem and that I was trustworthy (which
+probably means another infusion of tens of thousands of dollars to cover
+potential fraud).  
+  
+I think it is a great opportunity for somebody (or some company) who has had
+prior experience in the currency exchange business. The business model is
+clear and proven, and being the first fully licensed bitcoin exchange would
+have huge potential benefits if Bitcoin turns out to be a really successful.  
+  
+

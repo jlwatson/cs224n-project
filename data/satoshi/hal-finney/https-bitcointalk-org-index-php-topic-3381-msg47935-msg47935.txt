@@ -1,0 +1,5 @@
+
+
+Did you create the bitcoin.conf file? Should be in the same directory as
+wallet.dat. Also make sure you spell rpcpassword correctly.
+

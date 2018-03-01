@@ -1,0 +1,128 @@
+
+
+I just sent this email to the biggest mining pool operators; I think creating
+a real market between users and miners to set transaction fees is a very high
+priority.  
+
+* * *
+
+After a lot of thinking, trying a few different implementations, and a couple
+days of testing I'm finally happy with a new scheme for selecting which
+transactions to include in created blocks.  
+  
+Patch for version 0.6.3:  
+https://github.com/gavinandresen/bitcoin-
+git/commit/ed0531d8242c75c8c055ec5b4d134d42ea380158.patch  
+  
+This is pull request #1590 and will very likely be part of the upcoming 0.7
+release.  
+  
+Backported patch for version 0.3.24 if you're stuck on an old version of
+bitcoind:  
+https://github.com/gavinandresen/bitcoin-
+git/commit/57df05e2cd48716ad2fa2e7379d61b980c65aade.patch  
+  
+These add new command-line / bitcoin.conf options:  
+
+Code:
+
+-blockmaxsize=250000  
+-blockminsize=0  
+-blockprioritysize=27000  
+-mintxfee=0.0005
+
+  
+The above settings are the default, and match the current default behavior. If
+you are using a stock bitcoind to create your blocks and apply the patch, the
+only difference you will see is a higher block reward, because the new code
+prefers transactions with higher fees to transactions with lower fees.  
+  
+The new options let you control your transaction acceptance policy without
+recompiling; here is what they do and how to use them:  
+  
+-blockmaxsize controls the maximum size of blocks created, in bytes. I know some pools are limiting the size of the blocks they create because they think larger blocks are more likely to be orphaned; this setting lets you do that easily. Reasonable values are between 50,000 and 250,000 bytes.  
+  
+-blockminsize lets you fill up any 'extra' space in blocks with free transactions, until the block is -blockminsize bytes big. You can use this to implement a policy of "Fill up the block with fee-paying transactions first, but if there aren't enough then include free transactions." Reasonable values are 0 to blockmaxsize.  
+  
+-blockprioritysize is the primary way to support free transactions. This many bytes at the beginning of the block are set aside for the highest priority transactions, regardless of whether or not they pay a fee. Reasonable values are 0 to blockmaxsize.  
+  
+-mintxfee is the minimum fee, measured in bitcoins-per-1,000-bytes, for a transaction to be considered 'paid' instead of 'free.' It should ideally be a little larger than your real-world cost to process a transaction. Reasonable values are 0.0001 to 0.01 (setting this too low is dangerous; a transaction spammer can fill up your blocks with very-low-but-non-zero-fee transactions)  
+  
+
+* * *
+
+So, putting it all together, here are some possible fee policies you might
+want to follow:  
+  
+CREATE SMALLER BLOCKS  
+  
+You want to limit the size of the blocks you create so they propagate faster.  
+  
+
+Code:
+
+blockmaxsize=50000  
+blockminsize=0  
+blockprioritysize=10000  
+mintxfee=0.0005
+
+  
+PUNISH HIGH-FREQUENCY USERS  
+  
+You want to mostly include transactions based on priority, to discourage
+SatoshiDice-like services where people are sending blizzards of low-value
+transactions. But you still want to pick up any large-transaction-fee
+transactions.  
+  
+
+Code:
+
+blockmaxsize=100000  
+blockminsize=0  
+blockprioritysize=50000  
+mintxfee=0.01
+
+  
+MAXIMUM FEES  
+  
+You want to maximize your block reward, including as many fee-paying
+transactions as possible but avoiding all free transactions.  
+  
+
+Code:
+
+blockmaxsize=250000  
+blockminsize=0  
+blockprioritysize=0  
+mintxfee=0.0001
+
+  
+  
+MAXIMUM FEES, ALLOW FREE  
+  
+You want to maximize the fees you get, but allow some free transactions if
+transaction volume on the network is low.  
+  
+
+Code:
+
+blockmaxsize=250000  
+blockminsize=50000  
+blockprioritysize=0  
+mintxfee=0.0001
+
+  
+MAXIMUM COMPATIBILITY WITH EXISTING CLIENTS  
+  
+If you want the best compatibility with Bitcoin-Qt and other existing clients,
+use the default values.  
+  
+
+* * *
+
+  
+Next on my TODO list: implement client-side code to figure out what the
+average miner's fee policy is by looking at how quickly transactions are being
+accepted into blocks, and recommend a reasonable fee to users on a per-
+transaction basis.
+

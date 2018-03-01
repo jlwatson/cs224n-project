@@ -1,0 +1,31 @@
+
+
+Updated to release candidate 6:  
+https://sourceforge.net/projects/bitcoin/files/Bitcoin/bitcoin-0.4.1/test/  
+https://sourceforge.net/projects/bitcoin/files/Bitcoin/bitcoin-0.5.0/test/  
+  
+Two changes were made between rc5 and 6:  
+1) When you encrypt your wallet for the first time, a new keypool is created
+before Bitcoin-Qt/bitcoind shuts down. This prevents losing bitcoins if you
+backed up your newly-encrypted wallet, received coins to new addresses, and
+then later restored from the backup.  
+  
+There is still a potential problem when you upgrade a previously-encrypted
+wallet: in that case, the wallet file is rewritten on startup and will be left
+with an empty keypool (new keys cannot be written because in this case the
+code doesn't have your wallet passphrase). The release notes suggest backing
+up the re-encrypted wallet after generating a new address.  
+  
+2) Be less aggressive about deleting the database/log.* file(s) on shutdown --
+with rc6, they are only deleted if the wallet is successfully encrypted/re-
+encrypted (to make sure unencrypted private keys are not left in them).  
+  
+Please report only show-stopper bugs in this thread-- normal bug reports or
+feature suggestions should go into the github issue tracker:  
+https://github.com/bitcoin/bitcoin/issues  
+  
+Please DO add to this thread if you've done some testing, giving what you
+tested (0.4.1? 0.5.0 ? win32 exe ? zip ? linux ?), what operating system you
+tested on, and if you were testing a fresh install or upgrading (and if
+upgrading, was your wallet encrypted before?).  
+

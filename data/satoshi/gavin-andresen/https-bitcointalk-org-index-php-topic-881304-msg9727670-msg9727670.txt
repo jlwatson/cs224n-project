@@ -1,0 +1,18 @@
+
+
+Excellent advice.  
+  
+I'd add: you never have infinite time, so you will have to prioritize.  
+  
+Cryddit's original post talks a fair bit about preventing data leakage in
+side-channel attacks; I'll just say that if you only have time to either get
+100% code path unit test coverage or hand-code some assembly to workaround
+your compiler leaving a private key in memory instead of a register... I'd
+work on the test coverage.  
+  
+And if the choice is between 100% test coverage versus 91% with support for
+threshold signatures on multiple devices-- I'd choose threshold signatures.  
+  
+And, of course, the highest priority is creating a product or service that is
+both trustworthy and that people want to use.  
+

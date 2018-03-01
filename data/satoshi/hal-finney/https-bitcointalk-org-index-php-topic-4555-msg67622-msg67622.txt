@@ -1,0 +1,42 @@
+
+
+Quote from: ByteCoin on March 17, 2011, 09:03:47 PM
+
+Quote from: Hal on March 17, 2011, 07:21:02 PM
+
+It's not safe to have only 64 bits of the private key be unknown. This can be
+broken in 2^32 work using such algorithms as baby step giant step, Pollard
+rho, or the kangaroo.  
+
+  
+It's not immediately obvious to me that this is possible. Please go into
+details about how it would be done.  
+
+  
+I have looked into this, and you do need the public key to break it. (Also I
+was wrong about Pollard rho being suitable, but the other two are.) Bitcoin
+does not reveal the public key until the tx is spent; only a hash is revealed
+until then. However the spending tx is vulnerable while moving through the
+network on its way to a block. A miner or peer could hold the transaction,
+break the key in 2^32 work, and substitute their own spend.  
+  
+As far as the algorithmic details, here is baby step giant step. Public key Y,
+private key x, and generator G satisfy:  
+  
+Y = xG  
+  
+x is of the form s + k, where s is known salt and k is unknown 64 bits. Split
+k into left and right halves l, r:  
+  
+k = l*2^32 + r  
+  
+with l and r 32 bits. Then we have, substituting for x in the first eqn:  
+  
+Y = (s + l*2^32 + r)G  
+  
+Y + l(2^32(G_inv)) = (s + r)G  
+  
+We precompute all 2^32 values of the RHS and store them in a hash table. Then
+we sequentially try the 2^32 values for l in the LHS and look for a match in
+the table. That gives us l and r, which gives us the private key x.
+

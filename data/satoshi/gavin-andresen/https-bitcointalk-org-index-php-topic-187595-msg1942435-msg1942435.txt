@@ -1,0 +1,96 @@
+
+
+Thought it might be interesting for y'all to see the 'raw interview':  
+  
+
+Quote
+
+1) What do you see as the primary strengths or advantages of Bitcoin; why is
+it needed? Put another way, for an individual or a business just coming across
+it, why would they chose to use it?  
+
+Bitcoin is an open, international payment network. More and more businesses
+are choosing to accept bitcoins because it is an easy way to allow anybody,
+anywhere in the world, to pay for products or services-- even people from
+countries where credit cards and bank accounts might not be common.  
+  
+It is also very low-cost, because it was designed for the Internet.  
+  
+Individuals use it for a few different reasons.  
+  
+The earliest adopters started using bitcoins either because they like the idea
+(for political or personal reasons) of using a currency that isn't controlled
+by a government or corporation or just because it was "new and cool."  
+  
+Some people use it because they have no other choice; for example, more and
+more legal, online gaming sites use bitcoins to make it possible for players
+in countries that try to restrict onling gaming (like the US) to play.  
+  
+We're just starting to see individuals using bitcoin because it saves them
+money; merchants are starting to pass on some of the savings (much lower
+transaction fees, no "chargebacks") to customers who pay using bitcoin.  
+  
+  
+
+Quote
+
+2) Bitcoin isn't the first or the only digital currency, but it has rapidly
+become the most prominent. What accounts for that?  
+
+People trust that it isn't going to disappear, because there is no central
+organization that can either go bankrupt or be forced to shut down by a
+government. Currencies are all about trust, and more people are beginning to
+trust this decentralized currency that is supported by everybody who uses it.  
+  
+  
+
+Quote
+
+3) A number of people I have spoken with dismiss it as little more than a
+speculative fad, akin to the Dutch tulip mania or a dot com stock, and cite
+the recent run-up and collapse as evidence. What is your reaction to that
+argument?  
+
+I still tell people "only invest time or money into Bitcoin that you can
+afford to lose." I expect more drama and chaos and price fluctuations in the
+short-term. The current price bubble was driven by lots of attention in the
+press here in the US and in Europe, and all of the attention was self-
+reinforcing: stories about Bitcoin's dramatic price rise got people
+interested, which drove the price higher, which triggered even more stories.  
+  
+I expect that will happen again in the next few years, perhaps in a different
+area of the world (maybe there will be a China-driven bitcoin bubble in a few
+years that will pop when the Chinese government decides to try to restrict
+bitcoin transaction across their Great Firewall).  
+  
+But in the long-term, I expect that to settle down, and the value of a bitcoin
+to become much more stable.  
+  
+
+Quote
+
+4) Would Bitcoin need to have a more stable valuation for it to become a more
+widely accepted alternate currency? What else might be needed for it to grow
+beyond a niche?  
+
+Actually, the valuation isn't a big barrier to adoption. There are already
+services that help companies manage the currency exchange risk (you can peg
+your prices to dollars, your customers can pay the equivalent amount in
+bitcoins, and you get dollars deposited to your bank account), and as the
+financial service infrastructure for Bitcoin get more mature that will just
+get easier.  
+  
+Any important new technology grows by starting with successes in some niches
+where its advantages are overwhelming; ubiquitous technologies then manage to
+slowly grow out of those niches to take over markets where they have a
+marginal advantage (either in convenience or price).  
+  
+That is the pattern we're already seeing with Bitcoin, starting with niches
+where the advantages are too large to ignore (e.g. online gaming,
+international payments). It remains to be seen whether or not Bitcoin can grow
+out of those niches to become a ubiquitous form of payment. In theory, the
+value of a currency increases as more people use it. Since the potential
+market for Bitcoin is every person connected to the Internet, it could become
+more valuable than any national currency that is tied to one specific
+geographic region of the planet.  
+

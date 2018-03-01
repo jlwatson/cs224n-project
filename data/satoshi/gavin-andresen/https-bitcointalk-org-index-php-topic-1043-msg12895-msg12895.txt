@@ -1,0 +1,12 @@
+
+
+Picking up from the original thread...  
+  
+Bitcoin-related sites that have self-signed or CACert certificates (like
+mybitcoin.com) look unprofessional and un-trustworthy to clueless non-techies.  
+  
+I know, I know, a Verisign-certified certificate isn't _really_ any guarantee
+of security, but that doesn't matter-- if you want ordinary users to start
+trusting your website, get a certificate that doesn't popup any scary-looking
+security warnings.  
+

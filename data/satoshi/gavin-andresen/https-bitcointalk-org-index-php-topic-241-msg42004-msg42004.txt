@@ -1,0 +1,27 @@
+
+
+Quote from: FreeMoney on January 28, 2011, 12:10:29 AM
+
+Do you really have to modify Bitcoin? Isn't it enough to send all coins to a
+separate wallet, delete original wallet, make empty wallet, send all coins
+back to blank wallet.  
+  
+Obviously you'll want to automate. Do it every 6 hours or something.  
+
+  
+That would make an odd transaction pattern-- e.g. if you started with 11
+bitcoins in your wallet, you'd generate a chain of transactions that was:  
+  
+A paid B 11 bitcoins  
+B paid C 11 bitcoins  
+C paid D 11 bitcoins  
+... etc, every 6 hours. That makes it obvious what you're doing (a series of
+exactly-11-bitcoin transactions would be extremely unlikely).  
+  
+Ideally, you want the graph of transactions involving your coins to be
+indistinguishable from a random sub-graph of the entire bitcoin transaction
+graph. Creating lots of wallets won't help you do that; you need to mix your
+coins with other people's, so the mixing looks the same as just ordinary "X
+paid Y" transactions.  
+  
+

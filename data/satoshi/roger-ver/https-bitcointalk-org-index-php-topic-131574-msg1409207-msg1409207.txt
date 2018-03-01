@@ -1,0 +1,31 @@
+
+
+Quote from: HostFat on December 19, 2012, 02:18:51 PM
+
+I want to know every informations that an admin of blockchain.info can see.  
+I thought that most of them were encrypted...  
+
+  
+It is all encrypted, but it depends on your privacy settings.  
+  
+Quoted from: https://blockchain.info/wallet/anonymity  
+  
+ _Alerts Disabled: If you have notifications disabled your public keys are
+stored encrypted inside your wallet. In this mode we are unable to view your
+public keys and hence cannot view your balance or transactions.  
+  
+  
+Alerts Enabled: When notifications are enabled your public keys are inserted
+in a separate table along with your email, skype handle or google talk
+username. This mode does sacrifice some Anonymity as we can now see your
+public keys and view your wallet balance. However just because a wallet
+contains a public key does not necessarily mean they are the owner of said key
+(as you can add keys without the respective private key).  
+_  
+In this case the scammer with my bitcoins had Alerts enabled for his wallet,
+so I could easily verify %100 for sure that he has my money in his Blockchain
+wallet.  
+  
+If he had his alerts set to Disabled, I wouldn't know if he really had my
+money or not.  
+

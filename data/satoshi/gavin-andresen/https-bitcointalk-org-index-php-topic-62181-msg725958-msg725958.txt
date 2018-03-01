@@ -1,0 +1,13 @@
+
+
+I apologize for the shouting, it's been a hard couple of weeks. And thanks for
+the support.  
+  
+Very quickly, the problem with any chain split is double spends. An attacker
+can spend his bitcoins twice, once using CHECKSIGEX and some script instead of
+a public key. They can wait for the coins to confirm on the "new" chain, and
+then they can spend the coins again, using CHECKSIG, on the old chain.  
+  
+The result would be massive confusion and chaos as those "old" users slowly
+upgraded and then found their wallets had NEGATIVE balances after the upgrade.  
+

@@ -1,0 +1,23 @@
+
+
+Your 0.07 transaction is very-low-priority, and still waiting to get in a
+block. From bitcoincharts:  
+
+Code:
+
+2011-05-11 15:34:58
+2cf664377d1923089d0aed9d7aab3f8d51f69c76409a71e3d88b378a13e3612e  
+This is a low priority transaction.  
+size: 258 bytes  
+priority: 12,250,000  
+input: 0.12900000 BTC  
+0.12900000 BTC from
+9bea18121283bc7f9618eb8b50ce94e9df4698eb51468152fa686bfe94387d2d:0
+(1CM9WjjPScLSfQaYXq9YY5VgqUh6bP87rw)  
+output: 0.12900000 BTC  
+0.07000000 BTC to 1KCJ79R4CexWmqK6qa2HBeFv8bG3a3wAfX  
+0.05900000 BTC to 14Q7k5u5UAhEWC5E52BGwLVFKWeW3ffBtA  
+
+  
+It might take a few days, but it will eventually get confirmed.  
+

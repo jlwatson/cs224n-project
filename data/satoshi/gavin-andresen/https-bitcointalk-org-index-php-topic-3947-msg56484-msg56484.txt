@@ -1,0 +1,15 @@
+
+
+Quote from: alkor on February 28, 2011, 02:40:18 AM
+
+EDIT: Is there a way to get rid of the "" account?  
+
+  
+No. Generated coins need a place to go (they're credited to the "" account),
+and coins you send using sendtoaddress (where you don't specify an account)
+need to be debited from somewhere (they're debited from the "" account).  
+  
+And it's theoretically possible somebody might could use one of your hidden
+"change" bitcoin addresses to send you coins; they'd be credited to the ""
+account, too.  
+

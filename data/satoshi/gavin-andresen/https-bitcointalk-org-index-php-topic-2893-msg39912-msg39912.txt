@@ -1,0 +1,11 @@
+
+
+I think you should begin by defining the threat model.  
+  
+Can the attacker see all unencrypted IP traffic to/from the sender's node, or
+is the traffic tunneled through an anonymizing network like i2p or tor?  
+  
+Does the attacker know any of the sender's receiving bitcoin addresses? Is the
+attacker willing and/or able to send 'marked bitcoins' to the sender? Lots of
+them?  
+

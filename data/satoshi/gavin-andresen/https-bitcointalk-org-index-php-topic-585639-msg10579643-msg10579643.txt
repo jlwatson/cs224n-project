@@ -1,0 +1,65 @@
+
+
+Very nice work, DeathAndTaxes.  
+  
+The 0.10 release makes almost all P2SH Script forms standard, opening up
+possibilities for working around the 520-byte-push limit.  
+  
+Warning: half baked thoughts off the top of my head here, check my work and
+TEST TEST TEST:  
+  
+There isn't room in 520-bytes for all the compressed public keys needed for m
+of 16-20. Can we safely move the public keys out of the serialized P2SH onto
+the scriptSig stack?  
+  
+e.g. go from a scriptSig that looks like:  
+  
+
+Code:
+
+0 signature serialized(1 pubkey1 ... pubkey20 20 CHECKMULTISIG)
+
+  
+to:  
+  
+
+Code:
+
+0 signature pubkey1 ... pubkey20 serialized( 1 ... something ... 20
+CHECKMULTISIG)
+
+  
+That's easy to do unsafely; ... something ... is just:  
+  
+
+Code:
+
+21 ROLL ... repeated 20 times
+
+  
+That's unsafe because anybody can redeem it with any 20 keys.  
+  
+To be safe, you need a secure digest of the 20 public keys inside the
+serialized P2SH stuff. We've got HASH160 to create 20-byte digests, so we can
+get 26-bytes-per-pubkey with:  
+  
+
+Code:
+
+21 ROLL DUP HASH160 pubkey1hash EQUALVERIFY
+
+  
+Using PICK instead of ROLL you can probably save a byte per pubkey; if it can
+be done in 25 bytes then that gets under the 520-byte-push limit.  
+  
+Aside: It would've been lovely if Script had a "hash the top N items on the
+stack, and push the result onto the top of the stack" operator. Ah well.  
+  
+BUT you're now putting 33+26 = 59 bytes per key into the scriptSig, so the
+1650-byte-for-scriptSig-IsStandard limit will bite. If I counted everything
+correctly (and I almost certainly didn't), you could get 1 through 6 -of-20 as
+standard (20-of-20 as non-standard but valid).  
+  
+EDIT: I already see a mistake: pushing 21 onto the stack requires two bytes,
+not one.....
+

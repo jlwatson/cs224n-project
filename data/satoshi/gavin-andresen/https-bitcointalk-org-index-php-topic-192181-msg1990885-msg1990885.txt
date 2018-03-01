@@ -1,0 +1,15 @@
+
+
+Quote from: neuromancer56 on May 01, 2013, 02:20:46 AM
+
+So I'm guessing a 3rd option happens, it sends my BitcoinAddress, plus some
+other derived number that lets the network know that my client has my private
+key, but it doesn't actually send my private key. Is that right?  
+
+  
+Yes.  
+  
+If you want to get geeky about it, it sends an ECDSA signature derived from
+the private key and the transaction data, and the full public key that
+corresponds to your bitcoin address (the address is a shorter version of it).  
+

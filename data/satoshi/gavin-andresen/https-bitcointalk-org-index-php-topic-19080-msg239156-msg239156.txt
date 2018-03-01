@@ -1,0 +1,51 @@
+
+
+So I've been thinking a lot about wallet security; Matt's password patch is a
+good first step, but maybe we can at least build in some infrastructure for a
+better solution.  
+  
+We really need a solution where transactions are generated on one device and
+then verified on a second device, so malware must compromise both devices
+(e.g. computer and mobile phone, or web wallet and mobile phone) to steal
+coins.  
+  
+gmaxwell from IRC thinks it can be done without multiple signatures (just with
+the standard transaction we have now), and staring at the ECDSA math on this
+wikipedia page I think he's right. I believe he was inspired by ByteCoin's
+observation that you can create a vanity public key generating service that is
+secure-- the service can generate the public key but not know the private key.  
+  
+I'm mostly writing this to convince myself it could work and to give ByteCoin
+and Hal and gmaxwell and anybody else who knows a whole lot more crypto than
+me a chance to poke holes in it. And then point me to a FIPS standard that has
+it all figured out already...  
+  
+So: generating an ECDSA keypair means choosing a private key dA, then
+calculating the public key QA = dAG (where G is a fixed point on the elliptic
+curve).  
+  
+The key generation can be split; have device 1 choose dA1 and device 2 choose
+dA2. Device 1 then sends QA1 to Device 2, and it can calculate QA1dA2 =
+QA1*A2. Or in english, Device 1 finds a public key on the curve. Then Device 2
+uses its part of the private key to do a bunch more elliptic curve multiplies
+to find the composite public key without ever knowing Device 1's public key.  
+  
+So great, neither Device 1 or 2 needs to ever have both parts of the private
+key on them to generate the shared public key.  
+  
+Now lets say Device 1 wants to spend a TxOut that is one of these split keys.
+The key bit of the signature generation algorithm (see the Wikipedia page:
+http://en.wikipedia.org/wiki/Elliptic_Curve_DSA#Signature_generation_algorithm
+) is:  
+...  
+4\. Calculate s = k-1(z+rdA)(mod n)  
+...  
+That can be rewritten as:  
+  
+Calculate s = k-1(z+rdA1dA2)(mod n)  
+  
+And now I'm stuck. Can that equation be refactored so that Device 1 can
+compute part of the signature, send its partial result to Device 2, and have
+Device 2 complete the signature (without Device 2 being able to figure out 1's
+part of the private key?)?  
+

@@ -1,0 +1,21 @@
+
+
+EITHER: requiring that the wallet be unlocked for the settxfee RPC call to
+succeed  
+OR: adding a new configuration option "-maxtxfee" (default: 0.01 maybe) that
+can't be set via RPC  
+... seems reasonable to me.  
+  
+We've had an implicit assumption that if an attacker gets access to the RPC
+interface you're sunk, and while I think that's true (attacker could run a
+tight loop of "sendtoaddress" that will fail until the moment you unlock the
+wallet to send some bitcoins somewhere), I also think security in depth is a
+good idea.  
+  
+Can you open an issue on github please?  
+  
+RE: gui not telling you about the fee:  
+  
+Can you open a separate issue on github about that, too? That's just a bug, in
+my humble opinion.
+

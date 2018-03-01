@@ -1,0 +1,20 @@
+
+
+Quote from: allten on July 26, 2012, 01:13:31 AM
+
+Are these the "knobs" you were referring too (sorry can't find where I had
+read it) that would allow miners to have more control what transactions are
+included in blocks?  
+
+Yes, partly.  
+  
+The most important change is having miners sort transactions by fee-per-
+kilobyte, and prefer higher-fee transactions to lower-fee transactions. That
+way users that want their transactions to get confirmed quickly can pay a
+higher-than-average fee. Today, most miners are using the reference code which
+selects transactions based on priority, not fee.  
+  
+Still todo: give better recommendations to users about how long it might take
+their transaction to get confirmed if they send it without a fee, and
+recommend an appropriate fee.  
+

@@ -1,0 +1,20 @@
+
+
+Attached is a little patch that expands the getnewaddress RPC command so it
+can try to generate a "vanity" bitcoin address.  
+E.g. I told it to generate an address with "gavin" in it, and it chugged away
+for an hour or two and came up with:  
+12kUimDnb1a6oAPifgavinAaxMmLe43UR6  
+  
+This is recommended for fun and experimentation only; it takes a long time,
+and while it is trying to find an address with the right string in it no other
+RPC commands are accepted. Including 'stop'.  
+  
+It'd be kinda cool (and would speed it up a lot) to make it case-insensitive.
+Or to match to an arbitrary regular expression. Or to make it spin off a
+separate thread and just return "working...." (and have the thread add the
+address to the wallet when it is finally found, labeled with the vanity
+string).  
+  
+Maybe we should have a Best Bitcoin Address contest
+

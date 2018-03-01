@@ -1,0 +1,14 @@
+
+
+ ~~Oops, sorry-- I forgot to change the admin password. The correct pw for
+that instance is:  
+penguinsrule~~  
+  
+I change the password to match the MinGW VM and updated the AMI:  
+ami-d621d2bf 982440761210/BitcoinVC10  
+Admin password: bitcoin development  
+  
+You should change the password as soon as you login or make sure you use a
+security group that only allows your IP address to access the virtual machine.  
+  
+

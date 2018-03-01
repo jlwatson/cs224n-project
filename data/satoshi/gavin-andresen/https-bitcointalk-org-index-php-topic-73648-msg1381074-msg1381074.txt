@@ -1,0 +1,9 @@
+
+
+RE: building the .app bundle:  
+  
+https://github.com/bitcoin/bitcoin/blob/master/contrib/macdeploy/macdeployqtplus  
+... is python code with lots of useful stuff for building a nice .app
+(including making a pretty-looking .dmg).  
+Lots of Qt-specific stuff, too, but it might be a good starting point.  
+

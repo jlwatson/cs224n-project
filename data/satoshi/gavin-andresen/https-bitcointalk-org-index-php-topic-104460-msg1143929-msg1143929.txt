@@ -1,0 +1,9 @@
+
+
+If you do it, I'd suggest implementing it as a proxy that sits in front of
+bitcoind.  
+  
+But before you do that, you should do some googling to see if somebody has
+already written a JSON-RPC-over-HTTP proxy that implements per-method access
+control.  
+

@@ -1,0 +1,28 @@
+
+
+I've turned off the faucet; somebody is definitely stealing from it. There
+were 500 sends queued when I woke up this morning.  
+  
+They are using a different IP address, different google account, and are even
+changing the browser ID string on every request-- here are three entries from
+the request log, for example:  
+
+Code:
+
+121.1.54.214 - zqdckyxnhmjj [14/Apr/2011:05:20:19 -0700] "POST /getsome
+HTTP/1.1" 200 1206 "http://freebitcoins.appspot.com/getsome" "Mozilla/5.0
+(Windows; U; Windows NT 6.0; nl; rv:1.9.2.6) Gecko/20100625
+Firefox/3.6.6,gzip(gfe)" "freebitcoins.appspot.com"  
+213.0.109.214 - clkjqwbhwefj [14/Apr/2011:05:20:15 -0700] "POST /getsome
+HTTP/1.1" 200 1206 "http://freebitcoins.appspot.com/getsome" "Mozilla/5.0
+(X11; U; Linux x86_64; fr; rv:1.9.2.3) Gecko/20100403 Fedora/3.6.3-4.fc13
+Firefox/3.6.3,gzip(gfe)" "freebitcoins.appspot.com"  
+193.110.115.0 - rdcxalrgxyrvb [14/Apr/2011:05:17:40 -0700] "POST /getsome
+HTTP/1.1" 200 1206 "http://freebitcoins.appspot.com/getsome" "Mozilla/5.0
+(X11; U; Linux i686; en-US; rv:1.9.2.7) Gecko/20100726 CentOS/3.6-3.el5.centos
+Firefox/3.6.7,gzip(gfe)" "freebitcoins.appspot.com"  
+
+  
+"zqdckyxnhmjj" and "clkjqwbhwefj" are the google account logins, which are
+obviously bogus. Well, obvious to humans, anyway...
+

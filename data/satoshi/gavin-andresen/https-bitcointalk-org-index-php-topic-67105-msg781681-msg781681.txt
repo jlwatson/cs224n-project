@@ -1,0 +1,38 @@
+
+
+If you're using multisig to secure your wallet, then I think backup could be
+"free" ; all the involved multisig keys could be derived predictably from
+singlesig keys that you'll already need to backup. Disaster recovery from a
+lost wallet would mean importing all the backed up singlesig keys, then
+deriving (say) the first 1000 multisig ScriptSigs that would have been derived
+from those keys and scanning the blockchain for transactions involving those
+(and, hand-wave, hand-wave, doing something smart to derive more than 1000 in
+case it looks like more than 1000 were used). (or, in other words: what kjj
+said)  
+  
+If you're using multisig for escrow involving other people... then the escrow
+transaction has to be recorded and backed up, including all the keys involved.
+In that case I'm pretty sure you'll want to record and backup other
+information about the escrow-- like "100 BTC escrow to my cousin Bob; release
+them if he's still not smoking on June 1."  
+  
+Backup should be part of the user experience design for the escrow function;
+for example, I think a lot of escrows will an associated date, so the client
+should store the escrow transaction id AND the public keys involved in the
+escrow AND a "remind me to do something on June 1" AND (maybe) a link to my
+Address Book entry for Bob so I can call him on June 1. For me, I think the
+best way to backup that kind of escrow information would be for the client to
+send me an email containing all of that stuff in a standardized mini-file-
+format; I'll let gmail archive it and that would be my emergency backup.  
+  
+So, emergency recovery of a lost wallet would then be:  
+  
+1\. Recover all private keys from paper backup (or whatever the singlesig
+backup solution is).  
+2\. Re-import all escrows that involve other people from email archive.  
+  
+  
+RE: Bytecoin and "OR BACKUP_KEY" : In either the OP_EVAL or the BIP16 case you
+need a new type of 'standard' transaction (and bitcoin address) to make that
+work.
+

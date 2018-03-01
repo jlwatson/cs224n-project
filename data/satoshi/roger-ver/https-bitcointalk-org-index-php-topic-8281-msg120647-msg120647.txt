@@ -1,0 +1,79 @@
+
+
+\--------------------UPDATE----------------------  
+  
+I just head that the thief logged in from IP address:  
+94.75.217.249  
+"Mozilla/5.0 (Windows NT 5.1; rv:2.0.1) Gecko/20100101 Firefox/4.0.1"  
+  
+\--------------------------------------------------  
+  
+Please help!  
+I woke up this morning, logged into my deepbit account at 7:35AM PST on
+5-14-2011 to see how things were going, and someone had transfered all my
+bitcoins to address:  
+15YaS8ux9u6YUrS6DmdTZa1NaLecNNNCKT and set it continue to send to that address
+as soon as my account received even 0.01 additional bitcoins.  
+  
+My password was a combination of letters and numbers, and I assumed it was
+reasonably secure. (perhaps not)  
+The only people who knew my password, were myself, and a couple of other
+employees at MemoryDealers, and all of them say they did not change anything.  
+  
+The following information comes up in that address in the block explorer:  
+  
+  
+Address 15YaS8ux9u6YUrS6DmdTZa1NaLecNNNCKT  
+  
+Short link: http://blockexplorer.com/a/2tZky3pBUi  
+First seen?: Block 123886 (2011-05-14 12:43:27)  
+Received transactions: 3  
+Received BTC: 136.59  
+Sent transactions: 0  
+Sent BTC: 0  
+Hash160?: 31d94e8645d5e7f93ad8deeefe69a0a911bd9589  
+Public key?:  
+Unknown (not seen yet)  
+Ledger?  
+  
+Note: While the last "balance" is the accurate number of bitcoins available to
+this address, it is likely not the balance available to this person. Every
+time a transaction is sent, some bitcoins are usually sent back to yourself at
+a new address (not included in the Bitcoin UI), which makes the balance of a
+single address misleading. See the wiki for more info on transactions.  
+  
+Transaction? Block? Amount? Type? From/To? Balance?  
+766fbbe67c... Block 123886 (2011-05-14 12:43:27) 135.22 Received: Address  
+1BA6dEx8crnnRJUhvRVC9mcS2avedYhNxp  
+1Hfc2GazJs9Us4ra4GVzxqPHkoUiCV3hd1  
+13E7hWrF71Exyq9rPCaXXaUCnkeG7MbBiD  
+135.22  
+a63ccc1fa7... Block 123893 (2011-05-14 13:19:59) 0.56 Received: Address  
+1F6eBtUW6LKmyfiLuR8hLQqf3j2ZesRWdc  
+135.78  
+fdef32a895... Block 123910 (2011-05-14 14:35:03) 0.81 Received: Address  
+1CSDXowgDPh3thjVX1p1gZrqA6fV3AKaT  
+136.59  
+  
+Does anyone know how I can try to track down who stole my bitcoins and where
+they went?!!!!!  
+  
+Any help/insight would be greatly appreciated!  
+  
+  
+Roger Ver  
+Memory Dealers.com, Inc.  
+3350 Scott Blvd.  
+Building #32  
+Santa Clara, CA 95054  
+USA  
+  
+Phone:+1 408 486 5650  
+Fax: +1 408 486 5653  
+Email: roger@memorydealers.com  
+Aim: rogerkver  
+MSN: roger@memorydealers.com  
+  
+For all yor networking needs visit:  
+http://www.memorydealers.com  
+

@@ -1,0 +1,46 @@
+
+
+Quote from: theymos on August 23, 2011, 11:50:24 PM
+
+I don't see why it's necessary to support addresses for backup and secure-
+device transactions. Bitcoin can remember the public keys before they are
+exported to the backup or device.  
+  
+With an additional device:  
+
+Code:
+
+2 KeyA KeyB 2 OP_CHECKMULTISIG
+
+KeyA is a local key known by Bitcoin. KeyB is probably remembered from
+previous use; if not, it can be transferred in a QR code without much trouble
+(~90 base64 characters is fine).  
+
+  
+The multi-device use-case I'm imagining:  
+  
+I sign up with Acme Bitcoin Security Solutions, Inc. They give me a
+WalletProtection public key (or bitcoin address, doesn't matter) and a unique-
+for-me URL. I put the address/pubkey into my bitcoin client as "Second factor
+off-device Send Authentication." Or something.  
+(ABBS also sends me the private key in the mail and tells me to keep it safe
+in case they go out of business)  
+  
+Now I want all coins sent to me to require signatures from keys in my wallet
+AND the ABBS key to spend.  
+  
+What bitcoin address do I give to people so that all coins going into my
+wallet have that property?  
+  
+If it is raw CHECKMULTISIG, then I need to give out addresses containing 2
+full public keys. Which would be 186 characters in base58 and look something
+like this:  
+LeFKX5Uhue9B4bVNqFouRdH9xyJ4uVksV16Gc3v5Kov6SEtyUmKmF3j582VHcmhKGEfBXvrft6SHAq4
+SQPw5kbGryZj4aGqZKGFSPsotRJvrmQXCT8qZ2LZd3KyxFLDt1rsBx2uisukHPvBnyCpbyVdgNhyQYn
+z3Cf4oakK9Rm6oxFHwjHxHnnbdW3  
+  
+Using 20-byte hashes and the more complicated 2-of-2 transaction i'm
+proposing, the address is a more reasonable 61 chars:  
+2SEe6qhJ11baZfpk9qXt3gfz3qAgFj4BMc2FXh9ojoBoLU4GAhft1hJAb5TAK  
+  
+

@@ -1,0 +1,15 @@
+
+
+It's a bad idea to try to break the "in-production" bitcoin network.  
+  
+If anybody is starting serious work on either extending Bitcoin or developing
+compatible implementations or trying to break it by creating bad transactions,
+I think creating a "parallel universe" test network with its own block chain,
+data directory, etc makes sense.  
+  
+Satoshi: would you be open to a --testnetwork (or something) flag to bitcoin
+that swapped to an alternate genesis block, data directory, listen port and
+IRC channel? Maybe with a really short average block generation time, too
+(like once per minute instead of once per 10 minutes) so everything happens
+ten times a fast to make testing quicker.  
+

@@ -1,0 +1,21 @@
+
+
+Quote from: Luke-Jr on March 01, 2011, 12:45:40 AM
+
+That seems like an internationalization bug. What was wrong with using the
+correct localization?  
+
+  
+I was tempted to do more than fix the rounding problem...  
+... but then sanity overwhelmed me.  
+  
+If you'd like to start a discussion of whether or not it is a good idea for
+one-thousand German bitcoin amounts to be displayed as "1.000,00", be my
+guest. I think there was such a discussion in the past, but I didn't pay
+attention to it. I think it would be nice if an amount like "1.001 BTC" (or
+even "1.001 tonal bitcoins") was unambiguous.  
+  
+RE: subcent throwaway change: turn it into a proper PULL request (yes, you'll
+have to-- horrors! -- use that evil, not 100%-pure-open-source github) and
+it'll happen faster.  
+

@@ -1,0 +1,17 @@
+
+
+Quote from: sipa on May 09, 2011, 12:28:39 AM
+
+So, questions:  
+* Do you think a continuous decrease of the block reward is better?  
+* Is it worth breaking backward compatibility for?  
+
+  
+No and no, in my opinion.  
+  
+I think being able to explain the block reward as "starts at 50 every 10
+minutes and is cut in half every 4 years" is a big advantage. I like simple--
+"the simplest possible solution that will work" is a good engineering rule of
+thumb.  
+  
+

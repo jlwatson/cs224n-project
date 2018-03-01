@@ -1,0 +1,60 @@
+I'm still deep down the Bitcoin rabbit hole, and I've been thinking about its
+"store of value" and "means of exchange" properties.  
+  
+I wonder: if Bitcoin is used as just a store of value and nothing more, could
+that be enough?  
+  
+Imagine it is years in the future, when the generation of new bitcoins has
+slowed to a trickle.  
+  
+As a pure store of value, bitcoins would function as I-owe-you tokens. People
+who wanted to store value would buy bitcoins from people who were done using
+them to store value and needed some cash to buy something.  
+  
+The value of a bitcoin would be a function of how many people wanted to store
+versus spend. If everybody decided at once they wanted to spend their money
+instead of saving it they would find no buyers and the price would drop to
+zero.  
+  
+If lots of people had lots of extra money that they wanted to store (and they
+decided bitcoins were a good place to store it) the price of bitcoin would go
+up.  
+  
+I'm not an economist, but I would guess that the desire for a good place to
+store value is pretty steady. I base that on the recent behavior of US
+Treasuries; people want a safe place to park their money so much that they
+have actually driven the inflation-adjusted interest rate on many Treasuries
+negative ("investors" are paying the US government to hold their money for
+them).  
+  
+Bitcoins are a pretty darn good store of value; they don't take up any space,
+you can back them up, you can protect them with a password, you can split them
+up and store them in a lot of different places, and when you want to spend
+them you can do it from the comfort of your barcalounger using your cell
+phone.  
+  
+You can even store them in your brain if you want (my brain is too flaky, I
+try not to store valuable things in there).  
+  
+I can imagine that once they grow up bitcoins could have a lot of value purely
+as a store of value, even if they never take off as a currency used for
+everyday purchases.  
+  
+I'm sure the overall demand for "store of value" goes up and down, but it
+looks to me like it is counter-cyclical-- when the economy is bad, people take
+money out of things like the stock market and put it into things like T-Bills
+or gold.  
+  
+If bitcoins are used only as a store of value in the future, then we should
+see their value going up during recessions and down during boom times.  
+  
+If they're used only as a means of exchange then we should see the opposite.  
+  
+I hope they'll be used for both so they'll have a mostly steady value
+regardless of what the economy is doing.  
+  
+DISCLAIMER: I've been saying this for a couple of years now, but it is still
+mostly true:  Bitcoin is an experiment-- only invest time or money in it that
+you can afford to lose!  
+  
+

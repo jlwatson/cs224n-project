@@ -1,0 +1,7 @@
+
+
+Here's where grondilu describes his scripts to sign arbitrary data with wallet
+keys using openssl. Very impressive.  
+  
+http://bitcointalk.org/index.php?topic=2694.msg39658#msg39658  
+

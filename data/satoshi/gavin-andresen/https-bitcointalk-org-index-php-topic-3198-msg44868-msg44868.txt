@@ -1,0 +1,25 @@
+
+
+In this thread I said:  
+
+Quote
+
+Bitcoin's p2p network is subject to various kinds of denial of service
+attacks.  
+  
+There, I said it.  
+
+  
+Bitcoin is still vulnerable to DOS attacks. I'm not sure anybody knows how to
+prevent DOS attacks on a p2p network that allows untrusted/unverified peers to
+join (but I'd very much like a networking expert to tell me I'm wrong, and
+would like it even more if they volunteered to fix it....).  
+  
+Asking hackers to prove that they can DOS the bitcoin network wouldn't prove
+anything, it would just slow down transactions for however long they decided
+to keep up the attack.  
+  
+Giving bounties for uncovering vulnerabilities besides a network-denial-of-
+service attack is a good idea (demonstrated on the -testnet, preferably).  
+  
+

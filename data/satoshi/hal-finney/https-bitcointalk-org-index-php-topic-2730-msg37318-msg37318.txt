@@ -1,0 +1,8 @@
+
+
+Would it work, on a new machine with no wallet, to create the .bitcoin
+directory, with wallet.dat a symlink to an empty file on your 5MB volume? Then
+when you launch the client for the first time, would it create the wallet on
+the encrypted volume? Or would it just overwrite the symlink file with wallet
+data?
+

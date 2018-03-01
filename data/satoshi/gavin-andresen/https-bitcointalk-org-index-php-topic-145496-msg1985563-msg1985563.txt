@@ -1,0 +1,12 @@
+
+
+A transaction is final if:  
+  
+All of its sequence numbers are INT_MAX  
+OR  
+lockTime has passed.  
+  
+I'm still of the opinion that non-final transactions shouldn't be broadcast
+over the p2p network; I think the parties negotiating using them should keep
+them to themselves until they are final, and broadcast then.  
+

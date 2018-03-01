@@ -1,0 +1,25 @@
+
+
+I run a company of a little over 30 people. We recently have stated accepting
+bitcoin as payment and ran into our first security issue recently.  
+It then occurred to me how incredibly difficult it will be for companies to
+manage their bitcoins.  
+With bitcoins, it just takes one honest mistake, or one dishonest action by
+any single person in the accounting department who has access to the bitcoin
+wallet to lose all of the bitcoins. Many companies need hundreds of thousands
+or millions of dollars in checking accounts to take care of ongoing company
+expenses.  
+  
+What steps can companies take to prevent one employee from transferring all of
+the money away?  
+  
+What steps can be taken to prevent an accountant at Microsoft for example,
+from stealing $100M worth of bitcoins in one shot?  
+  
+Please give me your thoughts on security measures that companies will need to
+take to prevent the theft of all of their bitcoins.  
+Having the owner handle every single transaction personally is not practical
+for organizations of any size.  
+In order for bitcoin to become mainstream, these problems will need to be
+solved.
+

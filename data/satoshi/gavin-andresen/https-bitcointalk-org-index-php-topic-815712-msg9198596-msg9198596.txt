@@ -1,0 +1,45 @@
+
+
+Quote from: NewLiberty on October 13, 2014, 07:30:06 PM
+
+No comment on this?  
+
+Quote
+
+One example of a better way would be to use a sliding window of x number of
+blocks 100+ deep and basing max allowed size on some percentage over the
+average while dropping anomalous outliers from that calculation. Using some
+method that is sensitive to the reality as it may exist in the unpredictable
+future give some assurance that we won't just be changing this whenever
+circumstances change.  
+Do it right, do it once.  
+
+  
+That does not address the core of people's fears, which is that big,
+centralized mining concerns will collaborate to push smaller competitors off
+the network by driving up the median block size.  
+  
+
+Quote from: NewLiberty on October 13, 2014, 07:30:06 PM
+
+There isn't a way to predict what networks will look like in the future, other
+than to use the data of the future to do just that. Where we are guessing we
+ought acknowledge that.  
+
+  
+Yes, that is a good point, made by other people in the other thread about
+this. A more conservative rule would be fine with me, e.g.  
+  
+Fact: average "good" home Internet connection is 250GB/month bandwidth.  
+Fact: Internet bandwidth has been growing at 50% per year for the last 20
+years.  
+(if you can find better data than me on these, please post links).  
+  
+So I propose the maximum block size be increased to 20MB as soon as we can be
+sure the reference implementation code can handle blocks that large (that
+works out to about 40% of 250GB per month).  
+Increase the maximum by 40% every two years (really, double every two years--
+thanks to whoever pointed out 40% per year is 96% over two years)  
+Since nothing can grow forever, stop doubling after 20 years.  
+  
+

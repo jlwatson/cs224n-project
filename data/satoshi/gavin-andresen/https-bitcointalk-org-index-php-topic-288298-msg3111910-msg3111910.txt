@@ -1,0 +1,20 @@
+
+
+There was an interesting research paper (which I can't find) that claimed that
+high frequency trading is largely driven by the artifically high limit on
+bid/ask spreads. The claim is that if trading was allowed in much smaller
+fractions of a dollar traders would compete by underbidding/overoffering
+instead of competing to be first in the trading queue.  
+  
+That seems plausible to me-- set an arbitrary constraint ("bids must be in
+multiples of a tenth of a penny" -- or whatever it is these days) and you
+often get unintended consequences.  
+  
+I still plan on writing up why I disagree with the idea that a larger block
+size will lead to centralization, but I'm working on some higher priority
+things first. I really don't understand why you would think that our current,
+arbitrary 1MB limit is the Best Size For All Time. I think **that** arbitrary
+constraint will have bad unintended consequences.  
+  
+  
+

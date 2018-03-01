@@ -1,0 +1,57 @@
+
+
+Quote from: ByteCoin on November 02, 2011, 11:22:24 PM
+
+I thought I'd transplant Gavin's post to here, rather than derail the original
+thread.  
+What's the timeline for enabling relaying of OP_EVAL transactions and for a
+client that can generate OP_EVAL transactions?  
+
+Good question. The timeline for clients is less critical, as long as a
+majority of hashing power will properly interpret OP_EVAL clients that
+relay/generate those transactions can be rolled out anytime after Feb 1.  
+  
+So I'd suggest releasing a 0.5.something or 0.6 after the Jan 15 "are the big
+miners on board" evaluation that turns on OP_EVAL support Feb 1.  
+  
+
+Quote
+
+Also, when will clients be patched to start rejecting blocks with the OP_NOP1
+interpretation of OP_EVAL?  
+
+  
+Same time.  
+  
+
+Quote
+
+I presume that, if all goes well, then on the 1st of Feb 2012, blocks
+containing OP_EVAL will suddenly be interpreted in the new stricter fashion
+than when it was OP_NOP1. We know that GetTime() seems to return widely
+disparate results over the bitcoin network. Are we confident that problems are
+not going to arise because of the pseudorandomly timed nature of the change of
+interpretation of the opcode?  
+
+  
+Another very good question. The timestamp in the block will be used to
+determine whether OP_NOP1s in the block are interpreted as no-ops or OP_EVAL
+when checking block validitity (wall-clock GMT time will be used to figure out
+if the node should relay/mine OP_EVAL transactions). I'll double-check my
+code, I think I did NOT code it that way.  
+  
+
+Quote
+
+Majority hashpower support for OP_EVAL is required before changeover. It's
+conceivable that something might go wrong after OP_EVAL transactions are
+mainstream which might make miners revert to interpreting OP_EVAL as OP_NOP1.
+If OP_EVAL loses majority hashpower support then the bitcoin system keeps
+going but with considerable damage to reputation, prospects and some people's
+wallets.  
+Has there been any consideration of this possibility?  
+
+  
+That seems exceedingly unlikely; once the big mining pools switch, there is a
+very strong incentive for the smaller pools to switch, too.  
+

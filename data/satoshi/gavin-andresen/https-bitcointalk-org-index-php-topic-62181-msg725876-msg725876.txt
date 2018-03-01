@@ -1,0 +1,16 @@
+
+
+STOP IT. JUST STOP IT.  
+  
+BIP 16 has overwhelming support, it will be the solution.  
+  
+Casascius: please read BIP 0001 for the process to get assigned a BIP number.
+The process is not "create a page on the wiki."  
+  
+As for the proposal itself: No.  
+  
+You are proposing a non-backwards-compatible change, which would mean a "hard"
+blockchain split. **Everybody** agrees that is a bad idea. The confusion and
+potential for hacks if a significant fraction of bitcoin users were on a
+separate chain is massive; you gloss over all of that in your proposal.  
+

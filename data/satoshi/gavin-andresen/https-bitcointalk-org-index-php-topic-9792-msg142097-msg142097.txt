@@ -1,0 +1,13 @@
+
+
+Bad peer code that drops the connection and refuses reconnection seems like a
+good denial-of-service prevention measure.  
+  
+My only hesitation is accidentally causing a network (and, therefore, block-
+chain) split if "bad" turns out to be "my peer is running a newer version of
+the protocol and is accidentally sending me messages I don't understand."  
+  
+RE: net neutrality: if you have to worry about your bitcoin traffic being shut
+down, I think that problem is better solved with TOR or another network proxy
+solution.  
+

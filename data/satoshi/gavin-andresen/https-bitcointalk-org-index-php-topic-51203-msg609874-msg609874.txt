@@ -1,0 +1,19 @@
+
+
+I purchased this laptop:  
+http://www.ebay.com/itm/290608305269  
+  
+... to do Bitcoin 'gitian' builds. It's a perfectly good laptop, runs nicely,
+but I'm re-selling it because its Core Duo CPU can't do 64-bit builds.  
+  
+Specs are:  
+1.83 Mhz Core Duo processor  
+120GB memory  
+2G disk  
+Wifi  
+  
+Running Ubuntu 11.04, includes laptop, battery and power supply.  
+  
+Asking 50 BTC, I'll pay shipping anywhere in the US; if I don't get any takers
+here, I'll re-auction it on Ebay on Friday, Nov 11.  
+

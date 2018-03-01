@@ -1,0 +1,9 @@
+
+
+That is wxWidgets' internationalization machinery complaining about...
+something (the catalog is probably the list of english strings -> other
+language strings).  
+  
+As for fixing it: "Not It!" (I don't know nothing about wxWidgets
+internationalizations stuff)
+

@@ -1,0 +1,14 @@
+
+
+I'll confess: the bitcoin GUI is not a high development priority for me
+because I think downloading and running software on your computer will soon be
+almost extinct.  
+  
+I expect pretty soon most people will be using bitcoin through web
+applications (like mybitcoin or instawallet) or as apps running on their
+mobile phones.  
+  
+I'll also confess that I like the bittorrent model-- create a great
+technology, a "good enough" interface for it, and encourage the creation of
+compatible applications that have great user interfaces.  
+

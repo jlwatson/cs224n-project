@@ -1,0 +1,35 @@
+
+
+Quote from: Vort on April 29, 2011, 02:36:53 PM
+
+hmm, with new version i can't send 0.01 BTC without fee  
+0.3.20.2 works fine  
+
+  
+You're running into the "very low priority transactions require a fee" rule.
+Priority depends on the value of the transaction (fewer bitcoins == lower
+priority) and how long ago you received the bitcoin(s) (older == higher
+priority).  
+  
+That rule was in place for 0.3.20.2, but only for most miners. Most would not
+include very-low-priority transaction in blocks until they were old enough to
+have a high priority. The result was a big backlog of very-small transactions
+starting to build up.  
+  
+With 0.3.21, the rules are the same for miners, for relaying transactions
+across the network, and for the user interface-- if your transaction is very-
+low-priority, it won't get relayed and the user interface will insist that you
+pay a fee if you really want it transmitted RIGHT NOW.  
+  
+If you really really really need to send 0.01 bitcoins right now, then you'll
+have to pay the fee. If you're willing to wait a while, you'll find you can
+send it without a fee after it is old enough and has enough priority.  
+  
+All of this is to discourage people from "penny flooding" -- constantly
+sending pennies back and forth to themselves without a fee just because they
+can.  
+  
+Footnote: if you don't upgrade, you can send that 0.01 bitcoins without a fee.
+But as everybody else upgrades, you'll find that it will take a long time for
+that transaction to get confirmed.  
+

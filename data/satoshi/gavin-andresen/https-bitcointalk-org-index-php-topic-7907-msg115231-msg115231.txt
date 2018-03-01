@@ -1,0 +1,22 @@
+
+
+giraffe.heliacal.net is also known as irc.lfnet.org  
+
+Code:
+
+PING giraffe.heliacal.net (92.243.23.21): 56 data bytes  
+PING irc.lfnet.org (92.243.23.21): 56 data bytes  
+
+  
+Laszlo runs that IRC chat server, and bitcoin uses it to "bootstrap" to find
+other machines running bitcoin.  
+  
+Unless you run with the -noirc switch, in which case it won't -- it will try
+to connect via a list of compiled-in 'seed nodes' (which I'll try really hard
+to remember to recruit somebody to update for the next release).  
+  
+After you've run bitcoin once, it stores nodes you were able to connect with
+in the addr.dat file, so you can run -noirc just fine. But if everybody did
+that, newbies who just downloaded bitcoin would have a hard time finding
+people to connect with.  
+

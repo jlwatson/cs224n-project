@@ -1,0 +1,13 @@
+
+
+FYI:  
+  
+The Bitcoin Faucet bitcoind's are both running on a Linode VPS, which was
+mysteriously restarted 14 hours ago. The 5 bitcoins in the main-net Faucet's
+wallet were stolen, also; I'll shutdown the Faucet website, do NOT donate any
+coins to the Faucet donation address, it is controlled by the thief.  
+  
+Transaction ID:
+14350f6f2bda8f4220f5b5e11022ab126a4b178e5c4fca38c6e0deb242c40c5f  
+... if you want to start watching where the coins end up.  
+

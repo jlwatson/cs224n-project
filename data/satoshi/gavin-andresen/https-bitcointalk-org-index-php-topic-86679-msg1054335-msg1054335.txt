@@ -1,0 +1,12 @@
+
+
+Quote from: DeathAndTaxes on July 25, 2012, 04:02:32 PM
+
+It isn't dooommmmzz but it does distort the market. Luckily it is self
+correcting. As tx volume increases and tx fees increase the block subsidy will
+decline and make the network more of a "pay per performance" model.  
+
+Self-correcting assuming there are good market dynamics between miners and
+users. That's broken right now, but I'm working on fixing it (see pull #1590
+for the first step).
+

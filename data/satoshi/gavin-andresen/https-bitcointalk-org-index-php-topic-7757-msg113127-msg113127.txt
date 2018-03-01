@@ -1,0 +1,9 @@
+
+
+Quote from: jordanlewis on May 09, 2011, 06:59:17 PM
+
+... but the async calls should greatly improve performance under high load.  
+
+  
+Have you done any benchmarking to see if that is true?  
+

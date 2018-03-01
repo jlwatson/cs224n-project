@@ -1,0 +1,5 @@
+
+
+Start here maybe:  
+https://github.com/gavinandresen/bitcointools/blob/master/deserialize.py#L262  
+

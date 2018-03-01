@@ -1,0 +1,14 @@
+
+
+getinfo and getbalance (with no arguments)... are a little complicated.  
+  
+They include all 1 confirmation receive transactions, but (this is the
+complicated part) they also include 0-confirmation receives if they are self-
+sends (either the "change" from coins you just sent or all the coins if you
+sent to one of your own addresses).  
+  
+In any case, I think they will do exactly what you want-- show you coins that
+have at least one confirmation or that you are certain you are able to spend
+(because they are your own 0-confirmation coins).  
+  
+

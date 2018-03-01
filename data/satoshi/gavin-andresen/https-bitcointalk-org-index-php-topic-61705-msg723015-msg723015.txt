@@ -1,0 +1,11 @@
+
+
+For context: makomk is the creator of CoiledCoin, a bitcoin alternative:  
+https://bitcointalk.org/index.php?topic=56675  
+  
+And RE: creating bots: I created a BIP-17-stealing bot because it was really
+easy (took about 10 minutes of hacking). A BIP-16-stealing bot would be a lot
+harder (because it would have to 'lie in wait' until the sender was redeeming
+the coins, and then race to relay/mine a 'stealing' version of the transaction
+before the rest of the network mined the original).  
+

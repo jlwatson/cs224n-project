@@ -1,0 +1,17 @@
+
+
+As a relative newbie to the code, I do find your version easier to read. It's
+easier to find the implementations of functions since most are class members
+and are now in named .cpp files. It's also nice to have the full class
+implementation in one place rather than having to flip back and forth between
+.h and .cpp files.  
+  
+However that is for reading, and the needs of developers may be somewhat
+different. Obviously Satoshi knows the current layout intimately, and as the
+main developer it is up to him to see whether he could work with the new
+layout.  
+  
+One concern I'd have with losing the inlinable .h functions is whether it
+could slow down either initial block load/verify/indexing, or mining (a bit
+moot with gpu miners these days).
+

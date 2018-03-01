@@ -1,0 +1,82 @@
+
+
+Quote from: sgornick on February 26, 2011, 09:55:51 PM
+
+However if the transaction never happens (e.g., my trading partner backs out
+and doesn't end up sigining in to ClearCoin) then is there a way for me to get
+the escrow fee that I prepaid back?  
+
+  
+Great suggestion, I will modify the code to refund the escrow fee (if any) and
+donate the rest.  
+  
+
+Quote
+
+Like a mediator's address? This is the most critical feature, IMO. Though it
+will be awkward to try to obtain in advance a bitcoin address for the mediator
+for each transaction. Hmm ...  
+
+  
+I have some preliminary plans for mediated escrows that will require all three
+parties to have ClearCoin accounts. I'm still thinking about how to make it as
+simple to use as possible.  
+  
+
+Quote
+
+Quote
+
+3\. If the coins are refunded to charity, show Alice and Bob the transaction
+ID so it is easier for them to make sure ClearCoin isn't taking the coins.  
+
+If they are a 501 (c) 3 (U.S. charitable organization) , I might like that so
+that, at a minimum, I have a "receipt" to claim that refund as a charitable
+contribution.  
+
+Great idea, I'll put it on the "nice to have" list.  
+  
+
+Quote
+
+I want greater control over the escrow ending date. Contracts generally have
+specific date for things to happen and ClearCoin should match that practice by
+allowing me to specify the exact date (and time?) that the escrow ends.  
+
+Easy to do. How critical is time? Plus or minus 1 hour would be easy (there's
+a 'cron job' that runs once per hour to process refunds), but I don't want to
+make the Create an Escrow page more complicated than it really needs to be.  
+  
+
+Quote
+
+Will the threshold continue to be 100 BTC? When ClearCoin started, that 100
+BTC represented about a $25 max amount. Today that is about a $93 amount. I'ld
+like to know if there is a general USD dollar amount target for the "no fee /
+fee" threshold, or can I cound on up to 100 BTC being free for quite some time
+yet?  
+
+I'll probably target transactions under $50 remaining free, and I'm thinking
+of capping fees at $4... but it is likely I'll experiment with different
+pricing models as I fill out features. Paying mediators (before and/or when
+mediation is required) adds lots more wrinkles...  
+
+Quote
+
+Jurisdiction: Might there be plans for a ClearCoin service residing in a
+different jurisdiction?  
+
+Nope. Maybe I'll franchise later if Bitcoin and ClearCoin really take off.  
+
+Quote
+
+Anonymity: Currently if my Google account gets hacked, then my ClearCoin
+escrows are vulnerable should the attacker know that I use ClearCoin. Are
+there any plans to allow registration using an authentation method other than
+a Google account?  
+
+No-- what authentication method would you like to see? I don't like the idea
+of supporting arbitrary OpenID authentication, because it is so easy to create
+throwaway OpenID identities (creating throwaway Google identities is at least
+a LITTLE bit harder...).  
+

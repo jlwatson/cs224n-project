@@ -1,0 +1,8 @@
+
+
+I wonder how much a bitcoin transaction actually costs, in terms of bandwidth
+and disk space on everybody's machines.  
+  
+If nobody beats me to it, I'll try to do a back-of-the-envelope calculation
+later today.  
+

@@ -1,0 +1,17 @@
+
+
+r.willis is confused about the BIP process.  
+  
+It is not "Write a specification. Submit a BIP. Argue for a while, revise the
+specification. Finalize BIP, then everybody agrees to implement it."  
+  
+I know there are standardization processes that try to work that way, and
+they're generally miserable failures. You end up with bloated specifications
+and implementations that don't work with each other because everybody
+interprets the spec slightly differently.  
+  
+I like the IETF model, of working code and rough consensus. So, once the
+payment protocol is implemented and early adopters have had a chance to play
+with it, it will become a formal BIP. Until then, as Mike said, I'll be
+tweaking https://gist.github.com/gavinandresen/4120476 as I run into issues.
+

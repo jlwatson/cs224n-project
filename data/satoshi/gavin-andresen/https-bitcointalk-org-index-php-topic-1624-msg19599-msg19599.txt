@@ -1,0 +1,8 @@
+
+
+Does it work if you (temporarily) set rpcallowip=* ?  
+  
+And are you SURE you're running a bitcoind that supports rpcallowip? Run
+bitcoind getinfo, and check the "version" value returned (version 0.3.12 or
+later, if I'm reading the source correctly).  
+

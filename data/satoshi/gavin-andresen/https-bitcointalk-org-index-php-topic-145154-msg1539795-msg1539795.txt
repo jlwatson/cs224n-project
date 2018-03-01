@@ -1,0 +1,19 @@
+
+
+I think casual users should avoid the Satoshi client. Gigabytes of blockchain
+data is not user-friendly, and we've done a lousy job of making it hard for
+users to lose their keys.  
+  
+I think the something like the blockchain.info web wallet or Electrum is a
+good choice for long-term storage; you keep control over your private keys,
+and are exposed to possible theft risk only when you make a transaction
+(because a hacked blockchain.info could feed you evil Javascript, or a hacked
+Electrum download server could feed you an evil executable). The chances that
+you will be one of the first customers who make a transaction after they were
+hacked, before they took their site offline to recover from the hack, are
+pretty small if you are only making a couple of transactions per month.  
+  
+I'm also assuming that a casual user isn't storing thousands of bitcoins. I
+don't think we have great solutions for casual users with thousands of
+bitcoins yet (I consider paper wallets a fair solution, not a great one).  
+

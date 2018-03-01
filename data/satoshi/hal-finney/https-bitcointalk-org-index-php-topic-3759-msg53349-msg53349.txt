@@ -1,0 +1,7 @@
+
+
+Actually I was wrong, this is exactly what is happening here. You see that
+both inputs come from the same transaction. In these cases, the pay-yourself
+cycle was repeated, and you again end up with two addresses in the same
+wallet, funded by the same transaction, which must be used together.
+

@@ -1,0 +1,22 @@
+
+
+Quote from: MatthewLM on June 04, 2012, 03:03:42 PM
+
+Hopefully this is the right way. Am I right thinking that the signatures are
+70 bytes and the public keys are 66 bytes?  
+
+  
+Signatures are BER-encoded data structures, and can be an arbitrary number of
+bytes (if they're DER-encoded, which is the strict subset of BER encoding,
+then they're 70-something bytes).  
+  
+Public keys are either 33 or 65 bytes (not counting the "push the next N bytes
+onto the stack" CSCript opcode).  
+  
+I've got to say you make me nervous; you seem to be following a "make it work
+for a couple of test cases then move on" style of development, which is a bad
+way to create a secure, robust codebase.  
+  
+PS: I sympathize with you RE: OpenSSL's lack of documentation....  
+  
+

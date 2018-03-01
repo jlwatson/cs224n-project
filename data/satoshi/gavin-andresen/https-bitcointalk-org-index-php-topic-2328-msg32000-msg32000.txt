@@ -1,0 +1,8 @@
+
+
+Anybody have a chance to compile/test this on Windows?  
+  
+I created an Official Pull Request for this, which I will accept and apply
+unless I hear objections today:  
+https://github.com/bitcoin/bitcoin/pull/9  
+

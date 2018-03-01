@@ -1,0 +1,12 @@
+
+
+I agree with ribuck that DNS servers don't necessarily need to get paid, to
+support Bitcoin domains. After all, what is the purpose of a DNS server? It is
+to lookup domains for its clients, which are users wanting to connect to
+computers using domain names. If BitDNS becomes popular, DNS servers will want
+to be able to lookup those domains too. All that is necessary is to track the
+block chain and maintain indexes and hash tables to record which domains are
+in effect and their basic DNS data. DNS servers don't have to be Bitcoin
+miners. The existing motivations for DNS servers to operate and provide lookup
+serves to their clients will be sufficient to make them track Bitcoin domains.
+

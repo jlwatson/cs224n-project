@@ -1,0 +1,47 @@
+
+
+Finally a reasonable question:  
+  
+
+Quote from: NxtChg on March 17, 2015, 02:47:43 PM
+
+Gavin, could you please explain the reason behind trying to guess and hard-
+code the optimal limit, instead of doing something adaptive, like "limit =
+median(size of last N blocks) * 10"?  
+
+  
+The problem people are worried about if the maximum block size is too high:
+That big miners with high-bandwidth, high-CPU machines will drive out either
+small miners or I-want-to-run-a-full-node-at-home people by producing blocks
+too large for them to download or verify quickly.  
+  
+An adaptive limit could be set so that some minority of miners can 'veto'
+block size increases; that'd be fine with me.  
+  
+But it wouldn't help with "I want to be able to run a full node from my home
+computer / network connection." Does anybody actually care about that? Satoshi
+didn't, his vision was home users running SPV nodes and full nodes being
+hosted in datacenters.  
+  
+I haven't looked at the numbers, but I'd bet the number of personal computers
+in homes is declining or will soon be declining-- being replaced by
+smartphones and tablets. So I'd be happy to drop the "must be able to run at
+home" requirement and just go with an adaptive algorithm. Doing both is also
+possible, of course, but I don't like extra complexity if it can be helped.  
+  
+It is hard to tease out which problem people care about, because most people
+haven't thought much about the block size and confuse the current pain of
+downloading the chain initially (pretty easily fixed by getting the current
+UTXO set from somebody), the current pain of dedicating tens of gigabytes of
+disk space to the chain (fixed by pruning old, spent blocks and transactions),
+and slow block propagation times (fixed by improving the code and p2p
+protocol).  
+  
+  
+PS: my apologies to davout for misremembering his testnet work.  
+  
+PPS: I am always open to well-thought-out alternative ideas. If there is a
+simple, well-thought-out proposal for an adaptive blocksize increase, please
+point me to it.  
+  
+

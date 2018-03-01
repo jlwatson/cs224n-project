@@ -1,0 +1,28 @@
+
+
+Quote from: fergalish on November 16, 2010, 09:06:46 AM
+
+At this point, the Men in Black could disconnect from all other block
+generators, and the chain would fork.  
+
+  
+Umm... how would they do that?  
+  
+If even one machine remained connected to both the MiB and the rest of the
+network, then there will be no split. Transactions and blocks will continue to
+flow between them.  
+  
+And if the MiB disconnect themselves from everybody else... then what they do
+has no effect on anybody else.  
+  
+If the MiB have more than 50% of the block generating power then they can set
+the rules as you describe (refuse to put transactions with fees into the block
+chain, etc). If we didn't like it, we could write code that detected that they
+were "breaking the rules" (for example, we could reject generated blocks with
+no or very few free transactions, when we know there are old, free
+transactions waiting to go into a block), and work on our own "minority"
+chain. Convince the merchants and exchanges to run our code instead of the MiB
+code and the MiB can go play with themselves, we'll all happily continue
+trading with each other on the minority chain.  
+  
+

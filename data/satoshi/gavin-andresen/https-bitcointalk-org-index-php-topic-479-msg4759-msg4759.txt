@@ -1,0 +1,10 @@
+
+
+chroot: won't protect you.  
+  
+Running as a separate VM: I think will protect you. But I thought browsers
+wouldn't allow XMLHTTPRequests to "localhost" from web pages fetched from the
+web, so my advice would be to test it. See if you can talk to the Bitcoin
+daemon from another VM on the same machine by running "bitcoind getinfo" or
+"bitcoin getinfo" on the non-bitcoin-vm.  
+

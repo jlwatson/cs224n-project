@@ -1,0 +1,30 @@
+
+
+Quote from: NewLiberty on October 16, 2014, 09:29:38 PM
+
+Designing something to work and designing to not fail are entirely different
+endeavors and someone qualified for one is not necessarily qualified to even
+evaluate the other.  
+
+Pure coincidence, but I had lunch today with a local developer who will be
+putting up a building in downtown Amherst. They are planning on running fiber
+to the building, because they want to build for the future and the people they
+want to sell to (like me in a few years, when we downsize after my kids are in
+college) want fast Internet.  
+  
+If I gaze into my crystal ball... I see nothing but more and more demand for
+bandwidth.  
+  
+We've got streaming Netflix now, at "pretty good" quality. We'll want enough
+bandwidth to stream retina-display-quality to every family member in the house
+simultaneously.  
+  
+Then we'll want to stream HD 3D surround video to our Oculus Rift gizmos,
+which is probably another order of magnitude in bandwidth. To every member of
+the family, simultaneously. While our home security cameras stream to some
+security center off-site that is storing it as potential evidence in case of
+burglary or vandalism....  
+  
+Then... who knows? Every prediction of " _this_ will surely be enough
+technology" has turned out to be wrong so far.  
+

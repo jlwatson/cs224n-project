@@ -1,0 +1,10 @@
+
+
+Please don't play this.  
+  
+If it gets popular, then it is just "use the blockchain to create a Ponzi
+scheme". It can scale up, using new transactions to pay a little more to older
+transactions made 2 or 3 blocks ago. That's is the essence of a Ponzi scheme.  
+  
+If you want to test something, use the testnet. That is what it is for.  
+

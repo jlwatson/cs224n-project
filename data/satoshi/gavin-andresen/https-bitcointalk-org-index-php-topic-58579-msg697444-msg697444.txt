@@ -1,0 +1,48 @@
+
+
+Quote from: notme on January 17, 2012, 08:25:34 PM
+
+Pool users shouldn't have to update anything. Pools build the block they hand
+out, users just try to find a nonce for it. You should know this if you run a
+pool. Additionally, there is a development mailing list you can join where
+this was heavily discussed:  
+http://sourceforge.net/mailarchive/forum.php?forum_name=bitcoin-development  
+
+  
+notme is exactly right; the change is backwards-compatible, pool users don't
+have to do anything.  
+  
+Pools and solo miners should upgrade, or they run a (very small) risk that
+they'll waste time hashing a block that can't be valid.  
+  
+The risk is very small because it requires that somebody mine a block
+containing a /P2SH/ transaction that is valid-under-the-old-rules, invalid-
+under-the-new. That won't happen by accident, somebody malicious will have to
+create such a transaction and then find a miner who is willing to put that
+non-standard transaction in their block (and is willing to create a block they
+know the network will reject).  
+  
+They would spend a lot of time (and therefore money) on an attack that would
+do nothing but slow down transaction confirmations a tiny bit and maybe trip
+up some random, unlucky mining pool or solo miner who didn't bother upgrading.  
+  
+  
+  
+Gory details if you're not already bored:  
+  
+Old miners and clients will ignore all /P2SH/ transactions; they won't relay
+them to other nodes and won't put them in blocks they mine, because they're
+non-standard. So an attacker can't broadcast an invalid /P2SH/ transaction and
+hope it gets included in a block; they'll have to mine a block themself, or
+partner with a big solo miner or pool who is willing to produce bad blocks.  
+  
+If an attacker DID manage to create a block with a timestamp after the
+switchover date and a bad /P2SH/ transaction in it, then some percentage of
+the network will try to build on that bad block. Lets say 70% of hashing power
+supports /P2SH/. That would mean only 70% of the network was working on a good
+block-chain, and the result would be transactions taking, on average, about 14
+minutes to confirm instead of the usual 10 minutes.  
+  
+In other words: they'd give up a $300 block reward and manage to just give the
+network a tiny little hiccup.  
+

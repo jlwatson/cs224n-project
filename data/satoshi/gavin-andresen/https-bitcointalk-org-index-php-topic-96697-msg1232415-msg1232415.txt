@@ -1,0 +1,17 @@
+
+
+Quote from: MoonShadow on September 30, 2012, 12:08:51 AM
+
+Well, on that note, it would be wise if the development team were to consider
+the adoption of a second address schema using a different public/private algo.  
+
+Right now? What if we did that and it turned out the second public/private
+algo was broken first? ECDSA is a NIST standard that has been very well
+studied and has no known vulnerabilities. There are much, much, much higher
+items on the development TODO list, like figuring out a nice GUI for multi-
+device transaction authorization.  
+  
+I did write up plans for migrating to a new algorithm here:  
+https://gist.github.com/2355445 (See the "using a quantum-resistant digital
+signature algorithm" example at the end).  
+

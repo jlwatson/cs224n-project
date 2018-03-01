@@ -1,0 +1,20 @@
+
+
+There are three stages to the rollout:  
+  
+1\. Before 75% are producing block.version=2 blocks: no special checking  
+2\. Between 75 and 95% : block.version=2 blocks MUST have height in coinbase.
+We are here.  
+3\. 95% or more: all blocks MUST be block.version=2 and MUST have height in
+coinbase. Should happen soon.  
+  
+Shell script to count block versions:  
+  
+
+Code:
+
+gavin$ for i in {225925..226925}; do ./bitcoind getblock $(./bitcoind
+getblockhash $i); done | grep version | sort | uniq -c  
+173 "version" : 1,  
+828 "version" : 2,
+

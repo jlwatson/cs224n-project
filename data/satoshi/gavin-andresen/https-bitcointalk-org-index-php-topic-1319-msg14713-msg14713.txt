@@ -1,0 +1,16 @@
+
+
+Quote from: jgarzik on September 30, 2010, 03:57:31 PM
+
+My preferred arrangement would be a 'monitorall' command...  
+
+Good Idea, and that aught to be easy.  
+  
+I'm thinking it should be:  
+monitoraddress allwallet <url>  
+... instead of a separate monitor command.  
+  
+Come to think of it, maybe I should combine the getblockby* routines into one;
+there's no chance of mistaking a 64-character hex block hash for a 5-digit
+(or, in many years, a six or seven or ten digit) block number.  
+

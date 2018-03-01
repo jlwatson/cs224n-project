@@ -1,0 +1,14 @@
+
+
+I'd like to see somebody work on a "shun ill-behaved peers" patch.  
+  
+So if one of your peers sends you lots of garbage
+(blocks/transactions/addresses/whatever) you just disconnect from it and
+refuse to accept connections from it for a while.  
+  
+The trick is thinking really hard about what is really 'garbage' and what
+might be honest, it-happens-every-so-often weird behavior due to block chain
+splits or other network events.  
+  
+The goal would be to prevent a wide range of denial-of-service attacks.  
+

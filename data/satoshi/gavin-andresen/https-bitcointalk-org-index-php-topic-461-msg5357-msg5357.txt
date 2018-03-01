@@ -1,0 +1,14 @@
+
+
+Quote from: lachesis on July 23, 2010, 06:22:08 PM
+
+The password definitely shouldn't be required.  
+
+I strongly disagree; software should be secure by default, and running
+bitcoind without a password (or bitcoin -server) is definitely NOT secure.  
+  
+I just don't see somebody saying "Man, Bitcoin sucks because I have to add a
+password to a configuration file before running it as a daemon." I **can** see
+somebody saying "Man, Bitcoin sucks because I accidently ran it with the
+-server switch and somebody stole all my money."
+

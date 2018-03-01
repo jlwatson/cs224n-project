@@ -1,0 +1,16 @@
+
+
+Quote from: Hal on February 13, 2011, 09:48:44 PM
+
+To cheat you, when he generates a block, he doesn't broadcast it. Instead, he
+runs down to your store...  
+
+  
+I think the real danger is that a large mining operator would create a side
+business selling space in their blocks for these types of intentional double-
+spends. When they generate a block they could send a text message to a bunch
+of people saying "try to spend NOW".  
+  
+I wonder if there's some way to discourage that kind of anti-social behavior;
+could the network detect that was being done and "shun" that miner's blocks?  
+

@@ -1,0 +1,14 @@
+
+
+Congratulations Mike! That was fast, you got the bitcoins only two blocks
+later. Not only that, you had to create a transaction with 5 inputs,
+corresponding to the 5 payments into the address. Do you mind telling how you
+did it?  
+  
+As far as use cases, you could email someone some bitcoins without knowing
+their address, or even if they hadn't tried Bitcoin yet. Some people want to
+print bitcoins on paper and put them in a safe for long term security. If you
+could pay bitcoins to a newly created key, and export the private key, it
+would be a backup that would be safe against wallet theft. Lots of people have
+asked for this.
+

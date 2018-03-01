@@ -1,0 +1,53 @@
+
+
+So you create a 'send' transaction:  
+
+Code:
+
+sendtoaddress msK1Hu7N27XTcuXd5MqWuyhW3YEGxHgVPe 11 "Testing" "One, two,
+three"  
+a9e19baabc3929f0940805e69370d4aefa981cbe9cb8f5ea9184f5f6909a8544  
+
+  
+... and you've associated msK1Hu7N27XTcuXd5MqWuyhW3YEGxHgVPe with the label
+"2_address":  
+
+Code:
+
+setaccount "msK1Hu7N27XTcuXd5MqWuyhW3YEGxHgVPe" "2_address"
+
+  
+listtransactions looks like this:  
+
+Code:
+
+{  
+"account" : "",  
+"address" : "msK1Hu7N27XTcuXd5MqWuyhW3YEGxHgVPe",  
+"category" : "send",  
+"amount" : -11.00000000,  
+"fee" : 0.00000000,  
+"confirmations" : 0,  
+"txid" : "a9e19baabc3929f0940805e69370d4aefa981cbe9cb8f5ea9184f5f6909a8544",  
+"time" : 1336073201,  
+"comment" : "Testing",  
+"to" : "One, two, three"  
+}  
+
+  
+... because "send" transactions always report a negative amount (you're
+sending coins) and the account that they're being sent from.  
+  
+If you want to know the account/label associated with the address that you're
+sending to, do this:  
+
+Code:
+
+getaccount msK1Hu7N27XTcuXd5MqWuyhW3YEGxHgVPe  
+2_address  
+
+  
+... or you could use the [comment]/[comment-to] params to the
+sendtoaddress/sendfrom/sendmany commands if you want the "to-account" to show
+up in listtransactions.  
+

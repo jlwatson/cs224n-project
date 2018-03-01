@@ -1,0 +1,17 @@
+
+
+A huge block-chain re-org on the testnet confused the heck out of the testnet
+faucet (leaving it with lots of 0-confirmation, used-to-be-valid sends that
+made it think it had a negative balance).  
+  
+Clearing its wallet of the 0-confirmation transaction fixed it, but left it
+with a very small balance. It is up and running (at
+https://testnet.freebitcoins.appspot.com/ ), but if you generated a bunch of
+testnet coins, please send some to the testnet faucet at
+miGuMc6qtVEKS6Pf1jKddaa81DeHjMzkpB .  
+  
+Also, for anybody who doesn't know about it already: I've been using testnet-
+in-a-box (thanks Mike!) very successfully for testing. It gives you a nice,
+well-defined, controlled environment for reproducing bugs. Get it from:  
+http://sourceforge.net/projects/bitcoin/files/Bitcoin/testnet-in-a-box/
+

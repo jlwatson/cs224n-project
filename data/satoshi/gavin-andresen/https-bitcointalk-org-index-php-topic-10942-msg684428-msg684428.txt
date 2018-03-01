@@ -1,0 +1,9 @@
+
+
+Are you communicating via JSON-RPC or by command-line (bitcoind sendmany ....)
+?  
+  
+There shouldn't be any limits if you're talking directly via JSON-RPC, but if
+you're calling it via the command-line then sh and bash and whatever Windows
+uses to launch processes all have length limits.  
+

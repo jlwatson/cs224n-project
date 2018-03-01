@@ -1,0 +1,15 @@
+
+
+With just a web browser you can open an account at bitcoinmarket, mybitcoin,
+or mtgox and send/receive bitcoins.  
+  
+The only thing you're not able to do is try to generate bitcoins, but you said
+you don't have a computer at home and it sounds like your employer wouldn't be
+very... uhh, supportive... of you using their electricity to try to generate
+bitcoins.  
+  
+If they would be supportive (long ago I wrote software at a hardware company
+where they actually LOOKED FOR CPU-intensive applications to run during system
+burn-in, so they'd ship fewer dead-shortly-after-arrival units) then they'd
+probably be happy to open up outbound connections to port 8333.  
+

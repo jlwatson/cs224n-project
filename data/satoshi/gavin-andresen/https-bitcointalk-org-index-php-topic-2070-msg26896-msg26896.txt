@@ -1,0 +1,53 @@
+
+
+Quote from: brucewagner on December 04, 2010, 08:16:04 PM
+
+1\. Why not have both? The market will decide which one people choose to use
+most. One might be used more at first, then later as browsers are updated,
+site owners might later switch to the other. But.... Are they mutually
+exclusive??  
+
+  
+Nope, the hard parts aren't parsing the bitcoin: url string (or the file), and
+once parsed the same code could do the actual request.  
+  
+
+Quote
+
+2\. What's stopping us? Let's just implement them BOTH immediately. We
+obviously have the knowledge and expertise to get the job done. Let's just get
+the job done already.  
+
+  
+The hard part: what happens if I click on a pay-using-bitcoin link and I don't
+happen to have bitcoin running right now?  
+  
+The browser or OS runs bitcoin and hands it the payment request info.  
+  
+The bitcoin process checks to see if there is already another bitcoin process
+running.  
+  
+Nope. Ok, load the wallet. And then wait until we're caught up fetching the
+block chain that we missed while we weren't running. Gotta do that because
+some of the transactions in my wallet might have been spent (if you copied
+your wallet somewhere), or you might have received payments while bitcoin
+wasn't running.  
+  
+And so N minutes after clicking bitcoin is FINALLY ready to send payment. If N
+is greater than 1, then that really sucks!  
+  
+\---------------  
+  
+I like click-to-pay, and I want it to work; it would work well now for the
+"I'm running bitcoin and connected to the network 24/7" use case. But I don't
+think that will be the common use case (most people probably won't bother
+generating).  
+  
+So I think we've got to figure out some clever way of making click-to-pay
+quick-- maybe ask for payment permission and then have bitcoin chug away in
+the background, popup an alert if there's some problem paying, or just shut
+itself down after it's caught up with the block chain and has submitted the
+payment. Or, assuming you have enough coins in your wallet, maybe just throw
+the transaction onto the network and let peers tell you if you're accidentally
+double-spending (that makes me very nervous, though). Or...  
+

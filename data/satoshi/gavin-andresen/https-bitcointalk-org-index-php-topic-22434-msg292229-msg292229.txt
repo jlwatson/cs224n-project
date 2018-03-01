@@ -1,0 +1,13 @@
+
+
+A long-term fix for transaction fees (as opposed to the ad-hoc "we'll just try
+to guess what the 'right' fees are") is high on my priority list for bitcoin.
+There are only two very-high-priority things on my bitcoin wish list: fix
+scaling issues and make sure we have any infrastructure in place to support
+ultra-high-security wallets. Fixing transaction fees is a scaling issue.  
+  
+"Pick a fee and hope my transaction makes it into a block" is **NOT** the
+right answer. And we've already seen what happens when there is a mismatch
+between miner transaction fee policies and client transaction fees (remember
+the big backlog of low-priority transactions we had a couple of months ago?).  
+

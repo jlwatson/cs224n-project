@@ -1,0 +1,29 @@
+
+
+Some random Friday afternoon brainstorming: could you print out bitcoins to
+function as user-created paper money?  
+  
+QR code could be used to encode a transaction hash and a transaction signature
+on a piece of paper (along with a human-readable amount). A bitcoin client
+could print out coins that are in your wallet and marks them as "PRINTED" (so
+you don't accidentally spend them-- there would probably be a way of
+recovering them in case the paper versions were lost or stolen, and they'd
+automatically get removed when the paper versions were spent).  
+  
+Give that piece of paper to a merchant connected to the Bitcoin network and
+they can scan it and transfer the coins into their wallet. They should then
+destroy the paper, because that transaction is spent.  
+  
+Double-spending would be nearly impossible, because once you give the paper to
+the merchant you lose control over exactly when they submit it to the network
+to be verified.  
+  
+The only problem I see is how the merchant gives you your change. The merchant
+could print out the change, but you'd have to trust that they were giving you
+valid, unspent coins, unless you have a device connected to the network that
+could verify them (but that's dumb, because if you do have such a device why
+bother with paper bitcoins?). We trust merchants not to give us counterfeit
+dollars... I wonder if fear of loss of reputation would be enough to keep them
+honest when giving paper bitcoins as change...  
+  
+

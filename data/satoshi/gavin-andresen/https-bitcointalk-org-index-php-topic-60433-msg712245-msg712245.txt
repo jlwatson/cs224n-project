@@ -1,0 +1,24 @@
+
+
+Quote from: Luke-Jr on January 25, 2012, 04:04:34 PM
+
+IsStandard() is a permanent part of the protocol with BIP 16.  
+
+  
+No, it really isn't.  
+  
+Here's a possible future implementation of IsStandard():  
+  
+
+Code:
+
+bool  
+IsStandard()  
+{  
+return true;  
+}  
+
+  
+I like the idea of a future IsStandard() that allows more transaction types,
+but only if they're under some (sane) resource limits.  
+

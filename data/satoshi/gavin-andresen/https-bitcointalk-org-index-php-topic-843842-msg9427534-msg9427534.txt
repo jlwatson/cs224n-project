@@ -1,0 +1,14 @@
+
+
+Quote from: deepceleron on November 02, 2014, 10:35:47 AM
+
+Looks like the "keep testnet mining" difficulty 1 code needs to be revisited:  
+
+  
+"patches welcome"  
+  
+In general: "meh" -- most testing is done in -regtest mode in a more
+controlled environment these days.  
+  
+  
+

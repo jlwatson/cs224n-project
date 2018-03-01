@@ -1,0 +1,5 @@
+
+
+The -rescan argument in 0.3.20 does this.  
+  
+

@@ -1,0 +1,28 @@
+
+
+RE: one mandatory account: yes, the empty-string-named-account will be the
+"master" account.  
+  
+RE: existing use cases: you should be able to do everything you can do now...
+EXCEPT for change the label of bitcoin address after it is created. Although
+associating a unique transaction ID to a bitcoin address seems like the wrong
+thing to do (since the same bitcoin address might be re-used for multiple
+transactions; your application might not allow that, but the addresses are
+publicly available in the block chain and you might be opening yourself up to
+unpleasant hacks if you don't consider what should happen if an old bitcoin
+address that you THOUGHT would be used only once receives a few bit-
+pennies....)  
+  
+This morning I thought through what might happen in case of a disaster and a
+service using accounts had to restore from a wallet backup and some other,
+alternative source of transaction history (maybe application-specific
+transaction logs sent to an offsite logging server).  
+  
+Assuming your backup is recent enough for your keypoolsize, no bitcoins will
+be lost, but account balances will be wrong because any "move", "sendfrom",
+and associate-bitcoin-address-with-account actions will be lost.  
+  
+I've tweaked the proposed API to make recovery easier; I'm still thinking
+about "setlabel" -- in the recovery case, you definitely DO want to be able to
+re-associate bitcoin addresses with accounts...
+

@@ -1,0 +1,77 @@
+
+
+I've been thinking a lot about transaction IDs and how to gather signatures
+for multi-party transactions, too.  
+  
+For the most part, I think all the details should normally be hidden from
+users-- I think "Select Transaction Type" is much too geeky.  
+  
+Thinking out loud, and starting with what I think will be a very common use
+case: buyer and seller and somebody to resolve disputes that arise (2-of-3
+escrow).  
+  
+Are you imagining all three are using a bitcoin client? In my head, one might
+be using bitcoin-qt, another a web-based wallet service, and the dispute
+resolution would be done by a company with a website. I don't think "we're all
+running bitcoin on our computers" will be the common case.  
+  
+So here's how I see it working (my ClearCoin experience may be biasing me):  
+  
+Buyer and Seller sign up with the escrow service. During signup, they each
+give the escrow service a public key. How?  
+\-- Clunky way: they poke a "Advanced.... New Public Key" button and then
+copy&paste a long string of hex  
+\-- Better way: they poke a link on the escrow status page that does some
+magic  
+(maybe there's a
+bitcoin:sendnewpublickey?destination=https://www.clearcoin.com/newkey/user1234
+URI type that can be made to Do the Right Thing)  
+  
+Buyer or Seller then creates an escrow at the escrow service's website.  
+\-- Escrow service creates or assigns a keypair for their part of the 2-of-3  
+\-- Escrow service creates a newfangled bitcoin address using the 3 public
+keys.  
+  
+Buyer sends bitcoins to the newfangled bitcoin address (by clicking on it at
+the escrow service's page-- it could be a bitcoin:... link)  
+  
+Escrow service's wallet sees the payment to the newfangled bitcoin address,
+updates the status page.  
+  
+Buyer tells seller they paid. Seller checks the escrow status page, clicks on
+a "send me the money" link and ships the product to the buyer.  
+  
+What does the "send me the money" link do? It needs to get a signature from
+the seller for a transaction that spends from the 2-of-3 transaction and sends
+to the seller's wallet. Another bitcoin: URI that does magical stuff?
+(bitcoin:signtransaction?tx=...hex...&destination=https://www.clearcoin.com/...
+) Or some other clunky copying-and-pasting of long hex strings?  
+  
+Days later: Buyer gets the product and is happy. They visit the escrow status
+page and click on a "send THEM the money" link, which does more magical stuff.
+Or more clunky copying-and-pasting of hex strings. In any case, the escrow
+service gets the second signature and sends the transaction to the bitcoin
+network, and the coins show up in the seller's wallet.  
+
+* * *
+
+  
+Couple of notes:  
+  
+I don't see the newfangled-bitcoin-address being part of the ~~buyer's or~~
+seller's wallet, and adding it to their wallet would be yet another step.  
+  
+Need to think about what happens if the escrow service suddenly disappears...
+they can't steal any coins, but if neither buyer nor seller knows the public
+key the escrow service is using then they can't complete the transaction by
+themselves. Perhaps the bitcoin: URI that the buyer uses to fund the
+transaction should include all the public keys and should be added to the
+buyer's wallet...  
+  
+
+* * *
+
+  
+All of this would be much nicer if there was a more user-friendly, security-
+friendly representation of bitcoin addresses / public keys.  
+

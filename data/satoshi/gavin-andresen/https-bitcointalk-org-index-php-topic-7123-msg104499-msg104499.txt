@@ -1,0 +1,11 @@
+
+
+Quote from: Cdecker on May 03, 2011, 12:39:49 PM
+
+I actually think it is useful. It would be even more useful to allow most of
+these options configurable through the config file.  
+
+  
+All command-line options (except for -datadir and -conf) can be specified in
+the config file.  
+

@@ -1,0 +1,14 @@
+
+
+Quote from: BookLover on November 26, 2011, 11:02:52 PM
+
+The version is 0.3.15.4 beta  
+
+  
+0.3.15 is pretty old, and the way you're spending from a copy of the wallet
+is, I suspect, confusing it. Pieter updated the wallet code to handle
+transactions with partially spent outputs a while back.  
+  
+Try upgrading to version 0.4.1 or 0.5 and running -rescan and see if your
+missing bitcoins reappear.  
+

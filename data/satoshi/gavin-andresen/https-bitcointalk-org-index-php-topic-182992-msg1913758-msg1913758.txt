@@ -1,0 +1,34 @@
+
+
+Quote from: carlos on April 22, 2013, 04:03:14 PM
+
+I'd prefer some "official" solution as I'd like to support the network with
+the fees (also not risking messing up user's transactions) and in the same
+time give our users ability to predict fees in advance before sending. Do you
+think its currently possible with main dist of bitcoind?  
+
+  
+No, unless you take complete control over input selection and transaction
+creation using the raw transactions API.  
+  
+If you have multiple users sharing the same wallet, then reasonable ways of
+handling transaction fees are:  
+  
+Keep track of who owns which inputs and use the raw transactions API to charge
+users fees based on what the inputs look like.  
+  
+Just pay transaction fees for your users. If you work out how much that will
+cost you versus how much time you'll spend with a more complicated solution,
+you'll probably find this is the best solution. If you're using the 'accounts'
+feature, then the logic is: Send the transaction, then get the transaction
+details and reimburse the transaction fee (if any) with a 'move' that
+transfers bitcoins from a transaction-fee-reimbursement account (which you
+finance in advance, and top-up when necessary) to the user's account.  
+  
+Or charge them a fixed fee that is enough to cover average costs (again, if
+using accounts you'd move bitcoins to/from the transaction fee account
+depending on whether a given transaction cost more or less than average).  
+  
+Otherwise, you'll have a situation where user A gets gazillions of tiny inputs
+credited to their account, and user B ends up paying to spend them.  
+

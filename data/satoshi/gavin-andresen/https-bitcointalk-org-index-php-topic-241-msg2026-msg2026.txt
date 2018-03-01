@@ -1,0 +1,28 @@
+
+
+Whatever mechanism is chosen, it had better not significantly slow down the
+network or client unless strong anonymity is required/requested.  
+  
+I've tried I2P and Tor, and, for me, super-strong privacy isn't worth the
+performance cost.  
+  
+Also, regarding forking the block chain by a network split:  
+  
+It's only "really bad" if I can get away with double-spending some coins
+before the network merges again.  
+If I'm buying valuable stuff, then the merchants will likely require 6
+confirmations before releasing the goods, so I'd have to be able to keep the
+network split for an hour or more.  
+  
+Merchants will likely have very-well-connected, long-running nodes. For
+example, the Bitcoin Faucet has 66 connections right now. If I wanted to try
+to implement a "fork the block chain attack" I'd have to somehow manage to
+insert my "cancer nodes" in between two merchants that I want to rip off (I'll
+end up ripping off one of the two, because eventually one of the two double-
+spend transactions will "win").  
+  
+I don't know enough about network analysis to figure out how many cancer nodes
+you'd need to have a significant chance of getting in between two merchants
+with 60+ connections in a network of (say) 1,000 non-cancerous nodes, but I
+bet it is a very large number.  
+

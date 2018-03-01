@@ -1,0 +1,47 @@
+
+
+Hoisted from the comments on pull request 1809:  
+  
+
+Quote
+
+Only data that is strictly necessary for the world to validate a transaction
+has a place in the block chain. That's the whole point of it. Everything that
+is only significant to the sender and receiver (or miner) should be between
+the sender and receiver (or miner) and doesn't need to be stored forever by
+every other full node in the world.
+
+  
+I think there are definitely use-cases for associating some **immutable**
+meta-data with a transaction. Example: a bitcoin client that gave a unique
+refund address for every outgoing transaction, and automatically groups refund
+transactions together with the original payment transactions.  
+  
+Somebody could create a service that associates data with transaction ids, but
+they need to do more work to make the data immutable... and it is not clear to
+me how you make that secure.  
+  
+I really want my refund address to be 'baked in' to the transaction that I
+sign, so if the transaction is accepted into the block chain I know there
+hasn't been some hacker somewhere who managed to rewrite the refund address so
+they get my coins.  
+  
+If I'm doing some type of smart contract with bitcoin transactions, I want the
+contract data baked in and covered by the transaction signature. And the
+person I'm transacting with would like to be sure I can't change the terms of
+the contract once the transaction is signed.  
+  
+It seems to me the simplest, most straightforward, and secure way to do that
+is with a limited-data OP_DROP transaction type. The data in the blockchain is
+(transaction+HASH(metadata)), and that is what is signed. The actual metadata
+can be stored outside the blockchain and looked up (and verified) by hash
+(hand-wave, hand-wave, I have no idea how that happens, if there is more than
+one place that stores transaction metadata, etc).  
+  
+Any scheme that tries to move the HASH(metadata) outside the transaction
+signature recorded in the blockchain will, at the very least, be more
+complicated. And, therefore, very likely to be less secure.  
+  
+Am I missing some other simple, secure, decentralized, non-blockchain scheme
+for attaching metadata to transactions?  
+

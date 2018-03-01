@@ -1,0 +1,17 @@
+
+
+Block re-orgs need some thought.  
+  
+If I have chain A-B-C, and get IBLT's for an alternative chain A-B'-C'-D'...  
+  
+... then the current memory pool won't work to try to reconstruct B' C' D'.  
+  
+Using B and C to reconstruct B' and C' should work pretty well. Then the
+remaining memory pool transactions can be used to reconstruct D.  
+  
+If any of the reconstructions fail, just fall back to fetching all of B' C'
+D'.  
+  
+Then again, re-orgs are rare enough that always falling back to fetching full
+blocks would be OK.  
+

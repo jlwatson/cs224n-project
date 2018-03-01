@@ -1,0 +1,20 @@
+
+
+Quote from: monsterer on September 18, 2013, 08:01:57 AM
+
+* Any way to tell someone has sent you a multi-sig transaction  
+
+  
+"Patches welcome."  
+  
+A watch-only wallet that has a bunch of public keys (and multisig groups of
+public keys) is a good idea. But first you'd need multi-wallet support.  
+  
+There is a pull request that adds watch-only addresses, but I think that is
+the wrong way to go. Mixing up fund that can be spent with funds that cannot
+be spent (e.g. because they're a multisig escrow you want to watch) is a bad
+idea, and as soon as we have hierarchical deterministic wallets we'll want
+watch-only wallets that are derived from a master key (or a set of master keys
+in the case of multisig) where the local bitcoind doesn't have the private
+seed for the key.  
+

@@ -1,0 +1,14 @@
+
+
+I was editing the bitcoin.org homepage to update the download links, and I
+couldn't resist make a few changes:  
+  
+
+  * I removed the "If you are running version 0.3.9 or earlier please update" message. People running really old versions of bitcoin SHOULD update, but there is no longer any security risk if they don't.
+  * I replaced "there were X blocks as of Y date" with a link to jgarzik's Bitcoin Watch site.
+  * I made the SHA1 checksums at the bottom of the page tooltips of the download links. I think it is easier to match up checksums to filenames that way, and I think it looks less intimidating for people who have no idea what SHA means.
+
+  
+PS: I read the thread about replacing the self-signed bitcoin.org security
+certificate, and agree that needs to be done...  
+

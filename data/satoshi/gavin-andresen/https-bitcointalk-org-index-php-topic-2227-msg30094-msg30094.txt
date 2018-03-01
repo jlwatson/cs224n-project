@@ -1,0 +1,18 @@
+
+
+Quote from: ByteCoin on December 14, 2010, 03:05:52 PM
+
+I did a simulation of two cartel strategies along the lines of my previous
+post.  
+Cartel power Cartel block fraction  
+......  
+50% 59.86%  
+
+  
+There is something wrong with your simulation. Proof:  
+  
+Imagine a bitcoin world with two Cartels, each with 50% of the power, each
+following the strategy you outline.  
+  
+It is obvious that they cannot BOTH get 59% of the blocks.
+

@@ -1,0 +1,16 @@
+
+
+Quote from: InterArmaEnimSil on July 17, 2010, 06:00:19 PM
+
+From the wiki, "a coin is a number associated with an address." Fine, but this
+doesn't answer my question. What form does the record by which you verify that
+an individual who has spent a coin no longer owns it take? Is it simply the
+latest associated address?  
+
+If that coin is one of the inputs to a later valid transaction, then it is
+spent and cannot be spent again.  
+  
+That later transaction is the record that somebody spent the coin; it is
+signed with the private key, and that key (which Bitcoin keeps for you in your
+wallet) should be known only to the owner.  
+

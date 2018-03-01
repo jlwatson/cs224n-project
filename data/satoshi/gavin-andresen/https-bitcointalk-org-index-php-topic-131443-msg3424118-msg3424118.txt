@@ -1,0 +1,15 @@
+
+
+Time-in-the-future transactions are non-standard (as of 0.8? I can never
+remember when things happened...)  
+  
+Why: because there is a fill-up-memory denial of service attack, and it really
+isn't reasonable to expect the entire network to store your timelocked
+transactions "forever".  
+  
+Even in the past, the statement "unspendable by the sender because of
+replacement not being implemented" was not true. Wait long enough and only a
+subset of the network will have the timelocked transaction (because new nodes,
+old nodes restarting, etc). Broadcast a double-spending version without a
+timelock and it will get mined fairly soon.  
+

@@ -1,0 +1,15 @@
+
+
+Actually one of the criteria for SHA-3 is speed, which is not particularly
+important for Bitcoin. We might consider using a different approach.  
+  
+http://en.wikipedia.org/wiki/Provably_secure_cryptographic_hash_function  
+  
+These hash functions are slow but have a degree of provable security.  
+  
+There have also been various proposals for proof of work (POW) systems,
+including some that were designed to resist hardware optimization. Perhaps
+this could produce "fairer" generation where graphics cards and specialized
+hardware wouldn't have such an advantage. (However people with access to large
+networks of computers might dominate then.)  
+

@@ -1,0 +1,23 @@
+
+
+Soul_eater_123: Sorry I didn't mean to come off as being coy. My point is that
+the price is just supply and demand. It isn't what people pay for the good in
+the first place that matters.  
+Clearly giving away a bunch of lumens increases the supply but the hope is
+that it also increases awareness and the number of people interested in the
+project which will increase demand.  
+  
+As far as mtgox, I sold it to mark who proceeded to screw it up. I definitely
+regret not finding someone more competent to take it over.  
+As far as ripple, I announced my intention to sell *before* I sold. This
+seemed like the most honorable thing to do. I could have sold without telling
+anyone and made way more money. Not sure what people would have preferred I
+did?  
+  
+> The timing is the main problem it is now 2 years since launch.  
+Yeah ideally we would have been giving out the lumens at a steady rate since
+we launched. We started doing that when we launched 2 years ago, but
+unfortunately the ripple codebase wasn't up to handling the scale so we had to
+pause the giveaway while we rewrote everything. Now that that is done and the
+code is solid we can start the giveaway again.
+

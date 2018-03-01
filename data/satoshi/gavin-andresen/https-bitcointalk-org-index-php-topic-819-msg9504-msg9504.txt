@@ -1,0 +1,15 @@
+
+
+Quote from: mkrogh on August 15, 2010, 07:30:58 PM
+
+Also, there could be a lot of cpu power on Mars as well. So, the New York
+vending machine shouldn't accept a Mars coin within several hours.  
+
+My point is that if there is a lot less cpu power on Mars, then the Mars nodes
+will ALWAYS lose the "create the longest block chain" race. So the New York
+nodes will ALWAYS have the advantage.  
+  
+And it is nice to say the New York vending machine "shouldn't accept a Mars
+coin within several hours," but, in my experience, "shouldn't" doesn't cut it.
+If the New York candy machine CAN make the sale and keep the coins, it WILL.  
+

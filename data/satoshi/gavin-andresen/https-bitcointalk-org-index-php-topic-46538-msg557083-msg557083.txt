@@ -1,0 +1,33 @@
+
+
+Wow, so many great ideas!  
+  
+RE: There is already code to warn the user if they are on a minority chain
+more than 6 blocks long-- see GetWarnings():  
+
+Quote
+
+WARNING: Displayed transactions may not be correct! You may need to upgrade,
+or other nodes may need to upgrade.
+
+  
+It just warns, it doesn't stop you from generating/sending transactions.
+Perhaps if the longer fork is more than 120 blocks ahead it should.  
+  
+ByteCoin: we can prevent the scenario you describe (generate a block with a
+NOP1/EVAL transaction whose validity is different in old and new clients) by:  
+1\. Requiring that EVAL transactions be valid if the EVAL is interpreted as a
+no-op. New clients can replace EVALs with no-ops and re-evaluate them to make
+sure that is true.  
+2\. Waiting until a majority of hashing power has upgraded before turning on
+EVAL.  
+  
+gmaxwell: I really like the idea of implementing key recovery to save space in
+the block chain. It can also be done in a backwards-compatible way if only
+CHECKSIGs "hidden inside" of EVALs support it (CHECKSIG would be aware of
+whether it was being executed inside of an OP_EVAL, and if it was it could use
+a compressed version of the public key instead of the full public key).  
+  
+All the ideas about figuring out what percentage of miners have upgraded:
+seems like that deserves its own discussion thread.  
+

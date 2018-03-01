@@ -1,0 +1,31 @@
+
+
+Quote from: devrandom on January 30, 2011, 11:57:03 PM
+
+I have an initial implementation of the VM based build process.  
+  
+The code is here: https://github.com/devrandom/gitian-builder  
+  
+You will also need a build descriptor file, which is here:
+https://gist.github.com/803438 . The file wxWidgets-2.9.1.tar.bz2 goes in the
+./inputs directory.  
+
+  
+Very nice!  
+  
+Is there a standard spot to put the build descriptor file in the source tree,
+or a standard name for it? I'd like to commit the build descriptor file.  
+  
+bitcoinex: I'll tag the tree when I think we have a release candidate. There
+are still a few loose ends I hope to tie up today:  
+  
+1\. New -testnet genesis block.  
+2\. New block chain lock-in point. I'm thinking block 105,000 is a good
+candidate for the lock-in point.  
+3\. Compile/run/sanity test on Windows. I am planning on spinning up an Amazon
+EC2 Windows instance to create a build/testing environment (although probably
+a VMWare image would be better-- can anybody help with this? I normally don't
+do windows).  
+  
+Am I missing anything else stopping a 0.3.20 release candidate?  
+

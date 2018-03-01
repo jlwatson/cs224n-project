@@ -1,0 +1,28 @@
+
+
+So... I start from "more transactions == more success"  
+  
+I strongly feel that we shouldn't aim for Bitcoin topping out as a "high power
+money" system that can process only 7 transactions per second.  
+  
+I agree with Stephen Pair-- THAT would be a highly centralized system.  
+  
+Oh, sure, mining might be decentralized. But who cares if you either have to
+be a gazillionaire to participate directly on the network as an ordinary
+transaction-creating customer, or have to have your transactions processed via
+some centralized, trusted, off-the-chain transaction processing service?  
+  
+So, as I've said before: we're running up against the artificial 250K block
+size limit now, I would like to see what happens. There are lots of moving
+pieces here, so I don't think ANYBODY really knows what will happen (maybe
+miners will collectively decide to keep the block size low, so they get more
+fees. Maybe they will max it out to force out miners on slow networks. Maybe
+they will keep it small so their blocks relay through slow connections faster
+(maybe there will be a significant fraction of mining power listening for new
+blocks behind tor, but blasting out new blocks not via tor)).  
+  
+  
+I think we should put users first. What do users want? They want low
+transaction fees and fast confirmations. Lets design for that case, because
+THE USERS are who ultimately give Bitcoin value.  
+

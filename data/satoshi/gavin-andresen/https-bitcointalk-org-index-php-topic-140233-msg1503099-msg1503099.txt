@@ -1,0 +1,41 @@
+
+
+Quote from: jl2012 on February 04, 2013, 05:00:22 AM
+
+Why don't we just let miners to decide the optimal block size?  
+  
+If a miner is generating an 1-GB block and it is just too big for other
+miners, other miners may simply drop it. It will just stop anyone from
+generating 1-GB blocks because that will become orphans anyway. An equilibrium
+will be reached and the block space is still scarce.  
+
+  
+I think this is exactly the right thing to do.  
+  
+There is still the question of what the default behavior should be. Here is a
+proposal:  
+  
+Ignore blocks that take your node longer than N seconds to verify.  
+  
+I'd propose that N be: 60 seconds if you are catching up with the blockchain.
+5 seconds if you are all caught-up. But allow miners/merchants/users to easily
+change those defaults.  
+  
+Rationale: we should use time-to-verify as the metric, because everything
+revolves around the 10-minutes-per-block constant.  
+  
+Time-to-verify has the nice property of scaling as hardware gets more
+powerful. Miners will want to create blocks that take a reasonable amount of
+time to propagate through the network and verify, and will have to weigh "add
+more transactions to blocks" versus "if I add too many, my block will be
+ignored by more than half the network."  
+  
+Time-to-verify also has the nice property of incentivizing miners to broadcast
+transactions instead of 'hoarding' them, because transactions that are
+broadcast before they are in a block make the block faster to verify (because
+of the signature cache). That is good for lots of reasons (early detection of
+potential double-spends and spreading out the verification work over time so
+there isn't a blizzard of CPU work that needs to be done every time a block is
+found, for example).  
+  
+

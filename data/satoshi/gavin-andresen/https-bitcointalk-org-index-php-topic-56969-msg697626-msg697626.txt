@@ -1,0 +1,16 @@
+
+
+Quote from: Steve on January 17, 2012, 06:56:49 PM
+
+Has this been tested on testnet yet?  
+
+  
+Yes, of course. I did most of my testing on 'testnet-in-a-box' nodes, but
+spent a day producing P2SH blocks and transactions on testnet; see, for
+example this transaction that spends a P2SH transaction:  
+http://blockexplorer.com/testnet/tx/cff697a07fa21780b2553c6e86bf956cb42838b0e9b226da2c6b3cd7754da736  
+  
+Today I created a smart 'transaction fuzzer', and tomorrow I'll be creating
+and running stress-tests for the new p2sh and multisignature code to try to
+catch anything code review and unit tests might have missed.  
+

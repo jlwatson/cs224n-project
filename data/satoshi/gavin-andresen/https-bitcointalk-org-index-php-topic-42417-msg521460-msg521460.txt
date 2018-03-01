@@ -1,0 +1,9 @@
+
+
+RE: hidden recipient address:  
+  
+I dug deeper into the Script OPs when working on the multisig proposal, and
+OP_ADD can't add bignums, so the 'hidden recipient' script won't work.  
+  
+ ~~A simpler version would, though; I'll update the wiki.~~
+

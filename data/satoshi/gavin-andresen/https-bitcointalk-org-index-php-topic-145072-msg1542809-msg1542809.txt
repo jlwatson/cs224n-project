@@ -1,0 +1,19 @@
+
+
+Quote from: Zangelbert Bingledack on February 20, 2013, 03:18:10 PM
+
+Why wouldn't miners reject interactions with miners who set the block size too
+high, for instance?  
+
+  
+Yes, I believe they would. So far, most miners and pools are VERY
+conservative; I think the idea that they will create huge blocks that have a
+significant risk of being rejected, just so they MIGHT get an advantage over
+marginal miners that can't process them fast enough, is loony.  
+  
+But I might be wrong.  
+  
+So I'd like to wait a little while, think deeply some more, and see how miners
+and merchants and users react with the system we've got as transaction volume
+increases.  
+

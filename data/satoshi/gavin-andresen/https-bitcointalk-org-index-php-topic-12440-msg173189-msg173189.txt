@@ -1,0 +1,9 @@
+
+
+First, don't sudo; there is no reason for bitcoin to run as root.  
+  
+Second: it isn't done downloading the block chain. I just checked a bitcoind
+I've got running on an Amazon micro instance, and it is using less than 1% of
+the CPU. After you've got all 128,909 blocks the CPU usage should drop.  
+  
+

@@ -1,0 +1,34 @@
+
+
+Humans are pretty bad at being original. REALLY bad at being random. And we
+are terrible at comprehending huge numbers.  
+  
+So if you ask the average person to create a secure passphrase, they're very
+likely to create something that a "determined attacker" with a lot of
+computing power can crack.  
+  
+I think if people start to use quotes from obscure literary works as their
+brain wallets, then they're going to lose their bitcoins sooner or later.
+Attackers can try MILLIONS of passphrases per minute, to crack EVERY SINGLE
+brainwallet that has ever been created.  
+  
+So: if you absolutely, positively won't be dissuaded from using a brainwallet,
+here is my advice on how you _might_ be able to come up with a secure
+passphrase:  
+  
+Think of two passphrases that you think you can remember. And think of a
+government-issued number that you can easily lookup or remember (like your
+driving license or social security number).  
+  
+Create a brainwallet passphrase that is:  
+  
+the first passphrase,the government id number,the second passphrase  
+  
+Then create a 'sentinel' brainwallet that is just the first passphrase, and
+send a small number of bitcoins to it. When those bitcoins get spent (or more
+bitcoins are sent to it by somebody else), you know that the first passphrase
+you chose isn't good enough any more. Choose a more complicated passphrase and
+create a new 'sentinel' and real brainwallet, and move your old brainwallet
+there.  
+  
+

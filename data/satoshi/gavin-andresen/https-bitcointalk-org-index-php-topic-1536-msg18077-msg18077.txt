@@ -1,0 +1,32 @@
+
+
+svn rev 172 (bitcoin 0.3.14.01) adds:  
+  
+"testnet" and "keypoololdest" to getinfo output. testnet will be true if you
+are running on the test network.  
+keypoololdest is the Unix timestamp of the oldest entry in the keypool.  
+  
+For example:  
+
+Code:
+
+./bitcoind getinfo  
+{  
+"version" : 31401,  
+"balance" : 100.63000000,  
+"blocks" : 86925,  
+"connections" : 1,  
+"proxy" : "",  
+"generate" : true,  
+"genproclimit" : 1,  
+"difficulty" : 2149.02181495,  
+"hashespersec" : 998425,  
+"testnet" : false,  
+"keypoololdest" : 1286757166,  
+"errors" : ""  
+}  
+
+  
+I also made bitcoin return proper HTTP Date: headers to better follow the HTTP
+spec.  
+

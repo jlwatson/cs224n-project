@@ -1,0 +1,20 @@
+
+
+Quote from: dooglus on October 06, 2012, 08:14:04 PM
+
+As for how such an attack would be possible, I guess it would need me to use a
+specific non-default kind of signature on my inputs.  
+
+  
+No, that's the point: you can take any validly signed bitcoin transactions,
+tweak the signature(s) in various ways, and create variations that are also
+validly signed but have a different txid. We've known that for a long time.  
+  
+You cannot change where the coins came from or where they go or any other
+information about the transaction that is covered by the signature(s).  
+  
+And the current reference bitcoin implementation will simply take the first
+variation it sees and consider it valid. Sergio is saying that if there are
+any merchants doing their own double-spend detection they should be aware of
+this issue.
+

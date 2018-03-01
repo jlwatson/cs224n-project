@@ -1,0 +1,21 @@
+
+
+Quote from: Pieter Wuille on March 22, 2012, 04:21:53 AM
+
+By tweaking some caching settings, a rather spectacular speed increase for
+loading a block chain was obtained. This will probably end up in 0.6 still.  
+
+I pulled #964 for 0.6 this morning.  
+  
+I had played with database settings several months ago and saw no speedup
+because there was another bug causing a bottleneck. That bug was fixed a while
+ago, but nobody thought to try tweaking the db settings again until a few days
+ago.  
+  
+Pieter and Greg did all the hard work of doing a lot of benchmarking to figure
+out which settings actually matter.  
+  
+PS: the database settings are run-time configurable for any version of
+bitcoin; berkeley db reads a file called 'DB_CONFIG' (if it exists) in the
+"database environment" directory (aka -datadir).  
+

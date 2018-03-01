@@ -1,0 +1,10 @@
+
+
+If you've got easy_install (does OSX 10.6 comes with easy_install ?), then
+try:  
+  
+easy_install jsonrpc  
+  
+Or grab jgarzik's version from github:  
+https://github.com/jgarzik/python-bitcoinrpc  
+

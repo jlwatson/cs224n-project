@@ -1,0 +1,11 @@
+
+
+Making transactions with non-DER-encoded (aka BER encoded) signatures non-
+standard has been on my TODO list for over a year now, but has never been the
+highest priority. That's the first step to making non-DER-encoded signatures
+completely illegal.  
+  
+Note that if there is a core-dumping bug in OpenSSL's decoding code then it
+needs to get fixed in OpenSSL. Writing a BER decoder just for Bitcoin is a bad
+idea, it is much more likely our new code would have a crashing bug.  
+

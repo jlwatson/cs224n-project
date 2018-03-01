@@ -1,0 +1,11 @@
+
+
+Interestingly, the dollar sign originated with two vertical bars rather than
+one, according to several theories.  
+  
+http://en.wikipedia.org/wiki/Dollar_sign  
+http://en.wikipedia.org/wiki/Cifrão  
+  
+Also, supposedly Unicode allows the character to be rendered either with one
+line or two, entirely depending on the taste of the font designer.  
+

@@ -1,0 +1,35 @@
+
+
+Earlier today I discovered www.mokimarket.com  
+  
+Some ideas came to mind on how to make this a HUGE TOOL TO EXPAND THE USE OF
+BITCOIN!  
+  
+Mokimarket is a penny auction site using credits that can be bought with
+Paypal, CC, or Bitcoin.  
+Each "credit" basically represents $0.01 of value.  
+  
+Bidders spend a credit to place each bid on an auction.  
+The seller keeps all of the "credits" used for placing the bids, plus the
+money for the actual sale.  
+  
+For example, the final bid might be $75, but in reality hundreds of dollars
+were collected by the seller durring the auction process.  
+  
+If MokiMarket were to use BitCents instead of credits, it would be an amazing
+way for people to buy sell whatever they want using bitcoins, and for new
+people to get Bitcoins without using a traditional exchange!  
+  
+Every user would have their own online wallet with MokiMarket.  
+Each time a user bids on an auction, MokiMarket will transfer one Bitcent from
+the bidders wallet to the sellers wallet.  
+  
+Just add an Ebay style feedback system, and a section for "buy it now" items,
+and it would allow MokiMarket to function as a giant web-of-trust for people
+who want to buy and sell Bitcoins for government currencies as well.  
+  
+I think this could be hugely popular.  
+  
+Please share your thoughts.  
+  
+

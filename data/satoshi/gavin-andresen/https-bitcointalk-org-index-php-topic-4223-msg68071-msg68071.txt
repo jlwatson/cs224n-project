@@ -1,0 +1,21 @@
+
+
+I don't want to hijack the design discussion...  
+  
+... but I would like to open up discussion of content. I'd like to see the
+bitcoin.org home page to be less about bitcoin-the-software and more about
+bitcoin-the-currency.  
+  
+You don't have to download and run any software to run bitcoin, and I think
+most non-technies are better off using an online wallet service rather than
+running bitcoin.exe. So I'd like to see the DOWNLOAD/HOWTO sections moved to a
+separate page, and have the home page have links to there and to a Wiki page
+that lists the online wallet services (and starts with a little discussion of
+the tradeoffs of using an online wallet provider instead of running bitcoin
+yourself).  
+  
+I'd be perfectly happy if the design and content was improved (as already
+discussed) and then the content was changed later, if there's general
+agreement that de-emphasizing the download is a good idea.  
+  
+

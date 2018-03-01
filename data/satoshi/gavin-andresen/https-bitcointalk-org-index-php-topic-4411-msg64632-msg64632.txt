@@ -1,0 +1,22 @@
+
+
+Quote from: sgornick on March 12, 2011, 07:49:14 PM
+
+Let's say there is a scenario where I am one of two different people who claim
+to be responsible for sending bitcoins for a purchase. How could I prove to
+the merchant that those bitcoins came from my wallet and nobody else's?  
+
+  
+Something like this is possible (I've been thinking about doing it, although I
+have higher priority things on my TODO list):  
+  
+
+  * Sophisticated user runs a tool on her computer that, giving the bitcoin address payment was sent to and "here's a description of me or what I paid for" string. Tool looks in the wallet.dat and figure out which keypair(s) were used to pay. Then it does some openssl magic and exports a file that contains the string, the public keys and ECDSA signatures using the private keys of the "description of me or what I paid for" string.
+  * Sophisticated user uploads that file to a "Prove I Paid" website, which checks the signatures and adds info to the database.
+  * Unsophisticated user goes to website and pastes the receiving address. The public key corresponding to that address is looked up, and all the "here's a description of me or what I paid for" strings for that public key are shown.
+
+  
+bitcointools+openssl (see grondilu's thread about "a shell-script
+implementation of bitcoin) are enough to do all all the public/private key,
+file-creation, and signature generation/checking stuff.  
+

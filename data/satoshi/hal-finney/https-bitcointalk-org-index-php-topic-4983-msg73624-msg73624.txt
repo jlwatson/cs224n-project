@@ -1,0 +1,33 @@
+
+
+There's good discussion of this feature here:  
+  
+https://github.com/bitcoin/bitcoin/issues#issue/3  
+  
+https://gist.github.com/803170  
+  
+Issues:  
+  
+\- Symmetric (aes) vs public key (rsa) encryption  
+  
+\- Decrypt at startup vs decrypt on use  
+  
+\- Create new keys automatically (as now) vs create only on user action  
+  
+\- Encrypt all keys with same passphrase vs different passphrases for
+different key sets  
+  
+One way to analyze these is via a threat model. What can the attacker do, that
+we will try to defend against? And what will we not defend against?  
+  
+We can distinguish three levels of attacker:  
+  
+1\. Can read user files  
+  
+2\. Can read/write user files but only read system files  
+  
+3\. Can read/write everything, root privileges  
+  
+  
+Sorry, getting tired, will write more later.".
+

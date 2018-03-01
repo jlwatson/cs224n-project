@@ -1,0 +1,44 @@
+
+
+Apologies for resurrecting this old thread, but I wanted to mention a new
+development. The people that brought you Flicker and TrustVisor, both
+mentioned by Mike, have a new project out. xmhf is a hypervisor framework
+built around Trusted Computing. Its main advantage is that it works on both
+Intel and AMD, but you still need a newer, relatively high-end machine.
+TrustVisor has been ported to xmhf, so now it works on both architectures
+whereas previously it was just AMD.  
+  
+I agree with the comments above that TC may not be quite right for bitcoin.
+For one thing these secure program compartments can't do any I/O directly.
+They have to rely on the insecure code to relay data, although crypto keeps
+the data secure. So if we wanted the user to approve a transaction, you'd have
+to send the data to a secure device for approval. In which case you might as
+well use multisig or even just keep all the keys there.  
+  
+You could try to implement a self-contained policy like rate limiting,
+although as discussed above you need a secure time source and state rollback
+protection. I'm worried that using the blockchain as a time standard might be
+vulnerable to timing games by the untrusted code, although there might be
+mitigations. A couple of other potential sources of secure time: the network
+time protocol, which is how a lot of computers keep their time in sync, has a
+crypto layer. Unfortunately it doesn't seem suitable for public use, although
+I found out the US NIST will supposedly supply you with an authenticated time
+if you go through a complicated application process,
+http://www.nist.gov/pml/div688/grp40/auth-ntp.cfm.  
+  
+Thinking way outside the box, you could open an SSL connection to a web page
+that's updated frequently, and use the Date: header from the http response.
+You'd hard code the CA root cert and all the relaying could be done by the
+untrusted code and still be secure. I've tried this with https://google.com
+and the time is pretty accurate. TrustVisor includes a version of openssl so
+this would seem to be feasible.  
+  
+But even if you got rate-limiting working, the untrusted code could substitute
+its addresses for the target addresses, or maybe just skim a percentage off
+each transaction, hoping to evade detection. A lot of things have to go right
+for the created transaction to match the user's intentions. Assuming a malware
+takeover and still trying to protect the user is aiming too high IMO. Maybe we
+can limit the damage though.  
+  
+  
+

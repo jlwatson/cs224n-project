@@ -1,0 +1,9 @@
+
+
+Thanks for the donations... whoever you are who donated!  
+  
+The Faucet has about 2,000 coins in it at the moment; I just deployed a new
+version that will automatically start giving out bit-nickels if the balance
+falls below 500 (but allows anybody who gets a bit-nickel to come back later
+and get the 5 bitcoins "they deserve" if/when the Faucet is refilled).  
+

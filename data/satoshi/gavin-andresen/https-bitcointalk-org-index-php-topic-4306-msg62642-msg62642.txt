@@ -1,0 +1,28 @@
+
+
+The Bitcoin Faucet ran out of coins this morning, so I took that as a sign
+that I should make some changes that I've been meaning to make for a while.  
+  
+The big change is the Faucet now requires you to have a Google account (and
+login with your Google Account) to get coins. With IPv6 starting to happen,
+and people getting ever more creative in the ways they tried to get around the
+"X bitcoin per unique IP address" rule, I decided to let Google catch people
+trying to create lots of accounts.  
+  
+From what I remember, the cost of buying a google account is much higher than
+the value of the coins I'm giving out (as opposed to the cost of hiring
+somebody to solve captchas), so the only people working hard to create new
+Google accounts to try to rip off the Faucet will likely be teenagers with way
+too much time on their hands.  
+  
+One little change: Faucet pay-outs are now:  
+0.11 BTC when balance > 500 BTC  
+0.05 otherwise (same as before).  
+  
+And an invisible change that actually happened a few days ago: the Faucet pays
+a 0.01 transaction fee every time it sends coins. That makes Faucet
+transactions get into blocks quicker when there are lots of other free
+transactions on the network, and leaves more room in blocks for free
+transactions.  
+  
+

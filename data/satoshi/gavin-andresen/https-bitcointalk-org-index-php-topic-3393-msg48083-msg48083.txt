@@ -1,0 +1,19 @@
+
+
+Quote from: grondilu on February 13, 2011, 03:55:29 AM
+
+I agree with 1. Indeed I'm not sure bitcoin could be used simultenaously by
+billions of users.  
+
+  
+Really?  
+  
+You don't think if bitcoin gets really successful and there are hundreds of
+millions of dollars poured into engineering efforts for it (and if it is
+wildly successful, big companies WILL invest huge amounts of money on it),
+that any scaling problems won't get solved?  
+  
+I bet I could find people predicting a few years ago that Facebook would never
+be able to scale to billions of users (it was written in PHP for pete's
+sake!).  
+

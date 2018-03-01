@@ -1,0 +1,5 @@
+
+
+jovan85: It might be a bitrex issue. You can look up your account here:
+https://stellarchain.io/ and see if the transaction made it
+

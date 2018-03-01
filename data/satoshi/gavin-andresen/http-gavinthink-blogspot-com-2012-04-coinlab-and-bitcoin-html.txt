@@ -1,0 +1,82 @@
+  
+A friend sent me a link to a GeekWire article about Seattle Bitcoin startup
+CoinLab raising half a million dollars and asked "is that a good or bad
+thing?"  
+  
+It's a good thing!  
+  
+The long-term vision for the Bitcoin economy is a closed loop-- people earn
+and spend bitcoins, instead of exchanging bitcoins for some other currency.  
+  
+Since most people get most of the earnings in the form of a salary, and since
+I think it will take a very long time (if ever!) before a typical company
+considers paying employees in Bitcoin, the 'earning' side of the equation
+worries me most.  
+  
+That's why I created the Bitcoin Faucet, and that's why I like to see projects
+like ForBitcoin or FeedZeBirds that give people all of the world ways to earn
+a little coin. They give anybody with an internet connection and some extra
+time, anywhere in the world, a way to put their time to productive use.
+That's a very good thing.  
+  
+CoinLab's idea is to let game companies "earn profit from idle users with a
+custom-branded coin client." The users run a little program and are awarded
+with in-game items or power-ups. The game companies get dollars.  And CoinLab
+makes it all work by doing a bunch of behind-the-scenes infrastructure,
+exchanging the bitcoins that the users create for dollars.  
+  
+I think CoinLab is being smart by not asking the game companies or users to
+deal with bitcoins, but instead having them deal with what they're already
+comfortable with (dollars and in-game commodities).  
+  
+But eliminating the exchange and paying the gamers and/or the game developers
+directly in bitcoin would be more efficient, and is an obvious, easy-to-
+implement feature. Bit-Pay is doing something similar for merchants,
+depositing dollars or bitcoins or both in their accounts when they receive
+bitcoin payments.  
+  
+I think the biggest market for a service like CoinLab will be younger gamers.
+If you're 15 years old and don't pay rent or electricity then leaving your
+computer running overnight to earn some in-game currency will be pretty darn
+appealing. If a whole generation of video-game-playing kids grows up with
+Bitcoin then the future for Bitcoin will be very bright.  
+  
+Theoretically it even makes sense if you **are** paying for the electricity,
+because CoinLab is essentially outsourcing all of the billing and payment and
+collection infrastructure to the local electric company. And utility companies
+are pretty darn good at getting their customers to pay their bills; that
+translates into a more efficient payment system and lower costs for users.  
+  
+But... but... what about the environment? What about all those gamers using
+all that extra electricity to create bitcoins?   **THINK ABOUT THE POLAR
+BEARS!**  
+  
+Big-picture economics lesson: more efficient == better.  Better for people,
+better for the environment.  
+  
+Think about the unseen-- if people are (indirectly) using electricity to pay
+for in-game items instead of using their credit-cards or buying 'game cards'
+in stores, where does the cost-savings coming from?  
+
+  
+That's easy to think about for physical game cards-- there will be fewer
+produced, which means less plastic manufactured, fewer trucks shipping them
+from some factory to stores, and fewer car trips to the mall so teenagers can
+spend a little cash to get their Farmville fix.  
+  
+It's harder to think about for credit cards, because the costs are really
+well-hidden. A lot of effort is put into collecting bad debts. I'm sure credit
+card companies and debt collection agencies spend a lot of money on
+electricity for their call centers, but most of the cost savings will be fewer
+people trying to get deadbeats to pay their bills.  
+  
+That would be a good thing, too! Collecting debts doesn't make the world a
+better place, and the out-of-work debt collectors will find something more
+productive to do. Maybe they'll go work for the game company who has a little
+extra cash and can afford to pay for another customer support person. Maybe
+they'll go work in a Sierra Club call center, convincing gamers who have a
+little extra cash (because they paid $10 on their electricity bill for some
+game stuff instead of paying $10.05 to a credit card company) to contribute to
+programs that help polar bears...  
+  
+

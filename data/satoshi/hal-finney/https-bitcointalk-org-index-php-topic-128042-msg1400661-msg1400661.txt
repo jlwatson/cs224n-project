@@ -1,0 +1,18 @@
+
+
+Actually the OP observed that the software always puts the change first. I was
+working on a separate project suggested by Mike Hearn, using the new secure
+"trusted computing" modes on modern cpus to enforce spending limits even when
+infested with malware. I'm using Jon McCune's flicker software from
+sourceforge. The secure mode signs transactions and enforces limits on spends,
+but to know the transaction amount it has to know which is the change
+output.So I was just looking at this code yesterday and scratching my head
+(figuratively). I'll post more on this project when it's further along.  
+  
+As far as my donation address, I created that years ago using Gavin's original
+vanitygen patch. I don't even know if I still have the key. It might be on a
+computer I don't use any more. I've substituted one of my offline savings
+wallet addresses. I shouldn't lose that.I'm not hurting for bitcoins; I
+started running the first day (and gave up after a few weeks because of the
+fan noise). Still, it's the thought that counts - thanks!
+

@@ -1,0 +1,12 @@
+
+
+Half-baked thoughts:  
+  
+Broadcasting policies makes me nervous-- it is too easy to lie, and there
+might be some advantage to lying.  
+  
+Couldn't clients infer all the information they need to know about what
+transactions/fees are being accepted by miners by keeping track of
+transactions in the memory pool and looking at the last 10,000-or-so generated
+blocks?
+

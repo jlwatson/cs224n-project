@@ -1,0 +1,32 @@
+
+
+Quote from: 2112 on July 16, 2012, 02:58:10 PM
+
+In a bank if you deposit X coins you can withdraw at most X.  
+
+My bank must be weird, they let me withdraw more than X and let me carry a
+negative balance for a little while (a service they charge for).  
+  
+With the accounts feature, if you have an account containing X bitcoins there
+are two ways to overdraw it:  
+  
+1\. Using the move command. Negative balances have a lot of use-cases, and
+last time I checked accountants know how to deal with negative account
+balances.  
+  
+2\. Using the sendfrom command, if a transaction fee is required then the fee
+is charged to the "sendfrom" account and may take it negative.  
+  
+Are you sometimes using "sendtoaddress" and sometimes "sendfrom" ? Or are you
+using both the GUI (designed for a single user's wallet) and the RPC? If you
+want to use the accounts feature, don't do that, always use "sendfrom".  
+  
+Better accounting for transaction fees is a valid complaint, always deducting
+the fee from the "sendfrom" account can be annoying. It doesn't violate
+accounting principles, though; if you want the transaction fee to be paid from
+some other account, then you just sendfrom() and then move() to adjust account
+balances.  
+  
+If you really want to find something about the accounts feature to complain
+about, then you should complain that it doesn't scale.  
+

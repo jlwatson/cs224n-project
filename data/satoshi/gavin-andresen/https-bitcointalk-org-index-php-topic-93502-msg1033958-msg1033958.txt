@@ -1,0 +1,31 @@
+
+
+Quote from: shtylman on July 15, 2012, 11:06:55 PM
+
+* A move does not create a tx on the network  
+* A move is really just an internal accounting ledger  
+* If I receive into A, move all coins into B, and then send from A, the coins will really be sent from B (since the move is just internal).  
+
+What do you mean "send from A" ? Are A and B accounts or bitcoin addresses?  
+  
+The reference client does not send coins "from" an address; when you send
+coins they are chosen from any of the available inputs in your wallet.  
+  
+If you receive 50 BTC to an address associated with an empty account "A", then
+move those 50 bitcoins to account "B", then make the RPC call:  
+sendfrom "A" <to_address> 50  
+  
+... you will get an error "Account has insuficient funds"  
+  
+  
+I have no idea what 2112 is talking about RE: accountants having trouble
+figuring out how the accounts feature operates. It is very much like separate
+accounts at a bank, where dollars and coins flow in, are credited to accounts,
+and then flow back out (debiting accounts). If I take a bag of cash to the
+bank and have it deposited into my account, I don't expect to get exactly the
+same bills and coins out the next time I make a withdrawal, and I shouldn't be
+surprised if the bank uses those coins and bills for withdrawals from other
+accounts.  
+  
+  
+

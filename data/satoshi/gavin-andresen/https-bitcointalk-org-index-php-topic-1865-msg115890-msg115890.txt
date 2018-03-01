@@ -1,0 +1,18 @@
+
+
+I'd tweak the formula to be: max block size = 1000000 + (int64)(difficulty)  
+  
+... just to avoid "if block number is < X max block size = 1000000 else..."
+logic. Adding in the current 1MB max limit means all the old blocks are valid
+under the new rule.  
+  
+I like Mike's point that difficulty and transaction volume aren't necessarily
+related. Maybe a better formula for miners would be something like:  
+  
+max block size = 1000000 + (average size of last N blocks in the best chain)  
+... where N is maybe 144 (smooth over 24-hours of transactions)  
+  
+Anybody have access to what Visa daily transaction volume looks like in the
+days around Christmas? Are there huge, sudden spikes that the above formula
+wouldn't handle?
+

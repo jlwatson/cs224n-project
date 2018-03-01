@@ -1,0 +1,89 @@
+
+
+Code review and testing for the proposed fix is welcome:  
+https://github.com/gavinandresen/bitcoin-git/tree/encryptionbug  
+  
+Here's how I tested:  
+  
+I dumped private keys from an unencrypted wallet (using bitcointools).  
+  
+I wrote a little tool that took a list of private keys and a filename and
+reported whether or not the 32-bytes of any of the private keys appears
+anywhere in the file.  
+  
+I also hacked a copy of bitcoin to dump any newly-generated-private keys into
+debug.log before they are encrypted and written to disk.  
+  
+I verified that new keys for an encrypted wallet are never written to any of
+the Berkeley DB database files by encrypting the wallet, invalidating all of
+the existing keypool keys, generating new, encrypted keypool keys, sending
+bitcoins to a new, encrypted key, and checking all of the files for any
+unencrypted copies of the new private key.  
+  
+So the problem became how to deal with old, previously-unencrypted keys that
+were ending up in the wallet.dat file.  
+  
+I hoped that telling Berkeley DB to 'compact' the file would remove the
+'slack' space that contained the old data (the root of the problem is BDB
+doesn't actually completely delete/overwrite data when you delete a key/value
+pair; if I missed a setting that makes it do that, please let me know). Doing
+that reduced the number of old private keys found by my tool, but didn't
+eliminate the problem.  
+  
+Pieter worked on a different solution in parallel-- completely rewriting the
+database to a new file when encryption is turned on, then, assuming the
+rewrite succeeds (we trust BDB to do what a database is designed to do--
+reliably write data to the disk), replace the old wallet.dat with the new
+wallet.dat.rewrite. During that process, all keypool keys are marked as 'used'
+(which actually means just not writing a 'pool' entry for them in
+wallet.dat.rewrite).  
+  
+That works-- no old private keys made it into the new wallet.dat.  
+  
+But during testing I ran into two issues:  
+  
+1) The wallet.dat file isn't the only place the old private keys were found;
+the database transaction log (database/log.000..N) and some of the __db.00N
+files also contained them. Adding a call to remove() the database environment
+at shutdown fixed the __db.00N issue; I had to write code to remove the
+database/log.000..N file on clean shutdown.  
+  
+2) If more wallet database operations were performed after the rewrite (I had
+written code to top-up the keypool with new, secure keys before locking the
+wallet), old private keys could end up in the new wallet.dat.  
+  
+To fix both of those issues, we modified the code so that a shutdown happens
+after wallet re-encryption.  
+  
+... which reminds me of something else I need to test: if you startup with a
+wallet encrypted by bitcoin versions 0.4.0 or 0.5.0, the wallet is re-
+encrypted and all of your old keypool keys are considered used. (I believe it
+does not shutdown after doing that, though, but it should)  
+  
+
+* * *
+
+We've never made any guarantees that unencrypted private keys will not end up
+on your hard disk; if you have a virus on your system that can directly read
+blocks off your hard disk then it can almost certainly also read system
+memory, and could steal your wallet passphrase the first time you sent
+bitcoins.  
+  
+Filling up free space on your disk (as suggested in this thread) might work,
+but it is a much better idea to send all of your bitcoins to new, 'born-
+encrypted' keys. Once fixed binaries are available, that will be easy-- just
+upgrade and then send all of your bitcoins to yourself, using newly-generated
+addresses.  
+
+* * *
+
+Suggestions for more radical solutions, like storing private keys in a
+separate file, are out of scope. We got what we got; I personally think that a
+really good "deterministic private keys" solution, where the private keys for
+your wallet are derived from a passphrase that is only in your head (and maybe
+written down and stored in your safe deposit box) would be a better use of
+developer time rather than reworking how we store private keys on disk.  
+  
+Even better would be further work on multisignature/multidevice solutions so
+even if your private keys are compromised an attacker can't spend your coins.  
+

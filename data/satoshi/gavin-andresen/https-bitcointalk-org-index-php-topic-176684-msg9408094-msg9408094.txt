@@ -1,0 +1,29 @@
+
+
+Quote from: Meni Rosenfeld on October 31, 2014, 06:16:25 AM
+
+And from this, we derive how we should fund this cost using tx fees. We want
+to keep tx fees artificially high, so that the total cost of mining is high,
+so that the network is secure.  
+
+  
+How do you imagine you will be able to keep transaction fees artificially
+high?  
+  
+I can imagine a future with 1MB blocks full of zero-transaction-fee
+transactions (all fees paid off-blockchain through special cozy relationships
+between big merchants/exchanges and big miners. Or simply big
+merchants/exchanges mining their own transactions).  
+  
+I think network security CAN be funded through transaction fees-- that is
+easy, if you want to buy some security just attach a larger-than-strictly-
+necessary-to-get-confirmed fee to your transactions.  
+  
+I don't think we know yet whether network security WILL be funded through
+transaction fees; there might be a free-rider problem that keeps people who
+**want** a secure network from actually **paying** for a secure network.  
+  
+This is where it would be lovely for some academic economists who have studied
+the free-rider problem to chime in and predict what is likely to happen, and
+how other markets have solved (or not) the problem.  
+

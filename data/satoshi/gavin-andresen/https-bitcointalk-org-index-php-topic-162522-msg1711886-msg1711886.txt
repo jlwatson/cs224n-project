@@ -1,0 +1,11 @@
+
+
+The only security risk with free bitcoin services is that they'll remember
+your IP address and associate it with the millibitcoins that they give you.  
+  
+If you're the conspiracy theory type, then here's one for you: a very good way
+for a Three Letter Agency to create a database that correlates bitcoin wallets
+to real people would be for them to run a free bitcoin service (along with
+whatever they're currently doing to correlate IP addresses with real people).  
+  
+

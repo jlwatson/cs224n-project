@@ -1,0 +1,25 @@
+
+
+Quote from: triplehelix on March 27, 2012, 04:10:35 AM
+
+i don't think i have the most correct answer. i just think that security isn't
+as hardened as it could be, and there is at least one area where it could be
+relatively easily strengthened, and an open discussion would probably be
+beneficial.  
+
+You mean like:  
+  
+https://bitcointalk.org/index.php?topic=34562.0  
+or  
+https://bitcointalk.org/index.php?topic=19080.80  
+or  
+http://gavinthink.blogspot.com/2011/06/why-arent-bitcoin-wallets-
+encrypted.html  
+or  
+https://bitcointalk.org/index.php?topic=2574.0  
+  
+It has been a while since I wrote a "State of Bitcoin Development" update (too
+busy...), but wallet security was my second priority, behind network
+stability, the last time I did one. It is still right at the top of my
+priority list.
+

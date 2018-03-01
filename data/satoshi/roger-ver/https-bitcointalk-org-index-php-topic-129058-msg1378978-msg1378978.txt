@@ -1,0 +1,21 @@
+
+
+I think it is also important to note that the Blockchain.info code is open
+source:  
+  
+https://github.com/blockchain  
+  
+  
+I think Blockchain is superior to Coinbase because if Blockchain.info were to
+be hacked, only a small number of users who actively logged in while the
+server was compromised would lose their coins.  
+  
+  
+If Coinbase is hacked, all their online funds could be stolen. (I learned this
+the hard way with Bitcoinica)  
+There is also nothing stopping a court order from seizing their cold storage
+backups from the safety deposit box at the bank.  
+  
+  
+With Blockchain, those are not issues.
+

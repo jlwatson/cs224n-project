@@ -1,0 +1,10 @@
+
+
+Speak now about this change or forever hold your peace... Satoshi will be
+including this functionality in the next version of Bitcoin (0.3.12).  
+  
+If you use the JSON-RPC api, you should check your error-condition-handling
+code; again, the changes are that the error member will be an Object (with
+'code' and 'message' fields) instead of a String, and the HTTP status code may
+be 404 instead of 500 for method-not-found.  
+

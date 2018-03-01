@@ -1,0 +1,11 @@
+
+
+Actually I am concerned that transactions between BTC and DCC may not be
+simple. Because both currencies tend to be anonymous, it is hard to make the
+two transfers in a coordinated way. If Anne wants to sell Beth 1 DCC (allowing
+1 domain to be created) for a certain number of Bitcoins, then Beth must send
+Anne the Bitcoins via the Bitcoin block chain, while Anne sends Beth the DCC
+on the DomainChain. If the two are anonymous to each other, it seems there
+must be a trusted third party like a reputable exchange. It seems hard to do
+peer to peer.  
+

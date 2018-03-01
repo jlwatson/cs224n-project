@@ -1,0 +1,29 @@
+
+
+Transactions with "0 confirmations" are transactions that your client has
+seen, but haven't been put into a block yet.  
+  
+Here's what happened when you bought the bitcoins:  
+  
+Seller: "Hey Bitcoin Network! These here Bitcoins are getting sent to that
+there Bitcoin Address!"  
+  
+Your client, listening in on all the payment network messages: "Wow, spiffy,
+that's one of MY Bicoin Addresses! I'll add that transaction to my wallet, and
+show that transaction as 0/unconfirmed in the UI."  
+  
+Then your client goes on its merry way downloading the 66,241 blocks in the
+block chain.  
+  
+In the meantime, some lucky soul generates block number 66,242, and includes
+your transaction in that block. When your client connects that block up to the
+block chain (which it won't do until it gets all 64,241 previous blocks),
+it'll show it as "1/unconfirmed"  
+  
+Then 2 confirmations when block 66,243 gets generated, etc.  
+  
+Wonky things can happen if two nodes generate a different block 66,241
+(especially if one of them included your transaction and one of them didn't,
+you can go from 1/unconfirmed back to 0/unconfirmed for a little while), but
+after a couple more blocks get generated everything sorts itself out.  
+

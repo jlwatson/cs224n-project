@@ -1,0 +1,5 @@
+
+
+The entire transaction is signed. See: https://en.bitcoin.it/wiki/OP_CHECKSIG
+for the rules.  
+

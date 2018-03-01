@@ -1,0 +1,12 @@
+
+
+RE: O(1) versus O(some-function-of-total-number-of-transactions):  
+  
+Yes, it will depend on whether or not the number of differences goes up as the
+number of transactions goes up.  
+  
+The incentives align so it is in everybody's best interest to make the
+differences as small as possible. I wouldn't be surprised if that causes
+innovations to drive the actual size to O(1) minus an increasing constant, as
+code gets better at predicting which transactions our peers do or don't have.  
+

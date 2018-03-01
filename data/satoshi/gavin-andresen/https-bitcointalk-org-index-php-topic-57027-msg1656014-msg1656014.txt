@@ -1,0 +1,11 @@
+
+
+I just used some bitcoins from the Bitcoin Faucet fund to compensate the
+p2pool miners who's block was orphaned in the Big Chain Fork.  
+  
+Transaction id
+6521b0513f3077a983b82eb92cc95ecc24ad2a7ca3afdba082ef71ea8d25a868  
+  
+PS: this was a one-time thing, don't expect orphan blockss in the future to
+get paid for!
+

@@ -1,0 +1,16 @@
+
+
+As DeathAndTaxes says, there is a weak vulnerability there for clients that
+are performing initial block download.  
+  
+It is weak because try-to-fill-up-disk attacks take a long time to pull off,
+the results are boring (you managed to fill 10 gigabytes of my terabyte hard
+drive? meh), recovery is pretty easy, and the attacker has to wait around for
+potential victims to connect to them.  
+  
+There are a bunch of optimizations to initial block download that could be
+done; the most obvious is fetching headers for the entire best blockchain
+starting at the best-block, then 'backfilling' block data in the background.
+That would let a new user get up and running very quickly, and would get rid
+of the vulnerability.  
+

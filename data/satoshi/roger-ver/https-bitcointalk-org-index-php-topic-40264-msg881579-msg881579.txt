@@ -1,0 +1,9 @@
+
+
+Iphones will not pair properly with the QR code on blockchain.info if the
+wallet password contains white spaces or special characters.  
+  
+The wallet still works fine inside the desktop browser. (Chrome on OSX)  
+  
+Keep up the great work!
+

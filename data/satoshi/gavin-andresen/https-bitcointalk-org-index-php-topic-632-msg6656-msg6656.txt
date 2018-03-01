@@ -1,0 +1,15 @@
+
+
+Speaking of the network...  
+... is there any really robust, generic, low-latency, open source p2p network
+"middleware" out there?  
+  
+I think using protocol buffers as the serialization format is a good idea, but
+I don't think just switching to protocol buffers "buys" enough to be worth the
+effort (at least not now, when transaction volume is low).  
+  
+I'd like to see some experimenting with running bitcoin on top of a different
+networking layer (and use protocol buffers, too). Is there a p2p network that
+is designed to be extremely highly reliable and difficult to infiltrate or
+attack with malicious nodes?  
+

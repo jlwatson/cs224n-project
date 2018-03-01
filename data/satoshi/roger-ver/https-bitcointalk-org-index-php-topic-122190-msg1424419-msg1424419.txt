@@ -1,0 +1,30 @@
+
+
+Quote from: chriswilmer on December 28, 2012, 06:28:24 AM
+
+I figured someone else would have mentioned this by now (sorry if someone did
+and I missed it), but the price category defaults are a little strange. My
+choices are often "$0 - $9999" and then "$10,000 - "19,999" when I am looking
+at something like printers or computer monitors. When I go to other electronic
+store websites, I often pick a price category and then browse for something I
+might want, but I can't do that easily here.  
+(bonus: add a custom price range)  
+
+  
+This issue has been fixed.  
+The current price ranges are now:  
+$0.00 - $49.99  
+$50.00 - $99.99  
+$100.00 - $249.99  
+$250.00 - $499.99  
+$500.00 - $999.99  
+$1,000.00 - $2,999.99  
+$3,000.00 - $4,999.99  
+$5,000.00 - $7,999.99  
+$8,000.00 and above  
+  
+and the customer will be able to choose custom price ranges soon.  
+  
+The other issues people mentioned will be fixed soon as well.  
+  
+

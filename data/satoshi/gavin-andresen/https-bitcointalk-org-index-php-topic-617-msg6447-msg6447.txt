@@ -1,0 +1,21 @@
+
+
+Quote from: kiba on July 29, 2010, 06:40:23 PM
+
+If the market want credits, they **will get it**. Beside, bitcoins is already
+decentralized. What more decentralization do you want?  
+What the hell are you asking?  
+
+He/she/they want an easier way for The Crowd to control The Policy-- right
+now, if you know enough C++ to modify and compile your own version of Bitcoin
+and can convince enough other people to use your version, then you can change
+Policy.  
+  
+Allowing everybody to tweak Policy and having some sort of mechanism that
+figures out what "everybody" wants to do is an interesting idea. I have no
+idea how you could actually make it work, and it would open up a whole other
+can of potential security problems (what if somebody controls a bunch of IP
+addresses and decides to "vote" for a policy that benefits them? or can you
+tie the policy changes to proof-of-work somehow? How do you aggregate what
+"everybody" thinks in a non-spoofable way? etc etc etc)...  
+

@@ -1,0 +1,10 @@
+
+
+Putting illegal content in the block chain and announcing it as an attempt to
+undermine Bitcoin seems like a good way to get yourself arrested. Much better
+than tweeting about exploits.  
+  
+You'll have both law enforcement and techies trying to track you down, and
+given that people are already deploying de-anonymizing tools it seems pretty
+darn likely that you'd get caught.
+

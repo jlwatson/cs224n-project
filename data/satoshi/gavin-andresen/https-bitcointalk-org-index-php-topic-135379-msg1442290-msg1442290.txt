@@ -1,0 +1,14 @@
+
+
+Quote from: BRules on January 08, 2013, 05:33:13 PM
+
+So I'm wondering, is there any better way to get the input addresses on a
+transaction?  
+
+  
+As was pointed out, getrawtransaction <txid> 1 will do the decode for you.  
+  
+If your JSON-RPC library supports it, you could also use a 'batch' request to
+get all of the inputs in one round-trip. See
+http://www.jsonrpc.org/specification#batch  
+

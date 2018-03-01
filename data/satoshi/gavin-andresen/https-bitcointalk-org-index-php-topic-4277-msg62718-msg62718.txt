@@ -1,0 +1,16 @@
+
+
+Quote from: Jim Hyslop on March 09, 2011, 02:17:22 AM
+
+I've been thinking about splitting out the files, too. No functional changes,
+just moving things around. I think that might help its adoption into the main
+trunk.  
+
+  
+Somebody did that a few months ago (theres a message here in the forums
+SOMEWHERE...)  
+  
+If I recall correctly, after he was done he found that it wouldn't compile on
+Windows any more.  
+  
+

@@ -1,0 +1,26 @@
+
+
+Quote from: hazek on January 29, 2012, 03:54:44 PM
+
+Exactly. There's no urgency, so I really don't understand why the urgency to
+ram through a proposal with any risk attached with the excuse that nothing
+will get done otherwise? Gavin?  
+
+  
+It is completely artificial urgency, so a decision is reached and implemented
+in a reasonable amount of time.  
+  
+When I set the deadline, I had no idea Luke would:  
+a) Decide that a bugfix 0.5.2 release was a good idea. I thought the minor
+bugfixes weren't worth taking the time to make a release but arguing with Luke
+is like arguing with a brick wall, so I went "meh, whatever."  
+b) Propose BIP 17 and go on a war against BIP 16.  
+  
+Both of those distracted from implementation and testing of BIP 16.  
+  
+But what's past is past, the question is what do do from here; I'm planning on
+starting that discussion in the Dev&Tech forum tomorrow.  
+  
+PS: RE: risk: the risks of either proposal to the overall health of the
+bitcoin network are small.
+

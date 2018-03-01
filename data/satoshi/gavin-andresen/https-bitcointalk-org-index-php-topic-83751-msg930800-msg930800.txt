@@ -1,0 +1,10 @@
+
+
+Chaining not-yet-signed transactions is impossible because transaction inputs
+are identified by the previous transaction's hash, and the transaction's hash
+includes everything about the transaction, including the signatures.  
+  
+A multisignature transaction taking funds from #1 and paying them to #4 that
+requires signatures from #1, #2, and #3 should accomplish the same thing,
+though.  
+

@@ -1,0 +1,17 @@
+
+
+I'm curious to hear what other people think. I shut down ClearCoin when the
+value of its wallet threatened to get so large I was no longer comfortable
+self-insuring it with my own personal bitcoins. It is still shut down because
+I haven't found a group that I would trust to run it securely (and I don't
+want to take the time to raise the money and hire experts to run it properly).  
+  
+We are starting to see well-capitalized, experienced companies creating
+bitcoin businesses; at this point, I think if you are holding other people's
+bitcoins then having insurance or posting a bond to self-insure up-to-some-
+value for each account is reasonable.  
+  
+In my view, if your business model for your **free** service doesn't cover the
+cost of insurance or a bond, then you're just pushing a lot of hidden risk
+onto your users.  
+

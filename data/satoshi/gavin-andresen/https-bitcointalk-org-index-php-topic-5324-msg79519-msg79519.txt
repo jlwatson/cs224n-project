@@ -1,0 +1,17 @@
+
+
+Quote from: TiagoTiago on April 04, 2011, 11:50:34 PM
+
+Would it work if you used only two copies, one that always only mined, not
+spending the money, and keeping the same address, and another that has that
+address, that you use to spend and receive money as usual? Besides the lag
+'til mining earnings show up on your spending wallet, is there gonna be any
+issue?  
+
+  
+Better would be a new feature that tells the mining bitcoin "please credit
+generated bitcoins to THIS address (instead of a new one)."  
+  
+If you are just mining, you don't need the private key at all, the bitcoin
+address (or public key) is enough to create the coin generation transaction.
+

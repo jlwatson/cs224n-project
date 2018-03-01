@@ -1,0 +1,38 @@
+
+
+Quote from: phelix on February 25, 2012, 04:12:23 PM
+
+what will you do if the bitcoin price rises by a factor of 100? your domains
+will cost 100 times what they did before.  
+
+  
+I think you might be conflating two costs:  
+  
+Cost #1 is the cost to get a bunch of domain transactions accepted.  
+  
+I believe pent's proposal is based on additional difficulty, which will be
+independent of the bitcoin price.  
+  
+In other words, if bitcoin difficulty is 100, then maybe you need to solve a
+difficulty 110 block to get your additional DIANNA data accepted by the other
+DIANNA nodes who are maintaining the key:value database.  
+  
+If bitcoin difficulty rises to 1 million, then you need to solve a difficulty
+1-million-and-ten block to get your data accepted.  
+  
+The additional difficulty factor should be set by the DIANNA nodes based on
+their ability to process/store data. More thinking is needed about what that
+function looks like (it reminds me of the bitcoin fee algorithm; it's trying
+to solve a similar problem, preventing spam/abuse but allowing as many
+transactions as possible for the lowest possible price).  
+  
+Then there's a completely separate Cost #2, which will be higher than cost #1,
+that is the payment that miners (aka registrars) will charge to handle domain
+transactions (and do the work of bundling them up, creating some sort of
+summary hash, and getting that hash into the bitcoin block chain). That's just
+a free market.  
+  
+  
+(I'm completely ignoring Cost #3, which is the "what if I want to purchase an
+existing domain" price, and is whatever the owner is willing to sell it for.)  
+

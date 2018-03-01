@@ -1,0 +1,13 @@
+
+
+Disclaimer: I'm a Tor newbie and networking stuff isn't my strong suit, you
+probably know more about it than I do.  
+  
+But: I fixed a Tor-related bug for version 0.6 a few days ago. In particular,
+I moved all of the "turn this on or turn this off if running over Tor" to one
+spot (in the init.cpp file) and reworked the code so that you can override all
+of those decisions via command-line or bitcoin.conf switches (e.g. specify
+-nolisten=0 to set nolisten to false so you DO listen even if running a port
+9050 proxy).  
+  
+

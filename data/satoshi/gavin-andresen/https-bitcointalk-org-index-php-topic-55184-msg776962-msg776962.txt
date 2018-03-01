@@ -1,0 +1,19 @@
+
+
+From the arimaa whitepaper:  
+
+Quote
+
+Although there can be multiple registrars to choose from an individual  
+or organization can maintain only one effective account with only one
+registrar.
+
+Right-- good luck with that! Any system that relies on Wise, Efficient and
+Effective Bureaucracies to decide hard questions like "are these 400 accounts
+really one scammer trying to get more than their fair share" are doomed to
+fail if they ever get large enough to attract the attention of scammers.  
+  
+If you have a really good automated way of telling the scammers from real
+people that doesn't require them sending in a DNA sample or body part, please
+let me know. I could use a good solution for the Bitcoin Faucet.  
+

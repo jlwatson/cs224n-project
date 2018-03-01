@@ -1,0 +1,18 @@
+
+
+Quote from: Michael_S on August 14, 2011, 11:58:19 PM
+
+Now, after having filled my target address B and amount of BTC in the "send"
+field of my client software, I am able to compose a message (=free text, like
+an SMS) and the client will encrypt this message with the public key of B
+(i.e. with the destination address) in the way that normally emails are
+encrypted with PGP public key mechanisms.  
+
+  
+Bitcoin addresses are not public keys-- they are hashes of public keys (RIPE-
+MD-160 hash of the SHA256 hash of the public key, with a version number and
+checksum, to be annoyingly specific).  
+  
+I agree that associating a message with a bitcoin transaction would be spiffy.  
+  
+

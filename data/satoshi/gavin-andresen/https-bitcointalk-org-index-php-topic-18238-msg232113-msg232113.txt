@@ -1,0 +1,18 @@
+
+
+If your device (computer, mobile phone) is infected and your bitcoin wallet
+keys are stored on that device (encrypted or not), then the bad guys will get
+your coins sooner or later.  
+  
+Sooner if the wallet is not encrypted. Later if it is encrypted.  
+  
+Come up with all the fancy "measure timing and enter your fingerprints and
+choose an 80-character-long password and store your private keys inside the
+Trusted Platform Module Chip" pseudo-security measures you like; if your
+device is infected they will not work.  
+  
+The bad guys will simply hack the software so that you THINK you're securely
+sending 1 bitcoin to your cousin (because that's what it says on the screen),
+but instead you're REALLY authorizing sending your entire bitcoin balance to
+the bad guys.  
+

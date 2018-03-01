@@ -1,0 +1,18 @@
+
+
+Quote from: casascius on August 24, 2011, 12:50:56 AM
+
+Here is an idea: why not just modify the OP_CHECKSIG (which currently checks a
+single signature) so it itself supported multiple signatures that could be
+joined with logic?  
+
+  
+Because I want to enable these features reasonably soon, and modifying the way
+CHECKSIG works means a blockchain fork for clients that haven't upgraded.
+Which means giving at least 6 months notice to give everybody time to upgrade
+their clients.  
+  
+At some point that will make sense, but with what I'm proposing it is not
+necessary. When SHA3 is finalized or a weakness is found in ECDSA or SHA256
+maybe it'll be time to do that...  
+

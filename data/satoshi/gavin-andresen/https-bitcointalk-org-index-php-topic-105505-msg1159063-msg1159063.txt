@@ -1,0 +1,25 @@
+
+
+Quote from: grazcoin on September 03, 2012, 07:56:57 PM
+
+So either a fifth optional argument for the P2SH scripts or extending the 3rd
+argument to include both privkeys and P2SH script would do the job.  
+
+I'm leaning towards extending the 2nd argument, to give previous inputs and,
+if the previous inputs are P2SH, previous inputs scripts.  
+  
+Along with a new 'rawmultisigaddress' that is just like addmultisigaddress,
+but doesn't add the redemption script to the wallet but instead returns it.  
+  
+
+Quote
+
+... or was it the addmultisigaddress that added the P2SH scripts?  
+
+addmultisigaddress added the P2SH scripts to the wallet.  
+  
+RE: when can you expect a fix:  
+  
+It is too late to add new RPC features to the 0.7 release, so no fix until the
+next release.  
+

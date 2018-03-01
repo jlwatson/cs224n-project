@@ -1,0 +1,15 @@
+
+
+I've been struggling recently to keep ClearCoin moving forward while I also
+try to keep core bitcoin on track, and with all the demands on my time I can't
+spend the time on ClearCoin to make it a project that I'm really proud of.  
+  
+So in the next day or two I'll stop allowing the creation of new escrow
+transactions. Existing transactions will be unaffected, and I'll keep
+ClearCoin running for at least two months after the last active transaction
+has expired.  
+  
+I hope ClearCoin will be back at some point in the future, but I won't bring
+it back until a lot of behind-the-scenes work is done to make it a robust,
+scalable business.
+

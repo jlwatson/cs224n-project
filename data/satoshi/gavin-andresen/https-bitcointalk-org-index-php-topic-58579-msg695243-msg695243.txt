@@ -1,0 +1,23 @@
+
+
+All righty, I mostly stepped away from the keyboard for a couple of days and
+I'm less frustrated and angry.  
+  
+So first, I want to apologize to Luke for calling his CODEHASHCHECK code "a
+joke." I was frustrated that after weeks of discussion and gathering consensus
+around /P2SH/ he and piuk (and a couple others) decide it would be a good idea
+to propose slightly-different-but-not-obviously-better alternatives.  
+  
+I still think Luke went about this the wrong way; for example, I think I would
+have been happy to accept a patch that made supporting /P2SH/ optional if he
+had presented it rationally instead of posting "ALERT! GAVIN IS HIJACKING
+BITCOIN! ACTION NEEDED!" I'd still be happy to accept a patch turning on/off
+the "put /P2SH/ in the coinbase" (assuming the general consensus is that is a
+good idea), but that's a discussion that should happen in the Dev/Tech forum.  
+  
+In fact, most of the discussion in this thread on the merits of various
+proposals belongs in the Dev/Tech forum, and most of the concerns expressed
+here in this thread **have** already been discussed over the last several
+months.  
+  
+

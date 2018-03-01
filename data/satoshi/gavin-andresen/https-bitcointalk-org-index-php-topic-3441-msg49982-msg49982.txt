@@ -1,0 +1,41 @@
+
+
+Quote from: jav on February 16, 2011, 09:52:58 PM
+
+I guess the block rate has been discussed before frequently and there are many
+good arguments for the different sides. What this really makes me wonder: Is
+there even a chance of this ever changing? How would it change? Someone with
+access to the official repository committing it and releasing it? and would
+that result in an immediate fork from people who think it's a stupid idea? I
+wonder if Bitcoin needs some sort of democratic organ to make a decision like
+that.  
+
+  
+First, "potentially forking" changes like that would be structured as:  
+  
+if (block number < SOME_BLOCK_NUMBER_IN_THE_FUTURE)  
+...old rules  
+else  
+...new rules  
+  
+Assuming a super-majority of people agree with the change and upgrade before
+we get to SOME_BLOCK_NUMBER_IN_THE_FUTURE, the switch will happen smoothly.  
+  
+Is there a chance of changing? Sure, but I think anybody who wants to make
+such a fundamental change would need to do a LOT of testing-- maybe spin up or
+recruit a few hundred machines all over the world on a test network, have them
+mine and simulate transactions to each other (ideally with similar volume to
+the real network) while going through the transition and making sure there
+weren't any unintended consequences. And convince a super-majority of people
+that the benefit of their potentially forking change outweighs the risk of
+disrupting the network if there's some consequence they didn't think of or
+that their test network didn't simulate properly.  
+  
+Practically, would dropping the block time from 10 minutes to 1 minute be
+worth the risk? I doubt it. 1-10 minutes (1 would be the average, get unlucky
+and it could take 10) is still too long to wait for small-value in-person
+transactions.  
+  
+RE: democratic organ: bitcoin is a kind of a democracy. Whatever code the
+majority of miners/nodes is running makes the rules.  
+

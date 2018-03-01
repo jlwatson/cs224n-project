@@ -1,0 +1,17 @@
+
+
+Quote from: rPman on February 22, 2012, 02:51:51 PM
+
+I do not understand why in the basis of a decentralized system, you are going
+to add a centralized registrar?  
+
+  
+I should have made it clear: I imagine there will be an arbitrary number of
+registrars. They will compete to provide the best service (fastest updates of
+the DNS database, lowest prices, etc).  
+  
+If you were willing to do the proof-of-work and insert your own updates into
+the bitcoin block chain then you could be your own registrar (I assume most
+people won't be willing to setup the necessary software, run it, etc. just to
+register a couple of domain names).  
+

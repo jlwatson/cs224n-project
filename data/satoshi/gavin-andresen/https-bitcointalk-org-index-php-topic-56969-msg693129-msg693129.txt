@@ -1,0 +1,5 @@
+
+
+piuk: please read BIP 0001, it describes the process for getting BIP numbers
+assigned.
+

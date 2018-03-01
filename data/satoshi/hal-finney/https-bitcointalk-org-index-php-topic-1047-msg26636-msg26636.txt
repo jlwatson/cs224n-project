@@ -1,0 +1,23 @@
+
+
+I've played the Foresight Exchange play-money prediction market at
+ideosphere.com since 1995. It would be great to see a Bitcoin version. The way
+it works is you create a "claim", which is a prediction that might or might
+not come true. Normally these have a due date for when they'll be judged. You
+also name another player as the judge. The claim creator can bet on the claim
+but the judge can't.  
+  
+Once the claim is created people can offer to buy "yes" or "no" shares at
+prices ranging from 0.00 to 1.00, which can be thought of as the probability
+that the claim will come true. When a pair of yes and no offering prices
+match, a pair of shares are created and given to the bidders, while their
+accounts of FX$ play money are decreased.  
+  
+At the due date the claim is judged. If it is true, owners of YES shares are
+payed off at FX$1.00 per share, and if false, owners of NO shares receive
+similar payoffs.  
+  
+It's pretty impressive that the game has gone on so long. Many of the claims
+will not come due for decades into the future. I think this game could be a
+good model for a real money version based on Bitcoin.
+

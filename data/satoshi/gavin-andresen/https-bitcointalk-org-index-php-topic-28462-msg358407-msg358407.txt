@@ -1,0 +1,10 @@
+
+
+Very-low-priority transactions **will** get dropped by peers, because they
+look like "spam" transactions and network bandwidth is not free.  
+  
+I don't know if the current rules are written down anywhere besides the source
+code; improving the fee-handling and spam-detecting code in bitcoin is high on
+my bitcoin improvement wish-list, so if they were written down they'd be
+likely to change fairly soon...  
+

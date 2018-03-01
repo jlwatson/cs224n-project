@@ -1,0 +1,55 @@
+
+
+Outputting the transaction time would be easy.  
+  
+"The address that received funds" is not as obvious as you might think. It is
+possible to generate transactions that are split and go to several addresses
+(well, it is possible if you use your own custom client, standard Bitcoin
+doesn't expose that feature).  
+  
+Some or all of those addresses might be yours, and might be associated with
+any number of accounts.  
+  
+I see two possible ways of dealing with this:  
+  
+1\. Generate multiple entries for a single transaction. E.g. if you receive a
+split transactions, where 50 BTC goes to address '1aaa...' and 10 to address
+'1bbbb...', listtransactions will list that as two separate entries that share
+the same txid:  
+
+Code:
+
+{  
+"category" : "receive",  
+"amount" : 50.00000000,  
+"txid" : "2c9d43db0142130a9926ef4b1c58abf17e8b4dfd2148bf2072b0df6d2bac8789",  
+"toaddress" : "1aaa", ... etc, irrelevant fields omitted...  
+},  
+{  
+"category" : "receive",  
+"amount" : 10.00000000,  
+"txid" : "2c9d43db0142130a9926ef4b1c58abf17e8b4dfd2148bf2072b0df6d2bac8789",  
+"toaddress" : "1bbb", ...  
+},  
+
+  
+You can already get two separate entries for one transaction if you send to
+yourself, so this might be the best answer. And it makes the common case
+simpler.  
+  
+2\. Or maybe 'toaddress' should be address:amount pairs, like this:  
+
+Code:
+
+{  
+"category" : "receive",  
+"amount" : 60.00000000,  
+"txid" : "2c9d43db0142130a9926ef4b1c58abf17e8b4dfd2148bf2072b0df6d2bac8789",  
+"toaddress" : { "1aaa" : 50.000000, "1bbb" : 10.000000 }  
+},  
+
+  
+Writing all this down, I'm thinking that listtransactions aught to generate
+multiple entries, but gettransaction aught to generate address:amount pairs
+(and still omit category/account, as it does now).  
+

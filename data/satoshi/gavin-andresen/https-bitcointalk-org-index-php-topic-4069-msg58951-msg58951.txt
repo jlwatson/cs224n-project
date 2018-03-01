@@ -1,0 +1,14 @@
+
+
+You can't open and close the file; it is not thread-safe (thread one closes fp
+and sets it to NULL and sleeps, thread two wakes up and uses a NULL fp).  
+  
+And you can't wrap the open/close in a CRITICAL_SECTION, because logging
+happens at shutdown, CRITICAL_SECTION relies on a destructor to work properly,
+and you can't control the order in which C++ destructors are called during
+shutdown.  
+  
+I learned all that the hard way a few releases back.  
+  
+You can rotate the logs using the "copytruncate" feature of logrotate.
+

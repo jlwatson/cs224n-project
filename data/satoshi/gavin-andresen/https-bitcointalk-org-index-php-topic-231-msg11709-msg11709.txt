@@ -1,0 +1,17 @@
+
+
+Quote from: vess on August 30, 2010, 08:00:10 AM
+
+I agree with the sentiment that a small reference client would be hugely
+helpful. I would like one that ran on Google App Engine, for instance, and as
+you say, a reference javascript version would be totally fabulous.  
+
+Neither of those are feasible-- both App Engine and Javascript don't allow
+arbitrary socket connections, and a full bitcoin client needs to maintain a
+persistent connection to at least one other bitcoin client to get transaction
+messages.  
+  
+"Background servers capable of running for longer than 30s" is a feature on
+Google's roadmap, so maybe a 100% App Engine bitcoin client will be possible
+in the future.  
+

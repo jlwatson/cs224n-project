@@ -1,0 +1,14 @@
+
+
+Hmmm...  
+  
+Thinking a little more, Mr. Lucky will have some coding to do. Blocks are
+indexed based on their hash, so when he generates that second all-zero hash
+he's going to have trouble with the current implementation. Actually, he'll
+have trouble before then, because if the target is low enough there won't be
+enough unique hashes...  
+  
+(and before somebody asks: YES, there is a very small chance that two blocks
+will be found with the same hash. And NO, that is NOT a problem that needs to
+be solved, it is so improbable it is not worth worrying about).  
+

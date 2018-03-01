@@ -1,0 +1,38 @@
+
+
+Quote from: Red on August 06, 2010, 05:33:30 PM
+
+Bitcoin could be made into a truly distributed system by storing the
+transaction graph in a distributed hash table. This is the kind of magic that
+is behind most other P2P systems. In effect, each bitcoin address would be
+arbitrarily mapped to a smaller set of nodes that checked its transactions. In
+such a system, there is no need to broadcast global state to every machine.
+This takes huge amount of latency out without needing to change any of the
+desired behavior.  
+
+Interesting idea.  
+  
+So, lets see, I create a transaction to pay you (say) 100 of my newly minted
+bitcoins.  
+  
+That'll be a transaction with two 50BTC TxIns (signed by me, pointing to two
+mature GENERATE transactions somewhere in the block chain) and one 100BTC
+TxOuts.  
+  
+You want to make sure I haven't double-spent those TxIns, so instead of
+flooding the network with that transaction you find the hash of the two
+GENERATE transactions and send two queries down into the DHT network: "Hey,
+here's a transaction, tell me if it is valid." They say "yup", and then...
+what? Include it in any blocks they're lucky enough to generate? Broadcast it
+to everybody (which'd be no better than the current scheme) or some subset of
+the DHT network (what subset?)?  
+  
+How do you know that you won't get a different answer to "is this transaction
+valid" if you ask again in 10 minutes when the network topology might have
+changed?  
+  
+I don't know much about DHT networks and how they manage to keep reliable
+information when nodes may be coming and going (or buggy or malicious). How
+would it work?  
+  
+

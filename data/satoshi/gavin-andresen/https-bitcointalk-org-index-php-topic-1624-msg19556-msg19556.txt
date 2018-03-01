@@ -1,0 +1,10 @@
+
+
+Looks good to me.  
+  
+Try to connect then look at the end of bitcoin's debug.log; see if it is even
+getting the connection.  
+  
+Also: did you restart bitcoind after adding the rpcallowip? The .conf file is
+only read at startup.
+

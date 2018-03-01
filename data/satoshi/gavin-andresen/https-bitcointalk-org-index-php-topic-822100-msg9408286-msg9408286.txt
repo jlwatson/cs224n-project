@@ -1,0 +1,21 @@
+
+
+Quote from: gmaxwell on October 28, 2014, 08:49:48 PM
+
+...or other facilities which are more obvious when you understand the
+difference between with script does in a consensus system... that it's not
+really performing computation, but verification of computation.  
+
+  
+This is a very important concept to internalize. I don't think Satoshi
+realized it, and I think if he did Bitcoin Script would be very different from
+what we have.  
+  
+In a future ideal world where arbitrary zero-knowledge-proofs are time-tested
+and have robust implementations, everybody except for the N entities directly
+involved in a transaction would validate a short, opaque proof that some
+computation took place authorizing the transaction.  
+  
+If you're designing a better transaction system, you should design with that
+ideal in mind.  
+

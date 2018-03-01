@@ -1,0 +1,32 @@
+
+
+Quote from: casascius on February 14, 2011, 08:39:12 PM
+
+The only way grocery stores could get on the network would be to have some
+sort of "MYBITCOIN"-like intermediary that does all the transaction
+processing, most of which would have to happen off the block chain.  
+
+  
+Right... so then the question is "will the MYBITCOIN-like intermediary be able
+to verify transactions quickly without opening themselves up to systematic
+fraud."  
+  
+Without requiring users to pre-deposit funds with them, because users ain't
+gonna do that.  
+  
+Here's another possible simple rule for miners that might work (but, as Hal
+said, requires Deep Thought):  
+  
+"When I see a new block with transactions that I didn't see broadcast
+previously, mark those transactions as suspicious. If I see double-spends of
+those transactions, stop building on that block-- assume it is cheating.
+Switch to the previous block (or alternate block if there's a block race going
+on)."  
+  
+Miners won't try to rip off a grocery store for $50 worth of groceries if
+doing so makes their $50+ bitcoin reward for finding a block disappear.  
+  
+This rule would also give miners a strong incentive to detect and refuse to
+include EITHER side of a double-spend in their blocks (if they get both spends
+while they're working on the block).  
+

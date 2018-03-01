@@ -1,0 +1,17 @@
+
+
+Yep. Every transaction you make potentially leaks a little information about
+other transactions to/from your bitcoin wallet.  
+  
+That's why I always say "bitcoin anonymity is complicated" and "bitcoin
+transactions are more private than credit card or bank transactions, but less
+private than cash transactions" or "staying completely anonymous while using
+bitcoins is hard."  
+  
+And that's why you won't find (or, at least, shouldn't find) any claims that
+bitcoin is anonymous on the bitcoin.org home page or in the bitcoin source
+code.  
+  
+What can you do? Use separate wallets. Make your donation address an
+instawallet or mybitcoin address that you don't use for anything else.  
+

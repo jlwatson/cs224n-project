@@ -1,0 +1,6 @@
+
+
+{full public key} OP_CHECKSIG is a valid, standard transaction type, redeemed
+by providing just {signature}.  
+  
+

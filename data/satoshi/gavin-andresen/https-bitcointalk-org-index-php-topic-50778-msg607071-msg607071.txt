@@ -1,0 +1,54 @@
+
+
+Quote from: coblee on November 04, 2011, 12:31:41 AM
+
+I will look into adding this to Litecoin. Gavin, what are the gotchas? Is
+there a possibility of a chain fork from this change? And what I should I pay
+attention to when testing this on the testnet. And let me know if you want to
+help test it.  
+
+See BIP 12, the Backwards Compatibility section, for gotchas-- block chain
+forks are possible if you're not careful. They won't happen by accident, but
+if you assume there is an attacker that just wants to cause inconvenience by
+forking the chain then you have to roll-out the change carefully.  
+  
+To test on testnet:  
+  
+Apply the patch. Then use the extended 'validateaddress' RPC command that is
+part of the patch to get public keys for several of your bitcoin addresses
+(use getnewaddress to generate new ones if you need to).  
+  
+Combine those public keys into multi-signature addresses using the new
+addmultisig RPC command:  
+addmultisigaddress <nrequired> <'["key","key"]'> [account]  
+  
+So for a 2-of-3 escrow you'd call:  
+addmultisigaddress 2 '["...pkey1...","...pkey2...","...pkey3..."]'  
+  
+It returns a multisignature bitcoin address.  
+  
+You'd do that on all the machines involved in the escrow transaction.  
+  
+To fund that multisignature address, you just use the normal sendtoaddress (or
+sendmany or sendfrom) RPC commands, using the address returned from
+addmultisigaddress.  
+  
+To spend those funds... more patches are needed. You CAN actually spend them
+if you have ALL the private keys in your wallet; if you do, then the
+multisignature transaction is treated just like any other transaction you've
+received, and will show up as part of your wallet's balance, in
+listtransactions output, etc.  
+  
+Modifying the patch so that you can spend them if you have <nrequired> keys is
+probably the right thing to do, although the security implications of that for
+shared-wallet providers needs to be carefully thought through. And in almost
+all of the real multisignature use cases, a RPC calls to create and sign
+partially-signed transactions is the right thing to do, NOT importing private
+keys from the other people involved in the transaction. See:
+https://gist.github.com/1321518 and
+https://bitcointalk.org/index.php?topic=39471.msg597785#msg597785 for a
+proposal on how to do that.  
+  
+  
+  
+

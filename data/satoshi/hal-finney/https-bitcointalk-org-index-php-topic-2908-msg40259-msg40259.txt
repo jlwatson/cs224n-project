@@ -1,0 +1,9 @@
+
+
+Satoshi once suggested that people could hack their client to generate and
+discard a bunch of random addresses until you got one that started with your
+initials or even your name if it was short. Well, I guess it would have to
+skip the forbidden letters like 'l'.  
+  
+Signed, Ha.
+

@@ -1,0 +1,9 @@
+
+
+The official client uses an older version of Berkeley DB (4.8, according to
+build-osx.txt).  
+  
+You're linking to Berkeley DB 5.1.19, so when you run your client it upgrades
+the bitcoin database files, which makes them incompatible with the official
+client.  
+

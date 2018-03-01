@@ -1,0 +1,24 @@
+
+
+Wiki for the trade page is a fantastic idea.  
+  
+And I like the idea of a re-organized, simplified home page. Who should the
+home page target? I think there are few potential audiences; successful web
+sites design their home pages to one or more specific types of visitors. For
+bitcoin, I think visitors are likely to be:  
+  
+1\. Geeks who are interested in "how is bitcoin supposed to work."  
+  
+2\. Geeks who are interested in "how can I use bitcoin for a project I'm
+thinking of working on."  
+  
+3\. Non-geeks who are interested in "what the heck is bitcoin and why should I
+care."  
+  
+There are also several audiences I don't think bitcoin.org should target (for
+example, people hoping that bitcoin is a way to get rich quick). Am I missing
+anybody?  
+  
+I've been busy putting together a 5-minute talk for audience number 3; I think
+I can re-purpose some of what I wrote for the website.  
+

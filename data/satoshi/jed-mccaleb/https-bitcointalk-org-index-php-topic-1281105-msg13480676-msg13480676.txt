@@ -1,0 +1,9 @@
+
+
+In Stellar it is possible for the issuer of an asset to set who can hold the
+asset. So technically what you would do is just give permission to the set of
+50 people you want to allow to hold shares in the company. They could buy and
+sell among themselves freely but couldn't transfer the shares to anyone
+outside of this set. You would need to set up something for authorizing people
+to hold shares but you will have to do this regardless.
+

@@ -1,0 +1,29 @@
+
+
+Bitcoins are 50 times more valuable today than when I first heard about them
+six months ago. If they just double in the next six months, they'll have risen
+100-fold in a year.  
+  
+It seems like a good idea to me to come to a consensus now about when to "move
+the decimal points" -- when should the Bitcoin program allow you to specify
+payments with more than two decimal places (e.g. "pay Gavin 0.001 BTC for his
+thoughts") ?  
+  
+When should the Bitcoin program assume you're entering payments in
+'millicoins' or 'microcoins' ?  
+  
+And when should all of the internal minimums (e.g. smallest transaction fee or
+the trigger for the 'micro-transaction spam prevention') be lowered?  
+  
+  
+Here's a straw-man off the top of my head:  
+  
+When Bitcoins are worth more than about ten dollars (or euros) each, I think
+it'll be time to allow sub-bit-penny payments. And I think the "smallest free
+transaction" limit (and other internal minimums) should move in lock-step with
+that change.  
+  
+When 1 Bitcoin is worth somewhere around $100 (in 2010 dollars), I think it'll
+be time for the client to switch to millicoins (e.g. .001 BTC), so if I'm
+buying a paperback book it costs 50 milliBTC instead of .05 BTC.  
+

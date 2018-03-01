@@ -1,0 +1,12 @@
+
+
+If you're on OSX you can do this:  
+http://mac.tutsplus.com/tutorials/productivity/how-to-tag-files-and-create-
+spotlight-comments-on-a-mac/  
+  
+I don't know if Windows or Linux have a similar way of adding metadata to
+arbitrary files.  
+  
+PS: there will be (or maybe is, can't remember when the option was added) a
+-wallet=<name> option to open up a different .dat file for the wallet.
+

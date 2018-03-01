@@ -1,0 +1,6 @@
+
+
+Discussing how to fix this in IRC now.  
+  
+This **IS** a show-stopper issue for the 0.5 release.  
+

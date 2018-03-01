@@ -1,0 +1,8 @@
+
+
+I'd predict that difficulty will stop rising once it becomes impossible to
+mine at a profit. Based on ribuck's figures, we're pretty much there if you
+account for GPU prices, and maybe a factor of 4 away even for people who only
+count electricity (because they use their cards for gaming etc). So unless the
+price of bitcoins rises, I expect difficulty to start leveling off soon.
+

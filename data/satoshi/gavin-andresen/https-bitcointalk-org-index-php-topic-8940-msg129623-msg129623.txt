@@ -1,0 +1,68 @@
+
+
+So with the recent avalanche of press interest in bitcoin, I thought I'd share
+my thoughts on how I'd like to see bitcoin positioned. I'm not writing this as
+"This is the Official Bitcoin Organization Position" -- as always, I expect
+everybody to have, and express, their own views.  
+  
+I'll restate what I see as the goal of The Bitcoin Project: To give us control
+over our finances by establishing a stable, secure, global, "democratic"
+currency.  
+  
+I think positioning bitcoin as "revolutionizing the financial system" is the
+goal-- not more radical statement I've heard (like "destabilizing
+governments"). Most people either like or are indifferent to their governments
+(I know, I know, sheeple and all that... lets not go there). I don't think
+most people get the warm fuzzies when thinking about bankers and Big
+Corporations; bitcoin as "The People's Money" is the right way to think about
+it.  
+  
+Also, whenever I talk to the press, I try to be realistic. Bitcoin is still an
+experiment that has never been tried before; there is still a good chance it
+will fail, and there is still a lot of work to do to make it stable and
+secure. I'm excited because bitcoin is a big idea that might change the world
+for the better, but I also realize that our little project is just a baby
+compared to the decades-old financial systems that we all use every day.  
+  
+I think it is important to set expectations; I still wouldn't recommend that
+my mom use bitcoin for _anything_ just yet, because it is not easy enough to
+use securely. And the road ahead is likely to be bumpy; there will be
+technical issues that need fixing, there will be legal questions, there will
+be price bubbles, and there will be scams. I predict that some company using
+bitcoins to do something illegal will be caught and prosecuted, and that will
+be mis-reported as "Bitcoin is illegal."  
+  
+I said a year ago that creating solid technology was just the first step in a
+long road for bitcoin. I'm very pleasantly surprised at how far the bitcoin
+project has come in a year; the innovation and experimentation and level of
+interest and excitement is fantastic.  
+  
+  
+Here's an email exchange I had with a reporter yesterday:  
+  
+
+Quote
+
+Specifically, do you agree or disagree that this project is "dangerous"? If
+you disagree, how would you describe the potential significance of bitcoin in
+a future Internet economy?
+
+  
+New technologies are always at least a little bit dangerous-- they can usually
+be used for both good and bad (think of gunpowder or ChatRoulette), and are
+certainly dangerous to the status-quo that they replace (think of cars and
+buggy-whip-manufacturers).  
+  
+Bitcoin is a really ambitious project; we're trying to let people take back
+control of their money instead of trusting bureaucrats or bankers or
+politicians to keep it stable and safe. It is international, decentralized,
+and completely open to innovation, very much like the Internet. Like the
+Internet, I expect its early years to be full of amazing successes and
+spectacular failures, and I don't think anybody will be able to predict in
+advance what will succeed and what will fail.  
+  
+I think the real question is whether or not bitcoin will appeal to the
+majority of people who are happy with our current financial system. If it
+doesn't, bitcoin may fade away or end up as a niche currency used for a tiny
+percentage of global financial transactions.  
+

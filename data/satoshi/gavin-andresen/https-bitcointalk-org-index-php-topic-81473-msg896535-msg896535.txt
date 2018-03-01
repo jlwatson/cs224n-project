@@ -1,0 +1,8 @@
+
+
+Do you get different answers for 'getbalance' versus 'getbalance "*"' ?  
+  
+There is a longstanding issue with they way unconfirmed transactions are
+counted that might be the source of your problem:  
+https://github.com/bitcoin/bitcoin/issues/172  
+

@@ -1,0 +1,63 @@
+A couple of comments on my last post challenge my assertion that "Kids are
+much safer in school than any other place."  
+  
+I admit, I was lazy, I didn't do any research to back up that statement; I'm
+parroting Lenore at Free Range Kids, who I trust because I've followed her
+blog for years and she is always rational and data-driven. And maybe "much
+safer" and "any other place" are exaggerations; probably kids are just as safe
+or maybe even safer when they're at home, sleeping in their beds at night (or
+maybe not, because I'm pretty sure domestic violence is a lot more common than
+school violence).  
+  
+But it got me to thinking: how would I go about proving or disproving that
+kids are safer in school than anyplace else?  
+  
+I'm a skeptic, and I'm very aware of all the ways we can fool ourselves into
+"proving" something that we already believe. So if I had the time to research
+safety in schools, here's how I'd go about it:  
+  
+First, I'd try to get more specific about what I mean by "safe" -- really, I
+mean "safe from physical harm." I'm not going to wade into a debate about
+whether our kids are being developmentally stunted or mentally harmed in
+school.  
+  
+Then, I'd find a data source (or, ideally, two or three) that I trust that
+tracks statistics on deaths or injuries. I'm sure there are databases that
+keep track of emergency room admissions by age, time, etc.  
+  
+Before I looked at any of the data, I'd decide what to look for. Any large
+dataset can be sliced and diced a million ways, and 5% of those ways will give
+you statistically significant (but meaningless) results.  
+  
+In the "are schools the safest place for kids to be" case, I'd look at the
+injury/death rate for school-aged kids during school hours, and compare it
+against the injury/death rate at other times: weekdays during non-school
+hours, and weekends.  
+  
+But that's not quite enough-- maybe the middle-of-the-day school hours are
+just safer in general. So I'd also look at injury/death rates for kids who are
+too young for school, to try to isolate the "in school" versus "not in school"
+factor.  
+  
+To really do it right, I'd hire a statistician to run a regression over the
+data (or would take that statistics class I'm always thinking I should get
+around to taking...). But before doing all that, I'd run a Google Scholar
+search to see if anybody's already done the hard work.  
+  
+A couple of minutes of searching "school safety" turned up a bunch of studies
+that focus JUST on violence in schools, but also "The Inherent Limits of
+Predicting School Violence"which says:  
+
+> ... violent deaths are a rare event, with less than 1% of the homicides and
+suicides among school-age children occurring in or around school grounds
+(Kachur et al., 1996). Moreover, the rate of violent crimes committed by
+juveniles remains low during the school day, but it spikes at the close of the
+school day and declines throughout the evening hours (Snyder and Sickmund,
+1999), indicating that school hours are probably the safest time of the day
+for adolescents.
+
+I didn't find any contradictory evidence, so short of crunching the numbers
+myself (which I'm not going to take the time to do), I'm going to stick with
+"kids are safer in school."  
+  
+

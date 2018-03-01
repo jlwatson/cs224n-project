@@ -1,0 +1,14 @@
+
+
+I agree, and understand that this issue needs to be fixed.  
+It likely will be with the next update to the live website.  
+  
+At no point is anyone over charged on the current site though.  
+Here is a screen shot of the checkout from a few minutes ago that clearly
+shows the correct exchange rate of about $17.40 being charged despite the old
+exchange rate being displayed on the local website:  
+  
+  
+  
+Thanks to Bitpay.com for making such a great bitcoin payment module!
+

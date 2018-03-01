@@ -1,0 +1,12 @@
+
+
+How did you build Berkeley DB? Something like this in the MSYS shell:  
+sh ./dist/configure -enable-cxx -enable-mingw  
+  
+... should do the trick (see this thread, for example).  
+  
+I'm no longer develop on Windows, but I had to be very careful to make sure
+bdb/boost/miniupnpc/openssl/Qt were all compiled with the same compiler and
+compatible options (e.g. -arch i386 versus -arch x86_64) to successfully
+compile bitcoind and Bitcoin-Qt on my Mac.
+

@@ -1,0 +1,18 @@
+
+
+Quote from: Mahkul on February 16, 2011, 11:27:24 PM
+
+Is there any way of checking how many "immature" (currently maturing) coins
+there are using bitcoind?  
+
+  
+No, but there should be.  
+  
+Proposal: treat immature coins as starting with -100 confirmations, and modify
+listtransactions to list immature category=generate coins (with negative
+confirmations).  
+  
+There's probably an off-by-one-error lurking there... (will have to make sure
+the coinbase transaction is spend-able when it goes from -1 to 0
+confirmations).  
+

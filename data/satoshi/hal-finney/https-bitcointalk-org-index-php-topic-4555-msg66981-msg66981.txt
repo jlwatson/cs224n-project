@@ -1,0 +1,6 @@
+
+
+It's not safe to have only 64 bits of the private key be unknown. This can be
+broken in 2^32 work using such algorithms as baby step giant step, Pollard
+rho, or the kangaroo.
+

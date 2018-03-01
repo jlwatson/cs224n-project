@@ -1,0 +1,26 @@
+
+
+Microsoft/authenticode assumes one trusted master key (I think? Can a binary
+be signed by multiple keys?)  
+  
+That is contrary to the no-central-authority idea, and it would be nice to
+avoid that.  
+  
+However, given that Apple and Microsoft are both going in the direction of
+"thou shalt be a registered developer to distribute software for our OS" a
+central signing process for at least the initial install seems inevitable.  
+  
+This is one of those "interact with existing systems that do not consider the
+possibility of radically decentralized solutions" hurdles that the Foundation
+can help jump; I expect the Foundation will soon be a registered Apple and
+Microsoft developer, and downloads will be signed with certificates owned by
+the Foundation.  
+  
+The alternative is downloads only geeks can use (because only geeks know how
+to turn off cert checks) or binaries signed by me personally. And I don't want
+to be a single point of failure; having an organization that will hopefully
+outlive me is a better solution.  
+  
+The best solution would be multi-signed binaries and a decentralized web of
+trust system, but we're not there yet.
+

@@ -1,0 +1,28 @@
+
+
+Quote from: JohnDoe on November 26, 2011, 02:56:59 PM
+
+If scalability is a non-issue, then why is storing generic data like Namecoin
+banned/heavily discouraged?  
+
+  
+As Mike said, help on "initial headers-only download" would be much
+appreciated.  
+  
+Work-in-progress is here: https://github.com/bitcoin/bitcoin/tree/blockheaders  
+  
+... and my notes on issues that have to be worked out are here:
+https://gist.github.com/1059233  
+  
+As for scalability in general: it looks to me like CPU time to validate
+transactions will be the bottleneck before bandwidth or disk space, so I don't
+see a strong reason to switching to a 'ledger' or 'balance sheet' method.
+Effective optimization/scalability is all about identifying and eliminating
+bottlenecks.  
+  
+
+Quote
+
+"Premature optimization is the root of all evil (or at least most of it) in
+programming." -- Donald Knuth
+

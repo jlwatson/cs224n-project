@@ -1,0 +1,14 @@
+
+
+My point was that if "they" mount an attack, I think they're unlikely to do
+something subtle like try to mess with the block chain.  
+  
+If "they" want to mess with the network, it would be far easier to do
+something like what China's doing with its Great Wall-- forcing connections
+they don't like to be dropped. Or what botnets do now: mount a denial-of-
+service attack by flooding the network.  
+  
+Much more likely: "they" will catch you for tax evasion when you convert your
+bitcoins to your local fiat currency and buy that fancy sports car you've
+always wanted.  
+

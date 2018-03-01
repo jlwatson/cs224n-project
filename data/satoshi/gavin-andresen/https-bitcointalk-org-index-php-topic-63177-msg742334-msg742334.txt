@@ -1,0 +1,26 @@
+
+
+Quote from: Boss on February 10, 2012, 10:08:03 PM
+
+I will be justifying my criticism very shortly.  
+
+  
+If you've got a great business model and funding for a much better bitcoin
+client, more power to you!  
+  
+If you're planning on defacing one of the web servers that I haven't been
+keeping up-to-date (because I'm busy doing Bitcoin-related things) or hacking
+my gmail account to prove that I'm not The World's Best Security Expert...
+then I'll save you the trouble:  
+  
+I am not the World's Best Security Expert.  
+I am not the World's Best Programmer.  
+I am not a cryptographer.  
+I am not an expert on finance or banking or monetary systems.  
+I am not an expert on leading open source projects.  
+  
+And I hope someday I get replaced as the technical lead for this project. I'm
+sure there are lots of people better qualified than me, I'm just doing the
+best I can to try to help make Bitcoin a success.  
+  
+

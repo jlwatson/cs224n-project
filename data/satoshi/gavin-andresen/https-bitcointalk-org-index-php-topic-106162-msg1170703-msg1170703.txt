@@ -1,0 +1,22 @@
+
+
+Quote from: flower1024 on September 08, 2012, 11:29:35 AM
+
+i hope from an answer from magicaltux about an api call where i provide a txn-
+hash and he sends me the real deposit address back.  
+
+That would violate his users' privacy; maybe I don't want you (or the rest of
+the world) to know that I have a Gox account.  
+  
+You don't need accounts or registration, you just need a two-step process:  
+  
+1) User tells you their refund address  
+2) You give the user a unique deposit address, and link the refund and deposit
+addresses in your database.  
+  
+To avoid creating a gazillion deposit addresses or bothering the user to give
+you a refund address every time, you might want to store the "user already got
+a deposit address" flag in a session cookie. But if the user will remember the
+deposit address then even that isn't necessary.  
+  
+

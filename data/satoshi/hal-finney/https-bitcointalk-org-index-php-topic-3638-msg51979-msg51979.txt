@@ -1,0 +1,21 @@
+
+
+Sorry! I did screw up the encoding. Here is the 256-bit private key in big-
+endian hex:  
+  
+C85AFBACCF3E1EE40BDCD721A9AD1341344775D51840EFC0511E0182AE92F78E  
+  
+My new attempt to base58 encode this is:  
+  
+EV71KQfoePBeWT79sV1VE7fWRgv1KNUxTNapH6ZbaRfB  
+  
+That's custom code, maybe somebody could check it.  
+  
+To apologize, I've added 30 BTC to the address. We're now at block 109352.  
+  
+The reason I did it this way is that it would be a good format for passing
+around or backing up bitcoins.  
+  
+BTW the new version of Bitcoin has a -rescan switch to find all txns that are
+for wallet keys. Only takes a couple minutes.
+

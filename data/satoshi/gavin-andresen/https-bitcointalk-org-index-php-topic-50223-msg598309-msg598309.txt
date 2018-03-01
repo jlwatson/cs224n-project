@@ -1,0 +1,33 @@
+
+
+I'm starting this thread to brainstorm rule changes for -testnet and talk
+about a possible testnet reset for the next release.  
+  
+The testnet isn't currently usable, because hashing power on it is
+unpredictable. Difficulty shoots up because somebody decides to throw lots of
+machines at it, then they leave and it takes MONTHS for difficulty to drift
+back down.  
+  
+Here's a shot at hair-brained rules for the testnet:  
+  
+\+ Fix the difficulty at 1.0, no matter how many people are mining.  
+  
+\+ Clients reject new blocks with timestamps more than 1 minute different from
+their time (implies: you have to have an accurate system clock to play with
+the other nodes on the testnet, otherwise you'll be on your own fork).  
+  
+\+ Clients reject new blocks if their timestamp is less than 2 minutes after
+the previous best-block's timestamp.  
+  
+\+ Clients prefer to build on blocks that include more memory-pool
+transactions, instead of taking first-block-they-receive.  
+  
+Goals behind those rules:  
+Always easy to mine  
+Limit block-chain growth (max 1 new block every 2 minutes)  
+  
+So: could a griefer make life miserable for the rest of us under those rules?
+What would happen if there were five or six people with a fair bit of hashing
+power all trying to mine as fast as possible on testnet? (lots of block chain
+splits, I think, but that's probably just fine on testnet)  
+

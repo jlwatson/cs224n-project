@@ -1,0 +1,11 @@
+
+
+The Bitcoin Faucets (production and TEST) are now running with this change.  
+  
+I was confused for a bit because the password is given LAST on the command
+line, but FIRST in the JSON-RPC params list. I agree that reading the command-
+line password from a file would be more convenient and more secure.  
+  
+I'll try to do some research on how other projects tackle JSON-RPC
+authentication.  
+

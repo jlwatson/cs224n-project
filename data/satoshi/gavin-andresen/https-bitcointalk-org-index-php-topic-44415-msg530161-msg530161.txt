@@ -1,0 +1,32 @@
+
+
+Linux and Windows and Mac binaries are available at sourceforge:  
+http://sourceforge.net/projects/bitcoin/files/Bitcoin/bitcoin-0.4.0/test/  
+  
+And HTTPS download from the Amazon Cloudfront content distribution network:  
+https://d24z2fz21y4fag.cloudfront.net/downloads/bitcoin/bitcoin/bitcoin-0.4rc2-win32-setup.exe  
+https://d24z2fz21y4fag.cloudfront.net/downloads/bitcoin/bitcoin/bitcoin-0.4rc2-win32.zip  
+https://d24z2fz21y4fag.cloudfront.net/downloads/bitcoin/bitcoin/bitcoin-0.4rc2-macosx.dmg  
+https://d24z2fz21y4fag.cloudfront.net/downloads/bitcoin/bitcoin/bitcoin-0.4rc2-linux.tar.gz  
+  
+The d24z.... downloads are an experiment; I like that they're https, I don't
+like the obscure d24z... URL (that's actually github's CloudFront id; I asked,
+and they have no objections to linking directly to the https version of the
+downloads).  
+  
+Executive summary release notes:  
+  
+The main feature in this release is wallet private key encryption;  
+you can set a passphrase that must be entered before sending coins.  
+See below for more information; if you decide to encrypt your wallet,  
+WRITE DOWN YOUR PASSPHRASE AND PUT IT IN A SECURE LOCATION. If you  
+forget or lose your wallet passphrase, you lose your bitcoins.  
+Previous versions of bitcoin are unable to read encrypted wallets,  
+and will crash on startup if the wallet is encrypted.  
+  
+Also note: bitcoin version 0.4 uses a newer version of Berkeley DB  
+(bdb version 4.8) than previous versions (bdb 4.7). If you upgrade  
+to version 0.4 and then revert back to an earlier version of bitcoin  
+the it may be unable to start because bdb 4.7 cannot read bdb 4.8  
+"log" files.  
+

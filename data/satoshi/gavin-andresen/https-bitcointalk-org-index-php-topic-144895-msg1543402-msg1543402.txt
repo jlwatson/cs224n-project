@@ -1,0 +1,23 @@
+
+
+RE: particular ideas if "we" decide the blocksize has to be increased:  
+  
+I think the first step is to come to rough consensus that, at some point, we
+WILL need a hardfork to increase the block size limit.  
+  
+If we can come to rough consensus on that, then we can figure out the safest
+way to accomplish that.  
+  
+I don't think we'll get consensus; retep and others will argue "we need to run
+into the hard limit to FORCE alternatives to be created first."  
+  
+I keep saying we should see what happens as we run into the soft blocksize
+limits. To people on both sides of this debate: what do you predict will
+happen?  
+  
+If what you predict will happen doesn't actually happen, will that make you
+re-evaluate your position?  
+  
+(I haven't spent enough time thinking about this problem to answer those
+questions, but that is how I'm going to think about it).
+

@@ -1,0 +1,16 @@
+
+
+Quote from: ByteCoin on March 17, 2011, 12:23:44 AM
+
+You CAN encode a message in a currently accepted transaction using the
+broadband subliminal channel inherent to DSA (and ECDSA).  
+
+  
+Googling for 'ECDSA broadband subliminal channel' to figure out what the heck
+you're talking about...  
+  
+... doesn't that require that the recipient (as well as the sender) know the
+private key?  
+(you encode the message in the 'k' param, which the recipient can only recover
+using the private key?)
+

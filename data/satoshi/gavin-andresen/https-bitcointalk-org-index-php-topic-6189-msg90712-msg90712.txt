@@ -1,0 +1,15 @@
+
+
+Linux and Windows binary releases are at:  
+https://sourceforge.net/projects/bitcoin/files/Bitcoin/bitcoin-0.3.21/  
+  
+Changes and new features include:  
+
+  * Support for Universal Plug and Play to open a port for incoming connections (off by default, turn it on using the -upnp=1 command-line switch or the checkbox on the Options dialog box).
+  * Sending and displaying arbitrary precision amounts of bitcoins (you can send exactly 1.0001 bitcoins if you like). Sending less than 0.01 bitcoins requires a 0.01 bitcoin fee, however.
+  * New rpc command "sendmany" to send bitcoins to more than one person in a single transaction (already being used by some of the mining pools for payouts).
+  * Several bug fixes, including a serious intermittent bug that would sometimes cause bitcoind to stop accepting rpc requests.
+
+  
+If you find bugs, report them at: https://github.com/bitcoin/bitcoin/issues  
+

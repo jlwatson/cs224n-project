@@ -1,0 +1,15 @@
+
+
+Quote from: proudhon on August 05, 2011, 11:26:21 PM
+
+  
+Fair enough. Title changed.  
+  
+Also, I tried to resend 5 BTCs with a 0.1 transaction fee (10x more than the
+minimum) and after almost 2 hours the transaction still says 0/unconfirmed.  
+
+  
+Thanks for changing the title.  
+The transaction fee is not the problem.  
+You are just throwing money away with that.
+

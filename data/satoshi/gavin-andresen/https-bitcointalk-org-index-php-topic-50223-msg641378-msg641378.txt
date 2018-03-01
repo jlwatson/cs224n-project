@@ -1,0 +1,21 @@
+
+
+https://github.com/bitcoin/bitcoin/pull/686  
+  
+ **Testnet difficulty calculation changes, to take effect Jan 1 2012**  
+  
+Allow mining of min-difficulty blocks if 20 minutes have gone by without
+mining a regular-difficulty block.  
+Normal rules apply every 2016 blocks, though, so there may be a very-slow-to-
+confirm block at the difficulty-adjustment blocks (once per month, assuming
+testnet is in it's normal "difficulty too high for number of people mining it"
+state).  
+  
+This will almost certainly cause a testnet blockchain split after Jan 1. After
+pulling I'll update the Testnet Faucet, I'll ask theymos if he can update the
+testnet block explorer bitcoind.  
+  
+I didn't implement any "shun blocks from the future" or "prefer blocks with
+more memory-pool transactions", I want to see how well the simplest-thing-
+that-might-possibly-work solution works first.  
+

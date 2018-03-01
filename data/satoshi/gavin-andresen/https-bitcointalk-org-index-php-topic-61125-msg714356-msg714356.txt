@@ -1,0 +1,34 @@
+
+
+Quote from: Inaba on January 26, 2012, 02:05:32 PM
+
+As I've been asking in other threads, but have yet to get an answer, I will
+ask here again. Why is this such a rush? Why the secretive "upgrade?" What is
+wrong with this proposal that it requires it to be force pushed through at
+such a rapid pace?  
+  
+This needs to be weighed and measured and the potential consequences thought
+out. Why is this not being done?  
+
+  
+I believe that without a deadline nothing would get done.  
+  
+We could talk and argue and discuss for six months trying to find the perfect
+solution, and there would still be people saying that we need another six
+months to argue and discuss some more.  
+  
+In fact, us developers HAVE been discussing and arguing about this for over
+six months now; this whole thing started with an impromptu brainstorming
+session at the first Bitcoin Conference in New York.  
+  
+As for this upgrade being "secretive" : huh? It certainly isn't/wasn't a
+secret among the developers, and until the developers came to rough consensus
+(and I believe there IS rough consensus, despite what Luke claims) I didn't
+think non-developers would be interested in the technical details.  
+  
+From some of the reactions in this thread, I think I was right-- most people
+don't care whether we use nails or screws or glue to build a better wallet.  
+  
+RE: rumors that I'm doing this for some personal reason: 100% untrue. I want a
+solution because it will make Bitcoin better sooner.  
+

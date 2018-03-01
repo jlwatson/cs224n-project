@@ -1,0 +1,22 @@
+
+
+Governments can print money, so if they want bitcoins it would be much more
+efficient for them to just buy them (with newly printed money) than try to
+mine them.  
+  
+Going on a bit of a tangent:  
+  
+Once common criticism of bitcoin is that there is nobody like the Federal
+Reserve to "smooth out the bumps in the economy by manipulating the money
+supply." Set aside for a minute whether or not the Fed actually does a good
+job of that or whether or not the Fed actually has the ability to do that.  
+  
+One response is that there is absolutely nothing stopping the Federal Reserve,
+or anybody else, from stepping in and "smoothing out the bumps in the bitcoin
+economy." The Fed could buy bitcoins when it thought the value was too low,
+and sell them when it thought the value was too high. It'd have to plan ahead
+and keep a big stock on hand so it had some to sell, of course.  
+  
+That might lead to a productive discussion on why that would or wouldn't work,
+and if or how it is different from what the Fed (or the World Bank) does now.  
+

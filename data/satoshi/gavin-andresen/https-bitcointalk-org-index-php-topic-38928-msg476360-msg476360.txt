@@ -1,0 +1,37 @@
+
+
+Sunday at the bitcoin conference I led a little brainstorming session on
+extending the set of 'standard' transaction types, and I've been picking
+people's brains via email and IRC chat (and pull request comments) to work
+through the details.  
+  
+My motivation for wanting to do this NOW is because it will allow features
+like:  
+  
+\+ Multi-device confirmation of spends, so if your computer is infected by a
+trojan it cannot spend all of your coins.  
+  
+\+ Master-key emergency backup, so if you lose your wallet (and all of its
+backups) you can get the master key from your safe deposit box and recover all
+of your coins  
+  
+It will also enable third-party escrow and some other nifty features that
+aren't as important to me. The first step in doing all of these things is to
+work out the lowest-level transaction format and to allow those transactions
+to be relayed and included in blocks. That is ALL I am proposing right now
+(actually implementing something like multi-device spend confirmation will
+require a little protocol for the devices to communicate, a new kind of
+bitcoin address that people will send into, etc etc etc).  
+  
+Working out a common way of doing (for example) 1-of-2-keys-required
+transactions will make it much easier for sites like blockexplorer to display
+them intelligently, and will generally make life happier for anybody writing
+tools that look at the blockchain.  
+  
+I'd rather not have this turn into a "lets get rid of the IsStandard() check"
+or "lets re-enable a bunch of currently disabled opcodes", so if you want to
+talk about that start a new thread.  
+  
+Current draft proposal is here:  
+https://gist.github.com/39158239e36f6af69d6f  
+

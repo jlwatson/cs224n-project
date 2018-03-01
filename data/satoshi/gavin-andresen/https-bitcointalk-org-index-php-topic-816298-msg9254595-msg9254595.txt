@@ -1,0 +1,29 @@
+
+
+Quote from: Jamie_Boulder on October 19, 2014, 09:54:44 AM
+
+Has this actually been set in stone or is Gavin just pondering ideas?  
+
+  
+I am trying to get consensus. The process will look like:  
+  
+Get rough consensus. I need to write some code to find out what size blocks
+the current code can handle, but other than that I think we're close to rough
+consensus on the approach.  
+  
+Note: Getting consensus that we actually need to change something NOW will be
+harder; it will be much easier to get consensus after we hit the 1MB blocksize
+limit and transaction fees spike up. It would be lovely to avoid that
+panic/pain.  
+  
+Implement the change / Write a BIP (these happen at about the same time).  
+  
+Submit a pull request, after code is reviewed pull it into the reference
+implementation.  
+  
+... wait until there is a release containing the change...  
+  
+... wait until supermajority of miners have upgraded to the new release...  
+  
+Voila, the possibility of bigger blocks.
+

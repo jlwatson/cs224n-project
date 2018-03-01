@@ -1,0 +1,21 @@
+
+
+So... I'm working on a patch to add < COINBASE_MATURITY-confirmation
+generation transactions to standard listtransactions, and trying to figure out
+the right way to handle immature generation transactions.  
+  
+Either:  
+a) list them as 'generate' -- they'll just happen to have confirmations < 100
+(100 is the COINBASE_MATURITY, although the GUI doesn't show them until
+confirmations>= 120).  
+  
+b) list them as 'immature' -- a new transaction category.  
+  
+I'm leaning towards (b), because that way apps don't have to know that
+COINBASE_MATURITY is 100, and it is easier to double-check that
+listtransactions agrees with the getbalance API calls (immature coins are
+never counted in balances, because they can't be spent until they mature).  
+  
+The only drawback I can think of is that adding a new transaction category
+might confuse existing code.  
+

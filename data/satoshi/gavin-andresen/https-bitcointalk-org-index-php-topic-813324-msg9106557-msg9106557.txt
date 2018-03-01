@@ -1,0 +1,39 @@
+
+
+Quote from: jonny1000 on October 06, 2014, 06:02:49 PM
+
+Is Gavin saying this should grow at 50% per year because bandwidth has been
+increasing at this rate in the past? Might it not be safer to choose a rate
+lower than historic bandwidth growth? Also how do we know this high growth in
+bandwidth will continue?  
+
+  
+Yes, that is what I am saying.  
+  
+"Safer" : there are two competing threats here: raise the block size too
+slowly and you discourage transactions and increase their price. The danger is
+Bitcoin becomes irrelevant for anything besides huge transactions, and is used
+only by big corporations and is too expensive for individuals. Hurray, we just
+reinvented the SWIFT or ACH systems.  
+  
+Raise it too quickly and it gets too expensive for ordinary people to run full
+nodes.  
+  
+So I'm saying: the future is uncertain, but there is a clear trend. Lets
+follow that trend, because it is the best predictor of what will happen that
+we have.  
+  
+If the experts are wrong, and bandwidth growth (or CPU growth or memory growth
+or whatever) slows or stops in ten years, then fine: change the largest-
+block-I'll-accept formula. Lowering the maximum is easier than raising it
+(lowering is a soft-forking change that would only affect stubborn miners who
+insisted on creating larger-than-what-the-majority-wants blocks).  
+  
+  
+RE: a quick fix like doubling the size:  
+  
+Why doubling? Please don't be lazy, at least do some back-of-the-envelope
+calculations to justify your numbers (to save you some work: the average
+Bitcoin transaction is about 250 bytes big). The typical broadband home
+internet connection can support much larger blocks today.  
+

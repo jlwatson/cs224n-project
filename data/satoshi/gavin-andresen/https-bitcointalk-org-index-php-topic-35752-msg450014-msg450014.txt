@@ -1,0 +1,23 @@
+
+
+-wallet=foo.dat command-line param would be easy (unless you allow an absolute path, in which case the code that detects whether two instances of bitcoind are trying to write to the same wallet would have to be changed).  
+  
+But if you pass it on the command-line, then wallet-stealers can just adapt
+and look in the process list to figure out where the wallet is. If you put it
+in the bitcoin.conf then the wallet-stealers can also look in the bitcoin.conf
+to figure out where it is.  
+  
+I like the 'deterministic wallet' idea that's been floating around (enter a
+~~password~~ passphrase at startup, and keys are magically derived from that
+~~password~~ passphrase and never touch the disk at all).  
+  
+Seems like there would be a clever way of combining that with white-box
+cryptography to make the private keys extremely trojan-resistant.  
+  
+In which case the wallet-stealers will just rewrite the bitcoin address/amount
+after you press the "send coins" button...  
+
+* * *
+
+Edited to replace 'password' with 'passphrase'
+

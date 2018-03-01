@@ -1,0 +1,10 @@
+
+
+Is there a good open source piece of code we can use to test to make sure
+we're generating good entropy?  
+  
+These bugs should be investigated and fixed (Sergio can you open issues on
+github?), but I'd like a test we could periodically run to make sure they stay
+fixed. Even better is if the code could monitor itself and let the user know
+if there's a problem with entropy generation.  
+

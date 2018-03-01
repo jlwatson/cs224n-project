@@ -1,0 +1,15 @@
+
+
+What is the use case for this?  
+  
+Is it just to make it easier to send anonymous donations by typing in Pay To:
+"redcross.org" instead of copying&pasting a bitcoin address?  
+  
+If something like that were implemented, seems like it would just invite the
+same kind of abuse we see with misspelled-domain-squatters-- setup a domain
+record for "redcros.org" pointing to a non-Red Cross bitcoin address and take
+advantage of people's fat-fingered misspellings. One big advantage of bitcoin
+addresses is that they have a built-in checksum, so if you misspell them (or
+screw up the copy&paste) your attempted transaction will be immediately
+rejected.  
+

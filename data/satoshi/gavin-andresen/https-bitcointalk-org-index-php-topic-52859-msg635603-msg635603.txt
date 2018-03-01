@@ -1,0 +1,26 @@
+
+
+Quote from: piuk on November 30, 2011, 04:17:17 PM
+
+A solution this problem would be to have miners include the hash of previous
+ledger and block height they believe to be correct.  
+
+So go implement it and see how well it works.  
+  
+Create a little HTTP-based protocol with, oh, three methods:  
+
+  * You send a block height or block hash, you get back a ledger hash.
+  * You send a ledger hash, you get back the full ledger or an "I have no idea what you're talking about, that's not a valid ledger hash".
+  * You send two ledger hashes, you get back the changes from one to the other or an "I have no idea what you're talking about, one of those isn't a valid ledger hash".
+
+  
+Then you just need to convince a bunch of semi-trustworthy people to run
+"ledger servers." And maybe have some mechanism for reporting when a ledger
+server has a bug or 'goes rogue' and reports a ledger hash that is different
+from everybody else.  
+  
+Oh, and you might need to solve the incentive problem of "why would I run a
+ledger server if I'm not paid for it" (and maybe write a bunch of denial-of-
+service-prevention code in case some jerk with a botnet decides to ask for
+10,000 full ledgers from 10,000 different IP addresses).
+

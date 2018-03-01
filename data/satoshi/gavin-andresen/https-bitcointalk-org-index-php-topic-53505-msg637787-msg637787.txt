@@ -1,0 +1,21 @@
+
+
+How:  
+  
+CNode::Misbehaving(int howmuch) is called when code detects that a peer is
+doing something out-of-the-ordinary. In this case, if a peer sends you a block
+that can't possibly be in the best chain, Misbehaving(100) is called.  
+  
+When a Node accumulates a misbehavior score greater than or equal to
+"-banscore" (default 100), their connection is dropped and their IP address is
+banned from reconnecting for "-bantime" seconds (default 24 hours).  
+  
+When are they un-banned:  
+  
+After -bantime seconds. But the list of banned IP addresses is stored in
+memory, so if you shutdown and restart bitcoin everybody is un-banned.  
+  
+There is no way to see the list of currently banned nodes, but you will see
+"Disconnected n.n.n.n for misbehavior" and "connection from n.n.n.n dropped
+(banned)" in the debug.log.  
+

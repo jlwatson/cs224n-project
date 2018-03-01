@@ -1,0 +1,5 @@
+
+
+Will all of the internationalization/translations from the wxBitcoin port
+straight over to qtBitcoin?  
+

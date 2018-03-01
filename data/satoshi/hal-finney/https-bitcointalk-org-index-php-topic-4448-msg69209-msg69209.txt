@@ -1,0 +1,13 @@
+
+
+Quote from: sipa on March 14, 2011, 09:15:45 PM
+
+Simply by adding reserve keys (which are in fact harder to filter out when
+exporting, since they are available in mapKeys like change keys and used
+keys), you have everything to have a bitkeys file function as a backup or by
+limiting its contents, as an interchange format.  
+
+There's other stuff in wallets, including preferences, address book entries
+for payees, and account information. bitkeys format won't be suitable for
+wallet backup if it loses all this.
+

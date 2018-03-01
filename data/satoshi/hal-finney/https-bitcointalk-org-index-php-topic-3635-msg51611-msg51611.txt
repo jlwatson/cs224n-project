@@ -1,0 +1,8 @@
+
+
+Checking the amount on an address would be very fast. Just scan the block
+chain to determine the balance for every address, and store as a hash table.
+Lookups would be in the nanoseconds, inconsequential compared to EC math.  
+  
+None of this would create network activity.
+

@@ -1,0 +1,40 @@
+
+
+Let's say you're the leader of an open source implementation of Bitcoin, and
+you decide to follow my advice and Know Your Customer.
+
+And you decide your customer is primarily big mining pools and businesses that
+just want a "full node" that runs on the network. Immediately after making
+that big decision, you can make your life much simpler by doing a lot less.
+
+You can drop any code related to maintaining a wallet; big businesses and
+mining pools will have their own multisignature-secure wallets and will have
+somebody who's job it is to make sure they stay secure.
+
+You can drop (or drastically cut back) any graphical user interface code, and
+can drop support for Windows and Mac. Your customers will almost certainly
+tell you they run Linux boxes maintained by sysadmins who aren't afraid of
+terminal windows.
+
+You can drop "deterministic builds" - in fact, you can probably drop packaging
+entirely. Those sysadmins will probably tell you they're happy to compile
+themselves from source (and might tell you they always apply their own
+patches, anyway).
+
+That is a lot of stuff you don't have to worry about, and you can concentrate
+on what your customers _really_ want: absolutely robust (never crashes), fast,
+easy-to-maintain software.
+
+Or maybe you decide your customer is other developers- you want to create a
+"libconsensus" that just embodies the consensus rules. That is even simpler;
+you can drop everything mentioned above and concentrate on building a library
+with a fantastic programming interface that is easy to plug in to other
+projects. Let your customers (or potential customers) tell you what they need,
+whether that's a pluggable database backend or callbacks so a wallet
+application can notify an end-user when certain events happen on the
+blockchain or excellent documentation and sample code.
+
+Learn from other successful, long-lived open source projects. "Do one thing
+well". Stay focused. And don't try to be perfect, just make sure you get
+better over time.
+

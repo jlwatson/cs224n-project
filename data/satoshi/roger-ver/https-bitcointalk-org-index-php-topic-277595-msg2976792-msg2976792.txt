@@ -1,0 +1,13 @@
+
+
+Can someone explain where the source of this issue with the RNG came from?  
+  
+Was it the RNG in:  
+  
+1\. Blockchain.info's browser plugin code?  
+2\. The Browser's code? (Firefox, Chrome, etc)  
+3\. The OS itself? (Windows, OSX, etc)  
+4\. Something else?  
+  
+Thank you for the clarification.  
+

@@ -1,0 +1,25 @@
+
+
+You may have heard me say "Bitcoin is an experiment" before... well, we're
+finding out right now what happens as the experiment scales up.  
+  
+First: I sent a message to the big mining pools, reminding them of the run-
+time options they can set to control the size of the blocks they create. I did
+not tell them what they should or shouldn't do, I think we need to move beyond
+centralized decision-making.  
+  
+I did send them a pointer to this very rough back-of-the-envelope estimate on
+the current marginal cost of transactions:  
+https://gist.github.com/gavinandresen/5044482  
+  
+(if anybody wants to do a better analysis, I'd love to read it).  
+  
+Second: block size is half of the equation. The other half is transaction fees
+and competition for getting included into blocks. All of the bitcoin clients
+need to do a better job of figuring out the 'right' transaction fee, and
+services that generate transactions will have to adjust the fees they pay (and
+are, already).  
+  
+Finally: in my opinion, there is rough consensus that the 1MB block size limit
+WILL be raised. It is just a question of when and how much / how quickly.  
+

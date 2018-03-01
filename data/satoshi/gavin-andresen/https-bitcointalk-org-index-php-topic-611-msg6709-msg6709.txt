@@ -1,0 +1,25 @@
+
+
+Quote from: jgarzik on July 30, 2010, 06:30:40 PM
+
+Quote from: gavinandresen on July 30, 2010, 01:18:06 PM
+
+Couple of quick suggestions:  
+  
+Using the key name "class" will cause problems for, at least, JavaScript, and
+probably other languages where "class" is a reserved word. "type" or "variety"
+or some other synonym will cause fewer problems later.  
+
+  
+Can you be more specific? All mainstream programming language seem sensibly
+insensitive to abitrary string contents, JS included. String content can
+certainly include language-reserved keywords and parsing tokens.  
+
+It's pretty common to turn maps into objects, so you can use syntax like:  
+foo.tx_id  
+... instead of foo['tx_id']. Especially if you're doing something like passing
+the data into a templating system (which may ONLY understand the object.field
+syntax).  
+  
+And foo.class just doesn't work out nicely.
+

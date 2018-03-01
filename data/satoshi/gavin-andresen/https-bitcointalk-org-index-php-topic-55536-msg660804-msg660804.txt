@@ -1,0 +1,40 @@
+
+
+https://github.com/bitcoin/bitcoin/pull/727 :  
+  
+This is designed to work nicely with 'gettransaction' and new 'blockhash'
+information returned in listtransactions; it is modified from the 'getblock'
+that was in my monitorreceived patch.  
+  
+ **getblockhash <index>  
+Returns hash of block in best-block-chain at <index>.  
+**  
+e.g. getblockhash 0 returns
+000000000019d6689c085ae165831e934ff763ae46a2a6c172b3f1b60a8ce26f  
+(genesis block hash)  
+  
+ **getblock <hash>  
+Returns details of a block with given block-hash.  
+**  
+e.g. ./bitcoind getblock $(./bitcoind getblockhash 0) returns the genesis
+block:  
+  
+
+Code:
+
+{  
+"hash" : "000000000019d6689c085ae165831e934ff763ae46a2a6c172b3f1b60a8ce26f",  
+"blockcount" : 0,  
+"version" : 1,  
+"merkleroot" :
+"4a5e1e4baab89f3a32518a88c31bc87f618f76673e2cc77ab2127b7afdeda33b",  
+"time" : 1231006505,  
+"nonce" : 2083236893,  
+"difficulty" : 1.00000000,  
+"tx" : [  
+"4a5e1e4baab89f3a32518a88c31bc87f618f76673e2cc77ab2127b7afdeda33b"  
+],  
+"hashnext" :
+"00000000839a8e6886ab5951d76f411475428afc90947ee320161bbf18eb6048"  
+}  
+

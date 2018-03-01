@@ -1,0 +1,15 @@
+
+
+Thanks for the suggestions and comments, everybody; I think a combination of
+dropping the faucet reward again (I'll start bundling up faucet payments into
+'sendmany' transactions, so the transaction fees are lower) and "community
+watch program" will work.  
+  
+The 'community watch' will be a web page that anybody can see that shows the
+last 100 IP addresses that got payments along with an obfuscated version of
+the email address (I'll obfuscate by randomly turning an email address like
+'gavinandresen@gmail.com' into 'gavniadresen23@gmail.com'). And I'll recruit
+some trusted people and give them access to a master faucet shut-off switch if
+it starts getting abused again.  
+  
+

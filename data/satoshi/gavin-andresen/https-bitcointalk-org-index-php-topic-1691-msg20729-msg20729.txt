@@ -1,0 +1,23 @@
+
+
+The behind-the-firewall nodes will need the following from an on-the-network
+bitcoind:  
+  
+1\. They need to be able to ask it "tell me about any transactions to these
+bitcoin addresses..."  
+2\. They need to be able to send it a signed transaction and ask "Please
+broadcast this for me."  
+  
+Item 1 is implemented in my monitorreceived patch (
+https://github.com/gavinandresen/bitcoin-git/tree/monitorreceived ).  
+  
+Item 2 would be cool. Anybody want to design and develop an "accept
+transaction" patch?  
+  
+All the other functionality needed (like generating public/private keys,
+generating and signing transactions) could be, and should be, in my opinion,
+be done as a project separate from bitcoin. Making the code small and self-
+contained and as secure as possible would be the goal; it could be re-used to
+create a type of lightweight client that ran on cell phones in addition to
+running behind corporate firewalls.  
+

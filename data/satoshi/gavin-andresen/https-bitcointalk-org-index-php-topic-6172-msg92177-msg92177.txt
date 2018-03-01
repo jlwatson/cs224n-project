@@ -1,0 +1,28 @@
+
+
+Quote from: ByteCoin on April 20, 2011, 08:28:41 PM
+
+A better global metric of transaction volume would be the number of
+bitcoindays destroyed.  
+
+  
+Very good idea. Anybody want to implement it? I've got a Python tool that
+walks the block chain gathering transaction statistics:  
+https://github.com/gavinandresen/bitcointools/blob/master/statistics.py  
+  
+Teaching it to compute 'bitcoindays destroyed' shouldn't be terribly hard. I
+think.  
+  
+This morning I taught it to add just the smallest or just the largest output
+in each TxOut and report the range to get an estimate of 'true' transaction
+value being exchanged without counting change TxOuts or mining pool payouts.  
+  
+So, to be conservative, assume that the biggest-value TxOut for every
+transaction is change and the smallest is the actual bitcoins being
+transferred. Taking the smallest TxOut of all the transactions last month, an
+average of about 35,000 BTC were sent per day.  
+  
+This month the average is about 55,000 BTC per day. Add in the MtGox trading
+volume to get a reasonable lower estimate of something like 70-80,000 BTC
+changing hands every day.  
+

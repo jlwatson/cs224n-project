@@ -1,0 +1,10 @@
+
+
+dansmith:  
+  
+Here's a -g build:  
+http://skypaint.com/bitcoin/Bitcoin-Qt-mac-g.zip  
+  
+If I recall correctly, one of the libraries it links with is incompatible with
+10.5.  
+

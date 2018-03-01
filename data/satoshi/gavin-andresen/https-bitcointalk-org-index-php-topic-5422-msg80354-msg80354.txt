@@ -1,0 +1,17 @@
+
+
+Be nice, y'all. Todd emailed me directly and I steered him here because I
+don't have time to talk about economic theory with everybody who emails me
+these days.  
+  
+Todd: if you were designing a new currency, what would it look like? Are you
+imagining a LETS-like system of credit?  
+  
+Bitcoin is designed to be like a scarce natural resource, which is pretty
+conservative, really-- scarce natural resources have a long history of being
+used as currency. I don't know enough about the alternatives to know whether
+or not they could work as an Internet currency-- the LETS systems I've heard
+about all rely on local interactions and trust to keep people from cheating.  
+  
+PS: I'm going to move this thread to the Economics forum.  
+

@@ -1,0 +1,6 @@
+
+
+The CPU miner code has all sorts of now-mostly-worthless (because GPU mining
+is so much more energy-efficient than CPU mining) optimizations. Maybe
+hardened Linux doesn't like the assembly code or SSE instructions?  
+

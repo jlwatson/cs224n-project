@@ -1,0 +1,40 @@
+
+
+Quote from: Xenland on April 16, 2012, 01:13:20 AM
+
+Make that $20 with this new information.  
+
+  
+If we are going to do it, I would like to do it right.  
+  
+I just registered the domain name www.bitcoinchipin.com  
+  
+The landing page will have instructions for how it works.  
+  
+The user will input:  
+  
+1\. Their target amount in BTC or USD  
+2\. The Bitcoin address to be used  
+3\. The title for the chipin  
+  
+The user can click "submit" and be provided with the HTML code  
+that they can copy and paste wherever they want to display the chipin.  
+  
+The output will display:  
+  
+1\. Title of the chipin  
+2\. Amount received in USD or BTC  
+3\. Target amount in USD or BTC  
+4\. A graph showing the percentage amount currently reached towards the goal.  
+5\. The Bitcoin payment address  
+6\. A link to learn more about Bitcoins www.weusecoins.org  
+7\. Anything else I am forgetting.  
+  
+  
+The service will need to be professionally hosted, and reliable if we expect
+people to use it.  
+I'm willing to pay for the domain name and hosting, but I will need help with
+everything else.  
+  
+Please let me know if you would like to revise your quote.  
+

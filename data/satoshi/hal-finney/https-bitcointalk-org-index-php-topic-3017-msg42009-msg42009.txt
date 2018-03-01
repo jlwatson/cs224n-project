@@ -1,0 +1,31 @@
+
+
+Several people have mentioned they are working on mobile clients (at least
+Android, don't know about iOS). But I haven't seen much discussion of the
+design in terms of security and performance issues.  
+  
+In another thread,
+http://bitcointalk.org/index.php?topic=2957.msg41905#msg41905, [mike] made a
+provocative comment: "1) Are you trying to make an Android client? You don't
+want to verify transactions if so."  
+  
+Can mobile clients get away without verifying transactions? Maybe they could
+just rely on the block chain. Any transaction in a block that has enough
+confirmations is considered to be good. Checking blocks is both easy and
+quick, pretty much just hashing.  
+  
+The one problem I see would be a possible delay in knowing that payments to
+you are valid. It wouldn't matter for payments to merchants who can run
+regular clients, but payments from one mobile user to another might be slow to
+be validated.  
+  
+Another possible shortcut would be for mobile clients not to forward blocks,
+transactions, and addresses the way regular clients do. Network transmissions
+draw a lot of power. Mobile nodes could just leech. If they don't process
+transactions, they wouldn't even need to read those.  
+  
+iOS doesn't have true multitasking. I don't think a client could receive the
+block chain in the background. Android presumably doesn't have this problem,
+but the question would be impact on battery life to keep the client running
+all the time.
+

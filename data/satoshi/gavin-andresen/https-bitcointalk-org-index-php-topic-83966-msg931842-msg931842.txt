@@ -1,0 +1,11 @@
+
+
+There will be 2.1 quadrillion satoshis.  
+  
+There are approximately 770 trillion pennies in the US M2 money supply.  
+  
+We've got a VERY VERY long way to go before bitcoins are as popular as
+dollars, and there are much higher priority things to work on right now than
+adding more divisibility for a problem that is pretty likely to never actually
+be a problem.  
+

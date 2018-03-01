@@ -1,0 +1,15 @@
+
+
+Quote from: cypherdoc on December 29, 2012, 05:48:42 AM
+
+do you sell ubuntu laptops? i get nothing when i search for "linux or ubuntu
+laptop".  
+
+  
+Unfortunately none of the major manufacturers seem to support this kind of
+thing.  
+I think the best I can do at this point is recommend asking someone like
+www.system76.com to accept bitcoins,  
+or buy a standard laptop from bitcoinstore.com and install ubuntu on it once
+you receive it.
+

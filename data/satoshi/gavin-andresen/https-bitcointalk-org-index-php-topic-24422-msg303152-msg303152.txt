@@ -1,0 +1,41 @@
+
+
+One of Bitcoin's major challenges is the legal uncertainty surrounding it.  
+  
+It is really no different from other new Internet technologies (should Skype
+be regulated like a phone company? Does google's deep-linking violate
+copyright? ... to give two examples from a few years ago...), but because it
+is money there are a lot more laws and regulations that may or may not apply.  
+  
+It'd be easy to ignore that and just damn the torpedoes, full steam ahead with
+the technology. And given the nature of geeks on the Internet, that is what is
+going to happen anyway... but I decided it wouldn't hurt to try to be
+proactive and start a conversation with my representatives in Washington, DC
+about the Bitcoin Project.  
+  
+So I met briefly with staffers from Rep. Olver and Sen. Brown's offices
+yesterday. I gave a very brief overview of bitcoin, mentioned Senator
+Schumer's "eradicate Silk Road" press conference, and stressed that Bitcoin is
+meant to be a stable, secure, international currency for the Internet, NOT a
+currency for criminals.  
+  
+I also mentioned that the legal uncertainty is a barrier to innovation, and
+asked for advice on what, if anything, could be done about that. There is no
+good answer-- government moves really slowly, and they're wedging newfangled
+Internet ideas into legal structures that were created when telephone were the
+latest and greatest technology.  
+  
+However, the house of representatives staffer I talked with did suggest that
+encouraging you-all to introduce yourselves to your congressperson's staff is
+a good idea. If they know that interesting, job-creating bitcoin businesses
+are happening in their districts and they've met the person making it happen,
+then they're **much** more likely to support bitcoin-friendly legislation.  
+  
+So, if you're an upstanding, law-abiding, clear-thinking citizen doing
+interesting things with Bitcoin, I encourage you to take a little time and
+introduce yourself to your representative's staff. I wouldn't bother talking
+to the representative-- they're probably too old to really understand bitcoin
+("Tubes! Money through the tubes I say!"). Talk to a 20-something staffer who
+grew up with the Internet and is likely to be a lot more sympathetic to the
+idea of a peer-to-peer Internet money.  
+

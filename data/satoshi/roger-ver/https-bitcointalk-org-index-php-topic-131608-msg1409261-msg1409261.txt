@@ -1,0 +1,16 @@
+
+
+Quote from: ThomasV on December 19, 2012, 02:43:04 PM
+
+I just wanted to mention that a skilled blockchain.info admin can perfectly
+steal your funds. He just needs to change the javascript sent to your browser
+in order to get your password.  
+  
+
+  
+This is not true.  
+  
+See here: https://blockchain.info/wallet/verifier  
+  
+It should also be noted that ThomasV runs a competitor to Blockchain.info
+

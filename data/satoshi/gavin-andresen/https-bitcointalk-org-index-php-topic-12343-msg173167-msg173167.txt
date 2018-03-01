@@ -1,0 +1,34 @@
+
+
+RE: Fee sheet: won't work, miners will lie to get higher fees.  
+  
+RE: analyzing previous blocks to determine fees: I think it could work.
+Keeping track of how long transactions take to get into a block and looking at
+what transactions are in past blocks would, I think, work pretty well.
+Until/unless the criteria for including transactions gets really complicated.
+And new clients that haven't seen many transactions (and so can't tell how
+long prior transactions had to wait before being included in a block) might be
+an issue.  
+  
+When we have multiple client implementations one of the ways I imagine they'll
+compete is to have smarter calculate-the-optimal-fee algorithms ("Use
+SpiffyBits(tm) and pay 2% lower transaction fees than the original bitcoin
+client!").  
+  
+RE: hashcash for transactions: that is exactly equivalent to fees (because you
+could be hashing to earn block rewards instead of hashing to get your
+transactions accepted).  
+  
+RE: limiting number of small/free transactions that can go through a node in a
+given timespan: we're already doing that.  
+  
+RE: canceling transactions: are there really people who would rather have
+their transaction tied up for half a day because they don't want to pay a
+half-a-penny fee?  
+  
+RE: randomly dropping low-priority txns: interesting idea. I've been thinking
+that dropping the connection to a peer that is sending you "too many" low-
+priority transactions might be a good idea (where "too many" is maybe N
+standard deviations away from the number your average peer is sending you...
+or something....)  
+

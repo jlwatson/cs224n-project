@@ -1,0 +1,7 @@
+
+
+PS: The 'accounts' feature doesn't scale well past a dozen or two accounts
+each with a few hundred transactions. It could (need to add some indices to
+the database so looking up transactions by account and/or time is quick), but
+doing that work hasn't been a high development priority.  
+

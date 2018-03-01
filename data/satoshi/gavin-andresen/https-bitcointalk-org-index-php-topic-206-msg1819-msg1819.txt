@@ -1,0 +1,11 @@
+
+
+Turning on the CAPTCHA for everybody has slowed the flow of coins from the
+faucet to a very manageable trickle.  
+  
+Oh, and regarding anonymity versus non-anonymity: I was careful not to tie IP
+addresses to Bitcoin addresses when implementing the Bitcoin Faucet. So I
+remember that somebody at IP address 96.240.216.119 received bitcoins at
+12:30pm today. And I remember that somebody with Bitcoin address
+1P3rpbSybuGgeL1bRwCJFWbn4yBjRNQrbY
+

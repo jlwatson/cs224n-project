@@ -1,0 +1,6 @@
+
+
+No, bad idea, two chains cannot peacefully coexist for more than a few dozen
+blocks, they would eventually make a complete mess out of users' wallets.  
+  
+

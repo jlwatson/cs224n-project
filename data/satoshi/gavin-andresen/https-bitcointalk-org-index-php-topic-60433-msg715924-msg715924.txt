@@ -1,0 +1,11 @@
+
+
+Quote from: Inaba on January 27, 2012, 03:31:59 AM
+
+I'll have to review the BIP format and requirements, but I can probably put
+something together. It's based on the Python development RFC format or
+something, yeah?  
+
+Yes, BIPs are based on PIPs and BEPs (for Python and BitTorrent). See BIP 0001
+for the process.
+

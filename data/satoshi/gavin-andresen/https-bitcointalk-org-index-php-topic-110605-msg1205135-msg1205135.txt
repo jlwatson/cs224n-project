@@ -1,0 +1,12 @@
+
+
+Quote from: paulie_w on September 19, 2012, 03:44:40 PM
+
+gavin i'm sure you know how to use a virtual machine to run older versions of
+osx right?  
+
+I'm sure I could figure it out, but I don't have a copy of osx 10.5 to run,
+won't pirate it, and don't feel like spending $60 to pick up a copy on Ebay.
+I'd rather not spend the half a day it would take me to set up a development
+environment in a VM, too....
+

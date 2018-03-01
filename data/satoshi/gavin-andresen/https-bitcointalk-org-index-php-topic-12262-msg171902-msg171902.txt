@@ -1,0 +1,13 @@
+
+
+Quote from: Raulo on June 05, 2011, 01:47:50 PM
+
+Somebody joked that AMD should test their cards on mining in factories.  
+
+If I worked at AMD, I'd suggest that.  
+  
+I started my professional career at SGI, writing 3D graphics demos and
+benchmarks, some of which were used to "burn in" the new hardware. Running a
+bitcoin miner along with a couple graphics demos (to exercise all the graphics
+hardware) might be a good way for ATI to make money on their burn-in process.  
+

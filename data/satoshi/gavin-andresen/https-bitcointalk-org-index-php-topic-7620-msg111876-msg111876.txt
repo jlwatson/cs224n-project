@@ -1,0 +1,24 @@
+
+
+Quote from: bitlotto on May 08, 2011, 11:52:15 PM
+
+This has got me thinking. When transactions occur the coins get "broken up" if
+needed to make the payment with some change sent back to you. Wouldn't that
+mean that slowly the coins will get broken up smaller and smaller with time
+causing the kb for the transaction to go up, making the data required for
+transactions to slowly go up?  
+
+  
+They tend to get put back together when you send larger payments.  
+  
+The algorithm that the current bitcoin client uses isn't the best possible
+algorithm for deciding when to combine or split coins; ideally, it would have
+some notion of how big your average transaction would be, and when sending
+coins it might split change or combine extra coins to make change that is
+about that big (so the next time you make a transaction there are old,
+previous, high-priority transactions it can use).  
+  
+If you ask nicely, I bet tcatm or somebody else will create a little web
+service that could tell you how long you have to wait for a 0.10 (or whatever)
+coin to mature before you can send it without a fee.  
+

@@ -1,0 +1,24 @@
+
+
+Quote
+
+I'm not saying there's no place for a trust network, either in place of mining
+or in addition to it (maybe "I trust these nodes would never engage in an
+attack on the network"), but I think it's important to keep in mind that the
+future will most likely look nothing like the present.
+
+  
+I would argue that it will be even more consolidated. There will just be a few
+large mining operations and some big pools. This makes the issue of trust even
+worse.  
+  
+
+Quote
+
+Bitcoin is not wasteful, even now. It's several orders of magnitude more
+energy efficient than the fiat currency systems in use around the world.
+
+Just because it is less wasteful than another wasteful thing doesn't make it
+not wasteful. You are basically saying: "The model-T is much faster than the
+horse. There can't be anything faster!"
+

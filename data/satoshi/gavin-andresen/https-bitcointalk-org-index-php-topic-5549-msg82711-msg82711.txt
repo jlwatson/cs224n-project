@@ -1,0 +1,18 @@
+
+
+Transaction spam is not a high-priority issue, in my humble opinion, and I
+don't think we need to do anything more right now.  
+  
+We were running into big free-transaction backlogs because of the rise in
+popularity of the mining pools, but with the big pools now using the new
+sendmany feature to pay (with a transaction fee) their users that issue has
+gone away.  
+  
+The improved -limitfreerelay and sendmany will both be in the next release,
+which should further improve the situation. And I think in the next few months
+lightweight download-headers-only clients will start to appear.  
+  
+I would much rather see work on optimizing the network protocol so that hashed
+of already-spent transactions deep in the block chain aren't sent to (or
+stored on) new nodes joining the network.  
+

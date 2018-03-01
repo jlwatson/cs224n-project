@@ -1,0 +1,20 @@
+
+
+RE: protecting an innocent person: any lawyers here?  
+  
+I have trouble believing that you could get into legal trouble for having
+illegal incidental data from legitimate activities on your computer. If you
+_can_ , then we're all in trouble, because it is very easy to put illegal data
+in your web browser's cache (JPEG and other image file formats let you store
+arbitrary, not-normally-shown metadata, for example). I don't think it would
+be hard to convince a jury that the block-chain is like your web browser's
+cache-- full of lots of incidental stuff that is needed for the system to
+work, but doesn't have anything to do with you. Now if you happen to have one
+of the private keys involved in the illegal transactions, THEN you should go
+directly to jail....  
+  
+Adding code to "shun" certain spend-able transactions wouldn't be hard,
+although I think that's a bad idea for the same reason it is a bad idea to
+respond to trolls on forums-- you'd just encourage the bad guys by drawing
+attention to their misbehavior.  
+

@@ -1,0 +1,53 @@
+
+
+Quote from: Equus on September 11, 2013, 04:31:35 AM
+
+I actually blame this mostly on BitcoinStore.  
+
+  
+You not sending the payment in time is my fault?  
+OK....  
+  
+
+Quote from: Equus on September 11, 2013, 04:31:35 AM
+
+They could have registered me and my order before passing me to the BitPay
+process.  
+
+  
+Actually we had it setup like this before and we had dozens of orders per day
+entered into the system that people never paid for. It was a nightmare to deal
+with. The current system is much better.  
+  
+
+Quote from: Equus on September 11, 2013, 04:31:35 AM
+
+They could have given me a clear warning about having 15 minutes to get the
+money to them.  
+They say: "Do not use CoinBase if you wish to receive your order," which I now
+realize is a cryptic reference to this exact situation.  
+Instead, this could read: "Once the payment step begins you will have 15
+minutes for your BTC transfer to be confirmed in the blockchain, otherwise
+this order may be cancelled and your money returned."  
+
+  
+You are right, and this will be updated by tomorrow.  
+  
+  
+
+Quote from: Equus on September 11, 2013, 04:31:35 AM
+
+I am willing to share half the blame with BitPay. I should have expected a
+bitcoin checkout to be more fussy than a Visa checkout. They should be as good
+as Visa at tracking the money that people send them.
+
+  
+I don't see how you not sending the payment in time is Bitpay's fault,
+although it is now their responsibility to track down your bitcoins.  
+You have never had a traditional shopping cart checkout time out when you
+didn't enter your CC information fast enough?  
+This seems like an analogous situation to me.  
+  
+In the future, please don't use hosted wallets when you actually want the
+payment to be sent at a specific time.
+

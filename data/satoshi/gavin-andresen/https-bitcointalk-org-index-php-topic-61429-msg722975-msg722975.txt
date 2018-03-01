@@ -1,0 +1,23 @@
+
+
+Quote from: Gavin Andresen on January 28, 2012, 05:08:19 PM
+
+A bug in my code is dropping transaction fees from the block reward. Simple to
+fix, and obvious in hindsight; I will be personally reimbursing everybody who
+got bit by this bug by finding the blocks affected by this, figuring out what
+transaction fees the creators SHOULD have received, and sending that number of
+bitcoins to the block-award address.  
+
+  
+Transaction sent:
+2d3006cf1e16cb9f4097894fdaa0739c66d38eb9e0356be3fd8daf63810cf375  
+  
+I wrote some code that found all blocks with "/P2SH/" in their coinbase that
+did not include transaction fees in the block reward. I extracted the block
+reward payment address (or addresses, if it was a p2pool block) and reimbursed
+those addresses.  
+  
+If the amount would be less than 0.0011 bitcoins, then I rounded the amount
+awarded up to 0.0011. Just because eleven is my favorite number (well, and
+because I like the idea of rewarding p2pool users, I think p2pool is neat).
+

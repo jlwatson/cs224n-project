@@ -1,0 +1,32 @@
+
+
+When I tell people I work on Bitcoin full-time, a somewhat common reaction is
+"Really? I thought Bitcoin was finished, what do you work on?"  
+  
+I spend half my development time working on new stuff (or testing new stuff
+that other people have submitted), but the other half I spend trying to
+anticipate problems or reacting to problems that are reported. That work tends
+to be unseen, partly because we want to keep problems quiet while we fix them
+and partly because quietly anticipating/fixing problems minimizes the 'lulz'
+that attackers might enjoy if every single-node-DoS attack caused us to run
+around like chickens with our heads cut off.  
+  
+Anyway, good developers are hard to find, and one of the reasons I'm not
+thrilled by all of the AlternaCoins is because I'd rather a good developer
+help make Bitcoin better rather than spend their time with the busy-work of
+cross-porting the latest Bitcoin fixes to some other codebase. I would guess
+that some of the developers of the alternative chains underestimated the
+amount of work it takes to nurture them and keep them healthy. Maybe that will
+change when Bitcoin is truly mature and has dealt with another year or two or
+six of attacks and scaling issues...  
+  
+I truly don't mean this to sound like a threat, but I think some of the
+blockchains that have been chugging along running on an ancient forked version
+of the Bitcoin codebase will be attacked; pretty soon we'll be fully
+disclosing the denial-of-service bugs that prompted the 0.6.2/0.6.3 releases,
+and it is highly likely **somebody** will decide to play with exploit code on
+a vulnerable chain.  
+  
+I wish people would find more constructive things to do with their time, but I
+wish I could fly and never get old like Peter Pan, too.  
+

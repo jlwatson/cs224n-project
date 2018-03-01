@@ -1,0 +1,16 @@
+
+
+Optimizing the accounts code to add a berkeley db index table that indexed
+wallet transactions by account, and that cached account balances (and
+invalidated or updated the cache on receive/send) shouldn't be terribly hard
+for somebody who already knows c++ and berkeley db.  
+  
+It is not on my short-term TODO list because there are too many other higher
+priority things on my TODO list, but a nice clean well-tested upward-
+compatible patch would be most welcome.  
+  
+PS: for ClearCoin, I used the "bitcoind keeps track of the bitcoins"
+architecture, and I never regretted it-- no problems with synchronization,
+less possibility for MtGox-like hacks that create mythical bitcoin balances
+out of thin air by adding an entry to a database.  
+

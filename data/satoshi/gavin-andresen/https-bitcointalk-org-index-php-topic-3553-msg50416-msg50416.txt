@@ -1,0 +1,8 @@
+
+
+The linux binaries are built on Ubuntu 9.04; that's the earliest ubuntu that
+has all the required dependencies.  
+  
+Ubuntu and Debian are kissing cousins; Debian 5 would be a good choice if they
+don't have an Ubuntu that's more recent than 8.10.  
+

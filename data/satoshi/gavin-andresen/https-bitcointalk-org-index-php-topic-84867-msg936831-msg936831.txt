@@ -1,0 +1,12 @@
+
+
+How would you use a 'getaddressbalance'? What are you trying to do?  
+  
+Start with an empty wallet. I send you 100 BTC to address 'foo'. Then you send
+somebody else 1 BTC.  
+  
+Internally, a new change address with ~~49~~ (edit: 99) bitcoins is created,
+so getaddressbalance 'foo' would return zero. Would that ever be the right
+answer?  
+  
+

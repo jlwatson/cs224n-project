@@ -1,0 +1,37 @@
+
+
+Quote from: casascius on December 14, 2010, 04:49:00 PM
+
+Quote from: davout on December 14, 2010, 04:44:47 PM
+
+What exactly are you trying to acomplish here ?  
+  
+
+  
+To put a donate button on a website that generates a brand new address on
+demand for everyone who wants to donate, so all the donors don't donate to a
+common address that can tie everyone together.  
+  
+If there was a language of choice, perhaps it would be Javascript, so it
+happened all in the browser. Of course there has to be some way to get the
+generated keypair to the recipient, like e-mail or whatever, but somebody else
+can figure that out.  
+
+  
+Simplest way:  
+  
+Call getaccountaddress "charity_name" when you generate the web page. You'll
+get the same address over and over, until somebody donates. Then you'll get a
+new address.  
+  
+Then periodically call:  
+getbalance "charity_name"  
+... and if the balance is greater than zero, call:  
+sendfrom "charity_name" charity_real_bitcoin_address amount  
+  
+... to send the charity the accumulated coins.  
+  
+If you deal with several charities this way, AND you're bundling up several
+donations before forwarding the coins to the charity, then it'll be hard to
+connect donors to particular charities.  
+

@@ -1,0 +1,19 @@
+
+
+We updated the translations and fixed two serious-enough-to-be-showstopper
+bugs, and 0.6 release candidate 6 is available at:  
+https://sourceforge.net/projects/bitcoin/files/Bitcoin/bitcoin-0.6.0/  
+  
+The two bugs (both caused by changes between release candidates 4 and 5, of
+course!) were:  
+  
+1\. Creating over a gigabyte of transaction logs during initial blockchain
+download. You should now see both a fast download and no more than 120MB of
+log files created.  
+  
+2\. A few people upgrading from previous releases couldn't get past the
+'loading addr.dat' phase of startup.  
+  
+I hope to repackage this as the final 0.6.0 release tomorrow; if you can help
+sanity test, please do!  
+

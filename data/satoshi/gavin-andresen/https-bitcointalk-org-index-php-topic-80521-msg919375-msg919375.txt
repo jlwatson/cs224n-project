@@ -1,0 +1,14 @@
+
+
+Your unit tests look like they'll miss lots of edge cases.  
+  
+I've been working on cross-implementation unit tests for Script, and am
+actually working on more tests today (and am working on a testnet reset that
+will embed the "should validate" tests into the testnet block chain).  
+  
+JSON format tests are here:  
+https://github.com/bitcoin/bitcoin/tree/master/src/test/data  
+  
+(read by
+https://github.com/bitcoin/bitcoin/blob/master/src/test/script_tests.cpp )
+

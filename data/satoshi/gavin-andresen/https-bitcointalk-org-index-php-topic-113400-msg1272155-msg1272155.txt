@@ -1,0 +1,52 @@
+
+
+RE: do I have gazillions of bitcoins:  
+  
+I've said before that I have "thousands of bitcoins, not tens or hundreds of
+thousands of bitcoins." I have mined a grand total of 250 bitcoins--
+electricity here is not particularly cheap, and I'm a software kind of guy,
+not a hardware hacker. So it always made more sense for me to buy bitcoins
+rather than mining them.  
+  
+I would definitely be wealthier right now if I had been working as the CTO for
+a company for the last two years and had never heard of Bitcoin.  
+  
+RE: what work will I do:  
+  
+I will continue doing what I've been doing-- trying to focus on work that
+benefits all of Bitcoin and not one particular company. That is the kind of
+work that falls through the cracks-- why would one company pay for cross-
+implementation compatibility tests? Sure cross-implementation compatibility is
+really important for the stability of the Bitcoin network, but as long as the
+implementation THEY'RE using works properly then why would they spend extra to
+make life easier for other implementations?  
+  
+Or a company might fund the development of anti-denial-of-service techniques,
+but once they do, why would they want to share that with their competitors?
+Being more denial-of-service-resistant might give them a competitive
+advantage...  
+  
+TruCoin paid me a salary for a couple of months last year to do core
+development work (and paid Alex Waters to start doing Q/A for core
+development), but TruCoin ran into funding problems of their own and stopped
+paying us to concentrate on their own projects.  
+  
+Creating a Foundation is a proven, well-established way for projects to solve
+the free-rider problem of funding core development that benefits everybody.
+Over time, I hope to be working less on the reference implementation and more
+on "Chief Scientist" stuff, like organizing working groups to write best
+practices documents or work out agreements on changes that might be necessary
+to the core protocol to support more transactions, better privacy, advances in
+quantum computing, hiring or recruiting experts to do security reviews of
+proposed new stuff, etc.  
+  
+RE: voting:  
+  
+Great ideas! I think I'll be pushing to start with a good old-fashioned "send
+you a letter with a PIN number to your mailing address" as the first step to
+preventing voter fraud. We'll have to have a much more extensive discussion of
+voting procedures before it is time to vote. I'll probably push to follow the
+lead of other successful organizations, and to do the Simplest Possible Thing
+That Will Work-- which might be hiring a disinterested high-reputation company
+who specializes in running elections for organizations.  
+

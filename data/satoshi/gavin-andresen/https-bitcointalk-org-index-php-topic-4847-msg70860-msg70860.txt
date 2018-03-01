@@ -1,0 +1,30 @@
+
+
+Quote from: epii on March 23, 2011, 09:02:36 PM
+
+Am I correct in my understanding that:  
+a) There is a single block chain for the whole world at all times  
+
+  
+No. The end of the chain can, and does, fork, but the forks are short and the
+network pretty quickly decides on the One True Chain.  
+  
+
+Quote
+
+b) The block chain contains a record of every bitcoin transaction that has
+ever taken place  
+
+Yes.  
+
+Quote
+
+c) The entire block chain must be downloaded in order for a client to use
+bitcoin  
+
+Short answer: no.  
+  
+Longer answer: it is complicated, and what you need depends on whether or not
+you're trying to generate new blocks. To keep it simple, the original client
+downloads everything.  
+

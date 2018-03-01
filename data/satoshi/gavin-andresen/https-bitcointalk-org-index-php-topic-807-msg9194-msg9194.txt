@@ -1,0 +1,26 @@
+
+
+Quote from: satoshi on August 13, 2010, 11:39:14 PM
+
+It's too soon to start junking up the API for backward compatibility at all
+costs.  
+Just return "<txid>".  
+
+You'll never hear me argue with "keep it simple."  
+  
+Patch for that is trivial:  
+
+Code:
+
+diff --git a/rpc.cpp b/rpc.cpp  
+index 920fe90..35a336f 100644  
+\--- a/rpc.cpp  
++++ b/rpc.cpp  
+@@ -364,7 +364,7 @@ Value sendtoaddress(const Array& params, bool fHelp)  
+string strError = SendMoneyToBitcoinAddress(strAddress, nAmount, wtx);  
+if (strError != "")  
+throw runtime_error(strError);  
+\- return "sent";  
+\+ return wtx.GetHash().ToString();  
+}  
+

@@ -1,0 +1,9 @@
+
+
+Quote from: capsqrl on July 16, 2012, 08:08:28 PM
+
+Do I have to put it into a truecrypt/encfs container to get the kind of
+protection I expected?  
+
+Yes.  
+

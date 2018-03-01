@@ -1,0 +1,30 @@
+
+
+Quote from: justusranvier on February 19, 2015, 03:46:49 PM
+
+I think there's a large amount of cargo culting going on regarding the hash
+rate rather than useful analysis of threat models, attacker capabilities, and
+exactly what proof of work accomplishes.  
+
+  
+I agree.  
+  
+My guess is that we will end up with a very secure system with a modest amount
+of hashing in the future, because PoW hashing does three things:  
+  
+1) Gives a steady 10-minute 'heartbeat' that limits how quickly new coins are
+produced  
+2) Makes it expensive to successfully double-spend confirmed transactions  
+3) Makes it expensive to censor transactions  
+  
+The first becomes less important over time as the block subsidy halves.  
+  
+I think we could do a lot to mitigate the second (see
+https://gist.github.com/gavinandresen/630d4a6c24ac6144482a for a partly-baked
+idea).  
+  
+And I think the third might be mitigated naturally as we scale up and optimize
+the information sent across the network (there will be strong incentives to
+create "boring" blocks that don't include or exclude transactions everybody
+else is excluding or including).  
+

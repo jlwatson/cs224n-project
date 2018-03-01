@@ -1,0 +1,15 @@
+
+
+My worry is that we'll schedule a blockchain split 6 months from now, and
+between now and then somebody implements a secure, way-cool, everybody-
+decides-to-use, way to use your email address as a bitcoin address.  
+  
+So my receiving address is 'gavinandresen@gmail.com' and suddenly all the
+arguing over length of the bitcoin addresses used behind the scenes was just a
+huge waste of time.  
+  
+I'm as guilty of doing stuff like that as the next geek-- I can get so focused
+on one little bit of a problem I don't even realize solving a larger problem
+makes the whole issue go away. Slap me upside the head if you see me going
+down that path...
+

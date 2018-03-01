@@ -1,0 +1,7 @@
+
+
+I fixed ClearCoin (restarted the bitcoind daemon) as soon as I got home; I
+apologize again for the service interruption. I can't yet promise it won't
+happen again-- I'm still a single point of failure for ClearCoin. But I'm
+working on changing that.  
+

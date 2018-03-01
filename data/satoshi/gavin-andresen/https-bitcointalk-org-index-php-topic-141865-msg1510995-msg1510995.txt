@@ -1,0 +1,22 @@
+
+
+Got a fantastic idea for a project, but need some BTC to make it happen?  
+  
+Apply for a grant from the Bitcoin Foundation:  
+https://bitcoinfoundation.org/blog/?p=58  
+  
+Deadline is February 15'th.  
+  
+Good grant proposals are for things that are clearly a benefit to the whole
+Bitcoin ecosystem and that are the kind of "common good" thing that doesn't
+have a clear business plan. (if you have an idea with a clear business plan
+then you should talk to an angel investor or venture capitalist to get some
+funding).  
+  
+Examples (I'm sure you can think of better):  
+  
+
+  * I'd love to see somebody run a free input-mixing service. A grant could cover server costs to run a server that takes connections over tor to coordinate mixes.
+  * Know any economists? A grant could pay to write some tools to extra bitcoin transaction data for an enterprising economist who might want to study the Bitcoin economy.
+  * There have been some very interesting research papers suggesting possible changes to core Bitcoin. A grant might pay for somebody to actually implement the ideas and demonstrate them on the -testnet.
+

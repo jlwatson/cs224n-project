@@ -1,0 +1,46 @@
+
+
+Thanks for all the positive, constructive feedback (those of you who gave
+positive, constructive feedback). I'm not going to address conspiracy
+theories, mostly because I'm not seeing most of them because of who I've got
+on my ignore list.  
+  
+The points people made here about the Foundation making Bitcoin MORE
+decentralized are, from my point of view, exactly right. To take one example,
+I don't want to be the centralized decision-maker who figures out who should
+or should not be on the bitcoin-press mailing list that is on the bitcoin.org
+homepage any more. To take another: if there is money for the development
+team, I don't want to decide how to split it up (I've got an obvious conflict
+of interest).  
+  
+RE: why Peter and why not anonymous members and why DC and why not a different
+process to start:  
+  
+Because I'm pragmatic. I like to actually get things accomplished instead of
+endlessly talking about doing things. Everybody on the initial Board are
+people who get things done.  
+  
+My biggest fear is not that the Foundation will become some massively powerful
+entity controlling Bitcoin; my biggest fear is that the Foundation will turn
+into Yet Another Ineffective Bureaucracy, employing a few people who do
+nothing but put out meaningless press releases.  
+  
+RE: confirmation-of-payment emails: that will be done soon.  
+  
+RE: bylaws:  
+  
+In the spirit of openness, the Foundation bylaws are on github:  
+https://github.com/pmlaw/The-Bitcoin-Foundation-Legal-Repo/tree/master/Bylaws  
+
+Quote
+
+These bylaws are distributed under the MIT License and may be forked for use
+in creating any new member-driven nonprofit corporation or for any other use.
+
+  
+Creating forums or mailing lists where Foundation members can communicate is
+on the very short-term TODO list.  
+  
+Thanks again to everybody who has already joined, it is exciting to see people
+from all over the world get involved!  
+

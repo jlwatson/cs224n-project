@@ -1,0 +1,28 @@
+
+
+Quote from: amaclin on October 28, 2014, 03:30:41 PM
+
+This is _petra scandali_ and it does matter.  
+In decentralized systems every node have to check everything, so the cost for
+checking is O ( nodes * txs )  
+
+  
+You seem to have a very narrow definition of "decentralized system."  
+  
+In the future I imagine nodes might probabilistically check a random subset of
+transactions, and broadcast "this transaction is fraudulent" if they find
+anything wrong. If you imagine a million nodes, each fully validating one-in-
+ten-thousand transactions then you get each transaction validated on average
+100 times.  
+  
+That's not so different from your 'treechains' idea (just simpler and easier
+to reason about, in my humble opinion).  
+  
+If you think that hardware costs are going to dominate decentralized-versus-
+centralized payment network costs, then I think you're wrong. Hardware is
+cheap, people are expensive.  
+  
+But all of this is really arguing angels-dancing-on-the-heads-of-pins; we've
+got years before we have to worry about how to fund network security, and a
+whole lot of things to work on before then.  
+

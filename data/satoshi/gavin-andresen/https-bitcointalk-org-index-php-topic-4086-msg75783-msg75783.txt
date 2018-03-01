@@ -1,0 +1,24 @@
+
+
+Quote from: error on March 30, 2011, 06:46:15 PM
+
+The main problem is that floating point is not sufficient to accurately store
+a Bitcoin balance  
+
+  
+An IEEE double-precision floating point number has 53 bits of precision, which
+IS sufficiently accurate to store a bitcoin balance.  
+  
+Every single possible bitcoin value can be converted to and from an IEEE
+64-bit float with no loss of precision.  
+  
+I agree that if you're going to be performing lots of calculations on bitcoin
+values you need a Decimal type (and ClearCoin stores and uses python's
+decimal.Decimal(precision=8) for all bitcoin values)-- if you don't, floating
+point errors can accumulate and eventually cause you to gain or lose .00000001
+of a coin.  
+  
+But really the main problem with storing monetary values as any floating point
+type is you're likely to be embarrassed by mistakes like error's cash register
+receipt if you truncate values instead of rounding before printing.  
+

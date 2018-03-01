@@ -1,0 +1,24 @@
+
+
+I implemented "validateaddress" in svn r169:  
+  
+  
+$ ./bitcoind validateaddress '1P3rpbSybuGgeL1bRwCJFWbn4yBjRNQrbY'  
+{  
+"isvalid" : true,  
+"address" : "1P3rpbSybuGgeL1bRwCJFWbn4yBjRNQrbY",  
+"ismine" : true  
+}  
+$ ./bitcoind validateaddress '1111111111111111111114oLvT2'  
+{  
+"isvalid" : true,  
+"address" : "1111111111111111111114oLvT2",  
+"ismine" : false  
+}  
+$ ./bitcoind validateaddress 'mwFzbfqePwXUyT28e1kFVVh48uMHDsRzbi'  
+{  
+"isvalid" : false  
+}  
+  
+No address version number; that wasn't trivial to do, so I didn't do it.
+

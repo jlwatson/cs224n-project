@@ -1,0 +1,20 @@
+
+
+Quote from: Luke-Jr on February 27, 2012, 02:27:02 AM
+
+Yes, the problem with BIP 16 is obvious and I and others have discussed it
+enough. Read the BIP, or at least genjix's summary.  
+
+In my humble opinion, this kind of trash talk against BIP 16 is bad for
+Bitcoin.  
+  
+The poll in this thread says the community prefers BIP 16.  
+  
+The chart on the bitcoin wiki says the core developers prefer BIP 16.  
+  
+And the actions of the big mining pools and independent miners says that they
+overwhelmingly prefer BIP 16.  
+  
+Luke, I'd be delighted to add Eligius to the list of pools that are supporting
+BIP 16 in my signature.
+

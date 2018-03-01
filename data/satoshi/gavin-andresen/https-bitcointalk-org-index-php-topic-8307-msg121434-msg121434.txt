@@ -1,0 +1,23 @@
+
+
+I make the Amazon virtual machine images that I used to build the Windows and
+Linux binaries available... but Amazon recently took them down because they
+contain my ssh public key in the "allowed to login without a password" file.
+Removing the public key and then making the modified virtual machines public
+again is on my TODO list (Amazon doesn't want anybody to have a 'back door'
+into a public machine image, and bravo to them for checking-- I had no
+intention of logging into other's bitcoin-build-environment virtual machines,
+I just needed an easy way to login while I was putting together the releases).  
+  
+If you have an EC2 account, you can run them and recreate the exact build
+environment and check to make sure you get exactly the same executable code
+(the compilers may put timestamps inside the files which you'd have to
+ignore).  
+  
+The plan for future releases is to use devrandom's 'gitian' build system,
+which is a spiffy way of creating a well-defined virtual machine image from
+signed and trusted repositories, fetching a specific version of the code from
+the git source tree, and compiling in a way that is completely reproducible.  
+See: https://github.com/devrandom/gitian-builder  
+  
+

@@ -1,0 +1,43 @@
+
+
+Quote from: mestar on December 19, 2010, 04:37:16 PM
+
+As I understand it, every client receives every transaction in the system, so
+it can check later if transactions are valid. What happens when the number of
+transactions gets very large?  
+
+When that happens, I think most people using bitcoin will not be running
+always-connected-to-the-bitcoin-network software. I think there will be at
+least three different sets of people:  
+  
+1\. People who trust a web site to keep their wallet safe more than they trust
+themselves. They'll use sites like MyBitcoin or MtGox, which give them an
+online wallet.  
+  
+2\. People who don't or won't trust anybody to keep their wallets safe, but
+don't have a high-speed, always-on Internet connection. They will use a
+'payment gateway', where they submit transactions that are signed by their own
+computer (they don't have to trust the payment gateway to keep their wallet,
+the gateway just forwards relevant transactions onto the bitcoin network for
+the user).  
+  
+This doesn't exist yet, but writing the code to support this isn't terribly
+hard.  
+  
+3\. People who DO have always-on high-speed network connections; they'll run
+bitcoin just like they do today. But, assuming the volume  
+of bitcoin transactions continues to increase faster than the cost of network
+bandwidth declines, that will become increasingly expensive,  
+so I think more and more users will choose option 1 or 2.  
+  
+
+Quote
+
+Does the client have to keep them all in the memory at once? If not, how can
+the client check if somebody actually owns the coin?  
+
+  
+The current bitcoin doesn't keep all transactions in memory at once-- the
+blkindex.dat and blk0001.dat files in your bitcoin data directory stores them
+on disk.
+

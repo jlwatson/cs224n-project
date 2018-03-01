@@ -1,0 +1,9 @@
+
+
+I'm of the opinion that bitcoind/Bitcoin-Qt shouldn't be pushed to the
+central/canonical repos until we hit version 1.0.  
+  
+Until then, I think we change too much too often (e.g. the blockchain format
+completely changed in the 0.8 release, and the wallet format will likely be
+changed before we hit version 1.0).  
+

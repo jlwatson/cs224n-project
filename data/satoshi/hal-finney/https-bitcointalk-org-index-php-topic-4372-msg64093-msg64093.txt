@@ -1,0 +1,4 @@
+
+
+The block file is 90MB. So you'd have to do 11,000 initial block downloads.
+

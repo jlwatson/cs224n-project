@@ -1,0 +1,10 @@
+
+
+Quote from: Mushoz on January 03, 2012, 11:54:55 PM
+
+Do you guys think it would be a good idea for the client to check if the
+wallet has been switched out, and if so, to do an automatic rescan?  
+
+  
+Newer versions do this already.  
+

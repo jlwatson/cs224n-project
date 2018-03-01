@@ -1,0 +1,7 @@
+
+
+Posting their source code on the internet in an encrypted file would be a good
+idea.  
+Then, if anything ever happens to them, they can post the password, so a bunch
+more exchanges can start up using their software.
+

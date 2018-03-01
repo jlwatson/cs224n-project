@@ -1,0 +1,20 @@
+
+
+The "accounts" feature (to replace "labels") is done for now: listtransactions
+and gettransaction are implemented, and move, sendfrom, and getbalance
+<account> are enabled.  
+  
+This should make implementing web services much easier; you can assign each
+customer their own 'account' and rely on bitcoin to keep track of exactly how
+many bitcoins they have, have it return a list of the customer's last N
+transactions, etc.  
+  
+This is a minimal implementation **on purpose** \-- for example,
+gettransaction doesn't return every possible bit of information you might want
+to know about a transaction, and will only return information for transactions
+in your own wallet. We are trying to think ahead and not add features that
+will be broken or taken away when bitcoin supports running in a 'lightweight
+client' mode, without access to the entire bitcoin transaction history.  
+  
+I've updated the API wiki page with the new methods.  
+

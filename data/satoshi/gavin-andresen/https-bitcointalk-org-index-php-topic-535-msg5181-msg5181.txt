@@ -1,0 +1,39 @@
+
+
+TxIn: prev(82df...6428:1) means the second TxOut of transaction
+82df...something...6428 (it abbreviates the full 256-bit transaction hash and
+starts counting at zero).  
+  
+To see that transaction:  
+
+Code:
+
+gavin$ dbdump.py --transaction=82df...6428  
+1 tx in, 2 out  
+['TxIn: prev(bfb0...cd16:1) pubkey: 17muZqKMEFqzefsqYhR9vqBjz1jNVcDcbh sig:
+71:3044...0201 65:0480...af42']  
+['TxOut: value: 0.05 pubkey: 1GVgigFDZ9pPLyYwxboEoaSDMDbsBQPVMx Script: DUP
+HASH160 20:a9f6...9268 EQUALVERIFY CHECKSIG', 'TxOut: value: 66.07 pubkey:
+1LsvDRhoMmH5YeZDAxaP5rqwNTp3xFCF3Q Script: DUP HASH160 20:da0b...a345
+EQUALVERIFY CHECKSIG']  
+
+This looks like bitnickels coins coming out of the Bitcoin Faucet. The
+transaction before THAT is:  
+
+Code:
+
+gavin$ dbdump.py --transaction=bfb0...cd16  
+1 tx in, 2 out  
+['TxIn: prev(b1dd...5cd9:1) pubkey: 1MQNsNwRHTu7MWPgFRGRRZfo58jU3RGxJv sig:
+73:3046...8501 65:041b...6624']  
+['TxOut: value: 0.05 pubkey: 1GVgigFDZ9pPLyYwxboEoaSDMDbsBQPVMx Script: DUP
+HASH160 20:a9f6...9268 EQUALVERIFY CHECKSIG', 'TxOut: value: 66.12 pubkey:
+17muZqKMEFqzefsqYhR9vqBjz1jNVcDcbh Script: DUP HASH160 20:4a4e...e0c3
+EQUALVERIFY CHECKSIG']  
+
+  
+To compute the net transaction value, just add up the values of all the
+TxOuts; they have to equal the sum of all the TxIns (well, unless there are
+transaction fees). So for that first transaction, 66.07+0.05 = 66.12 (which
+is, indeed, bfb0...cd16:1)  
+

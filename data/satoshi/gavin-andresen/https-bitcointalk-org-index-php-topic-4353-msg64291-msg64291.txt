@@ -1,0 +1,15 @@
+
+
+Seems like this feature doesn't need to be part of the RPC interface-- why not
+just (ignoring error handling/etc) do the equivalent of:  
+  
+
+Code:
+
+ADDRESS = $(curl https://fishysnax.com:443/path/to?id=genjix)  
+bitcoind sendtoaddress $ADDRESS 1
+
+  
+... from whatever code is calling the RPC?  
+  
+

@@ -1,0 +1,16 @@
+
+
+Pieter fixed the "100% usage on OSX bug" and I created and uploaded a fixed
+version 0.6.2.2 especially for the Mac.  
+  
+RE: upgrading: the best upgrade practice is to:  
+  
+1) Backup your wallet someplace safe (if you're running an 0.6 release then
+use the Backup Wallet menu item).  
+2) Shutdown. Make sure Bitcoin isn't still in your system tray-- don't just
+close the window, shut it down.  
+3) Wait a minute or two (it can take older versions a minute or two to
+completely shut down)  
+4) Install and run the new version.  
+  
+

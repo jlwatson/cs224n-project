@@ -1,0 +1,10 @@
+
+
+Quote from: tcatm on February 27, 2011, 10:40:20 PM
+
+This patch introduces a bug on de_DE locale when sending using the wxGUI.
+Dialogbox with "Error in amount"  
+
+  
+Can anybody else reproduce this? It works for me:  
+

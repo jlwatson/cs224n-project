@@ -1,0 +1,20 @@
+
+
+Quote from: weavejester on April 19, 2011, 02:29:50 AM
+
+Does that sound better?  
+
+  
+Yup, although I'd like more brains to think it through-- are there any
+potential denial-of-service attacks if bitcoin is listening for RPC commands
+by default (note that JavaScript in your web browser CAN access
+http://localhost:8332/, the same-origin-policy for JavaScript doesn't apply to
+localhost URLs)?  
+  
+Does it open up any extra security holes if you're on a multi-user system?  
+  
+And I don't think it should go into mainline bitcoin until there is a
+compelling need for it-- and I don't think there will be a need until the
+'click on a link, popup payment dialog from bitcoin' functionality is worked
+out...  
+

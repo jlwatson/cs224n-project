@@ -1,0 +1,18 @@
+
+
+Quote
+
+Gavin, I swear I had your public key and can't find it. Where do you keep it
+so I can verify the sums signature?
+
+PGP links are on the bitcoin.org homepage;
+http://bitcoin.org/gavinandresen.asc will get it.  
+  
+The source for the bitcoin.org homepage is at github, so you can get it from
+there, too:  
+https://github.com/bitcoin/bitcoin.org/blob/master/gavinandresen.asc  
+  
+It is also stored at the MIT pgp keyserver under email
+'gavinandresen@gmail.com':  
+http://pgp.mit.edu:11371/pks/lookup?search=gavinandresen%40gmail.com&op=index
+

@@ -1,0 +1,14 @@
+
+
+It should be pretty easy to use the raw transactions API to implement a "send
+all".  
+  
+You would do:  
+listunspent --> list of inputs  
+Then estimate a reasonable fee (this is the hardest bit, but listunspent tells
+you amount and #confirmations and you can estimate tx size based on number of
+inputs)  
+createrawtransaction/signrawtransaction/sendrawtransaction  
+  
+Somebody should write a little python tool we can ship in contrib/
+

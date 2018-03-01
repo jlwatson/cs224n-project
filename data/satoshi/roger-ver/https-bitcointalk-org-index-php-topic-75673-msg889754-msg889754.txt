@@ -1,0 +1,13 @@
+
+
+Bug fix request:  
+  
+When I set the currency to something other than USD, it randomly reverts back
+to USD at various times for no apparent reason.  
+  
+I would like the app to stay on the currency I select until I choose something
+else.  
+  
+Thanks!  
+  
+

@@ -1,0 +1,23 @@
+
+
+Quote from: Gavin Andresen on November 12, 2014, 06:34:36 PM
+
+You are wrong.  
+  
+Example that should make it clear....  
+
+  
+Wait... no... that example is only valid for the "attacker takes over existing
+mining pools" case, where formerly honest miners are co-opted to be evil (or
+gang up in a cartel to be evil).  
+  
+If somebody collects as much hashing power as the rest of the network combined
+and _then_ suddenly attacks, then yes, indeed, difficulty stays the same, the
+attacker gets all the mining rewards, and there are twice as many stale blocks
+as before. Attacker gets 6 block rewards per hour.  
+  
+If they were to mine honestly, blocks would be created twice as fast until
+difficulty adjusted, so they'd get 6 block rewards per hour for a week (same
+as if they decide to attack). Then difficulty would double, and they'd get
+only 3 per hour.
+

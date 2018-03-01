@@ -1,0 +1,18 @@
+
+
+Quote from: ShadowOfHarbringer on January 24, 2012, 09:56:49 PM
+
+Shouldn't we all push for decentralized pools, like P2Pool ?  
+
+  
+Yes.  
+  
+I'd love so see a bitcoin client with p2pool-technology built in; bring back
+the "generate coins" option!  
+  
+But... that will take a while. If I was a pool operator, though, I'd be
+thinking about other bitcoin-related businesses where I could use my expertise
+(the pool operators deserve a lot of credit, they've had to deal with DOS
+attacks, keeping their wallets safe, servicing hundreds or thousands of
+customers banging on their servers constantly, etc).  
+

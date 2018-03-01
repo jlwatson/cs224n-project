@@ -1,0 +1,19 @@
+
+
+Quote from: Peleus on April 05, 2013, 02:43:25 AM
+
+From these premise I draw the conclusion that the amount of hashing power in
+the system (premise #3) will directly correlate with the amount of
+transactional fees in the system (premise #1), and hence the security of the
+system (premise #2).  
+
+  
+You're assuming that miners are completely distinct from the people who want
+the network to be secure (users/merchants/exchanges/etc).  
+  
+That is a bad assumption. Nothing stops a merchant who wants more network
+security from either subsidizing miners (maybe in exchange for a promise to
+prioritize transactions to them) or mining themselves.  
+  
+This is already happening, not for reasons of security but for other reasons.  
+

@@ -1,0 +1,17 @@
+
+
+Transactions have multiple inputs and outputs.  
+  
+If you have 0.5BTC inputs, then 50 of them will be bundled together and a
+transaction with 50 inputs and one output will be created.  
+  
+... but that's not what will actually happen. A 50-input-transaction will be
+over the "small enough to be free" transaction size limit, so 51 will be
+bundled together and a transaction with 51 inputs and two outputs (one to the
+destination, one back to you for any change leftover after paying the
+transaction fee) will be created.  
+  
+There is no ledger, there are just transactions with inputs and outputs. Your
+bitcoin balance is the sum of all the outputs to addresses that you own that
+haven't yet been used as input to another transaction.  
+

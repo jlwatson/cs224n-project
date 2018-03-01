@@ -1,0 +1,12 @@
+
+
+Quote from: Nicolas Dorier on May 24, 2014, 03:28:41 PM
+
+This suck  
+I would prefer having less, or no explanation page for a BIP but some
+rudimentary test vectors, than a novel without one.  
+
+  
+Feel free to create some; code here:
+https://github.com/gavinandresen/paymentrequest
+

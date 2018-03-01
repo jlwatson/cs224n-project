@@ -1,0 +1,14 @@
+
+
+Quote from: Manjago on March 05, 2011, 08:49:23 PM
+
+But I still see "If you have version 0.3.9 or lower, please upgrade for an
+important security update!" on this forum?  
+
+  
+It is amazing how the brain can ignore things that it sees every single day...
+(thanks for pointing that out, fixed).  
+  
+RE: removing wording about generating coins on the home page: any objections
+to doing that?
+

@@ -1,0 +1,11 @@
+
+
+Please help test: https://github.com/bitcoin/bitcoin/pull/95  
+  
+Sets the -maxsendbuffer and -maxreceivebuffer limits to 10MB each (so possible
+max of 2GB of memory if you had 100 connections).  
+  
+I tested by running a 0.3.20 node to act as server, then ran a client with:  
+-connect={server_ip} -noirc -nolisten  
+... to make sure I was downloading the block chain from that 0.3.20 node.  
+

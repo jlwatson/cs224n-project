@@ -1,0 +1,10 @@
+
+
+The RPC and GUI won't let you spend 0-confirmation transactions unless they
+are 'change' outputs from yourself.  
+  
+If you REALLY want to shoot yourself in the foot, I've got a pull request for
+the 0.7 release that adds 'raw transaction' RPC commands that will let you do
+all sorts of dangerous things, including ~~counting your chickens before
+they've hatched~~ spending unconfirmed-from-somewhere-else inputs.  
+

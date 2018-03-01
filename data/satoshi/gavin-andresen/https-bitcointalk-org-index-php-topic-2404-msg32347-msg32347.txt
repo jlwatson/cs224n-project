@@ -1,0 +1,111 @@
+
+
+Normal send; this one was:  
+  
+sendfrom Test1 mytzSq1rkXzPidP9tHvfhDuzXqDSSvvaCg 100  
+  
+
+Code:
+
+{  
+"account" : "Test3",  
+"address" : "mytzSq1rkXzPidP9tHvfhDuzXqDSSvvaCg",  
+"category" : "receive",  
+"amount" : 100.00000000,  
+"confirmations" : 344,  
+"txid" : "210ea061bd3664c34349dfa4849b9f33889cfe2117bf02d62fd765cb0ee5b5b0",  
+"time" : 1292527858,  
+"comment" : "Test1 to Test3, 100"  
+},  
+{  
+"account" : "Test1",  
+"address" : "mytzSq1rkXzPidP9tHvfhDuzXqDSSvvaCg",  
+"category" : "send",  
+"amount" : -100.00000000,  
+"fee" : 0.00000000,  
+"confirmations" : 344,  
+"txid" : "210ea061bd3664c34349dfa4849b9f33889cfe2117bf02d62fd765cb0ee5b5b0",  
+"time" : 1292527858,  
+"comment" : "Test1 to Test3, 100"  
+},  
+
+  
+And a wicked-crazy multisend:  
+  
+sendfrom Test1 to:  
+mo5JUdFcaHQdT6VbWxee9q7Y7U8GZta4QX 3.0 AND  
+mo5JUdFcaHQdT6VbWxee9q7Y7U8GZta4QX 3.3 AND  
+msVM67gJZ4EKMRVdMjMFzwWEU32VzBUnqu 2.0  
+  
+
+Code:
+
+{  
+"account" : "Test3",  
+"address" : "mo5JUdFcaHQdT6VbWxee9q7Y7U8GZta4QX",  
+"category" : "receive",  
+"amount" : 3.03000000,  
+"confirmations" : 342,  
+"txid" : "ed9d338586c0893b2469cd9e3af4d074654d807329a5a789e066f03063a08136",  
+"time" : 1292531730,  
+"comment" : "multisend, Test1 to Test2 and Test3 twice (same addr)"  
+},  
+{  
+"account" : "Test3",  
+"address" : "mo5JUdFcaHQdT6VbWxee9q7Y7U8GZta4QX",  
+"category" : "receive",  
+"amount" : 3.00000000,  
+"confirmations" : 342,  
+"txid" : "ed9d338586c0893b2469cd9e3af4d074654d807329a5a789e066f03063a08136",  
+"time" : 1292531730,  
+"comment" : "multisend, Test1 to Test2 and Test3 twice (same addr)"  
+},  
+{  
+"account" : "Test2",  
+"address" : "msVM67gJZ4EKMRVdMjMFzwWEU32VzBUnqu",  
+"category" : "receive",  
+"amount" : 2.00000000,  
+"confirmations" : 342,  
+"txid" : "ed9d338586c0893b2469cd9e3af4d074654d807329a5a789e066f03063a08136",  
+"time" : 1292531730,  
+"comment" : "multisend, Test1 to Test2 and Test3 twice (same addr)"  
+},  
+{  
+"account" : "Test1",  
+"address" : "mo5JUdFcaHQdT6VbWxee9q7Y7U8GZta4QX",  
+"category" : "send",  
+"amount" : -3.03000000,  
+"fee" : 0.00000000,  
+"confirmations" : 342,  
+"txid" : "ed9d338586c0893b2469cd9e3af4d074654d807329a5a789e066f03063a08136",  
+"time" : 1292531730,  
+"comment" : "multisend, Test1 to Test2 and Test3 twice (same addr)"  
+},  
+{  
+"account" : "Test1",  
+"address" : "mo5JUdFcaHQdT6VbWxee9q7Y7U8GZta4QX",  
+"category" : "send",  
+"amount" : -3.00000000,  
+"fee" : 0.00000000,  
+"confirmations" : 342,  
+"txid" : "ed9d338586c0893b2469cd9e3af4d074654d807329a5a789e066f03063a08136",  
+"time" : 1292531730,  
+"comment" : "multisend, Test1 to Test2 and Test3 twice (same addr)"  
+},  
+{  
+"account" : "Test1",  
+"address" : "msVM67gJZ4EKMRVdMjMFzwWEU32VzBUnqu",  
+"category" : "send",  
+"amount" : -2.00000000,  
+"fee" : 0.00000000,  
+"confirmations" : 342,  
+"txid" : "ed9d338586c0893b2469cd9e3af4d074654d807329a5a789e066f03063a08136",  
+"time" : 1292531730,  
+"comment" : "multisend, Test1 to Test2 and Test3 twice (same addr)"  
+},  
+
+  
+Again, multi-sends are non-standard transactions. And no, I won't give you the
+hacked code I wrote to generate multisend test cases...  
+  
+

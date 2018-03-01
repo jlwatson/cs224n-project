@@ -1,0 +1,8 @@
+
+
+Phew. Ok, I feel better; consensus seems to be that enabling some or all of
+the proposed 'new standard' transactions is a good idea.  
+  
+All the rest (new address format? send to old addresses and immediately
+resend? etc etc etc) can be argued to death later.  
+

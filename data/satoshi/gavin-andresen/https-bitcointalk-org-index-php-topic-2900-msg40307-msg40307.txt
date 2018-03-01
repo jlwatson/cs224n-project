@@ -1,0 +1,10 @@
+
+
+Just to be sure: "removed all bitcoin data" means you removed and reinstalled
+bitcoin.exe ?  
+  
+RE: wallet works fine on ubuntu: did you happen to run the wallet on another
+machine, then copy it back to your windows machine?  
+  
+I don't know what to suggest-- I'm not a Windows person...  
+

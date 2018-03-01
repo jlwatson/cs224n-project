@@ -1,0 +1,17 @@
+
+
+Quote from: em3rgentOrdr on April 12, 2011, 06:38:41 AM
+
+i know a great way to get more donations to the faucet: allow donators to
+leave a short piece of text. since the bitcoin faucet is such a popular url,
+donators could leave a link to their website or company, acting as an
+advertisement. public pilanthopy to new bitcoin users as a way to promote your
+company/brand image...  
+
+Neat idea-- I've been thinking about how to let people/companies sponsor the
+Faucet.  
+  
+The next couple of things on my TODO list are getting the 0.3.21 bitcoin
+release process started and an API for ClearCoin, but I might tackle Faucet
+donations after those are done.  
+

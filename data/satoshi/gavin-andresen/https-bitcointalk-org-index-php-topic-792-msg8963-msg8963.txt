@@ -1,0 +1,15 @@
+
+
+Very quick reply, I should be going to sleep:  
+  
+I think it would be helpful to describe how much anonymity you can expect
+based on what you expect from a potential attacker.  
+  
+There's a big difference between "I'm worried about somebody tracing
+transactions back to me by looking through the block chain" (easy solution:
+mix up your coins by sending them to and from a mybitcoin.com account a couple
+of times over a couple of days; send them in batches over time to be really
+safe) and "I'm worried about somebody tracing the transactions I'm making by
+watching all of the IP traffic coming from my machine (much, much harder to
+guard against).  
+

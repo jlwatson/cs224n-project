@@ -1,0 +1,17 @@
+
+
+Quote from: ByteCoin on August 23, 2011, 10:42:08 PM
+
+The unfortunate thing about this construction is that the emergency key c,
+kept offline and hopefully never used is likely to be constant over a very
+long period of time. This results in a dramatic loss of transaction anonymity.  
+
+  
+Clients could make c the base for a deterministic key; derive a series of keys
+from c, and use them in subsequent transactions. (given full public key for c,
+you can derive a series of public keys without having the private key)  
+  
+Same could be done for the 'wallet protection service' key b -- every time you
+use b, contact the protection service and ask for a b' derived
+deterministically from b. Then b'', b''', etc...  
+

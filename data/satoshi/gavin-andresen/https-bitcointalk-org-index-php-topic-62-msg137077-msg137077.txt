@@ -1,0 +1,13 @@
+
+
+RE: moving to another hashing algorithm for bitcoin addresses:  
+  
+Did you read what Satoshi wrote?  
+  
+If you want to make money, you are far, far, far, far, far, far better off
+using your hardware to generate blocks than trying to find a bitcoin address
+collision and steal bitcoins. Potential address collisions are not a weakness,
+and switching to another algorithm would be just busy-work for us developers
+who should be spending time on REAL weaknesses (like figuring out how to make
+bitcoin more secure against trojans and viruses).  
+

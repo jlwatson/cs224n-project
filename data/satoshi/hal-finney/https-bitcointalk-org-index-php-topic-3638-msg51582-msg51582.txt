@@ -1,0 +1,10 @@
+
+
+This is a base58 encoded plain private key (256 bit value from a "key" entry
+in my wallet) worth 20 BTC. We're now at block 109180. Let's see how long it
+takes for someone to input the key and collect the bitcoins.  
+  
+2qy6pGXd5yCo9qy3vxnN7rALgsXXcdboReZ9NZx5aExy  
+  
+ETA: this is wrong, the correct value is later in the thread
+

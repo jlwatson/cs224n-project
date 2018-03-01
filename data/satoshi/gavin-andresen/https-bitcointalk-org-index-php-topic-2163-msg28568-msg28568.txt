@@ -1,0 +1,23 @@
+
+
+Quote from: appamatto on December 09, 2010, 03:50:36 PM
+
+Conceptually you have a single BitX chain with several bit-app chains weaving
+in and out of it. Generating a BitX block will then allow you to generate a
+bitcoin block, a bitDNS block, a bit-foo block, etc.  
+  
+...  
+  
+The BitX chain is straight-forward although a key observation here is that
+BitX blocks should never be rejected for bit-app reasons, i.e. a client should
+be able to accept/reject a BitX block without ever downloading app blocks  
+
+  
+Quick reaction: what stops malicious or lazy BitX chain generator from
+implementing a type of denial-of-service attack against some bit-app they
+either don't like or don't know about? If BitX blocks are never rejected for
+bit-app reasons, then what is the incentive for main-BitX chain generators to
+include only (or any!) valid bit-app hashes? What stops me from constantly
+flooding the BitX network with bogus bit-app hashes and asking them to be
+included in BitX blocks?  
+

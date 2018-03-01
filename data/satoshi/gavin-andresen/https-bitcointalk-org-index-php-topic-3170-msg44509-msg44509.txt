@@ -1,0 +1,20 @@
+
+
+Good Idea. I think the PDF signing is overkill, but Good Idea.  
+  
+Here's a bitcoin business I want somebody to create and run: "Coin on a Stick"  
+  
+You sell USB sticks containing Mac and Windows versions of the latest bitcoin
+(including the entire block chain) plus a wallet file containing N bitcoins.  
+  
+Sell them via Ebay or PayPal, and ship them ONLY to a PayPal-verified address.  
+  
+The buyer has to trust you not to double-spend the coins in the wallet, and
+has to wait for delivery of the physical USB stick. But they don't have to
+download or install anything (they should be able to just run bitcoin from the
+stick and transfer the coins to themselves or a mybitcoin or mtgox account).  
+  
+But, since you are sending a physical product to a verified address, you'll be
+treated as any other merchant selling real goods by PayPal or the credit card
+companies.  
+

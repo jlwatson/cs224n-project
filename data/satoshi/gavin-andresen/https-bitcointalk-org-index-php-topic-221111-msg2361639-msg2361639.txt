@@ -1,0 +1,33 @@
+
+
+Quote from: piotr_n on June 03, 2013, 08:02:09 PM
+
+So you are OK with like 70% of the haspower going to a fork that did not
+accept your change?  
+
+  
+No, absolutely not. The process for a hard fork looks like:  
+  
+\+ Get rough consensus that the change is necessary.  
+\+ Write the code.  
+\+ Get it reviewed and thoroughly tested.  
+\+ Release software that will support it when X% of hashing power agrees  
+  
+... where X is a super-majority (like 75% or more). If 70% of hashing power
+disagrees, then it doesn't happen. Miners will express support by producing
+block.version=3 blocks (just like they are now producing block.version=2
+blocks that MUST include the chain height in the coinbase transaction).  
+  
+It is possible the X% threshold will never happen if 1MB is plenty big enough.
+It is possible it will only happen when transaction fees start going up and
+pressure increases on pools to make their blocks bigger (or maybe merchants
+tired of paying high fees figure out they'll save money by mining or operating
+pools themselves, will get X% of hashing power, and will increase the block
+size).  
+  
+Again, I spent a lot of time at the conference talking with people about the
+block size issue, and there is definitely consensus that 1MB just won't be big
+enough eventually. That has nothing to do with microtransactions, normal
+growth in "macrotransactions" will bump up against the limit in a year or
+three.  
+

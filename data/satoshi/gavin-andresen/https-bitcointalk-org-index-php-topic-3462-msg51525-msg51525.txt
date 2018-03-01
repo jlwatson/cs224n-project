@@ -1,0 +1,18 @@
+
+
+Quote from: david19801 on February 19, 2011, 08:06:22 PM
+
+A committed individual or organization could easily aquire network storage in
+the Petabytes. I think that would be more than enough to get a sizable
+operation started.  
+
+  
+1 petabyte is 1015 bytes.  
+  
+There are 2160 possible BTC addresses, each of which is 160 bits == 20 bytes
+long.  
+  
+So to store all of them you need 2160x20 bytes, which is
+29,230,032,746,618,058,364,073,696,654,325,660 petabytes.  
+  
+

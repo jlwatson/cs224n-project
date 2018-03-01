@@ -1,0 +1,21 @@
+
+
+Quote from: nelisky on October 18, 2010, 11:02:31 AM
+
+I just need a way to know if the addresses on the wallet are covered by the
+last backup, and if there are still leftover addresses in the wallet, without
+depending on running counts and persistent data not stored in bitcoin
+directly.  
+
+  
+Keys in the keypool store when they're generated (and the oldest are always
+used first). Asking "what's the oldest key in the key pool" seems reasonable,
+and I think it would give you what you want-- you could compare that timestamp
+to the timestamp of your last backup to see if you're covered.  
+  
+Although if you're going to periodically check to see what the oldest
+timestamp is (or you're going to periodically check to see if bitcoin has
+written a new timestamped backup file or periodically check WHATEVER) then it
+seems simpler to me to just periodically always call backupwallet. Disk space
+and bandwidth is cheap these days...  
+

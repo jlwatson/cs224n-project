@@ -1,0 +1,20 @@
+
+
+Quote from: devrandom on March 19, 2011, 06:55:51 PM
+
+Gavin,  
+  
+Did you get a chance to build using the gitian process? Would be cool to
+compare hashes.  
+  
+
+  
+I didn't-- the first "community build" took long enough as it was, and I
+didn't want to add one more 'different from the way it was done before'
+variable.  
+  
+Next release I want to automate some of the manual steps, and maybe use the
+gitian process, assuming it will work inside an Amazon VM (DO nested virtual
+machines work?). Unless anybody feels motivated to step in and do it first;
+with a verifiable build, anybody can take on the role of build-meister.  
+

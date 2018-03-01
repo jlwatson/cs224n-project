@@ -1,0 +1,18 @@
+
+
+Quote from: jgarzik on September 01, 2010, 08:36:28 PM
+
+But, use of HTTP-Basic is just a crime, because it is so trivial to obtain the
+shared secret. If HTTP-Basic is to be kept, at least require SSL connections?  
+
+It isn't trivial to obtain the secret unless you patch the code to bind to
+interfaces other than loopback....  
+  
+SSL connections are The Right Answer.  
+  
+If I had any OpenSSL programming experience I'd volunteer to implement it.
+Anybody willing and able to teach bitcoin to speak https?  
+  
+And for extra credit, support SSL client certificates for authentication
+either instead of or in addition to HTTP-Basic...  
+

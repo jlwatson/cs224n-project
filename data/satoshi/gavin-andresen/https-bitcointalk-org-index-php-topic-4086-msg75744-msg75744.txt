@@ -1,0 +1,18 @@
+
+
+Apologies to Nefario, I was reacting to the wiki pages written by genjix on
+how to use PHP with bitcoind that started with:  
+  
+\+ First, compile my fork.  
+\+ Next, install the GMP and BCMath libraries...  
+  
+And why do I defend floats: because simple things should be simple. Using
+GMP/BCMATH is overkill for 98% of what bitcoin JSON-RPC users will be doing.  
+  
+And because certain people keep beating this dead horse. I have said that I am
+PERFECTLY WILLING to support strings in the JSON-RPC interface if somebody can
+demonstrate to me someplace where it is actually a real problem (that isn't
+trivially solved using something like round(value*1e8+0.5) or printf("%.08",
+value)).  
+  
+

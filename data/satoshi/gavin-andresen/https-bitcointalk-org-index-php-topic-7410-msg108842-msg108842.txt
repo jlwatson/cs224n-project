@@ -1,0 +1,17 @@
+
+
+No, the send-from address is not available, for a couple of reasons:  
+  
+1) When people using a shared wallet service like MyBitcoin or MtGox send
+payments the "from address" could belong to any of the other users of the
+service (or could be a "change" address that doesn't belong to anybody). It is
+a bad idea to think that "address == person".  
+  
+2) If more complicated transaction types are ever "turned on" in bitcoin,
+there might be more than one "from address". Satoshi designed-in support for
+complicated transactions like "this payment can only be spent if 2 of these 3
+keys sign the transaction". In that case, there would be two "from addresses".  
+  
+If you need this to refund coins, you'll need to ask the customer for a refund
+address.  
+

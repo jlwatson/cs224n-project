@@ -1,0 +1,19 @@
+
+
+Quote from: TierNolan on April 30, 2013, 06:41:17 PM
+
+It also adds a minimum transaction output "magic number". That is an
+additional rule. It doesn't exist at the moment right ?  
+
+  
+Minimum transaction output is (conservatively) calculated from the minimum
+relay fee setting. It did exist before, it was just set to '1 satoshi'.  
+  
+We made 0-satoshi outputs non-standard a couple of releases ago, but consensus
+is that was a mistake-- 1-satoshi is not the right number, because the
+marginal cost of spending a 1-satoshi output is greater than its value.  
+  
+Again, eventually it might be economical to spend 1-satoshi outputs. When it
+is, the minimum relay fee will be on the order of a satoshi or two, and this
+code will do the right thing.  
+

@@ -1,0 +1,31 @@
+
+
+In the 0.6.3 thread Graet asks a good question: what's do we mean by
+"critical" versus "serious" vulnerability?  
+  
+Here's what those terms mean to me. All examples are hypothetical:  
+  
+A critical vulnerability is one that will have disastrous consequences if it
+is exploited. Examples might be a remote code exploit, a bug that somebody
+could use to take down the entire bitcoin network, or a bug that could be
+exploited to steal your entire wallet.  
+  
+A serious vulnerability is one that will have serious consequences if it is
+exploited. Examples might be a bug that can be triggered by network traffic
+and will cause the software to stop working or a bug that could be exploited
+to misdirect your next bitcoin transaction so it goes to an attacker instead
+of the intended recipient.  
+  
+The 0.6.3 denial-of-service problem I consider "serious" -- an attacker who
+figures out exactly what the vulnerability is (we haven't disclosed that yet)
+can make bitcoind or Bitcoin-Qt stop processing transactions.  
+  
+Then there are run-of-the-mill vulnerabilities; things like Sybil attacks that
+require an attacker to round up hundreds or thousands of machines, or denial-
+of-service attacks that require that the attacker be able to send the victim
+gigabytes of network traffic. Dealing with these often doesn't even merit a
+mention in the release notes, because they affect so few people and require an
+attacker willing to spend a fair bit of money and/or effort just to be
+annoying.  
+  
+

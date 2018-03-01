@@ -1,0 +1,8 @@
+
+
+Bugs can be reported via the github issues system:  
+https://github.com/bitcoin/bitcoin/issues  
+  
+... although the entire GUI is changing for the next release, so reporting GUI
+bugs like not being able to sort in the address book will be a waste of time.  
+

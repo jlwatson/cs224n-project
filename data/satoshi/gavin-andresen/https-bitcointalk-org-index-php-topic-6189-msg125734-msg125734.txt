@@ -1,0 +1,22 @@
+
+
+Quote from: ShadowOfHarbringer on May 17, 2011, 05:16:11 PM
+
+So what is the point of this feature if somebody can "fix it" just by
+downgrading to a slightly lower version ?  
+
+  
+Downgrading does not "fix" it. The earlier version would broadcast the
+transaction, and then it would (most likely) either sit in the network with 0
+confirmations for half a day or sit on your machine with 0 confirmations for a
+few hours, until it aged enough to graduate from the 'very low priority'
+category.  
+  
+The rule of thumb is 1 BTC you just received needs 144 confirmations (1 day)
+before it is considered 'normal priority.' 10 bitcoins requires 1/10'th that--
+15 confirmations would do it.  
+  
+Given the recent rise in bitcoin value, I think it makes sense to modify that
+formula so 1 BTC takes (perhaps) 10 confirmations to be considered 'not likely
+to be spam'.  
+

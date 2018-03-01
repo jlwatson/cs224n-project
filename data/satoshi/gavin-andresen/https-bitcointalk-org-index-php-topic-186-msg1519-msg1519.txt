@@ -1,0 +1,24 @@
+
+
+Quote from: lachesis on June 12, 2010, 05:46:40 AM
+
+So basically, you're running Bitcoin on a VPS and using an HTTPS connection
+from App Engine to signal it what to do? Why not just host the site on your
+server?  
+
+App Engine gives me:  
+Free bandwidth and data storage (with the option to pay for what I use if I go
+over a gigabyte)  
+Built-in, already-configured-and-tweaked tools like memcache and BigTable  
+An architecture where scaling up is built-in (App Engine will automagically
+replicate my app and distribute it across Google's worldwide content
+distribution network if it gets a lot of traffic)  
+  
+And all of that is administered by Google's sysadmins (who are WAY better at
+that than I am).  
+  
+But mostly I did it as an experiment and because it was a technical challenge
+and because lately I'm an App Engine fanboy. I would've been done a day
+earlier if I'd run everything on the same server and wrote the front end in
+PHP+MySQL.  
+

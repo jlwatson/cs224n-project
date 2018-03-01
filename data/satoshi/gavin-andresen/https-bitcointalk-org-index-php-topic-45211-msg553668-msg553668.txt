@@ -1,0 +1,45 @@
+
+
+I'm going to shoot myself in my foot again thinking about stuff late in the
+day and week when my brain is tired...  
+  
+... but here are some half-baked thoughts:  
+  
+The: DUP HASH160 <hash> EQUALVERIFY that we're currently using to hash a
+65-byte public key into a 20-byte bitcoin address could be generalized into
+something like:  
+  
+n DIGEST160 <hash> EQUALVERIFY : create a secure 160-bit hash from the <n>
+items on the stack, make sure it matches a given hash.  
+  
+That would be very useful for creating multisignature transactions where
+<hash> is really some arbitrary combination of public keys.  
+  
+But it would be really spiffy if the complicated transaction could be in the
+ScriptSig (specified when the coins are spent) and not the ScriptPubKey (so
+the sender doesn't need to know what kind of transaction they're funding).
+Maybe something like:  
+  
+ScriptPubKey: END_DIGEST160 <hash> EQUAL  
+  
+... and the generic ScriptSig would be:  
+  
+<sig1> <sig2> ... <sign> BEGIN_DIGEST160 ... an arbitrary script with public
+keys and CHECKSIGs and stuff....  
+  
+BEGIN...END_DIGEST160 would create a secure hash for all the opcodes and data
+between the begin and end.  
+  
+I think I can convince myself that would always be secure. Concrete example of
+the simplest, one-key transaction would be:  
+  
+ScriptSig: <signature> BEGIN_DIGEST160 <public_key> CHECKSIGVERIFY  
+ScriptPubKey: END_DIGEST160 <hash> EQUAL  
+  
+Nobody can put another Script in the ScriptSig, because that would change
+<hash>.  
+And the signature must be valid because it is checked in the ScriptSig.  
+  
+If we're going to schedule a blockchain split to support new stuff, something
+like this seems like the right thing to do.  
+

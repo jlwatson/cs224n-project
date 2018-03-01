@@ -1,0 +1,20 @@
+
+
+Quote from: beekeeper on October 10, 2012, 02:56:46 PM
+
+My current rig could count those 4 billions in 30 ms or less. That's less than
+usb handshake to xfer the new payload will take in average.  
+
+  
+... so transfer 1,000 headers with different extranonces in one handshake. Or
+don't handshake every time. Or modify the firmware that speaks whatever mining
+protocol you're sending at it to do the increment-extranonce-and-recompute-
+the-merkle-root-thing itself.  
+  
+All of this discussion is useless; even if you could convince us core
+developers that we need A HARD FORK RIGHT THIS VERY MINUTE! there is
+absolutely zero chance we could make that happen before the ASICS start
+shipping.  
+  
+So: plan accordingly.  
+

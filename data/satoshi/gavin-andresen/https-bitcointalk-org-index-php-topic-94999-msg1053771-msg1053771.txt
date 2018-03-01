@@ -1,0 +1,16 @@
+
+
+Quote from: sebastian on July 25, 2012, 09:40:01 AM
+
+There MIGHT be riskes with signing public/private keys, but I don't know
+enough about ECDSA to prove it false or true.  
+
+"We" thought of that (where "we" was actually Khalahan and Pieter and Gregory,
+if I recall correctly).  
+  
+The string "Bitcoin Signed Message:\n" is prepended to the message as salt,
+then that's SHA256-hashed twice, and the hash is what is signed/verified. Sign
+anything you like, it won't reveal information about your keys (unless your
+OpenSLL implementation has a broken random number generator and doesn't
+generate unique signing nonces).
+

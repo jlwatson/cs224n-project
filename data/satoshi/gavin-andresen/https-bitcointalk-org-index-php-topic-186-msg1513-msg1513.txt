@@ -1,0 +1,122 @@
+
+
+Joozero asked if I'd make the source to freebitcoins.appspot.com available,
+and I promised to start a thread explaining how I created it-- and here it is.  
+  
+freebitcoins is running on the Google App Engine. Well, the part you see is
+running on App Engine.  
+  
+There's also a back-end bitcoind server running on a debian VPS that I've had
+for years. The App Engine code makes JSON-RPC calls via the App Engine url
+fetching API. Making that connection secure was a bit tricky; here's how I did
+it:  
+  
+First, I connect to the VPS using https so the traffic is encrypted.  
+  
+I need a secure connection because I add a secret pre-shared value to the JSON
+call. I'm not going to make the full source for freebitcoins fully open source
+because I don't want to bother with constantly working to keeping that secret
+value secret. I should hash the entire request with a secret key and an ever-
+increasing nonce, but I was lazy and I'm just not very worried about a man-in-
+the-middle attack between Google and my VPS.  
+  
+I could have hacked my copy of the bitcoind C++ code to check for the secret
+value in requests and also modified it so it accepted connections from the
+Internet... but instead I wrote this little proxy server in Python that runs
+on the same box as bitcoind:  
+
+Code:
+
+#  
+# WSGI Proxy into the bitcoind daemon (which only listens on 127.0.0.1 for
+security).  
+# Rejects non-HTTPs connections, or non-POST requests  
+# Rejects queries that don't include a pre-shared secret value  
+#  
+# Apache calls this because of a directive in /etc/apache2/sites-
+available/xyz.com  
+#  
+  
+import hashlib  
+import urllib2  
+  
+def application(environ, start_response):  
+serverURL = "http://127.0.0.1:8332/"  
+  
+def error_response(message):  
+response_headers = [('Content-type', 'text/plain'),  
+('Content-Length', str(len(message)))]  
+start_response('500 Internal Server error', response_headers)  
+return message  
+  
+if environ.get("HTTPS") != "1":  
+return error_response("Insecure connections not allowed.")  
+  
+request = environ.get("wsgi.input").read()  
+secret = request[0:32]  
+json_request = request[32:]  
+  
+if hashlib.md5(" pre shared secret goes here "+json_request).hexdigest() !=
+secret:  
+return error_response("Authentication failed.")  
+  
+req = urllib2.Request(serverURL, json_request)  
+response = urllib2.urlopen(req)  
+json_response = response.read()  
+  
+status = '200 OK'  
+  
+response_headers = [('Content-type', 'text/plain'),  
+('Content-Length', str(len(json_response)))]  
+start_response(status, response_headers)  
+  
+return [json_response]  
+
+The other end of the connection is also django+Python code running on App
+Engine:  
+
+Code:
+
+import hashlib  
+import jsonrpc  
+from google.appengine.api import urlfetch  
+  
+def make_bitcoin_request(server_url, server_secret, method, params):  
+json_request = {  
+"jsonrpc": "2.0",  
+"id": str(time.time()),  
+"method": method, "params": params  
+}  
+  
+json_string = jsonrpc.dumps(json_request)  
+secret = hashlib.md5(server_secret+json_string).hexdigest()  
+  
+try:  
+fetch_result = urlfetch.fetch(payment_server,  
+method="POST", payload=secret+json_string,  
+headers={ 'Content-Type' : 'text/plain' })  
+except urlfetch.Error, e:  
+logging.error('make_bitcoin_request failed: '+str(e))  
+logging.error('Request:'+json_string)  
+return None  
+  
+if fetch_result.status_code != 200:  
+logging.error('make_bitcoin_request failed; urlfetch status code
+%d'%(fetch_result.status_code))  
+logging.error('Request:'+json_string)  
+return None  
+  
+r = jsonrpc.loads(fetch_result.content)  
+if r['error'] is not None:  
+logging.error('make_bitcoin_request failed; JSON error returned')  
+logging.error('Request:'+json_string)  
+logging.error('Result:'+fetch_result.content)  
+return None  
+  
+return r['result']  
+
+  
+I'm happy with how it is working. My biggest worry is that the bitcoind
+process might unexpectedly exit, or fill up the disk with debug.log messages,
+or just generally be flaky. But so far so good...  
+

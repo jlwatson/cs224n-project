@@ -1,0 +1,34 @@
+
+
+Sergio:  
+  
+Is a new type of message necessary?  
+  
+How about just making the transaction relay rules:  
+  
+1) If the transaction has inputs that conflict with one already in the best
+blockchain, drop it.  
+2) If the transaction has inputs that conflict with another transaction in the
+memory pool, and it is the first such conflicting transaction, check the new
+transaction's signatures and if they're OK mark the memory pool transaction as
+"saw a double spend". Then relay the conflicting transaction (but don't
+otherwise remember it).  
+  
+Rule (1) is to prevent an attacker from taking a bunch of her old, already-in-
+the-blockchain outputs and trying to generate a "double spend alert storm" by
+sending bogus double-spend attempts for them.  
+  
+Rule (2) is to limit the amount of network traffic / signature checks an
+attacker can create to be twice what they can generate today (attackers can,
+and do, try to flood the network with transactions, but transaction fees and
+the free transaction relay policy keeps them in check).  
+  
+The GUI/RPC should definitely show attempted-double-spend memory pool (0-conf)
+transactions as "BEWARE".  
+  
+I think those rules will flood the network with the double-spend attempt,
+alerting merchants/users that something odd is happening. Without making it
+possible for an attacker to get the network flooded with gazillions of double-
+spend alert messages.  
+  
+

@@ -1,0 +1,17 @@
+
+
+How will you know if people tend to pick the same types of events, and,
+therefore, create big non-random clusters of choices that might be easily
+brute-forced?  
+  
+Taking an idea from https://gist.github.com/3840286...  
+  
+.... you could store a small number of bitcoin at private key =
+SHA256(memory_key), store the bulk of bitcoin at scrypt(Name+PIN+memory_key),
+and tell users to choose a new memory key if the SHA256(memory_key) coins are
+either ever spent or if that key ever gets funds from somebody else.  
+  
+Because that means somebody else chose the same memory key.  
+  
+  
+

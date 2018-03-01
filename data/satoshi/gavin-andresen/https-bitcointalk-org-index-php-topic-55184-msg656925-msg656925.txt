@@ -1,0 +1,26 @@
+
+
+My reaction to Ben Laurie's papers:  
+  
+Incentives matter.  
+  
+  
+Yes, it is true that we cannot be absolutely, positively safe against a 51%
+attack unless we are absolutely certain 50% or more of the world's entire
+computing resources are dedicated to Bitcoin mining.  
+  
+So what?  
+  
+The natural incentive for somebody with lots of hashing power is to profit by
+playing by the rules, NOT to cheat.  
+  
+And if you assume that your attacker is Rich and Powerful but Economically
+Irrational, then any alternative system that you propose will almost certainly
+be at least as vulnerable as Bitcoin. Create a system that requires 500 semi-
+trusted "mintettes" that all agree on a transaction log and then imagine 251
+Special Agents infiltrating and corrupting the organizations that run those
+mintettes.  
+  
+Increase the number to 40,000 mintettes to make it harder... and you've just
+re-invented Bitcoin.  
+

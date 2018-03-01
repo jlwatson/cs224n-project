@@ -1,0 +1,19 @@
+
+
+This is where I think maybe a standard https-based protocol might work nicely,
+so the same address shortening services can be used either in the bitcoin
+client and for online e-wallets.  
+  
+Something simple, like user says "Please use these services for resolving
+addresses:  
+https://bitdex.net/resolve  
+https://btcquick.com/resolve  
+https://mtgox.com/finduser  
+"  
+  
+Protocol could just be POST the text the user types into the address field and
+get back JSON with a bitcoin address and maybe some extra information to
+reassure the user that they're paying gavin@acm.org "Gavin Andresen (my
+picture) (my gpg key fingerprint)" and not gaven@acm.org "Gaven Smith (some
+other guy's picture) (no gpg key fingerprint)" ...  
+

@@ -1,0 +1,10 @@
+
+
+CIA... sounds scary!  
+  
+I'll make it post to #bitcoin-dev  
+  
+By the way: I cleaned up the SourceForge project a bit today, adding a pointer
+to the Technical Support forum here for support and shutting off some unused
+features.  
+

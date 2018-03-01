@@ -1,0 +1,8 @@
+
+
+Neat idea!  
+  
+As theymos says, this will only work 100% reliably for addresses buried "deep
+enough" in the block chain that the likelihood of a block-chain-re-org is
+vanishingly small.  
+

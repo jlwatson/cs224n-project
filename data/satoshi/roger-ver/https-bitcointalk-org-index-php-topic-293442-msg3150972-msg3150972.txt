@@ -1,0 +1,17 @@
+
+
+I actually requested to have the text changed to:  
+  
+  
+ _Bitcoinstore's policy is to price goods in USD while using a current
+exchange rate. Because hosted wallets often don't immediately broadcast
+transactions, we highly recommend not using hosted wallets to pay for orders
+since there is a high likelihood their transaction broadcast delays will cause
+unnecessary disruption for both us and you. Examples of hosted wallets NOT to
+use for this kind of payment arewww.mtgox.com www.bitstamp.net and
+www.coinbase.com  
+Bitcoinstore.com recommends our users use the bitcoin wallets from
+www.blockchain.info/wallet or http://electrum.org/_  
+  
+Please feel free to add any additional critiques.
+

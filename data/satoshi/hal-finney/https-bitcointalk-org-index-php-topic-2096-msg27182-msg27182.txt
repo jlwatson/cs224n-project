@@ -1,0 +1,17 @@
+
+
+Running ./bitcoin.exe -addnode 192.168.1.48 (which is another computer running
+Bitcoin) produces error: You must set rpcpassword=<password> in the
+configuration file...  
+  
+Same error with -connect. I don't have a bitcoin.conf.  
+  
+Is this right? I'm not interested in rpc, I just want to speed up initial
+block download.  
+  
+When I create the file as required, I then get error: couldn't connect to
+server.  
+  
+I tried telnet 192.168.1.48 8333 and did make a connection, got back the word
+'version and a bunch of gibberish.
+

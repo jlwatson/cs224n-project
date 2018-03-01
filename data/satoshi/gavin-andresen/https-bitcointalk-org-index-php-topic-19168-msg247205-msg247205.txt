@@ -1,0 +1,10 @@
+
+
+Quote from: de_bert on June 19, 2011, 06:28:00 PM
+
+I, for my part, think that even allowing digit grouping is not wise, and the
+comma could be forbidden completely (to avoid ambiguities for people wanting
+to use digit grouping).  
+
+I agree; I think allowing commas in numbers is a bitcoin GUI mis-feature.  
+

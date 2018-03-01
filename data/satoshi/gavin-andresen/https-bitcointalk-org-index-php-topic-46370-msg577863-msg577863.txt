@@ -1,0 +1,14 @@
+
+
+Nice work!  
+  
+That's almost exactly the direction I'm heading with the cross-platform
+testing framework I've been working on, although I was planning on storing
+blocks in JSON format and was planning on using Python's Twisted/Trial
+framework to feed the different chains to the implementations to see if they
+accept or reject them.  
+  
+I got sidetracked by the 0.5 release and then sidetracked again because I
+couldn't resist experimenting with the "OP_EVAL" idea and multisignature
+bitcoin addresses...  
+

@@ -1,0 +1,23 @@
+
+
+Quote from: jonald_fyookball on May 29, 2014, 11:26:32 PM
+
+I thought the BCF is supposed to help pay for dev efforts  
+
+  
+The Bitcoin Foundation **does** help pay for dev efforts; it pays me,
+Wladimir, and Cory Fields (and gives quarterly grants to fund other worthwhile
+efforts).  
+  
+I disagree with the original poster; Bitcoin development is increasingly
+decentralized over time. It started out as centralized as it could possibly
+be-- Satoshi wrote all the code himself (or herself or their-selves).  
+  
+Now we have multiple implementations, multiple altcoins, and multiple wanna-
+be-Bitcoin-2.0 contenders, all with their own dev person-or-team (well, some
+altcoins probably don't have any developers).  
+  
+As for your specific ideas: go for it. If you think they're good ideas,
+implement them (or hire or convince somebody to implement them) and see what
+happens.  
+

@@ -1,0 +1,17 @@
+
+
+Quote from: ankostis on January 19, 2011, 02:00:57 PM
+
+Please, Satoshi, i urge you to rethink, and stop contributing to the MIT-
+licensed client and continue working on a GPL-version.  
+
+  
+Satoshi is busy. Doing what, I have no idea-- maybe he's working on a GPL-
+version of bitcoin, but I doubt it.  
+  
+In any case, I wouldn't expect any opinion on GPL versus MIT from him.  
+  
+My opinion: I've got better things to do than worry about which open source
+license is most appropriate. No software license has magical powers that will
+prevent 'bad guys' from trying to do bad things.  
+

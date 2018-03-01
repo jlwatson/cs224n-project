@@ -1,0 +1,81 @@
+
+
+I'm pleased to announce the launch of the Bitcoin Foundation:  
+
+Quote
+
+Bitcoin Foundation standardizes, protects and promotes the use of Bitcoin
+cryptographic money for the benefit of users worldwide.  
+https://www.bitcoinfoundation.org/
+
+  
+The Bitcoin Foundation is modeled on the Linux Foundation. I think Linux is a
+great "role model" for Bitcoin; it is a very successful open source project
+that really embraced the notion of "open," encouraging the use of the core
+technology for a wide range of applications.  
+  
+I hope that the Bitcoin Foundation will help do the same for Bitcoin.  
+  
+Of course, "the Foundation" won't do anything at all-- people get things done.
+I want the Bitcoin Foundation to be an open, member-driven organization, and
+hope that you or your organization will not only become a member but will help
+the Foundation accomplish its mission.  
+  
+Please visit the Foundation website for details, and please keep in mind that
+nothing is set in stone; the structure of the Foundation can be changed by a
+vote of its members, and exactly what the Foundation does will largely depend
+on who is willing to step up do the work to make things happen.  
+  
+To any of you feel like you should have been invited to be part of the group
+who defined the initial structure and purpose of the Foundation: I apologize.
+But in my experience the larger the group, the longer it takes to get things
+done, and it has been 11 months since I first posted about the possibility of
+forming a Foundation.  
+  
+
+* * *
+
+In what will doubtless be an ineffective attempt to fend off the trolls, here
+are some answers to what I expect might be commonly asked questions:  
+  
+ **Q:** Is this the infamous September Announcement?  
+  
+Yes.  
+  
+ **Q:** How do we know you won't just take our bitcoins and run?  
+  
+We won't. The initial Foundation board members are all people with well
+established reputations using their real names.  
+  
+ **Q:** How do we know you won't lose our bitcoins to hackers?  
+  
+We'll be using a cold wallet, with the private key securely backed up, for
+most of the Foundation's funds; in the near future I expect we'll be using a
+multisignature cold wallet, with keys controlled by multiple Board members to
+keep the funds even more secure.  
+  
+ **Q:** Is this just a front for the CIA? What is the hidden agenda?  
+  
+No. And there is none.  
+  
+ **Q:** The Foundation is a corporation, and corporations (especially US
+corporations) are evil.  
+  
+OK. So don't join-- go form your own non-corporate non-evil organization, or
+just ignore the Foundation and do whatever you think is right.  
+  
+ **Q:** How, exactly, is the Foundation going to spend the money it gets?  
+  
+That depends on how many bitcoins it gets from memberships and donations. See
+Peter's "Letter from the Executive Director" for the current list of
+priorities, and see the Linux Foundation website for an idea of the types of
+things I hope the Bitcoin Foundation will be doing, assuming it has the funds.  
+  
+
+* * *
+
+  
+Finally, thanks to Peter Vessenes, Patrick Murck, Mark Karpeles, Charlie
+Shrem, Jon Matonis and Roger Ver who stepped up and did the work necessary to
+get this started.
+

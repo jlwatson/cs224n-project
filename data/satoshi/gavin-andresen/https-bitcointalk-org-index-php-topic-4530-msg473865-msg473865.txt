@@ -1,0 +1,8 @@
+
+
+Quote from: Venkatesh Srinivas on August 22, 2011, 02:22:26 AM
+
+Would you be interested in nightly builds for DragonFly BSD and OpenBSD?  
+
+Yes, would you be interested in building?  
+

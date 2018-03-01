@@ -1,0 +1,14 @@
+
+
+I pulled Bitcoin QT into the master branch of
+https://github.com/bitcoin/bitcoin/ this morning.  
+  
+See doc/readme-qt.rst for instructions on building Bitcoin QT.  
+  
+And I updated doc/build-*.txt; they are now instructions for building bitcoind
+and don't mention wxwidgets at all.  
+  
+There are still loose ends to tie up, like modifying the build scripts and the
+windows installer; I hope to tie those up in the next week or so, and have a
+release candidate for a version 0.5 available soon.  
+

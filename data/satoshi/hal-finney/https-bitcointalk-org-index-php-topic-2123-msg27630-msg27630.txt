@@ -1,0 +1,39 @@
+
+
+There exists a cryptographic technique called split keys which could be used
+on top of Bitcoin to solve some problems in needing to trust people to make
+Bitcoin transfers. The idea is for the payor and payee to jointly generate a
+Bitcoin address that will receive the payment. Bitcoin addresses are
+essentially public keys, and knowledge of the corresponding private keys are
+what let you spend the coins. In this case, though, a public key is jointly
+generated between the payor and payee, such that each only ends up with, in
+effect, half the private key. Neither party will be able to spend coins sent
+to the address corresponding to this split key.  
+  
+The payor then makes a payment of the agreed amount to this special address.
+Once this is done, the payor has lost the Bitcoins. He can't spend them
+anymore; they belong to this new address which is split between the two of
+them. The payee can't spend the coins either, at this point.  
+  
+To complete the transfer, the second step is for the payor to reveal his part
+of the private key to the payee. Then the payee knows the full private key,
+which gives him control of the address that received the payment. They are now
+his Bitcoins to spend as he likes.  
+  
+The advantage of splitting up the payment into two steps like this is that the
+first step, where the payor makes a payment to the split key, represents a
+very strong commitment on his part to see the deal through. After that step,
+typically the payee must hold up his end of the bargain and perform some
+action he is being paid for. Once that is completed, the second step of the
+transfer occurs and the payee receives his payment.  
+  
+Throughout, no one has any financial incentive to cheat. The first step does
+not benefit the payee, and the only way he gets paid is to perform. And the
+second step does not harm the payor; he is out the coins already and gains no
+benefit from failing to follow through.  
+  
+It is analogous to tearing a $100 bill in half and giving half to someone,
+with a promise to deliver the other half if he cooperates. This is a credible
+commitment and a strong inducement. You have no financial incentive to cheat
+him if he holds up his end.
+

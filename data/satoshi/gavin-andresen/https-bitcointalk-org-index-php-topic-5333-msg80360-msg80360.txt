@@ -1,0 +1,6 @@
+
+
+I added a comment to the PULL request-- I ran into an issue when sanity
+testing this (a testnet wallet that reports an impossibly high balance after
+conversion).  
+

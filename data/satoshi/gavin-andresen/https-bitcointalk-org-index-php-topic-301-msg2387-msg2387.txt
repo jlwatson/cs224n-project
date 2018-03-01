@@ -1,0 +1,27 @@
+
+
+Quote from: RHorning on July 12, 2010, 09:02:46 PM
+
+I guess I'm having problems seeing where this algorithm is necessarily all
+that difficult and can't be sped up in some manner where a dedicated coin
+generator wouldn't have a huge advantage over a normal ordinary client in
+terms of the creation of Bitcoins.  
+
+  
+Sure, you could build specialized hardware that computed SHA256 hashes faster
+than ANYBODY!  
+And then you'd be able to generate most of the bitcoins.  
+  
+So: how much would it cost you, in dollars or euros-- and don't forget to pay
+yourself for the time needed to design and build such a system?  
+  
+Because you'd be able to generate, at most, 50 bitcoins every 10 minutes or
+so. Soon after you started generating, all the other nodes on the network
+notice that bitcoins are being generated quicker than normal and increase the
+difficulty of the problem being solved (you've gotta twiddle the block header
+more times to find SHA256Hash(block_header) < target_value ).  
+  
+If Bitcoins become even more wildly popular, then maybe people will think they
+can profit by building or renting specialized hardware. That would be a very
+good problem for Bitcoin to have.  
+

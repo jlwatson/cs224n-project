@@ -1,0 +1,14 @@
+
+
+Quote from: BitterTea on April 20, 2011, 07:01:33 PM
+
+Clearcoin requires 6 confirmations...  
+
+Actually, Clearcoin only requires 3 confirmations.  
+  
+And now that I've got some pressing core bitcoin stuff off my plate, I'll get
+back to working on a -testnet version of Clearcoin, and as soon as that is
+done I'll be announcing a JSON-RPC API so you can write code that interacts
+with clearcoin (creating escrows, getting their status, releasing coins if
+you're properly authorized, etc).  
+

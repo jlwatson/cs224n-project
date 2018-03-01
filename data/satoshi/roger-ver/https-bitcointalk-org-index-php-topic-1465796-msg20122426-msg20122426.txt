@@ -1,0 +1,11 @@
+
+
+Bitbet.us is down again, and this time it looks like it is down for good.  
+I thought this site was very interesting so I have hired a developer to create
+a similar one hosted by Bitcoin.com  
+I would love some feedback from the community on what features you would like
+it to have.  
+The developer has started a thread about it here:
+https://forum.bitcoin.com/topic32927.html  
+Please post your feature requests there, and we will build it.
+

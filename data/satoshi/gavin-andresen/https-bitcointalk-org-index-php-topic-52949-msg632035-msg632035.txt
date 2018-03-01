@@ -1,0 +1,18 @@
+
+
+Quote from: Mike Hearn on November 27, 2011, 11:18:09 AM
+
+How would that work? The act of inserting sigA or sigB changes the hash of the
+transaction containing the output, invalidating the other signature.  
+
+  
+I can't see how OP_CODESEPARATOR can be used, either. I'm tempted to suggest
+that any transactions using it be 'discouraged' (have miners refuse to build
+on blocks that contain transactions using it).  
+  
+Transaction hashes might be another, separate discussion topic-- I've been
+thinking that the way transaction hashes are calculated/used could be
+improved, although I don't think it is a critical design flaw but in the
+category of "stuff we can live with but that maybe could have been done
+better".  
+

@@ -1,0 +1,19 @@
+
+
+Quote from: ByteCoin on December 01, 2011, 02:30:15 AM
+
+Splendid! Would you be so kind as to rerun the calculations while discarding
+TxOuts with small BTC values, please?  
+Let's say anything below 0.001 can be discarded.  
+
+  
+Interesting idea!  
+  
+Thinking out loud... There Doesn't Have To Be One Way To Do It. Piuk (or
+somebody) should hack together a client or miner that uses a ledger system; it
+could refuse to relay or include any transactions with inputs smaller than
+0.001 BTC, so it only needed a truncated ledger to create new blocks (if it is
+a miner, maybe it connects to a trusted 'traditional' bitcoin node to make
+sure it only builds on valid blocks which might contain tiny inputs).  
+  
+

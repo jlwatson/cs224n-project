@@ -1,0 +1,59 @@
+
+
+When Satoshi released the first windows-only Bitcoin binaries to the world, it
+had to do everything. It was a wallet and a miner and every running node was
+precious, because with only a handful of nodes the network was fragile.
+
+While I was lead developer even more functionality was added- mostly
+developer-friendly hooks (additions to the JSON-RPC programming interface) to
+make it easier for people to build stuff for what was then a tiny community.
+
+I was the only full-time Bitcoin developer for a couple of years, and I tried
+to write code for things I thought would have the highest impact that other
+people weren't already doing. Usually that was something boring but really
+important (like the testnet, the unit testing framework, or the regression
+testing framework; my last major code contribution was a performance
+benchmarking framework). But sometimes I had time to work on new stuff, and I
+always started by thinking about what was the most likely path to Bitcoin's
+success.
+
+I didn't always make the right choice. Before I chose to add functionality to
+the wallet programming interface (the infamous "accounts" feature that
+everybody, including me, came to hate) I remember asking myself if I thought
+Bitcoin should first be used mostly be used as a store of value or a means of
+exchange. In hindsight, I should have spent more time working on the secure
+store of value problem; maybe Core would have great support for creating paper
+wallets and sweeping funds from them if I'd chosen differently. Maybe
+Instawallet wouldn't have been built… although I think it is debatable whether
+Instawallet was positive or negative for Bitcoin's growth (it was certainly
+positive until it got shut down and its users had to jump through hoops to get
+their BTC back).
+
+The Bitcoin ecosystem is incredibly rich and robust these days. I can't keep
+track of all the development that is being done, and I'm excited to see
+multiple implementations of the Bitcoin protocol slowly starting to gain
+acceptance. It will be a long process, but moving away from One True
+Implementation will be very good for Bitcoin in the long run.
+
+My advice to anybody leading an open source Bitcoin implementation project is
+to keep it as simple as possible and know your customer. These days there is
+no reason to do it all; figure out who your customer is and then build exactly
+what they need that they can't already get from somewhere else.
+
+For example, if your customer is big mining pools and miners, talk to them.
+Find out what they're running and figure out what they need. If your software
+will be running on Internet-facing machines then it shouldn't be storing
+private keys **at all** - it is really bad security practice to keep private
+keys on the same machine that is talking to the rest of the world.
+
+If your customer is techno-weenies who love to tinker with stuff, then
+distribute a Docker image with some geek-friendly (non-GUI) interface.
+
+If I was still lead developer for Bitcoin Core… I don't know what I'd do. I
+don't think there would be consensus for "who is the Bitcoin Core customer"
+and any proposal for major changes like "get rid of the wallet code, it is a
+terrible idea to keep private keys protecting potentially millions of dollars
+on a machine that is accepting connections from the Internet" or "drop support
+for Windows and OSX, all the active developers are Linux geeks" would be
+painfully controversial.
+

@@ -1,0 +1,10 @@
+
+
+OP_EVAL, and OP_EVAL-bitcoin-address support were pulled into the master git
+branch two days ago; the plan is still to evaluate miner support on January
+15, and if a majority of miners are supporting it (looks like that won't be a
+problem), to roll out version 0.6 with the low-level support fully enabled.  
+  
+And Luke-Jr is correct: sending coins into an OP_EVAL transaction is perfectly
+safe, but until February 1 it will be unsafe to spend them.  
+

@@ -1,0 +1,10 @@
+
+
+Thanks for the link to the wikipedia page in the other thread... so receiver
+CAN recover 'k' given the public key and signature.  
+  
+Cool!  
+  
+That doesn't solve the problem I'd like to solve (because you still need to
+generate a new keypair for every transaction), but it is cool.
+

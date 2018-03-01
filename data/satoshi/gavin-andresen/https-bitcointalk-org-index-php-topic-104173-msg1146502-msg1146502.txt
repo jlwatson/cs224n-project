@@ -1,0 +1,29 @@
+
+
+Quote from: 1541 on August 30, 2012, 11:12:51 AM
+
+How do miners have to upgrade? Does this affect the single miner or also
+miners working in a pool?  
+
+Solo miners, miners using p2pol, and mining pool operators will eventually
+have to upgrade.  
+  
+RE: "Is there any web service to see the current ratio of v1 / v2?"  
+  
+I bet if you ask nicely blockchain.info will create a page. I expect it to
+take a long time (a year or more) before 95% of the hashing power has upgraded
+and is producing v2 blocks.  
+  
+The getblock RPC call will tell you a block's version number; if you're an old
+bash user like me then you can do something like:  
+
+Code:
+
+last=$(./bitcoind getblockcount);  
+for (( i=last-100; i <= last; i=i+1 )); do echo -n $i; ./bitcoind getblock
+$(./bitcoind getblockhash $i) | grep version; done
+
+... to see the version numbers of the last 100 blocks (I see 2 of 100 right
+now).  
+  
+

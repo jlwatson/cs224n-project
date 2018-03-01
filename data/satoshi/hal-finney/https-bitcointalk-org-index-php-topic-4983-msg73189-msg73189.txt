@@ -1,0 +1,24 @@
+
+
+That's a very concise implementation. I did spot one bug:  
+  
+
+Code:
+
+\+ vector<unsigned char> Encrypt(vector<unsigned char> vchPlaintext)  
+\+ {  
+\+ // max ciphertext len for a n bytes of plaintext is  
+\+ // n + AES_BLOCK_SIZE - 1 bytes  
+\+ int len = vchPlaintext.size();  
+\+ int c_len = len + AES_BLOCK_SIZE, f_len = 0;  
+\+ vector<unsigned char> vchCiphertext(c_len);  
+
+The max ciphertext size is actually len + 2*AES_BLOCK_SIZE, so you should set
+c_len to that, and allocate that much space.  
+  
+Also a security flaw, you are using a constant IV everywhere, it looks like.
+You need to use a different IV for each encryption.  
+  
+One other point, Bitcoin uses a CPrivKey type for sensitive data like private
+keys. It zeroes memory when it's freed.
+

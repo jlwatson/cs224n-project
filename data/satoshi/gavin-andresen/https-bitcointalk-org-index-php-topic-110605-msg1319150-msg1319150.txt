@@ -1,0 +1,14 @@
+
+
+Ummm....  
+.... yeah.  
+  
+Sorry, but tweaking and recompiling my macports boost to support OSX 10.5,
+which is not longer being supported by Apple (or Chrome or several other
+popular projects) just isn't very high on my TODO list.  
+  
+Figuring out why it used to work is even lower on my list.  
+  
+Perhaps you can convince people that you're trustworthy, and release a
+10.5-compiled binary yourself.  
+

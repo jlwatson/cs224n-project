@@ -1,0 +1,25 @@
+
+
+I am not a lawyer.  
+  
+But it looks to me like No, just running Bitcoin doesn't make you a "money
+transmitting business." To be a "business" you have to be charging people for
+your service.  
+  
+If you're running Bitcoin to buy or sell goods or services in exchange for
+bitcoins, I'd say you're not in the money transmitting business.  
+  
+However, if I were to start a company in the business of buying and selling
+Bitcoins, or that was a Bitcoin payment processing intermediary that took a
+percentage of transactions between buyers and sellers, I'd talk to a lawyer
+and jump through all the legal hoops (looks like here in Massachusetts I'd
+need a license and would have to post a $50,000 bond).  
+  
+Or to put it in more concrete terms: I am not a money transmitting business
+when I use my credit card to pay for something from Amazon.com.  
+And Amazon.com is not a money transmitting business just because they accept
+payments.  
+  
+However, Amazon Payments, Inc. (Amazon's Paypal competitor) **is** licensed as
+a money service business in a bunch of US states.  
+

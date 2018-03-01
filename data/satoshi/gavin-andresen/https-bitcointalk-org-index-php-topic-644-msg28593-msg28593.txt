@@ -1,0 +1,13 @@
+
+
+Quote from: Cdecker on July 30, 2010, 06:31:48 PM
+
+I'll be trying to create openSuse and SLE packages too, Debian would be
+possible too, but compiling wx, boost and libdb sounds a bit excessive to me,
+anyone interested in helping?  
+
+  
+Nightly builds are a great idea; does the build service do an automatic svn
+update? Anybody else willing to help get GUI-bitcoin building (or anybody know
+somebody on the wxWidgets team?)  
+

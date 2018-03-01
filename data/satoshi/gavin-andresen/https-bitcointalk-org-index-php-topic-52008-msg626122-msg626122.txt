@@ -1,0 +1,12 @@
+
+
+Quote from: GideonGono on November 21, 2011, 01:04:35 PM
+
+Is version 0.5 safe enough to recover a backed up wallet from? 0.4 isn't
+downloading the block chain when I try to recover.  
+
+Yes.  
+  
+But not being able to download the block-chain sounds like a networking issue
+that 0.5 is unlikely to fix.  
+

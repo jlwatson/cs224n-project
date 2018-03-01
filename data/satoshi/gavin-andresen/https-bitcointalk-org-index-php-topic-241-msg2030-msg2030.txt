@@ -1,0 +1,7 @@
+
+
+Would the transactions on the other block chain be lost?  
+  
+I thought they'd just be re-integrated into the new-best-chain (if they were
+valid), just starting with '1 confirmation' again...  
+

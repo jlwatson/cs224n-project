@@ -1,0 +1,11 @@
+
+
+This is a single-line change that allows non-standard transactions to get into
+the transaction memory pool (and, therefore, relayed and written into blocks)
+on -testnet.  
+  
+Satoshi suggested this to me in an email a few weeks ago, and I agree it is a
+good idea-- we should encourage people to experiment on -testnet with new
+features, or they will figure out less efficient ways of wedging what they
+want to do into the existing standard transaction types.  
+

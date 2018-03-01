@@ -1,0 +1,26 @@
+
+
+RE: limitfreerelay:  
+  
+Agreed, that's better. I think we should start soft-coding the amount that is
+considered "free" instead of hard-coding CENT, and make the default less than
+0.0001 BTC.  
+  
+Separate subjects:  
+  
+The entire transaction memory pool should be size-limited, with lower-priority
+transactions dropped.  
+  
+I agree with Steve-- free transactions are a HUGE selling point, and I think
+rational miners should realize that their bitcoins will be more valuable if
+there are more users. And there will be more users if "free transactions" is a
+feature. I think we can come up with a solution where "normal" transactions
+are free, but spam or abnormally complicated transactions (yes, like those
+bitpenny rewards pooled mining participants are currently getting once a day)
+"require" a fee (where "require" is really "if you don't include a fee your
+transaction will probably never be confirmed.")  
+  
+And finally... we've got a problem right now; lets think about what fix(es)
+move us in the right direction quickly, or think about fixes that will solve
+the current problem (that we may need to undo/rework later).  
+

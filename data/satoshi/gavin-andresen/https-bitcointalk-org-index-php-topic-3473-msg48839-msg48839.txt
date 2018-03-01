@@ -1,0 +1,30 @@
+
+
+Please download and test the Windows and Linux release candidate builds of
+Bitcoin version 0.3.20.01:  
+https://sourceforge.net/projects/bitcoin/files/Bitcoin/bitcoin-0.3.20/  
+  
+Summary of changes and new features (see pull requests for details):  
+  
+-nolisten : https://github.com/bitcoin/bitcoin/pull/11  
+-rescan : scan block chain for missing wallet transactions  
+-printtoconsole : https://github.com/bitcoin/bitcoin/pull/37  
+RPC gettransaction details : https://github.com/bitcoin/bitcoin/pull/24  
+listtransactions new features : https://github.com/bitcoin/bitcoin/pull/10  
+  
+Bug fixes:  
+  
+New seed nodes : https://github.com/bitcoin/bitcoin/pull/59  
+New testnet genesis block : https://github.com/bitcoin/bitcoin/pull/53  
+Optimize database writes : https://github.com/bitcoin/bitcoin/pull/43  
+-maxconnections= : https://github.com/bitcoin/bitcoin/pull/42  
+RPC listaccounts minconf : https://github.com/bitcoin/bitcoin/pull/27  
+RPC move, add time to output : https://github.com/bitcoin/bitcoin/pull/21  
+several improvements to --help output.  
+  
+  
+SHA1 sums (UPDATED for 0.3.20.01):  
+  
+7dfbc05b36112f59886a29f044cfd21c6c253169 bitcoin-0.3.20-linux.tar.gz  
+2a4affd92dd11e0b759f90a8fa4bead58bdbf7b4 bitcoin-0.3.20-win32-setup.exe  
+

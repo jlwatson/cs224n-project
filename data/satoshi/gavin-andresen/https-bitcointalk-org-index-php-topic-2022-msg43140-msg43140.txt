@@ -1,0 +1,7 @@
+
+
+So... who's excited about doing either a little wxWidgets programming or a lot
+of "port the bitcoin GUI to Qt" programming?  
+  
+This isn't going to happen unless somebody actually does it...
+

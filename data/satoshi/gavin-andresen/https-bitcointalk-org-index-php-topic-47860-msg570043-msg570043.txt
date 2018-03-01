@@ -1,0 +1,15 @@
+
+
+I can't resist, the problem of how to bootstrap a new chain in the face of
+massive, hostile hashing power fascinates me.  
+  
+CoinHunter, what will happen to SolidCoin if, God forbid, you get hit by a
+bus? What are the plans for the trusted CPF wallets? Do your heirs get control
+of them?  
+  
+And what if SolidCoin is wildly successful-- so successful that each SC is
+worth 1,000 euros? Will somebody still need 1 million of them (so have to be a
+euro billionaire) to be trusted?  
+  
+  
+

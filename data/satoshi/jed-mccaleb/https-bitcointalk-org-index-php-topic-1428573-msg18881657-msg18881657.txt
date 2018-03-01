@@ -1,0 +1,12 @@
+
+
+Re: stellar vs ripple  
+Not that much detail but someone made this:
+https://galactictalk.org/d/72-ripple-users-tutorial  
+One major difference is our consensus algorithm:
+https://www.stellar.org/developers/guides/concepts/scp.html  
+watch the video.  
+  
+Distribution to bitcoin and some xrp holders:
+https://www.stellar.org/blog/bitcoin-claim-lumens-2/
+

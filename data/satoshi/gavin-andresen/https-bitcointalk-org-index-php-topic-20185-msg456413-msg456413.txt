@@ -1,0 +1,25 @@
+
+
+Update:  
+  
+The EFF donation account/address was at mybitcoin, so half of them are gone.  
+  
+I received 1,879 from the mybitcoin claims process. They are now safe in an
+offline, encrypted wallet; here is the transaction:  
+http://blockexplorer.com/tx/4b32ed2f7c1422ced7f1f0be88b2afe355c59180be72e942df085d93f1c8737a  
+  
+
+* * *
+
+According to block explorer, 3515.06 BTC were donated to the donation address
+I had for them:  
+http://blockexplorer.com/address/1MCwBbhNGp5hRm5rC1Aims2YFRe2SXPYKt  
+  
+49% of that would have been about 1,722 BTC, not 1,879. I'm guessing the
+difference is because of donations from other mybitcoin customers just
+crediting the eff account without generating a block-chain transaction.  
+  
+Before sending coins to the Faucet, I think I'll create a patch to always send
+"change" to the same address, so it is really easy to keep track of these
+bitcoins and make sure they're not sent anywhere other than the Faucet.  
+

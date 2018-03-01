@@ -1,0 +1,18 @@
+
+
+Quote from: marked on February 27, 2012, 08:39:56 PM
+
+Doesn't gavinandresen have a protocol fuzzer?  
+
+  
+https://github.com/gavinandresen/bitcoin-git/tree/fuzzer  
+  
+... but it is pretty narrowly targeted at stress-testing the transaction
+validity code.  
+  
+Last year at the NYC conference I mentioned that I would really like to see
+somebody who knows a lot more about network simulation than I do develop tools
+to help test proposed protocol changes, simulate Sybil or DoS attacks, etc.  
+  
+I'd still really like to see that...
+

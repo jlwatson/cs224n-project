@@ -1,0 +1,16 @@
+
+
+Quote from: jon_smark on February 05, 2011, 07:44:22 PM
+
+I'm running version 0.3.19 and I cannot find neither `getblock` nor
+`monitorblock`. Are these new methods coming for 0.3.20? Well, if `getblock`
+does what I think it does (ie, return all information available about a given
+block number, including block hash and transactions) then it would of course
+be an alternative way to implement the "shoot-myself-in-the-foot" client.
+Everybody can be happy, yay!  
+
+  
+They're not in 0.3.20; maybe 0.3.21.  
+https://github.com/gavinandresen/bitcoin-git/tree/monitorreceived  
+... is the not-yet-ready-for-prime-time branch they're on.  
+

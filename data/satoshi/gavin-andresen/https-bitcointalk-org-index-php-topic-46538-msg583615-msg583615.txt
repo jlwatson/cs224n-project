@@ -1,0 +1,10 @@
+
+
+Draft BIPs, comments very welcome:  
+  
+https://github.com/gavinandresen/bitcoin-git/wiki/BIP-OP_EVAL  
+https://github.com/gavinandresen/bitcoin-git/wiki/BIP-Bitcoin-Address-01  
+https://github.com/gavinandresen/bitcoin-git/wiki/BIP-M-of-N-Standard-
+Transactions  
+  
+

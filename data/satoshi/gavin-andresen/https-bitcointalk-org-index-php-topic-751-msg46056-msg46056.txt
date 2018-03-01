@@ -1,0 +1,12 @@
+
+
+Quote from: Insti on August 08, 2010, 08:10:34 AM
+
+(We probably need a public bug tracking/feature request system.)  
+
+  
+The public bug tracking/feature request system is at:  
+https://github.com/bitcoin/bitcoin/issues  
+  
+Vote up issues/bugs that are important to you there.  
+

@@ -1,0 +1,15 @@
+
+
+I like this feature request; I think it will enable even more interesting uses
+of bitcoin. I created a feature request at github for it.  
+  
+Example: a store that accepts bitcoins could verify that a customer sending in
+a question about some transaction actually IS the same person who sent them
+the bitcoins, by asking the customer to sign their message using one of the
+same bitcoin addresses they used to sign the coins.  
+  
+If the "store" is a privacy-focused VPS provider and the question is "Hey, I
+lost the root password to the virtual server, could you generate a new one and
+encrypt it with this gpg public key", then tying that message to a bitcoin
+transactions is extremely useful.  
+

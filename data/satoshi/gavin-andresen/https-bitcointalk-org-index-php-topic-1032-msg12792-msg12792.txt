@@ -1,0 +1,20 @@
+
+
+Quote from: jgarzik on September 14, 2010, 06:58:21 PM
+
+encrypt by default, with payee's public key  
+
+... but a payer typically has only the bitcoin address, and not the payee's
+full public key. There'd have to be some way to get the full public key for a
+bitcoin address.  
+  
+I like the idea of being able to send encrypted messages to "whoever has
+bitcoin address BLAH", but I'm not sure that functionality should be
+piggybacked on the "send BLAH X.YZ bitcoins".  
+  
+If they were implemented under the covers as separate functions, then a "Send
+a message along with payment" could easily be implemented as:  
+1\. Send BLAH X.YZ bitcoins, and note the transaction ID.  
+2\. Send BLAH an encrypted message: "txid:{transaction_id}:Please send the
+sixteen My Little Pony DVDs to..."  
+

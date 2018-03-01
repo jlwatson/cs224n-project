@@ -1,0 +1,11 @@
+
+
+Copy the wallet.dat file somewhere safe and secure.  
+To be 100% belt-and-suspenders safe, shut down Bitcoin before doing the copy.  
+  
+wallet.dat is:  
+Linux/unix: ~/.bitcoin/wallet.dat  
+Windows: %APPDATA%\Bitcoin\wallet.dat (I think; I don't run Windows)  
+Mac: ~/Library/Application Support/Bitcoin/wallet.dat  
+  
+

@@ -1,0 +1,24 @@
+
+
+Quote from: hazek on January 30, 2012, 05:12:45 PM
+
+I understand that but I thought when this idea was first presented it was said
+that the user would keep both key's a in a backup wallet so you couldn't be
+held hostage with your service provider.  
+
+  
+Yes, that's the use-case I care most about -- you have control over all of
+your keys, you just put them in multiple places so if you lose control of
+(say) your computer you don't lose your bitcoins.  
+  
+But there are other use-cases, like you agreeing to let the government control
+half the keys, so the government can "guarantee" the transactions, etc. I can
+imagine the PR campaign: "It is just like Federal Deposit Insurance (FDIC),
+only for Bitcoin!"  
+  
+I don't think that will ever happen, though. I know I wouldn't trust the
+government to keep the keys to my money safe and secure, I don't think most
+people would, either. More likely is most people will trust banks to hold half
+the keys, and the governments will then regulate the banks like they do today
+to get information about who is paying who for what....  
+

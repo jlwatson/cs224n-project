@@ -1,0 +1,47 @@
+
+
+The changes in the last year were "soft forks" -- forks that required all
+miners to upgrade (if they don't, their blocks are ignored), but that do not
+require merchants/users to upgrade.  
+  
+\-------  
+  
+A couple of random, half-baked thoughts I had this morning:  
+  
+If you think that the block size should stay at 1 megabyte forever, then
+you're saying the network will never support more than 7 transactions per
+second, and each transaction will need to be for a fairly large number of
+bitcoins (otherwise transaction fees will eat up the value of the
+transaction).  
+  
+If transactions are all pretty big, why the heck do we have 8 decimal places
+for the transaction amount?  
+  
+Don't get me wrong, I still think the bitcoin network is the wrong solution
+for sub-US-penny payments. But I see no reason why it can't continue to work
+well for small-amount (between a US $1 and $0.01) payments.  
+  
+If there are a very limited number of transactions per day and billions of
+dollars worth of BTC being transacted (that's what we all want, yes?) then
+obviously each transaction must be large. So, again, why bother having 8
+digits after the decimal point if each transaction is hundreds of bitcoins
+big?  
+  
+\------  
+  
+Second half-baked thought:  
+  
+One reasonable concern is that if there is no "block size pressure"
+transaction fees will not be high enough to pay for sufficient mining.  
+  
+Here's an idea: Reject blocks larger than 1 megabyte that do not include a
+total reward (subsidy+fees) of at least 50 BTC per megabyte.  
+  
+"But miners can just include a never broadcast, fee-only transactions to jack
+up the fees in the block!"  
+  
+Yes... but if their block gets orphaned then they'll lose those "fake fees" to
+another miner. I would guess that the incentive to try to push low-
+bandwidth/CPU miners out of the network would be overwhelmed by the
+disincentive of losing lots of BTC if you got orphaned.  
+

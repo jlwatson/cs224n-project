@@ -1,0 +1,39 @@
+
+
+RE: Why OP_CODEHASHVERIFY is bad:  
+  
+First, it requires that you concatenate the scriptSig and the scriptPubKey and
+execute them as on Script.  
+  
+Bitcoin used to validate scripts that way, but ArtForz discovered a bug in
+July of 2010 (the OP_RETURN bug) that allowed anybody to spend anybody else's
+bitcoins. It by far Bitcoin's biggest bug and Satoshi's biggest brain-fart.  
+  
+Part of the fix was to make executing the scriptSig completely independent of
+executing the scriptPubKey (see commit 7f7f07 in the tree if you're really
+interested).  
+  
+Is there some other subtle bug involving the interaction of OP_CODESEPARATOR,
+OP_CHECKSIG, OP_IF and the proposed OP_CODEHASHVERIFY lurking? I don't know,
+and I'm not about to risk all of Bitcoin to find out.  
+  
+Second, Luke obviously isn't very familiar with all the details of transaction
+validation, or he would know that a scriptPubKey needs to leave a true value
+on the stack or validation fails. So either OP_CODEHASHVERIFY both verifies
+AND leaves a true value on the stack (in which case it is inconsistent with
+the other VERIFY opcodes that consumer their operands) or it should be
+OP_CODEHASHEQUAL.  
+  
+Third, the whole reason OP_EVAL caused controversy and was withdrawn is
+because adding a new opcode is more risky than adding a little extra
+validation logic. OP_CODEHASHVERIFY is almost as risky as OP_EVAL.  
+  
+Fourth, the code Luke posted is a joke. ~~He doesn't modify VerifyScript to
+combine the scriptSig and scriptPubKey, so there is no way for the code hash
+to get communicated between the scriptSig and the scriptPubKey.~~ I think he
+is just trying to do whatever he can to cause trouble and confusion.  
+  
+strikethrough added: I read through his code again and his code is a joke for
+a different reason than I thought at first glance (I missed the vchLastScript
+nonsense).
+

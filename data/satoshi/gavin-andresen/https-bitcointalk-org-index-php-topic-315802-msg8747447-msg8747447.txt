@@ -1,0 +1,7 @@
+
+
+I think we're seeing some people submitting lots of tiny, trivial commits --
+perhaps because they get more of the tipping pie.  
+  
+I'm not sure how to combat that bad incentive....  
+

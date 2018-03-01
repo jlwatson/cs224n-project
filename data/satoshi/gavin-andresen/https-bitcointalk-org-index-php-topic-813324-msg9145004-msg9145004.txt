@@ -1,0 +1,38 @@
+
+
+Quote from: hello_good_sir on October 09, 2014, 07:12:37 PM
+
+An extremely large block size would mess up the economics of mining
+eventually.  
+
+  
+I'm working on a follow-up blog post that talks about economics of the block
+size, but want to get it reviewed by some real economists to make sure my
+thinking is reasonably correct. But I'm curious: why do you think an extremely
+large block size will mess up the economics of mining? What do you think would
+happen?  
+  
+RE: geometric growth cannot go on forever: true, but Moore's law has been
+going steady for 40 years now. The most pessimistic prediction I could find
+said it would last at least another 10-20 years; the most optimistic, 600
+years.  
+  
+I'd be happy with "increase block size 40% per year (double every two years)
+for 20 years, then stop."  
+  
+Because if Bitcoin is going gangbusters 15 years from now, and CPU and
+bandwidth growth is still going strong, then either the "X%" or the "then stop
+date" can be changed to continue growing.  
+  
+I did some research, and the average "good" broadband Internet connection in
+the US is 10Mbps speed. But ISPs are putting caps on home users' total
+bandwidth usage per month, typically 250 or 300GB/month. If I recall
+correctly, 300GB per month was the limit for my ISP in Australia, too.  
+  
+Do the math, and 40% of a 250GB connection works out to 21MB dedicated to
+Bitcoin every ten minutes. Leave a generous megabyte for overhead, that would
+work out to a starting point of maximum-size-20MB blocks.  
+  
+(somebody check my math, I'm really good at dropping zeroes)  
+  
+

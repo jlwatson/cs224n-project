@@ -1,0 +1,10 @@
+
+
+According to Gavin's
+https://github.com/gavinandresen/bitcointools/blob/master/NOTES.txt,
+serialization of any vector object gets preceded by a count of the number of
+elements in the vector, in the variable-length 1/3/5/9 byte format. I added
+this count field to the new wiki, e.g. to addr messages. Also, block messages
+contain a vector of their transactions, so that part is also preceded by a
+variable-length count.
+

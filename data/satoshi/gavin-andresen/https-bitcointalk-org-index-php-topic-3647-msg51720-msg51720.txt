@@ -1,0 +1,8 @@
+
+
+Can you post examples of requests/responses with the "old" JSON-RPC and your
+new JSON-RPC?  
+  
+I'm still firmly against this change-- it seems to me you are "solving" a non-
+problem.  
+

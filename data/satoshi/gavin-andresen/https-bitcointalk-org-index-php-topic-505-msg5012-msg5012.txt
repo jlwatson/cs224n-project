@@ -1,0 +1,20 @@
+
+
+I think this won't work because there is not a one-to-one relationship between
+"unspent transactions" and public keys.  
+  
+Example: I start with 0 BTC. Two people each send me 50, to the same receiving
+address "GavinPubKey".  
+  
+Balance Sheet: GavinPubKey: 100  
+I spend the first one:  
+Balance Sheet: GavinPubKey: 50  
+  
+If I'm dishonest, what stops me from waiting a few months and then spending
+that first 50 again instead of spending that second 50? Double-spending that
+first 50 will look like a perfectly valid transaction to any nodes using the
+balance sheet method who weren't around to see the first time I spent it.  
+  
+  
+  
+

@@ -1,0 +1,11 @@
+
+
+It might make more sense to allow non-sensitive RPC commands to function
+without a password. Where "non-sensitive" would be getblockcount/getdifficulty
+maybe getnewaddress/getaccountaddress and a new 'you clicked on a bitcoin: URI
+so popup a payment confirmation dialog'.  
+  
+"Making it easier for other applications to integrate with bitcoin" is bad if
+the other applications are trying to steal your wallet, so I'm reluctant to
+have bitcoin do things like create passwords for users.  
+

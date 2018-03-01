@@ -1,0 +1,7 @@
+
+
+If we are seriously considering putting this in the client, are there concrete
+plans to use this? Is someone committed to investing in making and selling
+scratchoff cards? Or is this patch useful for some other case that doesn't
+require such specialized equipment?
+

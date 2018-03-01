@@ -1,0 +1,5 @@
+
+
+Sure, use multisig and store the keys on two different types of hardware (e.g.
+cell phone and computer).  
+

@@ -1,0 +1,11 @@
+
+
+EFF blog post: https://www.eff.org/deeplinks/2011/06/eff-and-bitcoin  
+  
+RE: refunding donations by proving you own one of the private keys that
+donated: interesting idea! Anybody willing to write code to do that? Could be
+a fun project... (find all the transactions that donated to EFF, dig out the
+public keys, come up with a way to sign/verify a message with private key
+proving you own a public key, then keep track of which donation transactions
+have already been refunded)  
+

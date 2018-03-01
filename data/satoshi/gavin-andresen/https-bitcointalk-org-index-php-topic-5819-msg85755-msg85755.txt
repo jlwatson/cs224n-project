@@ -1,0 +1,27 @@
+
+
+That pattern is definitely the faucet. The big mining pools are already using
+the new 'sendmany' functionality to pay lots of people with one transaction.  
+  
+I'm thinking of doing something similar for the Faucet. Perhaps:  
+  
+\+ Bundle up requests for payments, so instead of sending out payment right
+away you have to wait a bit (15 minutes or an hour or... something somewhat
+random and non-predictable).  
+  
+\+ Dropping the Faucet reward AGAIN so there is less incentive to cheat. I'll
+need to use sendmany so the faucet isn't paying as much in fees as it is in
+bitcoins it gives out.  
+  
+And maybe:  
+  
+\+ Publicly display the queue of waiting requests. This would be the tricky
+part-- I don't want to just dump email address and IP address, but I do want
+to dump enough information so people looking at the information can tell the
+difference between a cheater and legitimate users.  
+  
+\+ A way of flagging requests as "looks like cheating to me". This is also
+hard-- griefers might decide it would be fun to flag lots of legitimate
+requests.  
+  
+

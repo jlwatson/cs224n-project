@@ -1,0 +1,18 @@
+
+
+Old coins are preferred over new coins because transaction spammers spend
+coins over-and-over again quickly to try to flood the network with
+transactions.  
+  
+Unintentional transaction spammers (like people playing SatoshiDice over and
+over) accidentally do the same thing, so their transactions are given low
+priority and can take a long time to get confirmed.  
+  
+Maybe think of it this way:  
+  
+\+ Transaction fees are to pay miners to include your transactions.  
+\+ Transaction priority is used to "pay" for the network bandwith used by free
+transactions (note that any node relaying or listening for transactions pays
+the cost of every extra transaction).  
+  
+

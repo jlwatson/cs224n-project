@@ -1,0 +1,30 @@
+
+
+Quote from: [mike] on February 11, 2011, 08:44:45 AM
+
+That's a limited and scarce resource. The right approach to pricing a scarce
+resource is to let the price of it float on the market rather than trying to
+figure out its component costs and then simply pegging the price to that.
+Otherwise you're imposing price controls and can end up with shortages.  
+
+  
+I agree. However, at this point "we" have to decide what the default rules
+are, and what is decided now will influence what people think is "fair" two
+years from now (when, hopefully, bitcoin is in the process of becoming wildly
+successful).  
+  
+Also, I've read a couple of popular behavioral economics books (e.g.
+Predictably Irrational), and I think there might be some irrationality that
+could make bitcoin more successful. For example, "free" is a magical number.
+If we can make most bitcoin transactions "free" to the typical user, then
+that's a huge selling point.  
+  
+There ARE hidden costs; the reason I want to do the back-of-the-envelope is to
+figure out how big those hidden costs are now and how big they're likely to
+get in the future. It isn't rational, but most people would rather have "free
+transactions", even if they end up paying 10 cents more in electricity costs
+every month whether or not they actually make any transactions.  
+  
+(I may move this to the Economics topic depending on where the discussion
+goes)
+

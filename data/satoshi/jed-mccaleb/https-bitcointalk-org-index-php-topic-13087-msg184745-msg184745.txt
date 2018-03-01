@@ -1,0 +1,12 @@
+
+
+There are already a bunch of other threads about this.  
+To me the best solution by far is to just change what we mean when we say
+bitcoin.  
+so 1 BTC now = 1,000,000.00 BTC or whatever in the new client.  
+  
+UBC is the second best option but it seems bad to lose the bitcoin name.  
+  
+A good side effect is now people won't ask "But there are only 21 million
+bitcoins. how can that work?"
+

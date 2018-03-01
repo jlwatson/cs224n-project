@@ -1,0 +1,21 @@
+
+
+Can you'all educate me about these mythical rounding errors that require using
+GMP?  
+  
+I can see, maybe, if you're computing interest down to the penny on a 30-year
+mortgage you might conceivably be off by a penny if you use 64-bit floats
+instead of 64-bit integers, although even there you're going to have to think
+hard about rounding as you get integer remainders.  
+  
+And I can see being really careful if you're writing a bitcoin exchange site
+or bitcoin bank that deals in thousands of internal transactions that must all
+balance exactly.  
+  
+But for the typical PHP website that is just going to add up 10 items in a
+shopping cart using plain-old PHP Numbers will be just fine. I don't see
+PayPal recommending that PHP users of it's APIs install GMP. Recommending that
+any website dealing with bitcoins compile genjix' fork and use GMP is a really
+good way to ensure that nobody accepts bitcoins.  
+  
+

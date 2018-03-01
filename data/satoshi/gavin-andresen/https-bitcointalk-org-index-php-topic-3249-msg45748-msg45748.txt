@@ -1,0 +1,13 @@
+
+
+Quote from: JohnDoe on February 08, 2011, 06:05:44 PM
+
+Uh, the official client is being actively developed on github...  
+
+  
+Yup.  
+  
+Patches welcome, although before accepting any more patches "we" need to build
+the 0.3.20 release. Assuming my cold doesn't get a lot worse, I'll be trying
+to make that happen tomorrow...  
+

@@ -1,0 +1,4 @@
+
+
+The client doesn't support multisignature transactions yet.  
+

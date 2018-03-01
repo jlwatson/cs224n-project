@@ -1,0 +1,38 @@
+
+
+WAY too many issues being mixed up here... I'm sorry I ever framed this as
+"moving the decimal point"  
+  
+I think the next release of Bitcoin should:  
+  
+\+ Show full-precision bitcoins in the GUI. If you have 1.5 BTC, it will
+display as it does now ("1.50").  
+If you have 1.50001 BTC, it will display the extra precision.  
+  
+\+ Allow you to send full-precision from the GUI and from JSON. If you have
+1.500001 BTC, you will see  
+you have that many and can send that many.  
+  
+\+ Incorporate luke-jr's patch to avoid losing "dust change", when possible.
+(e.g. if you have received transactions of 1.5000001 and 20 BTC, and then send
+1.5, Bitcoin shouldn't choose just the 1.5000001 input transaction).  
+  
+Those issues are being driven by pooled mining-- a lot of people are getting
+sub-cent bitcoins from their pooled mining shares.  
+  
+  
+Then there's the issue of "what is a micro-transaction for which you should be
+forced to pay a fee." Currently, it is any transaction with an output less
+than 0.01 BTC.  
+  
+And the issue of "what is the minimum fee" (also currently 0.01 BTC).  
+  
+Ideally, transaction fees should reflect real-world costs... although just
+making them hidden costs that are spread between everybody running bitcoin
+might work perfectly well. Still, I'd like to get a rough idea of the real-
+world cost of a transaction.  
+  
+  
+It is too early to be worried about "paying 0.001 bitcoins for a pair of
+socks".
+

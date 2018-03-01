@@ -1,0 +1,18 @@
+
+
+Quote from: btcdrak on March 19, 2014, 03:44:53 PM
+
+On the Mac build at least, the "pre-release build" banner is showing. Seems
+like that flag was not turned off?  
+
+  
+This was a release process bug; I re-built/signed/uploaded the OSX .dmg to fix
+it (and updated the SHASUMS files).  
+  
+The warning is harmless, and no code was changed, so if you don't want to re-
+download and install you don't have to.  
+  
+Thanks to lots of hard work from Luke Dashjr and Cory Fields we should
+(fingers crossed!) have deterministic OSX builds working before the next
+release, which will make this kind of error impossible.  
+

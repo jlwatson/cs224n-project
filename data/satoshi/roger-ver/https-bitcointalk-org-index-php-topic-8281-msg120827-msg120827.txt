@@ -1,0 +1,25 @@
+
+
+Quote from: Hawkix on May 14, 2011, 04:51:59 PM
+
+A question: Did you use the same password for deepbit login as for submitting
+the shares from mining client?  
+  
+Because if did, then anyone who can spy on your HTTP headers (local network
+users) then can see your password, too.  
+  
+On deepbit, you can set another password for worker (even the first), but by
+default, the passwords are the same. Not safe IMHO.  
+  
+
+  
+I think you are right about this being my weakest link.  
+  
+The deepbit screen hides the actual login password, but displays all the
+passwords for each worker in the client.  
+Until today, we used the same password for both.  
+Multiple people (about ten) in the warehouse could of looked at the screen and
+noticed the username and password.  
+I think my only chance is by finding the IP address of the person who logged
+into my deepbit account.  
+

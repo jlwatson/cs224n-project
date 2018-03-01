@@ -1,0 +1,17 @@
+
+
+Quote from: toffoo on December 04, 2011, 05:40:47 AM
+
+Just curious, why the change and are there any plans to compile future
+releases as 64-bit again?  
+
+  
+Why the change: because it is twice as fast to compile just 32-bit, a 32-bit-
+only executable is smaller and faster to download, and there is no advantage
+to running 64-bit (bitcoin doesn't need more than 4 gigabytes of memory, there
+are no performance-critical routines that would be faster running 64-bit,
+etc).  
+  
+If there's a good reason to compile 64-bit, or if we ever drop support for
+32-bit Macs then a 64-bit version would make sense.
+

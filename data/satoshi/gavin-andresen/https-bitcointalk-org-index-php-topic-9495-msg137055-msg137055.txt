@@ -1,0 +1,18 @@
+
+
+If I understood the paper correctly (I skimmed it very quickly), this is a
+timing attack that requires the attacker send a bunch of things to be
+**signed** with the same ECDSA private key.  
+  
+The good news is it they also give a patch to OpenSSL to fix it. The other
+good news is bitcoin only signs things with private keys when you send coins,
+and if you have the ability to ask bitcoin to send coins then we don't really
+care if you can get the private key.  
+  
+We do have a patch in the "pull queue" that adds a RPC command to let bitcoin
+sign stuff ( https://github.com/bitcoin/bitcoin/pull/183 ), but, again
+assuming I read the paper correctly, even that doesn't worry me, since if you
+have the ability to run that RPC command you could either go through all the
+trouble of the timing attack to figure out the private key... or you could
+just issue a "send" command to steal all the bitcoins out of the wallet.  
+

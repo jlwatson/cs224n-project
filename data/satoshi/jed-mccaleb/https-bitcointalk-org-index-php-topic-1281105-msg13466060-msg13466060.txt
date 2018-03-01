@@ -1,0 +1,8 @@
+
+
+No that is the beauty of lightning is that you can keep the off chain
+transactions decentralized.  
+This post was about making lightning transactions work for the stellar network
+though. But you can use Stellar to send around bitcoin so it could work for
+bitcoin as well.
+

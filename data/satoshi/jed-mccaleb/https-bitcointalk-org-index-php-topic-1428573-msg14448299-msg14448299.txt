@@ -1,0 +1,353 @@
+
+
+  
+#stellar and #stellar-dev on IRC  
+QQ Group: 275158187  
+  
+  
+
+  
+  
+Stellar (XLM) is a completely decentralized consensus platform.  
+It is designed to support any type of currency.  
+It has a built in decentralized exchange that can be used to trade any type of
+currency or asset.  
+  
+Features & Specifications  
+
+  * 3-5 second confirmation time
+  * Supports thousands of transactions per second
+  * Can be used to send or trade any currency, asset, or token.
+  * Open-source
+  * Uses SCP rather than Proof of Work. Whitepaper
+  * Simple, clean API
+  * Multisig and smart contracts
+  * Decentralized distributed database
+  * 100B XLM created initially
+  * 1% fixed annual inflation
+
+  
+Coin Distribution  
+Since the Stellar network doesn't use mining, all the coins exist when the
+network starts.  
+The majority of these are held by the non-profit Stellar.org.  
+Stellar.org is distributing the coins in the following way:  
+
+  * 50B XLM: to be given in small increments to as many people as possible.
+  * 25B XLM: to be given to other businesses and non-profits to reach people that stellar.org wouldn't otherwise be able to reach through the Direct Signup program.
+  * 20B XLM: to be given to bitcoin and XRP holders (announcement about the details of this coming soon)
+  * 5B XLM: retained by Stellar.org for operations.
+
+More information about the coin distribution can be found here.  
+You can see the distribution to date here.  
+  
+How it works  
+Decentralized network  
+A decentralized network consists of peers that can run independently of each
+other.  
+
+  
+
+This means that the Stellar network does not depend on any single entity. The
+idea is to have as many independent servers participate in the Stellar network
+as possible, so that the network will still run successfully even if some
+servers fail.  
+  
+Ledger  
+Like a traditional ledger, the Stellar ledger records a list of all the
+balances and transactions belonging to every single account on the network. A
+complete copy of the global Stellar ledger is hosted on each server that runs
+the Stellar software. Any entity can run a Stellar server.  
+  
+These servers form a decentralized Stellar network, allowing the ledger to be
+distributed as widely as possible. The servers sync and validate the ledger by
+a mechanism known as consensus.  
+This entire process of coming to consensus on the Stellar network occurs
+approximately every 2-5 seconds.  
+Prof. David Mazières describes the technical process of consensus in his white
+paper, The Stellar Consensus Protocol (SCP). You can also explore other
+resources explaining SCP.  
+  
+Anchors, trust, and credit  
+Anchors are simply entities that people trust to hold their deposits and issue
+credits into the Stellar network for those deposits. They act as a bridge
+between different currencies and the Stellar network. All money transactions
+in the Stellar network (except the native digital currency of lumens) occur in
+the form of credit issued by anchors.  
+Anchors do two simple things:  
+1) They take your deposit and issue the corresponding credit to your account
+address on the Stellar ledger.  
+2) You can make a withdrawal by bringing them credit they issued.  
+You have to trust the anchor to honor your deposits and withdrawals of credit
+it has issued.  
+Anchors exist in the pre-stellar world now. For example, to use Venmo, you
+deposit money in from your bank account. Venmo then gives you credit in your
+Venmo account. You can now send that Venmo credit to anyone that trusts Venmo
+(anyone with a Venmo account). Someone that received your Venmo credit can
+convert it to real money by withdrawing it to their bank.  
+Anchors perform the same function in Stellar. The difference is, all the
+"Venmos and other anchors are operating on the same network so they can all
+transact with each other now  this makes the system way more powerful. People
+can now easily send and exchange all these different anchor credits with each
+other.  
+  
+  
+Distributed Exchange  
+The Stellar ledger is able to store offers that people have made to buy or
+sell currencies. Offers are public commitments to exchange one type of credit
+for another at a predetermined rate. The ledger becomes a global marketplace
+for assets.  
+All these offers form what is called an orderbook. There is an orderbook for
+each currency/issuer pair. So if you are wanting to exchange Virgin Bank/EUR
+for bitstamp/BTC you look at that particular order book in the ledger to see
+what people are buying and selling it for.  
+This allows people to not only buy and sell currencies in a foreign exchange
+like manner but also to convert currencies seamlessly during transactions.  
+  
+Multi-currency transactions  
+
+  
+
+Stellar allows you to send any currency you hold to anyone else in a different
+currency through the built-in distributed exchange. People can receive any
+currency through an anchor they added.  
+For example, Amy wants to send Bob euros, using her BTC balance. Stellar will
+automatically convert her BTC to EUR. The network will find the best exchange
+rate for the transaction.  
+  
+Stellar Development Foundation  
+Stellar.org (Stellar Development Foundation) is a nonprofit organization that
+contributes to the Stellar networks development and ensures it remains open
+and accessible to everyone.  
+Our mission is to connect people to low-cost financial services to fight
+poverty. We envision a prosperous world where everyone can improve their own
+lives through access to affordable payments, credit, and savings accounts.  
+More details and FAQs about Stellar.org  
+Press  
+
+  * Tech Startups Chase Something Other Than Profits | Wall Street Journal
+  * Stellar Partners With Oradian To Bring Instant Money Transfer To Nigeria | TechCrunch
+  * A New Competitor for Bitcoin Aims to Be Faster and Safer | MIT Technology Review
+  * The Power of Developing Platforms not Products | PSFK
+  * Stellars Jed McCaleb: Whats New on the Upgraded Stellar Network | Bitcoin Magazine
+
+Videos  
+
+  * 6 million financial transactions for just 20 cents | PopTech
+  * Non-Profit On Purpose | Bullish 
+  * Joyce Kim, Stellar at Fast Forward Demo Day | Fast Forward 
+
+  
+Developers  
+Make money move as easily as email: develop a Stellar application or run a
+node on the network.  
+
+  * Libraries and tutorials
+  * Horizon (API server)
+  * Stellar Core
+  * Create a test account
+  * Ideas for what to build
+  * Interactive developer tools
+
+Dev help: #stellar-dev on IRC or slack.stellar.org #dev channel (theyre
+mirrored)  
+  
+Community  
+The main community space is slack.stellar.org, a real-time chat group with
+over a thousand members.  
+You can also join a local Stellar community.  
+
+  
+
+  
+  
+Wallets/apps  
+https://galactictalk.org/d/6-stellar-wallets-overview/7  
+  
+https://github.com/TbLtzk/Centaurus Centaurus was the first stellar wallet
+available on google play. It is completely open source!  
+  
+https://saza.com.ng/ Saza is a stellar wallet that helps users manage lumens
+and other assets. Features include: Manage multiple Stellar accounts, Send
+payments in different assets, Create/Manage Trustlines, Create/Manage Offers,
+View all operations on account, Set all account options.  
+  
+https://www.ecliptic.co \- Ecliptic is a Stellar Wallet and Trading Client. It
+has the ability to add multiple wallets, including hosted, client-side and
+read-only accounts.  
+  
+https://github.com/Proxiweb/starwallet  
+  
+https://luuun.com/ Luuun is local lumens made easy. It is the easiest way to
+send money to the remotest areas of the world. Anyone can buy/sell lumens for
+cash from a local agent. Simply, 1.) Place a buy/sell request for lumens in
+your local currency, 2.) Wait for local tellers to respond. View and accept a
+teller offer nearby. 3.) Navigate to teller, provide a code and exchange cash.
+In addition, Luuun is a web based wallet for your lumens, digital currencies
+and other assets on the Stellar network.  
+  
+http://lobstr.co/ Lobstr is a wallet for Stellar. Lobstr is available as a web
+app and also has native Android and iOS apps. Lobstr is a smart and secure way
+to send and receive Lumens. It's clean design and helpful features like email
+notifications simplify the whole experience and make Lobstr one of the most
+user friendly wallets.  
+  
+https://github.com/jojopoper/go-StellarWallet Can run in windows and linux,
+can support the record query and send and receive Lumens. Command line
+application mode, easy operation. Does not save the local file, you can use as
+a cold wallet. Supports Chinese and English.  
+  
+https://stellar-portal.ngfar.io/ Stellar Portal is a web application to view
+and manage stellar accounts. It relies completely on Horizon and has no
+backend. You can view balances, offers, orderbooks and payment, and do most of
+operations.  
+  
+http://equid.co/wallet/ The eQuid wallet holds eQuid. eQuid is a complementary
+currency that is different from other crypto currencies by the way it is
+injected into the economy. It is earned into existence rather than mined.  
+  
+http://ledgercn.com Stellar xlm send and receive, account trade history ,
+merge account. Support federation service. Support Chinese and English
+language UI. Multi-Account manage, easy to use. Support friend manage.  
+  
+http://ledgercn.com/wallet Easy to use. No need to register, open the web page
+can be used. Support Chinese and English language. Support send and receive
+lumens, merge account, and simple trade history. UI support mobile web
+explorer.  
+  
+https://getstargazer.com Stargazer is a wallet application for mobile (i.e.
+Android) and desktop. Multiple accounts, multiple assets, multiple networks,
+multiple languages. The vision is to push the limit; to raise the bar for what
+a wallet is, and what you can do with it -- without adding to much fluff. For
+a overview of the capabilities, and how they work, walk through the tutorial.  
+  
+https://stellarterm.com/ StellarTerm is a web based trading client. With full
+ability to interact with the Stellar distributed exchange. It aims to make it
+easy and safe for users of any skill level to trade on the Stellar network.
+One big feature is that it has a up-to-date list of all the anchors so that
+users will have a simpler and safer experience.  
+  
+http://ledgercn.com/wechat Service for wechat user. Support Chinese and
+English. Now includes wallet and blockchain browser features, convenient,
+safe, fast, without the need to install any APP can be used. Support
+Federation service, send and receive Lumens more convenient.  
+  
+  
+http://stellarchain.io \- Transaction explorer  
+  
+http://ledgercn.com/wechat/blockchain/index.html Stellar network block chain
+explorer. Support Chinese and English language.The most comprehensive block
+chain browser for the Stellar network is now available.  
+  
+http://codetip.io/ -A simple and easy way to show your appreciation for people
+on github. It allows you to send lumens to anyone with a github account.  
+  
+https://www.256kw.com/lucky/ -site for giving lumen gifts to multiple people
+or groups.  
+  
+http://stellarinflationpool.com \- An inflation pool.  
+  
+https://stellardice.com \- Gamble with your lumens  
+  
+https://sta2020.github.io/stellar-twitter-alerts/ It allows users to subscribe
+to notifications of operations on their stellar account. All that is required
+is your twitter ID and stellar account ID. Once subscribed you will get
+transaction alerts on twitter via direct messages  
+  
+https://stellarlookout.com/ \- service that lets you get text message
+notifications regarding transactions that happen on your Stellar account.  
+  
+http://www.bikewin.co Bob lives in Berlin, Bob pay the deposit to "own" a bike
+in Shanghai. Bob remote "invest" a bike which is belong to Bob , and the bike
+rent incoming everyday will come back to Bob's account. technology: stellar
+payment special: Bob pay not only the deposit, but a invest  
+  
+https://twitter.com/dearstellar DearStellar is a Twitter bot that listens to
+mentions from Stellar users who want their account balances to be checked. The
+Stellar users are instructed to tweet their account ID's in a particular
+format. The Twitter bot collects the account ID from the tweet and makes use
+of it to find the account balance. When this is done, the Twitter bot tweets
+back at the Twitter user to inform them about the success of the process or an
+error report. The account balance is then sent as a direct message to the
+Twitter user.  
+  
+http://kish.pythonanywhere.com/ My app provides account details of a Stellar
+Account.  
+  
+http://stellardesk.org/ StellarDesk provides a powerful yet simple way to look
+into the Stellar network, query data, and make transactions.  
+  
+https://rehive.com/ \- White label wallet that supports Stellar.  
+  
+http://stellar.network/ -A graphical representation of the validating nodes in
+the network.  
+  
+https://github.com/eyecandyDev/stellar-instant-transfer \- Add lumen donations
+to your site.  
+  
+https://github.com/bjfish/stellar-core-es-indexer \- Indexes Stellar Core data
+into Elasticsearch  
+  
+https://jfbramson.github.io/stellar_rekey/ Simple web app to re-key or
+completely move all stellar account assets from one address keypair to
+another.  
+  
+https://github.com/thor1887/stellar-extended-merge It merges stellar accounts
+that have custom assets and offers. The normal merge function only merges xlm.
+This takes it a step further. It basically copies all assets/offers from
+source to destination account. It also sets up trustlines. All this is done in
+the browser. The application allows you to choose if it is to run on the Test
+network or the public network  
+  
+https://multisigstellar.github.io/multisig/ It allows users to easily create
+and sign multisignature transactions.  
+  
+https://zee2093.github.io/stellar-slack-bot/ A slack bot for stellar. It works
+in 2 ways. Streaming: It streams all operations on the stellar network to a
+channel. Queries: It allows users to query the stellar network for basic
+information such as accounts details, balance and transaction details.  
+  
+https://github.com/hamzonation/stellar-mailgun-notify It listens for
+operations in the network and sends out notification using the mailgun api.  
+  
+https://eyecandydev.github.io/stellar-instant-transfer/ This is a plugin that
+allows Instant transfer of assets to a given account. It has been modified to
+handle transfer of non-native assets, and an option to use on live/test
+network. The transaction is built and signed in the browser so your private
+key is not transferred through the network. Will be ideal for donation
+plugins.  
+  
+https://jgban.github.io/stellar-tradex/ It gives information about recent
+offers the stellar network. It also allows users to query for bids/asks and
+recent trades for a given asset pair. It gets the recent trades by querying
+the most recent operations and then filtering out the manage offers and create
+passive offers operations. In doing so, it gives an idea of what offers are
+currently being made for any asset pair and you can bid accordingly.  
+  
+https://app.ledgercn.com Open stellar to users of various SNS sites(currently
+wechat supported only) and everyone can issue and manage their assets easily.  
+  
+http://www.funtracker.site/chart/index.html A simple web app that displays
+tables and charts of stellar.org asset history prices. Data feed is from
+funtracker.site API.  
+  
+https://github.com/sparrow-ai/ofac Facilitates U.S. anchors' compliance with
+BS and AML regulations by providing a webservice that scrubs names against the
+OFAC's Specially Designated Nationals List.  
+  
+http://vaultuser.pythonanywhere.com/ It generates random key pairs for use
+with Stellar account.  
+  
+  
+  
+Markets  
+You can purchase lumens on any of these known markets and exchanges.  
+  
+Announcements  
+
+  * Sign up for the general newsletter for monthly updates
+  * Sign up for the developer newsletter for tips, best practices, and updates
+  * Join the integrator releases mailing list for important software update information (this is mainly for people actively building on the Stellar network)
+  * Join slack.stellar.org for real-time info
+  * Forum https://galactictalk.org/
+

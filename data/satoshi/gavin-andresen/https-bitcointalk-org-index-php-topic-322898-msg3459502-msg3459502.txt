@@ -1,0 +1,9 @@
+
+
+Please don't say "official client" -- there is no "official."  
+  
+"Reference implementation" is more accurate.  
+  
+Lack of SPV mode in the reference implementation is mostly due to lack of
+testing / code review resources.  
+

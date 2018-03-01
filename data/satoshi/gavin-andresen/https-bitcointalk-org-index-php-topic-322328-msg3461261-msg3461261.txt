@@ -1,0 +1,10 @@
+
+
+Quote from: genjix on November 02, 2013, 12:34:43 AM
+
+https://bitcoinfoundation.org/blog/?p=204 \- the projects there were
+incomplete implementations and mostly recent.  
+
+  
+You're right, I apologize. I just added libbitcoin to that list.  
+

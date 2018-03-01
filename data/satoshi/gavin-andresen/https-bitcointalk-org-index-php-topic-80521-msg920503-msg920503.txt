@@ -1,0 +1,21 @@
+
+
+Quote from: realnowhereman on May 24, 2012, 04:01:34 PM
+
+I'm not familiar enough with Satoshi client internals to easily understand
+what script_tests is doing. Could you confirm my understanding of the format
+of the two JSON files?  
+
+  
+The format is a list of pairs, where the first item is the scriptSig required
+to spend and the second is the scriptPubKey. The third item is ignored (useful
+for comments).  
+  
+script_valid.json contains only valid scriptSig/scriptPubKey pairs.  
+script_invalid.json contains only invalid scriptSig/scriptPubKey pairs.  
+  
+valid/invalid are defined by the rules of transaction validation, and the unit
+test actually constructs transactions and runs the verification routine on
+them to make sure that they succeed or fail, as expected.  
+  
+

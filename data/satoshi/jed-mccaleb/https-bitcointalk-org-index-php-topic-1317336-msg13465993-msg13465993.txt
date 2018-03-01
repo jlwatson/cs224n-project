@@ -1,0 +1,8 @@
+
+
+If you are in SF this is a great way to understand how this new consensus
+algorithm works:  
+http://www.meetup.com/SF-Bitcoin-Devs/events/227871781/  
+He also explains paxos in the beginning of the talk. Which is great if you
+have ever tried to read the paxos paper.
+

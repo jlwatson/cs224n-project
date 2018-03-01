@@ -1,0 +1,8 @@
+
+
+It's possible to do purely P2P poker using cryptography to shuffle the cards.
+The problem is that either all n players have to cooperate to decrypt a card,
+in which case if any player leaves the hand can't be completed; or t < n
+players suffice to decrypt a card, in which case any t players could collude
+to learn other players' cards. But it could work for a friendly game.
+

@@ -1,0 +1,27 @@
+
+
+What if the consensus is that the Bitcoin network should not be used to
+support DNS (as I expect)? Then the only alternative is to go forward with a
+parallel but independent block chain, creating a second currency. Are we ok
+with that?  
+  
+I have a couple questions about
+http://privwiki.dreamhosters.com/wiki/Bitcoin_DNS_System_Proposal  
+  
+When you register a name, there is a fee to a DNS server. In the doc, this
+appears like a Bitcoin transaction fee. The first example shows 10.01 input
+and 0.01 output, so the 10.00 difference would be a transaction fee. But tx
+fees go to miners. Is it assumed that miners are the same as DNS servers? Or
+would there be a 2nd output, a fee to a particular DNS server to get it to
+register you, in addition to a tx fee to the miner?  
+  
+Are you allowing name changes of the main part of the domain? Like
+elephantfood.bitdns can change to dogfood.bitdns (if it is available)? Or is
+this disallowed, in which case, exactly which kinds of name changes are
+allowed?  
+  
+Would anyone who wants be able to run one of these special DNS servers, or do
+you envision there being relatively few of these?  
+  
+Thanks -
+

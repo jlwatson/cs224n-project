@@ -1,0 +1,11 @@
+
+
+It always bothered me that the MySQL's SELECT... LIMIT statement could skip
+records if the database was changing between calls, but that doesn't seem to
+bother anybody else.  
+  
+This patch is very much like MySQL LIMIT, is needed for the same reason
+(paging through results efficiently in a GUI), is backwards compatible, and
+looks good to me.  
+  
+

@@ -1,0 +1,17 @@
+
+
+Quote from: dogisland on November 22, 2011, 04:31:10 PM
+
+Would the majority of the miners have to upgarde to a BIP 0011 compatible
+version of the Bitcoin server before we could use this functionality ?  
+
+Yes.  
+  
+I'm testing patches against the last two versions of Bitcoin (0.3.23 and
+0.4.1) for BIPs 11 and 12 right now to make it as easy as possible for miners
+to support them. Review or help testing is very welcome:  
+  
+https://github.com/gavinandresen/bitcoin-git/tree/v0.3.23_op_eval  
+https://github.com/gavinandresen/bitcoin-git/tree/v0.4.1_op_eval  
+  
+

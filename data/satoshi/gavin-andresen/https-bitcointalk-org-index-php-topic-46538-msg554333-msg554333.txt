@@ -1,0 +1,24 @@
+
+
+RE: be wary of OP_EVAL:  
+  
+Agreed, we need to think hard about whether or not attackers could Do Evil
+Things like create an innocuous little script that pushed an infinite amount
+of data onto the stack or something (lets see... Serialized(<OP_DUP OP_DUP
+OP_EVAL>) OP_DUP OP_EVAL would do that...). Disallowing recursion (no OP_EVALs
+allowed in the OP_EVAL data) would, I think, prevent all of that mischief.  
+  
+RE: OP_EVAL means no more IsStandard: I agree with ByteCoin. A ScriptSig would
+be IsStandard if it's ScriptPubKey was IsStandard, and if it's ScriptPubKey
+was the generic OP_EVAL form then the last value pushed by the ScriptSig would
+also have to pass the IsStandard test (deserialized into a Script).  
+  
+RE: data should always be protected by a hash script: I think the answer is
+"don't be an idiot" and "use standard transaction types that have been banged
+on / thought through."  
+  
+RE: sender/recipient negotiating a transaction: I think that may become the
+most common way of creating a transaction, but I don't think it will ever be
+the only way.  
+  
+

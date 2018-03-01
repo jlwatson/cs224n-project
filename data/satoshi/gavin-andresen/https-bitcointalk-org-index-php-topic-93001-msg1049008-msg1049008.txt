@@ -1,0 +1,24 @@
+
+
+Quote from: retep on July 23, 2012, 04:13:39 PM
+
+What'll happen is people will offer services to do the hashing for you, then
+sell the partial pre-image to the highest bidder  
+
+  
+What partial pre-image? I assume the message being hashed is "Transfer THIS
+domain to THAT public key." (with probably a timestamp thrown in there that
+can't be too far ahead or behind current network time and, of course, a long
+nonce)  
+  
+I imagine the hash-for-hire services would just ask their clients for the
+public key; I know I wouldn't want a hash-for-hire service to have access to
+my site's private key, they could sell it out from under me!  
+  
+RE: a personal website or small domain being evicted: yep. You should offer to
+sell out for a couple bitcoins less than it will cost that big, evil
+corporation to find an eviction hash so at least you get compensated. There's
+very little difference between "legitimate little guy who's last name happens
+to be Ford" and "domain squatter."  
+  
+

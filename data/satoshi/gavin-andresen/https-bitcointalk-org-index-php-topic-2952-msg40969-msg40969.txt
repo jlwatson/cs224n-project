@@ -1,0 +1,13 @@
+
+
+There are:  
+1,461,501,637,330,902,918,203,684,832,716,283,019,655,932,542,976 possible
+bitcoin addresses.  
+  
+As ribuck says, that is a very big number. There are approximately:  
+133,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000  
+  
+.. atoms in the Earth, so even if you used just 100 atoms to store each
+bitcoin address, you'd run out of atoms before you were done generating
+addresses.  
+

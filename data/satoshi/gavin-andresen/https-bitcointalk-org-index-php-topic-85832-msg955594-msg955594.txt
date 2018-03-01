@@ -1,0 +1,26 @@
+
+
+Quote from: cbeast on June 11, 2012, 04:44:27 PM
+
+I bet Gavin got one or two of the prototypes and is digging into it as we
+speak. I hope we get a status report soon.  
+
+No, I don't have a prototype.  
+  
+The hardware is real and very cool, but they've got a lot of work to do on
+software and user interface and manufacturing process and marketing and
+distribution and.... . Expect the design to change before you can actually buy
+one. And like all really innovative projects (and to quote the MythBusters)
+"Failure is always an option."  
+  
+Answering detailed questions about exactly how it works right now would be a
+waste of time, because I think before it ships most of the answers will be
+different. The meeting in Vienna was for bitcoincard to get early feedback on
+whether or not they're headed in a good direction.  
+  
+RE: why would you want a bitcoincard versus just using your cellphone: I
+personally think you'll want both; I'm trying to convince them that the
+bitcoincard could be a perfect "second device" for multisignature
+transactions. Cell phone viruses and trojans and malware will be the next big
+wave of security vulnerabilities.  
+

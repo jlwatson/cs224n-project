@@ -1,0 +1,25 @@
+
+
+Quote from: ShadowOfHarbringer on March 31, 2011, 02:12:05 AM
+
+Ok.... so Gavin asked me (many times before and now) for the proof that the
+banking/financial industry avoids floats.  
+
+  
+HOW MANY TIMES DO I HAVE TO YELL THIS???  
+  
+Of COURSE you shouldn't use floats internally (unless you are doing something
+trivial like adding up items in a shopping cart).  
+  
+We are talking about the JSON-RPC api. Which is an api for communicating
+between bitcoin and other applications, in which all values are turned into
+strings.  
+  
+So: what are the best practices in the banking world for representing monetary
+values in strings? As far as I can tell, the answer is "write them out as
+decimal values and convert them to Decimal() or integer as you read in or
+write out."  
+  
+Which is exactly what Bitcoin does, and which is what I think we should
+recommend to people.  
+

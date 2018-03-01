@@ -1,0 +1,5 @@
+
+
+The "old-school cypherpunk" is Perry Metzger, who is (still) the moderator of
+the Cryptography mailing list, where Satoshi first announced Bitcoin.
+

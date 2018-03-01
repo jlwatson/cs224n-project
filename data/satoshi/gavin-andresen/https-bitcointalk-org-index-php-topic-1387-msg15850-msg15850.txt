@@ -1,0 +1,14 @@
+
+
+Quote from: davidonpda on October 07, 2010, 02:11:09 PM
+
+That's what I thought... just wanted to make sure before I started. davidonpda
+is 10 and will probably never get there haha!  
+
+  
+But if it supported regular expressions "david.*on.*pda" would probably be
+found in a reasonable amount of time...  
+  
+Of course, if you were unlucky it'd find something like
+1davidSpoonLApdaDDY13iu8 (not a real bitcoin address)  
+

@@ -1,0 +1,18 @@
+
+
+Before I left for vacation, I submitted a pull request that makes the default
+policy for miners "more fees == more likely to get into a block." That will be
+in the 0.7 release (the policy before was mostly "higher priority == more
+likely to get into a block"), and I've been encouraging the big mining pool
+operators to implement something similar if they have their own transaction-
+selection code.  
+  
+When I get back from vacation I plan on writing code to watch the transactions
+that do or do not make it into blocks to derive an estimate of the average
+miners' fee policy, and use that to recommend a reasonable fee to the user.  
+  
+Those changes will let fees float naturally-- users and miners will form a
+market and fees will rise or fall based on what users are willing to pay and
+what miners are willing to accept. I don't like the arbitrary, centralized
+setting of fees that we've had up until now.  
+

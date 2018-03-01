@@ -1,0 +1,14 @@
+
+
+On the question of how many domain names to create per day:  
+  
+http://www.domaintools.com/internet-statistics/  
+  
+There are about 100 million active domain names, and 400 million expired ones.
+About 300,000 changes occur per day, divided equally between creation,
+expiration, and transfers.  
+  
+If we create only 50 domains per block, 6 blocks per hour, that is 7200 domain
+names per day. At that rate it would take like 50 years to create 100 million
+domains. So it seems necessary to make names faster.
+

@@ -1,0 +1,10 @@
+
+
+If processing old transactions becomes expensive, then miners will start
+charging transaction fees to include them in their blocks.  
+  
+Speculating about exactly HOW the miners will charge (will they subscribe to
+an 'old transaction service' or somehow contact the old-transaction-spender
+for the merkle branch of the old transaction?) is a waste of time, in my
+humble opinion.  
+

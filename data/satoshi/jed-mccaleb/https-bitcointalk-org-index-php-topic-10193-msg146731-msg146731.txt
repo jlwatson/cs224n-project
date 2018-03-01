@@ -1,0 +1,47 @@
+
+
+Mike Hearn:
+
+Quote
+
+If I don't have to choose who I trust then how do I know what I see on the
+screen reflects the same reality other people see? In particular, if I want to
+become a merchant, how do I stop somebody from connecting to my node and
+feeding it fictional transactions that show me being a millionaire?
+
+  
+If you want to become a merchant yes you should enter in some nodes that you
+trust. If you are just a random person checking out the software then there is
+some bootstrapping process (like there is for bitcoin) that gets you connected
+to the network. At that point everyone you connect to will tell you the hash
+of the current ledger. If you notice a discrepancy then yes you will have to
+jump through some hoops. Come to the forum and ask for a list of trusted nodes
+or something. But again this level of trust is very low. You could pick 100
+random forum users and be fine.  
+  
+
+Quote
+
+Currently I don't really have to trust any miners. According to the
+bitcoinwatch site, no pool has even 40% right now, and in the long run I
+expect mega-pools to be even less common.
+
+You don't have to trust a particular miner but you do have to trust that
+artforz and deepbit aren't conspiring. Which is analogous to having to trust
+that more than 50 of the random forum users you picked to trust aren't working
+together.  
+  
+kjj:
+
+Quote
+
+You would need not just 50% of the world's hashing power, but closer to 95%+
+of it if you wanted to pull off any meaningful BTC scam.
+
+I don't think so. You can steal the vast majority of blocks from then on by
+storing up blocks you generate and release them only when someone else also
+solves one. Not sure if you consider that meaningful or not. (There was some
+long ago thread about this that I can't find now) You could double spend by
+getting one block ahead of the good network and then just stay ahead until you
+are ready to drop your one block longer chain.
+

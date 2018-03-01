@@ -1,0 +1,10 @@
+
+
+Signatures are DER encoded in Bitcoin, and your signature above is in the same
+format. 30 is a sequence of values, in this case the two ECDSA components,
+called r and s. 46 is the length of the sequence. Then 02 means integer, 21 is
+the length, followed by 0x21 bytes which is the r value. Then there's another
+02 and length for the s value. If the high bit of r or s is set, they get 00
+prepended so it's clear they're positive. Bitcoin sigs have exactly the same
+format as you can see in any blockexplorer.com dump.
+

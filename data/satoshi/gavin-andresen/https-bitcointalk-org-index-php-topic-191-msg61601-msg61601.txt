@@ -1,0 +1,16 @@
+
+
+RE: changing things now "just in case" :  
+  
+No, I think it would be dumb to switch hashing algorithms or public/private
+keylengths now, for at least two reasons:  
+  
+1\. You'd just be switching from older technology that has the advantage of
+being well-tested and "battle-hardened" to something newer that you THINK will
+be more secure.  
+  
+2\. There are much more important things to work on. If you know enough about
+crypto to evaluate whether Whirpool really is fundamentally more secure than
+SHA-256, please apply your knowledge to the problems we have right now, like
+making users' wallets more secure against trojans and malware...  
+

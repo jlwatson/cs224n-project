@@ -1,0 +1,31 @@
+
+
+I'm better at thinking through things using specific examples, so bear with
+me: let's use Mars as the extreme case, and say I'm on Mars and want to
+double-spend some bitcoins.  
+  
+I talk to my cousin in New York, and send him some coins with the "Mars"
+locality. We agree that we'll use the same coins to buy candy bars on January
+1, 2040, 10:00:00 UTC, me on Mars and him in New York.  
+  
+So the New York candy machine just rejects my cousin's transaction OR makes
+him wait the 40 minutes for communication between Earth and Mars? Wouldn't it
+be more likely that the New York candy machine just accepts the transaction
+after seeing no double-spends after, oh, I dunno, maybe two seconds?  
+  
+After all, Bitcoin+ Payment Verification Systems, Incorporated knows it is
+highly connected into the majority Bitcoin network with very low latency, so
+it knows that if it blasts a transaction into the network and doesn't see a
+double-spend after two seconds the chances are very, very, very good that it
+will be declared the first spend.  
+  
+If the New York payment system accepts the transaction every time, then the
+Mars verifier will lose every time. I'm pretty sure the New York folks will
+tell the Mars folks "tough cookies, you should set up MarsCoin for low-latency
+transactions up there."  
+  
+I don't know much about high speed trading with millisecond latency, and,
+frankly, don't care much about high speed trading with millisecond latency. It
+wouldn't bother me at all if you can't use Bitcoin for that (and you have to
+set up a SpeedyCoin system for doing that sort of thing).  
+

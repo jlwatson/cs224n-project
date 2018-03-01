@@ -1,0 +1,53 @@
+
+
+Quote from: jl2012 on October 04, 2012, 05:25:06 PM
+
+However, if the exchange is completely disappeared, the BTC in the multi-sig
+accounts will be lost forever. Therefore, we need some "emergency exit
+mechanism". When the multisig account is setting up, an additional condition
+is added: (e.g.) "After 1 Jan 2013, the coins in this account can be spent by
+signature of key U only".  
+
+  
+If you held a pre-signed transaction that sends the funds back to you with a
+lockTime of 1 Jan 2013 that would work.  
+  
+Lets see... thinking out loud...  
+  
+Start by asking the exchange for a brand-new public key to use for their half
+of the 2-of-2 transaction. Call the send-coins-into-2-of-2 transaction "F"
+(for Fund).  
+  
+You create and sign that transaction, but don't broadcast it yet.  
+  
+Use it's transaction id to create a second, one-input-two-signature,
+lockTime=1/1/2013 transaction that refunds the coins to you. Call that "R"
+(for Refund).  
+  
+Send R to the exchange and ask them to sign it using that brand-new public key
+they gave you. The exchange checks the lockTime and then returns R and the
+signature to you. You check the signature, and if it is good, broadcast F (and
+keep the half-signed R someplace safe).  
+  
+If 1/1/2013 rolls around and you want your coins back, you sign your half of R
+and broadcast it.  
+  
+
+* * *
+
+  
+I'd have to think a little harder than I want to right now about whether or
+not signing R knowing only txid==HASH(F) opens up the exchange to attacks. I
+can't think of any, but the exchange providing a signature when it doesn't
+know the details of exactly what it is signing makes me nervous.  
+  
+You could send the unsigned R and the signed-but-not-broadcast F to the
+exchange and trust that the exchange will not broadcast F unless they agree to
+sign R.  
+  
+
+* * *
+
+I think holding on to pre-signed-but-not-broadcast-yet transactions is a
+technique "we" don't think about enough.  
+

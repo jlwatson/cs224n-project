@@ -1,0 +1,25 @@
+
+
+Quote from: Mike Hearn on August 25, 2012, 01:23:43 PM
+
+If we manage the first hard fork process successfully...  
+
+  
+I don't think a new signature algorithm doesn't require a hard fork; redefine
+an OP_NOP as OP_CHECKSIGVERIFY2 that uses ed25519, create a new 'standard'
+transaction type that uses that new opcode, and a new bitcoin address type
+that corresponds to it, then start by rolling out miner support, etc. as
+sketched out here.  
+  
+That would probably be better than a hard fork; I'm not sure what the
+transition plan would look like for old transactions if OP_CHECKSIG was
+redefined to use the ed25519 curve.  
+  
+If the new transaction type was significantly cheaper, then cheaper
+transaction fees could incentivize people to upgrade their clients/wallets.  
+  
+I don't think now is the right time to do any of that, mostly because I
+wouldn't be surprised if some solution for instant "off the chain" payments is
+adopted instead, in which case perhaps sep256k1 transaction cost will be
+negligible.  
+

@@ -1,0 +1,6 @@
+
+
+If the private keys in the wallet were encrypted, then the virus couldn't get
+them until you entered your password to make a payment. This might give you a
+chance to discover and eliminate the virus before it can do harm.
+

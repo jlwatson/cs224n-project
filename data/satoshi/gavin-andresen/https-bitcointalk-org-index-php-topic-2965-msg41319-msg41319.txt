@@ -1,0 +1,14 @@
+
+
+Quote from: ribuck on January 25, 2011, 03:17:27 PM
+
+The analogy doesn't stretch further than being a cute graphic. Individual
+bitcoins don't exist in any meaningful way, nor do the individual specks of
+bit-dust. There is no notion of 21 million coins, numbered 1 to 21,000,000.  
+
+  
+Sure there is-- block 0 contains coins 0-49, block 1 coins 50-99, etc.  
+  
+If you get sent 500 bitcoins, they can all be traced back to generation
+transactions, so you "own" a bunch of little pieces of land in bitcoin-world.  
+

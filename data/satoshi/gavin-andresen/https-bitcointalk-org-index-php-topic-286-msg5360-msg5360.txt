@@ -1,0 +1,11 @@
+
+
+What's funny?  
+  
+A server lying about whether or not your transactions are valid would be like
+your ISP lying about whether or not your HTTP requests are valid or not.  
+  
+If they lie, you'll very quickly find another service provider (or download a
+Bitcoin iPhone app that doesn't suck and say that your transactions are
+invalid).  
+

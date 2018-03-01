@@ -1,0 +1,55 @@
+
+
+Selling my Butterfly Labs BitForce 5 GH/s SC (aka Jalapeno) ASIC miner.  
+  
+It has been reliably cranking out about 5 and a half GH/s at about 35 watts
+for  
+two weeks now; I'm selling it just so I have one less thing in my life to
+think about.  
+  
+I paid 25.9 BTC for it; best offer over 26 BTC before 16:00 UTC Sunday, 9 June
+gets it.  
+I'll ship it UPS/USPS/Fedex on the 10'th or 11'th, you must pay shipping (e.g.
+if you  
+want it overnight, add shipping charges from Amherst, MA 01002 to your
+payment).  
+  
+PGP signed version of the above, so you know this is really me and not a
+scammer who managed to hack my forum account:  
+
+Code:
+
+\-----BEGIN PGP SIGNED MESSAGE-----  
+Hash: SHA512  
+  
+Selling my Butterfly Labs BitForce 5 GH/s SC (aka Jalapeno) ASIC miner.  
+  
+It has been reliably cranking out about 5 and a half GH/s at about 35 watts
+for  
+two weeks now; I'm selling it just so I have one less thing in my life to
+think about.  
+  
+I paid 25.9 BTC for it; best offer over 26 BTC before 16:00 UTC Sunday, 9 June
+gets it.  
+I'll ship it UPS/USPS/Fedex on the 10'th or 11'th, you must pay shipping (e.g.
+if you  
+want it overnight, add shipping charges from Amherst, MA 01002 to your
+payment).  
+\-----BEGIN PGP SIGNATURE-----  
+Version: GnuPG v1.4.9 (Darwin)  
+  
+iQIcBAEBCgAGBQJRrftpAAoJECnZ7msfxzDBeZQP/iver66p7TpihqndjdcCAlAr  
+e5ZYdOWtsB2xqosnodk+ikhZIqwq4qPrYlRg3BvanIzLsrM90EbvmPso7yaxKElA  
+Rezhg6gMEfTiFAQqin6mi5ZcUHjKngLXWfYBd7cByzCwgxN6UUdljFntbEpStteC  
+E2eA5rO+UTs2dZsxTu3yEployLPoA1Abv5nN7EcCYvQ/EVsGW3C9Zewb0Q5pE313  
+2ULIeHg55I3nBPcy9IrA4Hjumt743AmtCWYLeKlAQcKgR5Z+4MsCzOeJwvHN/QeX  
+uVhE0Mb4x49buoGN/bQwy//MZD1NqLJnzuBTsfgcC5Yp8Hfpvs+nUBYqXFMhYC35  
+okPx/RIJxbIGz8yFjj9rrSEbIbSs4aP4SHXZS4+Ku/mBxvx9yKzlVr5ef/bnzU3i  
+w0trdxkmADDEpaZREUKoi8EvDthC9k5XVViDLbINOO+MsndL4vwMbGC98OiBCudl  
+8Zb+YvG+ghiJQyemcgCsFkDIz6jP9lqo/yush8L5H0zZ29dVwiC/O1CfwFa4bv0H  
+TcyaaSycIvK4OuRXOFjWoybmlv2LWJmeK6d7JCchIsHpsCMQZlpVce5oAjicmpg9  
+o3fesjkwqDj8Yii8KTiqmEcWzVz3m3cycDtDyw6AaEnnpE+aJCe0jJBTO0l6YNB7  
+gOYmhDypG2VCqCbthBML  
+=GtFS  
+\-----END PGP SIGNATURE-----  
+

@@ -1,0 +1,19 @@
+
+
+Quote from: jonny1000 on March 07, 2015, 05:52:51 PM
+
+Quote from: Gavin Andresen on March 05, 2015, 09:18:27 PM
+
+Miner profit in fiat currency = number of transactions * average transaction
+fee * btc-to-fiat exchange rate  
+
+Should this not be:  
+Miner **revenue** in fiat currency = number of transactions * average
+transaction fee * btc-to-fiat exchange rate?  
+
+  
+Yes, I meant revenue, not profit.  
+  
+I need to stop saying "profit" entirely, even when I mean "profit"-- it has
+different meanings for economists and ordinary people.  
+

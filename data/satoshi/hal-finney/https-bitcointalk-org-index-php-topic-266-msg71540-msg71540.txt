@@ -1,0 +1,24 @@
+
+
+I used to have trouble managing payments to a service that used a new address
+every time. Seems to conflict with the idea of an address book. Imagine if
+everyone's phone number changed every call. Not too convenient.  
+  
+Here's what I do now:  
+  
+1\. Copy the payment address.  
+2\. Choose Send Coins in the client.  
+3\. Choose Address Book in the popup.  
+4\. Choose New Address.  
+5\. Enter a name for this payee, and paste in the Bitcoin address. Use the
+same name for all payments to this payee. For example, I use MBC for all
+transfers to my mybitcoin.com account.  
+6\. Click OK in the New Address window.  
+7\. Click OK in the Address Book window.  
+8\. The Pay To field now holds the payment address. Enter the amount and click
+Send.  
+  
+This way the transaction in your wallet will show who it's for. It does add
+some extra steps though. I wish sites would give customers the option to reuse
+a persistent address.
+

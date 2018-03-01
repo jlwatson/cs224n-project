@@ -1,0 +1,13 @@
+
+
+I believe that the statement: "bitcoin is new kind of money" passes the duck
+test.  
+  
+Bitcoins function as money (they're a unit of account, a medium of exchange,
+and a store of value), and if PayPal started allowing Bitcoin transactions
+tomorrow I'm certain they'd treat them as Just Another Currency.  
+  
+If you like, call it a commodity, but I think all you'll accomplish is
+confusing potential users who might think they'll end up getting pork-bellies
+delivered to their porch if they don't get rid of their bitcoins.  
+

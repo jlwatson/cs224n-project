@@ -1,0 +1,12 @@
+
+
+Quote from: Madness on October 17, 2014, 02:39:54 AM
+
+I really don't have experience with those offline wallets but if somehow my PC
+get burned or something & I can't fix .. does it mean I will lose all my
+bitcoins unless I took a backup ? if yes how to take a backup  
+
+If you're using the GUI: File->Backup Wallet...  
+  
+If you're using bitcoind: use the backupwallet RPC command.  
+

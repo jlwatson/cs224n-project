@@ -1,0 +1,6 @@
+
+
+https://github.com/bitcoin/bitcoin/pull/379  
+  
+I think this is critical enough to include in 0.3.24rc2.  
+

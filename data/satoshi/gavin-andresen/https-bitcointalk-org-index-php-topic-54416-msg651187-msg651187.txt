@@ -1,0 +1,83 @@
+
+
+Quote from: ByteCoin on December 15, 2011, 02:45:24 AM
+
+.... If a deterministic wallet is used then the computation and software
+complexity/trustworthyness requirements are significant.  
+
+  
+I only half-paid-attention to all the previous deterministic wallet
+discussions, but isn't it pretty simple?  
+  
+Start with a random private key and a random nonce.  
+ECC multiply the key by SHA256(nonce+n) to get the n'th derived key.  
+  
+(I think you could even get away with using the private key as the nonce)
+(and, of course, I defer to the expertise of people who know way more about
+ECC crypto than I do)  
+  
+
+Quote
+
+There's also the question of key management for the WPS. Would they issue one
+key for all their customers, one key per customer or one key per transaction?
+Every different WPS key either needs to be securely stored separately or else
+sent to the offline device to be logged. If stored separately there's another
+secure storage problem and there may be a problem matching up the WPS key with
+the user's keys if the WPS disappears. If sent to the offline device then
+that's another infection vector, storage and key matching problem.  
+
+  
+It seems to me these issues will be the same no matter what solution is
+implemented.  
+  
+
+Quote
+
+I agree that the problems can be somewhat mitigated through the use of
+deterministic wallets but unless deterministic wallet operation is
+standardized before "2-of-3" solutions go online then it's going to be chaos
+when people try setting up and using WPSs with various behaviours.  
+
+  
+I think the next step is starting to prototype and standardize a protocol for
+communicating with WPS or escrow services to request new public keys, get keys
+signed, etc.  
+  
+Supporting deterministic wallet schemes at the same time makes sense, in my
+humble opinion.  
+  
+I imagine an API call that is something like "I'm customer gavin@acm.org.
+Please use whatever private key you're storing for me and this 256-bit number
+to derive a new public key, and send it back to me."  
+  
+(details to be worked out, but note that the WPS wouldn't necessarily have to
+store that new keypair if the "Please sign" request included the same
+(gavin@acm.org,256-bit-number) ....)  
+  
+
+Quote
+
+It will be difficult to ensure that the standard client can interoperate with
+different WPSs if they distribute keys or implement deterministic wallets in
+different ways.  
+
+  
+As long as the API is consistent, I don't think the details of the
+deterministic wallet matter.  
+  
+
+Quote
+
+You might imagine that similar concerns operate with the "or C" solution. The
+situation is considerably better as the standard client can always ensure that
+the transactions are recoverable irrespective of the operation of the WPS.
+This means that the issue of recovering transactions is orthogonal to the WPS
+implementation whereas in the "2-of-3" solution, they are intimately bound
+together.  
+
+  
+I don't see the difference: if the WPS becomes unavailable, then either
+solution requires that the "C" key be transferred from paper (or wherever) to
+the online client.  
+

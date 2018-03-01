@@ -1,0 +1,21 @@
+
+
+Quote from: etotheipi on November 01, 2011, 07:32:53 PM
+
+It sounds like that arbitrary scripts have been run through the client
+software successfully in the past (such as these testnet scripts), but there
+hasn't been any rigorous efforts to check that it's robust, etc. I would
+volunteer, but I'm not sure how to isolate the ref client scripting engine,
+and then still throw in things like OP_CHECKSIG evaluations which require more
+than just the script itself (such as the whole Tx and the ECDSA verification
+methods).  
+
+  
+See src/test/script_test.cpp in git HEAD.  
+Or for more examples of testing script operations, the unit tests I wrote
+here:  
+https://github.com/gavinandresen/bitcoin-
+git/blob/op_eval/src/test/script_op_eval_tests.cpp  
+https://github.com/gavinandresen/bitcoin-
+git/blob/op_eval/src/test/multisig_tests.cpp
+

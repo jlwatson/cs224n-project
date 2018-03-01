@@ -1,0 +1,15 @@
+
+
+If you're on Linux or Mac, run contrib/tidy_datadir.sh if you want to get rid
+of old, not-used-any-more files in your data directory.  
+  
+It will safely remove the blkindex.dat and blk000?.dat files.  
+  
+If somebody wants to write an equivalent .bat file that does the same on
+Windows, that'd be fantastic! I don't know hardly nuthin about Windows batch
+files.  
+  
+As deepceleron says, the blk000?.dat files are hardlinks, so even though it
+looks like they're taking up space they're not. And they're safe to delete
+(just don't delete anything in the blocks/ or chainstate/ folders).  
+

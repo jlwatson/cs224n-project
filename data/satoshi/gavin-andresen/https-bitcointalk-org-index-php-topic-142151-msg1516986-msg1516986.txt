@@ -1,0 +1,10 @@
+
+
+The crash-on-exit bug could be this issue:
+https://github.com/bitcoin/bitcoin/issues/2204  
+  
+We may have to live with it for the 0.8 release, and fix it in the next
+release, because there is a high risk that fixing it will cause more problems
+than it solves.  
+  
+

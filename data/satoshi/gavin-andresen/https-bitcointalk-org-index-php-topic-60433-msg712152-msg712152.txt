@@ -1,0 +1,36 @@
+
+
+Quote from: DiThi on January 24, 2012, 12:58:40 PM
+
+ **Why the hard dates?**  
+You both are struggling and rushing because the dates you set keep coming
+again and again, before miners notice and upgrade. Here's an alternate idea:  
+
+  * Have P2SH* implemented, and announce P2SH support in the coinbase, but it's disabled until a certain condition is met.
+  * The condition is to have 55% or more blocks in any 2016-block span announcing support for P2SH.
+  * When that condition is met, the remaining 45% hashing will have two weeks to update.
+  * Remove the P2SH announcement and just reject blocks with invalid P2SH transactions. Also the changes in the block limits will be made effective here.
+  * A future version of the software will remove the automatic switch logic.
+
+  
+That's non-trivial to implement; it seems to me that a conscious decision by
+the miners/pools to support or not support is less work and safer.  
+  
+Luke proposed something similar earlier, though; I'm surprised his patches
+don't implement it.  
+  
+I like whoever proposed that the string in the coinbase refer to the BIP, in
+the future that's the way it should be done.  
+  
+  
+RE: schedules:  
+  
+Deadlines, as we've just seen, have a way of focusing attention. OP_EVAL got,
+essentially, zero review/testing (aside from my own) until a month before the
+deadline.  
+  
+It seems to me one-to-two months is about the right amount of time to get
+thorough review and testing of this type of backwards-compatible change.
+Longer deadlines just mean people get busy working on other things and ignore
+the issue.  
+

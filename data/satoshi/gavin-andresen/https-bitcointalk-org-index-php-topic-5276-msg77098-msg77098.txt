@@ -1,0 +1,11 @@
+
+
+Adds support for the Tonal numbering system to bitcoin. Branch is at
+https://github.com/gavinandresen/bitcoin-git/tree/tonal  
+  
+Pull request is:  
+https://github.com/bitcoin/bitcoin/pull/8  
+  
+(Note: you will need Tonal Git and a Tonal-capable browser to follow that
+link).  
+

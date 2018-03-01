@@ -1,0 +1,12 @@
+
+
+RE: point you in the right direction:  
+  
+File rpc.cpp, the CommandLineRPC method:  
+  
+I suspect what needs to be done is to properly JSON encode any strings passed
+via the command line.  
+  
+And then properly decode/recode any strings returned from the JSON RCP call
+before printing out the result.  
+

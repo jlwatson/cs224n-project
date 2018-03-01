@@ -1,0 +1,18 @@
+
+
+Quote from: hippich on May 06, 2011, 02:29:41 PM
+
+BTW, can someone explain in layman words where from priority is defined?  
+
+  
+Priority is a function of how many bitcoins are involved in the transaction
+(more is higher priority), the size (in bytes) of the transaction (smaller is
+higher priority), and the age of the transaction's previous transactions
+(older is higher priority).  
+  
+Your transaction is taking a long time because it involved only 0.14 BTC which
+you got from a transaction that happened earlier today. If you were running
+bitcoin version 0.3.21, it would have required that you add a 0.01BTC fee to
+send it.  
+  
+

@@ -1,0 +1,23 @@
+
+
+My turn to be the newbie: Is there a high-level discussion of the economics of
+NameCoin or DNS in general somewhere? What is the scare resource that needs to
+have a price attached?  
+  
+My half-baked thoughts:  
+  
+Seems like domain names are not the scarce resource; CPU power available to
+process transactions is the scarce resource. So it seems to me simply not
+allowing any free transactions, allowing an arbitrary number of "new domain"
+and "domain transfer" transactions with arbitrary fees attached, and allowing
+the mining nodes to decide which transactions to accept into their blocks and
+which to drop will create the "right" number of domain names at the "right"
+price.  
+  
+Any individual, well-known domain name _is_ a scarce resource.
+"google.namecoin" is worth more than "xblkje4klj21.namecoin"... but if I want
+to get the google.namecoin domain name from google (or a domain squatter), and
+google or the domain squatter is willing to keep paying the (minimal) NameCoin
+renewal transaction fee, then I can just offer them cash or bitcoins (or
+NameCoins) to transfer the domain to me.  
+

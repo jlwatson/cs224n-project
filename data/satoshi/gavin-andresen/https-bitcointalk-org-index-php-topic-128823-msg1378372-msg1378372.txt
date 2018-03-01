@@ -1,0 +1,11 @@
+
+
+No, you probably won't get a response there, either.  
+  
+"All BIPs should" ... is too rigid, in my humble opinion.  
+  
+If the person championing the BIP thinks that a link to a discussion thread
+helps clarify or convince, then they should include a link. But I don't think
+a hard-and-fast rule is the right thing to do, we'll just waste time arguing
+over WHICH discussion thread or threads should be linked...  
+

@@ -1,0 +1,21 @@
+
+
+If a 51% attacker stopped including all broadcast transactions in blocks "we"
+would quickly figure out a rule or rules to reject their blocks.  
+  
+Something like "ignore a longer chain orphaning the current best chain if the
+sum(priorities of transactions included in new chain) is much less than
+sum(priorities of transactions in the part of the current best chain that
+would be orphaned)" would mean a 51% attacker would have to have both lots of
+hashing power AND lots of old, high-priority bitcoins to keep up a
+transaction-denial-of-service attack. And they'd pretty quickly run out of
+old, high-priority bitcoins and would be forced to either include other
+people's transactions or have their chain rejected.  
+  
+I'm tempted to code that up and run some tests on a testnet-in-a-box, but
+there are much higher priority things on my TODO list; I don't think a 51%
+attack is likely. You'd spend a lot of time and money on an attack that "we"
+would neuter within a day or two.  
+  
+  
+

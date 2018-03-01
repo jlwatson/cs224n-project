@@ -1,0 +1,20 @@
+
+
+If you want to work on IBLT stuff...  
+  
+... start with Matt's fast-relay code:
+https://github.com/TheBlueMatt/RelayNode  
+  
+That is an "I know what I've already told my peers, so I won't tell them
+again" optimization for transaction data. I haven't tried to figure out how
+far that already-written-and-running code lets us scale, but I think that
+would be the first step.  
+  
+Once you understand what Matt is doing, then figure out how an IBLT can
+further optimize to eliminate sending even lists of transaction IDs. The first
+step there is to figure out what software miners are using to build their
+blocks, and figuring out how hard it would be to get that software to do the
+IBLT thing (have similar policies for selecting transactions, and identical
+policies for ordering transactions inside the block).  
+  
+

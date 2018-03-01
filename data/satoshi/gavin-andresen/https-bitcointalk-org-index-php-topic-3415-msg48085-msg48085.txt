@@ -1,0 +1,10 @@
+
+
+It is possible to generate transactions that "fan out" to an arbitrary number
+of recipients.  
+  
+They're non-standard transactions right now, so they won't be relayed or
+included in blocks. But you should probably assume that they will be possible
+in the future (and a miner could, of course, include them in their own blocks
+now).  
+

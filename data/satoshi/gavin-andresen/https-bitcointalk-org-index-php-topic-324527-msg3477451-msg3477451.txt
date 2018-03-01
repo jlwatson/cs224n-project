@@ -1,0 +1,12 @@
+
+
+Quote from: grau on November 04, 2013, 07:58:45 AM
+
+If that holds shouldn't Payment Protocol's use of CA be revisited?  
+
+  
+No. If their anonymous credential scheme is successful (and I hope it is!),
+then the payment protocol should be extended to use it. The payment protocol
+is quite carefully designed so that replacing the public key infrastructure
+system is easy.  
+

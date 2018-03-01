@@ -1,0 +1,14 @@
+
+
+@luke-jr : I don't want to start an argument, but I still think we don't have
+enough testing resources to support 4 releases. I think we need to establish
+good QA for the main Bitcoin-Qt/bitcoind release before we worry about next-
+test or so-called-"stable" releases.  
+  
+That's a good discussion for the Testing Project team to have, though, once it
+gets up and running a little more.  
+  
+I'd also like the Testing Project to not get pigeonholed into "QA testing for
+Bitcoin-Qt/bitcoind", but to tackle cross-implementation compatibility (which
+I think is the next big, critical issue).
+

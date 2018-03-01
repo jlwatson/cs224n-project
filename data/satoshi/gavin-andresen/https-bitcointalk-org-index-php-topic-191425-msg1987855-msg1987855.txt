@@ -1,0 +1,9 @@
+
+
+RE: NODE_RELAYCOST :  
+  
+I'm generally against any "take my word for it" settings. What would stop
+somebody Up To No Good from setting NODE_RELAYCOST and then lying about what
+they will relay? Miners might decide to try to increase fees by Sybil-
+attacking the network and lying about NODE_RELAYCOST....  
+

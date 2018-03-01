@@ -1,0 +1,14 @@
+
+
+Interesting analysis! Don't forget that in several years, if Bitcoin succeeds,
+there will be orders of magnitude more transactions. And some of these will be
+able to pay substantial fees. So there will be a strategy to start generating
+right away, beat the miners who are waiting, and collect these high value tx
+fees.  
+  
+Also, currently miners don't update the block they're working on with new
+transactions as they come in. I think that makes the hash search more
+efficient. So by the time a block is generated, there's already a substantial
+pool of new transactions to start working on. This too may change in the
+future though.
+

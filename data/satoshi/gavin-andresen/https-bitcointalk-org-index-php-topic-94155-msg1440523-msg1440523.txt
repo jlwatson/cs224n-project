@@ -1,0 +1,19 @@
+
+
+It wouldn't be hard to prototype a coin mixer using the raw transactions API
+and a centralized web service (accessible via Tor, if you're worried about it
+recording your IP address).  
+  
+If you want to do a really good job, though, you'll need:  
+\+ Lots of people participating and/or  
+\+ Lots of time so your mixes are spread out over time  
+  
+The 'lots of people' will take time, because the mixing code needs very high
+trust since it'll be spending your coins.  
+  
+The 'lots of time' might be a practical problem, because the mixer needs your
+wallet to be unlocked so it can sign mixing transactions.  
+  
+Somebody should create a working prototype and then for a Bitcoin Foundation
+grant to fund the web service for a year...  
+

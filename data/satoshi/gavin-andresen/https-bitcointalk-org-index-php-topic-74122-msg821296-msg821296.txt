@@ -1,0 +1,24 @@
+
+
+Quote from: triplehelix on March 27, 2012, 12:11:53 AM
+
+my only comment is that bitcoin is not offering the most secure implementation
+it can. the fact that its a conscious decision doesn't change that.  
+
+Ummm...  
+  
+You know when you choose "About Bitcoin-Qt" and it says "Version 0.something
+BETA" ?  
+  
+When we've got an implementation that is safe and secure (both from hackers
+and from accidental loss) out of the box that will change to say "Bitcoin
+Version 1.something".  
+  
+Unfortunately, I don't know how to launch Bitcoin in an alternate universe
+where it will be attacked by highly motivated black-hats and then bring back
+the battle-tested source code to this universe to be launched as a perfectly
+secure Version One.  
+  
+So, to repeat myself: Bitcoin is experimental software. Do not invest time or
+money in it that you cannot afford to lose.  
+

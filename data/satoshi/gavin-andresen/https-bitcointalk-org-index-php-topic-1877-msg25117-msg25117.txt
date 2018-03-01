@@ -1,0 +1,11 @@
+
+
+So... 8 years ago some bittorrent folks came up with the magnet: URI scheme.  
+And yet I don't run across many magnet links as I browse the web.  
+  
+As I browse the web I run into exactly three URI schemes: http, https, and
+mailto.  
+  
+I think a bitcoin mime type will be easier to implement and is likely to be
+more successful.  
+

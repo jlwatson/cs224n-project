@@ -1,0 +1,24 @@
+
+
+In case you don't subscribe to the bitcoin-development mailing list, we've
+been talking about a new BIP:  
+  
+"Bitcoin blocks and transactions are versioned binary structures. Both
+currently use version 1. This BIP introduces an upgrade path for versioned
+transactions and blocks. A unique value is added to newly produced coinbase
+transactions, and blocks are updated to version 2."  
+  
+Full BIP: https://en.bitcoin.it/wiki/BIP_0034  
+Mailing list discussion:
+http://sourceforge.net/mailarchive/message.php?msg_id=29505990  
+Pull request that implements BIP 34:
+https://github.com/bitcoin/bitcoin/pull/1526  
+BIP16 "Lessons learned" : https://gist.github.com/2355445  
+  
+I'd like to keep most discussion on the bitcoin-development mailing and not
+here on the forums, although I do plan on posting to one of the mining boards
+to warn solo miners and pool operators that they will eventually need to
+upgrade (I expect it will take at least a year and probably two or more for
+95% of hashing power to upgrade, which is the proposed timeframe for full BIP
+34 support).
+

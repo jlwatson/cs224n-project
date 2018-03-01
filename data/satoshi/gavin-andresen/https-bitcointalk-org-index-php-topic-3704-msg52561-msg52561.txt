@@ -1,0 +1,22 @@
+
+
+Binaries for Bitcoin version 0.3.20.01 are available at:  
+https://sourceforge.net/projects/bitcoin/files/Bitcoin/bitcoin-0.3.20/  
+  
+There were several changes and additions to the JSON remote-procedure-call
+interface;  
+there are no significant user interface changes. See:  
+http://bitcointalk.org/index.php?topic=3473.msg48839#msg48839  
+... for details.  
+  
+This version does fix one significant denial-of-service attack (earlier
+versions of  
+bitcoin could be caused to crash due to running out of memory by a remote  
+attacker).  
+  
+SHA1-checksums for the binary files are:  
+bitcoin-0.3.20-linux.tar.gz 7dfbc05b36112f59886a29f044cfd21c6c253169  
+bitcoin-0.3.20-win32-setup.exe 2a4affd92dd11e0b759f90a8fa4bead58bdbf7b4  
+bitcoin-0.3.20-win32.zip 7bf306554092e742d076d4157aaa077d95de6102  
+bitcoin-0.3.20-macosx.zip 47ca28454e7ea0b576b80905353d1cea024e53fe  
+

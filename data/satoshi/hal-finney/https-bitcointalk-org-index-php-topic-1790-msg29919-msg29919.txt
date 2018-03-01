@@ -1,0 +1,8 @@
+
+
+I wonder if it would work to put a (possibly salted?) hash of the name into
+the block rather than the name itself? Then it would not be obvious what name
+is being registered, but you could still lookup registrations by name. This
+would not be perfectly secure, short names could be found from hashes by brute
+force, but it would make front-running much harder.
+

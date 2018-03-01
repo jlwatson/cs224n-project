@@ -1,0 +1,13 @@
+
+
+Quote from: 0x6763 on February 07, 2011, 08:00:16 PM
+
+Why floating point is being considered at all is a mystery to me.  
+
+  
+Huh? Nobody is suggesting that any math be done with floating-point coins.  
+  
+But even if we were, your first example gives the correct result to the
+8-places-of-precision that Bitcoin deals with:  
+(round 0.032200000000000006 to 8 places and you get 0.03220000)  
+

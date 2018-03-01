@@ -1,0 +1,22 @@
+
+
+Quote from: paraipan on January 25, 2012, 12:51:13 PM
+
+yeah lots of great features and improvements left alone for the supposedly
+ultimate feature... p2sh (multi redeem) or what it's name is  
+  
+we need sweep now, fast initial blockchain download and lots more. I'm really
+disappointed atm  
+
+  
+I've been very clear about my top development priorities:  
+  
+1\. Network stability: DoS threats, scaling-up issues, etc.  
+2\. Wallet security/backup.  
+  
+I see everything else as lower priority; I want users to be confident that
+their bitcoins can't get stolen even if they slip up and open an attachment in
+Outlook that the aughtn't have opened before I want a downloads-the-entire-
+blockchain-in-10-seconds client with all sorts of other bells and whistles.  
+  
+

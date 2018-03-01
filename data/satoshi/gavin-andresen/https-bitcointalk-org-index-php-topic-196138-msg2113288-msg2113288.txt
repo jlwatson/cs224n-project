@@ -1,0 +1,18 @@
+
+
+Quote from: Gavin Andresen on May 10, 2013, 04:44:15 PM
+
+Who gets to decide how slow is too slow?  
+
+Quote from: retep on May 10, 2013, 06:48:32 AM
+
+BTC Guild right now.  
+
+Okey dokey.  
+  
+Have you contributed any patches to p2pool to make it more efficient / easier
+to install / etc? If not, why not if you're so worried about centralization?  
+  
+(honest question, I don't keep up with p2pool development because I'm
+personally not terribly worried about mining centralization)  
+

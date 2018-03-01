@@ -1,0 +1,16 @@
+
+
+MrFlibble: "Fair" is one set of coins (however many the Faucet is giving out
+at the time-- hopefully, bitcoins will continue to become more valuable, and
+I'll give out fewer over time...) per person.  
+  
+I like the postcard idea, although I'm not willing to type in bitcoin
+addresses written on postcards!  
+  
+Hmm... any stamp collectors here? Paying people bitcoins to send you postcards
+(with stamps on them) might be really fun...  
+  
+And re: using OpenID instead of a Google Account: that'd be easy to implement,
+but way too easy for cheaters (who can just be their own OpenID provider and
+give themselves as many OpenIDs as they want).  
+

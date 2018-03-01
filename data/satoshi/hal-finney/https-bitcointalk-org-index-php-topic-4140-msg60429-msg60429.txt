@@ -1,0 +1,15 @@
+
+
+Bitcoin's behind-the-scenes address handling makes things a little
+complicated. Say you received 2 payments of 50 to your empty wallet. Then you
+made 2 payments of 30. Now you will have 2 addresses worth 20, both addresses
+you've never seen before and which don't show up in the transaction list.
+These received the "change" from the 30 payments.  
+  
+These addresses don't reveal which 50 payment they came from. To see that
+you'd have to provide some new mechanisms. Maybe show the transaction history
+behind each address. Maybe show change addresses in the main window. Maybe
+bring in the account features and tag transactions with accounts.  
+  
+It's not as simple/useful as it seems.
+

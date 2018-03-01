@@ -1,0 +1,24 @@
+
+
+Quote from: amaclin on October 28, 2014, 03:07:57 PM
+
+First method costs you 10000 kWh energy and gives you 99.99% clear water.  
+Second method costs you only 1 kWh and gives you 99.00% (safe for drinking)  
+Which method is preferable?  
+
+  
+That is easy, the first. But that is a straw-man argument.  
+  
+If the decision is: costs 1.001 kWh and gives 99.99, versus 1kWh and gives
+99%, I might decide the extra purity is worth it.  
+  
+The "centralized is more efficient" might be theoretically true, but in
+practice the difference might be so slight it doesn't matter.  
+  
+Theoretically, it would be more efficient if **all** of our computing happened
+in huge data centers located near cheap hydroelectric power.  
+  
+Practically, though, only some of our computing happens that way (e.g.
+searching terabytes of data), because it is more convenient for us to carry
+around powerful little computers and we value that convenience.  
+

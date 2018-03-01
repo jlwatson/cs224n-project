@@ -1,0 +1,36 @@
+
+
+Quote from: thanke on December 20, 2012, 07:20:59 PM
+
+And even allow several PKIs in parallel. The bitcoin client should then
+display to the user for which PKIs authentication was successful, and for
+which not.  
+
+  
+On one hand: "Complexity is the enemy of security." Several PKIs in parallel
+is more complex.  
+  
+On the other hand: "Security In Depth." Several PKIs in parallel could be more
+secure. But I'd insist that ALL PKI authentications MUST be successful,
+otherwise you're just giving an attacker the ability to attack the least
+secure PKI. It would be a mistake to show users a dialog box:  
+  
+
+Quote
+
+DNSSEC authentication failed, but X.509 certificate authentication succeeded.  
+Proceed?  
+(Yes) (No) (Just shoot me now, please)  
+
+  
+BUT: I think it is unlikely people will be willing deploy and keep secure
+multiple PKI systems, and I think the incremental security is small, so I
+think the right decision here is Keep It Simple, Stupid.  
+  
+For example, I re-ordered the fields of SignedPaymentRequest so the entire
+structure doesn't have to be in memory at once to be processed, which is a
+suggestion from somebody considering implementing the payment protocol on a
+very memory-constrained hardware device. There are real tradeoffs if we make
+this more complex.  
+  
+

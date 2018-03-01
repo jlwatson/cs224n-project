@@ -1,0 +1,6 @@
+
+
+The block files (blk000N.dat) are not BDB files, they're a raw, binary,
+append-only list of serialized blocks, so -loadblock doesn't care about the
+version of libdb used.  
+

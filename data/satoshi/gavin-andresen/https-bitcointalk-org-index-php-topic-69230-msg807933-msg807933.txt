@@ -1,0 +1,26 @@
+
+
+Quote from: cunicula on March 18, 2012, 04:47:48 AM
+
+If you can get 15%, well 51% is only about 3.4 times as hard.  
+
+  
+Check your math-- to get 51% you'll need to dedicate six times as much
+hardware to hashing as it takes to get 15%:  
+  
+The formula for what fraction of existing hashing power you need add to get X%
+of the network is:  
+
+Code:
+
+H = X / (1-X)
+
+  
+To get 15%, you need to add 17.6%. E.g. if existing hashing power is 100, then
+you add 17.6 more and your fraction is (17.6/117.6) = 0.15.  
+  
+To get 51%, you need to add 104%. E.g. if existing hashing power is 100, then
+you add 104, then your fraction is (104/204) = 0.51.  
+  
+104 is six times as much as 17.6.  
+

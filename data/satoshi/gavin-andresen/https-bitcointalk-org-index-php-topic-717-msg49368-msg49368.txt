@@ -1,0 +1,9 @@
+
+
+The help text is misleading; never pass the "foo=" part.  
+  
+Somebody could teach bitcoin to accept either getreceivedbyaccount foo 10 or
+getreceivedbyaccount address=foo minconf=10  
+... but maybe we should just change how the help text shows default arguments
+or improve the documentation.  
+

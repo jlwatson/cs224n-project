@@ -1,0 +1,4 @@
+
+
+https://gist.github.com/gavinandresen/5616606 sketches out one way to do it.  
+

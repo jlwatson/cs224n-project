@@ -1,0 +1,32 @@
+
+
+Quote from: ByteCoin on November 08, 2010, 04:50:38 AM
+
+Buffer overflow attacks against the current client could allow an
+unauthenticated remote attacker to steal your bitcoins.  
+
+  
+First: I've reviewed Bitcoin's networking code looking specifically for
+possible buffer overflow vulnerabilities, and found none. It is possible I
+missed something; please help review the code and let me or Satoshi know if
+you find anything suspicious.  
+  
+Second: I don't think splitting the wallet handling code into a separate
+process will improve security at all. If there is code that can send the
+nicely-compartmentalized wallet handling code a command "Send XYZ bitcoins to
+address 1ABC...", and that code has a buffer overflow vulnerability in it,
+then you are just as vulnerable as today.  
+  
+If your PC has been compromised, then you are in trouble; anything you do on
+your machine may be intercepted by a bad guy. Log into your bank account
+website-- the bad guy might hijack your session and transfer money out. Start
+up bitcoin-- the bad guy might inject keyboard and mouse events to send coins
+out.  
+  
+Even if Bitcoin implemented multi-factor authentication before allowing wallet
+access ("scan your fingerprint and enter your password to send coins"), if
+your PC is compromised a bad guy could arrange to modify the bitcoin address
+that you say you want to send coins to, so you think you're authenticating a
+payment to Wally's Discount Center but you really authenticate payment to
+Doctor Evil's Empire.  
+

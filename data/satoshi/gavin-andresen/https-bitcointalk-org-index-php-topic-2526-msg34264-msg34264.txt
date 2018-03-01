@@ -1,0 +1,13 @@
+
+
+Playing devil's advocate for a moment:  
+  
+"Security theater" is popular. It makes people feel safer. Bitcoin-the-program
+will probably be more popular if it asks for a password before sending and
+there is a bullet-point on the feature list: "State of the art AES-256
+encryption."  
+  
+I believe TrueCrypt is open source; maybe it would be easy to use their
+password handling / encryption code in bitcoin. Anybody here looked at their
+code?  
+

@@ -1,0 +1,11 @@
+
+
+If you're running Bitcoin-Qt on a Mac, what version of OSX are you running?  
+  
+I'm trying to get an idea of how many people are still running 10.5, because
+supporting that version of OSX is starting to become painful (it is almost 5
+years old now...).  
+  
+And before somebody asks: yes, signing the Bitcoin-Qt app so it plays nicely
+with 10.8's "Gatekeeper" is near the top of the TODO list.  
+

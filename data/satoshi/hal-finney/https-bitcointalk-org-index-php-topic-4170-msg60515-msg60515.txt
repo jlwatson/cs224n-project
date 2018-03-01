@@ -1,0 +1,18 @@
+
+
+Quote from: gavinandresen on March 05, 2011, 06:09:41 PM
+
+design/implement a secure DNS-like "map string to bitcoin address" system (so
+I can send bitcoins to "gavin@acm.org")  
+
+  
+This might be nice but I don't see it as a prerequisite for 1.0.  
+  
+In the discussion on BitDNS, there was resistance to overloading the main
+chain as a title registry. Another chain a la BitDNS could be used to map
+general strings to btc addresses, as well as domain names.  
+  
+One issue is it pretty much has to be first come first served. Whoever grabs
+gavin@acm.org first, gets it. There wouldn't be any way to verify ownership of
+the address.
+

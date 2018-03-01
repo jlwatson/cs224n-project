@@ -1,0 +1,24 @@
+
+
+Quote from: jgarzik on November 23, 2010, 12:09:49 AM
+
+Is there no longer a way to place labels on a per-transaction basis?  
+
+  
+There never was a way to place labels on a per-transaction basis. It was
+always a one-label-to-multiple-bitcoin-addresses association.  
+  
+But all of the old label functionality is still there, just renamed. You
+should be able to do anything you were doing before.  
+  
+However, you might think you were doing something that you weren't actually
+doing. There was no way to label/name particular transactions before (just
+addresses).  
+  
+RE: the empty string as the default account: None of this is (or will be)
+visible to GUI users, and if you're a programmer using the JSON or the
+command-line interface SURELY you know how to quote strings.  
+  
+RE: hierarchical wallet keys: Huh? If you want trivial searching and
+grouping... then export the info into a database and use SQL.  
+

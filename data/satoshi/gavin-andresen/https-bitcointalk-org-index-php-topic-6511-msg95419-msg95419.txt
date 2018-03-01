@@ -1,0 +1,10 @@
+
+
+Quote from: cypherdoc on April 25, 2011, 08:54:26 PM
+
+i am clicking the Copy to Clipboard in the client and pasting directly into
+mtgox. also tried the Notepad recommendation above but it didn't work.  
+
+What operating system? This sounds like a wxWidgets or bitcoin client bug that
+needs fixing.  
+

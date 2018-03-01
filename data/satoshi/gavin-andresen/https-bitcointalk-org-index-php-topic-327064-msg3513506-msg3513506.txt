@@ -1,0 +1,46 @@
+
+
+I have several partly-formed thoughts.  
+  
+First, on "is there REALLY a problem" -- I think Ed Felten makes a good
+argument that, at least in the current world of mining pools, the incentives
+work to prevent "selfish" mining: https://freedom-to-
+tinker.com/blog/felten/bitcoin-isnt-so-broken-after-all/  
+  
+Related, I think it is important to remember that the current structure and
+behavior of the p2p networking code is NOT part of the fundamental consensus
+algorithm. It is easy to change, and, as I've said in the past, I would really
+like to see blocks and transactions being broadcast over some completely
+different networking protocol.  
+  
+I think there is a really interesting theoretical question that I don't know
+the answer to; I'll try to state it clearly:  
+  
+As the p2p network is currently implemented, nodes only have a partial view of
+competing best-chains, because nodes only relay the first node they see at a
+given height.  
+  
+If there are two blocks at the same height announced at approximately the same
+time, they propagate exponentially fast across the network in two waves, and
+only the nodes at the edges of where the waves meet will see both blocks.  
+  
+Given that network behavior, assuming no selfish mining, there is a strong
+incentive to announce your block as soon as possible, because in an
+exponentially fast race any delay is very likely to make you lose.  
+  
+There are lots of ideas for fixing selfish mining that rely on changing that
+behavior, and having nodes relay orphan blocks. I think it is important to
+remember that no matter what rules we SAY the network will follow, we can't
+stop individual nodes from implementing whatever rules they wish to follow;
+any solution that begins "If all nodes do THIS..." is not a solution.  
+  
+That applies to the behavior we have now about not relaying orphan blocks,
+too, of course. The interesting theoretical question I'm pondering: does the
+security of the Bitcoin system depend on the relaying behavior, or on how ties
+are resolved in block races?  
+  
+My intuition is that we SHOULD be relaying all orphan blocks, and should let
+each node decide how to resolve races, but before we talk about how to resolve
+races I think we should consider the incentives that arise from the current
+relaying behavior.  
+

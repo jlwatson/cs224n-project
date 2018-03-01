@@ -1,0 +1,21 @@
+
+
+Quote from: LightRider on September 10, 2012, 07:36:48 AM
+
+Consistently getting a "TX rejected (code -22)" message when trying using
+sendrawtransaction. I believe I'm following all the steps properly.
+(createrawtransaction, signrawtransaction, sendrawtransaction)  
+
+  
+debug.log might tell you why it is being rejected. Some reasons it might be
+rejected:  
+  
+\+ You're re-using an input that has already been spent.  
+\+ Sum(outputs) is greater than Sum(inputs)  
+\+ signrawtransaction was unable to sign all of the inputs (it did not report
+"complete" : true )  
+  
+By the way: be EXTREMELY careful with the raw transactions API. You can easily
+forget to include a change output and create transactions with huge fees; test
+your code thoroughly on testnet before putting it into production.  
+

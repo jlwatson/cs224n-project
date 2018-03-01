@@ -1,0 +1,23 @@
+
+
+Quote from: Osndok on November 03, 2010, 09:17:16 PM
+
+Apparently the debug file is closed after *every* printf (causing a flush, and
+on my system a bunch on crypto overhead).  
+  
+Since FileVault is a standard option on a Mac, I recommend either not closing
+the file (os will clean it up), or disabling debugging to a file on macs.  
+
+  
+Hmmm....  
+  
+At some point (bitcoin 0.9?) debug.log should contain only really critical
+errors/warnings. Right now it is more of a trace.log.  
+  
+Flushing it after every write is the correct thing to do-- otherwise critical
+information about what caused a crash could easily be lost.  
+  
+Always closing and re-opening it is darn convenient if you've got a log-
+rotating script running... but working poorly with FileVault is definitely a
+bug.  
+

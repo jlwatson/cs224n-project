@@ -1,0 +1,10 @@
+
+
+Quote from: markm on October 11, 2012, 07:51:59 AM
+
+Where did Satoshi host the original blockchain downloads, if there were any?  
+
+  
+Huh? There were none. The blockchain bootstraps itself from the genesis block
+and peers on the network.  
+

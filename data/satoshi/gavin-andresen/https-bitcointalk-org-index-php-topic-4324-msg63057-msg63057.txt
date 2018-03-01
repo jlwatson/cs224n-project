@@ -1,0 +1,23 @@
+
+
+Quote from: dacoinminster on March 09, 2011, 06:04:10 PM
+
+1) bitcoind - I think this might be the same as configuring bitcoin to run as
+server. I believe it uses an RPC API to run transactions from the command
+line.  
+Pros: Everything stays on my server  
+Cons: I have to find a server that will let me compile and install this,
+rather than just some PHP/MySQL farm in the cloud, which is what I prefer  
+
+  
+You can run the front-end on one server and the back-end on another (and
+communicate via JSON-RPC over HTTPS). That's how I'm able to run the Faucet
+and ClearCoin on Google's App Engine (they talk with bitcoind processes
+running on linode.com and aws.amazon.com servers). bitcoind doesn't take much
+memory, bandwidth, or CPU (just don't turn on coin generation), so, for now,
+anyway, you can even use an Amazon "micro" server (which costs something like
+$100 per year).  
+  
+I'm not selling anything so can't comment on the shopping cart interfaces.
+Screen-scraping web pages is a bad idea for lots of reasons.  
+

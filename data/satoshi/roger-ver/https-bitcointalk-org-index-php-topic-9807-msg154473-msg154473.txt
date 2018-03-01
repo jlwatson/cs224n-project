@@ -1,0 +1,10 @@
+
+
+Many online merchants will want to cash out their bitcoins to a government
+issued currency initially.  
+This option needs to be available in order for them to be willing to accept
+Bitcoins as payment.  
+Once there is additional market depth on the exchanges, this will not be as
+much of a problem because the exchange rate will change much more slowly.  
+  
+

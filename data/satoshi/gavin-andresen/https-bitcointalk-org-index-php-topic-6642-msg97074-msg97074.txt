@@ -1,0 +1,71 @@
+
+
+\-----BEGIN PGP SIGNED MESSAGE-----  
+Hash: SHA1  
+  
+Binaries for Bitcoin version 0.3.21 are available at:  
+https://sourceforge.net/projects/bitcoin/files/Bitcoin/bitcoin-0.3.21/  
+  
+Changes and new features from the 0.3.20 release include:  
+  
+* Universal Plug and Play support. Enable automatic opening of a port  
+for incoming connections by running bitcoin or bitcoind with the  
+\- -upnp=1 command line switch or using the Options dialog box.  
+  
+* Support for full-precision bitcoin amounts. You can now send, and  
+bitcoin will display, bitcoin amounts smaller than 0.01. However,  
+sending fewer than 0.01 bitcoins still requires a 0.01 bitcoin fee (so  
+you can send 1.0001 bitcoins without a fee, but you will be asked to  
+pay a fee if you try to send 0.0001).  
+  
+* A new method of finding bitcoin nodes to connect with, via DNS A  
+records. Use the -dnsseed option to enable.  
+  
+For developers, changes to bitcoin's remote-procedure-call API:  
+  
+* New rpc command "sendmany" to send bitcoins to more than one address  
+in a single transaction.  
+  
+* Several bug fixes, including a serious intermittent bug that would  
+sometimes cause bitcoind to stop accepting rpc requests.  
+  
+* -logtimestamps option, to add a timestamp to each line in debug.log.  
+  
+* Immature blocks (newly generated, under 120 confirmations) are now  
+shown in listtransactions.  
+  
+  
+SHA1-checksums for the binary files are:  
+  
+54254cba039b02a2f49fdc98b8fe820d0fd4e410 bitcoin-0.3.21-linux.tar.gz  
+3f94d6a8b08c455a7886561089270247eaada7b4 bitcoin-0.3.21-win32-setup.exe  
+f9a39404433b01b5a22225855f42275c1c902c26 bitcoin-0.3.21-win32.zip  
+(mac version should be ready soon)  
+  
+Thanks to all those who contributed to this release:  
+  
+Dan Helfman  
+Dan Loewenherz  
+devrandom  
+Eric Swanson  
+gjs278  
+Jeff Garzik  
+Luke Dashjr  
+Matt Corallo  
+Matt Giuca  
+Nils Schneider  
+ojab  
+Pieter Wuille  
+sandos  
+Santiago M. Mola  
+Sven Slootweg  
+  
+Gavin Andresen gavinandresen@gmail.com  
+\-----BEGIN PGP SIGNATURE-----  
+Version: GnuPG v1.4.9 (Darwin)  
+  
+iEYEARECAAYFAk24UbsACgkQdYgkL74406jQlwCeOPf1avdfugmzfiVtuT0hUacm  
+4DEAoJcAR0ha8VKQ8Mu6QoG9ywDLvwjI  
+=DRxu  
+\-----END PGP SIGNATURE-----  
+

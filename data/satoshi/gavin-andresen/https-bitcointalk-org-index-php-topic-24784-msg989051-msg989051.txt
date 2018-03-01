@@ -1,0 +1,37 @@
+
+
+Quote from: kano on June 25, 2012, 02:21:32 PM
+
+However, as mentioned above, the issue of fees is still outstanding - which
+does relate VERY closely to this.  
+
+Determining the "right" fees is a separate issue; see
+https://gist.github.com/2961409 for my current thinking.  
+  
+The raw transaction API will let you create and try to send a transaction with
+as much or little fees as you like, but if you try to send a 20 kilobyte
+transaction with zero fees you shouldn't be surprised if nobody relays or
+mines it.  
+  
+
+Quote from: CIYAM Pty. Ltd. on June 25, 2012, 06:53:02 AM
+
+This looks interesting - just one question after reading this document (as the
+word "change" does not appear in it at all) - will it be also possible to
+specify the *change* address with such "raw transactions" (in perhaps the
+sendrawtx command itself)?  
+
+  
+If you use the raw transaction API then you're responsible for saying exactly
+where all of the outputs go. If you create a raw transaction with a 50 BTC
+input and a 2 BTC output then that is a no-change, 48 BTC fee transaction. If
+you don't intend the 48 BTC to go to miners, then you need to specify where
+the change goes by adding another output.  
+  
+I suppose the RPC calls could have limits to try to keep you from shooting
+yourself in the foot, but anybody using the raw transaction API should be
+doing a lot of testing with worthless testnet coins and I'd rather not start
+playing the "lets write lots of code to try to prevent RPC-users from being
+dumb" game.  
+  
+

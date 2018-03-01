@@ -1,0 +1,17 @@
+
+
+Quote from: Jan on August 15, 2012, 12:42:09 PM
+
+Puik, I installed the IOS blockchaininfo wallet some time back before it was
+pulled from the appstore. I now get the option to update it.  
+If I update will it preserve my private keys and will it work as a full wasset
+as before?  
+I don't want to risk loosing the functionality my current version has.  
+  
+
+  
+I updated mine, and everything worked even better.  
+Some bugs were fixed, such as the last line in the address book being hard to
+click.  
+Thanks Puik!
+

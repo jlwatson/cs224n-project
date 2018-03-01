@@ -1,0 +1,39 @@
+
+
+Bitcoin is revolutionary because it is decentralized, with no single point of
+control or failure.  
+  
+However, over the last six months or so it has become obvious to me that the
+rest of the world isn't set up to interact with a radically decentralized
+system like Bitcoin, and I think forming a not-for-profit organization will be
+a positive step towards Bitcoin's long-term success.  
+  
+I'm posting this to see if there is a consensus on what a Bitcoin Foundation
+should be.  
+  
+To get the conversation started, here are some functions I think a Bitcoin
+Foundation could perform:  
+  
+
+  * Interact with the legal system, where a centralized entity is needed: for example, to hold the Bitcoin trademark, own/control the bitcoin.org domain name, etc.  
+
+  * Act as a central library for accurate information about Bitcoin, so journalists and policymakers have an 'official' place to learn about Bitcoin.  
+
+  * Collect donations to fund infrastructure necessary for Bitcoin's growth (organize regular developers' conferences or get-togethers maybe? pay for development of cross-implementation testing tools? pay core developers' salaries? create a certification/testing program for Bitcoin implementations? create a central clearinghouse for information about legal issues surrounding Bitcoin across the world?)  
+
+  
+Other not-for-profit organizations that could be emulated:  
+  
+
+  * The Anti-Phishing Working Group (the APWG's chairman, David Jevans http://en.wikipedia.org/wiki/David_Jevans, is willing to help make a Bitcoin Foundation happen).  
+
+  * The Tor Project  
+
+  * The Apache Software Foundation  
+
+  
+Are there others that work well, or are there examples of what NOT to do?
+Assuming there is rough consensus that a Bitcoin Foundation is a good idea, I
+would like to get something imperfect up and running quickly, with the
+expectation that it will evolve over time.
+

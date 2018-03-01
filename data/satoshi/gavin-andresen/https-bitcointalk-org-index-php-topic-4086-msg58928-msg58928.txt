@@ -1,0 +1,51 @@
+
+
+genjix: here is how to do it right in Python2.6 :  
+  
+
+Code:
+
+  
+import decimal  
+import json  
+  
+# From http://stackoverflow.com/questions/1960516/python-json-serialize-a-
+decimal-object  
+class DecimalEncoder(json.JSONEncoder):  
+def _iterencode(self, o, markers=None):  
+if isinstance(o, decimal.Decimal):  
+return (str(o) for o in [o])  
+return super(DecimalEncoder, self)._iterencode(o, markers)  
+  
+decimal.setcontext(decimal.Context(prec=8))  
+  
+print json.dumps(decimal.Decimal('10.001'), cls=DecimalEncoder)  
+print json.dumps({ "decimal" : decimal.Decimal('1.1'), "float" : 1.1, "string"
+: "1.1" }, cls=DecimalEncoder)  
+print json.loads('{"blaa": 0.333331}', parse_float=decimal.Decimal)  
+
+Produces output:  
+
+Code:
+
+10.001  
+{"decimal": 1.1, "float": 1.1000000000000001, "string": "1.1"}  
+{u'blaa': Decimal('0.333331')}  
+
+  
+Note that EVEN IF YOU PASSED THE 'WRONG' strings to Bitcoin, Bitcoin would do
+the right thing. That is, these two are equivalent once they are parsed by
+bitcoin:  
+
+Code:
+
+sendtoaddress FOO 10.000999999999999  
+sendtoaddress FOO 10.001  
+
+... because bitcoin does proper rounding.  
+  
+On the bitcoin side, this is a non-issue. And if code on the other end of the
+JSON-RPC connection does the wrong thing (truncates values like
+10.000999999999999 instead of rounding them to the nearest 8'th decimal place)
+then that's a bug in that code.  
+

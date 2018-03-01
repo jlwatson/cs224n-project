@@ -1,0 +1,29 @@
+
+
+Quote from: tsupp4 on September 24, 2011, 07:32:03 AM
+
+You guys are great, thank you for this further step.  
+Is there a donation adress for the whole developer team or something similar?  
+
+  
+There is not a donation address for the whole development team; if there was,
+somebody would have to be in charge of keeping track of the bitcoins, deciding
+what they should be spent on, etc.  
+  
+I don't want to be that somebody....  
+  
+If you like the wallet encryption feature, send bitcoins to:  
+Matt Corallo : 1JBMattRztKDF2KRS3vhjJXA7h47NEsn2c  
+and Jeff Garzik : 1BrufViLKnSWtuWGkryPsKsxonV2NQ7Tcj  
+  
+Matt (aka "BlueMatt" in IRC) did the hard work of making wallet encryption
+happen, and deserves a ton of credit for being persistent and reworking
+~~his~~ Jeff's initial implementation a few times based on feedback and
+suggestions.  
+  
+Gregory Maxwell ('gmaxwell') also deserves credit and donations, he gave a lot
+of feedback and did a lot of testing:  
+gmaxwell : 1LjPAUKf23kDBy9sLJbiLfsvjde3ZdHcbJ  
+  
+(corrected to give Jeff credit for the initial implementation-- sorry Jeff!)
+

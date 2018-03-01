@@ -1,0 +1,5 @@
+
+
+Unconfirmed wallet transactions **are** automatically rebroadcast by
+bitcoind/Bitcoin-QT until they are confirmed.
+

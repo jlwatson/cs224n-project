@@ -1,0 +1,19 @@
+
+
+Quote from: BitterTea on April 14, 2011, 08:08:28 PM
+
+Why do it incrementally instead of allowing the client to handle the full 8
+decimals of precision?  
+
+  
+As of version 0.3.20, the GUI and JSON-RPC both allow full-precision values
+for sends. So you can send 1.00123456 BTC if you like.  
+  
+And the GUI will display full-precision wallet balances/etc (it truncates
+trailing zeros past .00, so you won't notice unless you have sub-cent BTC in
+your wallet).  
+  
+The 'dust spam' rules are still in, so you're expected to pay a fee if you are
+sending less than 0.01 BTC-- that is, if you try to send 0.00001 BTC it will
+trigger the fee (sending 1.00001 would not trigger the fee).  
+

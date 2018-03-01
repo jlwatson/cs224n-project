@@ -1,0 +1,19 @@
+
+
+Quote from: Cdecker on June 12, 2011, 07:31:42 AM
+
+Just a quick question: is this just for mainline client dev, or are we
+alternative developers allowed to ask questions too?  
+
+As long as the questions are core-bitcoin-related and not specific to your
+alternative client.  
+  
+Good alternative client question: "I'm writing an alternative client that
+doesn't store private keys at all (they are generated from the user's
+password). But I'll need a bitcoin protocol message that does XYZ to make it
+work; are other clients willing to support that new message?"  
+  
+Bad alternative client question: "I'm coding my alternative client in Forth;
+what's the best GUI toolkit to use?"  
+  
+

@@ -1,0 +1,20 @@
+
+
+If you're interested in coin control, and you're comfortable with python and
+the command-line, then I could use your help.  
+  
+I've written a little utility called 'spendfrom.py' that uses the raw
+transactions JSON-RPC api to send coins received on particular addresses that
+I'd like to ship in the contrib/ directory.  
+  
+But since it touches the wallet it needs thorough testing.  
+  
+I've written a test plan; who is willing to run through the test plan with
+their -testnet wallet and then try to break it?  
+  
+Test plan:  
+https://github.com/gavinandresen/QA/blob/master/SpendFrom.md  
+  
+Code:  
+https://github.com/gavinandresen/bitcoin-git/tree/spendfrom/contrib/spendfrom  
+

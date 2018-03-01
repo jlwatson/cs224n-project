@@ -1,0 +1,10 @@
+
+
+Does anybody have experience with valgrind -helgrind or other automated tools
+for finding potential deadlocks?  
+  
+Running it on bitcoind I'm getting a huge number of false positives...  
+  
+Should we just document every method that holds one or more locks? I'm worried
+there are other possible deadlocks lurking.  
+

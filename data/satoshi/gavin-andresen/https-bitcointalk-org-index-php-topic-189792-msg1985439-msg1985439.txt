@@ -1,0 +1,33 @@
+
+
+Quote from: jmw74 on April 30, 2013, 02:56:21 AM
+
+Network bandwidth is growing too, although probably not as fast. So this is
+still a realistic concern.  
+
+  
+Network bandwidth is currently growing about 20% per year, or roughly doubling
+every four years.  
+  
+Satoshi's original code had a 32MB block size limit, which he dropped to 1MB
+as part of a bunch of band-aid fixes to make denial-of-service attacks harder.  
+  
+RE: density of full nodes: In my opinion, if it is affordable to run a full
+node (less than, say, $100 per month in server costs-- that is a trivial
+monthly cost for most businesses and some individuals) then we'll continue to
+see tens of thousands of full nodes.  
+  
+Median cost of a dedicated server with lots of bandwidth, disk and CPU is
+under $100/month these days, which would support a block size at least ten
+times the current maximum.  
+  
+And all of THAT is before even starting to think about possible optimizations
+(e.g. figure out how to mitigate the "insert malicious data" problem-- maybe
+Peter Todd's security bonds would be helpful-- and a shared DHT storing all
+valid transactions combined with bloom filters on connections could make it
+cheap for any one machine to be a fully validating node).  
+  
+Please, don't listen to all of the FUD being thrown around about raising the
+block size even before there is any solid proposal for what should be done.  
+  
+
