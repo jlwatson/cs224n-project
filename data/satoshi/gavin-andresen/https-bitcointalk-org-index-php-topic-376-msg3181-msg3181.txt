@@ -1,0 +1,22 @@
+
+
+Quote from: Bitcoiner on July 15, 2010, 03:58:13 PM
+
+Fractional reserve banking is unstable without a monopoly over the ability to
+print currency, due to the >0 possibility that a bank runs out of reserves.
+
+  
+That's like saying: "Gold atoms are unstable because quantum mechanics tells
+us that there is a >0 possibility that they will spontaneously decay."  
+  
+Yes, in the very very very long run the universe will suffer heat death and
+there will be no gold (or any other atoms) left.  
+  
+If the probability of bank runs is very small, then fractional reserve banking
+works. Or, in other words, if banks can establish and maintain trust in their
+ability to repay deposits they'll be stable even if they practice fractional
+reserve banking.  
+  
+I hope we'll eventually find out the hard way if, or which, Bitcoin banks can
+establish and maintain trust.  
+

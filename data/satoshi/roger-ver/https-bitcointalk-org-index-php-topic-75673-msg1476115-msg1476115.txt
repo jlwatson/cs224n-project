@@ -1,0 +1,22 @@
+
+
+Quote from: ErebusBat on January 24, 2013, 04:10:31 PM
+
+Quote from: MemoryDealers on January 24, 2013, 03:43:37 PM
+
+You can install it from any app store. (Not only Korean)  
+If you install it from an IP address that already has accessed a
+Blockchain.info wallet that is more than two weeks old, the iphone app will
+have the full wallet functionality enabled.  
+
+Do you have to install it, or just run it from an IP address?  
+
+  
+I think install, but it is easy to delete the app and reinstall it.  
+  
+Here is an old Blockchain account that you can use to activate the Iphone app:  
+  
+https://blockchain.info/wallet/90803604-bbce-b66e-eafa-8a37f64c090b  
+  
+Password: M84Q2kCkg2
+

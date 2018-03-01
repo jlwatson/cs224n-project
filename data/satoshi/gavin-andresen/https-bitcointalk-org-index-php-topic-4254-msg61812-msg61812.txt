@@ -1,0 +1,23 @@
+
+
+Quote from: ArsenShnurkov on March 07, 2011, 09:25:26 PM
+
+How the old miners will check the doublespending if money was spend earlier
+with new transaction type?  
+
+  
+It is not a new transaction type-- transactions could always have multiple
+TxOuts.  
+  
+However, to prevent a denial-of-service attack (which was actually attempted--
+see block 71036) transactions with more than 2 TxOuts are currently dropped by
+clients instead of relayed.  
+  
+Now that there is a need for it, the rules allow "reasonable" multi-output
+transactions, but still denies "unreasonable" ones (reasonable means: is one
+of the 2 standard transaction types and only does one ECDSA signature
+verification per recipient).  
+  
+So: no, this won't cause a block chain split. And no, old miners will not
+disagree with new miners, so double-spending is not possible.  
+

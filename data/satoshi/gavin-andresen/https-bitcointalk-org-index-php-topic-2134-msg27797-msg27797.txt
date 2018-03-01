@@ -1,0 +1,21 @@
+
+
+I'm happy to announce ClearCoin, my bitcoin escrow service:  
+https://clearcoin.appspot.com/  
+  
+It makes bitcoin transactions safer by securely holding coins in escrow until
+both buyer and seller are satisfied.  
+  
+If you are buying something using bitcoins, it makes the transaction **much**
+safer. If you are unsatisfied, you will eventually get your bitcoins refunded
+to you-- you can think of ClearCoin as do-it-yourself chargebacks.  
+  
+If you are selling something using bitcoins, ClearCoin is safer than ad-hoc
+arrangements to reassure reluctant customers (like "I'll ship you the product
+if you promise to pay within 30 days" or "pay me half now and half on
+delivery").  
+  
+I'm looking for questions, comments and feedback. You can give it a try for
+free-- transactions of less than 100 bitcoins are free, and you can setup an
+escrow account to yourself just to see how ClearCoin works.  
+

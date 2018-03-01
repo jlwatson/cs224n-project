@@ -1,0 +1,29 @@
+
+
+Quote from: NewLiberty on October 22, 2014, 11:18:09 PM
+
+I continue to maintain that market forces can rightsize MAX_BLOCK_SIZE if an
+algorithm with a feedback mechanism can be introduced, and that doing so
+introduces both less centralization risk than an arbitrary patch, and less
+risk of future manual arbitrary adjustments.  
+Fix it right, fix it once.  
+
+  
+I think you are confusing MAX_BLOCKSIZE with the floating, whatever-the
+market-demands blocksize.  
+  
+MAX_BLOCKSIZE is, in my mind, purely a safety valve-- a "just in case" upper
+limit to make sure it doesn't grow faster than affordable hardware and
+software can support.  
+  
+Ideally, we never bump into it. If we go with my proposal (increase to 20MB
+now, then double ten times over the next twenty years) I think it is
+reasonably likely the market-determined size will never bump into
+MAX_BLOCKSIZE.  
+  
+I think it is very unlikely that in 20 years we will need to support more
+Bitcoin transactions than all of the cash, credit card and international wire
+transactions that happen in the world today (and that is the scale of
+transactions that a pretty-good year-2035 home computer and network connection
+should be able to support).  
+

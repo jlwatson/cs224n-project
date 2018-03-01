@@ -1,0 +1,9 @@
+
+
+goatpig: This isn't one node one vote. You only trust the nodes you trust. If
+someone sets up a million nodes that all trust each other you don't really
+care.  
+  
+You can't change the ledger in any illegitimate way without the current pool
+of trusted nodes noticing and rejecting your change.  
+

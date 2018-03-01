@@ -1,0 +1,27 @@
+
+
+I figure each bitcoin transaction is currently costing about $US 0.0003
+(three-hundredths of a cent)  
+  
+Here's the back-of-the-envelope calculation I used to get to that number:  
+  
+Transaction size: ~300 bytes.  
+Disk space cost: 0.05 $US per gigabyte (about $100 for a 2TB hard drive these
+days)  
+Bandwidth cost: 0.02 $US per gigabyte  
+CPU cost: 0 (bad assumption-- anybody want to try to come up with a better
+estimate?)  
+  
+Size of bitcoin network: ~10,000 nodes  
+  
+Each transaction is currently sent across the network twice (once on its own,
+and once when it becomes part of a block). It is stored on disk once. So
+disk+bandwidth cost for one machine is:  
+(0.05+0.02+0.02)*(300/1000000000)  
+... times 10,000 nodes gives $0.00027 per transaction.  
+  
+  
+Please check my work-- I usually screw up and add or drop an extra zero when
+doing these types of calculations.  
+  
+

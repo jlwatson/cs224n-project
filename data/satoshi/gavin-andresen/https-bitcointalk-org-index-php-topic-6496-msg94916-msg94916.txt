@@ -1,0 +1,35 @@
+
+
+I've deployed a -testnet version of ClearCoin, at:  
+https://testnet.clearcoin.appspot.com/  
+  
+It is fully functional, so feel free to creates some escrow transactions and
+get some testnet bitcoins from the the testnet faucet (which I will eventually
+move to testnet.freebitcoins.appspost.com).  
+  
+For anybody else developing on App Engine, here's what I did to make it work:  
+  
+In my main.py:  
+
+Code:
+
+# Set testnet namespace  
+if 'test' in os.environ['CURRENT_VERSION_ID']:  
+set_namespace('testnet')  
+
+CURRENT_VERSION_ID is the version of your app that's running, and is set by
+App Engine.  
+set_namespace makes all subsequent datastore and memcache operations
+read/write from a different database. So almost all of the code for ClearCoin
+doesn't care whether it is handling testnet coins, it just works.  
+  
+The only other change needed was a check for 'test' in
+os.environ['CURRENT_VERSION_ID'] when deciding which bitcoind server to use. I
+run the -testnet bitcoind for ClearCoin on a different machine than the
+production bitcoind, so experiments on the test net won't affect the
+production ClearCoin at all.  
+  
+If you're not running on App Engine, you should think about building in the
+equivalent of CURRENT_VERSION_ID and 'set_namespace' so deploying test and
+production versions of your application is easy.  
+

@@ -1,0 +1,16 @@
+
+
+Don't panic.  
+  
+roconnor has been experimenting with spending "duplicate coinbase
+transactions" on the testnet. Block explorer is confused, and isn't seeing the
+50 bitcoins generated to that address in testnet block 45,442 (because the
+generation transaction has the same ID as the generation transaction in block
+45,333).  
+  
+Expect code changes before the 0.6 release is final to discourage and
+eventually prohibit accepting blocks with duplicate coinbase transactions;
+although we can't see a way to exploit this weirdness to cheat anybody (it is
+easy to cheat yourself out of bitcoins using duplicate coinbase transactions
+that cannot be spent), it's definitely not a good thing.  
+

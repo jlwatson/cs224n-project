@@ -1,0 +1,8 @@
+
+
+Once transactions are validated and buried "deep enough" in the blockchain you
+can forget their inputs, because the inputs are only needed for validation.  
+  
+... although SOMEBODY on the network should remember them, in case
+I-don't-trust-anybody nodes want to validate the entire blockchain.
+

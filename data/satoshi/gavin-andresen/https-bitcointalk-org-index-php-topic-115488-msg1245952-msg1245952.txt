@@ -1,0 +1,25 @@
+
+
+Quote from: xblitz on October 04, 2012, 09:01:56 PM
+
+Im trying to find the input address of a transaction but i can't seem to find
+out how.. anyone ?  
+
+  
+Transactions do not have an input address.  
+  
+They have one or more inputs, which may or may not correspond to one or more
+addresses.  
+  
+If you have a CScript, then you can call:  
+
+Code:
+
+bool ExtractDestination(const CScript& scriptPubKey, CTxDestination&
+addressRet);  
+bool ExtractDestinations(const CScript& scriptPubKey, txnouttype& typeRet,
+std::vector<CTxDestination>& addressRet, int& nRequiredRet);  
+
+  
+What are you trying to do?  
+

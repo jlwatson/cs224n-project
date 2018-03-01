@@ -1,0 +1,22 @@
+
+
+Quote from: DeathAndTaxes on March 06, 2012, 04:00:21 AM
+
+On edit: as indicated above DUH the blockchain. Close enough for this work and
+nearly impossible to spoof at least economically.  
+
+  
+I was thinking of a kind of replay attack:  
+  
+\+ Control the TPM's view of the world (e.g. make it seem like it is Jan 1,
+2010)  
+\+ Get the TPM to sign a small transaction, shut it down.  
+\+ Increment time, get it to sign another transaction  
+\+ Repeat.  
+  
+Replace "time" with "blockchain" and you've got the same problem: can the TPM
+know that it's view of the external world is correct? If it sends a nonce (to
+prevent replay attacks) to some external service that adds a timestamp and
+signs it with a public key known to the TPM code... then we're back to using
+two different servers.  
+

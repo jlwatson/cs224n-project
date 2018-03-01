@@ -1,0 +1,20 @@
+
+
+https://github.com/bitcoin/bitcoin/pull/215  
+  
+This pull is prompted by changes I'm making to ClearCoin, and should apply to
+any service where customers will owe the service bitcoins. It removes the
+account balance checks from the RPC move command.  
+  
+I'll use it to create accounts associated with users that keep track of how
+many bitcoins they owe; for example, if I owed 1 bitcoin ClearCoin will tell
+bitcoin:  
+move 'gavinandresen' 'total_owed' 1.00  
+  
+Assuming I'm not carrying a balance, that makes the gavinandresen account
+balance -1.00 BTC. When I pay to one of the addresses associated with the
+'gavinandresen' account, the account balance will be automatically credited.  
+  
+If I were a professional accountant I probably would have written 'move' this
+way to begin with...  
+

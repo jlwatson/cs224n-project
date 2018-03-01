@@ -1,0 +1,59 @@
+
+
+CreateNewBlock() has this code:  
+
+Code:
+
+3368 uint64 nBlockSize = 1000;  
+3369 int nBlockSigOps = 100;  
+3370 while (!mapPriority.empty())  
+3371 {  
+3372 // Take highest priority transaction off priority queue  
+3373 double dPriority = -(*mapPriority.begin()).first;  
+3374 CTransaction& tx = *(*mapPriority.begin()).second;  
+3375 mapPriority.erase(mapPriority.begin());  
+3376  
+3377 // Size limits  
+3378 unsigned int nTxSize = ::GetSerializeSize(tx, SER_NETWORK);  
+3379 if (nBlockSize + nTxSize >= MAX_BLOCK_SIZE_GEN)  
+3380 continue;  
+3381 int nTxSigOps = tx.GetSigOpCount();  
+3382 if (nBlockSigOps + nTxSigOps >= MAX_BLOCK_SIGOPS)  
+3383 continue;  
+3384  
+3385 // Transaction fee required depends on block size  
+3386 bool fAllowFree = (nBlockSize + nTxSize < 4000 || dPriority > COIN * 144
+/ 250);  
+3387 int64 nMinFee = tx.GetMinFee(nBlockSize, fAllowFree);  
+
+The last couple of lines here relate to one of the free-transaction rules: if
+the size counting the new tx is < 4000 then it is eligible to pay no tx fee.  
+  
+I wanted to point out the first line, which initializes nBlockSize to 1000. It
+means there is only 3000 bytes reserved for free transactions, not 4K as often
+stated.  
+  
+dPriority for a tx is calculated as sum over all input transactions of the
+input value times its depth, divided by tx size in bytes. This is compared
+above with 144/250, in units of bitcoins. 250 is about the size of a simple
+transaction, so to be eligible for no tx fees beyond the 3000 bytes area, the
+average depth of the inputs times the tx value must be > 144 btc (more for
+complex transactions with many inputs). If so, the GetMinFee() function allows
+up to 27K of space.  
+  
+A special case is transactions with input(s) not in blocks. These don't
+contribute to priority, as though depth==0. If all the inputs are not in
+blocks, then dPriority will be zero, and the tx can go into the block only if
+its predecessors have got into the block.  
+  
+If someone sends out a bunch of transactions quickly, such that each one
+depends on the one before, then all but possibly the first will have dPriority
+zero. With no tx fees, only about 12 can get into the 3K free area. If there
+are other transactions around, there will be room for fewer.  
+  
+I do see a pattern of blocks about 3.1K in size with about 12 transaction.
+Also there have been reports of chains of transactions, each dependent on the
+previous, getting into consecutive blocks, one per block. This might be
+because with each new block, (only) the next tx in the chain gets nonzero
+dPriority.
+

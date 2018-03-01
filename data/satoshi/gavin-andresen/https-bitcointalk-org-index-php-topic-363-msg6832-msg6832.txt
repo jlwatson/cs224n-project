@@ -1,0 +1,9 @@
+
+
+That IS part of the new -port / -rpcport code (I use
+boost::interprocess::file_lock to make sure bitcoins running on different
+ports don't try to use the same wallet/blkindex/etc files).  
+  
+I'll create an svnTEST branch that omits those changes, and will always be
+just a TEST-network version of the latest svn trunk.  
+

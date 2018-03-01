@@ -1,0 +1,9 @@
+
+
+By the time Bitcoins replace the Euro  I think most people will be running
+lightweight clients on wireless smartcards in their (physical) wallet that
+don't pay attention to every single transaction.  
+  
+But that's WAAAY down the road. And who knows, by then maybe we'll all have a
+hundred-gigabits of bandwidth in our pants.  
+

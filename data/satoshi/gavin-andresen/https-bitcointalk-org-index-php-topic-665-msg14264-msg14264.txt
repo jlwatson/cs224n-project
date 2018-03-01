@@ -1,0 +1,7 @@
+
+
+Separate "accounts" (addresses with labels) to accumulate Jackpots is the
+right idea. Users buy tickets, bitcoins are moved to the appropriate Jackpot
+account. When a Jackpot is won, transactions flow out of its account back to
+whoever won.  
+

@@ -1,0 +1,36 @@
+
+
+Wow, I new this would generate discussion... but wow!  
+  
+A couple of quick notes:  
+  
+noagenda nailed it-- I was contacted specifically by In-Q-Tel, the CIA's "look
+for interesting/promising new private technologies and then invest in them"
+spin-off. I get the impression they organize the conference. This year the
+conference is about money.  
+  
+They are serious about security; there will be no recording, and I will not be
+allowed to bring any electronic devices with me. I am planning on posting my
+talk, and if I get my act together in time I'll try to post it before I give
+it so y'all can give me feedback.  
+  
+I'll be signing an agreement that I, or my company, will not use my appearance
+for publicity purposes. So please, no unofficial "from the bitcoin community"
+press releases about this.  
+  
+If talking to them makes y'all trust me less... then good! I'd like to see
+more careful code review, and, as others have pointed out, if bitcoin can be
+destroyed by one person, or requires the leadership of one person, then it has
+failed to be the strong, decentralized system that I think it is.  
+  
+RE: me == satoshi: here's some C++ code I wrote 15 years ago:  
+http://oss.sgi.com/cgi-
+bin/cvsweb.cgi/inventor/apps/demos/revo/RevClass.c%2B%2B?rev=1.1.1.1  
+I have a very different coding style from Mr. Nakamoto. And I don't know
+nearly enough crypto to build something like bitcoin by myself.  
+  
+And one final note: the US government is a really, really, really big
+organization. Like any big organization, different parts have different
+motives and goals. I hope I'll get a little tiny glimpse into what one part of
+that big organization thinks about bitcoin.  
+

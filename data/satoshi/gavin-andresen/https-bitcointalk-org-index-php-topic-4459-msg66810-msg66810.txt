@@ -1,0 +1,17 @@
+
+
+Actually, falling asleep last night I realized what I proposed would be yet
+another variation on an 'anybody can claim' transaction (anybody can just
+choose an r1 that make r1 XOR hash_xor_r1 evaluate to a hash that they own).  
+  
+I think this would work:  
+
+Code:
+
+OP_OVER OP_ADD OP_HASH160 <hash160(r1+public_key)> OP_EQUALVERIFY OP_CHECKSIG  
+
+... supply <scriptsig> <public_key> <r1> to claim.  
+  
+I'm not suggesting anything like this get implemented any time soon, I started
+this thread just to explore what is possible.
+

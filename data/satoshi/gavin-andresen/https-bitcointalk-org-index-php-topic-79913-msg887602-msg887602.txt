@@ -1,0 +1,24 @@
+
+
+Quote from: gmaxwell on May 07, 2012, 11:51:58 PM
+
+Bitcoin would be be even worse off: The network itself is highly public and
+there is only one network... so you'd simply start one Bitcoin node to
+enumerate all the other publicly available ones. These attacks can be
+resisted see the tor bridges arms race for an example but it's better to let
+the experts in that area handle that for us and take advantage of our common
+needs. Bitcoin is very tor compatible, its a good mix.  
+
+I'd still like to see several somebodies who know a lot more about networking
+than I do work on transmitting Bitcoin traffic over different networks (along
+with bridge nodes to shuffle traffic between the network we have now and the
+new networks).  
+  
+I'd sleep easier if I knew that an as-yet-undiscovered bug in the network
+protocol we have now couldn't bring the entire system down. I'm confident we'd
+quickly fix whatever the problem is and I'm sure it would be back up and
+running within 24 hours, but it would be better if big merchants and miners
+and services could run two or more completely different bitcoin-network-stacks
+so they're less likely to be taken down by DoS attacks, bugs, or ISPs
+deploying deep packet inspection to try to block Bitcoin traffic.  
+

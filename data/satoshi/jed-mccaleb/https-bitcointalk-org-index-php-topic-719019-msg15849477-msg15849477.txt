@@ -1,0 +1,6 @@
+
+
+Nobitcoin: I think you are looking for this link:
+https://launch.stellar.org/#/login you need to upgrade. And save your secret
+key. Stellar is like bitcoin. There aren't accounts really.
+

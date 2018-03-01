@@ -1,0 +1,16 @@
+
+
+Quote from: jimbobway on December 06, 2010, 12:05:52 AM
+
+I archived my wallet to be opened 16 years from now. Will I run into a similar
+problem?  
+
+  
+Peer into my crystal ball with me as we predict the future....  
+  
+No, seriously, upward compatibility (reading old wallet.dat's into new
+versions of bitcoin) shouldn't be an issue.  
+  
+And Satoshi and I are discussing possible fixes for the
+upgrade/downgrade/upgrade scenario that we think is causing this.
+

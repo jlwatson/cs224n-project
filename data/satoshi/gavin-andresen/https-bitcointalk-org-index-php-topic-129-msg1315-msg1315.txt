@@ -1,0 +1,14 @@
+
+
+To get back to the original question, paying to a bitcoin addresses displayed
+on an https: webpage secured with a valid certificate is better.  
+  
+When the bitcoin client supports secure connections to IP addresses, then
+paying to an IP address displayed on an https: webpage secured with a valid
+certificate will be just as good (security-wise, anyway).  
+  
+Bitcoin doesn't try to solve the "am I paying who I THINK I'm paying problem"
+-- we need HTTPS and signed certificates and DNSSEC for that (or something
+similar). Bitcoins are a small but really important piece of the payment
+puzzle...  
+

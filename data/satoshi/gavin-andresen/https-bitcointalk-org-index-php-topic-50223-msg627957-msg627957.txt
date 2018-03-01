@@ -1,0 +1,27 @@
+
+
+In the spirit of "do the simplest possible thing that works..." I think I see
+a very simple thing that will work.  
+  
+The simple additional rule for the testnet:  
+  
+If current_block_timestamp - previous_block_timestamp > 20 minutes:  
+block difficulty = minimum difficulty  
+  
+And that's it.  
+  
+If mining is proceeding normally and most blocks are produced in less than 20
+minutes, then the rules are exactly the same as the main network.  
+  
+But if somebody has driven difficulty way up, then the new rule acts as a
+safety valve, ensuring that new blocks are created at least once every
+20-something minutes or so. After a month of "safety valve blocks" the
+difficulty would be calculated as normal, and would get cut in (approximately)
+half.  
+  
+This does make the testnet block chain more susceptible to forks -- somebody
+with a bunch of hashing power can pretty easily invalidate a long chain of
+20-minute, min-difficulty blocks if they want to. And there is likely to be a
+flurry min-difficulty blocks produced/announced every 20 minutes. But that
+could be considered a feature (test your block-chain-reorganization code!).  
+

@@ -1,0 +1,12 @@
+
+
+Quote from: caston on February 19, 2011, 03:27:00 PM
+
+Gavin, is this windows/mingw build environment publicly available?  
+
+  
+Yes, it is public Amazon ami-2edd2e47 named 982440761210/BitcoinMinGW  
+  
+The linux32 and linux64 amis I used to build the linux releases are also
+public.  
+

@@ -1,0 +1,165 @@
+
+
+My work on the 'raw transaction' API has me thinking hard about the
+gettransaction/getblock RPC calls. I want it to be easy for the information
+returned by those calls to be used by the new createrawtx/etc API calls.  
+  
+So: in version 0.6.3 and earlier, gettransaction would only return information
+about transactions in your wallet, and would not return all of the information
+about the transaction.  
+  
+A month or two ago Pieter and Luke wrote code to modify
+gettransaction/getblock to return information about any transaction in the
+blockchain and a new 'decompositions' Object argument was added to those RPC
+calls that would let you specify 5 different ways to get information about
+transaction inputs and outputs (no/hash/hex/asm/obj). So you might do:  
+
+Code:
+
+gettransaction
+0e3e2357e806b6cdb1f70b54c3a3a17b6714ee1f0e68bebb44a74b1efd512098
+'{"script":hex}'
+
+  
+I think 5 different ways of getting (or not getting if you specify 'no') the
+information is 4 too many, so I'm modifying the code as follows:  
+
+  * getblock doesn't change from version 0.6; it returns a list of transaction id's in a "tx" Array.
+  * gettransaction gets an extra boolean argument that defaults to 0 (false). If non-zero is passed, then it is verbose and outputs information about the transaction inputs and outputs in all the different formats (same as what decomposition "obj" does).
+  * for compatibility with the 'raw transaction' API calls, gettransaction always return the full serialized-hex-encoded transaction data as a new "rawtx" field.
+
+The thinking is either RPC users will want minimal information quickly, or
+will want full information and won't care much if they get extra information.
+If you want full information as quickly as possible, then you should write
+code to decode the "rawtx" array yourself.  
+  
+This does mean getting full information for every transaction in a block means
+more than one RPC call, but Jeff has a pull request for JSON-2.0 "batch"
+calls, so getting full information about every transaction in a block will be
+just two RPC round-trips (one getblock, then one batch with a bunch of
+gettransaction calls in it).  
+  
+And to be clear: these changes are meant to be 100% backwards-compatible with
+getblock/gettransaction in version 0.6.3 and earlier. We're talking about
+extra arguments and extra information in the returned JSON objects.  
+  
+
+* * *
+
+Example output for a complicated multisignature testnet transaction:  
+  
+Short, in-wallet transaction:
+
+Code:
+
+$ ./bitcoind -testnet gettransaction
+4ec492788efb3c9e4e23972f095bd575217288c9f6b8237922145aeff8dae8d5  
+{  
+"rawtx" :
+"0100000001c6660657eb258f9e58d246d767f5aaa15980d4d26ee496e7e24fabf72f2cc3440000000048473044022026b2e3d408a7848ad18b35042163c0efb358c456c6006a0cd13c077ec213aeab02202115a38de465e0c927f858cbb83fca45bddb0e469524667e39fd0c54ab5007d701ffffffff0100f2052a0100000017a914b6cb85e6fa58b2bff3da23074eb0f1a0ddb23e1f8700000000",  
+"amount" : -50.00000000,  
+"fee" : 0.00000000,  
+"confirmations" : 2,  
+"blockhash" :
+"0000000003abdd41db27190bb4f19e36497f647d1ea586ef543c44f7ccd40015",  
+"blockindex" : 1,  
+"txid" : "4ec492788efb3c9e4e23972f095bd575217288c9f6b8237922145aeff8dae8d5",  
+"time" : 1339001503,  
+"details" : [  
+{  
+"account" : "",  
+"address" : "2N9uknE7Zy9M3cPxWvkHu9HQiArL3pnbcUF",  
+"category" : "send",  
+"amount" : -50.00000000,  
+"fee" : 0.00000000  
+}  
+]  
+}  
+
+Verbose:  
+
+Code:
+
+$ ./bitcoind -testnet gettransaction
+4ec492788efb3c9e4e23972f095bd575217288c9f6b8237922145aeff8dae8d5 1  
+{  
+"rawtx" :
+"0100000001c6660657eb258f9e58d246d767f5aaa15980d4d26ee496e7e24fabf72f2cc3440000000048473044022026b2e3d408a7848ad18b35042163c0efb358c456c6006a0cd13c077ec213aeab02202115a38de465e0c927f858cbb83fca45bddb0e469524667e39fd0c54ab5007d701ffffffff0100f2052a0100000017a914b6cb85e6fa58b2bff3da23074eb0f1a0ddb23e1f8700000000",  
+"version" : 1,  
+"locktime" : 0,  
+"vin" : [  
+{  
+"prevout" : {  
+"hash" : "44c32c2ff7ab4fe2e796e46ed2d48059a1aaf567d746d2589e8f25eb570666c6",  
+"n" : 0  
+},  
+"scriptSig" : {  
+"asm" :
+"3044022026b2e3d408a7848ad18b35042163c0efb358c456c6006a0cd13c077ec213aeab02202115a38de465e0c927f858cbb83fca45bddb0e469524667e39fd0c54ab5007d701",  
+"hex" :
+"473044022026b2e3d408a7848ad18b35042163c0efb358c456c6006a0cd13c077ec213aeab02202115a38de465e0c927f858cbb83fca45bddb0e469524667e39fd0c54ab5007d701",  
+"type" : "pubkey",  
+"addresses" : [  
+"n4DUWe93vkdfAiSVDaMP3okaU7upK2wtrr"  
+]  
+},  
+"sequence" : 4294967295  
+}  
+],  
+"vout" : [  
+{  
+"value" : 50.00000000,  
+"scriptPubKey" : {  
+"asm" : "OP_HASH160 b6cb85e6fa58b2bff3da23074eb0f1a0ddb23e1f OP_EQUAL",  
+"hex" : "a914b6cb85e6fa58b2bff3da23074eb0f1a0ddb23e1f87",  
+"reqSigs" : 1,  
+"type" : "scripthash",  
+"addresses" : [  
+"2N9uknE7Zy9M3cPxWvkHu9HQiArL3pnbcUF"  
+]  
+}  
+}  
+],  
+"amount" : -50.00000000,  
+"fee" : 0.00000000,  
+"confirmations" : 2,  
+"blockhash" :
+"0000000003abdd41db27190bb4f19e36497f647d1ea586ef543c44f7ccd40015",  
+"blockindex" : 1,  
+"txid" : "4ec492788efb3c9e4e23972f095bd575217288c9f6b8237922145aeff8dae8d5",  
+"time" : 1339001503,  
+"details" : [  
+{  
+"account" : "",  
+"address" : "2N9uknE7Zy9M3cPxWvkHu9HQiArL3pnbcUF",  
+"category" : "send",  
+"amount" : -50.00000000,  
+"fee" : 0.00000000  
+}  
+]  
+}  
+
+* * *
+
+The only feature that bothers me is reporting 'addresses/type' for transaction
+inputs. It bothers me for two reasons:  
+  
+1) It is expensive to fetch that data, because it means finding the previous
+transaction in the blockchain and fetching it from disk. It violates the
+principle that "a feature shouldn't cost you anything if you're not using it."  
+  
+2) If "we" implement spent-input pruning (Pieter has some fantastic early
+results) that data might not exist.  
+  
+I think it would be better to remove the 'addresses/type' information from
+gettransaction output, so gettransaction never has to lookup previous
+transactions.  
+  
+If you care about the previous transaction, then you would have to call
+gettransaction again, using vin.prevout.hash to look them up (and, again,
+using the JSON-2.0 'batch' feature to lookup all the prior transactions in one
+RPC roundtrip).  
+  
+If/when transaction pruning happens then the semantics are clear: that
+gettransaction would return an error if the prior transaction was pruned.
+

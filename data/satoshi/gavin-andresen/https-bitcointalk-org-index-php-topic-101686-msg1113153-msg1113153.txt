@@ -1,0 +1,16 @@
+
+
+From an email I sent to somebody concerned about bitcoin usability just a
+couple of days ago:  
+  
+Making the reference Bitcoin application more usable isn't a high priority for
+me right now.  
+  
+The high priority is making it safe to use, even if your computer gets
+infected by malware. I **WANT** it to be hard and geeky to use so only geeks
+who are able to keep their computers secure run it.  
+  
+Also, the "download and run software on my computer" way of doing things is
+dying. The vast majority of ordinary users will be using Bitcoin on their
+smart-phones or through a web browser in the near future....  
+

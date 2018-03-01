@@ -1,0 +1,25 @@
+
+
+I'm thinking of replacing the Bitcoin Faucet's reCAPTCHA with an AdsCaptcha
+\-- instead of solving a CAPTCHA to help scan books, people visiting the site
+would be shown advertising which would help refill the Faucet with bitcoins.  
+  
+My goal isn't to make money from freebitcoins.appspot.com, my goal is to make
+it sustainable without relying on donations. According to the AdsCaptcha
+folks, they expect advertisers pay anywhere from 1 to 20 US cents per CAPTCHA
+solution, depending on web traffic, how well the website fits their product,
+etc. The Faucet is currently giving out 0.05 bitcoins per visitor, which is 2
+cents at current prices.  
+  
+I would also like to gradually relax some of the anti-cheating measures I have
+in place that occasionally make it frustrating for non-cheating new users who
+"look like" people who are constantly re-visiting the Faucet (using proxies
+and new bitcoin addresses) to try to get more than their fair share.  
+  
+One danger is that I implement AdsCaptcha, donations to the faucet stop, I
+find the revenue from AdsCaptcha is less than 0.01 BTC per visitor so that
+whole thing is even less sustainable than the current "somebody steps up and
+donates more when the balance gets low enough" model.  
+  
+What do you all think?  
+

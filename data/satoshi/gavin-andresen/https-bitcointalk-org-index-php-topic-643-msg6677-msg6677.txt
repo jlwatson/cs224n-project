@@ -1,0 +1,26 @@
+
+
+The good news is the TEST network is doing its job-- the problem patched by
+the 0.3.6 release (invalid transactions accepted as valid) was implemented and
+demonstrated on the TEST network.  
+  
+The bad news is that means the TEST network block chain split yesterday. If
+you are, or were, running a release prior to 0.3.6 on the TEST network, you've
+got bad blocks in your blkindex.dat and blk0001.dat files.  
+  
+So, you need to:  
+1\. Shut down bitcoin or bitcoind  
+2\. Remove the blkindex.dat and blk0001.dat (in ~/.bitcoinTEST or
+~/Library/Application Support/BitcoinTEST or %APPDATA%\BitcoinTEST) files.  
+3\. Be sure you're upgraded to 0.3.6  
+4\. Run bitcoin/bitcoind, and you'll download the "good" block chain.  
+  
+Any blocks you generated after the bad blocks are invalid, so if you were
+busily generating blocks on the TEST network in the last couple of days...
+sorry, that play money is gone.  
+  
+Transactions that you made may or may not make it to the new block chain,
+depending on whether or not they originated from invalid coins (any coins
+generated after the bad blocks are invalid).  
+  
+

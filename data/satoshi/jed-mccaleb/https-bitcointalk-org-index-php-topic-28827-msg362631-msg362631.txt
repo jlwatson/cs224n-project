@@ -1,0 +1,32 @@
+
+
+https://support.mtgox.com/entries/20273158-announcement-extension-of-reduced-
+trade-fees  
+  
+
+Quote
+
+Dear Mt. Gox users,  
+  
+We are pleased to announce that as a way to say we sincerely appreciate our
+customers who are hanging in there with us as we recover from the
+hackcrash (not to mention our growing pains), we will be extending the
+current discounted trade fees.  
+  
+Those who are trading at 0% will continue at that rate until July 27. After
+the July 27 customers with the 0% trade fees will migrate to 0.3% trade fees
+which they will be able to take advantage of until August 9.  
+  
+Those who were trading at 0.3% will continue at the same rate until August 9  
+  
+We would also like to remind those users who are trading at 0% that they are
+eligible for a free YubiKey, a new One Time Password security feature at
+Mt.Gox that will ensure the security of your online transactions with us.
+Unfortunately, we will only be able to offer this for a short time so please
+make sure to order your key at http://Yubikey.mtgox.com (be sure to login)
+before July 27.  
+  
+Sincerely,  
+  
+-Mt. Gox Team.
+

@@ -1,0 +1,18 @@
+
+
+There are actually a few different ways to get a negative account balance.  
+  
+1\. As theymos said, the "" account is special, and can go negative if you use
+sendtoaddress instead of sendfrom.  
+  
+2\. Other accounts can go negative if they receive coins on a bitcoin address,
+you send those coins from that account, and then you use setaccount to re-
+assign those received coins to some other account.  
+  
+3\. They can also go negative by the transaction fee amount if you sendfrom
+the coins in an account and the send needs a transaction fee.  
+  
+Also as theymos says, you can never send more coins than are in your total
+wallet. And it should ALWAYS be true that the sum of coins in all accounts
+equals the number of coins you can send.  
+

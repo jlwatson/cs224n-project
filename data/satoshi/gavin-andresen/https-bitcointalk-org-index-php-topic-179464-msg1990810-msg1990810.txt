@@ -1,0 +1,22 @@
+
+
+Quote from: mollison on April 30, 2013, 09:27:45 PM
+
+... In any given distro, there are thousands of packages, so thousands of
+upstream projects, and tens to hundreds of package maintainers.  
+  
+Shouldn't we be worried about this?  
+
+  
+Sure. That's one of the reasons why I'm reluctant to upgrade the
+distro/dependencies for the deterministic build process, and generally prefer
+to use older dependencies rather than the "latest and greatest" of everything.
+But there's a tradeoff between "risk that an Evil Maintainer slipped something
+in" and "risk that we ship with an upatched bug" -- e.g. we tend to be on the
+latest version of OpenSSL, but a few releases behind of Qt4.  
+  
+PS: if you really want to be completely paranoid, you should only run bitcoin
+on old hardware/OS manufactured before 2009 so you can be sure the
+hardware/firmware/OS doesn't have any wallet-stealing circuits/code
+lurking....  
+

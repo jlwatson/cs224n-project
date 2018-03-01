@@ -1,0 +1,9 @@
+
+
+The 'open' command is the best way to run Bitcoin.app from the command line:  
+  
+
+Code:
+
+open /Applications/Bitcoin.app --args -datadir=/Volumes/Bitcoin
+

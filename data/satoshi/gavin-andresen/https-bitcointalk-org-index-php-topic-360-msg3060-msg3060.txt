@@ -1,0 +1,6 @@
+
+
+There's a stackoverflow question about double hashing, by the way. Consensus
+is that it's not less secure. It's too late for my brain to process the
+nuances of hashing...  
+

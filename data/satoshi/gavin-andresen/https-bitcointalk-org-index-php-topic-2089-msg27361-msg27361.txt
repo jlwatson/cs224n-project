@@ -1,0 +1,41 @@
+
+
+Quote from: genjix on December 06, 2010, 08:37:47 AM
+
+PS: Anyone can recommend some kind of automatic backup software for Linux?  
+
+  
+My automatic backup strategy is:  
+  
+Cron task that runs a shell script twice a day.  
+  
+The shell script does:  
+call bitcoind backupwallet to create a time/date-stamped wallet file  
+gpg encrypt the wallet with my public key  
+copy the result to an off-machine backup location  
+(I'm using Amazon S3, which is itself redundantly backed up to multiple
+geographic locations automatically)  
+  
+Shell script looks like:  
+
+Code:
+
+#!/usr/bin/env bash  
+  
+GPGU="Gavin Andresen"  
+  
+TS=$(date "+%Y%m%d-%H-%M")  
+  
+WALLET=/tmp/clearcoinwallet${TS}  
+WALLET_E=/tmp/clearcoinwallet${TS}.crypt  
+  
+~/bin/bitcoind backupwallet $WALLET  
+/usr/bin/gpg -r "$GPGU" --output $WALLET_E --encrypt $WALLET  
+~/bin/s3cmd put $WALLET_E s3://NAME_OF_MY_S3_BUCKET  
+rm $WALLET $WALLET_E  
+
+  
+I'd suggest doing something similar (replace the s3cmd with an scp to copy
+somewhere if you're not an S3 user; you could even ftp somewhere, since the
+wallet is encrypted it doesn't matter if somebody is eavesdropping).  
+

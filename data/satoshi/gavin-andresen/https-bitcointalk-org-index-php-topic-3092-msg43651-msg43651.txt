@@ -1,0 +1,19 @@
+
+
+Quote from: jon_smark on February 01, 2011, 10:32:49 PM
+
+Yes, there are "behind the scenes" actions that must take place regardless of
+user intervention. Suppose the user has bought something; I want to be able to
+ship the item as soon as the bitcoin transaction is confirmed.  
+
+  
+Transactions are confirmed when new blocks are accepted; that's the idea
+behind my 95%-finished 'monitorreceived' code. It will POST to a URL when new
+wallet transactions and blocks are accepted. The block information includes
+all transaction ids (and a link to the previous block).  
+  
+As you note, you still have the issue of what to do if your code misses a
+POST. That shouldn't be a big issue, though, because you'll resynchronize the
+next time a block is found. Worst case, you'll ship to the customer 1 block
+(10 minutes) later than is optimal if your connection to bitcoind is lost.  
+

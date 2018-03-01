@@ -1,0 +1,11 @@
+
+
+I think there doesn't have to be One True Answer, and I'd like to see the
+different clients experiment with different ways of estimating fees.  
+  
+I like your idea, Jan-- go for it!  
+  
+I want Consumer Reports magazine to do an article in 15 years comparing
+bitcoin wallets and figuring out which one gives the fastest transactions for
+the lowest fees...  
+

@@ -1,0 +1,23 @@
+
+
+Random thought RE: passwords and RPC:  
+  
+I was thinking a better way of handling the password might be a new RPC
+command:  
+  
+walletpassword <password> <timeout>  
+  
+... which would store <password> in memory for <timeout> seconds. If you know
+your server is secure, you'd give a very long <timeout> at startup.  
+  
+That same <timeout> mechanism might be very handy in the GUI (somebody who
+knows more about password security might have something intelligent to say
+about the tradeoff between the risk of storing hashed-password in memory
+versus the convenience of not having to constantly re-enter it).  
+  
+A walletpasswordchange <oldpassword> <newpassword> seems like it would be very
+handy, too.  
+  
+Tacking <password> onto the beginning of RPC argument lists seems like the
+wrong thing to do.  
+

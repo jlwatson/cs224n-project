@@ -1,0 +1,11 @@
+
+
+This depth channel is broadcasting the changes to the depth. It would be nice
+if you could send something in the beginning to get the current depth table in
+the same format. Then you can use this feed to change the original depth table
+as time goes on.  
+I know I can get it with the old API but it would be nice if the messages were
+in the same format.  
+Also is there a point to all these extra fields:
+"op":"private","origin":"broadcast","private":"depth" ?
+

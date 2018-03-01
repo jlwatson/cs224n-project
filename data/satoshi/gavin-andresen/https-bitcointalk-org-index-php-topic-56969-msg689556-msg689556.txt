@@ -1,0 +1,9 @@
+
+
+I just pulled p2sh into master, replacing the OP_EVAL code that I pulled last
+month before the controversy erupted.  
+  
+If you think it is a bad idea, then don't use it. Hopefully it will inspire
+you to prove that I'm an idiot and completely wrong about people continuing to
+use 30-something-character "bitcoin addresses" for the next year or three.  
+

@@ -1,0 +1,14 @@
+
+
+You can setup your own f2f bitcoin network using the -connect option,
+connecting only to friends.  
+  
+One of those friends must be connected to the rest of the bitcoin world, of
+course.  
+  
+Experimenting with sending transactions and blocks over XMPP or some other
+network is a great idea-- go for it! It shouldn't be hard to create a "bitcoin
+bridge" that relays traffic on the main bitcoin network to/from another
+network.  
+  
+

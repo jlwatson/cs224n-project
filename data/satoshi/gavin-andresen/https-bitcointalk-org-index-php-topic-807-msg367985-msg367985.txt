@@ -1,0 +1,4 @@
+
+
+Yes, all of the send* methods return a transaction id on successful send.  
+

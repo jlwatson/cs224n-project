@@ -1,0 +1,13 @@
+
+
+For the record:  
+  
+I think testing a gazillion pulls at once is madness, because if something
+doesn't work it can be incredibly difficult to figure out which of the
+gazillion changes made it break. Assuming that just once change made it break
+and not some subtle interaction between two or three or six changes...  
+  
+If you want to help test, I think it would be much more helpful if you find a
+feature you care about, grab the binaries that the pull-tester creates, test
+thoroughly, and then report results in the pull request on github.  
+

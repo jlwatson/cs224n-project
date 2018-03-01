@@ -1,0 +1,11 @@
+
+
+I find it distracting to see the # confirmations for each transaction. Do I
+really need to know that there are 20,132 confirmations to a transaction? And,
+oh look, it just went up to 20,133. Anything beyond a few dozen is overkill
+IMO. I propose that beyond a certain number, say 100, we just display it as
+confirmed.  
+  
+Even more useful would be to display the date by old transactions. That would
+help me remember what they were.
+

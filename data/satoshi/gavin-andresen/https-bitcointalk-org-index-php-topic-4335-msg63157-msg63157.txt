@@ -1,0 +1,29 @@
+
+
+RE: 25 outbound connections instead of 8:  
+  
+If I recall correctly (and I probably don't), the percentage of nodes
+currently on the network that are accepting incoming connections and the
+-maxconnections limit isn't great enough to support every node trying to make
+25 outbound connections.  
+  
+The major merchants and exchanges should accept incoming connections, so they
+have many more than 8 connections. That will make them basically immune to
+Sybil attacks (e.g. the Faucet has 55 connections right now).  
+  
+I like the idea of major merchants and exchanges (also) communicating with
+each other over an invitation-only, trusted "backbone." That would be in
+addition to the mostly-randomly-connected p2p network we have now, not instead
+of it.  
+  
+I'm concerned about Sybil attacks as a denial-of-service technique (attacker
+"surrounds" an 8-connection node and then drops all of their transactions just
+because they can). Randomly disconnecting and re-connecting seems like a good
+approach.  
+  
+Detecting that you're being subjected to a Sybil attack seems like it might
+also be a good approach. You don't really care if you're seeing a bogus
+version of the block chain unless you're in the middle of confirming one or
+more transactions; perhaps if transaction confirmation is taking significantly
+longer than expected the client should find some fresh peers.  
+

@@ -1,0 +1,11 @@
+
+
+Quote from: TiagoTiago on March 11, 2011, 09:37:49 AM
+
+Would it be possible to host a whole VM in such a way that the hosting service
+even though having physical access can't access anything inside the VM without
+the user's private key?  
+
+This can be done using the TPM chip and Intel's Trusted Execution Technology.
+http://www.intel.com/technology/security/
+

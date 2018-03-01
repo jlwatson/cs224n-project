@@ -1,0 +1,30 @@
+
+
+Windows, Linux and Mac binaries for 0.6rc2 are up at:  
+https://sourceforge.net/projects/bitcoin/files/Bitcoin/bitcoin-0.6.0/test/  
+  
+Please use github to report bugs:  
+https://github.com/bitcoin/bitcoin/issues  
+  
+Note that there were a few "release candidate 1 doesn't work on Windows" bug
+reports that, as far as I know, have not been fixed. We need some good Qt-on-
+Windows developers to help out, none of the current core developers use
+Windows as our primary development platform.  
+  
+A lot of bug-fixing happened between release candidate 1 and release candidate
+2, but we did also sneak in one major new feature that was long overdue: a
+Backup Wallet menu entry.  
+  
+ **Be aware:** the 0.6 release will create wallet.dat files that will not work
+with older releases, so you should back-up your wallet before running in case
+you need to revert back to an older release. 0.6 doesn't mark the wallet as
+backwards-incompatible until a new 'compressed' keypool key is added, so until
+you do something that generates a new key the wallet will stay compatible.
+Compressed keys will benefit everybody by using less network bandwidth,
+allowing more transactions to fit into each block, and making the blockchain
+smaller than it would otherwise be.  
+  
+Even a little time testing helps a lot; if you do can do some testing please
+reply in this thread with a message like "Bitcoin-Qt and bitcoind both worked
+nicely for me on my OS 10.6.8 Mac, running on -testnet."  
+

@@ -1,0 +1,30 @@
+
+
+Quote from: DannyHamilton on January 21, 2013, 09:08:39 PM
+
+Except that transactions that are smaller than 10 kilobytes do not currently
+require a fee. So the user can probably create a transaction that contains
+nearly 100 inputs each at 0.00005 BTC. That would be nearly 0.005 BTC worth of
+0.00005 BTC inputs that would be spendable in any one transaction.  
+
+  
+But a transaction with a 0.005 BTC output triggers this rule:  
+
+Code:
+
+// To limit dust spam, require MIN_TX_FEE/MIN_RELAY_TX_FEE if any output is
+less than 0.01
+
+  
+... so you're back to paying 10kilobytes * 0.0005 BTC / kilobyte == 0.005 BTC
+to spend those 0.005 BTC.  
+  
+Yes, if you have a large-value, well-aged input then you can combine it with
+tiny transactions, have a single output greater than 0.01 BTC, and probably
+get into a block for free.  
+  
+If you want to prototype a smarter coin-selection algorithm, you might start
+with the 'spendfrom.py' code I wrote as an example of using the raw
+transactions API:  
+https://github.com/bitcoin/bitcoin/pull/2162  
+

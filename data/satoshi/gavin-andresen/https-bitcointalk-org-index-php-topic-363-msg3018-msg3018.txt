@@ -1,0 +1,47 @@
+
+
+I went ahead and created a modified Bitcoin client with a brand-new block
+chain and a few other changes (detailed below) that will make it independent
+of the "production" Bitcoin network.  
+  
+I intend to use it to test out some code I'm writing for my next project; I
+don't want to accidentally break (or slowdown or otherwise interfere with) the
+real Bitcoin network. It should also be useful for anybody who wants to see if
+they can purposely break Bitcoin (for the purposes of a security audit).  
+  
+Code is hosted at github: http://github.com/gavinandresen/bitcoin-git  
+  
+Patches to go from 'production' bitcoin to 'TEST network' bitcoin are also at
+github: http://gist.github.com/502460  
+  
+... so go nuts and start hacking.  
+  
+Changes are:  
+  
+\+ Listen port is 18333 (instead of 8333). Uses 18332 for JSON-RPC (instead of
+8332).  
+\+ Uses irc.lfnet.org channel #bitcoinTEST for bootstrapping.  
+\+ Never tries to connect to "well known" nodes for bootstrapping.  
+\+ Uses bitcoinTEST for the default data directory (e.g. ~/.bitcoinTEST on
+Linux, %APPDATA%/BitcoinTEST on Windows, etc)  
+\+ Uses a different ADDRESSVERSION for Bitcoin Addresses (0xff instead of
+0x0), so you can't screw up copying and pasting Bitcoin addresses (if you try
+to use a TEST address on the production system it will tell you it's invalid;
+you can, however, lose TESTcoins by trying to send them to a valid production
+address)  
+++ Has a brand-new block chain (with a different genesis block)  
+++ Initial difficulty is 4 times easier than production Bitcoin  
+++ protocol message header bytes are { 0xfa, 0xbf, 0xb5, 0xda } instead of {
+0xf9, 0xbe, 0xb4, 0xd9 }  
+  
+ _(16 July: "++" stuff added in response to the suggestions below in this
+thread)_  
+  
+A very generous TEST Bitcoin Faucet is running at:
+https://freebitcoins.appspot.com/TEST/  
+  
+I think the TEST and production GUIs don't play well with each other; at least
+on my Mac, I have to quit the "real" bitcoin before running TEST. That's
+probably an easy fix, I just need to figure out how...  
+  
+

@@ -1,0 +1,26 @@
+
+
+For the record:  
+  
+I'm on the "let there be no fixed maximum block size" side of the debate right
+now.  
+  
+I think we should let miners decide on the maximum size of blocks that they'll
+build on. I'd like to see somebody come up with a model for time-to-transmit-
+and-receive-and-validate-a-block versus increased-chance-that-block-will-be-
+an-orphan.  
+  
+Because that is the tradeoff that will keep miners from producing 1 Terabyte
+blocks (or, at least, would keep them from producing 1 Terabyte blocks right
+now-- if we have petabyte thumb-drives and Terabyte/second networks in 10
+years maybe 1Terabyte blocks will be just fine).  
+  
+Right now, miners that use the reference implementation and don't change any
+settings will produce blocks no larger than 250Kbytes big.  
+  
+So we're finding out right now how miners collectively react to bumping up
+against a block size limit. I'd like to let that experiment run for at least a
+few months before arguing that we do or do not need to eliminate the 1MB hard
+limit, and start arguing about what the default rules for acceptable block
+size should be.  
+

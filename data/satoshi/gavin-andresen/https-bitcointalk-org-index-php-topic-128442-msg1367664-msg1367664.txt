@@ -1,0 +1,16 @@
+
+
+For those of you not subscribed to bitcoin-development@lists.sourceforge.net :  
+  
+We've been having a productive discussion of a proposal for a simple payment
+protocol to get a much better user experience than is given by bitcoin
+addresses:  
+http://sourceforge.net/mailarchive/message.php?msg_id=30147926  
+  
+This is the next big "lets all agree to do things the same way" thing I think
+we should tackle. Latest pseudo-spec is: https://gist.github.com/4120476  
+  
+I'd prefer to keep the discussion on the mailing list (I think this forum is a
+great place for brainstorming, but I think the mailing list is a little better
+for getting consensus on all the nitty-gritty details of a proposal).  
+

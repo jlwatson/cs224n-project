@@ -1,0 +1,20 @@
+
+
+Quote from: sebastian on December 07, 2011, 07:24:26 PM
+
+I dont understand this: How do we know if the block is coming from a
+misbehaving client (eg which sends "orphan" blocks on purpose), or a block
+that comes from a slow miner, so the block cannot go into the blockchain
+because that node was too slow and another node was first, and thus that block
+becomes orphan?  
+
+  
+The misbehaving client creates orphan blocks with very low proof-of-work; the
+unlucky miner creates orphan blocks with valid proof-of-work.  
+  
+The misbehaving client gets away with their misbehavior by either anchoring
+their bogus blocks deep in the chain, when blocks had very easy proof-of-work.  
+  
+Or giving them a bogus "previous block hash" so they're not anchored anywhere
+in the chain at all.  
+

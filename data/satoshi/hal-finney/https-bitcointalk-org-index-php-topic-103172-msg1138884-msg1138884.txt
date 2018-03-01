@@ -1,0 +1,34 @@
+
+
+Hi, Mike. I am still alive alive but greatly limited.  
+  
+I looked at the first paper, which as you know is not about batch
+verification. It gives a speed up if you know R that we should already get
+with just r, with our pseudo Koblitz curve. But I discovered that I had missed
+an essential optimization in my Koblitz implementation, which is to split the
+G multiplication into two, with half size exponents. This should increase the
+speed-up from 20% to more like the 40% they claim. So thanks! (Not that I can
+do anything about it. Hopefully this hint will be sufficient.)  
+  
+On batch verification, I had thought of a much kludgier approach. Bear in mind
+that in the current signature (r,s), r is just the x-coordinate of R. So we
+need to supply the y-coordinate. (Actually, that's not important, but it saves
+a little space.) So presently the scriptSig pushes the key and the signature
+on the stack. My idea was to first push a magic number and the y-coordinate of
+R. Hopefully, legacy code would ignore these two deeper stack values, and just
+verify the signature traditionally. But new code could check for the magic
+number, reconstruct R, and do batch verification. This way transactions could
+be broadcast that were backwards compatible.  
+  
+Your idea is cleaner but I am concerned about transaction hash consistency
+between old and new nodes. Old nodes don't see R, so I think new nodes can't
+hash it. And it might have to be that way forever. On the plus side, this
+would let you go back and convert all existing transactions to the new format,
+giving benefit from batch verification immediately.  
+  
+I'll try to look at the second link tomorrow and see if such dramatic speedups
+are possible. I did try an experiment where I patched out signature
+verification entirely, just had it return true. I didn't get all the speedup I
+was hoping for on initial blockchain download. Be interesting to repeat that
+now that it takes so much longer.
+

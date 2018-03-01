@@ -1,0 +1,8 @@
+
+
+If 'tainted coin tracing' is ever implemented, it would be pretty easy to
+extend the idea to 'tainted mined coins'.  
+  
+Mine 75 BTC (50 plus 25 in 'melted, tainted coins') and it'd be considered 33%
+tainted.  
+

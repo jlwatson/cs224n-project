@@ -1,0 +1,5 @@
+
+
+I'm with Hal-- do we really need another special-case switch? Are there
+significant costs to just always printing when pow fails?
+

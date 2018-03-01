@@ -1,0 +1,13 @@
+
+
+Quote from: jasinlee on December 19, 2012, 02:02:16 PM
+
+It brings into question things like are the anonymous addresses actually
+anonymous? If the owners get raided for whatever reason will they just turn on
+all their users? I agree he owes you, but it is not worth it.  
+
+  
+I think it was not clarified: the address the extra bitcoins were sent to are
+**not an anonymous address** that is part of Blockchain's mixer, it was just a
+normal address in his blockchain wallet.
+

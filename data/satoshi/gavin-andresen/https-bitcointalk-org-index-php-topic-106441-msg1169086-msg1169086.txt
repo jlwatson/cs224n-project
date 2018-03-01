@@ -1,0 +1,7 @@
+
+
+See http://dl.acm.org/citation.cfm?id=2335366 for recent research on
+passphrase usability; results do not look good.
+http://scholar.google.com/scholar?q=passphrase to see what other researchers
+have tried.
+

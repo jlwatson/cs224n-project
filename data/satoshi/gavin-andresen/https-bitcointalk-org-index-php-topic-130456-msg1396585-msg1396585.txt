@@ -1,0 +1,88 @@
+
+
+Wow, great paper!  
+  
+I like the idea of the "bill" (aka contract aka "PaymentRequest") determining
+the payment address, and the merchant's private bitcoin-signing key or keys
+being stored off their web server.  
+  
+I'll append some half-baked thoughts below on melding the current
+PaymentRequest proposal with your ideas.  
+  
+Using a Merkle tree to reveal (or not) parts of the bill is a nifty idea, but
+I think that is orthogonal to the payment protocol, and could be a generic way
+of encoding any document. I tend to agree with Mike, it feels like a complex
+solution to something that really isn't a problem right now (maybe if we ever
+have CyberCourts to adjudicate disputes between anonymous customers and
+merchants it will be useful).  
+  
+PS: I was amused by:  
+
+Code:
+
+An implementation with bitcoin would require little effort.
+
+Writing the code should be fairly straightforward; getting everybody to agree
+to the dozens of details we'll need to work out will be more than a little
+effort.  
+  
+
+* * *
+
+  
+So in the PaymentRequest protocol, a SignedPaymentRequest contains a
+PaymentRequest that you know came from the merchant's web server (leveraging
+the SSL/TLS/PKI/X.509 certificate system that we all agree is the worst PKI
+system there is, except for all the other that have been tried):  
+  
+
+Code:
+
+SignedPaymentRequest  
+pki_type = "x509"  
+pki_data = ... certificate chain...  
+signature = ...  
+serialized_payment_request = ...PaymentRequest containing Outputs where
+payment will go...  
+etc  
+
+  
+As your paper points out, if an attacker compromises the webserver then they
+can redirect bitcoins to their wallet.  
+  
+It would be nice if that was impossible, and your paper shows how to do that.
+In the PaymentRequest scheme, one way of doing that might be:  
+  
+
+Code:
+
+SignedPaymentRequest  
+pki_type = "x509_homomorphic"  
+pki_data = ... certificate chain...  
+signature = ...  
+serialized_payment_request = ...PaymentRequest containing no Outputs...  
+etc  
+
+  
+The merchant's certificate in the certificate chain would have to contain
+their base bitcoin public key (or as you point out in the paper, generalized
+to a "base script"). I think that could be done using an X.509 extended
+attribute (anybody know if certificate authorities will sign certificates that
+contain non-standard extensions?).  
+  
+The customer would hash the serialized_payment_request, combine it with the
+base key/script, and pay to that address/script.  
+  
+
+* * *
+
+The TODO list for implementing the simpler "x509" payment requests is fairly
+long (help appreciated by the way, see
+https://github.com/gavinandresen/paymentrequest/blob/master/TODO.txt );
+implementing "x509_homomorphic" would make it even longer. I think we need to
+implement the simpler protocol first, because I think small merchants will
+want to re-use their existing web server certificates instead of paying for a
+new "x509_homomorphic" certificate that contains their "bitcoin identity"
+public key.  
+  
+

@@ -1,0 +1,38 @@
+
+
+Quote from: Luke-Jr on February 23, 2011, 11:59:08 PM
+
+Does this still work correctly for 0.1 BTC, or does it expose bitcoind to the
+problem with representing this amount in binary (which would make it truncated
+as 0.09999999 BTC)? This fix should at the very least be sure to round at 8
+decimal places, if not reading the digits directly into an int64.  
+
+  
+Converting from a double-precision float from the JSON library to an int64
+bitcoin is:  
+
+Code:
+
+int64 nAmount = roundint64(dAmount * COIN);
+
+... which will always do the right thing (COIN is 100000000).  
+  
+int64 to JSON string there are no code changes.  
+  
+GUI string to int64 is a direct conversion, no intermediate double precision.  
+  
+And int64 to GUI string is:  
+
+Code:
+
+strprintf("%.08f", double(amount)/double(COIN))
+
+... which also always does the right thing (printf of a floating point number
+rounds, and there is enough precision in a double the rounding will always be
+correct).  
+  
+0.1 bitcoins will always become exactly 10000000 base units internally, and
+10000000 base units will always be shown as exactly 0.10 (in the GUI) or
+0.10000000 (in JSON).  
+  
+

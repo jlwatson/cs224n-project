@@ -1,0 +1,30 @@
+
+
+Quote from: m3ta on January 26, 2012, 09:47:25 PM
+
+So, yes, i did 4 out of 4. I had no idea mistakes were prune to ratings.  
+So if I or anyone does 5 mistakes, what then, you think our house should blow
+up?  
+  
+....  
+  
+It's just a disappointment to see development does not care about its 'flock'
+- we, who make mistakes as any human does, are on our own.  
+Fair enough, from your pedestal point of view, of course.  
+
+  
+I apologize for coming across as harsh, it has been a hard couple of weeks.  
+  
+And the reason it has been a hard couple of weeks is because I'm working
+really hard to try to get support for multisignature wallets... which would
+have prevented your loss (assuming you were using a multisignature-protected
+wallet).  
+  
+The hacker would have been able to ask your bitcoind to send him your coins,
+but you would have got a confirmation on your cell phone (or SMS or email with
+a one-time-PIN or whatever) and realize immediately that you'd been hacked.  
+  
+Or, in other words: I've been working really hard trying to get a solution for
+the bigger problem of insecure computers, because I really do care about the
+"flock."
+

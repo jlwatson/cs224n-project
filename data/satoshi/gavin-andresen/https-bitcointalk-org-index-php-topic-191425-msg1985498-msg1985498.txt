@@ -1,0 +1,21 @@
+
+
+Y'all read the pull request, yes?  
+  
+So: if you have a better suggestion for fixing the problem of new users
+wasting lots of time gathering tiny drips and drabs of bitcoins, and then
+getting upset when they can't spend them (because it costs more in fees that
+they are worth), I'm open to suggestions.  
+  
+RE: "what about when bitcoins are worth a million dollars apiece"  
+  
+Umm, that's what the "un-hardcode TX_FEE constants" part is all about?  
+  
+RE: trolling about Foundation setting the fee:  
+  
+Go back under your rock, please. This pull request is the first step towards a
+market between miners (who want higher fees) and merchants/users (who want
+lower fees, but also want their transactions confirmed). Miners can already
+control what fees they accept, this pull lets users control (very clumsily,
+improvements on the road map) the fee they are willing to pay.
+

@@ -1,0 +1,20 @@
+
+
+Quote from: theymos on August 24, 2011, 06:06:40 PM
+
+Please also enable the non-address versions. Like:  
+2 KeyA KeyB 2 OP_CHECKMULTISIG  
+1 KeyNormal KeyBackup 2 OP_CHECKMULTISIG  
+
+  
+Those are "Proposal 1" -- enabling all the 'plain-old' OP_CHECKMULTISIG
+transactions.  
+  
+groffer reports finding a bug in CHECKMULTISIG (pops too many items off the
+stack), which makes me wonder if it would be better to avoid it. For small n,
+using CHECKSIG multiple times is straightforward and doesn't make the
+transactions much larger.  
+  
+The (a and b) OR c transaction with public keys instead of addresses isn't in
+the proposal, but for consistency's sake I agree it should be.  
+

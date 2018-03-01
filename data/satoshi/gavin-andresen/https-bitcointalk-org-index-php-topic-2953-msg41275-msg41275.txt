@@ -1,0 +1,14 @@
+
+
+Quote from: bitcoinex on January 25, 2011, 12:40:37 PM
+
+After first time run db seems to have changed and no longer work with the old
+(0.3.19) version. This is as planned?  
+
+  
+You must have compiled against a newer version of Berkeley DB, and it uses a
+new log file format. Try removing the ~/.bitcoin/log.* files before running
+the older bitcoin version.  
+  
+I changed build-unix.txt as you suggested.  
+

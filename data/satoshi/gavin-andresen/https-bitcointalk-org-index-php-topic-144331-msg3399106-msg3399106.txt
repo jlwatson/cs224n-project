@@ -1,0 +1,11 @@
+
+
+Quote from: Financisto on October 21, 2013, 10:17:19 AM
+
+IMHO I think it should be available as default to official client.  
+
+  
+... then volunteer to run through the test plan and help shake out any bugs.
+Code that touches the wallet is particularly sensitive, because an obscure bug
+might cause lots of people to lose lots of money.
+

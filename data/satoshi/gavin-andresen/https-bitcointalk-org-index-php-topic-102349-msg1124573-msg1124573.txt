@@ -1,0 +1,30 @@
+
+
+RE: seeds with a lot of entropy:  
+  
+Every time I look at the academic literature on passwords/passphrases, I get
+more depressed about the feasibility of either giving users a secure
+passphrase that they will remember or getting a secure passphrase from them. I
+fear there will be a lot of lost coins if "brain wallets" get popular.  
+  
+E.g. this 2012 paper: http://dl.acm.org/citation.cfm?doid=2335356.2335366  
+
+Quote
+
+Users tend to create passwords that are easy to guess, while system assigned
+passwords tend to be hard to remember. Passphrases, space-delimited sets of
+natural language words, have been suggested as both secure and usable for
+decades. In a 1,476-participant online study, we explored the usability of 3-
+and 4-word system-assigned passphrases in comparison to system-assigned
+passwords composed of 5 to 6 random characters, and 8-character system
+assigned pronounceable passwords. Contrary to expectations, system-assigned
+passphrases performed similarly to system-assigned passwords of similar
+entropy across the usability metrics we examined. Passphrases and passwords
+were forgotten at similar rates, led to similar levels of user difﬁculty and
+annoyance, and were both written down by a majority of participants. However,
+passphrases took signiﬁcantly longer for participants to enter, and appear to
+require error-correction to counteract entry mistakes. Passphrase usability
+did not seem to increase when we shrunk the dictionary from which words were
+chosen, reduced the number of words in a passphrase, or allowed users to
+change the order of words
+

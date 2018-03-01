@@ -1,0 +1,29 @@
+
+
+It took me a while to figure out where to get the wx_gtk2ud-2.9 library needed
+to compile bitcoind, so I thought I'd share for anybody else who's not a
+wxWidgets expert:  
+  
+
+Code:
+
+If you want to build bitcoind, the no-gui bitcoin daemon, you need the
+wxWidgets 'base' library.  
+After untarring the wxWidgets source:  
+  
+cd /usr/local/wxWidgets-2.9.0  
+mkdir buildbase  
+cd buildbase  
+../configure --disable-gui --enable-debug --disable-shared --enable-monolithic  
+make  
+sudo su  
+make install  
+ldconfig  
+
+ ~~  
+I'd humbly suggest adding the above to the build-unix.txt file... Satoshi, is
+there a preferred way to submit patches?  
+~~  
+27 Aug 2010: This is no longer necessary-- bitcoind doesn't require wxwidgets
+at all any more.
+

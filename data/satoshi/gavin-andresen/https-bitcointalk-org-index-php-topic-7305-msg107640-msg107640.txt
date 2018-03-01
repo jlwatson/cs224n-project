@@ -1,0 +1,25 @@
+
+
+I'll brain-dump my second half-baked idea of the day:  
+  
+github has a nice API for basically everything it does (issues getting
+closed,etc).  
+  
+I've been working on an API for ClearCoin (creating escrow accounts, etc).  
+  
+Marrying the two might work nicely. Coders could publish their bitcoin
+addresses in their github profiles.  
+  
+Bounties could be established for bugs (or, grumble, features) by creating a
+ClearCoin account, linking it to the issue (maybe by posting a machine-
+readable comment via the github api).  
+  
+And when the issue was closed via a commit the bounty could be automagically
+paid to the coder(s) who contributed to the commit. (somehow... via a yet-to-
+be-written way for ClearCoin to get a where-to-release-coins address that is
+not set in advance).  
+  
+Reasons not to do it: allegations of corruption/favoritism if people doing the
+pulling have to decide between two pull requests. Maybe less cooperation to
+find/fix things if people are competing for bounties.  
+

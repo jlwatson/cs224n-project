@@ -1,0 +1,35 @@
+
+
+Pull request: https://github.com/bitcoin/bitcoin/pull/138/files  
+  
+From a testnet-in-a-box test, here's what mature/immature blocks look like:  
+
+Code:
+
+{  
+"account" : "",  
+"category" : "generate",  
+"amount" : 50.00000000,  
+"confirmations" : 120,  
+"txid" : "14da5ea78b6a1451ba11445be08c520808ddd185cf55d550f012dd4c16e2f67d",  
+"time" : 1300074965  
+},  
+{  
+"account" : "",  
+"category" : "immature",  
+"amount" : 50.00000000,  
+"confirmations" : 119,  
+"txid" : "8181f1760c208c84f06183f1145d3ad5a142340fd331e63466d5de8c406435aa",  
+"time" : 1300075032  
+},  
+
+  
+PS: There is a feature in the core bitcoin code that bothers me because I
+don't completely understand it: coinbase transactions are technically spend-
+able after 100 confirmations (COINBASE_MATURITY in the code), but they aren't
+counted as spendable by the GUI or the RPC until 120+ confirmations
+(GetBlocksToMaturity() in the code). I suppose a big block-chain re-org could
+run into problems if a just-barely-mature generation was spent at exactly the
+wrong time, but I need to think about that a bit more (and maybe ping
+satoshi...).  
+

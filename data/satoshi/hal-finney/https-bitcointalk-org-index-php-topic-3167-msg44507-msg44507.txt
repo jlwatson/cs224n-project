@@ -1,0 +1,6 @@
+
+
+You could tear your banknotes into 5 pieces and hide them separately. As long
+as you can recover at least 3 pieces you should be able to exchange them for
+fresh bills.
+

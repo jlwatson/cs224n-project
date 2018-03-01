@@ -1,0 +1,14 @@
+
+
+Quote from: justusranvier on March 11, 2013, 12:21:49 PM
+
+The only reason to limit the block size is to subsidize non-Bitcoin currencies
+or to insulate existing miners from future competition.
+
+  
+I think this is exactly right.  
+  
+But I also think that choosing a larger-but-still-limited block size won't
+kill Bitcoin (but not raising the block size at all might-- a payment system
+with a hard seven-transactions-per-second limit is not Satoshi's vision).
+

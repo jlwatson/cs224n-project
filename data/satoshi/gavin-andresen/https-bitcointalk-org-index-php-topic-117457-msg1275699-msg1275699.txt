@@ -1,0 +1,10 @@
+
+
+Quote from: teamhugs on October 16, 2012, 11:08:50 AM
+
+And generally, allow bitcoin.org to be mirrored, or the binaries served up by
+non-sourceforge hosts (mirrors and bittorrent).  
+
+It is MIT licensed, anybody can mirror it anywhere they like. You don't need
+anybody's permission, just do it!
+

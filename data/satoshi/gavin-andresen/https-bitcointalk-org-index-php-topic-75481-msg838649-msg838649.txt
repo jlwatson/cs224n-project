@@ -1,0 +1,53 @@
+
+
+Quote from: etotheipi on April 06, 2012, 01:38:34 PM
+
+Gavin, where is your original proposal on multi-sig/escrow? I want to look at
+it again now that I understand what's actually possible.  
+
+  
+https://gist.github.com/830ca16758fb9ad496d7 : I created it as a 'private'
+gist because it is only half-baked.  
+  
+RE: lockTime and the memory pool:  
+  
+Note: I'm using an "Alice pays Bob" scenario as described in the above gist:  
+  
+If neither party is cheating, then the pre-signed DISPUTE should NOT get
+broadcast until there really is a dispute. Instead, Alice and Bob's clients
+hold on to it.  
+  
+So it is not in any miner's memory pools, and if there is no dispute nobody
+besides the two people involved in the transaction ever know about it.  
+  
+Of course we have to assume that people WILL try to cheat, so the question
+becomes: what if Alice or Bob broadcasts DISPUTE prematurely? Would anything
+bad happen?  
+  
+I believe the answer is no, assuming Bob waits for transactions to be
+confirmed. If DISPUTE is in "everybody's" memory pool, then any other
+transaction involving the escrowed funds will just be ignored. Even if Bob's
+client didn't see the DISPUTE broadcast (maybe he was offline) but later saw
+the SUCCESS transaction broadcast from Alice, SUCCESS would never be
+confirmed.  
+  
+On the other hand, if not "everybody" has the DISPUTE transaction in their
+memory pool and Alice broadcasts SUCCESS, then it will likely be picked up by
+a miner and confirmed. Once it is in a block, the conflicting DISPUTE
+transaction gets dropped from everybody's memory pool as a failed double-
+spend. Given the churn in the nodes connected to the network, I expect this
+would actually be the most common case.  
+  
+If Bob's client does see DISPUTE broadcast, it should probably let Bob know
+that Alice is unhappy and has disputed the transaction.  
+  
+DISPUTE (which will be given a non-final sequence number) cannot get into a
+block until after lockTime.  
+  
+
+* * *
+
+All of the above is based on my best understanding of how the Satoshi code
+works right now; prototyping and experimenting on the testnet would be a good
+next step to make sure it actually behaves the way I think.  
+

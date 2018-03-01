@@ -1,0 +1,29 @@
+
+
+Quote from: pc on January 08, 2013, 11:27:35 PM
+
+The only issues are 1) Balances in my P2SH Addresses don't show up, even
+though the key to spend them is in the wallet and Bitcoin-QT sends
+transactions from it just fine and they show up in listunspent (though I
+certainly understand if it isn't in the first version), and 2) The display of
+amounts seems to round to 4 decimal places, even when the actual amount is
+something to the full 8 places.  
+
+  
+Thanks for helping test! Latest version fixes the p2sh issue.  
+  
+I had it 4-decimal-places because I personally don't care about less than
+0.0001 BTC right now. It is 8 now, just because I know you won't be the last
+person to ask "why does it round."  
+  
+
+Quote
+
+It does seem to have easy_install, but I got a "cannot import name
+ServiceProxy" when I tried that.
+
+  
+If there are python command-line-tool packaging experts, suggestions on how to
+package this better are welcome. I thought all versions of jsonrpc had a
+ServiceProxy class, but I guess I'm wrong.  
+

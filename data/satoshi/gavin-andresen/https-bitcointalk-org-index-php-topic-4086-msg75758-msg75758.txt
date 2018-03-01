@@ -1,0 +1,10 @@
+
+
+All righty, I hereby state:  
+  
+All money values in the bitcoin JSON-RPC interface Are and Shall Be treated as
+Decimal, with 8 digits of precision after the decimal point.  
+  
+If you're writing a banking application in a language that doesn't support
+Decimal types from JSON, then you should pack up your bags and go home.  
+

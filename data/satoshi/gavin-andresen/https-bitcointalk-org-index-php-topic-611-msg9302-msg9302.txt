@@ -1,0 +1,9 @@
+
+
+The naming is getting messy: 'txn_id' and 'tx_time' mismatch for no good
+reason.  
+  
+tx as short for 'transaction' is fine (bitcoin source uses that abbreviation
+all over the place), but the rest of the JSON-RPC API doesn't use underscores,
+so they aught to be txid and txtime.  
+

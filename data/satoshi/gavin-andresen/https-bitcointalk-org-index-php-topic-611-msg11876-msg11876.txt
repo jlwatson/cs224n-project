@@ -1,0 +1,17 @@
+
+
+Quote from: jgarzik on September 01, 2010, 06:35:40 PM
+
+Quote from: gavinandresen on September 01, 2010, 06:33:54 PM
+
+RE: binding to any/all IPs: DANGER! Make sure you have good firewall rules for
+port 8332 or you are likely to find yourself with an empty wallet! Bitcoin is
+using HTTP BASIC authentication, so anybody who can eavesdrop on the
+connection between your JSON-RPC client and the bitcoin server can see the
+password (it is NOT encrypted).  
+
+I was thinking about adding support for Digest auth...  
+
+I wouldn't bother-- HTTP Digest auth is vulnerable to man-in-the-middle
+attacks, it'd be a lot of work for a probably false sense of security.  
+

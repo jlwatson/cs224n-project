@@ -1,0 +1,24 @@
+
+
+Quote from: Xephan on August 13, 2011, 03:22:37 PM
+
+Interesting idea... time to write a bot script to check every 2 minutes with
+autoclick to beat indicasteve to it...  
+
+  
+Really? You do realize that will just start an arms race with maxmint; he or
+she will write code to detect and ban bots, somebody will deploy bots via
+multiple IP addresses to workaround, maxmint will be forced to add a CAPTCHA,
+etc...  
+  
+maxmint: it can be kind of fun to try to scam the scammers. If you detect
+them, just never let them win (but don't tell them you're not letting them
+win).  
+  
+However, they'll eventually figure out you're doing that. The only way to win
+the arms race is to make it more expensive for the scammers to win than the
+reward. If I recall correctly, getting around one-per-IP-address and CAPTCHA
+restrictions costs a scammer a few US pennies. If you're giving away 1BTC
+worth $10, then you'll have to make sure the scammers will have to solve
+several thousand captchas to win.
+

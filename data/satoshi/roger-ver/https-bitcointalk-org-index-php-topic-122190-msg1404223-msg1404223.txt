@@ -1,0 +1,13 @@
+
+
+Quote from: Kupsi on December 16, 2012, 04:34:05 PM
+
+The exchange rate when calculating prices in USD seems a little low?  
+
+  
+This displayed exchange rate has been fixed.  
+The exchange rate at checkout is always calculated by Bitpay via their
+formula: https://bitpay.com/bitcoin-exchange-rates  
+This way the customer is always guaranteed to get the very best rate possible
+for their Bitcoins.
+

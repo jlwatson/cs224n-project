@@ -1,0 +1,31 @@
+
+
+Release Candidate 7 binaries are available at:  
+https://sourceforge.net/projects/bitcoin/upload/Bitcoin/bitcoin-0.5.0/test/  
+  
+Difference between rc6 and rc7 : rc7 does not remove BDB (Berkeley database)
+log/* files, because that is causing un-readable wallets on some people's
+machines (all the reports were from people running 64-bit version of Linux,
+but that might have just been coincidence-- I could never reproduce the
+problem in any of my test environments).  
+  
+What that means: old private keys can remain in a file on your disk even after
+wallet encryption, but they will eventually be removed. Details:  
+  
+BDB closes the old logfile and opens a new one when it get close to
+10megabytes big.  
+  
+When bitcoin shuts down cleanly, it asks BDB to remove any unused log files,
+and BDB will remove all but one file from database/log.*  
+  
+So: if you encrypt your wallet, unencrypted private keys will be in the old
+part of the log file. But after running for a half a day or so, BDB will close
+that old log file and open a new one. Then, the next time you restart bitcoin,
+the old log file containing the unencrypted keys is removed.  
+  
+This seems like a reasonable compromise between security and safety for now; a
+better wallet encryption solution for the next version of bitcoin (for
+example, one that doesn't require shutting down and restarting after
+encrypting the wallet) is a good idea, but out of scope for this release.  
+  
+

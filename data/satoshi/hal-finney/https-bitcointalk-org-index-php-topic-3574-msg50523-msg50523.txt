@@ -1,0 +1,9 @@
+
+
+I like ribuck's terminology:  
+  
+http://bitcointalk.org/index.php?topic=3311.msg46648#msg46648  
+  
+He suggests bitcents, then millicents and microcents. Microcents happen to be
+the smallest available subdivision of bitcoins, so this works nicely.
+

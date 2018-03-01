@@ -1,0 +1,25 @@
+
+
+Quote from: NewLiberty on October 23, 2014, 02:01:55 PM
+
+Yes, I think Bitcoin can surpass this. There are other problems with the way
+that scalability is limited than the block size to get there, this is just
+one.  
+And we agree on the purpose of the block size limit. Just not on how to set
+it.  
+  
+You don't know what the future market will look like. You don't know what
+bandwidth or storage will be available. Neither do I or anyone else.  
+
+  
+When you respond to me saying patronizing things like "there are other
+problems with the way scalability is limited," I have trouble not thinking you
+are either confused or insane. Or just lazy, and did not read my "Scalability
+Roadmap" blog post.  
+  
+It is certainly true that nobody can predict the future with 100% accuracy. We
+might get hit by an asteroid before I finish this sentence. (whew! didn't!)  
+  
+But extrapolating current trends seems to me to be the best we can do-- we are
+just as likely to be too conservative as too aggressive in our assumptions.
+

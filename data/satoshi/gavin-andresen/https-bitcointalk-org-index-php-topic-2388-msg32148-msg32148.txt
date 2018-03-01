@@ -1,0 +1,9 @@
+
+
+Quote from: bitcoinex on December 21, 2010, 01:23:51 AM
+
+Or can be addedd 'address' field to output of 'listtransactions'?  
+
+  
+I'm working on that.  
+

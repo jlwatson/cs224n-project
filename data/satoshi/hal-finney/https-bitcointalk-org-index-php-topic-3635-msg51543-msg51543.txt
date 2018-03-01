@@ -1,0 +1,9 @@
+
+
+The bottleneck is an elliptic curve multiply, which takes about 2 ms, for
+500/sec. However if you just want to generate addresses as fast as possible,
+you can repeatedly increment the private key while adding G to the public key.
+I have a patch to Gavin's vanity-address search that does this. It should
+speed it up by a factor of 300 or so. So that would be 150,000 addresses/sec
+maybe.
+

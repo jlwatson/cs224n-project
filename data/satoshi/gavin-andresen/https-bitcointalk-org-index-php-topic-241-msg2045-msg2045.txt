@@ -1,0 +1,29 @@
+
+
+Quote from: Bitcoiner on July 07, 2010, 11:20:49 PM
+
+I don't know, I personally find it rather disconcerting if users in the chain
+can be identified. For example, it wouldn't be enough for me to simply get
+bitcoins at an exchange, send them to a random address, and then use them from
+that point on. Your identity would still be linked. However, given the public
+nature of the transactions, I'm not sure if there is any way around this.  
+
+  
+I'm sure somebody somewhere would/will be happy to sell you bitcoins
+anonymously; just put cash and a bitcoin receiving address in an envelope and
+mail it. The exchange (who you'd have to trust to actually send you the coins)
+takes the cash and send coins to the address. They have no idea who you are,
+and your identity isn't linked to the coins.  
+  
+Well, it isn't linked to the coins until you forget to turn on TOR or I2P
+before spending coins on something illegal. Or you remain completely and
+utterly anonymous right up until you spend coins on something physical and
+have it shipped to your home address. Or you arrange to have contraband "dead
+dropped" somewhere, and you get arrested when you go to pick it up.  
+  
+None of which have anything to do with Bitcoins, and all of which seem to me
+to be more likely ways of getting into trouble than somebody managing to
+figure out that "transaction for purchase of illegal stuff" is linked to
+"Gavin purchased a bunch of Bitcoins from Bobby's Discount Bitcoin Emporium"
+last year.  
+

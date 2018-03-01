@@ -1,0 +1,8 @@
+
+
+If your system is compromised, and you are using a single-signature wallet,
+then the first time you unlock your wallet ALL your coins are gone.  
+  
+root certificates are not the weak link in that case; the keys being on one
+device is the weak link.
+

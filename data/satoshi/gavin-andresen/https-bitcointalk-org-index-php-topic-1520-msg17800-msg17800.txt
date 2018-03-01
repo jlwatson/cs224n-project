@@ -1,0 +1,12 @@
+
+
+Ruby (or your Ruby JSON-RPC library) isn't setting the Authorization: HTTP
+header from the username:password in the URL.  
+  
+I don't know anything about Ruby, but Mr. Google might be able to shed some
+light-- you need to either set the Authorization: header yourself to do the
+HTTP Basic authentication (I seem to recall some Ruby code on the Wikipedia
+page about HTTP Basic Authentication) or, in some languages/frameworks there's
+a way of setting up a 'context' for HTTP connections so the authentication
+happens properly.  
+

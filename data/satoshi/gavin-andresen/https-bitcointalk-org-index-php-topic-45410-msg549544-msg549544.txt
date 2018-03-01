@@ -1,0 +1,12 @@
+
+
+Submit bugs here: https://github.com/bitcoin/bitcoin/issues  
+Although all of the GUI code is being replaced in the next version, so don't
+bother submitting UI bugs.  
+  
+RE: debugging what bitcoin is doing in the 10 minutes it takes for the window
+to come up:  
+tail -f ~/.bitcoin/debug.log  
+... should tell you what it is busy doing. Probably loading the block chain
+and reading the wallet (do you have a very large wallet.dat?)  
+

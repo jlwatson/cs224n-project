@@ -1,0 +1,22 @@
+
+
+Quote from: [mike] on March 15, 2011, 08:26:20 AM
+
+If order IDs are put in transactions the next most common question will become
+"so how do I stop my competitors finding out my sales volume?".  
+
+  
+Right, that was the problem I was hoping to brainstorm about. I didn't want to
+re-open the "add data to the transaction database" discussion (I think "add
+data to the block chain" is misleading, since transaction data isn't actually
+part of the block-header-chain or transaction-merkle-tree).  
+  
+I'm still wondering if there is a way to create transactions on the web
+server, without talking to bitcoind, using a small-ish number of pregenerated
+public keys, such that each transaction is unique and competitors can't tell
+how many transactions belong to any particular merchant.  
+  
+Pre-generating a bunch of keys works, assuming that competitors don't know the
+pre-generated keys (bad assumption long-term if they keys are re-used, since
+they could just order a bunch of stuff and note the keys used for paying).
+

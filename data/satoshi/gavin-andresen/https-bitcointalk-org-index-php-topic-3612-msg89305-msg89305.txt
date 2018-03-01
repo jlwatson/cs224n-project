@@ -1,0 +1,25 @@
+
+
+Quote from: Current-C on April 18, 2011, 06:59:14 PM
+
+Ok I tried accessing windows AMI with remote desktop using the ip address(?)
+as the name of the remote computer (after starting the instance in Amazon) and
+it wouldn't connect. Can someone help a non-techie figure out what I'm doing
+wrong?  
+
+  
+When you launch your instance, make sure the firewall ("Security Group" in
+AWS-speak) is setup to allow remote desktop access from your machine's IP
+address to port 3389.  
+  
+I run Remote Desktop Client on my Mac, but the process should be the same on
+PC.  
+  
+Connect using the "Public DNS" machine name-- something like:
+ec2-184-2-91-236.compute-1.amazonaws.com  
+  
+Login as Administrator, password: bitcoin development  
+  
+(I just launched the 0.3.20.2 Windows AMI to get ready to build a 0.3.21
+release candidate).  
+

@@ -1,0 +1,9 @@
+
+
+My concern is that there would be a rush to grab hot domains. I would expect
+that the first blocks generated with this system will all be maximum size and
+filled with the equivalent of sex.com. These domain names are worth millions
+of dollars, if the system succeeds. I suppose transaction fees would be
+enormous, otherwise miners will just fill blocks with their own registrations.
+Ordinary transactions would be crowded out, if this were part of Bitcoin.
+

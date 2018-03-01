@@ -1,0 +1,12 @@
+
+
+Today: a brand-new keypair (address) is created and added to your wallet when
+you have change.  
+  
+Soon (I hope; I _think_ satoshi is working on it...) bitcoin will pre-generate
+a bunch of addresses to use for change, and use one of them (and re-generate a
+bunch when it runs out).  
+  
+I'd kind of like an option to put change back into one of the addresses it
+came from; that'd be simpler, quicker, and would make your wallet smaller...  
+

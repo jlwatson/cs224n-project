@@ -1,0 +1,12 @@
+
+
+See https://github.com/bitcoin/bitcoin/pull/4250 and
+https://github.com/bitcoin/bitcoin/pull/3959  
+  
+A future release will automagically figure out the right fee (or will figure
+out it doesn't need a fee) to get into a block quickly (or slowly, if you want
+to pay lower fees and are willing to wait).  
+  
+As for your original question: set the -paytxfee command-line option for
+current Core releases and you WILL always pay a fee.
+

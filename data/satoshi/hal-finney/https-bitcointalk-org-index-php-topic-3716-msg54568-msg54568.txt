@@ -1,0 +1,15 @@
+
+
+The online QR encoder at http://zxing.org/w/decode.jspx works on the 6.66
+Bitcoin note above, while it failed on the earlier ones. Helps to encode less
+data probably. Here's what it decodes to:  
+  
+bitcoin:priv=4RPhNpsD95XcjXG4637DwTNgQLh2eqQ7r7hH5yeLA16F;amount=6.660000;  
+  
+On the other thread, Mike and Gavin suggested an important optimization:
+Include an optional block number where the address first appears. Otherwise
+the recipient has to scan the entire block chain to find transactions for that
+address, which can reportedly take a couple of minutes on a slow machine.
+Including the starting block number means you only have to scan from there,
+which will be very fast assuming it's a relatively new address.
+

@@ -1,0 +1,107 @@
+
+
+So you might have rumblings about changes to the network: OP_EVAL and BIP 16
+and BIP 17 and multisig and P2SH, and you wonder what the heck is going on.  
+  
+Here's my view; I'll try not to get too technical.  
+  
+First, the feature:  
+  
+I want more secure wallets. There's unanimous agreement among developers that
+the easiest, fastest way to get there is with "multi-signature transactions"
+-- bitcoins that require approval from more than one person or device to
+spend.  
+  
+For example, a future version of Bitcoin-Qt might know how to talk to an app
+running on your mobile phone. When you send bitcoins, it would provide one
+signature, but it would have to ask your phone for approval and the other
+signature. That way even if your computer gets compromised by malware your
+bitcoins absolutely positively cannot be stolen, since the best the malware
+could do would be to ask your phone to approve the "Send the bad guys
+bitcoins" transaction.  
+  
+The bitcoin network protocol already mostly support multi-signature
+transactions, although they're considered "non-standard" right now. Part of
+what is going in is making them standard. That's not controversial.  
+  
+What **is** causing all the discussion is how to support sending coins into
+one of these new, spiffy, secure wallets. There is rough consensus that the
+best way to do that right now is with a new type of bitcoin address; I say
+"rough consensus" because in a perfect world some people think that there
+wouldn't be bitcoin addresses visible to users at all. And I say "right now"
+because we don't live in a perfect world, and there are no proposals for how,
+exactly, to replace bitcoin addresses with something better.  
+  
+Part of the controversy is whether really long bitcoin addresses would work--
+would it be OK if the new bitcoin addresses were really long and looked
+something like this:  
+57HrrfEw6ZgRS58dygiHhfN7vVhaPaBE7HrrfEw6ZgRS58dygiHhfN7vVhaPaBiTE7vVhaPaBE7Hr  
+(or possibly even longer)  
+  
+I've argued no: past 70 or so characters it becomes a lot harder to copy and
+paste, a lot harder to scan an address with your eyes to see if you're paying
+who you think you're paying, harder to create a readable QR code, harder to
+upgrade website or database code that deals with bitcoin addresses, etc. There
+is rough consensus that very-long addresses are not workable.  
+  
+So: there are three proposals on how to support short multisignature
+addresses-- BIP 12, 16, and 17.  
+  
+I withdrew BIP 12 (also known as "OP_EVAL") because I try to be extremely
+conservative when it comes to changes to core Bitcoin, and I think BIP 16 is a
+safer way to go.  
+  
+Luke Dashjr liked OP_EVAL, really doesn't like BIP 16, and came up with BIP
+17, which solves the same problem in a different way. I still like BIP 16
+best, because I think it is the most conservative, safest solution. The number
+of people who understand the guts of Bitcoin well enough to have an informed
+opinion about which is better is pretty darn small, but I think the
+controversy is really about how conservative we aught to be.  
+  
+All of the BIP 12/16/17 stuff is mostly engineers arguing over whether it is
+better to use a nail, a screw, or glue to put two pieces of wood together. Any
+of the solutions would work, and ordinary users wouldn't notice any
+difference; you'll still (eventually) get spiffy, more secure wallets.  
+  
+(don't take the analogy too far, in this case using a nail AND a screw AND
+some glue to be extra safe isn't an option).  
+  
+How dangerous is all this? Is the bitcoin network in danger of falling apart
+one of these BIPs is adopted?  
+  
+The worst-case scenario for all of this stuff (including the non-controversial
+support of multisignature transactions as "standard") is that some bug will
+slip by, and an attacker will figure out a way of getting all the nodes
+running the new software to crash or misbehave. I'm working hard to prevent
+that from happening-- I've been writing "unit tests" and "fuzzing tools" and
+have been getting other developers to look really hard at the code. I strongly
+believe that the new feature is worth the (small) risk, and that even in the
+worst-case scenario the consequences are not catastrophic (we'd just fix the
+bug and come out with a new release; everybody still running old code would
+continue to confirm transactions and create blocks while the early adopters
+were busy downloading and installing the fixed software).  
+  
+The bitcoin network is NOT in danger of falling apart if any of these are
+adopted; they are all backwards-compatible, so old software will continue to
+work exactly as before.  
+  
+Some footnotes (and sorry for making this so long):  
+  
+I concentrated on multisignature transactions for secure wallets, but they're
+useful for several other things, including escrow transactions and "emergency
+offline backup keys" for wallet backups.  
+  
+I've set an arbitrary deadline of February 1'st for deciding whether or not to
+"turn on" the new short-multisignature-bitcoin-address-support feature, mostly
+because deadlines are the only way I know to actually get people to pay
+attention. If you read the BIPs, those deadlines are designed to be flexible,
+so if there is NOT a majority of support or "we" think that not enough time
+has gone by or enough testing has been done they can (and will) be slipped.  
+  
+Right now, it looks like one person/pool (Tycho/deepbit) has enough hashing
+power to veto any change. I believe Tycho liked, and planned to support, the
+original OP_EVAL proposal, but doesn't like/support either BIP 16 or BIP 17
+(he does like/support BIP 11, the multisignature-as-standard-transactions part
+of all this), so unless he changes his mind or there is a mass exodus from his
+pool short, multisignature bitcoin addresses will have to wait.  
+

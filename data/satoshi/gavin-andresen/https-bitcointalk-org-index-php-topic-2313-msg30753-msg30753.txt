@@ -1,0 +1,4 @@
+
+
+Do you have gen=something in your bitcoin.conf?  
+

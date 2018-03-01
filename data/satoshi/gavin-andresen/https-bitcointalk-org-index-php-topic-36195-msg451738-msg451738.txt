@@ -1,0 +1,9 @@
+
+
+Two different encryption schemes and/or passwords seems like a bad idea to me,
+both from a code maintenance/security point of view and from a usability
+point-of-view.  
+  
+Can you expand on "private keys in base-58 export format are great for
+swapping around" -- what's the use case? Who are you swapping with, and how?  
+

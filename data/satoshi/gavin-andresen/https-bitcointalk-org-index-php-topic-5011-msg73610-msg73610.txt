@@ -1,0 +1,5 @@
+
+
+No, there is no 'mixed_debit' in my pull request. Coins are 'immature' until
+they have 120+ confirmations, then they are 'generate'.  
+

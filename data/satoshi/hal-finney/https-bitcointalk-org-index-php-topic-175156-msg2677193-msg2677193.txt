@@ -1,0 +1,30 @@
+
+
+I really like Adam's very creative idea earlier in this thread to have a pure-
+zerocoin system:  
+  
+https://bitcointalk.org/index.php?topic=175156.msg2420768#msg2420768  
+  
+The zerocoin paper proposed a hybrid bitcoin-zerocoin system. Bitcoins would
+be temporarily exchanged for zerocoins, and then exchanged back. Adam's idea
+was that zerocoins would be exchanged directly for zerocoins. Zerocoins could
+be mined directly, too. All this is a simple modification of the zerocoin
+protocol. In fact, it would be simpler in terms of code size, because you
+wouldn't have to support bitcoin transactions. No scripting language, no
+bitcoin validation rules. Just pure zerocoin spend transactions.  
+  
+This would also free us from the forced assumption of bitcoin-zerocoin parity.
+The heavy resource requirements of zerocoin might naturally break that parity.
+(Admittedly, zerocoin would first be implemented as an extension to an alt, so
+the value in terms of bitcoins would float. But the simplification is still a
+win.)  
+  
+There are various proposals to do P2P exchanges between altcoin chains. I
+don't know what the status is as far as Bitcoin support in the bitcoin-qt
+client. You'd have to have a new client to do the P2P protocol. But even if we
+had to rely on an exchange, it would be an interesting experiment.  
+  
+The last problem for a zerocoin implementation is the generation of an RSA
+modulus for which no one knows the factorization. This is hard, and deserves
+more analysis.
+

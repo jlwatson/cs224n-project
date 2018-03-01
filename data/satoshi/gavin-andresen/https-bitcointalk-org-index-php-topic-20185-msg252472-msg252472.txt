@@ -1,0 +1,29 @@
+
+
+Cindy Cohn, legal director at the EFF, called me a while ago to figure out
+what to do with the bitcoin donations they were sent, and what to do with
+coins that might be sent to their donation address in the future.  
+  
+Ideally, they'd like to return them, but that can't be done-- bitcoin has no
+"return to sender" function. Returning to the last-address-the-coins-were-
+sent-to doesn't work because people use shared online wallets and can, and do,
+send their coins to new wallets and delete old wallets.  
+  
+The EFF is firm in their decision NOT to cash them in (they'll be coming out
+with a blog post explaining their reasons very soon), and after talking over
+several possibilities the idea they liked best was to redistribute the coins
+via the Bitcoin Faucet (and have any donations that trickle in get passed back
+out via the Faucet). The reasoning is that anybody who donated bitcoins to the
+EFF would also support the mission of the Faucet-- to promote bitcoin by
+giving people new to the currency a little bit to start.  
+  
+Other options for what to do with the EFF donations (like setting up a non-
+profit entity to take the donations and... do something with them...) were
+rejected as too complicated and/or costly.  
+  
+I'll need to do a little bit of thinking about how to handle the EFF coins
+safely (just dumping them all into the Faucet's wallet is not a good idea; I
+would hate for them to get lost if somebody managed to hack the Faucet's web-
+facing code). Whatever I do, I will make sure the process of moving the coins
+from the EFF's donation address to the Faucet is absolutely transparent.  
+

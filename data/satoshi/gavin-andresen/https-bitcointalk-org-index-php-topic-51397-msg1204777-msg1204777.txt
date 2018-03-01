@@ -1,0 +1,10 @@
+
+
+You'd need 15 words to represent a bitcoin address; more if you include a
+checksum (a very good idea, transpose two words without a checksum and you'd
+get a "black hole" address).  
+  
+Creating a secure payment protocol so I can tell people "send payment to
+gavinandresen@clearcoin.com" and be confident that I'll get the coins is very
+high on my priority list.  
+

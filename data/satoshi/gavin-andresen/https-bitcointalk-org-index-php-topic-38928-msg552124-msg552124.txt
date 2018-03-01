@@ -1,0 +1,28 @@
+
+
+Quote from: jtimon on September 30, 2011, 07:59:31 PM
+
+I understand gavin, he prefers having less, but soon. The more general
+implementation (groffer's proposal) can substitute it later (v0.6 ??).  
+
+  
+Yes, I want wallet security and backup as soon as possible, so I want
+transactions that support that functionality relayed and included in blocks as
+of the 0.5 release, if possible.  
+  
+Current state: (old news for those of you on the bitcoin-development mailing
+list)  
+I've made a PULL request for "standard" (a and b), (a or b), (a and b) or c
+transactions to eventually support keys split between different devices,
+wallet backup, and wallet-backup-with-split-keys.  
+https://github.com/bitcoin/bitcoin/pull/541  
+  
+  
+Supporting lockTime or 2-of-3 escrow transactions or more generic 'standard'
+transaction in the future is certainly possible. Put together a solid pull
+request that adds support for relaying/including in blocks, with unit tests
+and a testing plan and, assuming there's general consensus that what you're
+proposing is safe and secure and is near the top of the "will make bitcoin
+better" priority list, it will get pulled.  
+  
+

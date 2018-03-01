@@ -1,0 +1,21 @@
+
+
+Quote from: zipslack on January 21, 2011, 06:25:37 AM
+
+So if I get a payment for 100 bitcoins composed of 20 smaller balances from 20
+different accounts, and I trace those coins back and find that 1 week ago they
+all belonged to a single account, it's likely that the coins were passed
+through a "send to self" mix...  
+
+  
+Yes, after posting I realized that self-mixing creates a mostly-self-connected
+sub-graph. You really need to start with multiple transactions in, ideally
+randomly occuring during the mixing process, and not spend all your bitcoins
+at once.  
+  
+Somebody who knows a lot more about graph theory, statistics, and probability
+than I do should chime in and tell me how I'm wrong or come up with a good
+metric for the ideal amount of mixing (I bet too much is just as bad as too
+little). Analyzing the connectedness of the existing bitcoin transaction graph
+might be a good place to start.  
+

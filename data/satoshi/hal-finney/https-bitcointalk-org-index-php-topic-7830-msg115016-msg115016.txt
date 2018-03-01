@@ -1,0 +1,8 @@
+
+
+One way to deal with the key-addition attack would be to store a MAC (keyed
+crypto checksum) with the encrypted data (priv keys). The MAC key could be
+either an alternate hash of the encryption passphrase, or a hash of a separate
+MAC passphrase. The MAC passphrase would have to be entered whenever the
+client started, and the MAC key would be stored in memory while running.
+

@@ -1,0 +1,25 @@
+
+
+Half-baked thoughts on the O(N) problem:  
+  
+So, we've got O(T) transactions that have to get verified.  
+  
+And, right now, we've got O(P) full nodes on the network that verify every
+single transaction.  
+  
+So, we get N verifications, where N = T*P.  
+  
+The observation is that if both T and P increase at the same rate, that
+formula is O(N^2).  
+  
+... and at this point your (and gmaxwell's) imagination seems to run out, and
+you throw up your hands and say "We Must Limit Either T or P."  
+  
+Really?  
+  
+If we have 20,000 full nodes on the network, do we really need every
+transaction to be verified 20,000 separate times?  
+  
+I think as T and P increase it'd be OK if full nodes with limited CPU power or
+bandwidth decide to only fetch and validate a random subset of transactions.  
+

@@ -1,0 +1,18 @@
+
+
+Quote from: hazek on February 01, 2012, 07:43:20 PM
+
+Quote from: FreeMoney on February 01, 2012, 07:40:28 PM
+
+Depending on what rule changes you are talking about it doesn't matter if 95%
+of miners choose to switch to say 50BTC reward forever. The power is with the
+merchants to reject the false coins.
+
+  
+Please explain to me how they can do that?  
+
+  
+They just keep running the code they've been running. It will reject the 'bad'
+blockchain being produced by 95% of the miners, and accept the 'good' chain
+being produced by the other 5%.  
+

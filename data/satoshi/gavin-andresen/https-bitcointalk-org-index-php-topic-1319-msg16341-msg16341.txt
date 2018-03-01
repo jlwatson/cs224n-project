@@ -1,0 +1,14 @@
+
+
+Quote from: gavinandresen on October 06, 2010, 02:26:13 PM
+
+Keeping the patch file up-to-date is another couple of steps, and I
+could/should automate it.  
+
+I automated updating/patching the monitorreceived patch, and just updated to
+Satoshi's latest:  
+http://gist.github.com/604574  
+(use the "raw" link there for a link to latest version of the patch)  
+  
+And I fixed the bug reported by doublec.  
+

@@ -1,0 +1,18 @@
+
+
+Quote from: casascius on March 21, 2011, 02:23:18 PM
+
+The terminal itself would do the signing and possess the keys and only cough
+up the signed transction so no way to spoof.  
+
+  
+But how do you know that the transaction the hardware device signed is
+actually the transaction you wanted to make? You might THINK you're sending
+100BTC to your brother, your computer will SAY you're sending 100BTC to your
+brother, but the trojan might change the destination address that goes in to
+the hardware device.  
+  
+Unless the hardware device has some sort of display and physical button to OK
+the transaction. In which case the hardware device sounds a lot like a smart
+phone.
+

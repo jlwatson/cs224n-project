@@ -1,0 +1,9 @@
+
+
+I think "1 2 3 4" is bad. 4 is more than 1, so a level 4 vulnerability is
+worse, right?  
+  
+I still like critical/serious/other. More gradations than that and I think
+we'll just waste time arguing over "is this a level 3 vulnerability? level 4?
+ok, let's make it a pi vulnerability (3.1415...)"  
+

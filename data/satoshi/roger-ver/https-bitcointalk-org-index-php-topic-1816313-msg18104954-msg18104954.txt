@@ -1,0 +1,21 @@
+
+
+Most pools have kept all of the fees until just recently, and many miners
+suspect pools of stealing hash rate from them.  
+  
+Bitcoin.com will never steal any hash rate, and it is our goal to pay more
+than every other mining pool in the world.  
+(This likely already is the case)  
+  
+If the network fees continue to rise, we will be upping our pay out to 115% of
+the block reward.  
+Like the current 10%, the extra 15% would be coming from the TX fees.  
+  
+I'd love to see some reports back of exactly how our payout compares to other
+pools miner for miner.  
+  
+  
+Please give us a try, you won't be disappointed.  
+https://pool.bitcoin.com/  
+  
+

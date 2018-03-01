@@ -1,0 +1,16 @@
+
+
+Quote from: genjix on March 12, 2011, 03:57:26 PM
+
+Then we can make nAPIVersion 0.5 supporting the int64 with appended .0 as
+luke-jr has done in his gitorious branch.  
+
+  
+That's just dumb.  
+  
+If the problem is jsonrpc-supporting-environments that don't support double-
+precision floats, then multiplying and slapping a zero on the end won't fix
+the problem-- you'll just either lose precision as it gets squeezed into a
+32-bit float or get a 32-bit-integer-overflow error.  
+  
+

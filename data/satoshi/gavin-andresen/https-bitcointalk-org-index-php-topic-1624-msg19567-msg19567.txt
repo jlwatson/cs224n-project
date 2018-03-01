@@ -1,0 +1,22 @@
+
+
+If bitcoin thinks the connection is not allowed, then it just ignores the
+connection attempt-- nothing is written to debug.log. That's probably the
+right thing to do-- otherwise somebody malicious could try to fill up your
+hard disk by repeatedly attempting to connect to port 8332.  
+  
+If you can recompile bitcoind, the "ClientAllowed" routine in rpc.cpp is where
+a printf() to log connections could go. But I'd guess either you misspelled
+"rpcallowip" (I always type rcp instead of rpc...) or have a firewall blocking
+connections.  
+  
+If you can ssh into the web server machine (or any other machine, actually),
+try:  
+curl http://machine_or_ip:8332/  
+  
+If you get "couldn't connect to host" then it is a firewall problem.  
+If you get "Empty reply from server" then it is an rpcallowip problem.  
+If you get an HTTP "Authorization Required" or "Authorization Failed" reply,
+then it is a username/password mismatch (those ARE logged in debug.log,
+though-- grep for ThreadRPC).  
+

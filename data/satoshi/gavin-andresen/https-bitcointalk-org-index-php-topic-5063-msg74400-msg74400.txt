@@ -1,0 +1,20 @@
+
+
+Quote from: kiba on March 29, 2011, 12:23:50 AM
+
+Sirius runs the website.  
+
+  
+... and we're looking for volunteers. See
+http://bitcointalk.org/index.php?topic=5052.0  
+  
+Quick "why no proper SSL cert" : because it never made it near the top of
+anybody's TODO list. The task is:  
+\+ Figure out where the bitcoin.org domain is registered and make sure the MX
+records/etc are pointing somewhere so verification emails from the certificate
+authority don't get lost.  
+\+ buy the cert and jump through the 'verify you are who you say you are'
+hoops.  
+\+ replace the self-signed cert on the web server  
+  
+

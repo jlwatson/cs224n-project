@@ -1,0 +1,20 @@
+
+
+Quote from: pera on November 04, 2013, 07:51:00 AM
+
+Quote from: gmaxwell on November 04, 2013, 06:11:37 AM
+
+Thoughts?  
+
+Point 0 is just a workaround right?  
+
+  
+No; miners have a natural incentive to want to be closely connected to as many
+other miners as possible (to reduce orphan costs).  
+  
+RE: Evaluating sybil resistance: I would still like to see blocks and
+transactions being broadcast over another completely different networking
+protocol, either peer-to-peer or not. More diversity so we're not relying on
+the one p2p network would be great, and, depending on how it was implemented,
+might automatically bring sybil resistance.  
+

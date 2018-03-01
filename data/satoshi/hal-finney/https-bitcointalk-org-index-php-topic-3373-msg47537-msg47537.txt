@@ -1,0 +1,20 @@
+
+
+There was some discussion on the cryptography mailing list two years ago (much
+of it poor quality unfortunately IMO):  
+  
+http://www.mail-archive.com/cryptography@metzdowd.com/msg09959.html  
+  
+The thread links are screwed up after the first two messages; skip to:  
+  
+http://www.mail-archive.com/cryptography@metzdowd.com/msg09966.html  
+  
+and from there you can follow the Thread right-arrow at the top left.  
+  
+There was another flurry of messages when the client was released:  
+  
+http://www.mail-archive.com/cryptography@metzdowd.com/msg10142.html  
+  
+  
+  
+

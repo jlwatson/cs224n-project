@@ -1,0 +1,41 @@
+
+
+So the longer I think about the block size issue, the more I'm reminded of
+this Hayek quote:  
+  
+
+Quote
+
+The curious task of economics is to demonstrate to men how little they really
+know about what they imagine they can design.  
+  
+F.A. Hayek, The Fatal Conceit
+
+  
+We can speculate all we want about what is going to happen in the future, but
+we don't really know.  
+  
+So, what should we do if we don't know? My default answer is "do the simplest
+thing that could possibly work, but make sure there is a Plan B just in case
+it doesn't work."  
+  
+In the case of the block size debate, what is the simplest thing that just
+might possibly work?  
+  
+That's easy! Eliminate the block size limit as a network rule entirely, and
+trust that miners and merchants and users will reject blocks that are
+"obviously too big." Where what is "obviously too big" will change over time
+as technology changes.  
+  
+What is Plan B if just trusting miners/merchants/users to do the right thing
+doesn't work?  
+  
+Big-picture it is easy: Schedule a soft-fork that imposes some network-rule-
+upper-limit, with whatever formula seems right to correct whatever problem
+crops up.  
+Small-picture: hard to see what the "right" formula would be, but I think it
+will be much easier to define after we run into some actual practical problem
+rather than guessing where problems might crop up.  
+  
+  
+

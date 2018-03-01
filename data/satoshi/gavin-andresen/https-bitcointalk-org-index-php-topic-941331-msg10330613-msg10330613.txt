@@ -1,0 +1,45 @@
+
+
+Quote from: davout on February 01, 2015, 09:05:16 PM
+
+What's the problem with paying 10 bucks instead of 10 cents to securely
+transfer a million dollars?  
+
+  
+What's wrong?  
+  
+Lets say those million dollar transactions are 250 bytes. That is 4,000 of
+them in a 1MB block.  
+  
+So $40,000 total reward to the miner -- about eight times current block
+reward.  
+  
+BUT YOU ARE SECURING TRANSACTIONS WORTH SOMETHING LIKE 2,000 TIMES MORE
+VALUABLE THAN TODAY'S TRANSACTIONS (estimated average transaction USD value
+for today's average transaction is about $380). And I GUARANTEE that attackers
+would have a much easier time pulling off a double-spend of one million-dollar
+transaction than 1,000 $1,000 transactions.  
+  
+The math for "large value transactions will generate enough fees to secure the
+chain" just doesn't work.  
+The math for "lots of small transactions will generate enough fees to secure
+the chain" might.  
+  
+Also:  
+  
+I still haven't heard a coherent argument on why large value transactions are
+necessarily also high-fee transactions.  
+  
+I'd suggest you go research existing high-value-payment networks and see what
+typical fees are for multi-million dollar transactions. FEDWIRE is running at
+6 transactions per second, average transaction value over $6million, with fees
+per transaction **UNDER ONE DOLLAR.**  
+  
+Why? Because if you are giving somebody one million dollars for something, you
+almost certainly have built up real-world trust, and probably have a
+longstanding relationship, signed contracts, etc etc.  
+  
+If you think Bitcoin is different, please explain the scenario where I send a
+stranger who I don't trust (so have to rely completely on the blockchain)
+$1million for something.  
+

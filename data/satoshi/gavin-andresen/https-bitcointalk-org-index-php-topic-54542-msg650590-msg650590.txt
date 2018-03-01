@@ -1,0 +1,36 @@
+
+
+I spent some time today looking again at the state of quantum computing: I'm
+still not worried.  
+  
+The D-Wave system is not a general-purpose quantum computer; it is pretty
+specialized for solving certain problems (I'm reasonably certain cracking
+ECDSA encryption is not one of the problems it would be good at, but I am
+definitely NOT a quantum crypto expert).  
+  
+Skimming the research, it looks like you'd need a specially-constructed
+quantum computer with 515 qbits and over 100million quantum gates, running
+more than 16 million quantum operations to crack Bitcoin's 256-bit ECDSA
+private keys using Shor's algorithm.  
+  
+There's was a good reality-check article in the New York Times just last week:  
+http://www.nytimes.com/2011/12/06/science/scott-aaronson-quantum-computing-
+promises-new-insights.html  
+  
+
+Quote
+
+Unfortunately, while small quantum computations have already been demonstrated
+in the lab, they typically fall apart after only a few dozen operations.
+Thats why one of the most-celebrated quantum computations to date has been to
+factor 15 into 3 times 5  with high statistical confidence! The problem is
+decoherence: basically, stray interactions that intrude prematurely on the
+computers fragile quantum state, collapsing it like a soufflé. In theory,
+it ought to be possible to reduce decoherence to a level where error-
+correction techniques could render its remaining effects insignificant. But
+experimentalists seem nowhere near that critical level yet.
+
+  
+I've said it before: I'll start to worry when quantum computers can factor
+64-bit numbers.  
+

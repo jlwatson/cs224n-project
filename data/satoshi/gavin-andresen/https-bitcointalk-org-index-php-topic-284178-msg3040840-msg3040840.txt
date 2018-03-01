@@ -1,0 +1,9 @@
+
+
+It bloats the UTXO set, which is bad.  
+  
+MasterCoin transactions should all be spendable or provably prune-able. There
+are plenty of ways to accomplish that, the easiest of which that works today
+would be to stuff data into unused public keys of an OP_CHECKMULTISIG
+transaction.  
+

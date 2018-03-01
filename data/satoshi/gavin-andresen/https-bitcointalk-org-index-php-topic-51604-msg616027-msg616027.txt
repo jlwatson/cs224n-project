@@ -1,0 +1,59 @@
+
+
+Quote from: theymos on November 12, 2011, 12:08:40 AM
+
+Features seem to be considered stable way too quickly. I'd like a version
+scheme like this:  
+\- Add new features to 0.5.  
+\- At some point, stop adding new features to 0.5 and call that the "unstable"
+release. Start adding new features to 0.6.  
+\- 0.4 remains the "stable" release for at least 6 months, and it is recommend
+that newbies use this version. The unstable version is also available in
+binary form and can be easily used.  
+\- Once 0.5 has been unstable for 6+ months, call that one stable.  
+\- As many past 0.x releases as possible continue to get bugfixes for people
+who like to use really stable software.  
+  
+I'm still using 0.3.19, and it works fine with only a few modifications. I
+avoided several bugs by doing this.  
+  
+Once this problem is fixed, it would be a good idea to issue an alert for
+users of affected versions. Maybe not many users are affected, but it seems
+irresponsible to not notify these users when they can be notified.  
+
+  
+Luke-Jr is planning on supporting 0.4-based releases (finding somebody to fix
+wxWidgets-related bugs is an issue, though).  
+  
+The issue I have with calling any pre-1.0-release 'stable' is it implies a
+level of maturity that I don't think we're at yet. I can see 1-year
+develompment->unstable->stable release cycles once we're at a solid Bitcoin
+1.0 release that I can actually feel comfortable recommending to my non-geek
+relatives.  
+  
+My fear is that developers would happily code away and use the development
+branch, bugs would pile up against the unstable branch (and would get ignored
+because developers were happily coding away on dev, and nobody really wants to
+do bug fixing or QA testing), and unstable would never become stable enough to
+tag 'stable.' But I've never led an open source software project before, so I
+might very well be wrong (best way to convince me is to point to other small
+open source projects that we can emulate-- I don't think emulating big
+projects like Ubuntu will work).  
+  
+I agree that when a fix has been tested and is available an alert to the
+affected versions is a good idea.  
+  
+
+Quote from: Luke-Jr on November 12, 2011, 01:56:19 PM
+
+Quote from: fellowtraveler on November 12, 2011, 04:16:30 AM
+
+IMO, You guys need to figure out an organized way to fund Gavin's work.
+
+IIRC, Gavin is paid full time for Bitcoin development as well as some other
+guy for Bitcoin QA.  
+
+Unfortunately, TruCoin ran into a funding crunch because an investor got cold
+feet and had to stop paying for anything besides directly-related-to-TruCoin
+work.  
+

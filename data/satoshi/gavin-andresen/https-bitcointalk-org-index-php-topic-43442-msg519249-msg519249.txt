@@ -1,0 +1,21 @@
+
+
+As an experiment, I've uploaded a Mac .dmg disk image with 0.4rc2 binaries to:  
+https://github.com/downloads/bitcoin/bitcoin/  
+  
+I'd like to switch from sourceforge to github for binary release downloads,
+because sourceforge doesn't support https for downloads.  
+  
+Help improving the script I used to create the .dmg file would be most
+appreciated; see this branch for what I done did:  
+https://github.com/gavinandresen/bitcoin-git/commits/osx_dmg  
+ ~~For some reason setting the "Drag and drop to install" background image
+isn't working...  
+  
+shasum checksum is:  
+6621bdb82fd4520f6efcb87f489e47a587d8915f Bitcoin.dmg  
+~~  
+  
+Fixed. New shasum checksum is:  
+c86229b4c973da2207f516962804958424e94e08 Bitcoin.dmg  
+

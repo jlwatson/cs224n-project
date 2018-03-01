@@ -1,0 +1,34 @@
+
+
+It is time to build and test a new version of bitcoin.  
+  
+In the past, Satoshi built the Windows and Linux releases, Laszlo built the
+Mac releases, and we trusted them not to put malware in them (or we compiled
+ourself from source).  
+  
+Satoshi is busy, and even if he wasn't he shouldn't be spending his time doing
+a job that a lot of the rest of us are capable of doing. So we need a new
+process.  
+  
+Ideally, that process should be open and verifiably trustworthy. So I'd like
+to propose that we do the following:  
+  
+1\. For each platform, somebody creates a pristine, reproducible build
+environment, preferably as a virtual machine image that anybody can download,
+inspect, clone, run, etc.  
+  
+Anybody should be able to reproduce the build environment by running or
+following a script (e.g. "Install Ubuntu X.Y.Z. apt-get the following versions
+of the following packages... etc").  
+  
+2\. A copy of that virtual machine is used to build/package the release.  
+  
+3\. Anybody can audit the process by re-creating the build environment and
+ensuring that they end up with "identical" executables. (where "identical"
+means compare the code in the executables, ignoring timestamps or other meta-
+info linkers put into executables -- are there already tools to do that, or do
+we need to roll our own?).  
+  
+Feedback? Suggestions for improvement, or are there better ways of creating
+'trusted builds' ?  
+

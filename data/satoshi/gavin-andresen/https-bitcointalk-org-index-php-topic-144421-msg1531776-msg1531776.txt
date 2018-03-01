@@ -1,0 +1,34 @@
+
+
+Why do people include transaction fees?  
+  
+Assuming the miner hasn't tweaked the reference code's parameters, the rules
+are:  
+  
+Create at most a 250,000 byte block:  
+\+ 27 kilobytes of space is set aside for the highest-priority transactions,
+regardless of fee.  
+\+ 223k of space left for fee-paying transactions.  
+  
+Transactions with a small number of inputs/outputs, transferring a large
+number of bitcoins, that weren't recently received are the highest priority
+and are included first.  
+  
+If you send a low-priority transaction without a fee you can end up waiting a
+very long time for it to get confirmed (and it may never be confirmed).  
+  
+Why do miners include free transactions?  
+  
+Either they're too lazy to change the default rules, or they believe that
+allowing free, high-priority transactions will help make Bitcoin more popular
+and will, therefore, increase the value of their coins.  
+  
+Why is there any incentive to pay fees at all?  
+  
+You'll notice that pretty much every block nowadays is bigger than 27k, so
+there IS competition for that free space. But if you've got 10 bitcoins that
+have been sitting in your wallet for a week or three, you'll still have no
+problem spending them without a fee (they'll have a much higher priority than
+somebody playing SatoshiDice 100 times a day).  
+  
+

@@ -1,0 +1,8 @@
+
+
+See the "Bitcoin snack machine" discussion.  
+  
+Real-world, ordinary-sized transactions should wait a few seconds for the
+transaction to propagate across the network.  
+  
+

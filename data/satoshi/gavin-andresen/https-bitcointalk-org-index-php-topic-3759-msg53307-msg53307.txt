@@ -1,0 +1,11 @@
+
+
+ ~~Looks like somebody's playing with a tweaked bitcoin-- if you trace back
+the inputs they're from a previous block that has the same odd pattern.  
+  
+The standard coin selection algorithm in bitcoin would generate a one input /
+one output transaction.~~  
+  
+Hal and theymos are right-- I misremembered how the coin selection algorithm
+works.  
+

@@ -1,0 +1,12 @@
+
+
+Quote from: theymos on December 17, 2012, 04:40:10 PM
+
+This is part of it, though I also want to specify which major changes are
+"allowed" to the core Bitcoin design in the future. Obviously this contract
+can't be enforced by the network, but it would be useful to write it down to
+make sure that all developers and users are on the same page.  
+
+  
+I'm feeling grumpy this morning, so my reaction is "good luck with that."  
+

@@ -1,0 +1,39 @@
+
+
+Quote from: etotheipi on April 06, 2012, 09:02:40 PM
+
+Getting help could cost more than the tx itself, and then Bob would just
+broadcast the LAZY_ALICE tx right away and get the money after 30 days knowing
+it's not worth it for Alice to try to figure it out.  
+
+Well, if DISPUTE is a fee-only transaction then miners have a VERY strong
+incentive to drop LAZY_ALICE and mine DISPUTE instead. I don't think we'd have
+trouble asking miners to support a code change that is something like:  
+  
+
+Quote
+
+If you get a transaction spending the same input as non-final (sequence number
+< max_sequence, lockTime in the future) transaction in your memory pool, then
+use the new transaction if it's got a (significantly) higher fee.
+
+  
+etotheipi, I've been thinking about your comment "I don't like the asymmetry"
+...  
+LAZY_ALICE and DISPUTE are, I think, symmetric-- Alice holds DISPUTE in case
+Bob doesn't hold up his end of the bargain, Bob holds LAZY_ALICE in case she
+doesn't. I proposed that DISPUTE have an earlier lockTime than LAZY_ALICE, but
+maybe that's not necessary.  
+  
+If Alice _really_ doesn't trust Bob, then I think the whole scheme also works
+if Bob puts a "good faith security deposit" of bitcoins into the mix.  
+  
+
+* * *
+
+  
+The complexity of all this (5 possible transactions, different states the
+escrow can be in, initial communication to initiate the escrow) makes me
+nervous. Even just figuring out how Alice and Bob's clients talk to each to
+setup the escrow isn't obvious.  
+

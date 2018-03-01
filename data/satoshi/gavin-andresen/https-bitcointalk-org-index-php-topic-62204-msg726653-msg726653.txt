@@ -1,0 +1,35 @@
+
+
+RE: lightweight versus heavyweight clients:  
+  
+First: lightweight clients (like Multibit) that don't store the entire
+blockchain must rely on the rest of the network to confirm that transactions
+are valid. They can't check for themselves (this is true today, and BIP 16
+doesn't change that at all).  
+  
+Full clients do check, but it is still not safe for them to accept 0- or
+1-confirmation transactions; an attacker might be sending them an attempted
+double-spend (and the network might be still be trying to figure out which
+'side' of the double-spend will win). That is also true today.  
+  
+"Backwards compatibility" means that all valid transactions created by the new
+software will be accepted as valid transactions by the old software.  
+  
+But, after BIP 16 is supported by a majority of the network, there could exist
+transactions that the old software considers valid but the new software
+rejects as invalid.  
+  
+So... does BIP 16 make things riskier for people running old software? Yes, a
+tiny bit, in the very particular case of 1-confirmation transactions. And that
+particular attack requires that the attacker manage to mine a block that they
+know will be found invalid (which is expensive). Again, if you get bitcoins
+from somebody you do not trust then you should wait until they have 3 or more
+(6 if you want to be extremely safe) confirmations before considering the
+payment final.  
+  
+If you want all the technical details of why BIP 16 does NOT increase the risk
+for 0-confirmation transactions but does for 1-confirmation transactions...
+ask me another day (it has to do with how the old software recognizes
+"Standard" transactions and won't even show you transactions it doesn't
+recognize).
+

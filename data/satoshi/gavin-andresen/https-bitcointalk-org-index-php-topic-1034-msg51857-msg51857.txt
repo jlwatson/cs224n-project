@@ -1,0 +1,17 @@
+
+
+Quote from: bossweld on February 20, 2011, 10:04:05 AM
+
+Gavin, do you have / can you make public the image for the dodgy 0.3.20 VC10
+build? I'd like to have a look and compare it to my home build to see if I can
+reproduce that rendering artifact problem. Thanks.  
+
+  
+Yes, I have the VC10 VM. I am hesitant to make it publicly available because
+it has a copy of Visual C++ 2010 Express installed, and I don't want Microsoft
+to sue me for redistributing their software without permission.  
+  
+I'll uninstall it from the VM and then make the image public; you'll have to
+download and install (and agree to the license) Visual Studio Express yourself
+to get it working.  
+

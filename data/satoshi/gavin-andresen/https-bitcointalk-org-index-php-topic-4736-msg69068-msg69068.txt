@@ -1,0 +1,27 @@
+
+
+The Open Bank Project aims:  
+  
+
+Quote
+
+to create a RESTful API so that banks and their customers can securely and
+cost effectively adopt Web 2.0, Open Source and 3rd party tools, services and
+strategies. We want to promote greater openness to financial data.
+
+  
+I was contacted by Ismail CHAIB, who wonders if bitcoiners "might be able and
+interested to contribute to the project." If defining an API to help bring
+more transparency to government, nonprofit, and perhaps corporate finances
+sounds interesting to you (I'd personally like to see much more government
+financial transparency):  
+  
+
+Quote
+
+We're using Eviscape (http://eviscape.com/profile/openbankproject/) to manage
+our community. People interested by the project should register and ask to
+join the group. We'll add them to our platform.  
+  
+You can also find us on facebook. http://on.fb.me/f9tApG
+

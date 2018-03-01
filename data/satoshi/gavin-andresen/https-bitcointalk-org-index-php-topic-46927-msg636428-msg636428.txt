@@ -1,0 +1,8 @@
+
+
+I don't know nuthin about merged mining-- anybody have objections to Luke-Jr's
+pull?  
+  
+My only concern is: will this be a "used by exactly one person (the Eligius
+pool)" feature?  
+

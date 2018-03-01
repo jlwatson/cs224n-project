@@ -1,0 +1,9 @@
+
+
+80 transactions per second is 6.9 million transactions per day. That is a LOT.  
+  
+PayPal was doing about 2 million transactions per day in 2008; if there are
+three times as many bitcoin transactions as PayPal transactions in a few years
+that would be a very good problem to have, and I'm confident "we" would figure
+out how to deal with lots of transactions.  
+

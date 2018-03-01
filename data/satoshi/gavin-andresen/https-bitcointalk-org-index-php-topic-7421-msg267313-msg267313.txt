@@ -1,0 +1,10 @@
+
+
+I took error's work and further tweaked so it works (and is rebased against)
+latest git head.  
+  
+... but I'm not 100% happy with it. I'm not sure it properly handles block
+chain re-orgs and dependent orphan transactions. Would be nice to write some
+tests to exercise those edge cases, and figure out what it SHOULD do in those
+cases.  
+

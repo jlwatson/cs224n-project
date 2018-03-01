@@ -1,0 +1,17 @@
+
+
+You can operate your stellar-core in two modes, validating or observing. If
+you are in validating mode you are both listening and participating in
+consensus.  
+But semantics aside, in Stellar anyone can participate in consensus. As in
+anyone can both listen and talk. It is true that maybe no one else will want
+to listen to you but there is certainly no barrier in the protocol keeping
+people from talking. And again if there is some cartel or some group that
+people feel are getting too much control it is trivial to set up your own
+nodes that are fully participating in consensus and have the non-cartel nodes
+listen to each other.  
+  
+Also I'm not sure what people have in mind for the IETF ILC thing (I haven't
+had a chance to catch up on what is being discussed/proposed) but you can also
+easily have multiple independent stellar networks.
+

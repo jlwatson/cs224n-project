@@ -1,0 +1,21 @@
+
+
+Quote from: calim on October 17, 2014, 07:33:57 PM
+
+I happen to think we can do better than Gavin's idea. I like the idea of
+trying to come up with a solution that works with the blockchain and adapts
+over time instead of relying on Gavin, or NL or whomever. The answer should be
+in the blockchain.  
+
+  
+The answer cannot be in the blockchain, because the problem being addressed
+(resource usage rising too quickly so only people willing to spend tens of
+thousands of dollars can participate as fully validating nodes) is outside the
+blockchain.  
+  
+You will go down the same path as the proof-of-stake folks, coming up with
+ever more complicated on-blockchain solutions to a problem that fundamentally
+involves something that is happening outside the blockchain. In this case,
+real-world CPU and bandwidth growth. In the POS case, proof that some kind of
+real-world effort was performed.  
+

@@ -1,0 +1,24 @@
+
+
+What are you optimizing for? Ease of implementation? Wallet size?  
+  
+Here's a naive implementation that I bet would work well in practice:  
+  
+\+ Sort potential inputs by priority (priority is #confirmations * amount)  
+  
+\+ Use the N highest-priority coins whose sum >= amount needed  
+  
+If you want to optimize for fragmentation and/or paying of fees, then also do:  
+  
+\+ If the change transaction is larger than some threshold amount, then split
+it in half (or maybe split it into Y change outputs, each of which is about
+the size of the threshold amount).  
+  
+\+ If the change transaction is small and there are other small-valued/low-
+priority inputs available, add a few small-value inputs to merge them
+together.  
+  
+You could also optimize for privacy (try to avoid using more than one input
+and/or always create multiple change outputs), or tweak the above rules to try
+to always avoid fees...  
+

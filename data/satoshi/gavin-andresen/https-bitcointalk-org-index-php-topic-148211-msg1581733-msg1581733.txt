@@ -1,0 +1,20 @@
+
+
+Yes, I definitely meant priority. Highest priority transactions (transferring
+lots of old coins) get included in blocks first under the default block-
+filling rules.  
+  
+And also notice that I said "most miners are..." There are at least a few big
+mining pools that have their own idiosyncratic ways of deciding which
+transactions get into blocks, including private deals with big
+exchanges/merchants/etc.  
+  
+Also note that because finding blocks is a random process the Bitcoin network
+"stalls" for an hour every three weeks or so, with no blocks found.  
+  
+My guess is that if an attacker tried to monopolize block space most of us
+wouldn't even notice. If you're really worried about it, then encourage some
+big mining pool(s) to have a completely different block-filling strategy
+("randomly select from the memory pool" would be easy to implement).  
+  
+

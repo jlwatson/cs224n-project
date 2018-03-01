@@ -1,0 +1,15 @@
+
+
+Quote from: sassame on May 25, 2011, 09:31:19 PM
+
+At .25 BTC it's not a big deal, but as the sums go up the risk increases
+substantially.  
+
+Huh? That's backwards, transaction fees are smaller (as a percentage) if
+you're sending more BTC. Number of bitcoins being sent doesn't matter, number
+of inputs and outputs to the transaction matters.  
+  
+RE: estimating fees beforehand: what is the use case where that is actually
+useful? What do you want the user experience to be?  
+And what happens if the estimate turns out to be wrong?  
+

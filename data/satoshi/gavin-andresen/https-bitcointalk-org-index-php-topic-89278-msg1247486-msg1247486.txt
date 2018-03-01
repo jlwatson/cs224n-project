@@ -1,0 +1,11 @@
+
+
+I thought the consensus was that the mining devices just need a little extra
+software onboard to increment extranonce and recompute the merkle root.  
+  
+I don't know nuthin about hardware/firmware design, or the miner<->pool
+communication protocols, but it seems to me that should be pretty easy to
+accomplish (the device will need to know the full coinbase transaction, a
+pointer to where the extranonce is in that transaction, and a list of
+transaction hashes so it can recompute the merkle root).  
+

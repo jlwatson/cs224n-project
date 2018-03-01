@@ -1,0 +1,23 @@
+
+
+Quote from: interlagos on January 25, 2012, 06:38:32 PM
+
+What frightens me is that there is no way back if we make this step and it
+turns out to be a wrong direction.  
+
+Please explain to me how ANY of the proposals (the original OP_EVAL, BIP 16,
+and BIP 17) are any different in the "what if we change our minds and want to
+remove support" case?  
+  
+Removing support for BIP 17 would be harder than removing support for BIP 16,
+because if the network doesn't support it **all** BIP 17 transactions can be
+stolen **as soon as they're broadcast**.  
+  
+Imagine there are a bunch of un-redeemed BIP 17 transactions in the block
+chain and support for BIP 17 goes away. Every single one of them could be
+immediately redeemed by anybody.  
+  
+The situation is better with BIP 16, because of the "half validation" done by
+old nodes. Admittedly not a lot better, but it is the "belt and suspenders"
+nature of BIP 16 that makes me prefer it.
+

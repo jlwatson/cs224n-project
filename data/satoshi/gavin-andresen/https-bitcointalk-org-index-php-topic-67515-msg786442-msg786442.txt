@@ -1,0 +1,34 @@
+
+
+Quote from: kjlimo on March 06, 2012, 02:50:19 AM
+
+But this would just affect the client program that users download, so some
+people would be downloading some random program that could do harmful things
+to their computer, yes?  
+
+That is always a risk, which is why next to the downloads there is a gpg-
+signed SHASUMS.asc file.  
+  
+To check the integrity of the download you should:  
+  
+\+ Check the signature on the SHASUMS.asc file:  
+
+Code:
+
+$ gpg --verify SHASUMS.asc  
+gpg: Signature made Wed Feb 29 20:51:40 2012 EST using RSA key ID 1FC730C1  
+gpg: Good signature from "Gavin Andresen (CODE SIGNING KEY)
+<gavinandresen@gmail.com>"
+
+\+ Make sure the checksum for the downloaded file matches the checksum in the
+SHASUMS.asc file:  
+
+Code:
+
+$ shasum bitcoin-0.6.0rc2-macosx.dmg  
+7ab035250ad32a95adf12f2bf8751df9adae0ad4 bitcoin-0.6.0rc2-macosx.dmg  
+$ grep macosx SHASUMS.asc  
+7ab035250ad32a95adf12f2bf8751df9adae0ad4 bitcoin-0.6.0rc2-macosx.dmg  
+
+  
+

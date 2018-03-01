@@ -1,0 +1,20 @@
+
+
+Quote from: FreeMoney on January 23, 2011, 03:04:18 PM
+
+Your calculations are garbage. You cannot spend coins 80 times in an hour. The
+attacker has the power to rewrite a history that doesn't include him spending
+the coins, that is all. He can't simultaneously convince 80 people that they
+have the same coins.  
+
+  
+FreeMoney is absolutely right.  
+  
+The only way to get 80 people to accept the same 400 bitcoins would be to
+control all of their bitcoin connections and feed them different versions of
+the block chain.  
+  
+And THAT will be impossible, because the people you're trying to rip off
+(merchants selling stuff) are exactly the people with long-running, well-
+connected bitcoin nodes.  
+

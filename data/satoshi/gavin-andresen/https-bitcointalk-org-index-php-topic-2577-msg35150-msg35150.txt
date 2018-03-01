@@ -1,0 +1,12 @@
+
+
+Mirroring all of the information that bitcoin keeps about transactions inside
+your bitcoin-oriented web app is probably not the right way to go.  
+  
+It violates the zero/one/infinity principle, and you're likely to have subtle
+bugs if (when?) the two copies get out of sync.  
+  
+See: http://www.bitcoin.org/wiki/doku.php?id=accounts for "best practices". If
+you're willing to share what kind of thing your web app is doing, I'd be happy
+to brainstorm other approches, too...  
+

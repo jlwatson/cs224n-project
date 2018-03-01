@@ -1,0 +1,30 @@
+
+
+Quote from: theymos on May 30, 2010, 01:04:18 AM
+
+Quote from: gavinandresen
+
+I don't see the security risk of being able to intercept or eavesdrop on a
+Bitcoin transfer.
+
+  
+When sending to an IP address, BitCoin contacts the IP address without any
+authentication/encryption and requests a new BitCoin address, which is also
+sent back in plaintext. You then send the BitCoins to that address in the
+normal way. A man in the middle can intercept this request and send back
+_their_ BitCoin address. You will then securely transfer BitCoins to the wrong
+person.  
+
+Ahh, right, I see; I hadn't thought through the mechanism of the pay-via-IP-
+address functionality.  
+  
+That brings up another possible man-in-the-middle attack for HTTP connections:
+if you see a Bitcoin address on a non-secure web page, you can't be sure that
+you're seeing the correct address (a man-in-the-middle might have replaced it
+with THEIR Bitcoin address). And ditto for sending your Bitcoin address to
+somebody to request payment (e.g. send it via email or in your forum signature
+and it might get replaced before being displayed to people who want to send
+you money).  
+  
+  
+

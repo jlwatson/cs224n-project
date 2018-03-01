@@ -1,0 +1,8 @@
+
+
+I've started a discussion on BIP 16/17 support moving forward (including
+trying to improve the testing process) here:  
+https://bitcointalk.org/index.php?topic=61922.0  
+  
+(please reply there so the discussion stays mostly in one place)  
+

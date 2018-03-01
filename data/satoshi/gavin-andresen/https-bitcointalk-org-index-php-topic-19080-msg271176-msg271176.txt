@@ -1,0 +1,13 @@
+
+
+RE: cryptocards instead of an online service:  
+  
+Seems like we aught to be able to come up with a protocol that works over the
+web or that can talk to http://localhost:SOMEPORT to interact with an attached
+smart-card device (there'd be helper software running on localhost:SOMEPORT
+that spoke the protocol and relayed to the smart card).  
+  
+I wanted to start this discussion to make sure we don't re-invent the wheel,
+and to think in advance about what changes to core bitcoin (if any) are needed
+to support this kinds of functionality.  
+

@@ -1,0 +1,28 @@
+
+
+RE: $100 per-transaction, $500 balance limit:  
+  
+That makes perfect sense; they probably figured out about how much it will
+cost to hack a MintChip to get it's private key (dissolve case in acid, put it
+under an electron microscope, attach electrodes at exactly the right spots,
+etc...). Do a little calculation involving the cost of hacking one chip, the
+number of times you can double-spend before you're likely to get caught and
+the maximum amount per transaction and I bet they figure it doesn't pay.  
+  
+Especially if online transactions "phone home" to detect double-spends. If you
+have to physically walk to 500 different not-online merchants to get away with
+$50,000 worth of double-spends that's just like counterfeiting $100 bills, and
+that's an attack Mints have been pretty successfully dealing with for hundreds
+of years.  
+  
+RE: anonymity: the anonymity model is similar to Bitcoin. Each physical
+MintChip is like a Bitcoin keypair, if you can easily buy/load a bunch of them
+anonymously then it will be hard for Them to track your purchases.  
+  
+If MintChip fails I bet it is not due to hacking or lack of anonymity, but
+just due to the inconvenience of needing Yet Another Physical Doohickey. Paper
+money fits nicely into the wallet I already have, I don't want Yet Another
+Dongle on my keychain, and I bet before the end of the year either Apple will
+finally approve a Bitcoin app or there will be a nifty HTML5-based web wallet
+I can use on my iPhone...  
+

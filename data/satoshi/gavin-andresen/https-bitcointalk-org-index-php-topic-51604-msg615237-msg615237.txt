@@ -1,0 +1,23 @@
+
+
+A serious bug was been found in the "encrypt wallet" function of bitcoin
+versions 0.4 and 0.5: private keys may be left unencrypted in the wallet.dat
+file after encryption.  
+  
+If your encrypted 0.4 wallet file is stolen, an attacker may be able to
+recover some or all of your private keys and steal some or all of your
+bitcoins.  
+  
+The development team has been working on fixes for bitcoin versions 0.4 and
+0.5, but it will take at least a few days to test them thoroughly. Until they
+are available, you should assume that your 'encrypted' wallets are as
+vulnerable as an unencrypted wallet, and follow all the best practices for
+keeping them safe (see here for a list).  
+  
+It is embarrassing and astonishing that this critical a bug was not caught
+before the 0.4 release; constructive suggestions on how to improve the testing
+and release processes that do not assume access to hundreds of thousands of
+dollars of funds to hire security consultants or QA teams are welcome. Getting
+sufficient testing of code BEFORE it is released has been a chronic problem
+for this project.  
+

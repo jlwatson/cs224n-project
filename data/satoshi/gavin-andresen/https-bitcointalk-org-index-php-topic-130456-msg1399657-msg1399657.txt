@@ -1,0 +1,18 @@
+
+
+Quote from: Mike Hearn on December 14, 2012, 11:13:23 AM
+
+For these and other reasons we already made the decision to go with SSL certs
+for v1 despite their many problems. Later on, we can build either extensions
+to the SSL PKI or entirely new parallel ones.  
+
+  
+What Mike said.  
+  
+Building a new PKI infrastructure is most definitely out of scope right now.  
+  
+But if somebody wants to spearhead an effort to get CAs to allow extra public
+keys in the certificates that they issue... that might be worthwhile.  
+  
+Then again, maybe not-- DNSSEC/DANE might make the CAs obsolete.
+

@@ -1,0 +1,24 @@
+
+
+Okay, I did that too, and the secret is that the scriptSig is entirely removed
+and replaced with the scriptPubKey from the source (old) transaction. I'm
+still a little confused about how this works in the source.  
+  
+VerifyScript() doesn't actually concatenate the two scripts. It runs
+scriptSig, and that leaves stuff on the stack, then it runs the old
+scriptPubKey with the stack left by scriptSig. The only connection is the
+stack. So when we run the scriptPubKey, which holds the OP_CHECKSIG, the
+"current script" is just that, the old scriptPubKey. This is the script which
+gets OP_CODESEPARATOR stripped and then put in place of the scriptSig, for
+hashing.  
+  
+What I don't understand is this line from the OP_CHECKSIG code:  
+  
+// Drop the signature, since there's no way for a signature to sign itself  
+scriptCode.FindAndDelete(CScript(vchSig));  
+  
+This is apparently the basis for the advice to "remove the signature" for
+hashing. But it doesn't make sense, because there is no signature in
+scriptPubKey, which is where this opcode is found. This line doesn't seem to
+do anything, and advice to remove a nonexistent signature is misleading.
+

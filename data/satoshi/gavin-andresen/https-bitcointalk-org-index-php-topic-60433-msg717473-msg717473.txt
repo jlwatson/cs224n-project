@@ -1,0 +1,21 @@
+
+
+Quote from: Inaba on January 27, 2012, 02:27:11 PM
+
+No direct contact of the major players making up 55%+ of the mined blocks,
+with the possible exception of Slush(?) and/or Tycho (?) in "secret."  
+
+  
+Just FYI: I contacted the top ten mining pools (as listed in the stickied
+threads in the Mining Pools subforum) directly via email way back in October,
+copied the email to them in the Mining Pools forum, and kept them 'in the
+loop' on all of this.  
+  
+I probably should have posted all of my followup emails to them in the Mining
+Pools forum, also; as I said, I'm terrible at that kind of "keep track of who
+you've told what and make sure you've got 'buy-in' from X Y and Z" thing.  
+  
+I think my only really major blunder was being too stubborn about inserting
+some wording into BIP 16 that Luke wanted inserted; I let my emotions cloud my
+judgement.  
+

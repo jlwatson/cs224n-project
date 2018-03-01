@@ -1,0 +1,28 @@
+
+
+You can mitigate the attacks described in the paper by running bitcoind with
+more lenient banning behavior.  
+  
+E.g. put this in your bitcoin.conf:  
+  
+
+Code:
+
+bantime=11
+
+  
+... so if Tor peers sharing an IP address are banned, they are only banned for
+eleven seconds.  
+  
+If you want to live dangerously, you can also set:  
+  
+
+Code:
+
+banscore=10000
+
+  
+... to make it a lot harder for an attacker to cause you to ban naughty IP
+addresses. But this might make it easier for an attacker to fill up your
+node's memory with garbage.  
+

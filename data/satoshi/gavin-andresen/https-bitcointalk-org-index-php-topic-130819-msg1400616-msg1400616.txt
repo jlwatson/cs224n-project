@@ -1,0 +1,15 @@
+
+
+Quote from: cypherdoc on December 14, 2012, 08:36:29 PM
+
+so nothing to fix Hal's find?  
+
+No, that will be fixed in the 0.8 release.  
+  
+If you think the single-send-not-randomizing-the-change-address-bug gives you
+significantly less privacy... well, you're probably wrong, it is easy to
+cluster addresses if you have the right network analysis tools. But you can
+workaround the bug by adding an extra output to all of your transactions (add
+a new receiving address and then click the 'add recipient' button in on the
+Send Coins tab in Bitcoin-Qt and send some coins to yourself).  
+

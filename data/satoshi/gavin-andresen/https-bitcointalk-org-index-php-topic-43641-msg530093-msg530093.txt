@@ -1,0 +1,21 @@
+
+
+Quote from: Minsc on September 17, 2011, 12:18:02 AM
+
+What would happen if someone goes and constantly generates new addresses as
+some kind of attack on the network? Would they eventually usurp most possible
+network addresses or get some other person's address and potentially usurp
+their payments?  
+
+  
+No.  
+  
+There are 1,461,501,637,330,902,918,203,684,832,716,283,019,655,932,542,976
+possible bitcoin addresses.  
+  
+If your calculator can handle numbers that big, you can play around with how
+long it would take to try generate one quadrillionth of them if you could
+generate a trillion per second.  
+  
+(I get an answer of a bit over 46 trillion years)  
+

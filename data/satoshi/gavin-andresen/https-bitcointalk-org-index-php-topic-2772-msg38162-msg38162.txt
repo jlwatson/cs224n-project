@@ -1,0 +1,18 @@
+
+
+Quote from: davout on January 14, 2011, 11:13:53 PM
+
+That's really all I feel comfortable with (well actually not, I was wondering
+whether I should update locale files...)  
+
+  
+Improving help is definitely helping-- thanks!  
+  
+And it would be fantastic to get somebody who knows, or is willing to learn,
+git to step up and volunteer to submit translation file patches.  
+  
+I'll soon be asking for building and testing help, too (after fixing another
+couple of bugs, I think it'll be time to pull non-controversial patches into
+the integration tree and start some serious testing to prepare for another
+release).  
+

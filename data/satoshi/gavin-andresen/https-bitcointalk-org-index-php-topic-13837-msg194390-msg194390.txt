@@ -1,0 +1,15 @@
+
+
+See https://en.bitcoin.it/wiki/Proper_Money_Handling_(JSON-RPC) for relevant
+advice.  
+  
+As Pieter says, bitcoin converts all user-entered values and JSON-RPC values
+to fixed-point 64-bit integers as soon as it gets them. All calculations
+except for that conversion are done using 64-bit integers.  
+  
+Bitcoin does not "use floating point", it parses numbers-containing-a-decimal-
+point values that come from JSON (the Number type in JSON is double-precision
+float; let's not restart the "we should pass numbers as strings in JSON"
+debate, please, there are several long threads from a couple of months ago
+about that) or from the GUI.  
+

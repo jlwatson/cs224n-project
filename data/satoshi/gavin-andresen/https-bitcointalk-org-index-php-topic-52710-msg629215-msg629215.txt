@@ -1,0 +1,9 @@
+
+
+Try running with the -nolisten -noirc flags, see if that works around the
+problem (and please let me know if it does/doesn't).  
+  
+I'm not sure any of the current core developers regularly use TOR; getting
+somebody who does to contribute patches and review code for regressions is a
+good idea.  
+

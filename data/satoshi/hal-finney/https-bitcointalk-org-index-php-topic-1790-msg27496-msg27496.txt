@@ -1,0 +1,43 @@
+
+
+I also had an idea last night of how/where to tie this into the existing DNS.  
+  
+When you lookup foo.com, software on your computer called a resolver is
+responsible. It has some caching and local data, but mostly it just asks a DNS
+server for the answer. You have one or more DNS servers configured as part of
+your network setup, and these servers respond to domain name lookup queries
+either directly, or by initiating their own search of the domain name system.  
+  
+Obviously we want existing name lookups still to work. Broadly speaking, then,
+we would change the software to first check if a name is registered in the
+BitDNS system, and if not, to fall back to the regular handling.  
+  
+My idea is that the best place to add the BitDNS lookup code is in a DNS
+server rather than in the resolver. Resolvers are different for every OS, so
+there's more work. I don't even know if the resolver logic can be changed on
+Windows. Plus this code is going to need to be tracking the BitDNS block
+chain, and not every end user should have to do this.  
+  
+Other 'alternative' DNS systems do it like this, with one or more special DNS
+servers that know about their extra domains.  
+  
+We would choose some open source DNS server as a base, fork it and add the
+code to lookup BitDNS names. Whether these names all have a distinguishing TLD
+".bit" or whether we are more aggressive and take over more namespace, either
+way it could be done.  
+  
+As I understand it, when a DNS server looks up foo.com, it finds the (or a)
+name server authoritative for .com, and asks it for what is called a SOA
+record for foo.com. This tells what name servers are authoritative for
+foo.com, and the DNS server then tries them to get details on foo.com.  
+  
+We would intercept this first step, and use the BitDNS code to find the
+authoritative name servers. Maybe we could create a dummy SOA record to hold
+the data, to simplify falling back into the regular DNS code.  
+  
+People who want to use BitDNS would just have to select one of the BitDNS
+aware DNS servers. Paranoids could run their own name servers locally and
+track the block chain. All the usual optimizations of DNS in terms of caching,
+distribution, etc. would work, so it would not have much negative impact on
+the net.
+

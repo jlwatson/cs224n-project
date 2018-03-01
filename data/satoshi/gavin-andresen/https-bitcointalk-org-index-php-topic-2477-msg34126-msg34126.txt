@@ -1,0 +1,28 @@
+
+
+Quote from: jago25_98 on December 27, 2010, 02:52:37 PM
+
+Anything we could/should do to prepare for deep packet inspection?  
+
+  
+I don't think that belongs in Bitcoin-- I like solutions like i2p or ssh
+tunneling that put encryption down at the lower network layer (where it
+belongs, in my humble opinion).  
+  
+
+Quote
+
+Decentralised development. Perhaps a mirror to freenet might be good. Also,
+getting into other languages in different countries is important; completely
+separate development there too. If USA gets shut down perhaps .ru continues
+because most English speakers are ignorant to Russian, for example.  
+
+  
+Are you worried about SourceForge and GitHub (the two 'official' trees) being
+forced, or deciding, to drop bitcoin? At this point lots of developers have
+their own copies of the source code, I'm sure if that happened another site
+(maybe a hidden monotone repository inside the anonymous i2p network) would
+spring up.  
+  
+They can't stop the signal...  
+

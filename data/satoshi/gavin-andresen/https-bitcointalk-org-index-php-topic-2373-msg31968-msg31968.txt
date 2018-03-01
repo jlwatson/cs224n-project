@@ -1,0 +1,8 @@
+
+
+Oh, and RE: extracting private keys from the wallet:  
+  
+I'm less excited about that idea. What if the private keys are stored in a
+tamper-proof "trusted security module" hardware doo-hickey, and are impossible
+to export?  
+

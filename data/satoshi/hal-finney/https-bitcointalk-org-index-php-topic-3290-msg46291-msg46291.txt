@@ -1,0 +1,128 @@
+
+
+I have enhanced the bc_key program to print interesting information about
+transactions found in the wallet file.  
+  
+https://github.com/halfinney/bc_key  
+  
+Run it as:  
+  
+
+Code:
+
+./bc_key EVERYTHING ~/.bitcoin/wallet.dat
+
+  
+(substitute your own wallet.dat location on mac and windows)  
+  
+This dumps everything in the wallet, including keys and address book, but
+let's just look at transactions:  
+  
+
+Code:
+
+./bc_key EVERYTHING ~/.bitcoin/wallet.dat | grep ^tx
+
+  
+I'll go ahead and violate my own privacy because I want to make a point.
+Here's my output:  
+  
+
+Code:
+
+tx 011104eddf3afd4e1133996e3e2a9c7f16ed1f9dfa922493612bab9b8be19f0e 1.50000000
+12gHtU8z4HNymJUBetcyY2MU8CYYfszq5X 2011/01/22 spent  
+tx 5fa35fa2e753c8997aaca3b1cb434f218884d95ae8803a0ee7ff8eee298ba00f 3.00000000
+1BPE6sLdYn8zoRH2ovEWiqQH4NRbyAAHNK 2011/01/22 change spent  
+tx cff5962c80af06506d6583710fdbde01b95e0bf4a37df27af82ee5038b241016 9.00000000
+1NiihskVid2GTWEJjKDaft67aFkeCJTTaE 2011/02/06 change  
+tx 31989da39c18a351fb393b05d7d66efd69cf1cc64958d67a5c49189e28402b1f 0.50000000
+157a7eFdnTg89gPZ5wWPjX1TMVL3ffeDSh 2011/01/28 change  
+tx a5a88c6af09b9bcd21a7ee0e0c25ce912a0ccabd90a5a6d8a5644c7b6c519321 6.00000000
+payment 2011/01/30 spent  
+tx b6f4b9239544d864d5fbbfce5bc6d6333227e2b6db8aa0d35beba3bcf12b212d
+12.00000000 1513Z4iDpW1K3qyknHUhwxhXy6H5aYd6q6 2011/01/30 spent  
+tx 061ef85f7936b138675e5c6b01c67ddbb8710aa9c00dffdd1859e2e0b231ce47 3.00000000
+payment 2011/02/01 spent  
+tx 835d37f77fc980efa21771e3fefbd79d9a20f2f69d3d0517d99f86aeecae464a
+997.00000000 1F4YL3tYS1Y4dEvCUppwMjggi2imgJogVW 2011/01/20 change spent  
+tx 3ed3602d07e3f16f90f4966c502e5fcccb7e13faacc0053e9558e91a93a9a24f 3.00000000
+1J6ToHCuN6jeniL7wD2zJwxhRUv2V6TLXW 2011/01/30 change spent  
+tx 78537330713ec5c92befd3e1a91c754198ee14877c02d8888c899280d0a49c58
+994.00000000 1K8THF4Qkr5mMKjQRJe1xW33ZYoUrgtUHL 2011/01/20 change  
+tx 82621223fccb83122edda411f941c729929507a21bed320d1a9af6caa12dc159
+1000.00000000 1KeWUnmZZUNDSeWKf9pqZmMdtkeJ5jENnX 2011/01/02 spent  
+tx 5fd3fed9bef47df2c95255b863bf989b027121bfcedd692d08888ba704130c7a 5.00000000
+19MvB9acQ4wx4GtGxBwTamMkfHPVSBWY3Z 2011/01/22 change spent  
+tx 9555b4b8e84e6e5b045847fe86d6bb82df67e4360a897b485dbd8a76e0b46b83
+10.00000000 1NC55QPMZqtpRNiRvkBatNvZLrXT5XqnRR 2011/02/03 change spent  
+tx 3a3b74721cc6af482bcc8b6722f80a87a9de103ee26a67975a2eee69328a3b92 6.00000000
+1513Z4iDpW1K3qyknHUhwxhXy6H5aYd6q6 2011/01/20 spent  
+tx 4c9bb949f106cfe6bed53415e7dcb86f5c93603434c65ca6423d5de1eabafa92 1.25000000
+12gHtU8z4HNymJUBetcyY2MU8CYYfszq5X 2011/01/22 spent  
+tx 03f87b3c1ed4231e64a781ce2f8c10c03e7a3f6439389c97af640e1e63eb29b0 0.25000000
+1LKRbsyxiSi3zfHKyumEH8W7fSQapapnnw 2011/01/28 change  
+tx a97511426aac9be884236578060293a1b6783d4c7467288bf89436bfc38feec9 3.00000000
+payment 2011/01/30 spent  
+tx 230fec2b39bc56ef359a5c078505b8aac0d8221c5109dd0fa8f98ddd667ab8d3
+18.87000000 12BxP2C6aj2KT5fsnNdiyVMKfhm9tu1MK4 2011/02/01  
+tx 7b8cb378bc8f15e98a8f94c2c20a8e552b6dd785f3863c1baac314e8b8d56ada 6.00000000
+1513Z4iDpW1K3qyknHUhwxhXy6H5aYd6q6 2011/01/30 spent  
+tx ca43a17aa52c670e96c77a752552d502016355e2c7018ed4c930215e8366a9da 6.00000000
+1513Z4iDpW1K3qyknHUhwxhXy6H5aYd6q6 2011/01/20 spent  
+
+  
+The big number is the transaction ID, suitable for plugging into
+blockexplorer.com. Next is the bitcoin amount, your address that received the
+bitcoins, and the date of the transaction. Finally come the optional words
+change and spent. Change means this transaction produced change as a side
+effect of a payment you made to others, and the address shown is the change
+address, which is largely hidden in the client UI. Spent means that the
+bitcoin(s) associated with this transaction have been spent and are no longer
+available.  
+  
+There are basically three types of wallet transactions. First are payments
+from someone else to a wallet key. Next are payments to others which happen to
+exactly use up one or more available transactions, with nothing left over.
+These are shown as "payment" in the address field and are always marked as
+spent. Last are payments where there were bitcoins left over, which get
+returned to a new address. These are the ones which are shown as change.  
+  
+To see the transactions which are available for spending, filter out the spent
+ones with grep -v:  
+  
+
+Code:
+
+./bc_key EVERYTHING ~/.bitcoin/wallet.dat | grep ^tx | grep -v spent\$
+
+  
+  
+
+Code:
+
+tx cff5962c80af06506d6583710fdbde01b95e0bf4a37df27af82ee5038b241016 9.00000000
+1NiihskVid2GTWEJjKDaft67aFkeCJTTaE 2011/02/06 change  
+tx 31989da39c18a351fb393b05d7d66efd69cf1cc64958d67a5c49189e28402b1f 0.50000000
+157a7eFdnTg89gPZ5wWPjX1TMVL3ffeDSh 2011/01/28 change  
+tx 78537330713ec5c92befd3e1a91c754198ee14877c02d8888c899280d0a49c58
+994.00000000 1K8THF4Qkr5mMKjQRJe1xW33ZYoUrgtUHL 2011/01/20 change  
+tx 03f87b3c1ed4231e64a781ce2f8c10c03e7a3f6439389c97af640e1e63eb29b0 0.25000000
+1LKRbsyxiSi3zfHKyumEH8W7fSQapapnnw 2011/01/28 change  
+tx 230fec2b39bc56ef359a5c078505b8aac0d8221c5109dd0fa8f98ddd667ab8d3
+18.87000000 12BxP2C6aj2KT5fsnNdiyVMKfhm9tu1MK4 2011/02/01  
+
+  
+These are really my "bitcoins". They are what I have available to spend. The
+sum of the bitcoin amounts should equal my wallet balance. Any spend I make
+will come from one or more of these transactions. Generally, the Bitcoin
+client will try to combine one or more small transactions to make a payment,
+otherwise it will use the smallest single transaction capable of funding the
+payment.  
+  
+Although my wallet doesn't show it too clearly, it's not unusual for a single
+Bitcoin address to be funded by multiple transactions. But for making
+payments, this is basically irrelevant. Individual transactions are picked to
+fund payments without regard to whether some of them happen to use the same
+address.  
+

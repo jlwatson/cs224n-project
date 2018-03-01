@@ -1,0 +1,25 @@
+
+
+If you can, please help sanity test Bitcoin 0.5 release candidate 3 binaries:  
+https://sourceforge.net/projects/bitcoin/files/Bitcoin/bitcoin-0.5.0/test/  
+  
+Files and checksums are:  
+
+Code:
+
+5077db912792ed1e341d0acecdd158717de97510 bitcoin-0.5.0rc3-linux.tar.gz  
+73e72328523482c91fceed6e676ec9e3b728a621 bitcoin-0.5.0rc3-macosx.dmg  
+6171be62a7dd18ce787889531525def80be13219 bitcoin-0.5.0rc3-win32-setup.exe  
+3c53c0008218ea5c4604984d07b5c5ddaaaf2287 bitcoin-0.5.0rc3-win32.zip  
+
+  
+Linux and Windows binaries are created using the gitian-trusted/reproducible-
+build tool; the OSX binary was built by me.  
+  
+I'll be writing up release notes this afternoon; assuming no 'show-stopper'
+bugs are found, these binaries will be the 0.5 release.  
+  
+Please report bugs using the issue tracker at github:  
+https://github.com/bitcoin/bitcoin/issues  
+  
+

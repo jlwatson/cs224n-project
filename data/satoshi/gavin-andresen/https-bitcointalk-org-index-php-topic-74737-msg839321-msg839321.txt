@@ -1,0 +1,15 @@
+
+
+Is anybody else seeing anything like what jetmine is seeing? Anybody else
+running CentOS 5.6? Did you compile from source or are you using the binaries
+we compiled?  
+  
+My 0.6 nodes running on Ubuntu 11 have been rock solid.  
+  
+The "CBlock::ReadFromDisk() : OpenBlockFile failed" is very odd, that should
+never happen. You aren't running with a -datadir on a network drive or
+something are you?  
+  
+RE: filling addr.dat: that is one of the denial-of-service attacks fixed by
+the 0.6 release.
+

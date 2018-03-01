@@ -1,0 +1,11 @@
+
+
+FYI: I pulled:  
+https://github.com/bitcoin/bitcoin/pull/686  
+  
+... which will likely result in a testnet blockchain split on February 15'th.
+I hadn't pulled before because I was busy with other things. The testnet
+faucet bitcoind will be updated in the next day or two.  
+  
+See this thread for the design discussion.  
+

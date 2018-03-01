@@ -1,0 +1,29 @@
+
+
+Actually I'd say this hints at a serious bug in the client. Look at the record
+of Ronald's address for receiving money from the mining pool:  
+  
+http://blockexplorer.com/address/1D3hzQnKeQuKoHZ7vZPu8bygiRRMvfhSow  
+  
+He receives payments and then sends them on, returning again and again to a
+zero balance.  
+  
+Until the first tx of 2011-01-30, when he receives 3.37. From then on, he no
+longer reduces his balance to zero; he reduces it to 3.37. This transaction
+alone is not transferred.  
+  
+Clearly the wallet simply missed this transaction. Yet it picked up a
+transaction to the same address 8 hours earlier and one two hours later.  
+  
+So there are two possibilities that I see. One, Ronald was messing with his
+wallet at that time and somehow removed this address from the wallet for a
+brief time, then put it back. Not an easy thing to do, I don't think. (Maybe
+deleting the wallet for a while, then restoring it?)  
+  
+Possibility two is that the client somehow overlooked the transaction due to a
+bug. Obviously not something that happens very often. What could it be? Maybe
+something to do with block collisions and chain reorg?  
+  
+The block with the missed transaction was 105286. Any way to tell at this late
+date whether there was anything unusual about this block?
+

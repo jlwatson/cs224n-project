@@ -1,0 +1,12 @@
+
+
+The JSON-API wiki page describes all the methods:
+http://www.bitcoin.org/wiki/doku.php?id=api  
+  
+The wiki needs a good re-organization; anybody want to volunteer to revamp the
+Start page?  
+  
+RE: comment and comment-to : they're stored in your wallet along with the
+transaction, but not sent over the network. The new gettransaction and
+listtransactions methods will return them (as "message" and "to").  
+

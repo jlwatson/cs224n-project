@@ -1,0 +1,13 @@
+
+
+This is why I don't pull additions or major changes to RPC commands without at
+least a couple of people looking at them and either saying "yup, that's
+exactly how I would do it" or "it'd be better if...."  
+  
+I agree with Mike, the -coinbaser <cmd> should be separate from setauxwork.  
+  
+Does setauxwork interact with the new getmemorypool RPC command at all? Should
+it?  
+  
+And should there be a listauxwork RPC command?  
+

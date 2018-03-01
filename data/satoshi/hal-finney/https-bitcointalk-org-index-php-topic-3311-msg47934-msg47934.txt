@@ -1,0 +1,21 @@
+
+
+The problem is this code in main.h:GetMinFee(), called from
+main.cpp:AcceptToMemoryPool()  
+  
+601 // To limit dust spam, require a 0.01 fee if any output is less than 0.01  
+602 if (nMinFee < CENT)  
+603 foreach(const CTxOut& txout, vout)  
+604 if (txout.nValue < CENT)  
+605 nMinFee = CENT;  
+  
+  
+This will prevent clients from forwarding transactions with outputs < 0.01
+btc. We can change this rule but not everyone upgrades so lower value
+transactions will propagate unreliably for months.  
+  
+I suggest we figure out how to fix this once and for all, put in the new rule
+but set it to trigger only as of some block number in the future, and
+meanwhile do something cool in the client so people will want to upgrade
+before the rule change.
+

@@ -1,0 +1,10 @@
+
+
+If you don't want to change you can just ignore the new feature(s). There is
+zero risk with the proposed changes for anybody running old, un-hacked
+versions of bitcoin.  
+  
+(if you are solo mining and hacked your version of bitcoin to accept 'non-
+standard' transactions then you _could_ shoot yourself in your foot, but even
+that is unlikely).  
+

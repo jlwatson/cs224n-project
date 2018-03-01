@@ -1,0 +1,19 @@
+
+
+Quote from: gavinandresen on February 14, 2011, 06:24:59 PM
+
+I wonder if there's some way to discourage that kind of anti-social behavior;
+could the network detect that was being done and "shun" that miner's blocks?
+
+  
+I think that was Joe's suggestion: if a block shows up that turns one or more
+previously-broadcast transactions into double-spends, you don't count it.
+Maybe we could give it a negative difficulty penalty, so that the block chain
+with this block would have lower cumulative difficulty than without it; that
+way it would stay an orphan and not be added to the chain. Then if it was all
+a big mix-up and other nodes kept building on this one, eventually they would
+overcome the negative difficulty and it would be accepted, as Joe proposed
+with his 6-block rule.  
+  
+Obviously changing the voting rules like this would need careful analysis.
+

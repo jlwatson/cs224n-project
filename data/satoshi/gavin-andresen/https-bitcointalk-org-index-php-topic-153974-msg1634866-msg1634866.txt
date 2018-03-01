@@ -1,0 +1,25 @@
+
+
+Quote from: markm on March 17, 2013, 04:01:15 AM
+
+It might mean lots of work for someone, but what devs are we speaking of here,
+documentation devs or code devs? I suspect if the doc devs just shut up and
+got to work on the docs the code devs wouldn't mind at all.  
+
+  
+More documentation is great, so yeah, if you want a formal spec, go for it.  
+  
+Here's a tricky question you can start with:  
+  
+Assume there is a fork consisting of max-block-size blocks. How deep a
+fork/re-organization MUST a conforming implementation handle? 6 blocks? 1000
+blocks? as-many-blocks-as-there-are-in-the-chain blocks?  
+  
+Does that imply that a confirming implementation MUST be running with a
+certain amount of memory, or MUST a conforming implementation be able to
+handle such a chain fork within a certain amount of time?  
+  
+.. and once you answer all that: what if the network consists entirely of non-
+conforming implementations that take shortcuts and just assume that there will
+never be a re-org more than X blocks deep?
+

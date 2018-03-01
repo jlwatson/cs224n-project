@@ -1,0 +1,66 @@
+
+
+I've been reworking my old 'monitorreceived' patch to catch up with the latest
+JSON api changes, and I'm looking for feedback.  
+  
+New methods I've already implemented:  
+  
+
+  * monitorblocks <url> [monitor=true]: POSTs a JSON-RPC notification to <url> when new blocks are accepted.
+  * listmonitored : returns list of URLs that are monitoring new blocks
+  * getblock <depth> : Returns information about block at depth <depth>
+
+  
+getblock/monitorblocks give this information (this is one of the -testnet
+blocks):  
+
+Code:
+
+{  
+"hash":"000000002eb339613fd83ea65f3620cc85a8247893ea7f1f85e40fc9632db50f",  
+"blockcount":21109,  
+"version":1,  
+"merkleroot":"c0efb898417b55dbec645eeda3e5a3c092c22e21e17f423876e858bc223e721c",  
+"time":1294269726,  
+"nonce":595884571,  
+"difficulty":4.81431771,  
+"tx":[  
+"ea214bb68aeca12eea6e8467b3b72dcf4c3aef0de015e5d21b51d63ed9fba1a9",  
+"90727f2409ea326fcb5e218c1c4213608bf3f2e9d18b3191e52fff86ccda7701"  
+],  
+"hashprevious":"0000000002889316c2e34614eadcafea44cf0899945dde0da0fa7a765058aca6"  
+}
+
+  
+The monitor JSON-RPC notification wraps that information with a call to
+"monitorblock" -- see http://gavinpostbin.appspot.com/15depef for exactly what
+a notification looks like.  
+  
+I'm thinking about adding notification for 0-confirmation wallet transactions,
+too; something like:  
+  
+monitortx <url> [monitor=true] : POST to url when wallet transactions (sends
+and receives) are accepted.  
+  
+Information posted would be the same as you get from calling gettransaction,
+and I'll change listmonitored to return lists of { "category" : block/tx,
+"url" : url }.  
+  
+Possible reasons **NOT** to add this to mainline bitcoin:  
+  
+1\. I'm using boost::xpressive (regular expression library) to parse the urls.
+Bitcoin is already dependent on lots of other pieces of Boost, and xpressive
+is compiled as a header-only dependency (no changes to the Makefiles)... but I
+wouldn't be surprised if using xpressive causes problems on SOME compiler
+somewhere.  
+  
+2\. POSTing to https: URLs won't work if you're running on Windows (any
+windows/mingw experts want to take another crack at getting full openssl
+working?).  
+  
+3\. Related to https/ssl: if you POST transactions to a non-ssl url, somebody
+eavesdropping on your packets will be able to figure out which bitcoin
+addresses belong to you. This is a potential privacy issue.  
+  
+As always, feedback, encouragement, and reality-checks are welcome.  
+

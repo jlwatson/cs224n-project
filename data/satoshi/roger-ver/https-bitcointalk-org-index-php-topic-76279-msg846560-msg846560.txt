@@ -1,0 +1,13 @@
+
+
+I now have the automated Bitcoin checkout module for Magento module installed
+from http://paysius.com/plugins  
+  
+It works great!  
+  
+Thank you Paysius!  
+  
+Please test it out by ordering something from www.memorydealers.com  
+  
+Support those who support Bitcoin!
+

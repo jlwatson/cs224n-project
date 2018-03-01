@@ -1,0 +1,31 @@
+
+
+Quote from: jgarzik on January 29, 2011, 09:12:22 PM
+
+That said, many libraries are smart -- such as jansson \-- and will evaluate a
+number directly into an integer.  
+
+From the jansson docs:  
+  
+"integer numbers whose absolute values are too large to be represented in the
+int type will result in an overflow error"  
+  
+As I said in the thread about possibly changing the ECDSA curve bitcoin uses,
+programmers like to solve "problems" that they know they can solve and that
+they think will make things a little bit better. But, in my humble opinion,
+unless you're solving an important problem changing things because you think
+you know how is often a bad idea.  
+  
+This is a perfect example: change the RPC to spit out 64-bit integers (or move
+to a new RPC that spits out integers) and anybody using jansson on a 32-bit-
+int platform will get an overflow error.  
+  
+I kind of like tcatm's suggestion to define new RPC methods that specify a
+base unit using strings... but then I thought more about it:  
+  
+We could use scientific notation, so 1 BTC would be 1e08 base units; then if
+we ever needed more precision the JSON interface wouldn't change, you could
+just specify 1e-03 as a value....  
+... but that's exactly what we have now. 1 BTC is 1e00, 1 base unit is 1e-08,
+and if we ever needed more precision the JSON interface is ready.  
+

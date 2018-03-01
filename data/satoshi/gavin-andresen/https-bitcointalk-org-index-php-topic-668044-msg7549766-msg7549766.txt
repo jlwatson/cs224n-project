@@ -1,0 +1,20 @@
+
+
+The best way to understand reference implementation accounts is to think of
+bitcoins like real, physical coins.  
+  
+Like how a bank works:  
+  
+When you deposit coins in your account, they are credited to your account. And
+then mixed in with all the other coins the bank gets.  
+When you withdraw, you get coins from the Big Old Pool of Coins-- not the
+coins you put in, necessarily.  
+  
+That said: general consensus among core devs is that the accounts feature
+should go away. It is not appropriate for "enterprise-scale" multi-user use
+(never optimized for that case, doesn't do ACID transactions with whatever
+back-end database you're using for customer information, etc etc etc).  
+  
+And it doesn't do what most people seem to WANT it to do (act as multiple
+wallets, keeping coins separate).  
+

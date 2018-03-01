@@ -1,0 +1,14 @@
+
+
+Quote from: mndrix on March 12, 2011, 02:02:48 AM
+
+It seems reasonable to me to start with UPnP disabled by default. As long as
+enabling it in the client is easy enough to do, the network will benefit
+because some nodes will "opt-in" that wouldn't have before. We can change the
+default later, after we gain more confidence about remote vulnerabilities.  
+
+  
+Who knows enough about wxWidgets to add a checkbox to the Settings UI for
+"Enable UpNP" (grayed out #ifndef UPNP...)? Wanna coordinate with BlueMatt to
+get that done?  
+

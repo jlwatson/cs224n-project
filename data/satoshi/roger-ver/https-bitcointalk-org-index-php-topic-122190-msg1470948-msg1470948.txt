@@ -1,0 +1,30 @@
+
+
+Quote from: John (johnthedong) on January 22, 2013, 05:04:45 PM
+
+Quote from: deeplink on January 22, 2013, 05:02:38 PM
+
+Quote from: MemoryDealers on January 22, 2013, 12:25:16 PM
+
+For now, please check out the Home Appliances section:
+http://www.bitcoinstore.com/more/home-appliances.html  
+
+  
+The BTC/USD conversion rate used is $13.52 while Mt. Gox is at $17.44  
+  
+  
+  
+  
+  
+  
+Just pointing this out so you can fix it, because it looks dishonest.  
+
+  
+*facepalm* No wonder I felt something was amiss here.  
+
+  
+The website displayed exchange rate is having trouble updating automatically
+however the exchange rate at the actual checkout updates every 5 minutes.  
+If the current exchange rate is $17.44 and it has been that rate for more than
+5 minutes, that is the rate you will pay at checkout.
+

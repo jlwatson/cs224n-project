@@ -1,0 +1,19 @@
+
+
+Everybody is looking for:  
+  
+h = f(x), where h < TARGET  
+  
+I think you're asking if there is some weakness in SHA256 (or hashing in
+general) that can make solving that problem trivial.  
+  
+It seems unlikely to me, but I'm not a professional cryptographer. If TARGET
+were '4', then the problem is equivalent to:  
+h = f(x) where h = 0 OR h=1 OR h=2 OR h=3  
+  
+Maybe there's some tricky method that reuses work and makes solving the
+TARGET=4 case more than 4 times easier than solving for TARGET=1 (which is
+"find this specific hash")... but I just don't see that doing anything more
+than what has already been pointed out in previous posts: it is just a quicker
+way of hashing, so difficulty would go up.  
+

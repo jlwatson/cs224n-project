@@ -1,0 +1,20 @@
+
+
+I updated most of my git branches to svn rev 161 last night, including
+monitorreceived. That's easy:  
+git svn fetch (but you have to have an "svn-remote" setup in your .git/config)  
+git merge refs/remotes/svn/trunk (I could git rebase instead, but merge seems
+less magical to me)  
+... fix any merge conflicts and test then git commit, if needed (usually there
+are none)  
+git push (to push up to github)  
+  
+Repeated on each branch (I'll try to keep svn, svnTEST and monitorreceived up-
+to-date).  
+  
+Keeping the patch file up-to-date is another couple of steps, and I
+could/should automate it.  
+  
+doublec: thanks for the bug report, I'll look into it as soon as I get this
+machine setup.  
+

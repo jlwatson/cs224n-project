@@ -1,0 +1,27 @@
+
+
+So code up a prototype:  
+  
+\+ Implement code that computes and publishes 'balance blocks' and 'balance
+block hashes'. Convince a couple people with extra download bandwidth to run
+it.  
+\+ Modify one of the bitcoin implementations to download the latest 'balance
+block' from some trusted place at startup, and use it if transactions/blocks
+can't be found in the traditional block database.  
+\+ Extra credit/paranoia : query a couple of trusted places for the balance
+block hash, and make sure it matches the hash you got.  
+\+ OR: randomly spot-check the balance block by requesting blocks in the
+traditional way, and make sure the balance block doesn't list any outputs as
+unspent that are actually spent.  
+  
+You don't want bitcoin address balances, there are no addresses way down deep
+inside. You need to know which transaction outputs have not yet been spent,
+and the value of those outputs.  
+  
+I'm not excited about this proposal, because I think it is solving a problem
+that doesn't need solving yet, and my priorities for bitcoin continue to be
+wallet security and network stability, not making it quicker for newbie solo
+miners to get a full blockchain so they can start validating
+transactions/blocks.  
+  
+

@@ -1,0 +1,13 @@
+
+
+Quote from: genjix on March 10, 2011, 06:22:19 AM
+
+This was on the development roadmap,
+http://bitcointalk.org/index.php?topic=4170.msg60385  
+"design/implement a secure DNS-like "map string to bitcoin address" system (so
+I can send bitcoins to "gavin@acm.org")"  
+
+I had the impression the roadmap called for a BitDNS-like decentralized
+mapping system, since Gavin asked to map "strings" to addresses. Maybe I
+misunderstood.
+

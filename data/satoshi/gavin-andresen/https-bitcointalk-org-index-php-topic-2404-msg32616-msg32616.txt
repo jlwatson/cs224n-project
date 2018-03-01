@@ -1,0 +1,13 @@
+
+
+Quote from: theymos on December 23, 2010, 04:22:55 AM
+
+Two different transactions to the same address will have different txids (and
+possibly other info).  
+
+  
+I thought bitcoinex was asking about the weird multisend case, where there is
+one Transaction (so one txid), but two or more TxOuts with the same amount to
+the same address.  
+  
+

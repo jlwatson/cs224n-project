@@ -1,0 +1,36 @@
+
+
+Quote from: grondilu on December 12, 2010, 09:43:18 PM
+
+Quote from: jgarzik on December 12, 2010, 09:39:08 PM
+
+That generates a new address for new CGI script invocation (== each page
+view).  
+  
+An attacker, or just a popular web page, could fill your wallet with never-
+used addresses.  
+
+Well, a new address would only be generated on each visit of the "donate"
+page, not the main page. I don't think it would be that much space consuming
+on disk.  
+  
+Also, is there any other way to prevent public to know how much have been
+donated ?  
+
+  
+getaccountaddress is designed for exactly this kind of thing-- it will return
+the same address over and over, until it gets used (until somebody donates).
+After that, it returns a different address...  
+  
+Of course, if "the public" is grabbing the donation address off your "Donate
+to Us" page, they could generate a list of donation addresses, add up the
+donations received on all those addresses, and figure it out. Depending on how
+many donations you're getting that might be easy (scrape the page once per
+day) or hard (if you're getting dozens of donations per day).  
+  
+You could make it much harder for anybody to figure out how much you're
+getting in donations by randomly donating to yourself (using the same address
+returned by getaccountaddress), preferably from a wallet shared by lots of
+other people (like a MyBitcoin or Mt.Gox account)...  
+  
+

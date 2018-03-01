@@ -1,0 +1,9 @@
+
+
+tcatm's bitcoin-js-remote script gives you a "mybitcoin at home"
+functionality. Run the Bitcoin client and his code on your home machine, open
+up port 8338 incoming, and you can access your wallet remotely using your
+mobile browser. It even creates and reads QR-codes for easy phone to phone
+payments. You don't have to trust any third party service. Really this is such
+a great concept, I don't know why it isn't better known.
+

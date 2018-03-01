@@ -1,0 +1,8 @@
+
+
+I misunderstood the problem. I hadn't noticed that bitcoin addresses could be
+either 33 or 34 characters long, which is why the Faucet thought your initial
+address was invalid.  
+  
+I've fixed it.  
+

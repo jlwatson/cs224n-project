@@ -1,0 +1,30 @@
+
+
+Quote from: DeathAndTaxes on January 26, 2012, 06:45:41 PM
+
+There should be some deterrence in place for these cases of plain user
+dumbness.  
+
+  
+Let me count the ways:  
+  
+1\. You must explicitly choose a username and password; you must have enough
+tech know-how to find your bitcoin.conf directory or run with -rpcpasswrod=
+options.  
+  
+2\. If you choose a short password, then every failed access attempt DOES
+trigger a timeout.  
+  
+3\. You must explicitly tell bitcoin to listen for connections from IP
+addresses other than localhost, using the rpcallowip= option.  
+  
+4\. You must open a hole in your firewall that lets any arbitrary IP address
+through to your rpcport.  
+  
+I'm sorry you lost 75 bitcoins, but you really made a LOT of mistakes. Adding
+more layers of protection to the RPC interface isn't high on the development
+priority list, but if anybody wants to volunteer to keep track of number of
+failed RPC authentication attempts over time then be my guest and write a
+patch. Just be sure it isn't vulnerable to denial-of-service attacks by people
+deliberately generating failed login attempts.  
+

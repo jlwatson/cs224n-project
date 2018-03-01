@@ -1,0 +1,38 @@
+
+
+Quote from: piuk on November 27, 2011, 11:04:44 PM
+
+I agree that there are better optimisations that can be implemented first but
+I still think it might be worth discussing for the future. Can you see any
+obvious flaws in the proposal Gavin?  
+
+Ummm, yes.  
+  
+It seems to me miners will have an incentive to lie about the transaction
+ledger, and put fake ledger hashes in their blocks. Either so their
+transactions might be considered 'unspent' by unsuspecting nodes that trust
+them, or so that other miners that don't have the full block chain create
+invalid blocks (eliminate the competition!)  
+  
+And I don't see a proposal that everybody check the ledger and reject blocks
+that contain invalid ledger hashes.  
+  
+I also don't see what the ledger hash accomplishes. If you're going to trust
+some other node's version of unspent-transaction-reality, then you could just
+ask "send me the ledger state before (or after) the block with THIS block
+hash".  
+  
+But if you're going to trust one or more nodes anyway... then it seems to me
+sending an ever-increasing-in-size ledger is a bad way to get scalable. If
+size-of-full-blockchain becomes a problem before the mining pools and big
+exchanges/merchants/transactions processors all have transaction processing
+clusters with a terabyte of ram and petabyte hard drive array then I think
+extending the protocol to make it easy to request all transactions involved in
+a given Merkle branch will probably be the way to go.  
+  
+But before then I expect the bitcoin network will look very different from the
+way it looks today, and I expect there will be several different solutions for
+how to scale up. If (when!) Bitcoin gets that successful, there will be
+serious money hiring the same smart people who figured out how to scale up
+PayPal and Visa.
+

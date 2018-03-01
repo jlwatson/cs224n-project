@@ -1,0 +1,20 @@
+
+
+Quote from: asdf on October 12, 2011, 10:32:03 PM
+
+Is there some market based mechanism which will counter this behavior?  
+
+Thinking out loud:  
+  
+If miners (or other nodes) not relaying transactions starts to become an
+issue, "we" could write code to detect and discourage it.  
+  
+Detecting: the node says it is a full node but you get many fewer 'inv'
+messages from it compared to your other peers.  
+  
+Discouraging: you refuse to relay or build on any new-block messages that you
+get from that node.  
+  
+See https://github.com/gavinandresen/bitcoin-git/tree/discourageblocks for a
+framework for the 'discourage' part.  
+

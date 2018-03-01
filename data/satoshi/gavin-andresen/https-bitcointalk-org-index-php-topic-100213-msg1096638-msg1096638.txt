@@ -1,0 +1,12 @@
+
+
+Quote from: cbeast on August 12, 2012, 07:36:28 PM
+
+I would like step-by-step instructions for creating a Bitcoin escrow. Can
+someone please walk me through an escrow  
+
+  
+I wrote up a step-by-step guide for secure two-person cold-storage escrow
+using the new 'raw transactions' api:  
+https://gist.github.com/3161162  
+

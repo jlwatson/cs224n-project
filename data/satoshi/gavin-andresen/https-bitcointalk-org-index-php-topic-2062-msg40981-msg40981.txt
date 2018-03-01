@@ -1,0 +1,22 @@
+
+
+What version of gcc are you using? After a little googling I found this thread
+about the same issue:  
+
+Quote
+
+Quote
+
+CPUID returns information in eax, ebx, ecx, and edx. With -fPIC you have to
+push ebx onto the stack before calling cpuid and pop it afterward as Bin
+points out is what the patch to xen-unstable does.  
+
+The compiler used to generate the push/pop just fine for gcc-3.3. This is an
+issue specific to gcc-3.4.  
+
+  
+Unless somebody volunteers to fix/maintain this, I'm inclined to simply remove
+all of the "try to make the CPU miner go faster" optimizations from bitcoin.
+CPU mining is, for most people, a waste of electricity.  
+  
+

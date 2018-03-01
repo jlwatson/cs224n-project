@@ -1,0 +1,12 @@
+
+
+Quote from: Bitsky on November 07, 2011, 08:58:16 PM
+
+Perhaps it would be possible to compile it the way Luke-Jr did? His rc1 ran
+fine on W2k. He mentioned only minor makefile changes.  
+
+  
+Have you tried running rc3 on W2k? I don't have a W2k machine to test on (I
+did sanity test rc2 on XP SP3), but I don't know of any reason it would fail.  
+  
+

@@ -1,0 +1,7 @@
+
+
+I haven't tested my 'master' bitcoin-git branch in a while, I wouldn't be
+surprised if the new 'accounts' code in the subversion tree broke something.  
+  
+Which not-in-subversion features are you using?  
+

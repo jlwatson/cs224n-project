@@ -1,0 +1,13 @@
+
+
+SVN rev 166 (bitcoin version 0.3.13.4) implements secure incoming SSL JSON-RPC
+connections to bitcoind or bitcoin -server on Linux and OSX.  
+  
+I've created a wiki page with detailed instructions on how to configure
+bitcoin.conf for SSL JSON-RPC connections.  
+  
+SSL support is enabled at compile time with the USE_SSL #define, and is not
+enabled in the Windows makefiles because I'm told there are... issues...
+compiling full OpenSSL libraries on Windows (core bitcoin uses the openssl
+libcrypto library, this change requires the full libssl library).  
+

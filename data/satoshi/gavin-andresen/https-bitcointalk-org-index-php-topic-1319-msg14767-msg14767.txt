@@ -1,0 +1,5 @@
+
+
+I should have been clear: this **is** a patch against the latest 'vanilla'
+svn.
+

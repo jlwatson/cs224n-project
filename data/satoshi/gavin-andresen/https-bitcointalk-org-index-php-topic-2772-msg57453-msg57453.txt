@@ -1,0 +1,11 @@
+
+
+Quote from: genjix on March 01, 2011, 09:35:40 AM
+
+Why not keep an up-to-date TODO list of small tasks for new developers to get
+mucked into? A launchpad.  
+
+  
+Good Idea. You should do that. Maybe marking issues at github with a
+"Launchpad" tag would be a good system?  
+

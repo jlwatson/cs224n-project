@@ -1,0 +1,13 @@
+
+
+This is how I understand transaction fees to work:  
+  
+\- the client offers a fee by creating a tx with a "surplus", ie. the input
+amount is greater than the output amount  
+  
+\- when a miner creates a block he can create a transaction paying himself up
+to 50 btc plus the sum of all the tx fees in the block  
+  
+The miner doesn't have to pay himself that much but the tx fees are lost
+anyway.
+

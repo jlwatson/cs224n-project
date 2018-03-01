@@ -1,0 +1,8 @@
+
+
+Your second client hasn't downloaded all the blocks yet (according to the
+screen snapshot).  
+  
+When it has, it will be able to verify that the send transaction is valid, and
+will update your balance there.  
+

@@ -1,0 +1,10 @@
+
+
+I started working through a GUI design for secure multi-device wallets a
+couple months ago:  
+https://moqups.com/gavinandresen/no8mzUDB/p:afbbfb850  
+  
+But to be secure, I think we need the payment protocol first, because
+otherwise an attacker can simply replace the bitcoin address given to the
+first device and trick you into paying them.
+

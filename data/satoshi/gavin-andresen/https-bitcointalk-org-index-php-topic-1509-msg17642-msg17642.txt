@@ -1,0 +1,21 @@
+
+
+Bitcoin version 0.3.13.05 (svn revision 168) adds the -testnet option to
+bitcoin/bitcoind, for testing or experimentation with worthless bitcoins on
+the TEST payment network.  
+  
+This version is compatible with my old compile-time test network patch. Stuff
+you aught to know as you run this:  
+  
+
+  * A -testnet bitcoin will use the same bitcoin.conf file as regular bitcoin (unless overridden with the -conf= switch).
+  * The -testnet data directory is a "testnet" subdirectory in the regular data directory.
+  * A -testnet bitcoin listens for connections on ports 8333/8332, just like regular bitcoin, so you _cannot_ run both -testnet and regular bitcoin at the same time on one machine.
+  * You can get play bitcoins from the TEST faucet at https://freebitcoins.appspot.com/TEST/
+  * testnet bitcoin addresses will not work on the regular bitcoin network, so it is impossible to accidently try to send real bitcoins to test address. However, regular bitcoin addresses _are_ valid testnet addresses; it is possible to try to send testnet bitcoins to a regular bitcoin address (they will effectively be lost if you do that).
+
+  
+This will be very useful for anybody creating a web-based bitcoin service. You
+should be able to run bitcoind with the -testnet switch and no code changes to
+test your service with pretend, instead of real, bitcoins.  
+

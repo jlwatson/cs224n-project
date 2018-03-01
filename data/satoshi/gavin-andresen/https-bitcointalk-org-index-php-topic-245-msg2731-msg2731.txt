@@ -1,0 +1,10 @@
+
+
+Yeah, that would be a good problem to have.  
+  
+Why would they mess around with the block chain, though? Are you imagining the
+men in black double-spending enough Bitcoins to make merchants think it is
+untrustworthy? ("I shipped 100 computers to Langley, Virginia when the
+transaction had six confirmations, and now there's a new block chain that says
+those coins were paid to somebody else!!!")  
+

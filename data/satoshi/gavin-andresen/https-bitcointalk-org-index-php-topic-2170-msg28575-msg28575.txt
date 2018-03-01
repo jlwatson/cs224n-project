@@ -1,0 +1,10 @@
+
+
+Can you change the username/password in the authentication and then have it
+POST to:  
+http://gavinpostbin.appspot.com/pwbba8  
+  
+... so I can see all the headers/etc ? You're probably not sending what you
+think you're sending...  
+  
+

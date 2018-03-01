@@ -1,0 +1,6 @@
+
+
+This is why I think the so-called "stable" backports are a bad idea. I want
+people to spend time finding and fixing bugs in 0.6.2, and I want people to
+realize that the core developers are not supporting older releases.  
+

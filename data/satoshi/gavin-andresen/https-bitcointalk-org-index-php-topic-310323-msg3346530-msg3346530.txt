@@ -1,0 +1,10 @@
+
+
+Great idea!  
+  
+If implemented, it would probably make sense to create a little protocol for
+the server and client to negotiate the amount of storage needed to "rent" a
+connection slot. Maybe the server reports something like "I've got 0 slots
+free, min/median/max proof-of-storage for my other connected nodes is
+0/1MB/11MB."  
+

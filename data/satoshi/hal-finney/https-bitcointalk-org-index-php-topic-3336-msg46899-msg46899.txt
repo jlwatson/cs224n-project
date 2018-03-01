@@ -1,0 +1,29 @@
+
+
+I would focus on two ideas:  
+  
+How are bitcoins created?  
+  
+Everyone on the network competes to be the first solve a computationally hard
+puzzle. The winner is rewarded with 50 new bitcoins. Puzzle difficulty is
+automatically adjusted so it takes about ten minutes to get a solution,
+creating a slow, manageable increase in the supply of bitcoins. The 50 bitcoin
+reward gets halved every four years, so the total number of bitcoins that will
+ever be created stays under 21 million.  
+  
+How are bitcoins transferred?  
+  
+Bitcoins are associated with cryptographic public keys controlled by the
+person who owns them. To transfer them to someone else (i.e. to make a
+payment) he broadcasts on the Bitcoin network a digital signature identifying
+the bitcoins he is transferring, along with the public key of the new owner.
+This information is stored in a distributed database maintained by the Bitcoin
+network that records the public keys that own every bitcoin. Bitcoin software
+validates the digital signature and updates the database to record the new
+owner of the bitcoins. He will then be able to transfer them to someone else
+in the future.  
+  
+  
+Note that I am not trying to explain how these two ideas are connected, via
+the block chain. That's just too hard to get across quickly.
+

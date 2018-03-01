@@ -1,0 +1,12 @@
+
+
+Quote from: Luke-Jr on December 02, 2011, 12:42:11 AM
+
+Hmm, does it also ignore the block? I wonder if it's maybe possible to merge
+this WITHOUT the banning part?  
+
+Yes, it ignores the block.  
+  
+Pulling out just the detect-too-low-difficulty-blocks parts wouldn't be
+terribly hard.
+

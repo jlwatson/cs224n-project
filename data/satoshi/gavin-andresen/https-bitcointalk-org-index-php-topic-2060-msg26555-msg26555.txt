@@ -1,0 +1,26 @@
+
+
+I just checked in a minor bug fix / cleanup.  
+  
+The bug: boolean options/flags were being treated inconsistently. If you
+specified -gen=0, that meant (and still means) "do not generate." But
+specifying -testnet=0 did the opposite of what you might expect.  
+  
+Now all boolean flags behave the same way; for example:  
+-gen : means generate  
+-gen=1 (or gen=1 in bitcoin.conf): means generate  
+-gen=0 (or gen=0 in bitcoin.conf): means do not generate  
+  
+... and if you don't specify the option at all, that means "don't."  
+  
+ **Check your bitcoin.conf file!** If you are using anything beside "0" and
+"1" for boolean options, you need to change. I had:  
+  
+
+Code:
+
+rpcssl=true # THIS IS WRONG!
+
+  
+... in one of my bitcoin.conf files. The correct syntax is rpcssl=1  
+

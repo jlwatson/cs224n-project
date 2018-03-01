@@ -1,0 +1,61 @@
+
+
+So I've been thinking...  
+bitcoin mining seems like such an unfortunate side effect of the system since
+it is so wasteful. It will be a bit obscene how much will be spent mining if
+the network ever gets large. It would be cool to come up with a bitcoin that
+doesn't need miners.  
+  
+There are several issues but Ill ignore how coins are distributed and focus
+on the central problem of creating some way to trust the central ledger*.  
+Currently this is what mining solves. The network trusts the ledger with the
+most mining done on it. So now to trust bitcoin you have to trust that >50% of
+the current mining power is "good". And actually the way the network has
+evolved with pools we are actually trusting that every large pool operator is
+good since even if the pool isnt over 50% the operator could have non-pool
+mining going on bringing the total over 50% or two pools could collude to
+defraud the network etc. Also if say some government decides to wreck the
+network it wouldnt be that expensive for them to do so. (This is all
+discussed in other threads so no need to go into this here) My point is that
+although the current network uses mining as a way to solve the trust issue it
+really doesnt since you still must trust the large pool operators.  
+  
+My idea is to make this issue of trust explicit.  
+  
+Lets say a **node** has a public key that the client generates for them.
+There is no connection between this key and a wallet key. It just allows you
+to be sure you are talking to the node you think you are.  
+  
+So when you run a node you choose which other nodes you trust. So you could
+say I trust my 3 friends nodes, Gavins node, and these 5 businesses
+nodes. This trust just means that you believe these people will never
+participate in a double spend attack or otherwise manipulate the ledger.  
+The ledger would basically be like the current bitcoin block chain but it
+would also have a list of what nodes believe the current ledger to be valid.
+<hash of current ledger signed by nodes public key> (This list doesnt have
+to be complete. Nodes can just collect this list as needed. They could even
+just ask the nodes they trust if they think the current ledger is valid since
+those are the only ones they care about)  
+  
+Transactions are still sent to all nodes connected to the network. There would
+be a network wide timestamp. Transactions would only be accepted if they were
+within a certain time period of the network timestamp. So you would need to
+wait maybe 10min before you could fully trust a given transaction. After this
+waiting period you could be sure those coins werent double spent.  
+  
+If a node ever encounters two conflicting ledgers it would just go with the
+one that was validated by more nodes that it trusts.  
+  
+So there should always be a consensus among the trusted members of the
+network.  
+  
+There would be a way to look up particular nodes in the network and ask them
+questions. (Im imagining this whole thing running on Kademlia, a DHT)  
+  
+So obviously this is still vague because I haven't had time to work out all
+the details. Im hoping someone else will be inspired.  
+  
+ok rip into it!  
+  
+*(I guess you could try to come up a way to get rid of the central ledger but I have a feeling that might not be possible)
+

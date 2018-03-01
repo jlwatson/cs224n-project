@@ -1,0 +1,13 @@
+
+
+Very good point about the genesis block.  
+  
+Unfortunately, I'm not exactly sure HOW to generate a valid genesis block; I
+can tweak the data but need to generate a valid block hash... hmm, I see some
+time in gdb in my near future...  
+  
+RE: changing the protocol version: Good Idea, too. Every wire protocol message
+starts with the bytes '{ 0xf9, 0xbe, 0xb4, 0xd9 }', I'll tweak that in the
+TEST code so TEST and production clients can't talk to each other even if they
+manage to get connected.  
+

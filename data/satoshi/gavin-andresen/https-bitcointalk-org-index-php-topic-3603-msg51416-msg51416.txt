@@ -1,0 +1,24 @@
+
+
+Frankly, I'm not sure how I feel about this.  
+  
+I absolutely positively want more scrutiny of both bitcoin's source code and
+the underlying cryptographic concepts.  
+  
+However, I don't think offering a token amount of money (even in the form of
+bitcoins) is appropriate.  
+  
+A real, professional security review of bitcoin would take a lot of time and a
+lot of money. I understand that's not what is being asked, but asking Mr.
+Schneier to write about bitcoin is really an irrational "Appeal to Authority"
+-- I think he'd say that any cryptography-related technology is never proven
+secure, but only gains trust by having multiple people and groups of people
+look at it, imagine potential attacks, try to attack it, etc.  
+  
+Or, in other words, if he writes an article about bitcoin now I think the
+summary would be "interesting new technology, doesn't appear to be a scam,
+worth keeping an eye on." I think he'll write that article soon without any
+prompting from "the bitcoin community," just given the level of buzz bitcoin
+is generating the last month or two. I don't think a few hundred bitcoins will
+motivate him to write the article any sooner.  
+

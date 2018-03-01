@@ -1,0 +1,20 @@
+
+
+Quote from: Jim Hyslop on March 25, 2011, 12:10:15 AM
+
+I see why everyone's so confused about what I'm trying to discuss. I just
+realized the nVersion parameter to Serialize, GetSerialSize, and Unserialize
+is tied to the VERSION macro, and is basically a constant.  
+
+This is not quite right, but the code is pretty spread out. Generally
+un/serialization is done by the operator<< and operator>> methods of
+CDataStream in serialize.h. We do CTransaction tx; vRecv >> tx; to read a
+transaction object; or vSend << a1; to send something of template class a1 (in
+PushMessage in net.h).  
+  
+The << and >> methods in CDataStream call Serialize() or Unserialize(), which
+do default the nVersion parameter to VERSION. But in these calls the default
+is not used, they pass the nVersion instance variable of CDataStream. And this
+instance variable is set to the min of the node and peer version, e.g. in the
+code I showed above.
+

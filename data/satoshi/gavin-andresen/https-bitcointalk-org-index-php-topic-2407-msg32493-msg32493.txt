@@ -1,0 +1,16 @@
+
+
+Quote from: creighto on December 22, 2010, 04:42:40 AM
+
+A blockchain index? Doesn't the vanilla client index the blockchain for itself
+already?  
+
+  
+Yes, that is exactly what the blkindex.dat file is.  
+  
+wallet.dat contains "extended dance mix" versions of all the transactions you
+care about (all of "your" receives/sends). Those are loaded into memory at
+startup (and then kept up-to-date as new transactions are seen), so
+calculating "your" balance is quick (just scan through all wallet transactions
+in memory and total them up).  
+

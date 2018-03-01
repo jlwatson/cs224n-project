@@ -1,0 +1,16 @@
+
+
+What happens if:  
+  
+\-- you dump a private key from bitcoin client 'A'  
+\-- shutdown A  
+\-- import it into bitcoin client 'B'  
+\-- spend it from B  
+... wait for a confirmation or three...  
+\-- restart A  
+  
+Does A notice that the coin's been spent? I think there's a bug that it does
+not, and I think that bug needs to be fixed before we make it easy to
+export/import private keys. So, please bang on sipa's patch and see if
+anything else breaks!  
+

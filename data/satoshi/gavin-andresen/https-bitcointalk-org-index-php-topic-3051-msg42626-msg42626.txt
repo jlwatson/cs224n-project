@@ -1,0 +1,16 @@
+
+
+Difficulty on the -testnet is annoyingly high. I propose resetting the
+-testnet with a new genesis block, and changing the -testnet rules for
+difficulty adjustment as follows:  
+  
+1\. Adjust difficulty on the testnet every 126 blocks (1/16'th the regular net
+adjustment).  
+2\. Keep the "difficulty can adjust up at most *4", but remove the limit on
+how quickly difficulty can adjust down. Minimal difficulty would remain the
+same.  
+  
+Unless I hear howls of protest or better ideas, I'll generate a genesis block
+and submit a pull request with the changes. I won't switch the -testnet faucet
+to the new chain until we've got 0.3.20 release candidate builds out.  
+

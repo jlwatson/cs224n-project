@@ -1,0 +1,11 @@
+
+
+RE: pulling the wallet private key encryption ASAP: Agreed 100%  
+  
+I wanted to start discussing split keys now because if we need a new standard
+transaction type then it is best to do that in stages-- let clients relay, and
+miners include in blocks, the new transaction type. Then once most of the
+network will accept the new transactions, people can actually start USING
+them.  
+  
+

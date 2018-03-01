@@ -1,0 +1,33 @@
+
+
+Quote from: Vandroiy on April 22, 2011, 03:14:18 PM
+
+Consider for now, we're in the future, and miners only gain from transaction
+fees. I assume now that including a transaction is cheap, and generating a
+block is, in comparison, expensive. (Is that true?)  
+
+  
+Today, it costs the entire network something like $0.001 to process each
+transaction.  
+  
+The limiting factor is checking to see if the transaction is valid or not (the
+CPU cost of ECDSA signature verification). When the transaction volume gets
+high enough miners will have to start prioritizing which transactions they
+check, and they will use transaction fees as a quick initial check to see if
+they should invest CPU cycles to include transactions in a block. Yes, miners
+want to include as many transactions with fees as possible in their blocks,
+but it won't be economical for any miner or mining pool operator to include an
+infinite number of them.  
+  
+And speaking of mining pools... they are a lot more efficient than individual
+miners because they allow transactions to be verified once instead of
+requiring that all of the miners in the pool do that work. Very small miners
+will be driven to join a mining pool, and the big mining pools will be
+competing to have the lowest fees and highest payouts (and so will be
+optimizing their ECDSA verification code and will figure out which
+transactions are profitable and which aren't).  
+  
+So: I don't think bitcoin will have very few miners. I think it will have lots
+of miners connected to a smaller number of mining pools, and the whole system
+will optimize itself to be wonderfully efficient.  
+

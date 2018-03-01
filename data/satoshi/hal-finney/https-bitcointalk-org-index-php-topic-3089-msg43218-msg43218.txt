@@ -1,0 +1,8 @@
+
+
+Now I'm paranoid. I just tried to login to mtgox from my iPad and got an
+invalid certificate error. The issuer is certificates.godaddy.com. Has anyone
+else gotten this? I suspect it is a misconfiguration of the mtgox server a la
+http://blog.boxedice.com/2009/05/11/godaddy-ssl-certificates-and-cannot-
+verify-identity-on-macsafari/.
+

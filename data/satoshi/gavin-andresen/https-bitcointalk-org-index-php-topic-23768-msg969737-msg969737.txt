@@ -1,0 +1,18 @@
+
+
+Quote from: muyuu on June 17, 2012, 04:14:22 PM
+
+So it was SatoshiDice. I was wondering what had changed to make mining profits
+so noticeably worse despite difficulty being in previously experienced ranges.  
+
+Luke is guessing it is SatoshiDice, it might just be a run of bad luck.  
+  
+Or it might be a side effect of Eligius accepting non-standard transactions.  
+  
+Does Eligius include transactions that have not been transmitted/relayed to
+the rest of the network? If so, it might be a side effect of that (and if that
+isn't a side effect now, it might be in the future if Eligius blocks take
+longer to verify as other nodes need to fetch transaction inputs from disk,
+instead of already having them in cache memory like transactions that ARE
+transmitted/relayed).  
+

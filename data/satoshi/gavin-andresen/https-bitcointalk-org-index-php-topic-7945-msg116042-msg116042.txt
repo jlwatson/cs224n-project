@@ -1,0 +1,21 @@
+
+
+If I were going to implement it... hmm...  
+  
+I think I'd just special-case the genesis block, so it has a value out of, oh,
+I dunno, 20 million CompleCoins. Then maybe fix the mining reward to something
+small and constant (say 0.001 CompleCoin per block, forever-- or whatever you
+like).  
+  
+The central authority would create the genesis block, and so would have 20
+million CompleCoins that it could issue (aka spend) however it pleased.  
+  
+The risk would be the central issuer ever losing control of its wallet/private
+key. That risk could be mitigated a little bit by occasionally changing the
+key by spending all of the non-issued coins to a new address in a new, secure
+wallet somewhere and waiting a few blocks for confirmation.  
+  
+I'm having lunch today with somebody else who is interested in using bitcoin
+tech for a centrally issued alternative currency, so I've been thinking a bit
+about it...  
+

@@ -1,0 +1,14 @@
+
+
+Quote from: BitterTea on February 24, 2011, 03:16:57 AM
+
+Why? It's all the same thing, a group of private keys. If it needs to be more
+secure, require a password, biometric access, whatever. There's no good reason
+I can think of to distinguish between one keystore and another.  
+
+  
+Entering a password every time you want to send coins (or pulling out your...
+dongle... err, that didn't come out right, uhh, fetching your one-time-
+password-generating-device) might be annoying enough that withdrawing 50 or
+100 bitcoins that you can spend with minimal hassle would be a nice feature.  
+

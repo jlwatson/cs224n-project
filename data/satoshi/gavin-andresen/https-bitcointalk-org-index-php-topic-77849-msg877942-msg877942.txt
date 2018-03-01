@@ -1,0 +1,28 @@
+
+
+Quote from: Syke on April 29, 2012, 03:53:58 PM
+
+Quote from: CoinHunter on April 29, 2012, 04:30:34 AM
+
+So the more MicroCash you have the higher the percentage of the fees you get.
+It doesn't necessarily reward early adopters, it rewards people who have
+MicroCash.  
+
+MicroCash: Taking from the poor and giving to the rich.  
+
+Interesting.  
+  
+If I understand correctly, if an address has a greater-than-average amount of
+currency then it will get interest.  
+  
+Paid for by all the accounts with a less-than-average amount of currency.  
+  
+So there's an incentive for everybody to (try to) be above the average. That
+seems like a recipe for a lot of disappointed people, especially since a graph
+of size-of-account will have a long tail with of lots of little accounts.  
+  
+Making a half-thought-out-prediction, I'd say the end result would likely be
+one big centralized account controlled by the largest exchange with over 50%
+of the currency in it, because there would be a natural incentive to store
+your money in the biggest account so you get the most interest...
+

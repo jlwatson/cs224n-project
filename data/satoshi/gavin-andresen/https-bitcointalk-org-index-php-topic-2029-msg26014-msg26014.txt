@@ -1,0 +1,25 @@
+
+
+Quote from: grondilu on December 01, 2010, 08:40:34 PM
+
+Quote from: witchspace on December 01, 2010, 07:44:29 PM
+
+It's not the length of the message that is the problem in any way, at least
+with text. I mean, even taking into account bandwidth one doesn't care if a
+message is 5 bytes or 500 bytes. If it includes attachments, yeah it makes
+sense to penalize huge posts.  
+  
+
+  
+The size of a message is not a matter of bandwidth, but rather a matter of
+mind lazyness. If you read a long message just to realize at the end that it
+was just crap, then you can consider you got screwed. You would have prefer a
+shorter message.  
+  
+Therefore short messages has to be rewarded. Thus, to me it make sense to pay
+more for longer messages.  
+  
+
+  
+Excessive, lazy quoting (like this message!) should also be discouraged.
+

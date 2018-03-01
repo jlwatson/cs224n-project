@@ -1,0 +1,9 @@
+
+
+Q on the video:  
+  
+You received 1 btc, then before it was confirmed, made a payment of 0.1 btc.
+Was that payment real? When we cut to the future, the 1 btc tx had 2
+confirmations, but the 0.1 had none. Both txns could have been confirmed in
+the same block. Do you know why that didn't happen?
+

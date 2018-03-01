@@ -1,0 +1,26 @@
+
+
+I just uploaded pdf and KeyNote versions of the talk I gave at the CIA last
+Tuesday:  
+https://s3.amazonaws.com/gavinandresen-bitcoin/GavinAndresenCIATalk.pdf  
+https://s3.amazonaws.com/gavinandresen-bitcoin/GavinAndresen_Bitcoin.key  
+  
+I took questions in the middle, before I dove into the technical details. I
+was asked about whether or not I thought price instability would be a problem
+("yes, I'll talk about that later") and how/why I got involved.  
+  
+Later, at the panel discussion, I was asked a question that showed I need to
+do a better job of distinguishing bitcoin addresses and IP addresses. And I
+was asked if there were moral issues, since bitcoin can be used by criminals
+("I'm working on bitcoin because I think the potential benefits to the world
+are much, much greater than the costs.")  
+  
+The other speakers were from PayPal, Facebook Payments, M-Pesa, Heartland
+Payment Systems, and the Federal Reserve, so it was worth going just for the
+connections. Bitcoin is definitely the new kid on the block, and I presented
+it as such; not "bitcoin will take over the world" but "bitcoin is a very
+interesting experiment that could be world-changing if it works out."  
+  
+And now... there is plenty of work to be done, so I'm going to stop
+reminiscing about the good old days last week....
+

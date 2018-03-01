@@ -1,0 +1,27 @@
+
+
+It seems I touched a nerve when I said that getting better at playing a zero-
+sum game isn't a good way to make the world a better place.  
+  
+I was thinking of day-traders at the time; people who don't care what asset
+they're buying and selling but just try to buy low and sell high to make a
+profit. Or high-frequency traders who try to be just a tiny bit faster
+executing transactions to take advantage of tiny inefficiencies in markets.  
+  
+Probably I don't have a deep enough understanding of the value of liquidity in
+asset markets or a deep enough appreciation for their role in creating market
+prices, but it seems to me the world would get along just fine without them
+spending all their time and effort competing against each other.  
+  
+I wasn't thinking of competition in general as being a zero-sum game, because
+in general it is not. Competition drives efficiency, and efficiency (creating
+more by using less) is what makes the world a better place -- assuming that
+the thing you're making more efficient has a positive effect on the world.
+Competing to build the most efficient bomb or assault rifle is not a world-
+improving activity.  
+  
+To bring it back to Bitcoin: competition between Bitcoin miners is a zero-sum
+game _for the miners_ , but if you think that Bitcoin will make the world a
+better place (I do) then the competition to be more efficient at mining is a
+net positive for the world as a whole.  
+

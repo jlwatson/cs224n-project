@@ -1,0 +1,20 @@
+
+
+Straight Bitcoin isn't designed for really small transactions. If you're
+sending less than something like $1 worth of bitcoins, you should expect to
+pay 10% or more in fees. More if you're trying to send $0.10 or less.  
+  
+There is no magic fairy wand we can wave and make Bitcoin suddenly great for
+gazillions of tiny transactions; plan your businesses accordingly. As
+transaction volume increases, there will be more competition for space in
+blocks and fees are likely to rise.  
+  
+And please avoid filling your customer's wallets with "dust" that they'll pay
+huge fees to spend; a payout should be at least a couple of cents, not a
+fraction of a penny. I think there is pretty good consensus among the core
+developers that sooner or later we'll make "dust" outputs non-standard, so
+they are not relayed or mined by default (details to be worked out, we need to
+implement a good algorithm for auto-adjusting the definition of "dust").  
+  
+  
+

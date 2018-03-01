@@ -1,0 +1,63 @@
+
+
+MemoryDealers.com is proud to announce a free new Bitcoin service!  
+  
+BitcoinChipin.com  
+  
+  
+  
+  
+  
+BitcoinChipin will allow anyone to easily make a widget to raise funds for
+anything they like.  
+  
+The site is in Beta, but should be fully functional.  
+  
+Please report bugs or request features in the thread below.  
+  
+Features that will be added soon:  
+  
+1) User defined size and shape for the widget  
+Supported sizes of:  
+120x60px  
+125x125px  
+120x240px  
+160x250px  
+220x220px  
+234x60px  
+250x250px  
+  
+2) A public statistics page  
+  
+3) User can choose Flash or Java Script based widget  
+Specifically tested for use with:  
+MySpace,  
+TypePad,  
+Widgetbox,  
+Blogger,  
+hi5,  
+blogigo,  
+Frappr,  
+Friendster,  
+Google,  
+myYearbook,  
+Netvibes,  
+Piczo,  
+TagWorld,  
+WordPress,  
+Xanga,  
+ModX,  
+DotNetNuke,  
+Joomla,  
+Drupal,  
+Facebook  
+Other (general HTML support)  
+  
+4) User will be able to modify existing widgets  
+5) User will be able to set start and end dates for a widget  
+6) User will be able to make multiple widgets from one Bitcoin address  
+7) Your suggestion here.  
+  
+  
+Please start using www.bitcoinchipin.com today!
+

@@ -1,0 +1,17 @@
+
+
+Quote from: FreeMoney on July 20, 2010, 01:40:11 PM
+
+What happens in those few seconds if the coin was double spent? Are you
+notified before the next block comes in?  
+
+I'm not personally notified, no...  But if I have a Bitcoin client connected
+to the network then yes, it (along with all the other connected clients)
+should be sent every transaction shortly after they happen. It has to-- it
+might be generating blocks, and the whole point of block generation is to
+record the valid transactions the client has seen that haven't been included
+in a previous block.  
+  
+There's a discussion in this thread of how likely it is that an attacker could
+"split the network" to successfully double-spend coins.  
+

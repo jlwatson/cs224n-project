@@ -1,0 +1,46 @@
+
+
+Start of the security analysis  
+  
+bcflick is a Flicker PAL (Piece of Application Logic) designed to increase the
+security of the Satoshi Bitcoin client. Flicker uses security features on
+modern processors to create an isolated, cryptographically protected segment
+of memory which is immune to tampering by other code running on the same
+computer. These security features go by different names depending on the
+manufacturer. Intel calls it TXT, while AMD calls it SVM. I will refer to it
+here simply as the secure mode.  
+  
+The threat model which bcflick is designed to address is a thorough infection
+by sophisticated malware. It is assumed that the attacker can corrupt the
+operating system, install key loggers, read and write files and network
+traffic, and generally exert arbitrary control over the computer. Despite this
+powerful attacker, bcflick lets the user spend and receive bitcoins, and
+enforces a daily limit on the number of bitcoins spent. The attacker, as well
+as the user, is bound by that limit. This prevents the attacker from stealing
+the bitcoins all at once. He is forced to let them trickle out a little at a
+time, giving the user a chance to detect and mitigate the theft.  
+  
+Although this is a powerful attacker, we have to restrict its capability is
+one way. We assume that there is some way to boot into a "safe" mode, out of
+the control of the attacker. Typically this would be done by booting from an
+external medium, a CD or a USB drive. Technically, sophisticated malware can
+insinuate itself into even a boot from a clean medium, by inserting itself
+into the firmware of some peripheral device, or even the BIOS. However, these
+techniques are little used and hardware dependent. In practice, booting from a
+clean external device will produce a safe mode with high probability.  
+  
+bcflick uses the safe mode for three purposes. On initialization, the wallet
+is encrypted, and the decryption key is passed to bcflick, along with the
+daily spending limit. It is also used for error recovery, such as if the TPM
+timer gets reset, or if a Flicker crash gets things out of sync. By booting
+into safe mode, the user can reset the passphrase, and that will reinitialize
+bcflick. Last, if the user wants to spend more than the bcflick policy
+permits, he can boot into safe mode, unlock the wallet with the passphrase,
+and create arbitrary transactions, bypassing bcflick.  
+  
+The remainder of this document discusses the security design of bcflick. It is
+dived into four parts. I first list the security assumptions. The second part
+addresses security related to Flicker and the secure mode. The next part
+discusses Bitcoin related security. Finally, I conclude with further
+directions for research.  
+

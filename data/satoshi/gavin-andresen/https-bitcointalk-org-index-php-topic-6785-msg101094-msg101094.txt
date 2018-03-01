@@ -1,0 +1,29 @@
+
+
+Quote from: jav on April 30, 2011, 09:38:12 AM
+
+Quote from: doood on April 29, 2011, 03:10:09 PM
+
+This instant deposit feature is great, but you might want to wait until the
+funds clear before letting people withdraw it back out again.  
+
+  
+I thought this wouldn't be an issue, but I'm not so sure anymore. I use the
+"account" feature of bitcoind and every wallet has its own account. My
+understanding was, that this will mean that the coins being sent are limited
+to the account as well. In that case it doesn't matter if the funds end up not
+confirming, because it will also invalidate the withdraw transaction. But
+maybe bitcoind uses coins from other accounts as well sometimes? Has someone
+here more insight into this?  
+
+  
+It is definitely an issue-- the account code doesn't keep track of where the
+coins it is sending out came from, so if you accept 0-confirmation coins
+you're vulnerable to double-spending attacks (see, for example, the discussion
+of the "Finney attack" in these forums).  
+  
+Seeing coins show up right away is a fantastic feature, though, so I'd suggest
+getting the 0-confirmation balance and a 3+-confirmation balance, allowing
+only 3+ confirmed coins to be withdrawn, and displaying the difference as
+'waiting confirmation'.  
+

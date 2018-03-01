@@ -1,0 +1,16 @@
+
+
+Quote from: kano on October 11, 2011, 11:09:02 AM
+
+The next version of bitcoin allows for it and my request to remove merged
+mining from git was rejected.  
+
+  
+kano, you seem to be under the mistaken impression that I am King of Bitcoin.  
+  
+I told you that if you don't like the getmemorypool RPC method, you would need
+to gain consensus either on the Dev&Tech section of these forums or the
+bitcoin-dev mailing list. That's how bitcoin works-- rough consensus, not
+"submit requests to the King" or "petition the Central Committee."  
+  
+

@@ -1,0 +1,10 @@
+
+
+Oops.  
+  
+My fault-- I DID test downloading the entire production block chain with a
+0.3.20 client, but I wasn't careful to make sure I downloaded it from another
+0.3.20 client.  
+  
+Workaround: if you are running 0.3.20, run with -maxsendbuffer=10000  
+

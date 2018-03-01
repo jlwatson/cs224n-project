@@ -1,0 +1,15 @@
+
+
+> How will resetting of passwords be arranged?  
+  
+All passwords will be disabled and you will have to reset your password with
+the email on file. If no email is on file then it will be handled manually.  
+  
+> How was the list with accounts stolen? Was this through a SQL injection?  
+  
+We are still investigating.  
+  
+MyFarm:  
+Yes the site won't be back online until we are certain there are no other
+exploits.
+

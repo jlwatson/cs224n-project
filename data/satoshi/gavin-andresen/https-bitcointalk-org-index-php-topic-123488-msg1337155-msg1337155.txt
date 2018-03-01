@@ -1,0 +1,25 @@
+
+
+Quote from: MatthewLM on November 09, 2012, 03:01:56 PM
+
+I am currently studying Enterprise Development BA at the University of
+Huddersfield and I have a very exciting business idea for bitcoin that would
+make use of cbitcoin.  
+
+So... please don't take this the wrong way, but what's your prior experience
+creating and shipping high-quality software?  
+  
+I ask because re-implementing Bitcoin as a first "software-people-other-than-
+myself-are-going-to-use" project is a really bad idea, I don't see any list of
+previous work at the RocketHub page, and the 9,000 lines of code you've
+already written doesn't look like the work of somebody who has professional
+software development experience (e.g. no makefile/build system ...).  
+  
+Maybe you're a prodigy and will get it right the first time, but you're
+already at 'cbitcoin 2.0' because you weren't happy with how 'cbitcoin 1.0'
+was turning out. See the solidcoin/microcash saga for an example of how over-
+promising "1.0/2.0/3.0" releases destroys confidence.  
+  
+And maybe you CAN point to some other successful software you wrote and
+shipped when you were 17, in which case I'll shut up and leave you alone.  
+

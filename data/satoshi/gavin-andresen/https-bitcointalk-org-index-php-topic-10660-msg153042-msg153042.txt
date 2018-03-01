@@ -1,0 +1,10 @@
+
+
+Bitcoin isn't suited for transactions worth less than about one US penny-- it
+wasn't designed or intended for lots of micro-transactions.  
+  
+That said, building a micro-transaction system on top of bitcoin is certainly
+possibly (see witcoin or youtipit for some examples-- or see the way the
+Bitcoin Faucet is handling payments recently, bundling up lots of small
+transactions to send them without paying outrageous fees).  
+

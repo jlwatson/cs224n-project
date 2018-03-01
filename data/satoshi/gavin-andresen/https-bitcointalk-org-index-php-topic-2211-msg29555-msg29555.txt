@@ -1,0 +1,17 @@
+
+
+Quote from: davout on December 12, 2010, 10:21:42 PM
+
+Maybe I'm missing something here, but I'm confused... How would getting
+knowledge of a public key be even remotely dangerous ?  
+
+  
+If the hashing algorithms are broken I might be able to generate an ECDSA
+private/public key pair where the public key hashes to the same bitcoin
+address as one of your public keys.  
+  
+If I can do that, then I can spend your coins.  
+  
+On my list of things to worry about, this is just below "Asteroid impact
+destroys the earth" (but above "Aliens invade and make me their slave").  
+

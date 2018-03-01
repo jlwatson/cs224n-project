@@ -1,0 +1,23 @@
+
+
+How do you think the code should deal with the issue of "a fixed txid might no
+longer be valid" ? Or transactions that you THOUGHT had N confirmations and
+were in a block with timestamp T are re-organized to have M confirmations and
+are in a block with timestamp T2 ?  
+  
+tcatm and I chatted in IRC about this problem-- he has the problem of how to
+keep the Javascript GUI (which shows you ever transaction) up-to-date.  
+  
+Seems like you really want an efficient way of asking "Do I know about exactly
+the same set of transactions as bitcoind" (either for the entire wallet or for
+an account). That's assuming transaction data can't change (somebody double-
+check that assumption for me-- if the transaction data changes, then the txid
+changes... I think).  
+  
+That led to some brainstorming of computing a hash of all transaction ids
+(maybe just XOR them all together). Or maybe something more complicated like a
+merkle tree... but that seems like overkill.  
+  
+Is there a good, simple solution to synchronizing "I have this set of stuff,
+give me everything I don't have" ?
+

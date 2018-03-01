@@ -1,0 +1,20 @@
+
+
+Quote from: davout on November 03, 2010, 07:07:45 PM
+
+So, what happens if they go rogue ? (protip: satoshi is a human being)  
+If the SVN repo gets hacked ?  
+
+  
+If Satoshi goes rogue, then the project forks. He has a very strong incentive
+(success of the project, growth of the value of the bitcoins he owns) not to
+do that.  
+  
+If the SVN repo gets hacked, then we back out the hacked changes (that's easy
+to see; several of us look at every svn commit) and warn people who might have
+compiled with bad source to recompile.  
+  
+I'm having trouble figuring out exactly what you would like to happen-- is
+your complaint that you have a different definition of what "open source,
+peer-to-peer" means than the rest of us?  
+

@@ -1,0 +1,7 @@
+
+
+I love that it works on my iPad - a lot of charting services don't.  
+  
+In the top right corner, the difficulty value is overwritten by the current
+Dte and time.
+

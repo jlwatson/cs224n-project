@@ -1,0 +1,5 @@
+
+
+This doesn't affect Bitcoin at all, because the ECDSA algorithm that Bitcoin
+uses does not use pairs of prime numbers to do it's thing.  
+

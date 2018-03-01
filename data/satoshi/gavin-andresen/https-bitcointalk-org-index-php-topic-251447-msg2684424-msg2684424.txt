@@ -1,0 +1,12 @@
+
+
+The problem is that there is a mismatch between the criteria used to accept a
+transaction into the memory pool / relayed and the criteria most miners use to
+choose transactions for their blocks.  
+  
+The fix is not conceptually hard; just modify the memory pool code so the
+memory pool is treated like it is an extra-large block, and only relay/store
+the transactions that are likely to be mined in the next few blocks.  
+  
+That hasn't been implemented yet because it just hasn't been a high priority.
+

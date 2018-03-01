@@ -1,0 +1,22 @@
+
+
+RE: Mac builds: what BlueMatt said. Despite using a Mac as my development
+machine, I am not a Mac developer-- I'm an old Unix developer at heart. I
+learned enough Windows "Win32-api" programming to create a couple of products,
+and I know a lot about web development, but I'm a newbie when it comes to
+making applications for the Mac.  
+  
+RE: wallet encryption: I want encryption of wallet private keys (requiring you
+to enter your password to send coins) to be part of the next release, and I
+think that is a big enough feature to bump the next release version to "0.4".  
+  
+RE: x86-64 client: for the Windows? or for Linux? 32-bit should work find on
+64-bit Windows, there's no real reason to do a 64-bit version. For Linux,
+there should be a bitcoin in bin/64/  
+  
+RE: bitcoind not forking by default any more: yes, that is intentional, and I
+forgot to mention it in the release notes. When the mac binary is done I'll
+update the README. Run bitcoind -daemon (or put daemon=1 in the bitcoin.conf
+file) and you'll get the old behavior.  
+  
+

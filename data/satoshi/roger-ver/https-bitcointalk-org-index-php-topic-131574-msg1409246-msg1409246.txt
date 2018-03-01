@@ -1,0 +1,29 @@
+
+
+Quote from: HostFat on December 19, 2012, 02:35:53 PM
+
+Quote from: MemoryDealers on December 19, 2012, 02:30:50 PM
+
+  
+This is **NO PASSWORD RESET** for Blockchain.info  
+  
+If you have a secure password, your money is safe no matter what.  
+  
+Otherwise I could have reset your password and taken the money you owe me.  
+  
+
+Can you contact another admin of blockchain.info and acting as someone else
+that wants back his own wallet? (and giving the secretpass)  
+If this is an open possibility, than it's better to find a way to make it
+harder or better impossible.  
+  
+
+  
+ **This is not possible.**  
+  
+There is no way for an admin or anyone else in the entire world other than
+someone who knows the current password to change the password.  
+If you kept your password a secret, then no one else in the entire world has
+access to the funds in your blockchain wallet.  
+  
+

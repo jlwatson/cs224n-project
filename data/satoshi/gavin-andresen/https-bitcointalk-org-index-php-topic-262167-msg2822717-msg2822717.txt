@@ -1,0 +1,12 @@
+
+
+How big is your wallet?  
+  
+getbalance() is O(N) where N is the total number of transactions in the
+wallet. (actually, it can be even worse than O(N) if you have long chains of
+unconfirmed transactions in your wallet)  
+  
+"Patches welcome" to fix that, I expected one of the big bitcoind-using
+services would submit a performance fix patch long ago.  
+  
+

@@ -1,0 +1,9 @@
+
+
+Yes, mathematically approximately zilch.  
+  
+... unless the OpenSSL entropy-gathering code on your computer isn't working
+properly, so bitcoin's random-key-generating code doesn't work (we use OpenSSL
+to get good random numbers). That is a bigger worry, but happily lots of
+people have been reviewing that code for years.
+

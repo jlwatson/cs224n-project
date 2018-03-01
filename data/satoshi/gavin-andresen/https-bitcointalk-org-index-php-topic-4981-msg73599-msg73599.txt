@@ -1,0 +1,22 @@
+
+
+Quote from: caveden on March 27, 2011, 04:38:56 PM
+
+If this backward incompatible change will have to be done one day, why not
+make it only once (by setting an automatic adjustment rule), and why not
+considering making it now, while it's still easy?  
+
+  
+Patches welcome.  
+  
+But be aware that any patch that is vulnerable to denial-of-service attacks
+will be rejected, and I can't think of a way to automatically adjust the block
+size that wouldn't be vulnerable to some big, anti-social miner (think "jerk
+with a botnet") deciding it would be fun to artificially drive up transaction
+volume, drive up the block size, and create a few gigabytes of worthless
+blocks we all get to download forevermore.  
+  
+When we get close to bumping into the block size limitation it will be _easy_
+to convince a majority of the network to upgrade-- that's one problem that is
+obvious and easy to fix.  
+

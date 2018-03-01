@@ -1,0 +1,35 @@
+
+
+Quote from: casascius on March 18, 2012, 07:29:44 AM
+
+The more I think about it, the more I realize that this workflow is possible
+without P2SH: it's also possible with simple elliptic curve multiplication.
+Smartphone generates a stream of key A's from a seed, computer generates a
+stream of key B's, and given the public keys from the smartphone, the computer
+can generate the public key for C, which is used as the receiving address.
+Recovery remains the same: two seeds instead of one.  
+
+  
+How are signatures created when the phone or computer needs to spend some
+coins?  
+  
+I'm told it IS possible to break a single ECDSA key in half and then have a
+complete signature generated without either device ever knowing the entire
+key, but, if I recall correctly, the solution involves several communication
+round trips between the devices and some very sophisticated cryptography. The
+multikey solution is much simpler.  
+  
+If I'm wrong, then great! The single ECDSA key solution will get adopted for
+wallet security and multisigs will only be used for escrow.  
+  
+RE: makku's question "How do you identify transactions that belong to you in
+the first place?"  
+  
+I think it is wrong to think of coins involved in a multiparty multisignature
+transaction as "belonging to you." They don't belong to you-- you have to
+agree and cooperate with other keyholder(s) for the transaction to be spent.  
+  
+You are _involved_ in the transaction, but you need some extra information
+that isn't in the blockchain to know how you are involved (are you an
+arbitrator? a person getting paid? a person paying somebody? something else?).  
+

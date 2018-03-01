@@ -1,0 +1,19 @@
+
+
+Quote from: theymos on March 17, 2011, 07:42:27 PM
+
+Is OP_ADD necessary? It prevents address payments, and the hash of the random
+number is already unguessable.  
+
+  
+... I think that's right, you don't need the OP_OVER OP_ADD. You have to know
+the random number to generate a valid signature, given only its hash.  
+  
+You'd have to be very careful NEVER to use the same random number anybody else
+has ever used or will ever use; if your 'random' number is an order number (or
+even common-hash-of-an-order-number) then you're sunk, anybody can generate a
+valid <signature> <public_key> <r> triple.  
+  
+For two extra bytes per transaction it might be better to hash in the public
+key, just so people don't shoot themselves in the foot.  
+

@@ -1,0 +1,14 @@
+
+
+RE: changing the confusing transaction fee message: good idea, and yes, "we"
+can.  
+  
+How about:  
+  
+This transaction requires a transaction fee of at least 0.0N because of its
+amount, complexity, or use of recently received funds  
+  
+  
+I don't want to use the word "recommend", because the GUI doesn't let you try
+to send them without a fee.  
+

@@ -1,0 +1,15 @@
+
+
+Quote from: commonancestor on December 02, 2012, 03:25:17 PM
+
+Receipt has got a flaw. As a merchant I won't be sending receipts of funds
+without any confirmations. FYI  
+
+  
+I would urge you to return a receipt with a memo that says:  
+  
+"your order will be shipped as soon as your payment has three confirmations."  
+  
+Explicitly telling your customers what they can expect to happen next is a
+great feature of the proposal, I think.  
+

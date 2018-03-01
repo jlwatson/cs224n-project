@@ -1,0 +1,23 @@
+
+
+Your proposal seems needlessly complicated.  
+  
+How about:  
+  
+The vending machine talks to a "Bitcoin+ Payment Verification Systems,
+Incorporated" server.  
+  
+The Bitcoin+ Payment Verification System is basically just a bitcoin node,
+with really fast international network connections and a little extra code to
+detect attempted double-spends. If it detects a double-spend attempt, it
+rejects the transaction. Otherwise, it accepts the transaction and blasts the
+transaction into the payment network over its really fast, as-low-latency-as-
+possible connections.  
+  
+If it later turns out that the transaction actually WAS invalid, Bitcoin+
+Payment Verification Systems, Incorporated absorbs the cost of the fraud.  
+Bitcoin+ Payment Verification Systems, Incorporated, of course, charges the
+vending machine merchant a fee for providing such excellent service. They're
+constantly competing with their arch-rivals, "Better Merchant Services,
+Incorporated" to balance latency, fees, and fraud to maximize profit.  
+

@@ -1,0 +1,7 @@
+
+
+Thanks theymos! I completely missed the leading-zero-bytes become
+leading-'1'-chars one-for-one.  
+  
+I fixed the python code in the first message of this thread.
+

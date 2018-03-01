@@ -1,0 +1,28 @@
+
+
+Why can't I see any mention of Alipay for deposits or withdrawals in my
+Bitcoinica account?  
+  
+For deposits I see the following options:  
+  
+1\. Bitcoin  
+2\. Deposit by Bitcoinica Code (Instant)  
+3\. Deposit by BitInstant (Instant)  
+4\. Deposit by Mt. Gox Code (Instant)  
+5\. Deposit by AurumXchange  
+6\. Deposit by International Wire Transfer  
+  
+For withdrawals I see the following options:  
+  
+1\. Bitcoinica Code  
+2\. BitInstant  
+3\. Mt. Gox Code (USD)  
+4\. Mt. Gox Code (BTC)  
+5\. Bitcoin  
+6\. International Wire Transfer  
+  
+  
+No where is there a mention of Alipay.  
+  
+Please advise.
+

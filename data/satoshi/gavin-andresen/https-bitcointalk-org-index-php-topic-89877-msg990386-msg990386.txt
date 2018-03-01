@@ -1,0 +1,39 @@
+
+
+Quote from: doobadoo on June 25, 2012, 11:38:57 PM
+
+dumb question, but i when it comes to verfying the sig, i only know how to
+place the sig file wiht the same name as the .zip on with .asc into the same
+directory and right click to validate. What is this sha256 sum thing? And is
+that somehow generated off of Gavin's key? What does it verify and how to i
+run the check?  
+  
+OS X Snow Leopard with GPG Tools.  
+
+1\. Make sure the SHA256SUMS.asc file hasn't been modified:  
+
+Code:
+
+$ gpg --verify SHA256SUMS.asc  
+gpg: Signature made Mon Jun 25 10:57:21 2012 EDT using RSA key ID 1FC730C1  
+gpg: Good signature from "Gavin Andresen (CODE SIGNING KEY)
+<gavinandresen@gmail.com>"  
+
+  
+2\. See what file you SHOULD have downloaded:  
+
+Code:
+
+$ grep macosx.dmg SHA256SUMS.asc  
+3de1490d1390e5a085b4bc2217430b3caadd203780a7bfe8751e8d1930f087cc
+bitcoin-0.6.3-macosx.dmg  
+
+  
+3\. Make sure the file you downloaded is exactly the same:  
+
+Code:
+
+$ shasum -a 256 bitcoin-0.6.3-macosx.dmg  
+3de1490d1390e5a085b4bc2217430b3caadd203780a7bfe8751e8d1930f087cc
+bitcoin-0.6.3-macosx.dmg  
+

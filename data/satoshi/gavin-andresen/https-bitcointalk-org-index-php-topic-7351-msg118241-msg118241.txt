@@ -1,0 +1,16 @@
+
+
+Quote from: SgtSpike on May 12, 2011, 10:43:52 PM
+
+What about sites with online wallets?  
+
+  
+The input-transaction-selection algorithm in bitcoin tries to use older
+transactions, which will have higher priority.  
+  
+I'd guess that online wallets with lots of users have plenty of old
+transaction to choose from, so they don't need to pay transaction fees.
+Actually, it'd be interesting to try to measure how quickly the average
+bitcoin in an e-wallet stays in the wallet before being used for an outgoing
+transaction...  
+

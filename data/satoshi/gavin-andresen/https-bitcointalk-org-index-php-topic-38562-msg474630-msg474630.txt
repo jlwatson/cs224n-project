@@ -1,0 +1,12 @@
+
+
+If you need a stable testing environment, the self-contained testnet-in-a-box
+works very nicely:  
+https://sourceforge.net/projects/bitcoin/files/Bitcoin/testnet-in-a-box/  
+  
+You do have to remember to run -noirc or keep your testnet listen port closed,
+because if a 'real' testnet node connects to you you'll get the 'real' testnet
+block-chain.  
+  
+  
+

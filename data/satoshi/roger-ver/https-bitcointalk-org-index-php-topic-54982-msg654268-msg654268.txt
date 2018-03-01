@@ -1,0 +1,28 @@
+
+
+As some forum members know, you can now withdraw funds via Paypal
+fromwww.bitinstant.com  
+  
+Paypal currently charges 3% to transfer from one paypal account to another.  
+  
+The Bitinstant and Paypal **COMBINED** charges are 3.29% to 3.99% for
+withdrawals from MTGOX codes.  
+This is only 0.29% to 0.99% more than what the standard Paypal transfer fee
+would be.  
+  
+The problem is that users are confused into thinking that the fee will be
+3.29% PLUS Paypals normal fee of 3% for a combined fee of over 6%  
+  
+This is not the case, but we need a clear way to convey this information to
+our users.  
+  
+Please give us your thoughts on how we can make it clear that the TOTAL FEE
+from both Bitinstant AND Paypal is only 3.29% (Just 0.29% more than what a
+normal Paypal transfer would be)  
+  
+Please see www.bitinstant.com for our current site and let us know what should
+be changed.  
+  
+Thank you all!  
+  
+

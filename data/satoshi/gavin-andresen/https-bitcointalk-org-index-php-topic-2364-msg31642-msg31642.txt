@@ -1,0 +1,16 @@
+
+
+I've created an 'official' Bitcoin bug/issue/feature request tracking system
+at:  
+https://github.com/bitcoin/bitcoin/issues  
+  
+The github issues system has a simple voting system; lets use it!  
+  
+And if you see an issue that you want to work on, use the commenting system to
+let everybody know you're working on it. I'd like to be open about who is
+working on what, and what features/bugs/issues people think are important.  
+  
+However... we'll still be very conservative about what changes make it into
+the official bitcoin client. Bitcoin will be destroyed if people using it lose
+their trust in it.  
+

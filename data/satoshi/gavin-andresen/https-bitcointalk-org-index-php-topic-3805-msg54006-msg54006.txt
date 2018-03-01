@@ -1,0 +1,36 @@
+
+
+From another thread:  
+
+Quote from: we6jbo on February 24, 2011, 12:40:19 AM
+
+I think that if Bitcoin allowed users to insert some identification such as
+their name or an email into the users transactions then if an attacker stole
+money from the user it would make it a lot easier to report the theft such as
+if the attacker tried to change the currency into dollars by exchanging it
+with a bitcoin trader...
+
+  
+No need to embed the identification in the transactions, I don't think. You
+just need to associate your public keys with 'you' at some place where anybody
+can see that association and prove that you originally owned the private keys
+associated with those public keys.  
+  
+Let's see, I think something like this would work:  
+  
+For every private key in your wallet:  
+Grab the corresponding public key  
+Sign it with the private key  
+Compute SHA256(public key, signature, "your name and email address")  
+  
+Then upload all of those SHA256 hashes to some secure central database
+somewhere, which stores it along with the time it was uploaded.  
+  
+Now if somebody copies your wallet and spends your coins, you can prove that
+you had the public/private keys in the past by showing everybody the (public
+key, signature, "your name and email address") that hashes to the value in the
+central database.  
+  
+The crook can upload their own SHA256, of course-- this relies on you
+uploading before the crook.
+

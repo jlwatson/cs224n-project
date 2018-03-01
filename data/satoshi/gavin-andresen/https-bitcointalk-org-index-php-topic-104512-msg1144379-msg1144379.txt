@@ -1,0 +1,19 @@
+
+
+Using bitcoind on a command-line? What operating system?  
+  
+Something is stripping off the double-quotes from the "txid" and "vout" keys
+before it gets to bitcoind. If you're using bash on linux, then put single
+quotes around the arguments. Like this:  
+  
+
+Code:
+
+createrawtransaction
+'[{"txid":eb63d5d53cd906b5cf75a014e1bcf1c0198ae58d378d45dbfa15045ac89a38ac,"vout":0}]'
+'{"1FQvMNzFJRf2nFJbhri2pWEVMqTtdLSCmA":23.36129790}'
+
+  
+I also corrected the second argument, the address is a string (strings in JSON
+are always "whatever") and the amount is decimal number-of-bitcoins.  
+

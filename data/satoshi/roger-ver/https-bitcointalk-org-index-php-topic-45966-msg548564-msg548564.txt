@@ -1,0 +1,15 @@
+
+
+Quote from: btcbaby on September 28, 2011, 11:43:03 AM
+
+Personally a fan of https://webcoin.ch which is web optimized.  
+
+  
+This is my first time to see it.  
+I see that it is a true coin project.  
+Is there any documentation online for this?  
+  
+It doesn't seem to be working for me with Chrome on OSX Lion.  
+  
+(It hangs when I try to create a wallet, or view transactions)
+

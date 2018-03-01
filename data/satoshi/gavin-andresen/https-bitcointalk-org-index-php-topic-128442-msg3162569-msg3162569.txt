@@ -1,0 +1,15 @@
+
+
+Quote from: phelix on September 15, 2013, 09:57:17 PM
+
+Is my understanding correct that using the "payment protocol" will give away
+my IP address to the merchant?  
+
+  
+No, not if you use Tor.  
+  
+Tor (or i2p or some other anonymizing proxy solution) is the only way to keep
+online merchants from figuring out your IP. After all, if you browse to their
+website without Tor, then your IP is sitting right there in their web server
+logs.  
+

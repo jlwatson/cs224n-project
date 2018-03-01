@@ -1,0 +1,18 @@
+
+
+Quote from: jon_smark on February 03, 2011, 06:24:35 PM
+
+I thought of that as well, but how would the client know if a previously
+obtained list of transactions had been invalidated?  
+
+  
+Huh? I don't see how passing <txid> makes that problem any better.  
+  
+Let's say you've got transactions A B C D (in that order). With times T1, T1,
+T2 and T2 (A&B happened 2 blocks back, you got C&D in the last block).  
+  
+Now imagine a block-chain re-org, so B and C are now invalid.  
+  
+Ask for all transactions after D and you get nothing-- same as if you asked
+for all transactions with time greater than T2.  
+

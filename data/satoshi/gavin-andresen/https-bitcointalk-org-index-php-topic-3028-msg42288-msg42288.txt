@@ -1,0 +1,17 @@
+
+
+Can you back up and describe what problems your patches solve?  
+  
+Here are the problems I care about:  
+  
+\+ If a user receives 1.000001 bitcoins, there is currently no way to transfer
+the entire amount somewhere else using either the GUI or the RPC.  
+  
+\+ If a user receives 1.000001 bitcoins, the GUI will tell them they have
+1.00.  
+  
+I don't care about systems without a FPU-- are there any such systems that
+bitcoin actually runs on?  
+  
+I don't care about BTC vs TBC.  
+

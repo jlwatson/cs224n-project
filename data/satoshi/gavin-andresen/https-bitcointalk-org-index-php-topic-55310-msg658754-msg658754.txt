@@ -1,0 +1,6 @@
+
+
+BIP 11/12/13 support is Core functionality only for 0.6-- the network needs to
+support the new transaction types BEFORE users start using them.  
+  
+

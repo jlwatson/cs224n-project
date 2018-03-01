@@ -1,0 +1,30 @@
+
+
+... is an ATI Radeon HD 5970...  
+  
+Anyone else putting graphics cards on their Christmas lists for some serious
+mining?  
+  
+Actually the 5970 is a little pricey, newegg.com has it from $500 to $1200
+dollars. But even lower end cards should be able to generate a few blocks a
+month hopefully.  
+  
+Somewhere I got the idea that the number of "stream processors" would be
+proportional to hashes/sec. Probably clock rate would be proportional too. So
+I've gone through and divided # stream processors by price to get a "bang for
+the buck" measure. The 5970 has 3200 stream processors so the $500 card would
+have 6.4 processors per dollar. Actually most of the Radeon cards are in the
+5-7 ratio so for the most part you get what you pay for.  
+  
+The best ratio I found was for an HD5850 which has 1440 stream processors for
+as little as $200. That gives it a ratio of 7.2 and the price is closer to my
+budget. This has been reported at
+http://bitcointalk.org/index.php?topic=1628.msg24699#msg24699 to get as much
+as 300 Mhash/sec. At current difficulty the calculator predicts a block every
+two days.  
+  
+With bitcoins at about $0.20, a block of 50 is worth $10, so after 40 days the
+card would be paid for. That may be a little optimistic (especially if
+everyone gets 5850s for Christmas) but at least it would be fun to be
+generating blocks.
+

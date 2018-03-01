@@ -1,0 +1,17 @@
+
+
+Thanks for the added effort joepie91.  
+  
+I just tried testing it out with a 3072 × 2304 image.  
+  
+After the upload completed it came back with the error message of: An error
+occurred during upload.  
+  
+  
+Could that be because the image is too big?  
+Is there a way to make it automatically resize images that are too big?  
+  
+You should also put your Bitcoin donation address at the bottom of that page.  
+  
+Thanks!
+

@@ -1,0 +1,12 @@
+
+
+Bitcoin is going to be highly volatile for a long time no mater what exchage
+is used. The way for merchants to accept bitcoin is to give the customer their
+price using the current exchange rate and then instantly convert when
+receiving the BTC. This way the merchant has no exposure to BTC rate changes.  
+Mtgox is working on something to make this process easy.  
+  
+The clipping of the depth chart was a hack I threw in there to make the graph
+legible. I'm sure magicaltux will show the whole thing when the new backend is
+rolled out.  
+

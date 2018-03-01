@@ -1,0 +1,15 @@
+
+
+The plan is the same as before: EFF coins will be redistributed via the
+Bitcoin Faucet.  
+  
+Last week the folks at the EFF said they'd be sending the coins to a secure
+wallet I created for that purpose "tomorrow."  
+I asked that they send them to address: 1vc3ZU4ae2cF6ZxqE44j5Ak3wfsZqybtb  
+  
+I'll let you know what happens; they never told me where the coins are being
+held, it is possible they got caught in the mybitcoin disaster.  
+  
+I'll keep that wallet secure and offline except to periodically top-up the
+Faucet's balance.  
+

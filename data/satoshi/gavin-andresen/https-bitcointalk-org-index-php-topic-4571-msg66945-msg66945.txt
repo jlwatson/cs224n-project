@@ -1,0 +1,52 @@
+
+
+The bitcoin integration/testing source tree is at GitHub, and we
+(jgarzik/tcatm/gavinandresen right now) use GitHub's "pull request" feature to
+keep track of patches that people think are ready for integration into
+mainline bitcoin. This post is a walk-through of how to create a pull request.  
+  
+1\. You'll need a GitHub account; sign up for free, and set up git and ssh to
+work with GitHub.  
+  
+2\. You need a fork of the main bitcoin source tree. Login to your GitHub
+account, browse to the bitcoin project, then poke the little 'Fork' button
+near the top of the screen.  
+  
+3\. Connect that fork at GitHub with source code on your development machine.
+The easiest way to do that is to clone your github fork, using the SSH
+Read+Write URL github shows you on your fork's page. For example:  
+
+Code:
+
+git clone git@github.com:your_github_name/bitcoin-git.git  
+cd bitcoin-git  
+git checkout -b niftynewfeature # Create a feature branch  
+... edit, test, re-edit, re-test...  
+git commit -a  
+git push git@github.com:your_github_name/bitcoin.git
+niftynewfeature:niftynewfeature
+
+You might already have a clone of the bitcoin git tree that you've modified;
+you should push those changes into your new GitHub fork. Assuming you made
+your changes in the 'master' branch on your machine (next time you should
+create a specific feature branch), the command would be:  
+
+Code:
+
+git commit -a  
+git rebase -i remotes/origin/HEAD # optional: lets you tidy up commits to
+create a clean patch  
+git push git@github.com:your_github_name/bitcoin.git master:niftynewfeature
+
+  
+4\. Submit a PULL request by going to your fork's GitHub page, selecting the
+branch containing the changes you want pulled ("niftynewfeature" in the above
+example), and then poking the "Pull Request" button. Enter a good description
+of what your changes do and why they're a good idea and how everybody and
+their brother is already using them to make the world a better place .  
+  
+Eventually, if all goes well, after discussion and argument and nit-picking
+and revision, your changes will get pulled into the bitcoin repository. If all
+doesn't go well, you (or the core developers) can close your pull request and
+resubmit it when the feature is perfect.  
+

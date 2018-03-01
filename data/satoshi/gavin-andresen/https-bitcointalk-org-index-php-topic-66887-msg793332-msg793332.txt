@@ -1,0 +1,8 @@
+
+
+Quote from: splatster on March 10, 2012, 01:27:13 AM
+
+Are the rc1 OSX CPU bug(s) fixed in this release?  
+
+Yes, fixed in rc2.
+

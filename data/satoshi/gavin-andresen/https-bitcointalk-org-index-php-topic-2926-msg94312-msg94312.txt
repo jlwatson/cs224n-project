@@ -1,0 +1,16 @@
+
+
+Quote from: devrandom on April 24, 2011, 05:01:18 PM
+
+It seems we are far enough along to start using this process for releases and
+maybe even nightlies. What do you need from me to make this a reality?  
+
+  
+I dunno, you tell me-- the idea is anybody can use gitian-builder to create
+trusted releases, right? Working with BlueMatt to make the nightlies use it
+seems like the right place to start.  
+  
+Mucking with the Linux build process isn't high on my own personal TODO list,
+I have my hands busy wrestling with the Windows build (can gitian build
+windows mingw bitcoin binaries?) and setup.nsi...  
+

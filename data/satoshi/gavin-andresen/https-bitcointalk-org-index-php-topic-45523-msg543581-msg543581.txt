@@ -1,0 +1,21 @@
+
+
+Encouraging people to expose their private keys makes me nervous. They're
+"private" for a reason, and it seems to me the vast majority of private keys
+will, a few years from now, either be stored on a secure device which is
+designed to never reveal them or will be split.  
+  
+Why would a merchant "wish to accept typed or scanned Bitcoin private keys as
+payment" ? They're going to generate a transaction immediately anyway, it
+seems to me making a payment that way just opens up more potential ways of
+getting defrauded (e.g. merchant keeps the private key in case more bitcoins
+are ever sent to the same address, or merchant sends change to the same
+address and then a few days later uses the private key to take back the
+change).  
+  
+I don't see any privacy or transaction-fee-saving advantages, either; am I
+missing something?  
+  
+(I **do** see the usefulness of importing private keys into your wallet,
+that's a different feature that I'd like to be in the next release).
+

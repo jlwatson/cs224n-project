@@ -1,0 +1,18 @@
+
+
+Quote from: jim618 on July 30, 2012, 05:01:20 PM
+
+At the moment there is no way in the bitcoin protocol to 'add a fee to a stuck
+transaction' to entice a miner to pick it up which would be handy.  
+
+That's not quite right.  
+  
+The protocol supports it-- just take the output of an unconfirmed transaction
+(paying to you) and then broadcast a send-to-self transaction that uses it as
+input and has a big, juicy fee.  
+  
+I think the Eligius mining pool might even notice and confirm both
+transactions-- Luke DashJr has a pull request to change the reference
+implementation's transaction selection code to consider fees for sets of
+related transactions when deciding what to include in a block.  
+

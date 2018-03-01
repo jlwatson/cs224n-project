@@ -1,0 +1,11 @@
+
+
+Follow the rules!  
+  
+I've put up a wiki page listing the rules used by the client to process
+transactions and blocks. It's a bit linear and could benefit from some
+refactoring, but I didn't want to go too far in terms of pseudocode, because
+IMO it obscures the logic.  
+  
+https://en.bitcoin.it/wiki/Protocol_rules  
+

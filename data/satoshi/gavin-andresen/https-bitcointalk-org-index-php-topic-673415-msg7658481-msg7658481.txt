@@ -1,0 +1,33 @@
+
+
+It seems to me having miners share 'near-miss' blocks with each other (and the
+rest of the world) does several good things.  
+  
+As Greg say, that tells you how much hashing power is including your not-yet-
+confirmed transaction, which should let merchants reason better about the risk
+of their transactions being double-spent.  
+  
+If the protocol is well-designed, sharing near-miss blocks should also make
+propagation of complete blocks almost instantaneous most of the time. All of
+the data in the block (except the nonce and the coinbase) is likely to have
+already been validated/propagated. See Greg's thoughts on efficient encoding
+of blocks: https://en.bitcoin.it/wiki/User:Gmaxwell/block_network_coding  
+  
+So there could almost always be no advantage to working on a smaller block
+rather than a larger block (it would be very rare to find a full-difficulty
+block before finding-- say-- a 1/100'th difficulty block).  
+  
+Near-instant block propagation if you 'show your work' should give un-selfish
+miners an advantage over miners who try any kind of block withholding attack.
+And it should make network convergence quicker in the case of block races;
+miners could estimate how much hashing power is working on each fork when
+there are two competing forks on the network, and rational miners will abandon
+what looks like a losing fork as soon as it looks statistically likely (based
+on the previous-block pointers for near-miss blocks they see) that they're on
+the losing fork.  
+  
+We can do all of this without a hard fork. It could even be prototyped as an
+ultra-efficient "miner backbone network" separate from the existing p2p
+network-- in fact, I'm thinking it SHOULD be done first as a separate
+network...  
+

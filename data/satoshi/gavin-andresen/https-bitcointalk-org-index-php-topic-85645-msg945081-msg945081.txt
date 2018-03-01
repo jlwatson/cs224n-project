@@ -1,0 +1,23 @@
+
+
+RE: the 100/120 difference:  
+  
+Check my work, but I think this is the scenario where it would matter and
+cause headaches:  
+  
+You generate a block 100 blocks before a difficulty adjustment.  
+  
+Then you spend the coinbase exactly 100 blocks later, in a block in the next
+difficulty period. And, let's say, whoever you send the bitcoins to spends
+that transaction again immediately.  
+  
+Now imagine a really wacky scenario where you're reorganized onto a shorter-
+but-has-more-difficulty block chain. That could happen if you were
+disconnected from the main bitcoin network for a while.  
+  
+Your coinbase-spend transaction and any transactions that depend on it can't
+be included in the main chain because they're immature, so they get dropped
+from everybody's memory pool as "trying to spend an immature coinbase." I'm
+not sure what then happens; I think you'd eventually retransmit them and get
+them into the main chain, but that could take a while.  
+

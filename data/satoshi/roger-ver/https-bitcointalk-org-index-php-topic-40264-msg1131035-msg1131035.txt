@@ -1,0 +1,20 @@
+
+
+I've noticed that when sending BTC via SMS, if the BTC are not claimed within
+a certain amount of time, they disappear.  
+  
+Here is an example from my own account.  
+As a test, I sent 1 BTC to my own cell phone number and intentionally never
+claimed the BTC.  
+Now when I check my wallet history or click the link from the SMS, it says
+that the funds are gone.  
+  
+  
+  
+This is the first time I confirmed it %100 for sure, but I am 99.9% sure this
+has happened with lots of other Bitcoins I have sent to people who didn't know
+how to claim them.  
+Can you let us know what is happening to these Bitcoins?  
+  
+How's the new server?
+

@@ -1,0 +1,24 @@
+
+
+Quote from: ThePiachu on November 10, 2011, 12:43:30 PM
+
+@Gavin Andresen  
+
+Quote from: Gavin Andresen on July 20, 2011, 11:34:37 AM
+
+I've been making slow but steady progress on my at-the-network-level testing
+tool. [...]  
+  
+What's working: python-based code that serializes/deserializes messages in
+both bitcoin's binary format (to talk to the node being tested) and JSON (so
+it is easy for us humans to tweak/examine test data). Connecting and
+requesting all blocks.  
+
+  
+Where can I get my hands on that? I was looking for something like this for a
+long while.  
+
+  
+https://github.com/gavinandresen/Bitcoin-protocol-test-harness  
+Start with dumpblocks.py  
+

@@ -1,0 +1,5 @@
+
+
+If you include a double-spent transaction in a block you generate, then that
+block will be rejected and you don't get your 50BTC reward.
+

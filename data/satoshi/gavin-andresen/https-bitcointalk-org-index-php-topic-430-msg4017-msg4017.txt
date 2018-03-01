@@ -1,0 +1,20 @@
+
+
+Quote from: InterArmaEnimSil on July 18, 2010, 09:05:04 AM
+
+So, the chain contains a full history of transactions, and a coin's current
+owner is determined by all nodes as being the last signature in the chain
+associated with a coin. Am I reading this right?  
+
+Yes. Whoever has the private key that can create that last signature can spend
+the coin-- he or she (or them-- eventually maybe as bitcoin clients add
+features) are the owner.  
+  
+The transaction history isn't exactly a "chain" -- multiple coins can get
+combined as input to a transaction (they're all "spent"), and multiple coins
+can get produced from a transaction (they're all "unspent" until they're used
+as the input to another transaction), so it's a more complicated network (I
+think of a chain as one link followed by another in a straight line). But it
+will all trace back to one or more 50 Bitcoin GENERATE transactions.  
+  
+

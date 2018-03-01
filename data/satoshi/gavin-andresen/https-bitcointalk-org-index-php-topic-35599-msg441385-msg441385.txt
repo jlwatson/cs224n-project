@@ -1,0 +1,15 @@
+
+
+Potential questions for the FAQ; these are all questions I wish I had insisted
+on getting answered before trusting MyBitcoin with some of my coins:  
+  
+Are the bitcoins on deposit bonded or insured against theft or loss?  
+  
+Are the bitcoins on deposit backed up off-site? How often?  
+  
+How many people have access to the wallet? How do you know you can trust them,
+or how are they audited?  
+  
+What happens if you decide Vibanko is not a viable business and has to be shut
+down?  
+

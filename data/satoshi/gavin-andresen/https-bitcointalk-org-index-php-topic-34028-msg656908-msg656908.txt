@@ -1,0 +1,39 @@
+
+
+RE: documentation about key encryption:  
+  
+See the comment at the top of crypter.h:  
+  
+
+Code:
+
+Private key encryption is done based on a CMasterKey,  
+which holds a salt and random encryption key.  
+  
+CMasterKeys are encrypted using AES-256-CBC using a key  
+derived using derivation method nDerivationMethod  
+(0 == EVP_sha512()) and derivation iterations nDeriveIterations.  
+vchOtherDerivationParameters is provided for alternative algorithms  
+which may require more parameters (such as scrypt).  
+  
+Wallet Private Keys are then encrypted using AES-256-CBC  
+with the double-sha256 of the public key as the IV, and the  
+master key's key as the encryption key (see keystore.[ch]).  
+
+  
+The way I think of it: Take the passphrase and salt and SHA512-hash them
+nDerivationIterations times. That gets you an encryption key and
+initialization vector.  
+  
+Use those to AES-256-decrypt the encrypted_key master key.  
+  
+Now you can AES-256-decrypt the private keys, using the master key as the key
+and the (double-sha256-hash) PUBLIC part of the keypair as the initialization
+vector.  
+  
+The "SHA-512-hash them a bunch of times" is actually done by the OpenSSL
+EVP_BytesToKey routine-- documentation for that is here:
+http://www.openssl.org/docs/crypto/EVP_BytesToKey.html  
+  
+  
+

@@ -1,0 +1,9 @@
+
+
+Nice! Can you open source this?  
+  
+Is the simulator accurately modeling how orphan blocks are (not) relayed?  
+  
+It would also be useful to see total revenue, and total-revenue-expected-if-
+everybody-mines-honestly for both the entire network and the attacker.  
+

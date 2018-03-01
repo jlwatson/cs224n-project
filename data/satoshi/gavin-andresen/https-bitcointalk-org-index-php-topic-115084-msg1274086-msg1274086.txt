@@ -1,0 +1,21 @@
+
+
+Quote from: flipperfish on October 15, 2012, 05:24:29 PM
+
+... But the best solution I can imagine, is to store a signed transaction with
+nLockTime set to some time in the future, which sends the coins in the
+encrypted wallet to some other address....  
+
+  
+You don't need the whole network to support transaction replacement to do
+that; just write some code that holds a time-locked transaction, has a way of
+replacing it with another time-locked transaction, and have it automatically
+broadcast the transaction onto the network if not replaced before the time-
+lock expires.  
+  
+It would be more convenient to have the whole network support transaction
+replacement, but I don't think it is reasonable for the whole network to
+remember everybody's dead-man-switch transactions. And even if they did, you'd
+run the risk that a miner eager to get an extra transaction fee would ignore a
+newer version of the transaction and mine the old transaction.  
+

@@ -1,0 +1,16 @@
+
+
+The consensus from Tuesday's IRC meeting is to replace OP_EVAL with "pay-to-
+script-hash" -- a simpler, safer-but-less-powerful alternative for creating
+bitcoin addresses for multisignature and future more-complex transactions.  
+  
+So please read the BIP: https://en.bitcoin.it/wiki/BIP_0016  
+And the source: https://github.com/gavinandresen/bitcoin-
+git/tree/pay_to_script_hash  
+  
+Important dates:  
+Feb 1 deadline to try to get 50+% of hashing power to express support.  
+Feb 15: "full validation" pay-to-script-hash switchover date (assuming success
+on Feb 1)  
+  
+

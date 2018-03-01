@@ -1,0 +1,5 @@
+
+
+They're not throwing away 0.01 BTC, they just haven't redeemed them yet--
+they're using valid-but-strange transactions.  
+

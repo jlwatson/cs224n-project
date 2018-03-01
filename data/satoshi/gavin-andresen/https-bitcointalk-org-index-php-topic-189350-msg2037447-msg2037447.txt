@@ -1,0 +1,13 @@
+
+
+Quote from: AlexMerced on May 03, 2013, 12:29:47 PM
+
+lightenup gave me this advice for generating a genesis block:  
+
+  
+Awww, that is cheating!  
+  
+You really have no business creating your own block chain if you don't
+understand the code well enough to figure out how to mine a new genesis block
+without somebody else's help.  
+

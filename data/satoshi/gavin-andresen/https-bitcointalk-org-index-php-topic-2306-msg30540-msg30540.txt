@@ -1,0 +1,13 @@
+
+
+I just committed svn rev 103. Changes are:  
+  
+listaccounts : lists all the accounts in your wallet along with their current
+balances.  
+  
+listtransactions : call it with no arguments, or give it '*' as the account
+name, and it lists the last N (default 10, as before) transactions from all
+accounts. Part of this change is disallowing '*' as an account name.  
+  
+-rpctimeout : Thanks to Mt`AwAy who pointed out that, if somebody was allowed to connect to the bitcoin rpc port (via -rpcallowip), then they could connect, do nothing, and hang the connection, causing a denial-of-RPC-service. Now bitcoin's RPC thread will close the connection if it doesn't get the HTTP request within -rpctimeout (default 30) seconds.  
+

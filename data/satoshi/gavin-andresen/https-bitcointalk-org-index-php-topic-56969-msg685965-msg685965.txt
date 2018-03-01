@@ -1,0 +1,29 @@
+
+
+Quote from: doublec on January 11, 2012, 11:26:57 AM
+
+You're right, it's unlikely anyone will accidentally do it. But I can
+guarantee there are malicious people around just itching to cause a bit of
+havoc in bitcoin. It would be best to plan for the case of "it will happen
+that someone will mine a block" rather than "I don't think anyone would waste
+time to".  
+
+  
+Right........  
+  
+
+Quote from: Gavin Andresen on January 11, 2012, 12:38:25 AM
+
+If we're still at 55% on Feb 7'th then I'll be worried, too, and might advise
+miners to push the hard switchover date a couple of weeks (if they're using
+the patches I'm creating then it is a command-line argument to bitcoind).  
+
+  
+Also, the worst case scenario isn't very scary-- worst case is the less-
+than-50%-of-miners who did the switch find themselves on the short end of a
+blockchain split, so they lose revenue (and transactions take longer to
+confirm because the network is working on two different chains).  
+  
+That would motivate them to either quickly recruit more hashing power or
+quickly switch back to the old rules.
+

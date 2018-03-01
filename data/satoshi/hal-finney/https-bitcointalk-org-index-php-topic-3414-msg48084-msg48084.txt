@@ -1,0 +1,15 @@
+
+
+The idea of a Merkle tree is you just store the root, and then when someone
+wants to convince you that something's in the tree, they produce the Merkle
+branch. The Merkle roots are in the block headers. Merkle branches are stored
+with transactions in wallets. So when you do a spend, in principle you can
+prove that your "in" transactions are legit, by providing the Merkle branches
+for all of them. However there are no data structures defined at this time for
+sending such information in the network.  
+  
+Now this is not a matter of removing spent transactions; rather, it's a mode
+of operation that would allow nodes to forget all transactions, spent and
+unspent, and just keep block headers.  
+  
+

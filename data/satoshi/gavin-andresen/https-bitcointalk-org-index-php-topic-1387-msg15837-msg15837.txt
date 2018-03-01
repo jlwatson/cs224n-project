@@ -1,0 +1,15 @@
+
+
+RE: "wasting" addresses:  
+  
+caveden is right, this patch generates and throws away lots and lots of
+potential bitcoin addresses.  
+  
+But there are 2^160 possible bitcoin addresses, which is a really, really big
+number. The chances of BioMike generating an address that matches my "gavin"
+address before we're all dead is approximately zero.  
+  
+And davidonpda: I haven't tried to figure out how long 10 characters would
+take-- it is exponential in the number of characters, so 10 characters would
+probably take years...  
+

@@ -1,0 +1,48 @@
+
+
+I sent ShadowOfHarbringer's some of my thoughts on this in this private
+message:  
+
+Quote
+
+Take a look at Table 2 in Meni's paper: "The maximal safe transaction value,
+in BTC, as a function of the attacker's hashrate  
+q and the number of confirmations n."  
+  
+Lets go with a 33% hashpower attacker, at 6 confirmations you can assume any
+transaction up to about 300 bitcoins is safe.  
+  
+(disclaimer: I haven't taken the time to digest Meni's analysis, I'm going to
+assume his numbers are correct).  
+  
+If you're worried about that, then don't make multi-thousand-dollar bitcoin
+transactions with people you think might try to double-spend and rip you off
+OR wait for more confirmations.  
+  
+Also: don't forget that "33% hashpower" means you have half as many
+(asics/fpgas) as the rest of the network combined:  
+  
+Before attack: lets say network has 100 Thash  
+You add 50 Thash, so during attack you have 50 of 150 Thash (== 33%)  
+
+  
+I don't worry much right now about economically irrational, "I'm going to
+spend millions of dollars to disrupt the bitcoin network" attacks because I
+don't think anybody is going to spend millions of dollars to disrupt our tiny
+payment network.  
+  
+I have no idea what bitcoin payments will look like in 5-10 years; I expect
+all sorts of trust mechanisms and relationships to develop that are
+independent of the bitcoin network, and I suspect some of those will make 51%
+attacks irrelevant.  
+  
+And I have no idea what the mining landscape will look like in 5-10 years; if
+thousands of companies around the world are installing bitcoin mining hardware
+for free in every house built in cold climates (generate bitcoins and get a
+discount on your heating bill) then it may be completely inconceivable for
+even a government to amass enough hashing power to mount a 51% attack.  
+  
+So while I encourage y'all to keep thinking about it as an interesting
+theoretical problem, it is only slightly higher on my personal priority list
+than worrying about quantum computers breaking ECDSA.  
+

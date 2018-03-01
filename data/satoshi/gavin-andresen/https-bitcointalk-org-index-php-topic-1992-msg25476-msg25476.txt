@@ -1,0 +1,25 @@
+
+
+Quote from: farmer_boy on November 29, 2010, 08:54:02 PM
+
+What are your thoughts on digital coin?  
+
+I grabbed the "Digital Coin Technology" pdf file.  
+  
+It looks to me like it fails in the second paragraph:  
+
+Quote
+
+This Digital Coin serial number can be up to 512 numbers long. The Digital
+Coin software alone can find, read and alter this serial number.
+
+  
+If the DigitalCoin software can read the serial number, then so can other
+software. It is simply not true that "The DigitalCoin software alone can ..."  
+  
+Either you have a central server running the DigitalCoin software and you have
+to trust that the people running that server won't double-spend DigitalCoins.  
+  
+Or... you have Bitcoin, where the "serial numbers" are the public keys of coin
+generation transactions.  
+

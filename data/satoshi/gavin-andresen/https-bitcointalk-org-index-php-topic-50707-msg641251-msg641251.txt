@@ -1,0 +1,15 @@
+
+
+Eligius is the first pool to support OP_EVAL-- thanks Luke-Jr ! Block 155974
+is the first "I support OP_EVAL" block in the chain.  
+  
+The pull request for the next version of bitcoin is ready to go:  
+https://github.com/bitcoin/bitcoin/pull/669  
+  
+... and there are backports of just the changes relevant to mining available
+at these git branches:  
+https://github.com/gavinandresen/bitcoin-git/tree/v0.3.23_op_eval  
+https://github.com/gavinandresen/bitcoin-git/tree/v0.3.24_op_eval  
+https://github.com/gavinandresen/bitcoin-git/tree/v0.4.1_op_eval  
+  
+

@@ -1,0 +1,11 @@
+
+
+See:  
+https://en.bitcoin.it/wiki/Block_hashing_algorithm  
+  
+The exact hash done is double-sha256: sha256(sha256(block_header_data))  
+See:  
+http://en.wikipedia.org/wiki/SHA-2  
+  
+... for information about sha256  
+

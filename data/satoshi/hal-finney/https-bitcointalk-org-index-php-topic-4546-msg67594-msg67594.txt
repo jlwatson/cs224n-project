@@ -1,0 +1,20 @@
+
+
+One case to consider is when you have addresses A and B in your wallet but
+don't want them linked. Jollygreen's code will allow making sure you never
+spend from A and B together, I think, so that's good.  
+  
+But suppose someone uses the multipay patch to send to both A and B together,
+because they suspect that the addresses are linked. There are a few ways this
+could go wrong. Suppose he told you he was sending 10 to A, but also includes
+1 to B in the transaction. I'm not sure what the client would do, but it might
+show you receiving 11. Then you'd be like, dude, you sent me 11 not 10. And
+he'd be like, you're busted.  
+  
+Another way it could go wrong is that you could spend them together, and
+again, you're busted. I think Jollygreen is protecting against this.  
+  
+Yet another failure mode would make it impossible to spend the funds, because
+it would break the rules. So sipa's patch needs to be part of this, allowing
+the outputs to be split.
+

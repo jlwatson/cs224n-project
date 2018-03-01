@@ -1,0 +1,5 @@
+
+
+After he's downloaded all 66,312 blocks and is up-to-date, transactions are
+very fast.
+

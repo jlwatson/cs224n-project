@@ -1,0 +1,22 @@
+
+
+Quote from: teflone on January 25, 2012, 11:35:44 PM
+
+Ie, most bitcointalk people dont bother with reading the technical laden
+Development & Technical Thread.  
+
+  
+I suppose I could have posted to the general Bitcoin Talk, but I didn't think
+that kind of low-level "plumbing" would be of general interest, any more than
+the average bitcoin user would care or notice a bunch of other low-level
+"plumbing" changes that are being made (I've got a patch pending that a
+certain-somebody doesn't like because it tightens up the definition of a
+"standard" transaction; I expect that if I pull that patch he'll start
+screaming that I'm wrecking future network flexibility all because I'm a big
+old worry-wart).  
+  
+I **did** post to the Mining/Pools forum a couple of months ago looking for
+feedback because miners/pool operators are the people who are "voting" on the
+original proposal:  
+https://bitcointalk.org/index.php?topic=50707.msg604435#msg604435  
+

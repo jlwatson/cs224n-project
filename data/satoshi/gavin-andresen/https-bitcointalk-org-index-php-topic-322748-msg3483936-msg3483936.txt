@@ -1,0 +1,26 @@
+
+
+Quote from: gollum on November 04, 2013, 08:44:32 PM
+
+Is the bitcoin client able to handle 58,000 transactions per second and a
+blockchain terrabytes or maybe even petabytes in size?  
+
+  
+Which "bitcoin client" ?  
+  
+The client-side of Multibit and electrum should have no problem handling that
+transaction volume. Only the transactions relevant to your wallet are sent to
+your machine when you are running those clients.  
+  
+The reference implementation can't handle that transaction volume today, but I
+100% guarantee that version 11.11 which I 100% guarantee will be released on
+November 11'th, 2022 will be able to handle that transaction volume.  
+  
+I feel obliged to insert my standard disclaimer: Bitcoin is an experiment in
+progress. Only invest time or money that you can afford to lose, there is
+still a chance the experiment may fail for some reason we don't forsee. Past
+results are no guarantee blah blah blah.  
+  
+That said, I'm more confident than ever that the network will be able to scale
+up and remain decentralized.  
+

@@ -1,0 +1,24 @@
+
+
+Uhhh... maybe a specific example will help. Lets say you start with
+accounts/balances of:  
+  
+A: 5  
+B: 5  
+"": 1  
+Total wallet balance: 11  
+  
+Now you send 5 BTC from A, and pay a 0.01BTC fee. Account balances will be:  
+  
+A: -0.01 BTC  
+B: 5  
+"": 1  
+Total wallet balance: 5.99  
+  
+The fee isn't 'taken' from either B or "". You'll have to decide how to handle
+fees; for ClearCoin, I keep a positive balance in the "" account and
+automatically move coins from there if a transaction results in a fee (so for
+the above case, 0.01 bitcoins would be moved from the "" account to A, so A
+ended up with a zero balance and the fee is paid from "").  
+  
+

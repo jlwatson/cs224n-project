@@ -1,0 +1,6 @@
+
+
+I vote for removing dead code; less code means less bugs, and less chance of
+security issues. The source control system is the right place for code that we
+"might need again someday..."  
+

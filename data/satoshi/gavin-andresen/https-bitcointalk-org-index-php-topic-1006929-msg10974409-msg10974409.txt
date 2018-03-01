@@ -1,0 +1,36 @@
+
+
+Quote from: supermoney on March 30, 2015, 07:37:41 AM
+
+Hello fellows!  
+I'm actually running bitcoind server to receive and send transaction through
+my own software.  
+Transaction size of my spends are always near to 100kb/500kb, so how do I set
+a minimum/pseudo-fixed transaction fee in my bitcoin.conf/software? If you
+haven't figured out yet what I mean, I would always pay 0.0001 BTC for each
+spend cause they never exceed 1.000kb.  
+Hoping in a fast reply  
+
+  
+You can't, the reference implementation wallet always pays some-amount-
+per-1000-bytes-of-the-transaction.  
+  
+The rules for the 0.10 release are:  
+  
+\+ By default, you always pay a fee (this is different from previous releases
+that would send transactions without a fee if they had high enough priority)
+(run with -sendfreetransactions=1 to get the old behavior of sending high-
+priority transactions without a fee)  
+\+ By default, the fee-per-kilobyte is estimated based on recent transaction
+confirmation history.  
+  
+To get close to what you want (pay a fixed fee per transaction), run with
+-paytxfee=0.whatever : that tells the wallet code to pay 0.whatever BTC per
+1000 bytes. Most transactions are about 500 bytes big.  
+  
+See here: http://core2.bitcoincore.org/smartfee/fee_graph.html ... for how
+high to make -paytxfee=0.whatever based on how long you're willing to wait for
+the first confirmation (that page graphs estimates from the latest&greatest
+fee estimation code from Alex Morcos that will hopefully be in the 0.11
+Bitcoin Core release).  
+

@@ -1,0 +1,25 @@
+
+
+What error did you get, farmer_boy? The only errors I see in the server's logs
+are "rate limit" errors.  
+  
+The Faucet tries hard to prevent people from cheating and using it more than
+once; unfortunately, that means if somebody who "looks like you" uses the
+Faucet before you, you might be prevented from getting your coins. If that
+happens, try again a day later.  
+  
+I've been thinking about implementing a two-tiered Faucet: one that gives out
+a smaller number of coins and just requires you solve the CAPTCHA (and has all
+the current anti-cheating measures in place; there **are** one or two people
+still people cheating, but they're only able to get a few bit-pennies an hour,
+and they're going through an amazing amount of trouble to do it).  
+  
+And another that gives out a larger number of coins if you login with a valid
+Google account. Getting tens or hundreds of Google accounts is harder than
+solving CAPTCHAS.  
+  
+But if I did do that... I'd get accused of implementing the Faucet as a sneaky
+way of stealing Google account email addresses.  
+  
+Sigh.  
+

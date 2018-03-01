@@ -1,0 +1,19 @@
+
+
+Nice analysis! I'm tempted to put a link to your post in the code as a
+comment...  
+  
+The whole transaction prioritization scheme was written by Satoshi after I
+suggested that de-prioritizing "small new" transactions might help the
+spamming problem. In the last couple of days we've exchanged email about
+possibly modifying it; pull request 88 is the first suggested change (it makes
+the CreateTransaction fee calculations match the CreateBlock calculations).  
+  
+Until somebody finishes implementing lightweight 'headers-only block
+download', we should try to keep block size small-- otherwise new users will
+have to wait an even longer time before being able to use bitcoin.  
+  
+Also: the Faucet is now paying a 0.01 BTC fee per transaction. With the
+CreateTransaction fix, it probably would be anyway (the transactions it
+creates look very spammy).  
+

@@ -1,0 +1,7 @@
+
+
+Nah, satoshi uses <foo> to mean "replace this placeholder with the actual
+thingy."  
+  
+It'd be annoying to constantly strip the < and > from the txid.  
+

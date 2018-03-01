@@ -1,0 +1,8 @@
+
+
+I think it would be wise for any alternative block-chain to discourage
+creation of exchanges for at least a month or three to get the bugs out.  
+  
+That should also help build trust that the alternative chain
+developers/promoters aren't just trying to make some quick BTC.  
+

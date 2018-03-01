@@ -1,0 +1,15 @@
+
+
+Quote from: dooglus on October 24, 2011, 08:13:24 PM
+
+You might want to include a note in the instructions about this.  
+
+  
+You == me?  
+  
+There's a sticky here about creating a pull request, it'd be most excellent if
+you could make you==you and fix the doc/readme-qt.rst file.  
+  
+I'll try hard to remember to mention this for the 0.5 release notes, but I'll
+warn you I'm really good at forgetting things.
+

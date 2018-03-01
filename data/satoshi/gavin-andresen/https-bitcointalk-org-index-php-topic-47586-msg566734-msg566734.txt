@@ -1,0 +1,12 @@
+
+
+Quote from: jimrandomh on October 10, 2011, 08:18:13 PM
+
+Thanks for all your hard work! But does this being a release candidate mean
+that multi-sigs/receiver-scripts won't be available on testnet until 0.6 or
+later?  
+
+  
+Hmm? testnet accepts non-standard transactions today (I've been doing some
+experiments with multi-sig transactions on the testnet).  
+

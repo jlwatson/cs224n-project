@@ -1,0 +1,15 @@
+
+
+https://github.com/bitcoin/bitcoin/pull/79  
+  
+This modifies FormatMoney to display full-precision values (with trailing
+zeroes trimmed correctly-- e.g. 0 is 0.00 but 0.00010000 displays as 0.0001).  
+  
+And ParseMoney allows entry of full-precision values.  
+  
+And JSON's AmountFromValue doesn't round to two places, so you can send/move
+full-precision values.  
+  
+I haven't tested this with the GUI bitcoin yet, it will probably require UI
+layout tweaks.  
+

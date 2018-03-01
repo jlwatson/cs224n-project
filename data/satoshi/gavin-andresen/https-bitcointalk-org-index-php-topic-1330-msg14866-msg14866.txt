@@ -1,0 +1,21 @@
+
+
+A half-baked thought that's been bouncing around my head for the last couple
+of days:  
+  
+One piece of functionality missing from bitcoin is the ability for somebody to
+prove that they own a certain bitcoin address.  
+  
+I'm thinking that if there was a way to ask bitcoin to:  
+1) Sign an arbitrary bunch of data with a bitcoin address' private key, and
+return the signature.  
+2) Take a bitcoin address and signed data and verify that the signature is
+valid.  
+  
+... then maybe that could function as the building block allowing webs of
+trust to develop in an application independent of 'core bitcoin'.  
+  
+And secure, pseudo-anonymous communication between people who know only each
+other's bitcoin addresses. And probably a bunch of other interesting things I
+haven't thought of.  
+

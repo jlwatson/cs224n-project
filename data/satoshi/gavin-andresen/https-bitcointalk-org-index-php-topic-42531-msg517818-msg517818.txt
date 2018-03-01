@@ -1,0 +1,17 @@
+
+
+They won't lose any money to fees, because they won't broadcast their
+transactions-to-self, they'll just include them in blocks that they create.  
+  
+  
+So, evil miner does:  
+  
+Gets some myselfcoins.  
+Creates transactions that pays themselves the myselfcoins, and pays BIG fees.  
+Does NOT broadcast those transactions.  
+... eventually mines a block that contains those transactions (they're a
+miner, they can put whatever transactions they like in their blocks).  
+  
+Then does that again and again, re-using the same coins, getting richer and
+richer from the FEES+10%  
+

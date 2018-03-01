@@ -1,0 +1,28 @@
+
+
+bitcoind follows the JSON-RPC-over-HTTP spec for reporting errors, but it
+sounds like Sergio's library follows a different spec. You're not the first
+person to complain that bitcoind returns HTTP error codes; here's a one-line
+patch to change that behavior with a "-rpcerrorstatus=200" argument/option:  
+
+Code:
+
+diff --git a/src/bitcoinrpc.cpp b/src/bitcoinrpc.cpp  
+index 31ef725..447b55c 100644  
+\--- a/src/bitcoinrpc.cpp  
++++ b/src/bitcoinrpc.cpp  
+@@ -2088,6 +2088,9 @@ void ErrorReply(std::ostream& stream, const Object&
+objError, const Value& id)  
+if (code == -32600) nStatus = 400;  
+else if (code == -32601) nStatus = 404;  
+string strReply = JSONRPCReply(Value::null, objError, id);  
++  
+\+ // Allow overriding the HTTP status response:  
+\+ nStatus = GetArg("-rpcerrorstatus", nStatus);  
+stream << HTTPReply(nStatus, strReply) << std::flush;  
+}  
+
+  
+Let me know if that solves the problem and/or if it causes any other issues;
+if it doesn't, I'll submit it as a PULL request.  
+

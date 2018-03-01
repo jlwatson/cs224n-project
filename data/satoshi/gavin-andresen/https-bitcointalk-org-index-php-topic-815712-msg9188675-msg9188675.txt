@@ -1,0 +1,40 @@
+
+
+Quote from: NewLiberty on October 13, 2014, 05:17:44 PM
+
+It also may be contrary to the eventual goal of usage driven mining, where
+transaction fees ultimately overtake block reward in value. This proposal may
+drive TX fees to zero forever. Block chain is a somewhat scarce resource, just
+as total # of coins. Adding an arbitrary 50% yearly inflation changes things
+detrimentally.  
+
+  
+I'm sending a follow-up blog post to a couple of economists to review, to make
+sure my economic reasoning is correct, but I don't believe that even an
+infinite blocksize would drive fees to zero forever.  
+  
+Commodity prices never drop to zero, no matter how abundant they are (assuming
+a reasonably free market-- government can, of course supply "free" goods, but
+the results are never pretty). The suppliers of the commodities have to make a
+profit, or they'll find something else to do.  
+  
+That has very little to do with whether or not transaction fees will be enough
+to secure the network in the future. I think both the "DON'T RAISE BLOCKSIZE
+OR THE WORLD WILL END!" and "MUST RAISE THE BLOCKSIZE OR THE WORLD WILL END!"
+factions confuse those two issues. I don't think adjusting the block size up
+or down or keeping it the same will have any effect on whether or not
+transaction fees will be enough to secure the network as the block subsidy
+goes to zero (and, as I said, I'll ask professional economists what they
+think).  
+  
+
+Quote from: NewLiberty on October 13, 2014, 05:17:44 PM
+
+If this forks as currently proposed, I'll be selling all my BTC on Gavin's
+fork and mining on the other. I suspect I will not be the only one.  
+
+  
+Okey dokey. You can join the people still mining on we-prefer-50-BTC-per-block
+fork (if you can find them... I think they gave up really quickly after the 50
+to 25 BTC subsidy decrease).  
+

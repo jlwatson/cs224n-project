@@ -1,0 +1,16 @@
+
+
+Yes, the 0.3.21 release will charge a fee if you want to do things like send
+0.05 bitcoins to yourself.  
+  
+Why? Because some people were sending 0.05 BTC to themselves over and over and
+over again, wasting everybody's disk space, bandwidth, and CPU time. The fee
+is there to reveal the hidden costs of sending lots of tiny transactions.  
+  
+Next release the normal fee will be dropped from 0.01 BTC to 0.0005 BTC.  
+  
+The long-term goal is to figure out how to make fees dynamic; maybe in a few
+months you'll get a slider that lets you choose fees on a transaction-by-
+transaction basis, and will show you how long you're likely to wait for
+various amounts of fees...  
+

@@ -1,0 +1,15 @@
+
+
+Quote from: Sunny King on February 19, 2013, 03:52:16 AM
+
+If you ask Gavin about his position on this matter he likely would have to
+tell you the same thing.  
+
+  
+... or not. There's a difference between "unfixed vulnerabilities" and "half-
+baked design."  
+  
+I think big decisions that affect the fundamentals of the design should be
+discussed in the open (see the current Bitcoin debate over raising the block
+size limit).  
+

@@ -1,0 +1,12 @@
+
+
+Unlike a public HTTPS web server, which accepts connections from anybody, the
+bitcoin HTTPS JSON-RPC server will only accept connections from trusted
+clients, and you'll almost certainly be your own root certificate authority--
+there is no reason to pay for a Verisign certificate, you should generate your
+own and deploy it with the code that is talking JSON-RPC to your server.  
+  
+Or, in other words, since you'll control both ends of the conversation (as
+opposed to a web server, where you typically control EITHER the server OR the
+web browser) you can make it completely secure.  
+

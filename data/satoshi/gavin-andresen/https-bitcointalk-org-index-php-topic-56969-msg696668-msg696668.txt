@@ -1,0 +1,35 @@
+
+
+Quote from: ShadowOfHarbringer on January 17, 2012, 10:02:03 AM
+
+You know Gavin - after some thinking i understand that we need to constantly
+move forward, but you are perhaps going too fast about this.  
+Shouldn't there be a longer wait period before implementation of something
+that can split chains ?  
+  
+I mean this is a serious change. Shouldn't this be programmed in a way so that
+it is activated at, for example, block 190.000 ? This way we would lower the
+risk of splitting chains & stuff.  
+  
+ **Why the rush ? This may be actually dangerous for the network.** **Can't we
+have more time to adapt ?**  
+
+  
+The code is written and committed to the master branch, backports are
+available for every bitcoin release since 0.3.19, and I'm as confident as I
+can be there are no major bugs or "gotchas" hiding in the pay-to-script-hash
+code. Several of the big mining pools have been testing it and will start
+deploying it on the main network.  
+  
+"This stuff" IS programmed in a way so it is only activated on the main
+network after an agreed-upon time.  
+  
+There are still two weeks until we look and see how much support it has, and
+almost a month before /P2SH/ transactions are fully validated on the main
+network. You want to wait 30,000 more blocks? More than 7 months? That's a
+darn good way to get everybody to ignore the issue for 6 months and then
+restart this debate from square one with 1 month to go and a whole fresh set
+of people who think they're being helpful suggesting using OP_ADD to combine
+private keys because they don't realize we thought about and discarded that
+idea 4 months ago.  
+

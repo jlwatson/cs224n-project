@@ -1,0 +1,15 @@
+
+
+Quote from: btc_artist on November 21, 2011, 08:42:00 PM
+
+Does anyone know if gen=1 in bitcoin.conf works in 0.5 on testnet? It doesn't
+seem to do anything as far as I can tell. What I want to do is generate a
+block so my test transactions get included in the block chain.  
+
+Yes, it aught to work (for bitcoind, at least-- I haven't tested with bitcoin-
+qt). getinfo will tell you if it is working (look at "hashespersec").  
+  
+You might want to run a testnet-in-a-box, it is 60 time easier to generate
+blocks on it:  
+https://sourceforge.net/projects/bitcoin/files/Bitcoin/testnet-in-a-box/
+

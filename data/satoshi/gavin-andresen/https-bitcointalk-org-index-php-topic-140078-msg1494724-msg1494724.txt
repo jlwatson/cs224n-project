@@ -1,0 +1,21 @@
+
+
+Sergio:  
+  
+It **would** be more helpful if you either took a little bit more time and
+actually wrote a little bit of code to make sure the attack works, and started
+the conversation privately with "here's code that demonstrates a very
+expensive-to-verify transaction and a few suggestions on how you might fix
+it..."  
+  
+I created a simulation of TxPrep/TxAttack by adding them to
+src/test/data/script_valid.json and then running through the script_tests.cpp
+unit test in the debugger, and with the particular TxPrep you propose there is
+no problem with current code.  
+  
+Also, TxAttack is not standard with the latest code; see
+CTransaction::AreInputsStandard(), which checks the scriptPubKeys being spent.  
+  
+RE: undocumented process of responsible disclosing : good point. Where would
+you expect to find the process documented? We can fix that...  
+

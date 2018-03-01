@@ -1,0 +1,23 @@
+
+
+Looking at the getwork code, it should only call CreateNewBlock() every minute
+or so:  
+
+Code:
+
+if (pindexPrev != pindexBest ||  
+(nTransactionsUpdated != nTransactionsUpdatedLast && GetTime() - nStart > 60))  
+{  
+[...]  
+nTransactionsUpdatedLast = nTransactionsUpdated;  
+pindexPrev = pindexBest;  
+nStart = GetTime();  
+  
+// Create new block  
+pblock = CreateNewBlock(reservekey);  
+
+This will call CreateNewBlock() either on a new block coming in, or on a new
+transaction if it's been 60 seconds since the last call. This shouldn't affect
+every getwork call, unless it's actually taking 60 seconds to do
+CreateNewBlock(), which would be remarkable.
+

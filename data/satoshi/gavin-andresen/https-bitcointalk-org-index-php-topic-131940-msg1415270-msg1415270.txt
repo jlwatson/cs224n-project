@@ -1,0 +1,14 @@
+
+
+Quote from: Sunny King on December 21, 2012, 06:09:38 PM
+
+We will accelerate the development schedule for this fix so stay tuned. I will
+give an update in my weekly update later this week on the progress of the
+release.  
+
+There are several smart people here who would tell you if your fix will work
+or not, if you listen to them.  
+  
+Peer review is not perfect, but is much better than assuming that you will
+always come up with the best solution.  
+

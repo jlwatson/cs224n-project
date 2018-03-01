@@ -1,0 +1,32 @@
+
+
+It looks like maybe some pools have reacted; the average block size is going
+up:  
+http://www.quandl.com/BCHAIN-Blockchain/AVBLS-Bitcoin-Average-Block-Size  
+  
+For those that haven't, the relevant bitcoind command-line arguments are:  
+  
+
+Code:
+
+-blockminsize=<n> Set minimum block size in bytes (default: 0)  
+-blockmaxsize=<n> Set maximum block size in bytes (default: 250000)  
+-blockprioritysize=<n> Set maximum size of high-priority/low-fee transactions in bytes (default: 27000)  
+-mintxfee=<m.n> Minimum fee-per-kilobyte to qualify as fee-paying (default: 0.0001)  
+
+  
+Adding:  
+
+Code:
+
+blockmaxsize=500000  
+blockprioritysize=45000  
+
+... to your bitcoin.conf and re-starting bitcoind (or running with the
+command-line arguments) will really help with the transaction crunch.  
+  
+I'm still hard at work (nearly done!) on making the reference implementation
+much smarter about transaction fees, but until wallet software gets smarter
+about fees we need to rely on big pools doing the right thing so Bitcoin users
+don't get frustrated by long transaction confirmation times.  
+

@@ -1,0 +1,16 @@
+
+
+Quote from: znort987 on June 04, 2012, 04:54:36 PM
+
+That may very well be, but I'm generally surprised  
+to see that a testnet "reset" has so many dependencies  
+left on the old chain.  
+  
+Would it be possible to have bitcoin-qt refuse  
+all testnet packets from a peer that identifies  
+as being below a certain version ?  
+
+Yes... but having peers with a completely different block chain from you
+connect is a good way to shake out obscure bugs. Like Bitcoin-Qt's "how many
+blocks are in the valid chain" code getting fooled...  
+

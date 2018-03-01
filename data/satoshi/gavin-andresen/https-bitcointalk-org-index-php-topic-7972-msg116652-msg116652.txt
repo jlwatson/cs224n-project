@@ -1,0 +1,13 @@
+
+
+All this talk about neato-spiffy future hub-and-spoke supernodes-and-leaves
+architecture is great.  
+  
+But I was kinda thinking of first solving the problem that anybody who just
+wants to download the client, get a few coins from a friend, and then spend
+them on something has to wait a very long time right now. That doesn't require
+any re-architecting of the system or any new networking messages, and should
+make the "out of the box" bitcoin experience much better for lots of people.  
+  
+And it is a step towards a future neato-spiffy Uber-efficient hyper++client.  
+

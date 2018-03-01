@@ -1,0 +1,12 @@
+
+
+Can we not beat this dead horse?  
+  
+I think there are MUCH more important things to work on / worry about than
+whether or not "send 1 BTC" is expressed as "sendtoaddress FOO 1.00" or
+"sendtoaddress FOO 100000000" in the JSON-RPC.  
+  
+How about we (I'll start) write a "Proper Money Handling" page for the Wiki
+that discusses the issue and gives code example of how to convert to/from JSON
+double-precision floating point and 64-bit integer?  
+

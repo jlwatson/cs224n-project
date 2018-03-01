@@ -1,0 +1,8 @@
+
+
+Bitcoin is not a single product any more, so a "Download Now!" button doesn't
+make sense any more.  
+  
+Just like bittorrent or linux aren't single products. And if you visit
+bittorrent.org or linux.org... guess what? No download button.  
+

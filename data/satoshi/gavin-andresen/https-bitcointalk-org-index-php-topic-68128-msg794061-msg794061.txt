@@ -1,0 +1,12 @@
+
+
+There have already been several "transaction spam" attacks; as already pointed
+out, transaction fees keep them from being a big problem.  
+  
+The code also limits the number of free transactions that are relayed across
+the network, so you can't flood the network with transactions that will never
+get mined.  
+  
+Smarter denial-of-service attack prevention code has been a major unseen
+feature of the last couple Bitcoin releases.  
+

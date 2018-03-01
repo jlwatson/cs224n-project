@@ -1,0 +1,7 @@
+
+
+Hmmm.... works for me. See: https://gist.github.com/3966071 for exactly what I
+did to create and then spend a 2-of-3 on the main network, with keys that are
+not in my wallet.  
+  
+

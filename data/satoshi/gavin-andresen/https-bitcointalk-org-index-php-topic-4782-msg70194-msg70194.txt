@@ -1,0 +1,9 @@
+
+
+RE: fractional reserve bitcoin banks:  
+  
+I think it will happen, too. Because of the nature of bitcoins they could
+arrange so that their reserves can be audited by anybody (easiest way: prove
+they own a particular bitcoin address by signing something with its private
+key, then send all their reserves to that address).  
+

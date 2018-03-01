@@ -1,0 +1,22 @@
+
+
+Quote from: Revelation 22:13 on June 04, 2013, 09:18:52 AM
+
+Let's say the IRS wants to be able to confiscate bitcoins from tax evaders. So
+they go to the US courts to get this. A judge ends up ordering the bitcoin.org
+dev team to include a government backdoor so the IRS can take funds away from
+those who don't pay taxes.  
+  
+The devs would be forced to comply right?  
+
+  
+Pieter and Wladimir are not US citizens, so a US judge can't order them to do
+anything.  
+  
+If I was ordered to insert a backdoor, I'd just resign as lead developer and
+find something else to work on.  
+  
+But this whole scenario sounds like a paranoid delusion; has there EVER been a
+case where a judge has ordered a software developer to do anything other than
+stop distributing their software (because of some copyright or patent issue) ?
+

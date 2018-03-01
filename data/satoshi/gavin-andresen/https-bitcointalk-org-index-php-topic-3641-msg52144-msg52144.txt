@@ -1,0 +1,14 @@
+
+
+Quote from: Mahkul on February 20, 2011, 10:01:18 PM
+
+As I said I think an ideal solution would be having an official miner as a
+separate application, where you could chose between what miner you want to use
+(miners would be included in the installation package).  
+
+  
+Good idea.  
+  
+Patches welcome, as long as they're nice and stable and have had a fair bit of
+testing...  
+

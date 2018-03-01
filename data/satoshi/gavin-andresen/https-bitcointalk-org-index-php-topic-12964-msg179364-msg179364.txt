@@ -1,0 +1,12 @@
+
+
+If you're worried about a "fund account with tiny bitcoins" attack, you should
+charge users that fund accounts with gazillions of tiny transactions an
+"excess account activity fee." I've been thinking about writing code for
+ClearCoin that does that, but at least so far it doesn't make sense for me to
+spend time doing that.  
+  
+And see: https://github.com/bitcoin/bitcoin/pull/285 for the current thinking
+on how to handle fees at sending time.  
+  
+

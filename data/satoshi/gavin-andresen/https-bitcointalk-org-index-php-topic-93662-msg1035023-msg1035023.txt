@@ -1,0 +1,18 @@
+
+
+Quote from: paulie_w on July 16, 2012, 09:19:04 PM
+
+i'm not sure if he is correct about using Tor not working for inbound
+connections. i didn't know that was the case, if so and would like developer
+commentary on it.  
+
+You'll be able to run as a 'hidden service' that is advertised to other nodes
+running on the Tor network and get incoming Tor connections in the next
+release.  
+  
+See https://github.com/bitcoin/bitcoin/blob/master/doc/Tor.txt for details
+(send thanks to Pieter Wuille for doing the work).  
+  
+RE: hard drive space: Pieter has been busy optimizing HD usage, too
+("ultraprune"), but that work isn't finished yet.  
+

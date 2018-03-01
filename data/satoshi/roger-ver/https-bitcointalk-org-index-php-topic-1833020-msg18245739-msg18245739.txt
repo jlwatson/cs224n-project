@@ -1,0 +1,35 @@
+
+
+Quote from: Hydrogen on March 19, 2017, 02:09:35 AM
+
+One thing that stands out in OP's youtube video, is Roger Ver saying he wants
+bitcoin to compete with credit cards in terms of transaction speed and fees so
+that "everyone can use it".  
+  
+That's kind of like saying he wants to make encrypted WIFI fast enough to play
+video games as well as an FIOS hardline.  
+  
+He doesn't seem to have a plan or idea on how to achieve this.  
+  
+He doesn't seem to understand encryption based technologies like bitcoin will
+never be as fast as credit cards, for the same reasons that encrypted WIFI
+will always be much slower than using an unencrypted hardline for gaming.  
+  
+He seems to think that if he continues to increase block size, he'll
+eventually reach a point where bitcoin can execute thousands of transactions
+per second, like credit cards do.  
+  
+It seems like a bad plan created by a person who lacks the technical
+background to be involved with making key bitcoin design decisions.  
+
+  
+Great job putting words in my mouth.  
+Layer two technologies will allow Bitcoin to compete with Credit Cards.  
+My main point is that we shouldn't damage layer one's usability today in order
+to force people onto layer two. They'll just be forced into altcoins anyhow.
+(As we are seeing)  
+  
+BU's roadmap preserves layer one. Core's roadmap intentionally damages layer
+one.  
+It is clear to me which path is the safer one.  
+

@@ -1,0 +1,35 @@
+
+
+Can we come up with a scheme that uses 2-of-3 that solves the problem?  
+  
+  
+Key 1 is the Wallet Protection Service Key. Your wallet only knows the public
+half of that key.  
+  
+Create two random keys, Key 2 and Key 3, offline. Save them, they're needed
+for backup.  
+Transfer the private part of Key 2 and just the public half of Key 3 to the
+online wallet.  
+  
+The wallet can generate the 2-of-3 required bitcoin payment address (it has
+all 3 public keys), but can only sign for Key 2.  
+  
+Normally, it will ask the wallet protection service to sign for Key 1.  
+  
+If the WPS goes out of business, the private key for Key3 can be imported and
+the wallet will be able to spend without the WPS.  
+If the online wallet gets lost AND the WPS goes out of business, then Key2 and
+Key3 can be restored from the offline backup.  
+  
+
+* * *
+
+  
+If you care about privacy and want to make it harder for people to track your
+transactions, then you could implement a deterministic key scheme on top of
+all of that-- start with keys 1, 2 and 3 and ECC multiply them by some random
+number to get derived keys. The random number would need to be stored with the
+backup, in the online wallet, and sent to the wallet protection service, but
+that's OK because you need the random number plus 2 of the 3 secret keys to
+spend the coins.  
+

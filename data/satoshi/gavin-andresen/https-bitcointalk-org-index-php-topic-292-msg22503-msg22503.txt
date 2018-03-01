@@ -1,0 +1,16 @@
+
+
+I just committed a change to svn to the way debug.log is written that means
+you need to change your logrotate configuration.  
+  
+Why the change: before, bitcoin was opening and closing debug.log on every
+print. That caused it to be unusable on Macs running FileVault (and slower
+than it aught to be on various other systems).  
+  
+After subversion rev 183, bitcoin will keep debug.log open and just append to
+it.  
+  
+If you're rotating logs using the unix logrotate command, just add
+'copytruncate' to its configuration file and the right thing will happen. I
+changed the example in my post above.
+

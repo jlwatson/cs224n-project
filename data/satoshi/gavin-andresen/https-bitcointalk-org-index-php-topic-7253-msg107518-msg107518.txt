@@ -1,0 +1,9 @@
+
+
+Block 70136 has 0.03BTC in un-spendable transactions.  
+  
+9050+  
+0.03  
+\---------  
+9050.03  
+

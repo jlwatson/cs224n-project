@@ -1,0 +1,11 @@
+
+
+The yoursway create-dmg script had the same problem.  
+  
+I changed the approach to using a "template" .dmg file, as described here:  
+http://digital-sushi.org/entry/how-to-create-a-disk-image-installer-for-apple-
+mac-os-x/  
+  
+The .dmg includes Bitcoin.app, a compiled bitcoind daemon, and the source code
+.zipped up.
+

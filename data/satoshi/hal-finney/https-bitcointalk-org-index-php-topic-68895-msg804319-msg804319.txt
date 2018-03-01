@@ -1,0 +1,8 @@
+
+
+File this one under "you can't win."  
+  
+I fired up the new client after several days, the progress bar immediately
+went to 99%, and stayed there for the next ten minutes. I guess some people
+found the old behavior confusing, but of what use is this behavior?
+

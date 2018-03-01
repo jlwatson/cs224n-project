@@ -1,0 +1,7 @@
+
+
+sha256sum produces hex output, you need to convert to binary with xxd:  
+  
+sha256sum -b manual.txt | colrm 65 99 | xxd -r -p | sha256sum -b  
+d1e802bfb7a086bb37e3e3f395e990e2663354ffaf948b9dde71020000000000
+

@@ -1,0 +1,28 @@
+
+
+I like "sweep" -- it has very clear semantics that I think users will
+understand: "Take all the funds that were sent THERE, and send them to me
+RIGHT NOW."  
+  
+Automatic sweep-every-once-in-a-while functionality would be fine, as long as
+it was coded properly (sweeps should only be done if you have the full block-
+chain, not if you're busy catching up, and shouldn't be done immediately to
+avoid a flurry of accidental double-spends if you have several wallets setup
+to sweep the same key(s)).  
+  
+I don't like "import" -- it has muddy semantics that I think users will not
+understand. "You kind-of-sort-of own the funds that were sent THERE, unless
+somebody else happens to have a copy of THERE that you may or may not know
+about."  
+  
+Import is bad because it can lead to a situation like:  
+Start up bitcoin, see you have 1 BTC in your wallet (sent to an imported
+private key in block 111,000)  
+So you send half of it to your friend to pay for lunch.  
+... bitcoin chugs away, and it turns out that 1BTC was spent already, in block
+190,000.  
+User is all "wtf??? where did my BTC go???"  
+  
+If you're an uber-geek and know what you're doing, then you should use geeky,
+dangerous tools like PyWallet to do what you want to do.  
+

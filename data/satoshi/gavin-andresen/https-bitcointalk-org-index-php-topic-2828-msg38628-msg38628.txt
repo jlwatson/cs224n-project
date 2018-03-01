@@ -1,0 +1,12 @@
+
+
+Adjusting the testnet difficulty every, oh, say 100 blocks (instead of 2016)
+seems like a good idea to me.  
+  
+That's a trivial patch; I nominate ArtForz and Xelister to write it and submit
+a pull request.  
+  
+Locking in the testnet block chain-- not so much. I don't think it is worth
+the effort to either come up with a mechanism for distributing the lock-in
+points or manually put lock-in points in the source code.  
+

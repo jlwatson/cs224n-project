@@ -1,0 +1,47 @@
+
+
+I did some research into money exchanging and money transfer regulations in
+the U.S.  
+  
+The raw legal code is online at:
+http://www.access.gpo.gov/nara/cfr/waisidx_08/31cfr103_08.html  
+  
+I am not a lawyer; trying to understand legalese is just an odd hobby of mine.
+From my reading of the regulations, if you exchange less than $1,000.USD worth
+of Bitcoin per day you don't have to worry:  
+  
+
+Quote
+
+(1) Currency dealer or exchanger. A currency dealer or exchanger (other than a
+person who does not exchange currency in an amount greater  
+than $1,000 in currency or monetary or other instruments for any person on any
+day in one or more transactions).
+
+  
+It looks to me like if you exchanged more than $1,000.USD per day a good
+lawyer might be able to argue that Bitcoins do not meet the legal definition
+of "currency":  
+
+Quote
+
+(h) Currency. The coin and paper money of the United States or of any other
+country that is designated as legal tender and that circulates  
+and is customarily used and accepted as a medium of exchange in the country of
+issuance. Currency includes U.S. silver certificates, U.S. notes and Federal
+Reserve notes. Currency also includes official foreign bank notes that are
+customarily used and accepted as a medium of exchange in a foreign country.
+
+  
+Then again, if Bitcoins are not legally "currency" then it might be left up to
+a Court to decide what, exactly, they are, and the result might be really
+unpleasant (if a judge decided that they're like stocks and are therefore
+subject to regulation by the Security and Exchange Commision you might find
+yourself in jail for being an unlicensed stock broker).  
+  
+I think Bitcoin needs some licensed, regulated exchanges that abide by all the
+regulations, treating Bitcoins just like another foreign currency, and make it
+really easy to buy or sell a few hundred dollars worth of Bitcoins. The
+regulations are not as onerous as I expected; basically you just have to get
+identification from customers that make large transactions and report them.
+

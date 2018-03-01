@@ -1,0 +1,13 @@
+
+
+Quote from: bitcoinex on December 23, 2010, 03:13:27 AM
+
+How would look multitransaction with several entries of identical addresses
+with identical amounts? How they will be different for JSON client?  
+
+  
+They won't be different-- you will get two entries that are identical.  
+  
+Bitcoin will sum them up for you if you use the getbalance or getreceivedby*
+RPC commands.
+

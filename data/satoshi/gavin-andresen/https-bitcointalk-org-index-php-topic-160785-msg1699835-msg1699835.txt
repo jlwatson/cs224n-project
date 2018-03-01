@@ -1,0 +1,13 @@
+
+
+So.... move too fast and we maybe introduce a forking bug or a security
+vulnerability.  
+  
+Move too slow and maybe we get fired-- somebody faster at incorporating safe
+changes releases their own fork.  
+  
+For me, "move slow" is the right answer.  
+  
+But I would be completely happy contributing patches to somebody else running
+a fork who solves the "move fast but be safe" problem.  
+

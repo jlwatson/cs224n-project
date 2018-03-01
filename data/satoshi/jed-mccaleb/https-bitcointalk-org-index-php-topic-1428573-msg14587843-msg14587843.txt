@@ -1,0 +1,18 @@
+
+
+cryptmebro  
+> I still don't understand how this coin doesn't have a wallet...a real wallet  
+There is this:
+https://play.google.com/store/apps/details?id=de.xcoins.centaurus&hl=en  
+But yeah it would be nice if people improved this wallet.  
+  
+toThemJoy  
+> Hi Stellar squad. Tried registering my email to join the slack group but I
+never received any invites.  
+This usually means you already signed up for it with that email. Can you email
+jed@stellar.org and I'll get it sorted.  
+  
+  
+> Does it count if I own them on an exchange or I will have to withdraw?  
+More details coming soon but it will depend on your exchange.
+

@@ -1,0 +1,17 @@
+
+
+The "scripting language" ("expression evaluator" would be more accurate) is a
+little stack-based intepreter that looks at lot like Forth.  
+  
+So, for example, here's an example of a GENERATED coin getting spent:  
+  
+TxIn: 73:3046...0f01  
+Prev.TxOut: 65:046d...bb9c CHECKSIG  
+  
+That's intepreted as:  
+PUSH a 73 byte value onto the stack  
+PUSH a 65 byte value onto the stack  
+call CHECKSIG. CHECKSIG pops two values off the stack (public key and digital
+signature), then does the digital signature thing using the OpenSSL
+ECDSA_Verify() function.
+

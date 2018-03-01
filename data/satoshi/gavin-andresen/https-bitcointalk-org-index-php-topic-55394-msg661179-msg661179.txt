@@ -1,0 +1,40 @@
+
+
+Quote from: casascius on December 24, 2011, 05:47:54 AM
+
+The most important metric would be when the block was received. If I receive a
+block that tries to replace a block 6 or 10 or 100 blocks ago on the chain I
+already know about, and I have no reason to believe I've been segregated from
+the network at large, I'm not going to vouch for it.  
+
+  
+Yes.  
+  
+The times the blocks are announced also matters; if my node suddenly sees a
+longer 10-block chain it has never seen before, then either it is a 51% attack
+or the network was split and just came back together.  
+  
+If the network was split 10 blocks ago then I should see that those 10 blocks
+took twice as long to create as expected.  
+  
+Rating blocks is a neat idea; I can think of several potential criteria, there
+are probably more we could come up with:  
+  
+
+  * Did I first see the block announcement long after the block's timestamp?
+  * Does it look like it is part of a network split? (two chains that are both producing blocks more slowly than usual)
+  * Are they part of a sub-chain with a 'normal' distribution of blocks from the well-known mining pools? (an attacker's chain won't have blocks from ANY of the mining pools)
+  * Does it contain any double-spends that conflict with alternate chains I know about?
+  * Do the transactions in it look 'normal'? (reasonable number of transactions, reasonable amounts)
+
+  
+Somebody should simulate some 51% attacks and network splits and try out
+various detection algorithms.  
+  
+And maybe see if it would be practical to have a checkpoint lock-in rule of
+something like "auto-checkpoint any AAA-rated block once it is 4-deep in the
+best chain". I don't think that should be built-in to bitcoind, but a little
+side program that monitored the block chain and the pools and told bitcoind to
+add a checkpoint once an hour or so would be pretty spiffy...  
+  
+

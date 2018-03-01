@@ -1,0 +1,22 @@
+
+
+Quote from: foo on November 22, 2011, 09:10:51 PM
+
+Hm, I just downloaded the .zip version and noticed that the sha1sum doesn't
+match:  
+What's up?  
+
+  
+I updated the .zip and .tar.gz and SHASUMS.asc a few hours ago, because the
+.zip and the .tar.gz were expanding to a "bitcoin-rc7" directory.  
+  
+
+Quote from: Mageant on November 22, 2011, 08:34:45 PM
+
+I'm confused, the file says "bitcoin-0.5.0-win32-setup.exe" but the GUI looks
+the same and in the version number inside the client it says  
+version 0.4.0-Beta.  
+
+  
+Be sure you run bitcoin-qt.exe, not the old bitcoin.exe.  
+

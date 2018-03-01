@@ -1,0 +1,15 @@
+
+
+Quote from: jackjack on May 30, 2013, 04:47:20 PM
+
+The problem is security and developers' unwillingness to accept more op codes
+(ie making them standard)  
+
+  
+Security, yes (including potential for denial-of-service attacks of various
+sorts).  
+  
+But demonstrate a spiffy, compelling use of new opcodes on testnet and we'll
+talk about making them standard.  
+  
+

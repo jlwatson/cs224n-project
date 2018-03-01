@@ -1,0 +1,15 @@
+
+
+0.001 BTC at today's exchange rate is uncomfortably close to the estimated
+network-wide cost of processing a bitcoin transaction (which is about 0.001 US
+dollars).  
+  
+The danger is a flood of micro-transactions that keep everybody's CPUs busy,
+driving up that hidden cost and, eventually driving people to stop running
+bitcoin because the costs aren't worth the benefits.  
+  
+  
+Also: lets not confuse the "how many free transactions" with "what is the
+smallest transaction amount you can send."  
+  
+

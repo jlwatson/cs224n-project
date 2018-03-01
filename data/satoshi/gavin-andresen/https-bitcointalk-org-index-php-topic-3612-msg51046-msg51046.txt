@@ -1,0 +1,28 @@
+
+
+I've made public the windows, linux32 and linux64 Amazon Machine Images used
+to build bitcoin 0.3.20. If you have an Amazon EC2 account, you can launch
+them and have your own working build environment for linux or windows bitcoin
+(paid for by the hour).  
+  
+They are:  
+ami-4adf2c23 32-bit Linux (Ubuntu 9.04)  
+ami-12df2c7b 64-bit Linux (Ubuntu 9.04)  
+ami-7a21d213 Windows (with MinGW)  
+  
+All created in the us-east-1b zone (I don't know if Amazon automatically
+migrates public AMIs across the world).  
+  
+After launching the Linux VMs, you login as root (using the ssh keypair you
+specify when you launch).  
+  
+After launching the Windows VM, you connect via Remote Desktop and then login
+as Administrator, password "bitcoin development" (you should change that for
+your instance as soon as you login, of course).  
+  
+They contain bitcoin, bitcoind, and everything needed to build them, already
+built. You could launch instances and try to generate coins, but that's not
+cost-effective.  
+  
+(Updated 22 Feb with 0.3.20.01 Windows AMI)
+

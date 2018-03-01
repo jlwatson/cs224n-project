@@ -1,0 +1,33 @@
+
+
+Quote from: Bytas on March 29, 2013, 11:20:54 AM
+
+Hi, i was wondering if it is possible to lower the minimum transaction fee for
+bitcoin.  
+
+  
+Sure.  
+  
+First, you need to make sure miners will accept bitcoins with the lower fee.
+So lobby your favorite miner or mining pool to set the -mintxfee= parameter to
+something lower than the default 0.0005 BTC-per-kilobyte; you can ask them if
+they will increase the size of the blocks they're creating and include more
+free transactions, too (those are settings they control).  
+  
+Then, if you're using Bitcoin-Qt, you can set the transaction fee in the
+Preferences/Options dialog.  
+  
+Right now, network peers won't relay low-priority transactions that include a
+fee of less than 0.0001 BTC, so that is as low as you should go. Fixing that
+is near the top of the (long) TODO list, but I really want to fix it correctly
+so we developers get out of the business of deciding what the transaction fees
+should be, and instead let the network decide.  
+  
+If you generate a small number of high-bitcoin-value transactions (e.g. you
+have more than 1 BTC in your wallet and make a few purchases a week) then you
+should probably leave the Pay transaction fee setting at zero; Bitcoin-Qt will
+send your transactions without a fee, which will be just fine.  
+  
+  
+  
+

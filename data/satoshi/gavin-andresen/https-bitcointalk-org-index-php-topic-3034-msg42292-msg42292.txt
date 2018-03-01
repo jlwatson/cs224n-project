@@ -1,0 +1,16 @@
+
+
+luke-jr's patches got me thinking about whether or not passing double-
+precision values over the JSON-RPC api would ever cause problems. I've
+convinced myself it isn't an issue:  
+  
+JSON numbers are 64-bit double-precision floating point values, which have 53
+bits of precision.  
+  
+21 million bitcoins is actually 2,100,000,000,000,000 (2.1 quadrillion) of the
+smallest possible unit. That's a bit over 251 \-- you need just over 51 bits
+to represent them.  
+  
+So, unless your JSON library is buggy, you should never run into rounding
+errors converting to/from JSON, even if you're sending 0.00000001 bitcoins.  
+

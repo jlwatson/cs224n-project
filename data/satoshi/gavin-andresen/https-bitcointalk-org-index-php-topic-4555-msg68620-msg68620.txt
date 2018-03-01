@@ -1,0 +1,15 @@
+
+
+Quote from: ShadowOfHarbringer on March 20, 2011, 06:20:59 PM
+
+Can somebody explain to me why in the calculations 2 ^ 32 combinations is used
+instead of 2 ^ 64 for the unknown 64 bits ?  
+
+In jgarzik's original implementation, an attacker can pre-generate a rainbow
+table with 2^32 entries, and that lets them take a shortcut so they only have
+to try 2^32 bits for any particular scratch card (algorithm is, essentially,
+"foreach value in 2^32: do some complicated math, then see if the result
+matches a value in the 2^32-size rainbow table; if it does, you've found the
+unknown 2^64 bits").  
+  
+

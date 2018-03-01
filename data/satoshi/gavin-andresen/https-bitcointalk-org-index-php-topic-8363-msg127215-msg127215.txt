@@ -1,0 +1,45 @@
+
+
+In the long run, block size will NOT be the bottleneck, so it will NOT
+determine the marginal cost of a transaction.  
+  
+The bottleneck is, and I believe will continue to be, the number of ECDSA
+signature verifications a miner can perform per second. Each miner (or mining
+pool operator) will have a transaction processing capacity of N transactions
+per second.  
+  
+If there are more than N transactions per second going across the network,
+then the smart miners will select the most profitable N for inclusion in their
+blocks and drop the least profitable.  
+  
+And the smart miners will keep track of how much it would cost them to invest
+in more CPUs or specialized ECDSA-verification hardware so they can process
+N+M transactions per second. And figure out how much they would make in fees
+or side-deals (or whatever) when they handle those extra M transactions per
+second. If it is profitable, they will increase their transaction processing
+capacity.  
+  
+
+* * *
+
+I think what bitcoin is missing right now is code in the clients to figure out
+the "right" amount of fees. We're currently relying on hard-coded rules that
+match in the client and in the miners (because it was All One Application to
+start). We need to move to something more dynamic. Some thoughts I jotted down
+last night:  
+  
+Users want to know what fee to pay, given the constraints "I want this
+transaction confirmed in B or fewer blocks with probability greater than P".  
+  
+If we think of that as an equation:  
+
+Code:
+
+fee = f(txn, B, P)
+
+... then the question is can a client estimate f by looking at the block chain
+and/or observing transactions as they fly across the network and (eventually)
+get included in blocks? Or can we come up with a protocol to communicate f
+between clients and miners?  
+  
+

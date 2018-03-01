@@ -1,0 +1,4 @@
+
+
+Run the gui with the -server switch.  
+

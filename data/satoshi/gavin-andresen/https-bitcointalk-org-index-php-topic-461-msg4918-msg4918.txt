@@ -1,0 +1,9 @@
+
+
+I've implemented it so that all the command-line options can also be specified
+in the bitcoin.conf file.  
+  
+Options given on the command line override options in the conf file. But I
+need to do more testing, especially with the "multiargs" options like
+"addnode".  
+

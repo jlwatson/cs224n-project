@@ -1,0 +1,17 @@
+
+
+I'd say the short answer to "is it possible to accept them again in the near
+future" is no (where "near" is in the next six months).  
+  
+I agree with Maged-- before enabling new opcodes, I'd like to see a peer-
+reviewed academic-style paper that works through the security implications of
+the existing set of opcodes and gives a nice framework for thinking about new
+(or disabled old) opcodes. Doing that is way outside my own personal level of
+expertise; I know only enough about designing secure algorithms to know that I
+have no idea whether or not re-enabling OP_XOR would have security
+implications for bitcoin.  
+  
+Same goes for enabling nLockTime / transaction replacement, although I suspect
+that proving that transaction replacement doesn't open up any subtle attacks
+may be harder than proving security properties of opcodes.  
+

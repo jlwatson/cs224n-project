@@ -1,0 +1,11 @@
+
+
+Maybe try putting  
+  
+return false;  
+  
+as the first line of Detect128BitSSE2(), see if that fixes it. If so, and
+you're really energetic, move the return down to just before, then just after
+the memcpy, to confirm that's where the problem is.  
+  
+

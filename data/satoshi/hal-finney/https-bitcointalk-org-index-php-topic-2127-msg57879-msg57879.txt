@@ -1,0 +1,16 @@
+
+
+Quote from: khal on March 01, 2011, 05:43:42 PM
+
+It may be a good security to generate 1'000'000'000 addresses to avoid someone
+to send your wallet over the web :p  
+
+Actually there's respectable cryptographic research into making signing keys
+enormous, potentially GBs in size. The purpose is to make it hard for a virus
+to steal them. Then you might say, well, how do I sign with a multi-GB key?
+This is the trick, you can sign using a small subset of the key, but the
+subset changes for each signature, so the virus has to steal the whole key in
+order to sign arbitrary data.  
+  
+Not too applicable to Bitcoin, but the basic idea might be useful sometimes.
+

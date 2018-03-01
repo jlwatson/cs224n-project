@@ -1,0 +1,39 @@
+
+
+The smartcard-generates-a-private-key-itself seems like overkill. No matter
+what, you have to trust the smartcard manufacturer. Because even if the
+smartcard generates a private key, you have to trust that the smartcard
+manufacturer didn't:  
+\+ Add a backdoor that lets them read the private key  
+\+ Break the implementation so the private key created is predictable  
+  
+If you have to trust the smartcard manufacturer anyway, it seems to me a much
+simpler solution is to just associated a bitcoin address with a tangible
+bitcoin.  
+  
+Redeeming the tangible bitcoin then means turning it over to the issuer and
+having them send the bitcoins to one of your addresses.  
+  
+It is easy to solve half of the "is this valid" problem-- you can easily check
+to see if bitcoins have been sent to that address and are still unspent.  
+  
+The other half of the problem is "is there another unredeemed copy out there?"  
+  
+Perhaps the issuer could publish a public database of unredeemed tangible
+bitcoins that is:  
+bitcoin address --> hash of information that the tangible bitcoin purchaser
+provides  
+  
+I could then check that database to see if bitcoin address 1abc was sold ONLY
+to SHA256("Gavin Andresen 1-Jan-2011"). That stops the issuer from selling the
+same bitcoins over and over again.  
+  
+I still have to trust that the issuer won't decide to spend all the bitcoins
+(since they have the private keys) and disappear. But that's really no
+different from trusting your smartcard manufacturer.  
+  
+(interesting thing to think about: the issuer could actually use just one
+private key and generate as many public keys as they like that can all be
+signed using that one private key...)  
+  
+

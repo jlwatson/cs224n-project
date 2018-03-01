@@ -1,0 +1,29 @@
+
+
+Quote from: Raulo on March 17, 2011, 06:37:52 PM
+
+Building the bitcoin chain in parallel and reversing all transactions from,
+say, last week would, for instance, cripple bitcoin exchanges if they would be
+required to refund the reversed purchases. And it can be done in a stealth way
+so the community cannot do any countermeasures until after it happens.  
+
+  
+They can only invalidate transactions that they made (or further transactions
+that spend transactions that they made). That makes the attack a lot less
+likely in practice; if they had a lot of bitcoins, and purchased a lot of good
+or services (or exchanged them for dollars or euros) with a lot of people,
+then some of those people are likely to know WHO "they" are. And if they're in
+the same legal jurisdiction, it seems to me you'd have a pretty good case for
+suing them for fraud.  
+  
+Even if 'they' decided to do this just to try to mess up the bitcoin network
+it might be messy for the exchanges to clean up but I don't think it would
+cripple them. The bitcoin client already trys to select "old money" when it
+creates transactions, so assuming that the exchange has a good cushion of
+bitcoins on deposit all the attacker is likely to accomplish is to invalidate
+their own deposits at the exchange.  
+  
+All that said: I'm not going to advise people to hold money they can't afford
+to lose in bitcoins until the network has a lot more hashing power. There is
+still some risk while bitcoin is young.  
+

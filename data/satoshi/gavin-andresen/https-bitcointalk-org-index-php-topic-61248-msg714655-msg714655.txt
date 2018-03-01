@@ -1,0 +1,55 @@
+
+
+I just had a great discussion with a developer who urged me to write a "big
+picture" technical post about BIP 16. So:  
+  
+First, I think a good design approach is to be clear about what you are trying
+to accomplish and think about what the ideal solution, if there were no
+constraints like backwards compatibility, would look like.  
+  
+The big picture goal has always been: short, multisignature bitcoin addresses
+(BIP 13).  
+  
+The ideal solution would be to split scriptSig/scriptPubKey into three parts:  
+  
+signatures, redemption script, and redemption script hash.  
+  
+The sender would just provide the script hash, the receiver would provide the
+script and signatures to sign them over to somebody else.  
+  
+Ideally, the redemption script hash would be include a version or 'hash type'
+byte, so in the future if RIPEMD160(SHA256()) was ever considered insecure a
+smooth upgrade could happen.  
+  
+That's the ideal solution. I think all bitcoin transactions should have been
+done that way from the start, but it is what it is. Now we have to compromise,
+because one of the design constraints is backwards compatibility-- we are not
+going to replace scriptSig/scriptPubKey with something else and require
+everybody to upgrade all at once.  
+  
+OP_EVAL tried to do too much, in my opinion. It enabled all sorts of nifty
+things, but we made the mistake of losing sight of what we were trying to
+accomplish.  
+  
+BIP 16, in my view, meets the goal and (importantly!) **does nothing more**. I
+think of it as implementing the ideal three-way split in as simple and safe
+way as possible:  
+  
+signatures: all the items except the last pushed onto the stack by the
+scriptSig  
+redemption script: the last item pushed onto the stack by the scriptSig  
+redemption script hash: the scriptPubKey  
+  
+It is pretty darn close to what I think would be the ideal solution. It even
+has a byte at the beginning of the redemption script hash that specifies what
+hash type to use (OP_HASH160) !  
+  
+
+* * *
+
+  
+That's all why I like BIP16 better than OP_EVAL. I've written quite a lot here
+on the details of why I prefer BIP 16 to BIP 17, but, fundamentally, I believe
+that BIP 16 is a more conservative solution that is less likely to have an
+"darn, I didn't see that coming" bug.  
+

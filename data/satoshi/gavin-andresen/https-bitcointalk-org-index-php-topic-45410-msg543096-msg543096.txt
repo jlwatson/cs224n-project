@@ -1,0 +1,31 @@
+
+
+Quote from: btcbaby on September 24, 2011, 05:29:18 PM
+
+Quote from: Gavin Andresen on September 23, 2011, 03:41:40 PM
+
+Previous versions of bitcoin are unable to read encrypted wallets,  
+and will crash on startup if the wallet is encrypted.  
+
+Is it a notification or a real crash?  
+
+  
+A real crash.  
+  
+In a perfect world, Bitcoin version 0.1 would have included code that looked
+for a "Bitcoin version X or later required to read this wallet.dat file"
+setting, and notify the user and exit cleanly if X is greater than the version
+you're running.  
+  
+We don't live in a perfect world.  
+  
+So the second-best solution was to have version 0.4 and later do the "Bitcoin
+version X or later required to read this wallet.dat file" thing. And write a
+value into the wallet that causes previous versions of bitcoin to crash on
+startup.  
+  
+If previous versions didn't crash when given an encrypted wallet, they'd just
+ignore the encrypted keys, generate a bunch of new, unencrypted keys, and give
+people heart attacks when they ran the old version of bitcoin and told them
+they had a 0 bitcoin balance.  
+

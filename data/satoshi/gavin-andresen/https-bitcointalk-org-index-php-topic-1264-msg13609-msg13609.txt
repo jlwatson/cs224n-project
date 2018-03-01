@@ -1,0 +1,32 @@
+
+
+Hmm... I guess I was too slow:  
+"PAYMENT TIMED OUT! We didn't receive a payment from you. Try again."  
+  
+I copied the generated BTC address, but forgot the amount by the time Bitcoin
+launched, so sent you 1.11 (eleven is my favorite number) bitcoins.  
+  
+Now I didn't get whatever it was I paid for.  
+  
+Definitely cool, but also definitely clunky. Where this needs to go, in my
+humble opinion:  
+  
+1\. MyBitcoin should get rid of the CAPTCHA for most users (do the Google
+thing, and only show the CAPTCHA if it detects potential abuse) (oh, you
+didn't know Google search does that? Yup, they do, if you do enough weird-
+looking searches quickly enough you'll get a CAPTCHA...)  
+  
+2\. Bitcoin needs a 'refundtransaction' feature, to get rid of the scary "Do
+not ever reuse a temporary payment address or your Bitcoins may get lost"
+warning. Sending to an old address should just do an immediate refund.  
+  
+3\. I want to be able to put the payment address into MyBitcoin and see the
+status of my payment.  
+  
+4\. Gotta get rid of the "memorize the amount and then copy and paste to
+Bitcoin" (need a bitcoin-payment-request MIME type, in my humble opinion).  
+  
+5\. Gotta improve Bitcoin startup speed; at the very least, make the UI come
+up quickly while it re-verifies the block chain (I think that's what it is
+doing...).  
+

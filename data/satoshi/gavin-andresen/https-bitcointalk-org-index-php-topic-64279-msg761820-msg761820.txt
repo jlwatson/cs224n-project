@@ -1,0 +1,38 @@
+
+
+Quote from: pent on February 21, 2012, 10:42:12 AM
+
+Many people ask, how much domain will cost? Lets give a formula for people.  
+
+  
+I really like your idea of scaling up difficulty based on the number of domain
+operations in a block to prevent the key:value database from growing
+arbitrarily big.  
+  
+It seems to me that should be enough to make domain operation pricing correct;
+I don't see why there needs to be a block reward or fees, I assume the
+registrars will charge whatever they need to charge to make a profit, and I
+would strongly encourage you to avoid making the DNS system yet-another-
+currency. I'd like to use dollars or euros or bitcoins (preferably bitcoins)
+to pay for my domain names, please.  
+  
+I imagine a system something like:  
+  
+\+ I give some money to a registrar, and ask them to register/renew/transfer
+'gavinandresen.dianna'  
+  
+\+ The registrar makes sure the register/renew/transfer operation is valid  
+  
+\+ The registrar bundles up a bunch of register/renew/transfer operations and
+then asks/pays a Bitcoin miner to merge-mine that hash to securely timestamp
+those changes  
+  
+\+ After they're timestamped, the registrar asks that all of those record
+changes be inserted into a shared distributed hash table, providing the DIANNA
+proof-of-work and the bitcoin block hash.  
+  
+\+ The nodes maintaining the shared DHT make sure the records have the right
+DIANNA proof-of-work, that the bitcoin block is valid, and that the changes
+aren't over-ridden by a later bitcoin block, and then update the records.  
+  
+

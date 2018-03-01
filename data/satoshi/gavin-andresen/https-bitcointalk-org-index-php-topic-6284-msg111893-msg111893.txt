@@ -1,0 +1,27 @@
+
+
+Quote from: Vandroiy on May 08, 2011, 10:08:46 PM
+
+I know I'm not using an actual argument in this post. Feels strange to do
+that, too. But I think it's safe to say that a solid consensus should not
+produce this outcome. _There is no consensus. There is no generally accepted
+operating model for Bitcoin after minting becomes negligible. We better find
+one._  
+
+  
+Why? Thats years and years away. I don't think any of us can predict exactly
+what is going to happen 10 or 15 or 20 years from now; I don't think it is
+possible to get a consensus now because there has never been a system like
+bitcoin before, so predicting how merchants, miners, and users will interact
+in 10 years seems to me to be impossible.  
+  
+So: do you think this supposed problem will happen all at once? Or will it
+happen slowly over time? If you think it will happen all at once, would there
+be any warning signs? If it is a problem that we can clearly see coming, then
+there will be time to react.  
+  
+I'm much more worried on the problems I see coming in the next year or two or
+three-- bitcoin-specific viruses and trojans, poorly coded bitcoin web
+services, and maybe bitcoin service operators getting charged with financial
+crimes that they didn't know they were violating.  
+

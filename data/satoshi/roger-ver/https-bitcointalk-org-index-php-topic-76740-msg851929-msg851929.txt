@@ -1,0 +1,22 @@
+
+
+Tonight, a friend asked for a donation via chipin:  
+http://sendwoltoporcfest.chipin.com/send-wol-to-porcfest  
+  
+It occurred to me that the Bitcoin world would love a similar widget to this:  
+  
+  
+But using bitcoins.  
+  
+  
+Does anyone have any idea how hard it would be to program something like that?  
+It would monitor the block chain for the number of donations sent to a
+particular address, and automatically convert the amount into a chart for the
+equivalent number of USD based on the exchange rate.  
+  
+This is just a thought, but one that I think the Bitcoin world would like to
+see.  
+  
+I already contacted easywallet.org and blockchain.info mentioning that this
+service would be a nice addition to their sites.
+

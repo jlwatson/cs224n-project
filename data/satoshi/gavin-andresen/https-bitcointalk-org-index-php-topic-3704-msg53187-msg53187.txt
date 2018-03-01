@@ -1,0 +1,25 @@
+
+
+RE: a checklist:  
+  
+For the next release, I will write a script that does all of the build/package
+steps. I'll let the computer run the checklist for me... and the whole process
+should be much quicker, easier and smoother.  
+  
+RE: 0.3.20.01  
+  
+Fixed builds are at sourceforge, named 'bitcoin-0.3.20.01' to try to avoid
+confusion.  
+The mac build was 0.3.20.00 also; I am going to update that .zip when we get a
+.01 build, and I think I'll rename the  
+linux downloads to be consistent and, again, to try to avoid confusion.  
+  
+  
+SHA checksums:  
+  
+3fe4c5f2a5406322a2f116b30aefbd402b079940 bitcoin-0.3.20.01-win32-setup.exe  
+dffb709a90a7abcff08c2ef1e79d3f9b54751786 bitcoin-0.3.20.01-win32.zip  
+  
+The public Amazon AMI virtual machine image used to build them is:  
+ami-7a21d213 982440761210/BitcoinMinGW  
+

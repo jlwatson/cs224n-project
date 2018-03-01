@@ -1,0 +1,14 @@
+
+
+My reaction: stop spreading FUD.  
+  
+"small mining pools will go out of business" -- give me a break! My back-of-
+the-envelope calculations say that anybody willing to spend a few hundred
+dollars a year on a dedicated server with a high-bandwidth connection can
+support a MUCH, MUCH larger block size.  
+  
+The block size will be raised. Your video will just make a lot of people
+worried about nothing, in exactly the same way Luke-Jr's BIP17 proposal last
+year (and his hyperbolic rhetoric about BIP16) did nothing but cause a tempest
+in a teapot.  
+

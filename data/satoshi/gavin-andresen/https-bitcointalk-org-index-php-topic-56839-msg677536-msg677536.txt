@@ -1,0 +1,26 @@
+
+
+Just thinking out loud...  
+  
+... but vanity addresses using 1-of-2 multisignature transactions and BIP 13's
+new bitcoin address format could be orders of magnitude easier to generate.  
+  
+You'd start with a normal keypair.  
+  
+And simply compute the hash of the public key and another, arbitrary, "I don't
+have the private key but I don't care" public key (in an "OP_1 <public_key>
+<don't care public key> OP_2 OP_CHECKMULTISIG" transaction type).  
+  
+You'd always spend the funds sent to the vanity address using pk1.  
+  
+No expensive ECDSA addition or multiplication required, just lots of
+SHA256/RIPEMD160 hashing and base58 encoding and string comparing.  
+  
+\-----------  
+  
+Widespread use of the new pay-to-script address format will have to wait until
+"everybody" upgrades to support it, though. And it does make transactions
+larger (2 public keys instead of 1) than the find-the-right-private-key
+solution.  
+  
+

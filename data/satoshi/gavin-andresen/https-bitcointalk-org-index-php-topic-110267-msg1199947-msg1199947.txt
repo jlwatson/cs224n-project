@@ -1,0 +1,25 @@
+
+
+Quote from: niko on September 18, 2012, 01:56:01 AM
+
+Presumably the fees will become the main driving force behind mining in
+future. Miners would then have an incentive to include in the block the spend
+with the highest fees, even if it is obviously a double spend against an
+earlier transaction that is already broadcast.  
+  
+Is this correct?  
+  
+
+Yes, if by earlier you mean a few minutes earlier (it would have to have a 50+
+BTC fee to make it worthwhile for miners to double-spend a transaction that
+already made it into the last block).  
+  
+Two zero-confirmation transactions essentially happen at the same time as far
+as the network is concerned; if there was a good way for everybody to agree
+that they happened in a particular order we wouldn't need the blockchain. I
+assume that miners will take the transactions that give them the greatest
+short-term profit; that may not be correct (there might be a lot of miners
+interested in the long-term health of Bitcoin), but I think it is the safest
+assumption. And I think if we design payment protocols around that assumption
+they will be more secure.  
+

@@ -1,0 +1,13 @@
+
+
+Quote from: Saturn7 on May 20, 2012, 08:31:40 PM
+
+Could this be used to attack Bitcoin?  
+
+No. Bitcoin connections are TCP, so you can't forge the IP address.  
+  
+I've also implemented denial-of-service checks that automatically ban
+misbehaving peers to make network disruption attacks more difficult. Trying to
+anticipate future DoS attacks is hidden engineering work that you will never
+notice if we get it right.
+

@@ -1,0 +1,19 @@
+
+
+Quote from: mckoss on December 13, 2011, 06:33:35 AM
+
+I've not seen any way to resolve the problems with my original proposal; it
+seems too easy to use a large amount of cash to reach back arbitrarily far in
+the block chain to re-write history (and hence, invalidate transactions where
+you spent money).  
+
+  
+... or, even worse, invalidate competing proof-of-stakes.  
+  
+I might like proof-of-stake schemes better if somebody has a good plan for how
+to get them started-- you've got a genesis block, so the creator starts with
+100% stake.  
+  
+Now what, exactly, happens to create block number 2 for proof-of-stake
+systems?  
+

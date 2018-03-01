@@ -1,0 +1,10 @@
+
+
+-nolisten turns on -noirc.  
+  
+Try:  
+  
+addnode=69.164.218.197  
+  
+... to connect to the testnet Faucet bitcoind.  
+

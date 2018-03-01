@@ -1,0 +1,22 @@
+
+
+We've talked about these kinds of scaling issues in the past, and we've got a
+ways to go until they become an issue.  
+  
+I still strongly believe that we shouldn't worry about them until they
+actually start to become a problem.  
+  
+Long before we get to 300 million transactions per day there will be big
+companies spending lots of engineering dollars on their own highly optimized
+versions of bitcoin.  
+  
+I bet there will be alternative, secure-and-trusted, very-high-speed network
+connections between major bitcoin transaction processors. Maybe it will just
+be bitcoin transactions flying across the existing Visa/MasterCard/etc
+networks (I have no idea what their transaction clearing/processing networks
+look like or how they work).  
+  
+Instead of worrying about "what will we do when we are wildly successful" we
+should be worrying about "what should we do RIGHT NOW so we become wildly
+successful."  
+

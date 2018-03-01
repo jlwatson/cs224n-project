@@ -1,0 +1,124 @@
+
+
+Nobody volunteered, but the boost ssl LOOKS like it will make it easy... so
+I've started playing around with it.  
+  
+After much wrestling with the (sucky) OpenSSL and boost::asio::ssl docs, I've
+got a standalone, dumb, Satoshi-style-c++ https server running (code below).  
+  
+Are there any real OpenSSL experts here who can review the code and answer
+questions like:  
+  
+\+ I understand the temp Diffie-Hellman file contains large prime numbers used
+to do public key exchange. Everything works just fine if I leave out the call
+to context.use_tmp_dh_file; what are the security implications? Will it matter
+for what we'll be doing (securing the JSON-RPC channel from eavesdropping/man-
+in-the-middle attacks)?  
+  
+\+ I'm following the advice from here, excluding old, low-security ciphers
+using:  
+SSL_CTX_set_cipher_list(context.impl(),
+"TLSv1+HIGH:!SSLv2:!aNULL:!eNULL:!3DES:@STRENGTH");  
+Am I correct in assuming that any sane JSON-RPC/HTTP/HTTPS library will
+support the higher-strength ciphers? Or does Java on a PC do something
+braindead and support only DES-MD5? (and yeah, I'll make this overridable via
+a config file param, but I want to get the defaults right)  
+  
+\+ Oh, and a C++ expert question: what magic incantation will turn the
+boost::asio::ssl::stream into an iostream that understands << and >> ?  
+  
+And thumbnail sketch of how I imagine this working with bitcoin:  
+  
+\+ config file setting to turn on ssl/tls rpc ( maybe rpcssl=true ... or
+should it be rpctls=true ? )  
+\+ if turned on, only ssl connections accepted on the rpcport  
+\+ if turned on, bitcoin binds rpcport to all addresses (not just 127.0.0.1)  
+  
+
+Code:
+
+#include <boost/asio.hpp>  
+#include <boost/asio/ssl.hpp>  
+#include <boost/foreach.hpp>  
+#include <iostream>  
+#include <sstream>  
+#include <string>  
+  
+using namespace std;  
+using namespace boost;  
+using boost::asio::ip::tcp;  
+  
+typedef boost::asio::ssl::stream<boost::asio::ip::tcp::socket> ssl_stream;  
+  
+string HTTPReply(int, const string&);  
+  
+int main()  
+{  
+// Bind to loopback 127.0.0.1 so the socket can only be accessed locally  
+boost::asio::io_service io_service;  
+tcp::endpoint endpoint(boost::asio::ip::address_v4::loopback(), 1111);  
+tcp::acceptor acceptor(io_service, endpoint);  
+  
+boost::asio::ssl::context context(io_service,
+boost::asio::ssl::context::sslv23);  
+context.set_options(  
+boost::asio::ssl::context::default_workarounds  
+| boost::asio::ssl::context::no_sslv2);  
+context.use_certificate_chain_file("server.cert");  
+context.use_private_key_file("server.pem", boost::asio::ssl::context::pem);  
+context.use_tmp_dh_file("dh512.pem");  
+SSL_CTX_set_cipher_list(context.impl(),
+"TLSv1+HIGH:!SSLv2:!aNULL:!eNULL:!3DES:@STRENGTH");  
+  
+for (;;)  
+{  
+// Accept connection  
+ssl_stream stream(io_service, context);  
+tcp::endpoint peer_endpoint;  
+acceptor.accept(stream.lowest_layer(), peer_endpoint);  
+boost::system::error_code ec;  
+stream.handshake(boost::asio::ssl::stream_base::server, ec);  
+  
+if (!ec) {  
+boost::asio::write(stream, boost::asio::buffer(HTTPReply(200, "Okely-
+Dokely\n")));  
+}  
+}  
+}  
+  
+string HTTPReply(int nStatus, const string& strMsg)  
+{  
+if (nStatus == 401)  
+return "HTTP/1.0 401 Authorization Required\r\n"  
+"Server: HTTPd/1.0\r\n"  
+"Date: Sat, 08 Jul 2006 12:04:08 GMT\r\n"  
+"WWW-Authenticate: Basic realm=\"jsonrpc\"\r\n"  
+"Content-Type: text/html\r\n"  
+"Content-Length: 311\r\n"  
+"\r\n"  
+"<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\"\r\n"  
+"\"http://www.w3.org/TR/1999/REC-html401-19991224/loose.dtd\">\r\n"  
+"<HTML>\r\n"  
+"<HEAD>\r\n"  
+"<TITLE>Error</TITLE>\r\n"  
+"<META HTTP-EQUIV='Content-Type' CONTENT='text/html; charset=ISO-8859-1'>\r\n"  
+"</HEAD>\r\n"  
+"<BODY><H1>401 Unauthorized.</H1></BODY>\r\n"  
+"</HTML>\r\n";  
+string strStatus;  
+if (nStatus == 200) strStatus = "OK";  
+else if (nStatus == 400) strStatus = "Bad Request";  
+else if (nStatus == 404) strStatus = "Not Found";  
+else if (nStatus == 500) strStatus = "Internal Server Error";  
+ostringstream s;  
+s << "HTTP/1.1 " << nStatus << " " << strStatus << "\r\n"  
+<< "Connection: close\r\n"  
+<< "Content-Length: " << strMsg.size() << "\r\n"  
+<< "Content-Type: application/json\r\n"  
+<< "Date: Sat, 09 Jul 2009 12:04:08 GMT\r\n"  
+<< "Server: json-rpc/1.0\r\n"  
+<< "\r\n"  
+<< strMsg;  
+return s.str();  
+}  
+

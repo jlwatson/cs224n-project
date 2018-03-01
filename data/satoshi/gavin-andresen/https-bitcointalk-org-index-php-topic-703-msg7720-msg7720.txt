@@ -1,0 +1,8 @@
+
+
+Ummm, the command-line RPC is implemented on **top** of the JSON-RPC
+mechanism.  
+  
+So if the command-line RPC is working on your machine, then the JSON-RPC is,
+too.  
+

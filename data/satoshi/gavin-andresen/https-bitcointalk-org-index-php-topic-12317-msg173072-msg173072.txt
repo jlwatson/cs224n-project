@@ -1,0 +1,17 @@
+
+
+It costs the bitcoin network something like 0.001 US cents to process a
+typical transaction, so transactions less than about a cent don't make sense.  
+  
+RE: using market forces for transaction fees: I agree 100%. But that code has
+to be written and thoroughly tested. The hard part is figuring out how miners
+communicate their "fee schedules" to clients (you can't just ask miners
+"what's your fee schedule" because they have an incentive to lie to try to get
+higher fees...).  
+  
+So in the very short term fees are being dropped from 0.01 BTC per kilobyte to
+0.0005 BTC per kilobyte.  
+  
+I'll say it again: expect more growing pains like this. There will be more of
+them.  
+

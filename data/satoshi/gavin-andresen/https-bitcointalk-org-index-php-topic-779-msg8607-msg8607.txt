@@ -1,0 +1,40 @@
+
+
+Quote from: NewLibertyStandard on August 10, 2010, 09:24:25 PM
+
+I very much doubt that any one entity will ever have 50% of the computational
+power. The botnet operators will bow to the whims of the community because
+it's the community that ultimately gives bitcoins value. What good is a giant
+load of bitcoins if you don't have anyone willing to give you something in
+exchange for them?  
+
+Eventually the largest merchants and money exchangers will control what is
+"standard" bitcoin.  
+  
+Take the "50-coiners" scenario, and imagine that they manage to get 75% of the
+CPU power on their side.  
+  
+But imagine that the biggest merchants and money exchangers are more
+conservative, and are in the 25% minority. I think they will be-- I don't
+think they'll be the ones in the business of generating coins (they'll be busy
+selling products or doing the exchange thing).  
+  
+What happens?  
+  
+Well, the block chain splits. Transactions using coins minted before the split
+will get added to both block chains, and accepted by everybody.  
+  
+Transactions involving "50-coins" (generated after the split) will be accepted
+on the 50-coin chain, rejected on the 25-coin chain. And vice-versa.  
+  
+"50-coiners" would quickly find out that they couldn't get rid of their newly
+minted money because who wants bitcoins that are rejected by the biggest money
+exchangers or merchants?  
+  
+If the big merchants and money exchangers disagreed, I bet you'd see Bitcoin
+clients that ONLY accepted pre-split coins and did no coin generation (since
+those transactions would be accepted by everybody). If it was never resolved,
+I think the number of Bitcoins at the time of the split would become "the
+number of Bitcoins, period," because most people will not want to use money
+that is accepted some places and not others.  
+

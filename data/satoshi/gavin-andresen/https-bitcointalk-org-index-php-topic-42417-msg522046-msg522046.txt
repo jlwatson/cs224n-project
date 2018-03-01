@@ -1,0 +1,27 @@
+
+
+RE: where in the code: script.cpp  
+  
+
+Code:
+
+static const size_t nMaxNumSize = 4;  
+  
+  
+CBigNum CastToBigNum(const valtype& vch)  
+{  
+if (vch.size() > nMaxNumSize)  
+throw runtime_error("CastToBigNum() : overflow");  
+// Get rid of extra leading zeros  
+return CBigNum(CBigNum(vch).getvch());  
+}  
+  
+
+... and all of the arithmetic binary ops do a CastToBigNum()  
+  
+nMaxNumSize = 4 means numbers added must be 32-bits or less.  
+  
+RE: simpler version being redeemed by anybody by rewriting: D'oh! Right,
+definitely need a signature so the transaction can't be modified between being
+broadcast and being included in a block. I'll remove it from the wiki page.  
+

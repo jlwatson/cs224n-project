@@ -1,0 +1,17 @@
+
+
+Quote from: midnightmagic on February 10, 2011, 07:19:05 AM
+
+A client that connects up, subscribes, and then gets updates as they happen
+might be an easier start.  
+
+  
+Connects via another port?  
+  
+Or would you teach bitcoin's minimal http implementation to keep the
+connection open? (and service multiple connections at once)  
+  
+I've got a use case (google App Engine) where a persistent connection to
+bitcoin isn't possible (App Engine apps can fetch URLs, and can act as 'web
+hooks', but can't just open a socket and listen).  
+

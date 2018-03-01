@@ -1,0 +1,12 @@
+
+
+I agree it is natural to want to know who sends you the money. That would be a
+nice feature to add to Bitcoin.  
+  
+Showing a 'from' address in bitcoin as it is now won't give you that feature,
+it will give you something that kind-of, sort-of, maybe-most-of-the-time works
+like that feature.  
+  
+And it's not obvious how to implement a "where did these bitcoins come from?"
+feature.  
+

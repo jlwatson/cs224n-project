@@ -1,0 +1,37 @@
+
+
+Quote from: kcirazy on May 07, 2013, 01:46:40 PM
+
+I was just about to order something, but international shipping costs for a
+0.25 BTC product seem to be ridiculously high  
+  
+The following options appear:  
+  
+
+Quote
+
+1) **United States Postal Service - Priority Mail International 0.446 BTC [
+$47.00 ]**  
+PLEASE NOTE: Free shipping is equally as fast as paid shipping for orders over
+$100.  
+2) **Express Mail International 0.601 BTC [ $63.35 ]**  
+PLEASE NOTE: Free shipping is equally as fast as paid shipping for orders over
+$100.  
+PLEASE NOTE: If your item is considered a "Large" item and needs LTL Shipping
+one of our staff members will notify you in regards to an additional shipping
+fee. By proceeding with the order you are agreeing to the terms.
+
+  
+And the contact form (link at the bottom) doesn't seem to work:
+https://www.bitcoinstore.com/contacts/  
+  
+What is this 'free shipping' option?  
+
+  
+The "free shipping" option is for domestic orders only.  
+I will update the site to remove this confusion for international orders.  
+  
+There is actually a 0% markup on the shipping as well.  
+When you include the packaging supplies and labor, we actually lose money on
+the shipping of each international order.
+

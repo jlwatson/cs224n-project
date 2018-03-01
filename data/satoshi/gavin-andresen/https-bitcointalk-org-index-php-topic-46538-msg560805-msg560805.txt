@@ -1,0 +1,30 @@
+
+
+Quote from: casascius on October 06, 2011, 10:14:50 PM
+
+If Satoshi didn't intend for anything like this to be added, he wouldn't have
+had a reason to implement a scripting engine in the first place. Transactions
+would just have "inputs" and "outputs" and nothing more.  
+
+  
+He wouldn't have included NOP1 through NOP10, either.  
+  
+I file this under "Satoshi is a genius, part 9,432". It gives a smooth upgrade
+path using the same blockchain if ECDSA or SHA256 start to get fragile.  
+  
+Attacking old clients by sending them coins with "will-never-be-satisfied-but-
+they-can't-tell-that" inputs **is** a concern-- it is basically the Finney
+attack, but anybody will be able to try to pull it off and there is no time
+constraint.  
+  
+However, I think the benefits of being able to send to a truly secure address
+**FAR** outweigh the risks, I don't think it will be difficult to get people
+to upgrade to a newer, more secure client, and accepting 0- or 1-confirmation
+transactions is always a bad idea.  
+  
+I also think you're exaggerating the impact-- OP_EVAL does not invalidate all
+of the security review that has been done so far, especially if the scripting
+language being EVAL'ed is unchanged from what we have today.  
+  
+(PS: the latest git-head QT bitcoin contains a working bitcoin URI handler)  
+

@@ -1,0 +1,11 @@
+
+
+Quote from: BitterTea on February 14, 2011, 09:40:11 PM
+
+I'll be installing the Windows client tonight. Should I post in this or the
+other if I run into issues?  
+
+  
+Submit issues at the issue tracker on github if you run into issues:  
+https://github.com/bitcoin/bitcoin/issues  
+

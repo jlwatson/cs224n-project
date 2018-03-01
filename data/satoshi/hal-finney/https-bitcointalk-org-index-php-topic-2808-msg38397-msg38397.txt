@@ -1,0 +1,47 @@
+
+
+I finally got around to building my own client from source (on Ubuntu) and the
+first thing I did was to add sound effects. I now hear a little pop whenever
+there's a transaction, and a chime when there's a new block.  
+  
+It was easy, here's the diff for main.cpp, just 3 lines:  
+  
+
+Code:
+
+diff --git a/main.cpp b/main.cpp  
+index b7dfd9f..1196520 100644  
+\--- a/main.cpp  
++++ b/main.cpp  
+@@ -4,6 +4,7 @@  
+  
+#include "headers.h"  
+#include "cryptopp/sha.h"  
++#include "wx/sound.h"  
+  
+  
+  
+@@ -2575,6 +2576,7 @@ bool ProcessMessage(CNode* pfrom, string strCommand,
+CDataStream& vRecv)  
+  
+else if (strCommand == "tx")  
+{  
++wxSound::Play("snd_tx.wav");  
+vector<uint256> vWorkQueue;  
+CDataStream vMsg(vRecv);  
+CTransaction tx;  
+@@ -2628,6 +2630,7 @@ bool ProcessMessage(CNode* pfrom, string strCommand,
+CDataStream& vRecv)  
+  
+else if (strCommand == "block")  
+{  
++wxSound::Play("snd_blk.wav");  
+CBlock block;  
+vRecv >> block;  
+
+  
+For snd_tx.wav I used http://www.series-of-articles.com/sfx/snd/pop.wav; for
+snd_blk.wav I used http://www.series-of-articles.com/sfx/snd/bell.wav.  
+  
+A quick hack, but entertaining and informative.
+

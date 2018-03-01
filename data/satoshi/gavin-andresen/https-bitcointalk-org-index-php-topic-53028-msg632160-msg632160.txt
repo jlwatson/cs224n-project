@@ -1,0 +1,18 @@
+
+
+Quote from: 2_Thumbs_Up on November 27, 2011, 01:24:26 PM
+
+Can you say something like "this transaction becomes void at block X" so if
+it's not put in a block before then it becomes useless?  
+
+  
+I give you a transaction that sends you 11 bitcoins... but I tell you "you
+better put that in the blockchain in the next 120 blocks, or I'll broadcast
+another transaction that sends the inputs somewhere else so the transaction to
+you will be seen as a double-spend."  
+  
+I'd need a bitcoin client that let me do that, and you'd need one that could
+take a transaction in some format and then let you decide whether or not to
+broadcast it for inclusion in the block chain, or told you "sorry, too late,
+inputs already spent", but that all should work today.  
+

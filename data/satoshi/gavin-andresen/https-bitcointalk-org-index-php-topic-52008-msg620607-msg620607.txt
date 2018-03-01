@@ -1,0 +1,15 @@
+
+
+I've uploaded release candidate binaries for Bitcoin versions 0.4.1 and 0.5.0
+to SourceForge:  
+https://sourceforge.net/projects/bitcoin/files/Bitcoin/bitcoin-0.4.1/test/  
+https://sourceforge.net/projects/bitcoin/files/Bitcoin/bitcoin-0.5.0/test/  
+  
+The 0.4.1 release is the old wxWidgets-based Bitcoin with a critical fix to
+the wallet encryption feature.  
+The 0.5 release is the new Qt-based Bitcoin (which also includes the wallet
+encryption bugfix).  
+  
+Report bugs using the issue tracker at github:  
+https://github.com/bitcoin/bitcoin/issues  
+

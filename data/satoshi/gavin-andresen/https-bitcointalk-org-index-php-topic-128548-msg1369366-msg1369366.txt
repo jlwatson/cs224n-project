@@ -1,0 +1,9 @@
+
+
+Yes, if they have an infinite amount of money to pay in transaction fees.  
+  
+I'm not sure why governments would want to give all of their money to miners,
+though. And buying up bitcoins to pay all those fees would just push up the
+price, so it would probably be counter-productive as a way of trying to ddos
+the network.
+

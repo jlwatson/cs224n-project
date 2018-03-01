@@ -1,0 +1,11 @@
+
+
+Once upon a time bitcoin.org called Bitcoin "anonymous" but that was a
+mistake, and for at least two years "we" (core developers) have tried to be
+careful to say that, at best, Bitcoin is pseudanonymous.  
+  
+I tell reporters that Bitcoin is more private than using any other online
+payment method, but less private than cash (unless you know a lot about how it
+works under the covers and jump through several hoops to keep your identity
+secret).  
+

@@ -1,0 +1,8 @@
+
+
+You can still generate bitcoins, just don't run bitcoind or bitcoin -server or
+bitcoin -daemon on machine that you use to browse the Web.  
+  
+As sirius says, if you do you could browse to a website that empties your
+Bitcoin wallet without your knowledge or permission.
+

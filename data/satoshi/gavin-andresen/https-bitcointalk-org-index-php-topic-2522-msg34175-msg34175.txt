@@ -1,0 +1,17 @@
+
+
+Quote from: tcatm on December 29, 2010, 11:03:49 PM
+
+Can we include a small HTTP server (for .html + .js) into bitcoin? JSON-RPC
+will only work on same domain + port.  
+
+  
+No, definitely not. But if somebody implements a nice Javascript GUI I'll
+volunteer to teach bitcoin to spit out JSONP in addition to plain JSON to get
+around the same origin policy...  
+  
+RE: GWT: I'd prefer a non-Java-to-Javascript-compiled solution (shipping
+compiled, not-human-readable .js files makes me nervous; do we have to add all
+the GWT compilation mechanism to the build process? Or do we have to trust
+that you provided valid, not-messed-with, already-compiled .js files?)  
+

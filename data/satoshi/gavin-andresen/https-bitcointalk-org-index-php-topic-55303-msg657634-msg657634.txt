@@ -1,0 +1,20 @@
+
+
+Quote from: Gabi on December 21, 2011, 02:50:10 PM
+
+The problem is, the bitcoin client SUCKS. It sucked 6 months ago, it sucks
+even more today with version 5 (congratulations, you managed to make it
+suckier... the impossible made possible)  
+
+  
+If I thought that downloading and installing software onto your computer is
+the way to go then I'd be helping make it better.  
+  
+I don't. I think 90-something-percent of future Bitcoin users will be using it
+on an iPad or mobile phone or on their computer in a web browser.  
+  
+I'm sorry you think 0.5 is worse than 0.4, but you're in the (vocal) minority.
+Nobody stepped up to support the 0.4 wxWidgets-based GUI, and we've got
+several people working on the 0.5 Qt-based GUI, so I'm confident switching was
+the right decision.  
+

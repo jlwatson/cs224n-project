@@ -1,0 +1,33 @@
+
+
+I would like to make a few clarifications in regards to Bitcoin store.  
+  
+1\. $850K is the Quarterly target in order to stay in the best pricing tier.  
+  
+2\. If Bitcoinstore.com doesn't reach this goal, it will continue in
+businesses, but with slightly higher prices.  
+  
+3\. I'm aware that the site still needs a lot of polishing, specifically
+regarding the searching and filtering options.  
+  
+4\. The goal widget on the fron't page doesn't currently update automatically,
+but you can monitor our progress at
+http://blockchain.info/address/1JqjoFF8QZwidrTbfnihGHDeu16pbLia1q  
+  
+5\. I previously negotiated with the distributor to let us start off with the
+best price tier for Q1 2013.  
+Everything with the Developers has taken MUCH longer than planed. Time was
+running out, so I had to launch the site before it was truly ready in order to
+have any chance of meeting the sales target for this quarter.  
+  
+6\. I think if we can hit close to $300K, I will have a good chance of getting
+the distributor to allow us to continue in the best price tier since 98% of
+the sales will have been from March.  
+  
+7\. If you are a professional Magento developer and would like to help with
+Bitcoinstore.com (Search, Filters, data import, etc) Please contact me.  
+(You will be paid in BTC)  
+  
+With everyone's help, Bitcoin is well on it's way to changing the world for
+the better!
+

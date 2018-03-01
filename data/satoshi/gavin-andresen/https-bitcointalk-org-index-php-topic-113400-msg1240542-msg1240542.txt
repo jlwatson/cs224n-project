@@ -1,0 +1,54 @@
+
+
+Quote from: ShadowOfHarbringer on October 02, 2012, 07:22:30 PM
+
+If Gavin does not want (or does not have time, he is lead dev after all) to
+answer our criticism, he should at least delegate somebody to "scan" the
+forums to check what people's opinions are, and then answer them collectively
+on a blog or something.  
+
+  
+So... if the membership agrees with your "bugs" then they'll get fixed. Like I
+said, the vision is it will be a member-driven organization. And like I said,
+I find it is much more effective to start with something imperfect and improve
+it over time rather than try to get everything exactly right and make
+everybody completely happy at the start.  
+  
+My personal opinion on the "bugs":  
+  
+Name: I like the name. It can be changed if the membership decides on
+something better.  
+  
+Hosting company: could easily be changed; it likely will be. I highly doubt
+Cloudflare is a government honeypot for anything besides catching DDoS botnet
+operators.  
+  
+Identities/voting: Please see "Sybil Attack" for why we're requiring names,
+mailing addresses and emails. If you've got a magical way of identifying
+anonymous people please send me the source code, I could use it for the
+Bitcoin Faucet.  
+  
+Privacy policy: fair point, there should be a privacy policy on the website.  
+  
+US based: if Patrick (Foundation's lawyer) was Finnish we would probably be
+Finnish-based. That's the whole "perfect is the enemy of the good" thing (and
+I really don't want to have a month-long discussion about which legal
+jurisdiction is the least likely to declare Bitcoin Foundation illegal, which
+would be best for getting donors tax deductions, and whatever other arguments
+we could have).  
+  
+
+Quote from: niko on October 02, 2012, 10:52:38 PM
+
+I agree that users and miners should be represented more on the BF board.  
+
+  
+One of the things that I think will be fascinating to watch is how users and
+miners organize themselves (or not) to elect people to the Board. I'm not
+going to pretend that the current composition of the Board is perfect-- I have
+no idea if some arrangement would be better. But it seems to me before making
+a statement like "there should be more of X on the Board" we should either get
+some experience under our collective belts to see how things work OR find an
+example of a similar, successful organization that works.  
+  
+

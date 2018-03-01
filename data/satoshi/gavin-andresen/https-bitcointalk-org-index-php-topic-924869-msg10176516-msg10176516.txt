@@ -1,0 +1,37 @@
+
+
+Quote from: stevenh512 on January 16, 2015, 01:00:01 AM
+
+True, in that case root certificates aren't the weak link, but I can think of
+situations where it would be. Trusting a root certificate implies trusting a
+centralized certifying authority. The authority can be compromised to issue
+and sign fake certificates to facilitate MITM attacks. Governments have
+already coerced a few CAs into facilitating MITM attacks on SSL/TLS in the
+past.  
+
+  
+Even in that case, the certificate is " **a** " weak link, not " **the** "
+weak link. Think through what would have to fail to pull off a steal-bitcoins
+attack in the multisig-wallet case:  
+  
+1) User has to be directed to an attacker-controlled payment website. That
+means either DNS lookup is compromised or the user's connection to the
+Internet is compromised (weak link number 1).  
+  
+2) Attacker serves up a signed PaymentRequest with a valid certificate signed
+by a compromised root certificate authority (weak link number 2).  
+  
+  
+If the attacker can accomplish (1), it is likely they would just serve up
+unsigned payment requests from a non-secure website and bet that the user
+doesn't notice the lack of a padlock in the web browser UI and agrees to pay
+to an unauthenticated bitcoin address.  
+  
+ ~~(1) is mitigated if the payment website uses HSTS headers so any repeat
+visitors get a HTTPS connection-- that pushes the attack to "must compromise
+both the connection and be able to spoof the web server certificate".~~ Strike
+that, if their computer is compromised HSTS headers won't help.  
+  
+In any case, I wouldn't say the root certificates are a single point of
+failure.  
+

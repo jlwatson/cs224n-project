@@ -1,0 +1,22 @@
+
+
+Good news: I'm just about to get a Bitcoin-Qt version 0.5 Release Candidate 1
+out, with a much-improved GUI.  
+  
+Bad news: all the translations for the old wxWidgets Bitcoin are obsolete, and
+the process for making translations is different.  
+  
+Is anybody willing to write new translations? Here's what you'll need to know:  
+  
+
+  * Three translations already exist: de nl and ru.
+  * Translations are stored in ".ts" files in the src/qt/locale folder
+  * The 'QT Linguist' tool can be used to create translations
+  * ... or maybe an online tool like Transifex could/should be used to crowd-source the work
+
+  
+And is anybody willing to take the job of coordinating translation efforts,
+figuring out if Transifex is a good tool to use, and writing some
+documentation to make it easy for people to create and submit new
+translations?  
+

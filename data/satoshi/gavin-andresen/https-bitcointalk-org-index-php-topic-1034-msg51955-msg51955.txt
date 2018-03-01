@@ -1,0 +1,9 @@
+
+
+Here's the public AMI for the dodgy 0.3.20 VC10 build:  
+ami-d621d2bf 982440761210/BitcoinVC10  
+  
+Bitcoin source is at c:\bitcoin  
+(all the other dependencies are in the root c:\, too).  
+Administrator password is: bitcoin development  
+

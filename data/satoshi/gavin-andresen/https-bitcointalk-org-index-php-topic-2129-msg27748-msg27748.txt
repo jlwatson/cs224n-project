@@ -1,0 +1,14 @@
+
+
+Quote from: caveden on December 07, 2010, 02:03:39 PM
+
+What's a non-standard transaction?  
+
+  
+A transaction that is signed in a way that the standard bitcoin client doesn't
+understand.  
+  
+For example, there's been some discussion in other threads about using OP_DROP
+to embed extra data in transactions; doing something like that would create
+non-standard transactions.  
+

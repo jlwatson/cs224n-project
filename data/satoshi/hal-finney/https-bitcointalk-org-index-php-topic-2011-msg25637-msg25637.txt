@@ -1,0 +1,14 @@
+
+
+One reason price might follow difficulty is that mining should not be too
+profitable (because nothing should be too profitable, the world doesn't leave
+free money lying around). Therefore the price of Bitcoins can't rise too much
+above the cost of mining (counting equipment depreciation among the costs of
+course). The cost of mining is proportional to the difficulty (approximately).
+Therefore we might expect to see price proportional to difficulty.  
+  
+We do see a nearly proportional relationship in the 1st graph, but that data
+set was incomplete. I'd like to see that last graph redone with a linear
+difficulty scale so we could see how the proportionality holds up with more
+data.
+

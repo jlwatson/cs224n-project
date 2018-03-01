@@ -1,0 +1,7 @@
+
+
+Fine, the entire transaction except for:  
+"The scripts for all transaction inputs in txCopy are set to empty scripts"  
+  
+... is signed. You're starting to make me grumpy...  
+

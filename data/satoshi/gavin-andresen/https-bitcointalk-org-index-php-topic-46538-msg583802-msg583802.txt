@@ -1,0 +1,53 @@
+
+
+Quote from: maaku on October 19, 2011, 08:06:19 PM
+
+Why allow recursion? Is there a use-case for this?  
+
+  
+Yes. Although there might be a way of accomplishing the same thing without
+recursion:  
+  
+Use case:  
+  
+Imagine we want, in the future, to support "this" OR "that" transactions.
+Where "this" and "that" are themselves possibly complex multisignature or
+escrow or whatever transactions.  
+  
+Most straightforward way might be a new standard transaction that looks like:  
+  
+
+Code:
+
+DUP HASH160 <hash160> EQUAL  
+IF  
+OP_EVAL "evaluate the this"  
+ELSE  
+DUP HASH160 <hash160> EQUALVERIFY  
+OP_EVAL "... or evaluate the that"  
+ENDIF  
+
+  
+So you'd redeem it by putting one script or the other on the stack (along with
+the signatures needed by the script).  
+  
+So.... maybe you want to recurse so that the IF/ELSE script is **itself** part
+of a standard, single-hash OP_EVAL, so you can use a newfangled bitcoin
+address to send to it. That would look like:  
+  
+
+Code:
+
+scriptSig: <signatures> <this_or_that_script> <IF/ELSE script>  
+scriptPubKey: DUP HASH160 <hash of IF/ELSE script> EQUALVERIFY OP_EVAL  
+
+  
+I am NOT proposing an IF/ELSE "this or that" standard script type; I think
+there is plenty of enough work to do to actually make secure wallets and in-
+the-chain escrow work. But supporting limited recursion for non-standard or
+future transactions seems easy and safe...  
+  
+(terminology footnote: calling scriptSig+scriptPubKey "transactions" isn't
+accurate, the transaction is the bigger thing, but I'm not sure what else to
+call them; I hope y'all follow what I'm saying)
+

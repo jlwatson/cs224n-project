@@ -1,0 +1,11 @@
+
+
+To be clear: the 'donor' was the EFF, and their only request was that the
+Bitcoins be given back to the bitcoin community. If you like, think of it as a
+bulk payment of transaction fees that the faucet would have paid if it had
+been operating over the last year instead of closed (due to lack of time for
+me to fight the scammers).  
+  
+Because it sent tiny transaction amounts, it paid almost as much in fees as it
+gave out...
+

@@ -1,0 +1,30 @@
+
+
+Quote from: error on July 15, 2011, 07:10:06 AM
+
+This was supposedly added in months ago, checking the pull request. Is it not
+working?  
+
+  
+Works for me (from a private testnet bitcoind):  
+  
+
+Code:
+
+{  
+"account" : "",  
+"category" : "immature",  
+"amount" : 50.00000000,  
+"confirmations" : 2,  
+"txid" : "0b1783e595b50580c6732c2891e92ad63b351a57a50e004013f7b60ecd89d337",  
+"time" : 1310870932  
+},  
+{  
+"account" : "",  
+"category" : "immature",  
+"amount" : 50.00000000,  
+"confirmations" : 1,  
+"txid" : "f4c244602f7d23951bd21abd89147312075a270286d1420d0bae0a1d8397597a",  
+"time" : 1310871263  
+}  
+

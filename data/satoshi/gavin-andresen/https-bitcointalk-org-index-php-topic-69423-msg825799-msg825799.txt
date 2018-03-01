@@ -1,0 +1,15 @@
+
+
+My point was ANY scheme you come up with will eventually come down to "Does
+this transaction input have a high enough percentage of 'badness' for me to
+say no, I won't take it."  
+  
+Whatever percentage you choose, the bad guys will very likely figure out ways
+to make their transactions just barely pass your purity test.  
+  
+Which is why I mostly think starting down that road is probably a bad idea.  
+  
+On the other hand... "security theatre" can be good public relations. Make the
+bad guys jump through two hoops and then feel good about how tough you are on
+crime....  
+

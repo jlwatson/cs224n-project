@@ -1,0 +1,6 @@
+
+
+Oh I see, the terminal would just look back at the most recent payment to this
+address, which would usually be the "change" from the previous payment, and
+use that as the source transaction. Ye, that should work I think.  
+

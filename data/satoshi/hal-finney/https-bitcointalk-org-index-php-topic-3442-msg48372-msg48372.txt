@@ -1,0 +1,10 @@
+
+
+I did "Copy to Clipboard" of my Bitcoin address and then hit Pay, paid myself
+20 btc. Is this supposed to work?  
+  
+It sort of worked and sort of didn't. The transaction displays as "Payment to
+yourself" with Debit -20.00 and Credit +20.00. But Status is stuck at
+"0/offline?". I'm online and I've never had a problem sending a transaction
+before.
+

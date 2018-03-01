@@ -1,0 +1,18 @@
+
+
+Neat idea!  
+  
+I don't like the economics of it, though.  
+  
+First, it reinforces the "if you started mining early you are rich only
+because you were lucky enough to be early" idea. And a lot of people already
+think that is unfair; give the early miners a current mining discount and
+you're just "helping the rich get richer."  
+  
+Second, what stops an attacker from offering early miners $$$ for their
+(already spent) coinbase private keys? If they have value because they give a
+mining discount, then there WILL be a market for them. A wealthy attacker
+could just buy up as many as they can find and then take over the network with
+less hashing power...  
+  
+

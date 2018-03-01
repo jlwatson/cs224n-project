@@ -1,0 +1,33 @@
+
+
+Quote from: piuk on January 12, 2012, 01:29:13 AM
+
+How would script hashes be represented in a wallet service? Should the script
+hash be masqueraded as a bitcoin address or should they be differentiated?
+OP_CHECKMULTISIG seems like it would be easier to represent in a client, you
+can label it "Payment of x received, requires approval of bitcoin address
+1223". I'm worried it could be very confusing for end users, people have a
+hard time understanding bitcoin addresses as is already.  
+
+  
+I don't think they make the two-person-escrow case you describe any simpler;
+use a plain CHECKMULTISIG for that case.  
+  
+I think they might make third-party escrow easier; the escrow agent would get
+public keys from all the participants and then give the buyer a short script
+hash to send the funds into escrow, instead of giving them three separate
+public keys. If all the key gathering negotiation happens automatically (as it
+should) then it doesn't really matter, but I suspect that it will take a while
+to get a secure, convenient, well-supported multiparty transaction negotiation
+protocol defined and implemented. So I bet pay-to-script-hashes for escrow
+transactions will get copied and pasted (or put into emailed or SMS-ed URLs)
+for at least a year or two.  
+  
+But the use case I REALLY care about is the secure, multiple-signatures-
+required-to-spend wallet. Script hashes are the same length as existing
+bitcoin addresses, so it should be much easier for services that can already
+send to bitcoin addresses to be modified to send to multisignature script
+hashes (if they use bitcoind to validate addresses then they will just need to
+update bitcoind; otherwise it is a trivial change to their bitcoin-address-
+validation routine to recognize the new pay-to-script-hash format).  
+

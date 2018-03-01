@@ -1,0 +1,12 @@
+
+
+As a veteran of the premature standardization trenches (I wrote most of the
+ISO/IEC 14772-1 "VRML97" specification before I changed my last name from
+"Bell" to "Andresen")... I agree with foreverdamaged. It is too early to try
+to create a formal specification.  
+  
+However, it think writing informal specifications documenting how bitcoin
+works right now is a great idea, and will be really helpful when it **is**
+time to go through some standardization process.  
+  
+

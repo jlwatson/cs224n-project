@@ -1,0 +1,29 @@
+
+
+Interesting idea, but I'm afraid I disagree with your premise.  
+  
+There is no tragedy-of-the-commons race to zero transaction fees, because
+miners do not have infinite bandwidth, memory or CPU to accept and validate
+transactions.  
+  
+We used to have a tragedy-of-the-commons situation with zero-fee transactions,
+but we solved that by rate-limiting them based on priority. And we have a
+working market for zero-fee transactions (see the graph here).  
+  
+Assuming network bandwidth is the eventual bottleneck, and assuming there is
+demand for transactions to fill the available network-wide bandwidth (even if
+that demand is transaction spammers), nodes will start dropping transactions
+before they relay them. Prioritizing them based on fee paid and dropping the
+lowest fee/kb transactions will result naturally in a working market for fee-
+paying transactions.  
+  
+As justusranvier points out, off-the-blockchain deals between transaction
+creators and miners doesn't change that logic, because low-fee transactions
+that are not broadcast break the O(1) block propagation assumption and have a
+direct cost to the miner.  
+  
+  
+I think you are trying to solve a different problem: I think you are trying to
+ensure that "enough" fees are paid to secure the network as the block subsidy
+goes away. Yes?  
+

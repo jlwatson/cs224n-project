@@ -1,0 +1,15 @@
+
+
+According to https://en.bitcoin.it/wiki/Mining_Hardware_Comparison, the 5770
+draws about 100W and generates 150 Mhash/s. According to
+http://www.alloscomp.com/bitcoin/calculator.php, this should generate a block
+every 5 days. 5 days is 120 hours, times 100W is 12 kWh. Around here it's
+$0.20 per kWh, so that's about $2.50 per block for electricity. A block of 50
+bitcoins is worth about $15 now, less $2.50 is $12.50 profit. The $99 card
+will be paid off after 8 blocks, so that's about 40 days at current
+difficulty. After that it's pure profit.  
+  
+Most people assume difficulty will continue to rise, but I think it will level
+off soon, because except for unusual deals like this one, GPU mining is close
+to becoming unprofitable.
+

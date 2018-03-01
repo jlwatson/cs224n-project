@@ -1,0 +1,9 @@
+
+
+Somebody should exploit all the DoS bugs that have been fixed to put the dead
+altcoins out of their misery, starting with the BDB lock limit bug.  
+  
+Because if they keep scraping along, the worst thing that could happen would
+be for them to suddenly get popular-- because then attackers WILL swoop in and
+cause chaos.
+

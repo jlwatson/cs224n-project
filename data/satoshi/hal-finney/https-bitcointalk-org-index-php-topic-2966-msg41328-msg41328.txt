@@ -1,0 +1,10 @@
+
+
+I'd add speed, you shouldn't have to wait too long for a transaction to go
+through. Bitcoin gets a B-, it's fast enough for a lot of things but too slow
+for some.  
+  
+Scalability, could it be used for every transaction, everywhere in the world?
+In its current form I'd say no, but possibly with the addition of lightweight
+clients. So I'll say C, has potential but not there yet.
+

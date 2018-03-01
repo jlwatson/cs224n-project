@@ -1,0 +1,24 @@
+
+
+Quote from: xf2_org on April 15, 2011, 05:52:39 AM
+
+I don't want to speak for any of the other dev team members, but I tend to
+prioritize massive re-orgs like this below just about any other change. They
+create a lot of noise, making sifting through history more difficult (even
+though git helps with this). They break existing patches.  
+  
+And in the language-specific arena, the two-files-per-class (.h, .cpp) creates
+an absolute explosion of tiny files, which is frankly a pain in the ass.  
+
+  
+After putting together the 0.3.21 release candidate today, I'm thinking after
+0.3.21 is out the door it might be a good time to do a major source tree re-
+org. I like the idea of following the GNU directory layout standard, and it
+would make my job easier if source was in src/, readmes/etc were in doc/,
+scripts to automate the Windows build were in build/, etc.  
+  
+PS: jaromil is the second person I've heard who says they'd prefer a
+development mailing list. I don't care one way or another, but it would be
+easy to create one using SourceForge's mailing list feature. What do others
+think?
+

@@ -1,0 +1,12 @@
+
+
+Quote from: ByteCoin on November 08, 2010, 06:26:12 PM
+
+Agreed. However, splitting the functionality across processes that communicate
+using a clear interface would allow wallet handling code to run on secure
+back-end machines without direct internet connections.  
+
+  
+But again: if that clear interface includes a command to "send XYZ bitcoins to
+some address", then how is the separation making you more secure?
+

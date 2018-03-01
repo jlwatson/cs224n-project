@@ -1,0 +1,35 @@
+
+
+A few of the big mining pools have started supporting BIP 16, and I feel
+pretty confident that they've shaken out any major bugs.  
+  
+If you'd like to jump on the bandwagon, backported code for BIP 16 is
+available at:  
+https://github.com/gavinandresen/bitcoin-git/  
+... in the "p2sh_backport" and "p2sh_backport_vinced" branches.  
+  
+Backports are available for all releases from bitcoin version 0.3.19 forward;
+for example if you're running code forked from the 0.3.24 release you would:  
+  
+
+Code:
+
+git checkout -b bip16 # Create a branch for the changes, just in case  
+git fetch --tags git://github.com/gavinandresen/bitcoin-git.git p2sh_backport  
+git tag -l 'bip16*' # List the backports available  
+git merge bip16_v0.3.24_1
+
+  
+The "vinced_mergedmine" tags are for if you are using Vince's 'getauxwork'
+patch/branch for merged mining (based on bitcoin version 0.3.24).  
+  
+If you're running latest&greatest or are willing to upgrade to the
+latest&greatest, BIP 16 support is already in
+https://github.com/bitcoin/bitcoin/  
+  
+  
+Finally, if you do decide to support BIP 16, upgrade your code, and start
+mining with it, let me know and I'll be happy to thank you publicly in my
+signature (offer good until I run into the 300-characters-in-the-signature
+forum limit).
+

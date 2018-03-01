@@ -1,0 +1,9 @@
+
+
+My pet peeve, related to endianness, is treating hashes as numbers and
+reversing them. A hash is a byte string with a well defined order and it makes
+no more sense to reverse it than to reverse text.  
+  
+I would also have used a more common elliptic curve for the crypto, and made
+some changes to speed it up.
+

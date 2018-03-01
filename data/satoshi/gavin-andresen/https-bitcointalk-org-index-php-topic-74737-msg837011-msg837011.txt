@@ -1,0 +1,17 @@
+
+
+Quote from: jetmine on April 05, 2012, 04:12:25 PM
+
+This release is unstable as hell. I get crashes. I get unexpected exits. And I
+get failures to restart.  
+
+All righty... you're the first person I've heard that from.  
+  
+Please file bug reports on the github issue tracker. Include enough
+information so we can reproduce the problem (what platform? what seems to
+cause the problem? etc) and it might get fixed.  
+  
+I say "might" because if you're serving up a big mining pool running bitcoind
+on Windows... well, none of the current core developers work on Windows.  
+  
+

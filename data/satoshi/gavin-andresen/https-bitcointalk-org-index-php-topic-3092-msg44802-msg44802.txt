@@ -1,0 +1,28 @@
+
+
+It doesn't 'feel right' to me.  
+  
+Seems like the ideal API would be:  
+  
+"Hey bitcoin, I want to keep track of all transactions for account FOO (or all
+accounts) that have [minconf] confirmations. Please POST them to [url]."  
+  
+or  
+  
+"Hey bitcoin, I want to keep track of all transactions for account FOO (or all
+accounts) that have [minconf] confirmations. I'll be polling you to see if
+there are any new ones every once in a while, I'll pass you [unique_token] so
+you know it is me."  
+  
+... at least for the simple case. You'd get back two lists of transactions:
+new transactions with [minconf] that you haven't been told about before (maybe
+empty in the polling case), and a list of transactions you were told about
+before that now have less than [minconf] confirmations because of a block
+chain re-org (always empty if [minconf] is big enough).  
+  
+  
+  
+For the "I really want to shoot myself in the foot and deal with block-chain
+reorgs myself" you can call getblock and/or monitorblock to get all the gory
+details about which transactions are in which blocks.
+

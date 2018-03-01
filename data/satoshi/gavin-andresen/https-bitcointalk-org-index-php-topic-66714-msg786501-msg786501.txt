@@ -1,0 +1,66 @@
+
+
+You should be able to build your GL on top of the accounts feature of
+bitcoind.  
+  
+The 'validateaddress' RPC call will tell you the account associated with an
+address and whether or not it is an address that belongs to you or is
+external.  
+  
+Combined with the 'sendfrom' and 'setaccount' RPC calls, you should be able to
+create a proper general-ledger-type application where all transactions have
+well-defined "from" and "to" accounts.  
+  
+Example of one way to do it using my testnet-in-a-box setup:  
+  
+1\. Create a couple of accounts:  
+
+Code:
+
+./bitcoind -testnet getaccountaddress "cash"  
+# ... send some coin to the "cash" account from ... somewhere ...  
+./bitcoind -testnet setaccount mzDfbJCELPQzHMjJ6ZLFRUxT51FdKezbEZ
+"hosting_expenses"  
+# the mzDfb... address would come from my web hosting company, of course  
+
+  
+2\. Now pay for web hosting out of "cash"  
+
+Code:
+
+./bitcoind -testnet sendfrom "cash" mzDfbJCELPQzHMjJ6ZLFRUxT51FdKezbEZ 10  
+
+  
+3\. All the information about the transaction (from and to accounts) is
+available, but you'll need 2 RPC calls to get it:  
+
+Code:
+
+$ ./bitcoind -testnet listtransactions "cash" 1  
+[  
+{  
+"account" : "cash",  
+"address" : "mzDfbJCELPQzHMjJ6ZLFRUxT51FdKezbEZ",  
+"category" : "send",  
+"amount" : -10.00000000,  
+"fee" : 0.00000000,  
+"confirmations" : 0,  
+"txid" : "53a681fd7f6b2cb542d69cb72d18ca780d42df63fcc00cf46b19499ab75540b3",  
+"time" : 1331050826  
+}  
+]  
+$ ./bitcoind -testnet validateaddress mzDfbJCELPQzHMjJ6ZLFRUxT51FdKezbEZ  
+{  
+"isvalid" : true,  
+"address" : "mzDfbJCELPQzHMjJ6ZLFRUxT51FdKezbEZ",  
+"ismine" : false,  
+"account" : "hosting_expenses"  
+}  
+
+  
+The GUI has no notion of a "sendfrom account", so any coins send from the GUI
+won't play nicely with whatever system you create using the RPC interface. The
+expectation is the vast majority of GUI users won't go to the trouble of
+creating a general ledger system to keep track of where their bitcoins are
+coming from and going to.  
+

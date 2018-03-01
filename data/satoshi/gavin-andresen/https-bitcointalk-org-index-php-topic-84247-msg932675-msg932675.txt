@@ -1,0 +1,7 @@
+
+
+Sipa has been busy implementing IPv6 support and much better support for
+running bitcoin as a Tor hidden service. Both of those should help make the
+network more robust and resistant to attack. If a lot of people decide to run
+only inside Tor then it will look like even fewer nodes are listening, though.  
+

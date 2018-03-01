@@ -1,0 +1,16 @@
+
+
+Actually, the "label" mechanism gives me what I need to keep the freebitcoins
+separate from other bitcoins in my server's wallet.  
+  
+What I'd really like is to store wallets outside of the bitcoin program. I'd
+like bitcoind to have these features:  
+\+ Generate a new address, but don't store it in the local wallet file--
+return the address and private key  
+\+ Accept a transaction that is already signed; check that it is new/valid,
+and, if it is, broadcast. (if not, reject it)  
+\+ Let me register a Bitcoin address that I'm interested in, and when it sees
+payments to that address 'tickle' a URL with details on that transaction.  
+  
+Or, in other words, allow it to function as just a payment gateway.  
+

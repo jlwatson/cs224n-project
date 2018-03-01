@@ -1,0 +1,71 @@
+
+
+Now is the chance to make an account and ask him.  
+  
+  
+Some of his answers are already up:  
+  
+  
+
+Quote
+
+How long does it take to create a project like Lighthouse, from the idea to
+the product? And how many people are needed?  
+
+  
+Great question! It took me about 8-9 months of full time work to get
+Lighthouse to beta, working on my own. _But_ this comes with several caveats.
+One is that I was working on other things during this time as well, like HD
+wallets. Another is that a big chunk of the Lighthouse code is actually the
+bitcoinj library, which I had been developing with many other people for years
+by that point. So I had a great understanding of the tools I was working with.
+If someone wanted to build an app like Lighthouse from scratch, it'd take them
+longer as they'd have to get up to speed, even if they used the same tools and
+frameworks I did.  
+  
+That said, what I've seen is that most developers don't want to build
+downloadable P2P apps like Lighthouse or the original Bitcoin. They mostly
+want to make web apps. Once I launched Lighthouse, a couple of devs came along
+and built lightlist.io which is a web based version of Lighthouse, albeit with
+fewer features. It took them much less than 8 months, though partly that's
+because they were just reimplementing the Lighthouse design rather than doing
+something new, and because a more centralised solution is often easier to put
+together than something P2P.  
+  
+
+Quote
+
+Do you thing the difficulties of the blocksize debate will result in a more
+effective decision making process for future Bitcoin development and if so any
+thoughts on how that might work?
+
+  
+The only decision making process that should really matter is end users and
+miners picking what software to run. At the moment this mechanism has broken
+down completely due to a combination of censorship/DoS attacks and general
+propaganda of the form "if you run something other than Core the sky will
+fall". So the decision (non) making process used by Core has come under a lot
+of scrutiny because at the moment Bitcoin is a centralised system run by just
+one or two people (count differs depending on how you view things).  
+  
+I don't know if Bitcoin will eventually recover its decentralisation. For that
+to happen users must feel empowered, and must learn to distrust even those who
+claim to be unbiased experts (including me). Instead they must learn to pick
+the software they use based on its merits rather than what the people writing
+it choose to say, and be willing to switch at any point if the software they
+use stops delivering.  
+  
+
+Quote
+
+One possible disadvantage is that faster confirmations may mean higher orphan
+rate ... do you think it is an impossible idea to make Bitcoin block
+confirmation times faster than 10 minutes to increase the scalability of
+Bitcoin?
+
+  
+  
+and many many more answers at: https://forum.bitcoin.com/ama-ask-me-
+anything/i-m-mike-hearn-creator-of-lighthouse-bitcoinj-and-bitcoin-xt-ask-me-
+anything-t2207.html
+

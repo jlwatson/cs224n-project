@@ -1,0 +1,11 @@
+
+
+Scheduling should be easy; on Linux, just run a couple of 'at' jobs that
+either talk to Bitcoin via bitcoind command-line arguments or use curl to turn
+on/off coin generation.  
+  
+Windows and Mac have similar, built-in abilities to schedule commands.  
+  
+I think less time, effort, and attention should be paid to coin generation,
+and more to making bitcoin as easy to use as possible for trading.  
+

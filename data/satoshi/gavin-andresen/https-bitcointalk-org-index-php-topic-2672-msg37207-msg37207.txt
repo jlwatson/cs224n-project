@@ -1,0 +1,32 @@
+
+
+davout said (at the github pull request):  
+  
+
+Quote
+
+I think this needs to be explicitly allowed from the bitcoin client side,
+otherwise any website could start quietly bruteforcing the username/password
+out of a client.
+
+  
+If you've opened up access to the rpcport, then I don't think CORS support
+adds any significant vulnerability to password brute-forcing. I suppose it
+means a 10-year-old non-programmer can repeatedly enter a username and
+password into a website to try to brute-force your rpcpassword... but anybody
+capable of writing or running a script could just write a brute-forcer that
+doesn't run in a browser.  
+  
+And, come to think of it, turning on CORS explicitly wouldn't stop the ten-
+year-old, either: they could just repeatedly browse to URL http://your-
+bitcoind-machine:8332/ and try different usernames/passwords.  
+  
+Also, bitcoind already has anti-brute-forcing code.  
+  
+The only security vulnerability I could imagine with CORS is that it might
+encourage people to add:  
+rpcallowip=*  
+... to their bitcoin.conf, so they can connect to bitcoin from any IP address.
+And I worry that they might not bother to setup SSL, in which case their rpc
+username/password will be sent across the net in the clear.  
+

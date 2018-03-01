@@ -1,0 +1,14 @@
+
+
+Not relaying "smelly" blocks is a very interesting idea.  
+  
+It doesn't have to be a binary relay/don't relay... you could immediately
+relay good blocks but wait a while before relaying bad blocks, and make the
+length of time you wait to relay based on how bad you think they are (maximum
+of maybe 10 minutes before you relay).  
+  
+But... not relaying new blocks immediately might just encourage the bad guys
+to try to connect directly to as many nodes as possible, and that could be bad
+for network health.  
+  
+

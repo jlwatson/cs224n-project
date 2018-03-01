@@ -1,0 +1,11 @@
+
+
+RE: long delay, no window on startup: will be made much better by the QT
+splash screens in bitcoin 0.5.  
+RE: lots of GUI bugs: whole rafts of wxwidgets-related bugs will go away with
+the switch to QT in bitcoin 0.5.  
+  
+RE: incompatible on older version of windows: I don't know nuthin about
+windows compatibility, somebody want to volunteer to investigate? Is bitcoin
+0.4 less compatible for some reason than 0.3.24 was? (shouldn't be...)  
+

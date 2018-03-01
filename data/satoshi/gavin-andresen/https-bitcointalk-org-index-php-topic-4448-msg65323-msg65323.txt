@@ -1,0 +1,33 @@
+
+
+I'd suggest using a standard, existing format instead of inventing a new one.  
+  
+Either get rid of the version number and do standard CSV:  
+
+Code:
+
+91iwnurxhWmDF9gqwc4CbuLCB4HxuMXf5B2vEhTPDftY3rkMgDY,10806,moura6ybHvwzMtrWdyqiEN6n2mMakf8HxD,"50.01
+BTC"  
+92JsNVMJgG4RiC2ARxpduJp8DXKgdDMj9WREE5jo66Hg8UMdr3L,10870,mmFPR1oaDExBfJqpRohWBvbE2aCg86Kwcx,"0.00
+BTC"  
+... etc (always 4 columns)  
+
+  
+Or maybe .ini-format, with each private key a different section:  
+
+Code:
+
+version=1  
+[91iwnurxhWmDF9gqwc4CbuLCB4HxuMXf5B2vEhTPDftY3rkMgDY]  
+block=10806  
+publickey=moura6ybHvwzMtrWdyqiEN6n2mMakf8HxD  
+amount=50.01  
+[92JsNVMJgG4RiC2ARxpduJp8DXKgdDMj9WREE5jo66Hg8UMdr3L]  
+block=10870  
+... etc  
+
+(bitcoin already contains .ini-file-parsing code, from boost)  
+  
+  
+I think there are lots of advantages to using an already-standard file format.  
+

@@ -1,0 +1,9 @@
+
+
+I've been lobbying for the mimetype solution.  
+  
+I did a little mockup a while ago of what happens if you click on a link and
+do NOT have bitcoin installed (which, in my opinion, is the most important
+case):  
+http://skypaint.com/btcpay/mimepay.html  
+

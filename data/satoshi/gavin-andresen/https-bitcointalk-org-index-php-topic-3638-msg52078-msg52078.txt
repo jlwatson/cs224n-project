@@ -1,0 +1,43 @@
+
+
+Quote from: [mike] on February 20, 2011, 10:06:28 PM
+
+ **Bounty for the 50 coins**. The first person to get a patch merged by Gavin
+into the core software that allows import/export of wallet files, via the GUI
+on all 3 supported platforms, defined in the following manner wins the coins.
+Obviously not very much but I guess it's symbolic  
+  
+The format should be a CSV file (unix line endings) that looks like this:  
+  
+
+Code:
+
+base58 encoded privkey,block number,block number....  
+base58 encoded privkey,block number,block number....  
+base58 encoded privkey,block number,block number....  
+
+  
+where the block numbers are the blocks in which there are unspent outputs
+sending to that key.  
+
+  
+CSV file with the private key and block numbers is a good idea, although for
+it to be a valid CSV file then it needs to have a fixed number of columns.  
+  
+I'd modify the design slightly to be just:  
+base58 encoded privkey,block number  
+... where block number is the block number of the earliest input (that'll save
+rescanning time-- you probably always want to rescan from the earliest block
+number, anyway, in case more payments were sent after you exported the key).  
+  
+Also what do you mean by "export" -- write and then remove the keys from the
+wallet? Write a newly generated key and generate a payment-to-that-key for a
+given amount of coins?  
+  
+I think any code that removes keys from the wallet (or generates payments to
+keys that are never added to the wallet) needs to be structured as two
+distinct steps:  
+1\. Write the keys to <destination>  
+2\. Read <destination> to make sure it is valid, and, if it is, delete the
+corresponding keys from the wallet (or generate the send-to-self txn).  
+

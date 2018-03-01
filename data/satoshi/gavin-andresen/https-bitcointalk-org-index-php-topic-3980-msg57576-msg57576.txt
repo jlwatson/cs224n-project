@@ -1,0 +1,28 @@
+
+
+Thanks for the donations, everybody!  
+  
+Catching up on questions:  
+  
+Is the faucet supported entirely by donations? Not entirely-- the captchas
+have generated about $100, which will go into refilling it. It looks like
+captcha revenue is only covering about 1/4 of the cost of the coins, although
+the company that does the money-for-captchas is a startup looking for more
+advertisers. Actually, if you want to advertise a bitcoin-related business you
+should talk to them... (they're adscaptcha.com)  
+  
+Was somebody abusing the faucet? Yep, somebody was exploiting a weakness in my
+IPv6-handling code. I've fixed the weakness (the faucet is now much stricter
+about what it considers "different" IPv6 addresses), but I think I'm fighting
+a losing battle-- the next step will be to require you to login with a valid
+google account to get coins. I hate to add another hoop to jump through...  
+  
+Is it time to reduce the payout? Maybe soon, but I'd rather wait until the
+next release is out and then reduce the payouts another factor of 10 (so
+'standard' payout if balance was above 500BTC would be 0.05BTC, and 0.005 when
+it was running low).  
+  
+Can I add a link to bitcoinmonitor.com? Done.  
+  
+  
+

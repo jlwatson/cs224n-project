@@ -1,0 +1,9 @@
+
+
++1 for vector76's hypothesis.  
+  
+If mybitcoin was running bitcoin behind Tor, and had just one connection
+(through a Tor exit node) to the rest of the bitcoin network, then they'd be
+particularly susceptible to this 1-confirmation attack.  
+  
+

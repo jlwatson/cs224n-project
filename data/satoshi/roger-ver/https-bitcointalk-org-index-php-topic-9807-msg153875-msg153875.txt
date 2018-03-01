@@ -1,0 +1,10 @@
+
+
++1 for the need for this.  
+  
+We are working on a online shopping cart plugin for magento.  
+I am sure lots of merchants will want to have the option of cashing in their
+BTC for USD at the time of the sale.  
+  
+(I'm happy to keep my bitcoins however)
+

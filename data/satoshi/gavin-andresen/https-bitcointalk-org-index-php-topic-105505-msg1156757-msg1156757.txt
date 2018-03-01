@@ -1,0 +1,18 @@
+
+
+Bug. I never tested the combination of signing a pay-to-script-hash
+transaction with non-wallet private keys.  
+  
+I'm not 100% sure how to fix it, though. The problem is private keys, public
+keys, and P2SH scripts are all stored in a "keystore." When you give the third
+argument to signrawtransaction, it creates a keystore that contains just the
+private keys (and the corresponding public keys) that you give, and uses that
+to sign the transaction.  
+  
+There's currently no way to give it the P2SH script that corresponds to
+34y6HmY6zTH51KTC9vd36HasNL4kLKcisC, but the transaction signing code needs
+that information.  
+  
+I think the right fix is to give signrawtransaction both the private key(s)
+and any P2SH information needed...  
+

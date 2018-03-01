@@ -1,0 +1,24 @@
+
+
+Rereading my original post, I should make clear: the people I really have
+issues with are the people who think it is more fun to try to destroy
+something than to help build it. My comment about "I wish people would find
+more constructive things to do with their time" was not meant to be aimed not
+at AlternaCoin creators.  
+  
+I agree that there are some benefits to the alternate chains existing; I just
+wonder if the costs of all the duplicate infrastructure (exchanges and pools
+and faucets and...) is worth the benefits.  
+  
+RE: privately disclosing exploits to AlternaCoin developers: well, to be
+frank, I have no idea if most AlternaCoin developers can be trusted with
+sensitive exploit information or even who is currently supporting which chain.
+The danger would be somebody emailing me claiming to be the lead developer for
+FooCoin, I tell them about the vulnerability, and then they turn out to NOT be
+the lead FooCoin developer but an attacker. Or I tell FooCoin about the
+vulnerability and they decide to use it to launch an attack on their arch-
+enemy, BarCoin.  
+  
+It is all drama and heartburn that I'd really rather not have (again, costs
+and benefits....)
+

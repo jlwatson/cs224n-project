@@ -1,0 +1,33 @@
+
+
+https://github.com/bitcoin/bitcoin/pull/138  
+  
+I think this is ready:
+
+Quote
+
+This patch adds immature generated blocks to listtransactions. They are
+reported just like mature blocks, except the category is 'immature' instead of
+'generate'.  
+  
+This functionality is needed by people creating alternative, JSON-RPC-based
+GUIs, and is useful for impatient miners who currently grep through debug.log
+or use unofficial patches to see not-yet-mature blocks they've generated.
+
+  
+I found one edge case during testing, and after discussion on #bitcoin-dev
+changed the information reported. The edge case was reporting the coinbase
+transactions from orphaned blocks. Here's the scenario:  
+  
+\+ As soon as you generate a block, the coinbase transaction goes into your
+wallet as a 1-confirmation transaction. Before this patch, that transaction
+was not listed in the listtransactions output. With this patch, it is (as
+"category" : "immature", "confirmations" : 1).  
+  
+\+ If that block is orphaned, the coinbase transaction is no longer valid.
+With this patch, it will be reported at "category" : "orphan", "confirmations"
+: 0  
+  
+\+ When a coinbase transaction has 120 confirmations, it will be reported as
+"category" : "generate" (as before).  
+

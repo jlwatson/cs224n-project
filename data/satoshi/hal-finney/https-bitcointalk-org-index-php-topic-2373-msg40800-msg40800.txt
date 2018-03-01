@@ -1,0 +1,9 @@
+
+
+See also the program referenced in post 15 of this thread:  
+  
+http://bitcointalk.org/index.php?topic=2507.0;all  
+  
+I think grondilu has some code samples showing how to sign with these openssl
+keys.  
+

@@ -1,0 +1,82 @@
+
+
+I implemented an optimized ECDSA verify for the secp256k1 curve used by
+Bitcoin, based on pages 125-129 of the Guide to Elliptic Curve Cryptography,
+by Hankerson, Menezes and Vanstone. I own the book but I also found a PDF on a
+Russian site which is more convenient.  
+  
+secp256k1 uses the following prime for its x and y coordinates:  
+  
+p = 0xfffffffffffffffffffffffffffffffffffffffffffffffffffffffefffffc2f  
+  
+and the curve order is:  
+  
+n = 0xfffffffffffffffffffffffffffffffebaaedce6af48a03bbfd25e8cd0364141  
+  
+The first step is to compute values beta, lambda such that for any curve point
+Q = (x,y):  
+  
+lambda * Q = (beta*x mod p, y)  
+  
+This is the so-called efficiently computable endomorphism, and what it means
+is, you can multiply any curve point by this special value lambda very
+quickly, by doing a single mod-p multiply.  
+  
+The book tells (well, hints) how to compute lambda and beta, and here are the
+values I found:  
+  
+lambda = 0x5363ad4cc05c30e0a5261c028812645a122e22ea20816678df02967c1b23bd72  
+  
+beta = 0x7ae96a2b657c07106e64479eac3434e99cf0497512f58995c1396c28719501ee  
+  
+  
+Given that we can multiply by lambda quickly, here is the trick to compute
+k*Q. First use the shortcut to compute Q' = lambda*Q. Next, k must be
+decomposed into two parts k1 and k2, each about half the width of n, such
+that:  
+  
+k = k1 + k2*lambda mod n  
+  
+Then  
+  
+k*Q = (k1 + k2*lambda)*Q = k1*Q + k2*lambda*Q = k1*Q + k2*Q'  
+  
+That last expression can be evaluated efficiently via a double multiply
+algorithm, and since k1 and k2 are half length, we get the speedup.  
+  
+The missing piece is splitting k into k1 and k2. This uses the following 4
+values:  
+  
+a1 = 0x3086d221a7d46bcde86c90e49284eb15  
+b1 = -0xe4437ed6010e88286f547fa90abfe4c3  
+a2 = 0x114ca50f7a8e2f3f657c1108d9d44cfd8  
+b2 = 0x3086d221a7d46bcde86c90e49284eb15  
+  
+(it's ok that a1 = b2)  
+  
+Use these as follows to split k:  
+  
+c1 = RoundToNearestInteger(b2*k/n)  
+c2 = RoundToNearestInteger(-b1*k/n)  
+  
+k1 = k - c1*a1 - c2*a2  
+k2 = -c1*b1 - c2*b2  
+  
+  
+With all this, I measure about a 25% speedup on raw signature verifications.
+For Bitcoin, initial block load from a wifi-connected local node is reduced
+from:  
+  
+real 36m21.537s  
+user 24m43.277s  
+sys 0m27.950s  
+  
+to:  
+  
+real 32m59.777s  
+user 18m21.145s  
+sys 0m28.262s  
+  
+Not a big difference, and it would probably be even less significant when
+fetching over the net.  
+

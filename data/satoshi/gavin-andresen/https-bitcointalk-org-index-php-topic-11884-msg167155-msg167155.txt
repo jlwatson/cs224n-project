@@ -1,0 +1,6 @@
+
+
+What theymos said. There's another thread about this, too, and I'll ask here
+what I asked there: what is the use case for an 'estimate transaction fee'
+function? What if the estimate is wrong, what would your application do?  
+

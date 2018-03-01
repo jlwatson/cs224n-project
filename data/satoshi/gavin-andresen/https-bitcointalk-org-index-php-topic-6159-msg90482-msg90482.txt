@@ -1,0 +1,17 @@
+
+
+Quote from: stakhanov on April 20, 2011, 07:24:18 AM
+
+I think the default client should show at least one additional digit by
+default, and of course there should be the option to increase it arbitrarily.  
+
+  
+The 0.3.21 release (I hope to have a release candidate available today) will
+support full-precision values-- you will be able to send 1.00123456 BTC, if
+you like.  
+  
+Sending less than 0.01 BTC still requires a 0.01 BTC fee, though. Changing
+that to "sending less than 0.01 BTC requires a 0.001 BTC fee" might be worth
+thinking about, but I think there are higher priorities on the core bitcoin
+TODO list.  
+

@@ -1,0 +1,14 @@
+
+
+The frequency of finding blocks is an example of the Poisson distribution.
+Here is a good, simple page about it:  
+  
+http://stattrek.com/Lesson2/Poisson.aspx  
+  
+(no, that doesn't say star trek)  
+  
+Here is a calculator: http://stattrek.com/Tables/Poisson.aspx. You plug in the
+number of blocks you _should_ have gotten in an interval, and the number of
+blocks you actually did get (or think you might get). It will tell you the
+probably to get that many blocks, or more, or less.
+

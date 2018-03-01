@@ -1,0 +1,10 @@
+
+
+Quote from: justusranvier on March 08, 2013, 08:40:55 PM
+
+Honestly, I'm sick of people ignoring all the optimizations that have already
+been identified and are just waiting to be coded, as if we're going to scale
+to 2000 tps without anyone bothering to implement any of them.  
+
++1  
+

@@ -1,0 +1,8 @@
+
+
+My prediction for 2012:  
+  
+Peer-to-peer pool technology will mature (will get easier to install and run),
+and p2pool's will be more than 25% of bitcoin hashing power by the end of the
+year.  
+

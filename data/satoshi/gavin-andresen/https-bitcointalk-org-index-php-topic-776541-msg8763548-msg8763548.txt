@@ -1,0 +1,28 @@
+
+
+Thaddeus Dryja's "proof of idle" idea hasn't been getting enough attention.
+See https://www.youtube.com/watch?v=QN2TPeQ9mnA  
+  
+The idea is to get paid NOT to mine, because it is economically rational for
+everybody to keep the difficulty lower rather than higher (everybody saves
+money on electricity if everybody can somehow agree to keep their equipment
+idle). Thaddeus figured out a way of solving the coordination problem so
+nobody can lie about how much mining power they have or profit from cheating
+and running miners that they promised to keep idle.  
+  
+Having lots of idle mining capacity is appealing for at least two reasons --
+it is more energy efficient, and if an attack of some kind is detected it
+could be brought online instead of kept idle to help fight the attack.  
+  
+
+* * *
+
+  
+However... I suspect that taking that idle mining power, pointing it to a big
+mining pool, and then performing a winning-share-withholding-attack (if you
+find a share that satisfies full network difficulty, don't submit it to the
+pool -- just throw it away and pretend it never happened) could be a way of
+doubling your profits, because you drive down difficulty, get paid for "idle"
+capacity, AND get a share of the profits from the mining pool you're
+attacking.  
+

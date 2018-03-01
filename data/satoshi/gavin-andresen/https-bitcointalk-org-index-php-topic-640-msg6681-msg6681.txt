@@ -1,0 +1,13 @@
+
+
+Quote from: aceat64 on July 30, 2010, 04:34:35 PM
+
+Gavinandresen has one, but it is not currently up to date with the svn (r119).  
+  
+http://github.com/gavinandresen/bitcoin-git/tree/svn  
+
+I just updated my git "svn" branch with r116-119, and also merged it against
+'master'.  
+  
+The git network diagram showing what I done did is kinda pretty.  
+

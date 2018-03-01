@@ -1,0 +1,8 @@
+
+
+Sounds like this is good for pool operators that have high 'getwork' loads--
+have any high-volume merchants sites or e-wallet sites tried it?  
+  
+I've got a long list of things to do when I get back from vacation week after
+next, or I'd volunteer to run it on the Faucet to help stress test it.  
+

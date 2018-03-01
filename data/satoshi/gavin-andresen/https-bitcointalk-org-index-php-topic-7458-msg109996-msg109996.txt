@@ -1,0 +1,20 @@
+
+
+Quote from: ribuck on May 07, 2011, 02:29:18 PM
+
+Clearly the fee system is suboptimal if one can reduce fees by workarounds
+that increase system overhead.  
+
+  
+I learned long ago that it is much better to create a sub-optimal system that
+is simple and robust than to try to create a perfectly optimal system.  
+  
+Pretty darn good, with the right incentives in place to drive the long-term
+desired behavior, is good enough for me right now. I think "we" have been
+pretty good at responding fairly quickly to problems as they appear. I'm
+keeping a close eye on the free-transaction backlog, but I think tcatm's
+recent changes to http://bitcoincharts.com/bitcoin/ , showing transaction
+priority, and the recent change to the bitcoin client, so the default fee
+rules are the same for miners, relaying across the network, and the client,
+are working nicely.  
+

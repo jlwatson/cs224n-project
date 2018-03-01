@@ -1,0 +1,11 @@
+
+
+Quote from: kiba on December 30, 2010, 11:34:17 PM
+
+Er, how many mirrors are backing up the database?  
+
+  
+The forum database is now being automatically compress, encrypted, and backed
+up to another of sirius' servers and to Amazon S3 every day (one per day, I
+don't delete the old backups, yet).  
+

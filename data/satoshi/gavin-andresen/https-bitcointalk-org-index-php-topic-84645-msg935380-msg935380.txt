@@ -1,0 +1,30 @@
+
+
+Quote from: gweedo on June 01, 2012, 04:14:02 PM
+
+no run bitcoind under it's own user but you still need to have access to it to
+send commands those should be done only on root  
+
+  
+Ummm....  
+  
+When you run something like:
+
+Code:
+
+bitcoind getinfo
+
+  
+... bitcoind creates a network connection to localhost:rpcport and talks to
+the running bitcoind process via the JSON-RPC protocol.  
+  
+So it doesn't matter what user the
+
+Code:
+
+bitcoind getinfo
+
+process is running as, what matters is securing access to the JSON-RPC network
+port, keeping the rpcpassword a secret, and preventing attackers from getting
+in and copying wallet.dat.  
+

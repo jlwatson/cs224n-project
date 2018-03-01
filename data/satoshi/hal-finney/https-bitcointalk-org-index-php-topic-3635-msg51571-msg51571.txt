@@ -1,0 +1,9 @@
+
+
+Right now I'd estimate there are 300,000-400,000 funded addresses. Let's round
+up to a million, 2^20. When you generate a new address the chances are
+2^20/2^160 or 1 in 2^140 that you will collide with a funded address. You need
+to generate 2^139 addresses for a 50-50 chance of success. With my estimate of
+about 2^17 tries/sec, that is 2^122 seconds. That is over 10^29
+(1000000000000000000000000000000) years. Not a problem.
+

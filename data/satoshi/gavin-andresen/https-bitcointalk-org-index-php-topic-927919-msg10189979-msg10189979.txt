@@ -1,0 +1,6 @@
+
+
+Why would a miner want only half the network to build on their block?  
+  
+That makes no sense... what is the +2hr timestamp miner trying to accomplish?  
+

@@ -1,0 +1,20 @@
+
+
+Reposting from email to bitcoin-development mailing list:  
+  
+I've been busy pulling patches into git HEAD for a Bitcoin version 0.6, with
+the goal of having a Release Candidate 1 out in a couple of weeks.  
+  
+So if you've done all your Christmas shopping and have time to help test, code
+review, etc. now would be the time.  
+  
+Major changes pulled so far:  
+  
+Implement BIP 11/12/13:  
+"Standard" multisignature transactions  
+"Standard" OP_EVAL transactions  
+OP_EVAL bitcoin addresses  
+Implement BIP 14 (separate protocol from client version)  
+Private key import/export (RPC commands, not GUI)  
+New DNS seeds  
+

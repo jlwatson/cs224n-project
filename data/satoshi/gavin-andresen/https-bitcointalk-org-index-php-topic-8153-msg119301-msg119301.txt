@@ -1,0 +1,11 @@
+
+
+Oh, and what version of bitcoin are you running? 0.3.21 includes a patch from
+luke-jr that modifies the coin-selection algorithm to avoid sub-cent change
+when possible.  
+  
+It will also help if you keep a good selection of 'old' coins in the shared
+wallet.  
+  
+I agree that transaction fee accounting/handling needs improvement.  
+

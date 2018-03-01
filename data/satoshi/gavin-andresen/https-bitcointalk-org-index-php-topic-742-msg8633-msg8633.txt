@@ -1,0 +1,22 @@
+
+
+Quote from: Insti on August 10, 2010, 11:12:56 PM
+
+The micro transaction fee only applies to the the 'out' side.  
+
+Right, but every TxIn has to have a corresponding TxOut (except for
+GENERATE/coinbase transactions, but those have their own rules). So if you
+want a 0 BTC TxIn, you've gotta first pay yourself with a 0BTC TxOut and
+that'll trigger the fee. TxIns don't contain a value, the value is in the
+corresponding TxOut...  
+  
+
+Quote
+
+Anyone who is accepting 'bad' transactions and returning good coins deserves
+to give their money away.  
+
+  
+But you agree that it wouldn't be OK for a 'refundtransaction' API call to
+make it easy to do that, right?
+

@@ -1,0 +1,11 @@
+
+
+Quote from: casascius on February 01, 2012, 05:48:58 PM
+
+You should be able to use your present wallet but would probably be required
+to upgrade your client.  
+
+  
+No, you don't have to upgrade your client to receive coins from somebody using
+a BIP 16 multisignature wallet.
+

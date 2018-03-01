@@ -1,0 +1,23 @@
+
+
+Quote from: deepceleron on June 19, 2012, 10:49:37 PM
+
+Another coding optimization would be if you receive a second block solution,
+to immediately discard the first and push out the newer one if it has a
+significantly smaller hash, of course still keeping track of both as valid
+work from miners.  
+
+Chain proof-of-work is calculated based on the hash target, so if you get
+another block at the same height there is no benefit to keeping the one with
+"the smaller hash".  
+  
+Maybe if you receive a second block solution, keeping the block that removes
+the most transactions from the memory pool would be the right "good for the
+entire ecosystem" policy. That way even if small blocks propagate slightly
+faster that might be offset if a larger, slower block was found. (but making
+new-block-flooding independent of the size of the block is an even better
+solution, and that shouldn't be too hard to implement)  
+  
+Creating a semi-trusted backbone of connections to other pools/miners so your
+new blocks propagate quickly is a good idea.  
+

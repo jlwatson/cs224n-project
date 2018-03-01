@@ -1,0 +1,14 @@
+
+
+As a merchant trying to accept bitcoins, I couldn't agree with your post more!  
+A few initial things that come to mind for this software would be:  
+  
+1\. Allow users to generate an unlimited number of keys for receiving, but
+those same users can NOT send any money out.  
+  
+2\. Sending money requires authorization from two or more users. (No single
+user can send money)  
+  
+I would be willing to help test this software in a real world environment if
+needed.  
+

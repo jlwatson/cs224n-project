@@ -1,0 +1,20 @@
+
+
+Quote from: ByteCoin on April 25, 2011, 11:12:35 PM
+
+If an attacker can force you to sign arbitrary messages, that's certainly a
+security flaw. The solution is to take good care that you approve of whatever
+content you are thinking of signing whether it be cheques, loan agreements,
+wills or numbers.  
+
+  
+So: the danger isn't revealing private keys (I mis-remembered), the danger is
+a naive developer will see the signmessage RPC command, not realize that
+signing arbitrary data can be dangerous, and put up a web page that lets
+somebody enter arbitrary data to be signed with one of the developer's public
+keys.  
+  
+This might just be a documentation issue, although if signmessage was changed
+to sign a hash of the passed-in message instead of the message itself then it
+would be completely safe.
+

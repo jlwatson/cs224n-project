@@ -1,0 +1,22 @@
+
+
+Quote from: CIYAM Pty. Ltd. on April 25, 2012, 05:25:27 AM
+
+Let me try to further explain why I want this feature (and I really don't care
+exactly what form or exactly which RPC command is modified to support it) - I
+am wanting to use the blockchain as a "true" ledger for a specific address
+(i.e. that can be publicly audited without having to try and chase up "change"
+addresses and without using inputs from any other address).  
+  
+I am so far surprised that no-one seems to be interested in this (for things
+such as Bitcoin100) and (if the feature actually does get added) will be
+creating a "project management" package for the CIYAM software platform that
+will integrate with bitcoind to work with such "non-anonymous" addresses.  
+
+I have a -noprivacy patch that I use for the Faucet that accomplishes what you
+want, sending any change back to the funding address.  
+  
+It isn't part of the core code because it doesn't play nicely with other
+features (accounts and listtransactions, for example). See
+https://github.com/gavinandresen/bitcoin-git/tree/noprivacy  
+

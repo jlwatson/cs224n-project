@@ -1,0 +1,19 @@
+
+
+Quote from: ByteCoin on November 08, 2010, 09:14:26 PM
+
+In order to enable interoperability we need to have a sufficiently detailed
+specification of the scripting language, how mathematically scriptSig
+satisfies scriptPubKey and some commitment from Satoshi that he will "play
+nicely" with such efforts.  
+
+  
+I think it is WAY too early to nail all that down; bugs in that code caused
+changes just a few months ago.  
+  
+Just write the code, and when core bitcoin changes, be prepared to change your
+code. For the specific case we're talking about, you don't need to know all
+the possible ways scriptSig satisfies scriptPubKey-- you just need to reverse
+engineer how the standard send-to-bitcoin-address works so you can sign your
+own send-to-bitcoin-address transactions.  
+

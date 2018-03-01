@@ -1,0 +1,75 @@
+
+
+I made a patch to make the client "shy". On incoming connections, it won't
+send a version message until it receives one. This can help make port scanning
+identification harder.  
+  
+
+Code:
+
+diff --git a/main.cpp b/main.cpp  
+index b7dfd9f..cb4fad6 100644  
+\--- a/main.cpp  
++++ b/main.cpp  
+@@ -2290,6 +2290,10 @@ bool ProcessMessage(CNode* pfrom, string strCommand,
+CDataStream& vRecv)  
+return true;  
+}  
+  
+\+ // Be shy and don't send version until we hear  
+\+ if (pfrom->fInbound)  
+\+ pfrom->PushVersion();  
++  
+pfrom->fClient = !(pfrom->nServices & NODE_NETWORK);  
+  
+AddTimeData(pfrom->addr.ip, nTime);  
+diff --git a/net.h b/net.h  
+index f070816..12e415b 100644  
+\--- a/net.h  
++++ b/net.h  
+@@ -571,14 +571,9 @@ public:  
+fGetAddr = false;  
+vfSubscribe.assign(256, false);  
+  
+\- // Push a version message  
+\- /// when NTP implemented, change to just nTime = GetAdjustedTime()  
+\- int64 nTime = (fInbound ? GetAdjustedTime() : GetTime());  
+\- CAddress addrYou = (fUseProxy ? CAddress("0.0.0.0") : addr);  
+\- CAddress addrMe = (fUseProxy ? CAddress("0.0.0.0") : addrLocalHost);  
+\- RAND_bytes((unsigned char*)&nLocalHostNonce, sizeof(nLocalHostNonce));  
+\- PushMessage("version", VERSION, nLocalServices, nTime, addrYou, addrMe,  
+\- nLocalHostNonce, string(pszSubVer), nBestHeight);  
+\+ // Be shy and don't send version until we hear  
+\+ if (!fInbound)  
+\+ PushVersion();  
+}  
+  
+~CNode()  
+@@ -735,6 +730,19 @@ public:  
+  
+  
+  
+\+ void PushVersion()  
+\+ {  
+\+ /// when NTP implemented, change to just nTime = GetAdjustedTime()  
+\+ int64 nTime = (fInbound ? GetAdjustedTime() : GetTime());  
+\+ CAddress addrYou = (fUseProxy ? CAddress("0.0.0.0") : addr);  
+\+ CAddress addrMe = (fUseProxy ? CAddress("0.0.0.0") : addrLocalHost);  
+\+ RAND_bytes((unsigned char*)&nLocalHostNonce, sizeof(nLocalHostNonce));  
+\+ PushMessage("version", VERSION, nLocalServices, nTime, addrYou, addrMe,  
+\+ nLocalHostNonce, string(pszSubVer), nBestHeight);  
+\+ }  
++  
++  
++  
+  
+void PushMessage(const char* pszCommand)  
+{  
+
+  
+I noticed that the variable nLocalHostNonce is being used to detect connecting
+to ourself. But I'm not sure it is working, because we will (re-)randomize
+nLocalHostNonce on incoming connection before we compare with incoming version
+message. So even if we are connecting to ourself, nLocalHostNonce won't match.
+The shy patch should fix this.  
+

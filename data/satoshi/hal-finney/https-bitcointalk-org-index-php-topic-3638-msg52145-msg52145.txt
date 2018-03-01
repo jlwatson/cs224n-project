@@ -1,0 +1,12 @@
+
+
+I'm kind of surprised that Mike's transactions didn't show up in my wallet.
+Instead it still counts that address as having a positive balance. Granted it
+is non-standard for payments from my wallet keys to originate elsewhere, but
+there are other ways it could happen, involving restoring from backup.  
+  
+Well I just looked at the code, and it does only watch for transactions that
+pay me. However it looks like the new release will rescan the block chain on
+startup; that will probably fix it. I wonder how costly it would be to watch
+for outgoing transactions all the time.
+

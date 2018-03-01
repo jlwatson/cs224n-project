@@ -1,0 +1,25 @@
+
+
+Quote from: Cryptoman on December 29, 2010, 04:20:19 PM
+
+There's bitcoinlaundry.com, but I'm not sure it is effective. All the
+transactions are still in the block chain, so you could just compare
+timestamps and amounts. Am I wrong?  
+
+  
+You need a service that will let you send multiple, random-looking amounts at
+different times, and then, some time later, send an amount to the destination.
+And then refunds any extra you sent (and you should send extra). And if you're
+really paranoid, it should allow you to give several refund addresses, and
+random amounts of coins get refunded to each.  
+  
+Then you need to trust that service, which is the really big security hole.
+What better way to catch money launderers than to setup a money laundering
+service for them?  
+  
+You're probably better off doing what has been suggested several times-- move
+coins between 'shared wallet' services like MyBitcoin or MtGox (and/or
+ClearCoin) or just between two machines of your own that are both running
+bitcoin.  
+  
+

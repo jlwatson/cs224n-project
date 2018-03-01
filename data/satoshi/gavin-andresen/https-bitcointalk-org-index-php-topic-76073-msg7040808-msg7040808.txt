@@ -1,0 +1,32 @@
+
+
+Quote from: justusranvier on May 30, 2014, 06:32:37 AM
+
+Two years later, Gavin still won't answer this question:  
+  
+https://twitter.com/anonymouscoin/status/471177928097554433  
+  
+https://twitter.com/anonymouscoin/status/471748516323528705  
+
+  
+I'll break my "don't feed the trolls" rule:  
+  
+You need two things to get private bitcoin transactions:  
+  
+1) An anonymous connection to the Internet. Bitcoin Core does a good job of
+this, working nicely through Tor and/or as a hidden service (thanks to Pieter
+Wuille for writing that code).  
+  
+2) A privacy-aware wallet.  
+  
+The Bitcoin Core wallet needs to be completely rewritten, not just for privacy
+but to get rid of the Berkeley DB dependency, implement HD keys, implement
+multisig, CoinJoin, etc etc etc....  
+  
+Nobody has stepped up to do that, so it hasn't happened; in fact, we are going
+in the opposite direction, moving wallet functionality out of Core (and we
+might eventually drop wallet functionality entirely to concentrate on
+transaction validation and blockchain handling).  
+  
+Why do you ask?  
+

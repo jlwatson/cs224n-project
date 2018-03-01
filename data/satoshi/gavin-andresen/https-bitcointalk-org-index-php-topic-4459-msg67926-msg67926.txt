@@ -1,0 +1,59 @@
+
+
+Quote from: ByteCoin on March 17, 2011, 02:42:44 PM
+
+If this were easy then surely Satoshi would have implemented it from the
+start; after all the address is one step removed from the public key
+presumably to prevent offline attacks trying to find the private key. It seems
+like you're looking to be another step removed. Is there much point?  
+
+  
+Satoshi has a bunch of features that he 'figured out from the start' that are
+not implemented yet; I'll ask him if this is one of them after I figure out
+exactly what feature I want and convince myself it is possible to do securely.
+So I'm going to try to gather my thoughts and see if there is much point:  
+  
+This is the main problem I was trying to solve:  
+  
+
+  * A merchant's website should give the customer a unique payment address during the chekcout process. Ideally, generating that unique address would be done entirely on the web server without requiring a RPC call to a bitcoind process running somewhere.
+
+  
+Communicating with bitcoin or some merchant-services website during the
+checkout process adds another possible point of payment failure-- it is better
+for the merchant if their customers can continue to pay them even if their
+bitcoin daemon (or MyBitcoin or MtGox merchant services) is temporarily down
+for maintenance.  
+  
+OP_OVER OP_ADD solves that problem, and, thinking about it, has some other
+very nice properties. Here's how it would work in practice:  
+  
+1\. Merchant gets one or more public keys to use for payments. They're stored
+in the web server's database.  
+  
+2\. Customer checks out: web server computes HASH160(public_key+order_id), and
+converts the result to a _bitcoin address version#2_ (first byte is not
+base58-encoded-0, but something else).  
+  
+3\. That bitcoin address makes its way to bitcoin software running on the
+customer's machine (or at an online wallet service). Since it is a version#2
+address, bitcoin creates an OP_OVER OP_ADD.... transaction for it instead of
+an OP_DUP ... transaction.  
+  
+4\. Merchant's web server software tells a bitcoind running somewhere "if you
+see payments to HASH160(public_key+order_id), that's one of mine."  
+  
+5\. When the merchant want's to _spend_ the bitcoins it got from the customer,
+it has to tell a bitcoind running somewhere the public_key,order_id pair.  
+  
+  
+If the merchant doesn't completely trust the payment processor then keeping
+steps (4) and (5) separate is very nice-- the payment processor can't spend
+the merchant's bitcoins until the merchant tells them the order_ids (merchant
+would have to use truly random order_ids to be completely safe, of course).  
+  
+And, as noted before, this is a little more private than standard bitcoin
+transactions because the public key isn't revealed until the coins are spent.  
+  
+  
+

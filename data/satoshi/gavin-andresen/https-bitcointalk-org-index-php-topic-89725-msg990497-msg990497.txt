@@ -1,0 +1,24 @@
+
+
+More discussions in IRC today prompted further tweaks to this API:  
+  
+"get any transaction, even transactions that aren't in your wallet"
+functionality will be moved from gettransaction to a new 'getrawtransaction'
+API call, for two reasons:  
+1\. It doesn't 'feel' right to mix the high-level info with the nitty-gritty
+low-level detail.  
+2\. We think there's a potential for security vulnerabilities if there are
+existing services that assume that 'gettransaction txid' returns an error for
+any transaction not in the wallet (as it does in all previous releases).  
+  
+So the new plan is to put the new functionality in a new RPC call:  
+  
+getrawtransaction <txid> [verbose=0] : If verbose=0, returns a JSON string
+that is the hex-encoded, serialized transaction. That is the "machine
+readable, as concise as possible" use case. If verbose=1, returns a JSON
+object with all the nitty-gritty details, to cover all the other use cases.  
+  
+Also, Jeff already has a pull request for JSON-2.0 "batch" functionality, so
+if you need information about all transactions in a block or all of a
+transaction's parent transactions you can get it with one RPC round-trip.
+

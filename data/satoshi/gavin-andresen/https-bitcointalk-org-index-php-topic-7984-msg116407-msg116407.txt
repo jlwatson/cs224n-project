@@ -1,0 +1,34 @@
+
+
+I've been working on making the ClearCoin escrow service's fee structure
+simpler; here's the new structure, which will "go live" in the next day or
+two:  
+  
+ClearCoin costs 0.5% (one half of one percent) of released coins. For example,
+if you are paying for something worth 100 bitcoins the cost will be 0.5 BTC.  
+  
+Fees are paid only on released coins; no fees are charged on coins donated to
+charity or refunded to you.  
+  
+Coins in escrow will never be taken or held if you have unpaid fees; if you do
+not pay your ClearCoin fees within 30 days we may prevent you from creating
+new escrow transactions but will never prevent you from releasing coins from
+existing escrow accounts. However, given how quickly the value of bitcoins has
+been increasing recently, it is better for you to pay your ClearCoin fees
+quickly.  
+  
+Any month you accumulate more than a trivial amount of fees ClearCoin will
+email you an invoice with a detailed list and a bitcoin address to which you
+can send payment. You can also pay at any time by sending bitcoins to an
+address on the ClearCoin website.  
+  
+  
+All of these changes were prompted because I think it was confusing to pay
+fees directly from the bitcoins being used for the transactions-- if you were
+paying for something that cost 159.95 BTC, calculating how much to send to pay
+for the cost AND ClearCoin fees was complicated. This should also be much
+easier for anybody creating a lot of ClearCoin transactions via the new
+ClearCoin API.  
+  
+As always, feedback, complaints, and suggestions are welcome.  
+

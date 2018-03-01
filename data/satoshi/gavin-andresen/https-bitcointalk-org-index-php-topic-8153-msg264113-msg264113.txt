@@ -1,0 +1,10 @@
+
+
+I don't want to keep putting band-aids on the transaction fee problem, so I'm
+against adding Yet Another Button to the client.  
+  
+If you're impatient and can't stand the thought of paying half-a-millibitcoin
+for a transaction, then compile your own version of bitcoin. Just don't
+complain if you end up with a wallet full of 0/unconfirmed transactions that
+tie up all your funds.  
+

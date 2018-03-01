@@ -1,0 +1,17 @@
+
+
+Steve, the way the client works now, all the wallet keys are read into memory
+at startup. Subsequent changes are made in memory and written to disk. This
+proposed patch decrypts keys as they are read into memory at startup, and
+encrypts new keys as they are written out to disk.  
+  
+Decrypting keys on use wouldn't be too hard. Add a popup to read the
+passphrase, perhaps cache it for a while as you suggest.  
+  
+Strangely, the hard part is encrypting new keys, because Bitcoin creates keys
+at odd times. The oddest time is when receiving a payment to the "current
+address" displayed at the top of the window. Bitcoin likes to keep things
+fresh so it generates a new address to display, and new key. But it can't
+encrypt the new key without the passphrase, and in general no user is around
+to respond to a popup at random times.
+

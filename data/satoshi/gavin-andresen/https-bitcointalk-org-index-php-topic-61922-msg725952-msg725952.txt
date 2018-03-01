@@ -1,0 +1,13 @@
+
+
+OK, it has been a couple of days and the general consensus seems to be a
+'rolling' two-week window, with no "below 20%" rule.  
+  
+I don't think there is any need for a two-week email discussion period among
+those familiar with the guts of Bitcoin, we've already spent months discussing
+the options and the consensus for BIP 16 is clear (see the tally here).  
+  
+It is time to call it settled and move on to bigger and better things, like
+what protocol to use when a client needs to gather signatures (REST? JSON?
+http? https? something else?).  
+

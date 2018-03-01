@@ -1,0 +1,49 @@
+
+
+Quote from: HostFat on November 15, 2011, 01:46:18 PM
+
+Has Gavin left a message about this topic somewhere?  
+
+No, I've been busy. Although I have in the past said that I'm worried about
+long-term incentives for relaying transactions (and am not worried at all
+about the block reward dropping and being replaced by fees).  
+  
+I skimmed the paper, and I'm really pleased to see very smart people thinking
+hard about the incentive structures built-in to Bitcoin. I think most people
+see all the digital signatures and peer-to-peer networking technology but miss
+that much of the brilliance of Bitcoin is how the incentives are designed.  
+  
+Overall, I think the paper is most valuable as a demonstration of how to
+_prove_ that a particular solution to the problem could work-- whether or not
+the particular solution the authors propose (rewarding the relaying nodes) is
+the "best" solution I'm not sure -- there are lots of dimensions of 'goodness'
+here -- lowest cost, fastest transaction confirmations, easiest to implement,
+most compatible with the network we have now, etc.  
+  
+A while ago I proposed another potential solution: have relaying clients drop
+their connection to 'greedy' nodes. If you have a node that sends you new
+blocks but isn't relaying you new transactions, maybe drop your connection to
+it and ban it's IP address from re-connecting to you for a while. Or maybe
+don't relay (or relay after delaying a couple of minutes) new-block messages
+that you first see from that node. The idea is that a mild dis-incentive
+should be sufficient to encourage nodes to do the right thing and relay all
+valid transactions and blocks.  
+  
+Figuring out "isn't relaying you new transactions" in a spoof-proof way would
+be a little tricky-- you want to see real transactions, not miner-generated
+"I'm pretending to be a good network citizen" transactions. A scheme where you
+relay transactions to half of your peers and then monitor the other half to
+see if you receive the transaction back from them should work to detect nodes
+that are relaying many-fewer-than-normal transactions or blocks.  
+  
+
+* * *
+
+  
+I've also said repeatedly in the past I'd like to see more diversity in the
+networks used to transmit bitcoin transactions/blocks (with bridges between
+them so we're all working on the same block-chain). There doesn't have to be
+just one right answer to this problem, and I would love to see people simulate
+or experiment with variations on the existing network protocol or radically
+different protocols.  
+

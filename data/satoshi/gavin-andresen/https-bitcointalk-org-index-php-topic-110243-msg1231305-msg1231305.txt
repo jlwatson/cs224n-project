@@ -1,0 +1,22 @@
+
+
+Quote from: John Smith on September 29, 2012, 01:09:15 PM
+
+Quote from: LightRider on September 29, 2012, 05:47:06 AM
+
+However, the text in the comment is "bitcoin+foundation+donation". I don't
+know if the '+' symbols are supposed to be rendered like that.  
+
+That's a problem in the website, not the client. %20 should be used to encode
+spaces in URIs, not "+":  
+http://stackoverflow.com/questions/2678551/when-to-encode-space-to-plus-and-
+when-to-20  
+
+  
+Huh.  
+  
+That's a problem with BIP 20-- it doesn't say how the parameters are encoded.
+I assumed they were encoded the same way as http URLs (application/x-www-form-
+encoded) because the bitcoin: scheme is very similar to the http scheme (where
+everything after the ? is x-www-form-encoded); are they not?  
+

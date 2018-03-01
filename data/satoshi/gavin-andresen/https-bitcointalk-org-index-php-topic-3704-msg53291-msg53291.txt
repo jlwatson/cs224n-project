@@ -1,0 +1,15 @@
+
+
+Updated Mac build is on Sourceforge, as is a PGP-signed README.txt.  
+  
+I also just changed the links on the front page of the wiki; the links at
+bitcoin.org will be updated as soon as sirius and I are awake at the same time
+again  
+  
+SHA1-checksums for the binary files are:  
+7dfbc05b36112f59886a29f044cfd21c6c253169 bitcoin-0.3.20.01-linux.tar.gz  
+3fe4c5f2a5406322a2f116b30aefbd402b079940 bitcoin-0.3.20.01-win32-setup.exe  
+dffb709a90a7abcff08c2ef1e79d3f9b54751786 bitcoin-0.3.20.01-win32.zip  
+b540825d864e7561cc21465ad072fb299e0d817a bitcoin-0.3.20.01.01-macosx.zip  
+  
+

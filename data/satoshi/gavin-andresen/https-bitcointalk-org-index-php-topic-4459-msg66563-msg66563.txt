@@ -1,0 +1,23 @@
+
+
+Quote from: ByteCoin on March 16, 2011, 11:57:25 PM
+
+Can't you work out how many order and the value the merchant was getting just
+by looking in the block chain at the number and value of payments to the
+publicly posted "pay me" address? Surely there's no way around this other than
+the merchant using a new receiving address for every sale he makes?  
+
+  
+Yeah... I can imagine clever ways of obfuscating it such that you can't tell
+who's getting paid until they actually sign the transaction and spend the
+output. Make the txout something like:  
+
+Code:
+
+OP_OVER OP_HASH160 OP_XOR <hash160_xor_r1> OP_EQUALVERIFY OP_CHECKSIG  
+
+... and to spend the txin is: <scriptsig> <public_key> <r1> (where r1 is a
+random number used to obfuscate the publicly visible hash160). Or something
+like that (I shouldn't be thinking about cryptography when I'm this tired).  
+  
+

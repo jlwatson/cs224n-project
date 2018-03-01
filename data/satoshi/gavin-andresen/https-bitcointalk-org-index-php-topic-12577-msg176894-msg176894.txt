@@ -1,0 +1,19 @@
+
+
+Quote from: alkor on June 06, 2011, 07:04:57 PM
+
+also think that a lot of the core developers are opposed to alternative
+implementations as that will dilute their power over the bitcoin network.  
+
+Really? I've been encouraging alternative implementations, who is the power-
+hungry core developer?  
+
+Quote
+
+I personally believe that we should have a simple and clearly defined protocol
+as soon as possible, and encourage a proliferation of alternative clients.  
+
+Ok. Start here: https://github.com/bitcoin/netspec  
+Or here: https://en.bitcoin.it/wiki/Category:Technical  
+  
+

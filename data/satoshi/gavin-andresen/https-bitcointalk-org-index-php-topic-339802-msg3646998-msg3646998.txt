@@ -1,0 +1,22 @@
+
+
+Quote from: Foxpup on November 20, 2013, 01:33:40 AM
+
+The fees can be lowered if the price rises too high. They have already been
+lowered several times for exactly this reason, and there's no reason to think
+it won't happen again.  
+
+  
+Transaction fees are likely to go up (in dollar terms) for a while, until some
+engineering work is done to reduce the "orphan cost" for miners to include
+more transactions in their blocks **OR** mining pools / miners collectively
+agree to include more transactions for the good of the whole system.  
+  
+In the very short term, you can ask mining pool operators to create larger
+blocks. If they refuse, then switch your miners to a pool that does.  
+  
+If they all create larger blocks, then we get more transactions and more
+orphan blocks, but the cost of those extra orphan blocks is spread across
+everybody mining, so everybody gets just as many bitcoins (on average) as they
+would with smaller blocks.  
+

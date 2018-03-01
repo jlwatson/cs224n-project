@@ -1,0 +1,48 @@
+
+
+I'm thinking about how to do higher-level testing of bitcoin, and I think we
+could get a lot of mileage out of a testing harness that works at the network
+protocol level.  
+  
+I'm thinking of testing things like proper handling of block chain re-orgs and
+valid and invalid transactions.  
+  
+Examples:  
+  
+ **Block chain re-org test:**  
+
+  * Start a bitcoin client with an empty wallet and just the genesis block, -noirc listening on a non-standard port.
+  * test harness connects, then feeds it a pre-canned block chain  
+... then sends it a longer fork
+
+  * test harness makes sure client accepted the longer chain by sending it a getblocks messsage  
+(or disconnects and re-connects and checks the start_height in the version
+message)  
+
+  
+ **Valid/invalid transaction tests**  
+
+  * Start bitcoin client as above
+  * test harness connects, sends a series of valid and invalid transactions (via inv message and then responding to getdata).
+  * test harness checks to see if transactions were accepted or rejected by checking responses to getdata (should be no response for invalid transactions)
+
+  
+
+* * *
+
+A set of good data files with "tx" and "block" (and "inv" and all the rest)
+messages in them, combined with something like pexpect could make a good test
+system. I'm thinking they should be human-readable (with a proxy listening
+tool or wireshark plugin or something that dumps bitcoin protocol into the
+human-readable form) but pretty low-level; maybe a version message looks like:  
+
+Code:
+
+{ "version" : [ "u32:31900", "i64:1", "i64:1309899496", "addr:127.0.0.1:8333",
+"addr:127.0.0.1:5432", "u64:1235876", "s:", "i32:98645" ] }  
+
+  
+  
+So, before I start working on something like this: Anybody already doing
+something similar?
+

@@ -1,0 +1,19 @@
+
+
+Quote from: ShireSilver on December 01, 2012, 12:24:42 AM
+
+Why does anyone need identities when invoicing? Or more accurately, why must
+every invoice have an identity attached?  
+
+  
+You will be able to generate and send unsigned invoices that has no identity
+attached.  
+  
+But they are much less secure than signed invoices, because a "man in the
+middle" attacker could rewrite the Invoice so the bitcoins go to him.  
+  
+Or if you have a dispute with the merchant and all you have is an unsigned
+Invoice, the merchant can claim that "your machine must have been hacked, you
+sent the bitcoins to an address that isn't mine!"  
+  
+

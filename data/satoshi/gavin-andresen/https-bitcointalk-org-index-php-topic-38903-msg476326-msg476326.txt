@@ -1,0 +1,7 @@
+
+
+I've been working on a proposal to enable {1,2}-of-{1,2,3} signatures-required
+as standard transaction types.  
+  
+I'll start another thread with more information...  
+

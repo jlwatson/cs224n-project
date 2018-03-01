@@ -1,0 +1,22 @@
+
+
+So before deciding to do ClearCoin, I was thinking I was going to clone one or
+more of the PayPal shopping cart / payment APIs.  
+  
+The advantage would that all of the existing shopping cart interfaces that
+know how to talk to PayPal would "just work" with bitcoins (the PayPal APIs
+can already deal with multiple currencies) -- just replace the
+https://api.paypal.com/ URL (or whatever it is) and specify amounts in BTC
+instead of USD or EUR.  
+  
+The short-term business model would be an E-Wallet for businesses (like
+PayPal). The medium/long-term business plan would be to get acquired by PayPal
+when PayPal decided they need to support bitcoin.  
+  
+If you don't like PayPal, then replace "PayPal" by "Google Checkout" or
+whatever other, popular payment processing gateway API is already being used
+by lots of websites.  
+  
+I still think this is a good idea, but I'm busy, so I'm throwing it out here
+and hoping somebody decides to do it.  
+

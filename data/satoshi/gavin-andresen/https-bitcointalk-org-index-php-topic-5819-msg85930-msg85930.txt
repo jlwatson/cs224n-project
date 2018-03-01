@@ -1,0 +1,22 @@
+
+
+RE: paying somebody to monitor the faucet: good idea, although I like the idea
+of some kind of "community watch" more. And monitoring the Faucet is an all-
+day-and-night, all-the-time kind of job. And if the scammers are willing to
+try to drain the faucet slowly then they could create accounts with more
+realistic-looking names and would be able to sneak by the monitors...  
+  
+RE: just using testnet coins: I worry about people starting to trade testnet
+coins, giving them real value. Giving lots of newbies who don't really
+understand bitcoin testnet coins seems like a really good way to make that
+happen!  
+  
+RE: proof-of-work before getting coins: Interesting idea! Some JavaScript in-
+the-browser proof-of-work that required keeping the 'get some' page open for a
+minute or six might make the cost to the scammers high enough that the bitcoin
+reward wouldn't be worth it.  
+  
+RE: looking at the google account creation date: that information isn't
+available to the Faucet's code (unless I'm missing something in the Google App
+Engine API).  
+

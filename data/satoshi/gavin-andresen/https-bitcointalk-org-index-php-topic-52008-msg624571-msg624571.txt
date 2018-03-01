@@ -1,0 +1,23 @@
+
+
+Quote from: deepceleron on November 19, 2011, 08:49:45 PM
+
+I'll see if the private key is present on the disk image at all after
+0.3.24->0.4.1, 0.4->0.4.1, and ->0.5 when converting and encrypting (which
+requires care to not inadvertently put the key on the disk by searching -> MUI
+registry entries, save keys in text files, pywallet --web -> browser cache,
+etc).  
+
+  
+Absolutely no guarantee is made that old, pre-rc6 private keys will not end up
+unencrypted somewhere on the disk.  
+  
+There is no guarantee that newly generated, post-rc6 private keys will not end
+up on the disk, either, although the code tries to keep that from happening
+(locking memory so it is not swapped to disk, for example).  
+  
+There should be no files containing unencrypted private keys after rc6
+rewrites the wallet, though.  
+  
+Thanks for helping test!  
+

@@ -1,0 +1,31 @@
+
+
+Reposting from the bitcoin-development mailing list:  
+
+* * *
+
+  
+Mining support for BIP 16 is still under 50%, and won't possibly be over 50%
+by March 1. Which means we need a new evaluation/switchover date:  
+  
+Re-evaluate support: March 15'th  
+Target switchover: April 1  
+  
+If you're already supporting BIP16, restart bitcoind with the argument:  
+-paytoscripthashtime=1333238400  
+  
+... to delay switchover until April 1.  
+  
+Hopefully this will be the last delay; Tycho has told me that the deepbit pool
+will support BIP16 as soon as he's able to merge and test the changes, which
+will put support at well over 55%.  
+  
+
+* * *
+
+If you are a solo or p2pool miner you are **strongly** encouraged to upgrade
+bitcoind/Bitcoin-Qt in the next month; if you don't, you risk creating orphan
+blocks that the rest of the network will reject (and that risk will rapidly
+become greater over time as BIP16 transactions start to appear in the main
+block chain and get relayed across the network).  
+

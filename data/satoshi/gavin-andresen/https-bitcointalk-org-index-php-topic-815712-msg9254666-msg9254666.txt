@@ -1,0 +1,29 @@
+
+
+Quote from: NewLiberty on October 19, 2014, 05:35:17 AM
+
+By including the coinbase fee (or maybe a square or other root of it) we would
+come closer to Gavin's increase in the early years and move steadily toward a
+fee supported mining within the next 20 years or so while increasing the
+MAX_BLOCK_SIZE.  
+
+  
+Did you read my "blocksize economics" blog post?  
+  
+I don't understand why you think MAX_BLOCK_SIZE necessarily has anything to do
+with "supporting mining" (aka securing the network).  
+  
+What stops this from happening:  
+  
+Big miners accept off-blockchain payments from big merchants and exchanges
+that want their transactions confirmed. They are included in very small blocks
+with zero fees. The blocksize stays at 1MB forever.  
+  
+Lets look at incentives:  
+  
+Big miners: have cozy agreements with Big Merchants. Those agreements keep the
+little guys out.  
+  
+Big Merchants: same thing. The need to get an agreement with a miner to get
+your transactions accepted is a barrier to entry for the Little Guys.
+

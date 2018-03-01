@@ -1,0 +1,23 @@
+
+
+Quote from: willphase on January 08, 2012, 12:20:18 AM
+
+on the subject of QR codes, you could just print a separate code above each
+item in the vending machine, then all a customer has to do is scan the code
+and push 'confirm' and the machine will vend whenever it receives a payment on
+the particular account.  
+  
+Of course this means if you ever change prices you need to re-print codes with
+the correct payment value on it, but it does mean that no codes need to be
+entered into the machine at all.  
+
+  
+I love that idea! Point your camera at the product, confirm payment, and
+you're done.  
+  
+RE: changing prices: I wonder if you could make little QR-code-capable LCD or
+e-ink displays cheap enough to put 20 of them in a vending machine.  
+  
+It'd also be a great opportunity for practical jokes, like making the machine
+vend... oh, I dunno, NerdsTM along with their popcorn.
+

@@ -1,0 +1,11 @@
+
+
+Suppose the attacker is generating blocks occasionally. in each block he
+generates, he includes a transfer from address A to address B, both of which
+he controls.  
+  
+To cheat you, when he generates a block, he doesn't broadcast it. Instead, he
+runs down to your store and makes a payment to your address C with his address
+A. You wait a few seconds, don't hear anything, and transfer the goods. He
+broadcasts his block now, and his transaction will take precedence over yours.
+

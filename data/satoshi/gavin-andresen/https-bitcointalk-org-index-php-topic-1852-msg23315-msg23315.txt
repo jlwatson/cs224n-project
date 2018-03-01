@@ -1,0 +1,30 @@
+
+
+Quote from: slush on November 21, 2010, 01:57:01 PM
+
+I see analogy with safety belts in car (=passwords in software).  
+
+  
+I worry that the correct analogy is:  
+  
+Typing a password every time you use your bitcoin wallet is like putting
+padding your car's steering wheel instead of wearing a seatbelt. It might make
+you feel safer, but it is a false sense of security.  
+  
+Good security **is** hard. If you're not computer savvy, then you've probably
+already got spyware and trojans on your system, and running bitcoin on a
+system infested with spyware and trojans is a bad idea. Period.  
+  
+I think an online service that takes care of wallet security for you is a much
+better solution for non-geeks like my mom.  
+  
+All that said: As my personal bitcoin wallet gets more valuable, I get more
+nervous. I would like to be able to export some of the value in my wallet onto
+a USB thumb drive and then put that thumb drive in my safe deposit box (along
+with a backup, gpg-encrypted copy that I'd keep in the fire safe in my
+basement).  
+  
+Another analogy: I keep most of my money in the bank; I don't have piles of
+cash or gold in my house. I will do the same for my bitcoins, keeping only
+enough in my online, connected, possible-to-hack wallet to use day-to-day.  
+

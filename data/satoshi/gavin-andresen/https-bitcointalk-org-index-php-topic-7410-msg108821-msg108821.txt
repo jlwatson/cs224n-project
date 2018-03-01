@@ -1,0 +1,9 @@
+
+
+If you want each receiving address treated as its own account, you can:  
+setaccount <address> <address>  
+... and then use <address> as the name of the account.  
+  
+And validateaddress will tell you what account is associated with an address.  
+  
+

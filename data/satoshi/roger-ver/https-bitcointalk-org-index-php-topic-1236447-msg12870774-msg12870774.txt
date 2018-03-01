@@ -1,0 +1,52 @@
+
+
+  
+
+Quote
+
+Im Kristov Atlas, Co-Founder of the OBPP. Ask me anything!  
+  
+A few things about myself for anyone unfamiliar:  
+  
+Im a security engineer at Blockchain.info by day and privacy researcher by
+night.  
+  
+I wont be chatting about my work at Blockchain.info due to company policies,
+so if you have any BCI-specific questions please check out the AMA with Nic
+Cary on December 19th.  
+  
+Some Bitcoin/cryptocurrency stuff Ive done:  
+Co-founded the Open Bitcoin Privacy Project:
+http://openbitcoinprivacyproject.org  
+Wrote BIP 69  
+Wrote a book about Bitcoin privacy: http://anonymousbitcoinbook.com  
+Published research about BCIs SharedCoin tool: http://coinjoinsudoku.com  
+Performed a privacy and code audit of Dash in 2014 (formerly known as
+Darkcoin)  
+Appeared on the Glenn Beck show with Jeffrey Tucker and Elizabeth Ploshay to
+talk about Bitcoin  
+Co-organized the Bitcoin Philadelphia meetup group for about a year  
+Gave a speech about the Silk Road and cryptographic free markets in Washington
+DC:  
+Participated in shows on the World Crypto Network YouTube channel including
+The Bitcoin Group and Dark News.  
+  
+Some of my interests include:  
+Bitcoin economic theory  
+Application security, malware forensics, and various other infosec topics  
+Digital cash  
+Financial and online privacy  
+Cyberpunk art  
+Cypherpunk action  
+Cryptoanarchy  
+Anarcho-capitalism  
+Philosophy
+
+  
+  
+  
+  
+He is doing the AMA right now:  
+https://forum.bitcoin.com/ama-ask-me-anything-f69/i-m-kristov-atlas-co-
+founder-of-the-obpp-ask-me-anything-t2012.html  
+

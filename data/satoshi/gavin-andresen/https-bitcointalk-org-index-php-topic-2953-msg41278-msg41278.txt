@@ -1,0 +1,14 @@
+
+
+Quote from: lzsaver on January 24, 2011, 06:55:18 PM
+
+Will be _-rescan_ option in GUI?  
+
+  
+No. Unless you're changing your wallet outside of bitcoin, rescanning isn't
+necessary.  
+  
+It would be nice if the GUI had "backup wallet" and "merge backed up wallet
+with current wallet" options-- the "merge wallet" would need do a rescan.
+Maybe next release somebody will implement those features...  
+

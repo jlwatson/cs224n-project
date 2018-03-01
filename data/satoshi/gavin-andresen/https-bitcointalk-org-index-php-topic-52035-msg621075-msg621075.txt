@@ -1,0 +1,20 @@
+
+
+Neither of those addresses are valid according to my bitcoind:  
+  
+
+Code:
+
+$ bitcoind validateaddress 1AYSPTVt8WytG12Kz9guUpXjwAMFZG9CJh  
+{  
+"isvalid" : false  
+}  
+$ bitcoind validateaddress 1AYSPTVt8WytG12Kz9guUpXjeAMFb7AX2K  
+{  
+"isvalid" : false  
+}  
+
+  
+The checksum in addresses is 4 bytes, so there is a one-in-four-billion chance
+that a random typo would get you a valid address.  
+

@@ -1,0 +1,30 @@
+
+
+This would replace the existing JSON-RPC getmemorypool command?  
+  
+
+Code:
+
+getmemorypool [data]  
+If [data] is not specified, returns data needed to construct a block to work
+on:  
+"version" : block version  
+"previousblockhash" : hash of current highest block  
+"transactions" : contents of non-coinbase transactions that should be included
+in the next block  
+"coinbasevalue" : maximum allowable input to coinbase transaction, including
+the generation award and transaction fees  
+"coinbaseflags" : data that should be included in coinbase so support for new
+features can be judged  
+"time" : timestamp appropriate for next block  
+"mintime" : minimum timestamp appropriate for next block  
+"curtime" : current timestamp  
+"bits" : compressed target of next block  
+If [data] is specified, tries to solve the block and returns true if it was
+successful.  
+
+  
+And a meta-question: are there any other implementations that will be
+supporting external mining via JSON-RPC soon? There's no reason to go through
+the whole BIP process to make a change or improvement to one implementation.  
+

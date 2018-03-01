@@ -1,0 +1,6 @@
+
+
+-logtimestamps command-line param or logtimestamps=1 in the bitcoin.conf file.  
+(I dont' remember when that option was added, a 'git blame util.cpp' will tell
+you, look for fLogTimestamps)
+

@@ -1,0 +1,9 @@
+
+
+etotheipi:  
+  
+Sorry, I was responding to the original proposal, not yours, I should have
+made that clear.  
+  
+Better protocol support for lightweight clients is a Good Idea.  
+

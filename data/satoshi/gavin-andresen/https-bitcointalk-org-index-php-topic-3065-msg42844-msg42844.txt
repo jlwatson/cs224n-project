@@ -1,0 +1,30 @@
+
+
+I split this into it's own thread.  
+  
+Here's a counter-proposal:  
+  
+All RPC methods dealing with amounts take and report full-precision bitcoins.  
+E.g. if you have 1 BTC getbalance reports 1.00000000 (as it does now)  
+The send and move methods will be changed to NOT round to two decimal places.  
+  
+luke-jr's patch that makes bitcoin avoid creating sub-cent change (when
+possible) will be applied.  
+  
+The GUI will be modified to display full precision amounts, and will allow
+full-precision sends.  
+(if you have 1 BTC, GUI should show balance: 1.00  
+if you have 1.0001 BTC, GUI should show balance: 1.0001  
+...etc)  
+  
+A new setting: maxtxfee will be added, default will be 0.01 BTC. RPC methods
+will fail with a new error message if a send/sendfrom would generate a
+transaction fee larger than maxtxfee.  
+  
+A new RPC method to change maxtxfee setting (maybe a generic RPC method to
+change any run-time option that can be changed on the fly?)  
+  
+The code should be checked and all references to CENT which really mean
+"minimum transaction fee" should be changed to reference a new "minimum
+transaction fee" constant (==CENT for now).  
+

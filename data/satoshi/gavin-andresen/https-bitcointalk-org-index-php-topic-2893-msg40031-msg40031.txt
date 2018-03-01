@@ -1,0 +1,32 @@
+
+
+If the threat model is as zipslack describes, then I think a "send to self"
+mixnet would work.  
+  
+Patch bitcoin so it generates, a random transaction every, oh, I dunno, eight
+hours or so, sending, oh, I dunno, 1/10'th or so of your bitcoins back to
+yourself via a newly generated address.  
+  
+And to erase your trail in case your wallet gets seized, remove the source
+transactions and their (spent) keys from your wallet.  
+  
+After a week of doing that you'll have put 21 extra transactions on the
+network and, on average, four extra transactions on the coins in your wallet
+(four because every send typically generates a change transaction). Do it
+constantly and you'll have an ever-churning wallet that aught to foil any
+attempt to connect incoming <-> outgoing transactions.  
+  
+That is all assuming that you don't start with zero bitcoins in your wallet,
+get exactly 111.11 bitcoins from somebody, spend a couple weeks mixing them,
+and then pay exactly 111.11 bitcoins to somebody else. That transaction
+network graph is easy to analyze, and it would be insanely unlikely that you
+"just happened" to receive exactly those same 111.11-worth of coins that were
+given out.  
+  
+Hmm, I wonder if the patch could detect a bad mix and warn you if you tried to
+do something stupid like that...  
+  
+Somebody who knows a lot more about mixnets than I do can probably work out
+the math to know how much, and what type, of randomness to add to the eight
+hours and 1/10th to make statistical analysis as difficult as possible.  
+

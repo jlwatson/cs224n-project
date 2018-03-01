@@ -1,0 +1,13 @@
+
+
+Is there something simpler than CMake that would work?  
+  
+cmake-2.8.2.tar.gz - 5.1MB  
+cmake-2.8.2-Darwin-universal.dmg - 27.2 MB  
+  
+Adding Yet Another Multi-Megabyte Dependency to build bitcoind seems like a
+backwards step to me.  
+  
+What's the most popular build solution for other small-ish, successful open
+source projects?  
+

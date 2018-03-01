@@ -1,0 +1,29 @@
+
+
+Quote from: TierNolan on April 10, 2013, 11:53:13 AM
+
+What about directly targeting fees, similar to Gavin's suggestion that blocks
+must have fee > 50 * (size in MB).  
+
+Nah, I now think that's a dumb idea.  
+  
+Responding to gmaxwell:  
+  
+RE: burden of unpaid full nodes: for the immediately forseeable future, that
+burden is on the order of several hundred dollars a year to buy a moderately
+beefy VPS somewhere.  
+  
+I understand the "lets engineer for the far future" ... but, frankly, I think
+too much of that is dumb. Successful projects and products engineer for the
+next year or two, and re-engineer when they run into issues.  
+  
+Maybe the answer will be "validation pools" like we have mining pools today,
+where people cooperate to validate part of the chain (bloom filters, DHTs,
+mumble mumble....). Maybe hardware will just keep up.  
+  
+RE: race to the bottom on fees and PoW:  
+  
+sigh. Mike explained how that is likely to be avoided. I'm 100% convinced that
+if users of the network want secure transactions they will find a way to pay
+for them, whether that is assurance contracts or becoming miners themselves.  
+

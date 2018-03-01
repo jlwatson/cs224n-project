@@ -1,0 +1,18 @@
+
+
+Quote from: bitcoinsarefun on March 28, 2012, 01:19:25 PM
+
+is 0.6.0 still on track for release today?  
+
+  
+We might re-spin the release with just updated translations.  
+  
+There is one serious issue affecting a few people
+(https://bitcointalk.org/index.php?topic=74447.0) but because it is a one-time
+problem when you upgrade from an older release and has a pretty simple
+workaround (remove your addr.dat file and re-run), we may release with it as a
+Known Issue.  
+  
+If there are any Berkeley DB database experts reading this we could use your
+help figuring out what the heck is going on...
+

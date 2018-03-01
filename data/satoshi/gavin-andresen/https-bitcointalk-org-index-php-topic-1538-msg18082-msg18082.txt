@@ -1,0 +1,18 @@
+
+
+I spent way too many hours yesterday trying to figure out why my Google App
+Engine code couldn't urlfetch from my -rpcssl bitcoin process, so I'm posting
+this to hopefully save somebody else from the frustration.  
+  
+I made Bitcoin's HTTPS-JSON-RPC code fussy about what openssl ciphers it
+supports on purpose; by default, it doesn't accept SSLV1 connections or older,
+weaker ciphers or hashing algorithms (like single-DES and MD5).  
+  
+Surprisingly, Google's App Engine urlfetch service currently ONLY supports
+RC4/DES/MD5/SHA, so, by default, App Engine can't talk via https to Bitcoin.
+The workaround is easy (use the -rpcsslciphers= option to override the ciphers
+bitcoin will accept), and I'll document this on the rpcssl wiki page.  
+  
+And hopefully Google will get with the program and support better
+encryption...  
+

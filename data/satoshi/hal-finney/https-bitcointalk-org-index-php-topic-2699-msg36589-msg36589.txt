@@ -1,0 +1,42 @@
+
+
+Bitcoin uses elliptic curve cryptography for its keys and signatures, but the
+specific curve used is pretty unusual. It is called secp256k1, from a standard
+called SEC2, published by a group called SECG,
+http://www.secg.org/index.php?action=secg,docs_secg.  
+  
+Taking the name secp256k1 apart, sec comes from the standard, p means that the
+curve coordinates are a prime field, 256 means the prime is 256 bits long, k
+means it is a variant on a so-called Koblitz curve, and 1 means it is the
+first (and only) curve of that type in the standard. This is all fine and
+common, except for the Koblitz part. Koblitz curves are a special kind of
+elliptic curves that have some internal structure that can be used to speed up
+calculations. Standards bodies have tended to shy away from Koblitz curves out
+of fear that this internal structure could someday be exploited to yield a new
+attack. Indeed certain Koblitz curves, but not secp256k1, lose a couple dozen
+bits of security to a known attack.  
+  
+Most standards use what are called random curves when they are using prime
+fields. SEC2 also includes random curves, and the very next one after
+secp256k1 is called secp256r1. This curve, secp256r1, is widely standardized
+and used, including by the U.S. government, which calls it P-256.  
+  
+I don't know the rationale behind using secp256k1. It has the potential for
+speed - I've seen estimates from 33% to 50% speedup - but the techniques are
+quite esoteric as it is not a conventional Koblitz curve, and I doubt that the
+OpenSSL implementation exploits this. I'm not losing much sleep over the
+theoretical possibility of an attack on secp256k1, but it is likely to be less
+widely implemented. I looked at BouncyCastle, a widely used Java crypto
+library, and they had commented out the code for secp256k1. Whereas secp256r1
+(P-256) might well be a default curve for the native crypto keys in future
+OS's.  
+  
+It wouldn't be a change to make lightly, but we might want to consider
+changing to this more widely used standard curve. We'd have to mark the new
+keys to distinguish them, and be prepared to handle both kinds of signatures.  
+  
+One question is whether we would ever reach a point where clients could
+eliminate support for the old curve? Maybe just miners could retain support,
+and the fact that a transaction got into a block with some confirmations would
+be good enough evidence that it was valid.
+

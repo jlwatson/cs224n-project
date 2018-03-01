@@ -1,0 +1,18 @@
+
+
+If there is a virus on your computer, and your bitcoins are stored on that
+computer, then there is nothing the bitcoin software can do to prevent that
+virus from eventually stealing your coins.  
+  
+That said, allowing you to 'lock' your coins with a password, and requiring
+that you enter that password to send coins, is high on the list of things I'd
+like to see bitcoin do. That would make it harder for a virus to steal your
+coins.  
+  
+But even then, a smart virus could lay in wait until you typed your password
+to unlock your wallet and take that opportunity to either capture your
+password or send the coins to a bad guy. If you can't trust your computer,
+don't store your life savings on it (and yes, bitcoin software also should
+make it easy to save some of your bitcoins on USB sticks or CD-R disks so they
+can be stored safely in your safe deposit box at your bank).  
+

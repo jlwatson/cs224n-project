@@ -1,0 +1,13 @@
+
+
+  
+  
+If the above is true, how are you able to send email / SMS updates each time a
+payment is sent or received from a particular Bitcoin address inside a My
+Wallet?  
+It does seem that My Wallet does know each user's public keys.  
+  
+Can you elaborate?  
+  
+Thanks!
+

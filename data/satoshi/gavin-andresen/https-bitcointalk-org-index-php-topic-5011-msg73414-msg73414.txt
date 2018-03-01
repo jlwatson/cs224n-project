@@ -1,0 +1,5 @@
+
+
+You can't see less-than-100-confirmation generations in listtransactions, but
+I agree, you should.  
+

@@ -1,0 +1,34 @@
+
+
+I think bittorrent would be a really good model to follow.  
+  
+But it's not the only path to success; Perl is a good example of a successful
+technology with One True implementation and no specification beyond the One
+True implementation.  
+  
+Then again, development of Perl 6 seems to be going really slowly.  
+  
+And I think breaking up the functionality is a really good idea. For example,
+if the algorithm for signing transactions and the format for public and
+private keys were standardized it would be possible to create a Bitcoin iPhone
+app that stored the private keys (wallet) on the phone and submitted signed
+transactions to a proxy that was connected to the p2p network.  
+  
+I see the functionality broken out into these pieces:  
+  
+1\. p2p nodes that are constantly connected and relay blocks and transactions  
+2\. transaction monitoring ("tell me when there are new transactions that
+match some set of criteria")  
+3\. new block monitoring ("tell me when there are new blocks that match some
+set of criteria")  
+4\. transaction validation (answers question "is this transaction valid, and
+how many validations does it have?")  
+5\. block validation ("is this block valid, and how many validations does it
+have?")  
+6\. bitcoin mining: race to generate a new block and earn ฿  
+7\. wallet storage (generate new addresses, and store their public/private
+keys and any transactions that correspond to them)  
+8\. generate new transactions (sign ฿ with private key(s) and submit to p2p
+network)  
+  
+

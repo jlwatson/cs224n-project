@@ -1,0 +1,16 @@
+
+
+Quote from: lzsaver on February 21, 2011, 11:21:50 PM
+
+But bitcoind is 0.3.20.0 **0** and requires MSVC libraries.  
+
+  
+Did I put the wrong bitcoin **d**.exe in the Windows exe and/or zip?  
+  
+D'oh!  
+  
+Companies I've worked for in the past had a rule-- programmers were not
+allowed to test their own code. I'm still looking for people to volunteer to
+be dedicated quality assurance testers (and a quality assurance manager to
+organize them) to help keep this type of thing from slipping through.  
+

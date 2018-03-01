@@ -1,0 +1,12 @@
+
+
+Successful technology companies do not waste their time solving problems that
+they THINK they MIGHT have in 20 years.  
+  
+They don't even spend much time thinking about problems that they might have
+in four years.  
+  
+I don't spend any time worrying about the strength of 256-bit ECDSA or 160-bit
+RIPEMD, and I spend even less time worrying about the strength of those two
+combined.  
+

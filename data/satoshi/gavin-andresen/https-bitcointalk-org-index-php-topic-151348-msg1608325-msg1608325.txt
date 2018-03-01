@@ -1,0 +1,9 @@
+
+
+It is a problem if you send a transaction from one of the copies of the wallet
+while it is catching up with the blockchain. You can easily accidentally
+double-spend yourself, and end up with a transaction that will never confirm.  
+  
+Deterministic wallets don't solve that problem.  
+  
+

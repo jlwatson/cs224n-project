@@ -1,0 +1,39 @@
+
+
+I'm posting this to both this and the Mining Pools subforum:  
+  
+To all pool operators, solo miners and p2pool miners; I have an announcement.  
+  
+As everyone well remembers, we are upgrading the block-validity rule of
+Bitcoin to support short multisignature addresses. We realize that upgrading
+the code that you've been using for a long time is at least inconvenient and,
+for some of you, even painful or scary. But in the case of BIP30, which went
+into effect with the appropriately safe network support on March 15, it was
+necessary and in the case of this announcement the long-term benefits will far
+outweigh the short-term costs of this transition.  
+  
+Therefore I'd like to announce that support for BIP16 has acquired a majority
+of mining support needed to prevent a potential permanent fork and will be
+activated on April 1st as previously planned.  
+  
+This chart shows support over the last week: http://blockchain.info/P2SH.
+Support is well over 70%.  
+  
+So if you are a pool operator, solo miner, or p2pool miner you need to upgrade
+your Bitcoin-Qt/bitcoind before April 1st. Running a version of bitcoind
+earlier than 0.6 release candidate 3 past this date means running the risk of
+potentially wasting your hashing power mining invalid blocks since earlier
+versions will accept invalid spends of BIP16 transactions into their memory
+pools and will put them into blocks considered invalid by the majority.  
+  
+p2pool users will also need to upgrade to the latest version of p2pool.  
+  
+If you are a miner connecting to a mining pool, you can ignore this message.  
+  
+For non-miners: version 0.6 also contains several important bug and denial-of-
+service fixes, so if you can, upgrade.  
+  
+Backports of the BIP16 code to earlier releases are available if you are
+running a patched bitcoind. Patched binaries of older releases will be
+available soon.  
+

@@ -1,0 +1,11 @@
+
+
+A couple people asked if they need to upgrade if they are running rc1: no, I
+wouldn't bother.  
+  
+The only significant code change is better handling of the rare case of one of
+the leveldb database files being corrupted. If you're really curious, github
+will show you the differences between any two versions; here are the rc1 to
+0.8.0 final release differences:
+https://github.com/bitcoin/bitcoin/compare/v0.8.0rc1...v0.8.0  
+

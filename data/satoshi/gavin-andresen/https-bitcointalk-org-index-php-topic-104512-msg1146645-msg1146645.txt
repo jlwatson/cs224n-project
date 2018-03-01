@@ -1,0 +1,16 @@
+
+
+Disclaimer: I don't do Windows.  
+  
+But according to a quick google search, caret is the Windows cmd.exe escape
+character, and [] and {} are NOT special characters to cmd.exe.  
+  
+So maybe this?  
+  
+
+Code:
+
+bitcoind.exe createrawtransaction
+[{^"txid^":^"eb63d5d53cd906b5cf75a014e1bcf1c0198ae58d378d45dbfa15045ac89a38ac^",^"vout^":0}]
+{^"1GMaxweLLbo8mdXvnnC19Wt2wigiYUKgEB^":23.35}
+

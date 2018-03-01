@@ -1,0 +1,25 @@
+
+
+Example possible BIPs:  
+  
+URL syntax for bitcoin payments  
+  
+New OP_EVAL scripting opcode for receiver-specifies-transaction  
+  
+New bitcoin address format to support OP_EVAL  
+  
+(I'm actually working on those two)  
+  
+  
+Informational:  
+  
+Process for announcing/scheduling/implementing a potentially block-chain-
+splitting change.  
+  
+\-----------  
+  
+You can browse through the PEP's at http://www.python.org/dev/peps/ to get
+some idea of the kinds of things that might be good BIPs; changes to the on-
+the-wire protocol to make blockchain downloads faster would certainly be
+appropriate.
+

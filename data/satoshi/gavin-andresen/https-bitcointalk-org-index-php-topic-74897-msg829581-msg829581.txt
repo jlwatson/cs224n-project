@@ -1,0 +1,25 @@
+
+
+Quote from: kjj on March 31, 2012, 10:35:04 PM
+
+In my opinion, the problem is this:  
+  
+
+Quote from: guruvan on March 31, 2012, 10:11:13 PM
+
+4) Casino only sends withdrawals to depositing address.  
+
+  
+They should stop that. It is silly. Whatever convoluted workaround we come up
+with is going to be far worse than simply doing the right thing.  
+  
+The right thing, by the way, is for the casino to request a return address
+(address A), then generate a new address (address B), and link them in a
+database so that earnings made with BTC deposited to address B will only be
+returned to address A.  
+
+  
+Yes, you should insist that customers give you a refund/cash-out address
+BEFORE you give them the funding address.  
+  
+

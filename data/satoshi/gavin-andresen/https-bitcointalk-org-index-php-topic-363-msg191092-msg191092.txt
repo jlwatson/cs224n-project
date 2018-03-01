@@ -1,0 +1,9 @@
+
+
+Testnet faucet is up and running if you need testnet coins:  
+https://testnet.freebitcoins.appspot.com/  
+  
+Although I've mostly been using testnet-in-a-box for testing recently:  
+https://sourceforge.net/projects/bitcoin/files/Bitcoin/testnet-in-a-box/  
+  
+

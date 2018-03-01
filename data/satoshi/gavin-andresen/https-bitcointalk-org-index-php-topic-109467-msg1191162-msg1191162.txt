@@ -1,0 +1,18 @@
+
+
+Right now, there is a hard-coded limit of 1 megabyte per block.  
+  
+If we assume that limit never changes, that gives:  
+1MB per block * 6 blocks per hour * 24*365.25*200 = 10,519,200 MB  
+  
+... or 10.5 terabytes for the maximum size of the entire blockchain over the
+next 200 years (somebody check my math, I'm really good at dropping zeroes).  
+  
+I expect that in 200 years 10 terabytes of storage will cost a few pennies.  
+  
+
+* * *
+
+Now whether or not that 1 megabyte per block limit should go away is hotly
+debated, and will be debated more and more as transaction volume increases.
+

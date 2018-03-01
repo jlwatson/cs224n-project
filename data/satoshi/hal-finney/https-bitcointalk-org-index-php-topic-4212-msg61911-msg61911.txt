@@ -1,0 +1,18 @@
+
+
+In another thread, they proposed bringing accounts into the UI, and doing them
+a little differently. Every transaction would be labelled with an account
+name. You could filter your wallet and only view txns for a certain account.
+And most importantly, you could pay from an account, and it would only use
+coins from that account.  
+  
+This would make accounts be like virtual wallets, so you could have anonymous
+accounts and identity based accounts, and the coins wouldn't get intermixed.
+This should satisfy at least some use cases for choosing coins to pay with.  
+  
+Maybe these should be called something different from accounts, as current
+accounts are kind of fictitious. Moving money between accounts is currently
+just bookkeeping, while with what I am talking about it would require an
+actual transaction. Maybe these should be called something like virtual
+wallets, or wallet partitions.
+

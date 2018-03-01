@@ -1,0 +1,59 @@
+
+
+Quote from: Crowex on July 09, 2014, 02:45:23 PM
+
+Can't somebody build a web-service that detects when transactions enter it's
+memory pool, looks at the transactions fees, and then examines when these
+transactions enter the block-chain and analyses all of this data to provide a
+more accurate estimate of required fees which would be based on real market
+data? Maybe have some sort of api that wallets could use? Or does this exist?  
+
+  
+That is exactly what the 'smartfee' code in the reference implementation does.  
+  
+RE: where does the market information come from:  
+  
+Like any market, it comes from the collective action of lots of individual
+decisions. Different wallet software has different fee policies, and there is
+already a little bit of "I sent a transaction using wallet XYZ and it took
+FOREVER to confirm, WTF?!?" (or "why does exchange/wallet/service ABC charge
+me such high transaction fees").  
+  
+As wallets mature, I expect them to specialize ("Save on Fees! Use
+UberWallet!") and/or compete for best cost/speed/reliability/predictability.  
+  
+The default for the reference implementation will be "follow the herd" -- but
+the price will be set by the minority of people 'at the margins' who REALLY
+want their transactions to confirm quickly or REALLY want spend as little as
+possible on transaction fees. They will set -paytxfee and/or -txconfirmtarget
+to override the default behavior.  
+  
+And "they" are likely to be high-volume-transaction-creators-- like exchanges
+(probably want their transactions to confirm quickly; fewer customer support
+calls) or watch-a-video-get-a-few-bits services (probably want to cut costs
+any way they can, don't care if their customers have to wait a while for a
+withdrawal to get confirmed...).  
+  
+RE: sybil/isolation attack:  
+  
+Again, not a likely attack. You would have to:  
+1) Find some high-transaction-volume service and identify all of their
+bitcoin-network-connected nodes  
+2) Control ALL of those nodes' connections (expensive to do reliably with the
+'connect out to 8 random peers' rule) FROM THE BEGINNING OF TIME (well,
+beginning of when it started running the smartfee code).  
+3) Let that node see only extremely-high-fee transactions (there aren't very
+many of those, so you'll need to manage to control the node's connections for
+a while).  
+4) Expect the node's operator to send a lot of transactions and not notice
+that they were paying abnormally high transaction fees.  
+  
+If you are running a high-transaction-volume service you probably already have
+several connections into the bitcoin p2p network because you have probably
+already been the target of a distributed denial of service attack....  
+  
+Definitely not an issue for Bitcoin-Qt, because you're shown the total amount
++ fees you'll pay before every transaction.  
+  
+  
+

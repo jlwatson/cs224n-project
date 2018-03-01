@@ -1,0 +1,10 @@
+
+
+Neat idea!  
+  
+I don't get the economics of it, though-- how do I convince the network to
+run/check the calculations I want the MerkleWeb to run rather than somebody
+else's? And does anything prevent me from asking the MerkleWeb to do some
+useless busy-work that is just designed to chew up computing resources? Who
+decides what gets run on the Turing machine, when?  
+

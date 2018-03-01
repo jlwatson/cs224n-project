@@ -1,0 +1,14 @@
+
+
+Giving them all the same starting wallet is a bad idea; they will start out
+with the same keys, but will eventually each generate their own, so their
+balances will drift out of sync.  
+  
+In theory everything should work out, but in practice using the same wallet on
+multiple machines hasn't been tested much (I fixed a couple of bugs in the
+last couple of weeks related to a wallet shared between machines).  
+  
+So before cloning, delete the wallet.dat (assuming it has no bitcoins in it)
+and let the clones automatically generate a new wallet the first time they
+start.  
+

@@ -1,0 +1,14 @@
+
+
+Quote from: doood on March 30, 2011, 03:44:52 PM
+
+I did however find something else very interesting while I was there... the
+'vanity' param  
+
+  
+That's not part of the official API, that's just a fun hack I made one day on
+a whim.  
+  
+The technical information in the wiki needs more attention and polish; if you
+have time and are a decent writer, please jump in and help out.  
+

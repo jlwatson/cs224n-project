@@ -1,0 +1,11 @@
+
+
+I know EricJ2190 tried out the test network today-- Eric (and anybody else who
+might have compiled and run) you need to git pull, recompile, and nuke your
+~/.bitcoinTEST directory. The client was generating blocks WAY too fast.  
+  
+That'll teach me to go messing with code I don't really understand (on the
+bright side, I now know what the OpenSSL BN_bn2mpi() routine does).  
+  
+Oh, and Eric: I added your pnSeed fix to my git branch.  
+

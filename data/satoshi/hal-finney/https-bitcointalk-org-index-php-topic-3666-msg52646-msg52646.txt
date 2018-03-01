@@ -1,0 +1,40 @@
+
+
+Did you ever get this? Here's some minimal code that might work. Add to
+rpc.cpp after getwork:  
+
+Code:
+
+Value broadcasttransactions(const Array& params, bool fHelp)  
+{  
+if (fHelp || params.size() < 1)  
+throw runtime_error(  
+"broadcasttransactions <hexencodedtransaction> ...\n"  
+"Broadcasts specified transaction(s) out onto the network.");  
+  
+for(int param=0; param<params.size(); param++)  
+{  
+string strTx = params[param].get_str();  
+CDataStream vMsg(ParseHex(strTx));  
+CTransaction tx;  
+vMsg >> tx;  
+CInv inv(MSG_TX, tx.GetHash());  
+RelayMessage(inv, tx);  
+}  
+return Value::null;  
+}  
+
+  
+Then add at the end of pCallTable (the next code block):  
+
+Code:
+
+make_pair("broadcasttransactions", &broadcasttransactions),  
+
+  
+Maybe add "broadcasttransactions" to that next table, pAllowInSafeMode,
+otherwise I guess you have to start the server with -disablesafemode.  
+  
+This is untested, I only spent about half an hour on it, so you don't have to
+pay if you use it.  
+

@@ -1,0 +1,23 @@
+
+
+Quote from: paraipan on January 31, 2012, 02:55:36 PM
+
+The way i understand it BIP16 changes completely the scripting system for the
+p2sh transactions. How ? bypassing it. Seen lot of code examples already.
+BIP17 uses an existent placeholder OP code to fit it's needs and another one
+that seems to have been put there by Satoshi himself.  
+
+  
+You understand wrong.  
+  
+BIP 16 recognizes a certain pattern of bytes, and says "If you see those
+bytes, then the script will be provided by the person who has the coins
+instead of the sender (the sender just provides a secure hash of that
+script)."  
+  
+The script that is provided is then used EXACTLY as if it was a "normal"
+sender-provides-the-script transaction.  
+  
+BIP16 is the most conservative possible solution to the problem we want to
+solve.  
+

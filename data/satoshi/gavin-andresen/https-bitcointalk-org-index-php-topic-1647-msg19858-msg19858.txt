@@ -1,0 +1,38 @@
+
+
+tentative: I don't get it.  
+  
+You seem to be saying that somebody might be secretly working on a longer
+block chain, and all their hard work will be ruined because they won't be able
+to replace the block chain everybody else is using non-secretly because the
+block chain everybody else is using might get locked in. Ummm... yeah! Don't
+work on longer block chains in secret.  
+  
+Either that, or you're saying Satoshi might accidently lock in a shorter block
+chain, and most people either not noticing or not caring. Umm... no, I don't
+see that happening.  
+  
+The block chain lock-in check is only done when new blocks are accepted. Here
+is what would happen if Satoshi tried to commit a block lock-in that most of
+the network thought was shorter:  
+  
+1\. Imagine everybody downloads the new client with the bad lock-in.  
+2\. Everybody who had the longer chain before ignores the lock-in, and
+continues to push the longer chain.  
+(unless the longer chain contains a bad transaction-- the chain is checked for
+bad transactions on startup, see CBlock::CheckBlock)  
+3\. Newbies who are downloading the chain for the first time will hit the
+lock-in code, and will be running with a shorter chain.  
+  
+There will be chaos as newbies generate blocks on the shorter chain, which
+only other newbies will accept. "oldies" will also continue to generate on the
+longer chain. Transactions will get added to both chains... and the "oldies"
+will beat Satoshi into submission. Unless there is a legitimate bug (like the
+overflow bug that inspired the block chain lock-in code in the first place).  
+  
+If I am misunderstanding your concerns, please speak up. The number one
+development priority for bitcoin is security. If you have found a problem,
+please email or private-message Satoshi, or post here (besides possible
+network denial-of-service attacks-- only email about those if you have a
+brilliant idea for how to prevent them...).  
+

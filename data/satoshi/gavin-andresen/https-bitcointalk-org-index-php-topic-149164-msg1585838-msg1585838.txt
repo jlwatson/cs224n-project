@@ -1,0 +1,15 @@
+
+
+I wouldn't say NO progress is being made, but there has been a long detour
+because we need a secure way of telling you WHO you are paying to make
+multisignature work securely. Otherwise we could have the most nifty, secure
+multisig system in the world that fails because you THINK you're paying
+1kqHKEYYC8CQPxyV53nCju4Lk2ufpQqA2 but a crafty attacker makes you pay them at
+1kqHLFyZDBDoPDYwSEtjv5CWka42uGqA2 instead.  
+  
+So I've been spending most of my time implementing "the payment protocol."
+I'll write more in a Foundation blog post on Friday.  
+  
+Payment protocol messages will be part of the information that will be sent
+between devices or people to make multisig transactions work.  
+

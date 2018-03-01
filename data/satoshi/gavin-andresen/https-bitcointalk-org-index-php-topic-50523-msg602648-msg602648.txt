@@ -1,0 +1,14 @@
+
+
+1\. TxOut scripts are not evaluated until they are spent-- those are probably
+unspendable TxOuts.  
+  
+2\. The inputs must be valid (you're looking at coinbase txns with no inputs
+though). Again, TxOuts aren't evaluated until they are used as inputs in
+another transaction; as long as they deserialize properly they'll be accepted.  
+  
+3\. I don't know of any other bugs in the scripts ops, but I don't know that
+anybody has written thorough unit tests for them (anybody looking for a good
+get-your-feet-wet project that could be a good one to tackle; there are
+already unit tests for CHECKMULTISIG in the repostitory....).  
+

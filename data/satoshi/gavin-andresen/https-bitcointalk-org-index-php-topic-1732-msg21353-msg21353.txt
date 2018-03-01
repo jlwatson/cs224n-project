@@ -1,0 +1,26 @@
+
+
+Quote from: brucewagner on November 10, 2010, 06:20:36 PM
+
+In other words, are there any versions, or any components of any versions,
+that are NOT open source?  
+
+  
+It is 100% open source. Bitcoin relies on three other open source projects--
+wxWidgets (for the user interface), Boost (for geeky C++ stuff), and OpenSSL
+(for cryptographic stuff). Those are all also 100% open source.  
+  
+Improving The Fine Manual (and the website) will be an ongoing project; thanks
+for your questions. I agree that there is a lot of work to be done on the
+documentation front. Like most open source projects, most of us developers
+find writing code more fun than writing documentation or marketing material.  
+  
+  
+Satoshi is the main developer and person most in control of bitcoin (as said
+above). I've been the second-most active developer over the last month or so.  
+  
+PS: if you have the time and feel like helping out... most of the
+documentation is in the Wiki, which anybody can edit. And constructive,
+specific suggestions for making the main bitcoin.org web page better are
+welcome, too.  
+

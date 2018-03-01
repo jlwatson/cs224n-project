@@ -1,0 +1,43 @@
+
+
+Summary of a discussion that happened in IRC chat this afternoon:  
+  
+There are 10 no-op opcodes that are explicitly for expansion:  
+https://github.com/bitcoin/bitcoin/blob/master/src/script.h#L150  
+  
+They are currently enabled, and do nothing.  
+  
+If we did the obvious thing and used one of them for OP_EVAL, then,
+surprisingly, OP_EVAL would not necessarily cause a block chain split. Why?  
+  
+Old clients see:  
+
+Code:
+
+<sig> <...serialized script...> DUP HASH160 <hash> EQUALVERIFY OP_NOP1
+
+New clients see:  
+
+Code:
+
+<sig> <...serialized script...> DUP HASH160 <hash> EQUALVERIFY OP_EVAL
+
+  
+Old clients will consider the transaction valid as long as <serialized_script>
+hashes to the correct value and is not OP_FALSE, because a script evaluates as
+valid if it leaves a non-false value on the top of the stack when it is done.  
+  
+New clients will do full validation: the hash has to be right AND the
+<serialized script> has to be valid (has to leave a non-false value on the top
+of the stack).  
+  
+So: If upgraded clients and miners start producing transactions and blocks
+with OP_EVAL in them, they will be accepted by old clients and miners as
+valid.  
+  
+That means OP_EVAL could be supported as soon as 50+% of the network hashing
+power upgraded, instead of requiring that 100% of the network (clients and
+miners) upgrade before a certain time or block.  
+  
+Anybody want to volunteer to write a BIP that works through all the details?  
+

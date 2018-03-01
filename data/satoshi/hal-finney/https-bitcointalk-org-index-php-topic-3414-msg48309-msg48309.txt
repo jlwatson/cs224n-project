@@ -1,0 +1,12 @@
+
+
+I agree that Satoshi's "200 bytes for backward compatibility" is something of
+a mystery. The 200 is probably a clue. It is quite a bit bigger than a Bitcoin
+block header. Might be about the size of a block header plus a dummy
+transaction.  
+  
+There are still some ways to embed arbitrary data in Bitcoin transactions.
+AFAIK scriptSig data is not checked, and you could put anything at the front
+without invalidating any signatures. So a BitDNS hash could be stuck into the
+current Bitcoin block.
+

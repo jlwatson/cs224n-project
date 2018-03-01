@@ -1,0 +1,10 @@
+
+
+Suggestion: instead of talking endlessly about possible attacks, try them out
+on the -testnet test network.  
+  
+That is what it is for.  
+  
+Oh: except Sybil attacks, which just aren't very interesting on a network like
+testnet that has only a couple dozen peers on it.  
+

@@ -1,0 +1,7 @@
+
+
+Yes, I forgot to rename the folder.  
+  
+Uploading a fixed 0.5.0 linux.tar.gz and win32.zip now (and SHASUMS.asc), will
+do the same for 0.4.1.  
+

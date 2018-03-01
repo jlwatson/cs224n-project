@@ -1,0 +1,12 @@
+
+
+Very nice bitrick!  
+  
+By the way, this patch speeds up initial download quite a lot:  
+https://github.com/gavinandresen/bitcoin-
+git/commit/042a619709fab1329e8286c6aedbb2cdc8eb3497  
+  
+...as do these, which have already been pulled into git head:  
+https://github.com/bitcoin/bitcoin/commit/fb45259967032d409bca4d542b55414a7c522fba  
+https://github.com/bitcoin/bitcoin/commit/ec74e8a44338202bfb82faa2cef4611cc37e7fa5  
+

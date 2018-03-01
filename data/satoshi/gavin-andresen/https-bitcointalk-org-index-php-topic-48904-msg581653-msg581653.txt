@@ -1,0 +1,19 @@
+
+
+Amir started the "get more formal about changes to bitcoin" ball rolling by
+creating BIP 0001, starting from the Python "PEP" / BitTorrent "BEP"
+processes.  
+  
+The idea is to use BIPs for changes that may or will affect every bitcoin
+implementation (not to use them for proposed changes to one particular
+implementation).  
+  
+I'd like to propose some minor changes to the process:  
+  
+
+  * I propose that BIPs be wiki pages, with a social convention that the Author gets final word if any editing wars break out.
+  * If he's willing, I propose that Amir take the role of BIP editor.
+  * I think bitcoin is still too small to have a specialized "bitcoin-ideas" mailing list; I propose that new potential BIPs be discussed either here or on the bitcoin-dev mailing list.
+
+  
+

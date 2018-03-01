@@ -1,0 +1,12 @@
+
+
+Quote from: satoshi on July 28, 2010, 09:23:23 PM
+
+Was that the only thing I broke in the OSX build?! Does it actually work after
+just that one change?  
+
+I built a TEST-network bitcoind with the SVN r115 changes merged in, and yes,
+after that one change it's been happily generating coins all afternoon.  
+I don't use the stock makefile.osx, though-- I setup the dependency directory
+structure a little differently (for no really good reason).  
+

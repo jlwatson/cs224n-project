@@ -1,0 +1,25 @@
+
+
+Quote from: Peter Todd on July 04, 2014, 04:22:15 PM
+
+It's fairly easy to manipulate actually; sybil attacks are not that hard to
+do. (there's evidence they're being used against people accepting zeroconf) I
+demonstrated a 1BTC fee tx due to the estimator failing. Right now there is a
+cap of 100mBTC, but obviously that can drain your wallet pretty quickly.  
+
+  
+... demonstrated in a completely artificial -regtest environment...  
+  
+If you can Sybil somebody and control their view of the network, then it seems
+to me there are more potentially profitable attacks than "make them pay more
+in fees than they should."  
+  
+But please feel free to demonstrate an actual, effective Sybil on the fee
+estimation code. bitcoincore.org is running a wallet-less bitcoind on port
+8333 that generates the graphs at bitcoincore.org/smartfee/  
+  
+(hacking into the web server to make it LOOK like the fee estimation code
+failed doesn't count, you have to manage to control it's p2p network
+connections and then manipulate the memory pool).  
+  
+

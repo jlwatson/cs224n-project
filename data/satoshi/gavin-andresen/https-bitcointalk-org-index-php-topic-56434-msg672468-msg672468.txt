@@ -1,0 +1,16 @@
+
+
+Quote from: finway on January 03, 2012, 05:11:36 PM
+
+I am sad that all gavin's work have been wasted!  
+
+  
+Don't be sad-- it hasn't been wasted at all. Most of the work was making
+multisignature transactions work properly, the OP_EVAL part was a small amount
+of code (which becomes an even smaller amount of code under the new
+PayToScriptHash scheme, which is one of the reasons I like it).  
+  
+And re: new cycle of coding/testing/etc taking 3 more months: I'm going to
+propose slipping the schedule by two weeks, which means a "network is fully
+validating the new transaction types" of Feb 15 instead of Feb 1.  
+

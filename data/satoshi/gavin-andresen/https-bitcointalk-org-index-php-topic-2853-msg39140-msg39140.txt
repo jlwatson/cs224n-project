@@ -1,0 +1,17 @@
+
+
+ribuck: The Faucet is currently giving out between 5 and 6 BTC per day
+(100-200 payouts per day).  
+  
+BioMike: Are you creating an AdWords-like service, but bidding/paying in
+Bitcoin? One reason I like AdsCaptcha is because if won't clutter up the
+Faucet page with ads.  
+  
+[mike]: Thanks for the pointers RE: how much it costs to get google/yahoo/etc
+accounts; I have been tempted to give out more coins from the Faucet to people
+with Google accounts.  
+  
+  
+I'm going to give AdsCaptcha a try; if the ads are annoying or offensive or
+inappropriate or doesn't work with ad blockers I'll switch back to reCaptcha.  
+

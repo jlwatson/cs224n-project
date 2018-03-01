@@ -1,0 +1,19 @@
+
+
+I'm reposting from the ClearCoin news blog:  
+http://clearcoin.blogspot.com/2011/06/charity-escrow-changes.html  
+  
+I've been contacted by a charity who is not happy that they were listed as a
+donation option for ClearCoin charity escrows.  
+  
+I made the mistake of assuming that charities would appreciate the extra
+bitcoins; it never occurred to me that ClearCoin customers might contact a
+charity and ask THEM for their (supposedly-donated) coins back. Charities
+can't be expected to resolve ClearCoin disputes.  
+  
+To fix the problem, I have disabled all charities for new escrow accounts
+except one: the Bitcoin Faucet. I will be writing to any charities that
+received ClearCoin donations from already-created escrow transactions to make
+them aware of the situation and will ask them to forward any ClearCoin-related
+issues to me.  
+

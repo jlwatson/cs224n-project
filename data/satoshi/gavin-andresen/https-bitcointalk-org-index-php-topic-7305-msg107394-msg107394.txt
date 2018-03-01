@@ -1,0 +1,8 @@
+
+
+The project needs more bug fixing and testing, so I would rather NOT see
+bounties for new features.  
+  
+Bounties for fixing bugs would be ok. And maybe a bug bounty, for finding
+significant bugs.  
+

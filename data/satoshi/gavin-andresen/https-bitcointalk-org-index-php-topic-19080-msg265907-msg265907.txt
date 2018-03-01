@@ -1,0 +1,11 @@
+
+
+The risk profile I care about is:  
+  
+User's computer is completely compromised by a root-kit trojan, but they don't
+know it.  
+  
+However, the user has access to some other device or service that they have
+setup in advance to be a "second line of defense" to prevent their entire
+wallet from being stolen.
+

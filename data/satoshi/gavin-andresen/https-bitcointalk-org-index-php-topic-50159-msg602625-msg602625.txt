@@ -1,0 +1,12 @@
+
+
+Another quick update:  
+  
+Wladimir figured out what was breaking the Win32 cross-compiled builds (one of
+the 'hardening' gcc flags is apparently busted for mingw32 cross-compiles), so
+Linux and Win32 binaries of a rc2 should be available soon.  
+  
+Yet another hurdle was thrown in my way by Mother Nature Saturday night; we
+got over a foot of snow, and my house and home office still have no power. Mac
+builds won't be available until my main machine has power...  
+

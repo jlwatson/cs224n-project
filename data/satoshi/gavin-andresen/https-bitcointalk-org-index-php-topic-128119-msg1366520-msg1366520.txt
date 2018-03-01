@@ -1,0 +1,15 @@
+
+
+Quote from: etotheipi on November 29, 2012, 01:46:41 AM
+
+  
+I was under the impression that P2SH was intended for all multi-sig
+transactions, though you are right there is no reason plain-text multi-sig
+can't be used (is there? they were probably never added to isStandard...). One
+reason for desiring P2SH, _in general_ , is that very long scripts become part
+of the TxIns instead of the TxOuts. This means that they will never bloat a
+pruned version of the blockchain. If everyone only used P2SH, then no TxOut
+script would ever be longer than 22 bytes.  
+
+You can use plain multisig if you like, they WERE added to IsStandard.
+

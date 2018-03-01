@@ -1,0 +1,24 @@
+
+
+svnTEST branch is up on github.  
+  
+I also uploaded just the production-bitcoin-to-TEST-network-bitcoin patches to
+github, at: http://gist.github.com/502460  
+... so:  
+
+Code:
+
+curl
+http://gist.github.com/raw/502460/2182724de9ef2d6721bf0e0962cc6a6895bcbee4 |
+patch -l
+
+... should patch production network source code to TEST network. And:  
+
+Code:
+
+curl
+http://gist.github.com/raw/502460/2182724de9ef2d6721bf0e0962cc6a6895bcbee4 |
+patch -l --reverse
+
+... will go the other way.
+

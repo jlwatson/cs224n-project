@@ -1,0 +1,14 @@
+
+
+So netrin:  
+  
+I asked before and I'll ask again, I'm genuinely curious:  
+  
+Are there password-cracking algorithms that attempt passwords from lowest-
+entropy-to-highest-entropy?  
+  
+Is it even theoretically possible to sort passwords by "entropy" ? (seems like
+a hard thing to easily measure; password "a.b..c...d....e.....f" has low
+entropy, but would any password-cracking algorithm try it before 6 random
+characters?)  
+

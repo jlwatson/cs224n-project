@@ -1,0 +1,36 @@
+
+
+Quote from: ribuck on February 01, 2011, 10:48:58 AM
+
+Keep testnet as close as possible to the live system. It will sort itself out
+in a few weeks.  
+  
+Create an additional block chain for those whose development needs require
+something other than what testnet provides.  
+
+  
+No, it won't sort itself out "after a few weeks". Let me see if I can do a
+back-of-the-envelope:  
+  
+Difficulty on testnet currently at 373. We want it no higher than, oh, 5, so
+with the typical 3-or-4 machines CPU-hashing on testnet generate a block in a
+reasonable amount of time.  
+  
+So we generate 2016 blocks over 8 weeks. That cuts difficulty by four: ~90  
+Then do it again: ~22  
+and again... ~5 SIX MONTHS later  
+  
+That's optimistically assuming we can find people to cooperate to contribute
+hashing power to generate 2016 blocks at difficulty 300 in 8 weeks or less.  
+  
+If you'd like to continue using the old testnet chain, be my guest.  
+  
+I'm sympathetic to the "testnet and main net should have the same rules", but
+the truth is the testnet has, and always will have, many fewer people hashing
+on it.  
+  
+Changing the main net downard-difficulty-adjustment code might make sense, but
+that's the topic for another thread. Allowing main net difficulty to adjust
+all the way from 22,000 to 1 isn't the right answer (it makes sybil attacks
+where an attacker feeds you a bogus version of the block chain much easier).
+

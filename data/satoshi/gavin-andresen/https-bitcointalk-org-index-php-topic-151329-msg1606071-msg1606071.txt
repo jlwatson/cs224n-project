@@ -1,0 +1,12 @@
+
+
+Quote from: retep on March 10, 2013, 02:22:51 AM
+
+The point is, a transaction that will never be spent costs the network more
+than one that will be spent because the former requires expensive, high-speed
+storage (currently RAM, and maybe SSDs in the future)  
+
+  
+How much does it cost, if you assume reasonable trends for storage/electricity
+cost?  
+

@@ -1,0 +1,49 @@
+
+
+The relevant settings and their default values for recent versions of bitcoind
+are:  
+  
+
+Code:
+
+Maximum size, in bytes, of blocks you create:  
+blockmaxsize=250000  
+  
+How many bytes of the block should be dedicated to high-priority transactions,  
+included regardless of the fees they pay  
+blockprioritysize=27000  
+  
+Minimum block size you want to create; block will be filled with free
+transactions  
+until there are no more or the block reaches this size:  
+blockminsize=0  
+  
+Fee-per-kilobyte amount (in BTC) considered the same as "free"  
+Be careful setting this: if you set it to zero then  
+a transaction spammer can cheaply fill blocks using  
+1-satoshi-fee transactions. It should be set above the real  
+cost to you of processing a transaction.  
+mintxfee=0.0005  
+
+  
+So if you set blockprioritysize=0, you will only accept fee-paying
+transactions.  
+  
+If you only want to accept 500 or so transactions, set the blocksize to 500 *
+average transaction size (400 bytes or so) = 200000  
+  
+The rules for filling up the block are:  
+  
+First, take the highest priority transactions (regardless of fee) and fill up
+the block to blockprioritysize. (if blockprioritysize is zero, then this step
+does not apply)  
+  
+Then, take the highest fee-per-kilobyte transactions and continue filling the
+block until either you run out of transactions with a fee-per-kilobyte greater
+than mintxfee or the block would be larger than blockmaxsize.  
+  
+Finally: the rules are likely to change again fairly soon so that groups of
+related transactions are considered together ("child pays for parent", so
+customers can send zero-fee transactions to merchants, who can create a child
+transaction with a fee when they need the transaction to be confirmed).  
+

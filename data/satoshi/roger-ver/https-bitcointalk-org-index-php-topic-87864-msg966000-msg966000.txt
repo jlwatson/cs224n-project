@@ -1,0 +1,20 @@
+
+
+I need to hire a Linux based System administrator to configure a webserver for
+a special project I am working on.  
+  
+This is the system:  
+http://www.ebay.com/itm/HP-DL380-G7-HighPerf-2U-Server-8-x-146GB-6G-Dual-
+Intel-2-8GHz-Hex-Core-48GB-
+RAM-/200751181735?pt=COMP_EN_Servers&hash=item2ebdb3efa7#ht_2429wt_1377  
+  
+The preferred OS is Gentoo (64bit), but any other version of Linux would still
+be ok.  
+  
+Depending on your skill set this could become a full time position helping
+with various Bitcoin related projects.  
+  
+Please contact roger at memorydealers.com  
+  
+I can pay in USD or BTC.  
+

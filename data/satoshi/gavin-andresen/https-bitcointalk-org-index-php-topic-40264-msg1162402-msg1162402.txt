@@ -1,0 +1,11 @@
+
+
+Yes, please don't create lots of unspendable scriptPubKeys. There are more
+prunable ways of embedding messages into transactions. And there are even
+better ways of associating messages with transactions, so only people involved
+with the transaction can read the message (if that's desired).  
+  
+In other words, lets figure out how to do this the right way. The way you're
+doing it now will stop working as soon as the network upgrades anyway (0-value
+outputs are nonstandard as of the 0.7 release).  
+

@@ -1,0 +1,74 @@
+
+
+Quote from: rupy on July 04, 2012, 12:43:38 AM
+
+So how would you fix the scalability issues of BTC?  
+
+I think Bitcoin is already perfectly capable of scaling up. Here's one half-
+baked idea for how to do it:  
+http://gavintech.blogspot.com/2012/07/off-chain-transactions.html (pasted
+below to save you a click):  
+
+* * *
+
+The problem: is there a safe and secure way to make Bitcoin transactions
+without relying on the block-chain but, instead, relying on some semi-trusted
+third-party?  
+  
+If there is, then Bitcoin is more easily scalable; most transactions could
+happen off the block chain, with in-the-block-chain transactions happening
+every once in a while to "settle up" off-chain transactions.  
+  
+So here is the half-baked idea:  
+  
+Use multisignature transactions to split the ownership of some bitcoin value
+between a customer (lets call her Alice) and a transaction service (lets call
+it "Joe's UltraTransactions" -- Ultra for short).  
+  
+Alice deposits 100 bitcoins into her Ultra wallet, and what actually happens
+behind the scenes is Alice's software generates a new keypair, gets a public
+key from Ultra, and coins are sent into a 2-of-2 transaction.  
+  
+Alice withdrawing the bitcoins (getting them out of the UltraTransaction
+system) is the boring case-- she'd generate a transaction, sign her half, then
+ask Ultra to sign the other half (and there would be some sort of
+authentication check-- maybe Ultra sends Alice an SMS to approve the
+withdrawal).  
+  
+Now Alice wants to pay Bob 10BTC, who also happens to be an UltraTransaction
+customer. This is where things could get interesting.  
+  
+Instead of generating a block-chain transaction, Alice could just give Bob her
+private key. Both Alice and Bob would sign a message with the private key
+saying "Alice is sending 10 bitcoins to Bob; she's given him the private key
+that she generated." Bob would send the message to Ultra, which would send
+Alice an SMS to make sure she approves, and then any withdrawal involving
+those 10 bitcoins associated with that private key would require Bob's
+authorization instead of Alice's.  
+  
+Alice would still know the private key, but won't be able to spend what is now
+Bob's money (Ultra would only let her send/withdraw 90 of the 100 bitcoin tied
+up with that private key).  
+  
+Ultra is only semi-trusted; it never has the private key, so can't spend the
+coins without either Alice or Bob's aproval. Joe can't decide to run off with
+everybody's coins when the Ultra wallet is worth a few million dollars.  
+  
+Alice and Bob **do** have to trust that Ultra keeps track of who owns what
+accurately, and that Ultra will be around to sign it's half of the transaction
+when they want to withdraw some coin. And Bob has to trust that Alice did
+generate the private key, didn't share it with Ultra, and isn't actually Joe
+trying to trick him.  
+  
+That's quite a lot of trust required, but the ability to instantly transfer
+value between Ultra customers with zero Bitcoin-block-chain transaction fees
+might outweigh the risks. And there are probably variations on this idea that
+would minimize trust in Ultra (maybe there's a semi-trusted service that Ultra
+pays to keep offline, "use-only-if-we-go-out-of-business" backups of their
+private keys).  
+  
+And it scales beautifully; one UltraTransaction server cluster could easily
+handle hundreds or thousands of transactions per second, and you could imagine
+companies popping up all over the world, handling most transactions outside
+the blockchain.
+

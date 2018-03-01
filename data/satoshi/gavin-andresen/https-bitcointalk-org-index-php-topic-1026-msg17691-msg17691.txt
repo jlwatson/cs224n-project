@@ -1,0 +1,19 @@
+
+
+RE: what's the use of b58_encode? It is dead code for this use-- bitcointools
+(where I first implemented this stuff) uses it to translate from binary
+hash160 to human-readable bitcoin addresses.  
+  
+RE: 27 character bitcoin addresses: I'm puzzled. There's a mismatch between
+the way bitcoin treats leading zeros (leading 1's when base58 encoded) and the
+way my python code treats them.  
+  
+ByteCoin: have you dissected the bitcoin code enough to explain how it decides
+how many leading zeros to add? According to my code, '14oLvT2' and
+'11111111111111111111111111114oLvT2' are the same bitcoin address
+(corresponding to the public key with a hash of all zero bytes).  
+  
+But bitcoin only likes the 27-character '1111111111111111111114oLvT2' version.  
+  
+I'll have to stare at the code some more tomorrow when I'm more awake.
+

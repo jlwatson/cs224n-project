@@ -1,0 +1,18 @@
+
+
+The current plan is to password-protect private keys in the wallet and unlock
+them when coins are sent (with an option to 'remember the password' for a
+certain period of time) for the 0.4 release.  
+  
+That doesn't completely fix the problem (a keystroke logger can get your
+password, and a virus can insert itself so instead of sending 10 BTC to your
+grandma in Boise it makes bitcoin send your entire wallet balance to Little
+Bobby Blackhat).  
+  
+To almost completely fix the problem transactions would need to be created on
+one device and then verified on a second device. Assuming both devices aren't
+infected/compromised, that will be safe. The two devices would be your
+computer and something else-- maybe a website, If anybody has experience with
+that type of cross-device security/programming and is interested in helping
+Bitcoin out, help would be much appreciated.  
+

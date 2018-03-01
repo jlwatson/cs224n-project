@@ -1,0 +1,11 @@
+
+
+I think you have an incorrect assumption in your argument: what makes you
+think there will be a high variability in block rewards (because they're
+mostly fees) 40 years from now?  
+  
+Assuming bitcoin is still around in 40 years, there should be at least tens of
+thousands of transactions per block, and with that many transactions sum(fees)
+should be pretty darn stable.  
+  
+

@@ -1,0 +1,18 @@
+
+
+Quote from: nibor on September 13, 2011, 11:47:48 PM
+
+I disagree with your comment about the miners though. As seeing as it was
+mined into the test chain I would assumed it would be mined into the prod one
+too? Especially if you put a big fee on it!  
+
+  
+Non-standard transactions are allowed-by-default on the test network. So
+people can test things out.  
+  
+They are "discouraged-by-default" on the main network (discouraged means not
+relayed to peers, and not included in blocks by the default mining code).  
+  
+I think etotheipi is right: last I heard, Eligius was the only mining pool
+with different rules for non-standard transactions.  
+

@@ -1,0 +1,9 @@
+
+
+Quote from: paraipan on April 03, 2012, 02:08:22 PM
+
+edit2: @Gavin would you be so kind to write a patch for ver. 0.5.3 that makes
+alerts go off after a while, 5 minutes for ex.  
+
+Nope, sorry, have higher priority things to do.  
+

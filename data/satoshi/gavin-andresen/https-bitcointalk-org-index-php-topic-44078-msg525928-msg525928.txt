@@ -1,0 +1,14 @@
+
+
+A Radeon 6990 has 4 gigabytes of ram.  
+  
+If the task is "find a number that bcrypts/scrypts to less than a given hash
+target," I don't see anything that would stop a GPU programmer from
+implementing bcrypt/scrypt on the CPU and parallelizing at the try-different-
+nonces level.  
+  
+Maybe I'm missing something; I'm probably biased because I worked at SGI from
+1988 to 1996 and saw first-hand the evolution of GPUs from very-special-
+purpose chips with very limited memory to very-general-purpose vector-
+processing pipelines with very fast access to lots of memory.  
+

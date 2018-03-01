@@ -1,0 +1,7 @@
+
+
+Instead of a file as input, use the hash of a domain name, and you have a
+quick-n-dirty system for claiming ownership permanently (the name belongs to
+the key making the payment). Then as suggested in the BitDNS thread, use any
+common DHT implementation to broadcast the signed DNS records.
+

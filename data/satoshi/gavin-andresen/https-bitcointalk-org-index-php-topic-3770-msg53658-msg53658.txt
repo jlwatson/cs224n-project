@@ -1,0 +1,17 @@
+
+
+Bitcoin is confusing at first glance because so many problems are solved using
+just a few ideas. If you think about it long enough, it is quite elegant.  
+  
+The busy-work of finding a block hash that is "small enough" solves a couple
+of problems:  
+  
+First, by making it hard to create coins so they are artificially scarce. That
+is really important; if it was easy to create gazillions of bitcoins we'd all
+have gazillions of bitcoins that were worth nothing.  
+  
+Second, it solves the double-spending problem-- the computer that solves the
+busy-work problem first gets to decide which transactions are "THE"
+transactions, and which ones are invalid (because you're trying to spend coins
+you've already spent).  
+

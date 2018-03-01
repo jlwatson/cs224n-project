@@ -1,0 +1,9 @@
+
+
+What I meant about purchases taking longer would be in the range of several
+hundred to several thousand dollars. Today you can go into Best Buy and get a
+new TV for $1000, put it on your VISA and walk out. For a Bitcoin transaction
+in this range, the seller would probably want to wait for 2 or 3 confirmations
+to be safe against double spending, which would take 20-30 minutes. That's
+pretty inconvenient.  
+

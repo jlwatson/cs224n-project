@@ -1,0 +1,38 @@
+
+
+Are you holding some cryptocurrency secured by a paper wallet in a safe
+deposit box? Good for you! That's an excellent way to keep it safe.
+
+But then your currency splits. Last week that piece of paper was worth 100
+FooCoins, and this week it is worth 100 FooCoins _and_ 100 BarCoins.
+
+If you think one side of the split is a terrible idea, doomed to fail, you
+might be tempted to go get your paper wallet, "sweep" the coins into a wallet
+that supports the bad coin, and move them to an exchange to cash out (or maybe
+buy more of the good coin).
+
+Great! I don't give investment advice. But I will encourage you to sweep the
+"good" coins, first, and move them to a new wallet. Don't be lazy and just
+write "BadCoins swept Nov 11, 2017" on the paper wallet and put it back in the
+vault.
+
+Why?
+
+Because sooner or later I think somebody will create a BadCoin (or a wallet)
+with a transaction signature algorithm designed to leak your private keys in
+the signature data that is broadcast to the world. A NewCoin will launch
+starting with the ledger of an OldCoin and a spiffy new signature scheme "for
+full replay protection" or "to be more quantum resistant" or "to be more
+scalable" or "with 150% more cowbell". OldCoin holders will rush to sell it to
+get some free money… and a week or three later they'll lose much more than
+they gained as their OldCoins are spent out from under them.
+
+Unless you have the technical ability to audit the code yourself for
+subliminal signature channels, every time you use your private key(s) to sign
+a transaction or message, you are implicitly trusting the software (or
+hardware) developers- even if you jump through hoops and sign transactions
+offline.
+
+So go ahead and dump those BadCoins… but if there is a chance the BadCoin
+developers are sophisticated and evil, move your GoodCoins first.
+

@@ -1,0 +1,7 @@
+
+
+Doesn't the client check with multiple connected peers to make sure it has the
+latest block? Maybe there could be a window that displays all connected peers
+and the latest info from each. Then you could check that they all agree about
+chain length, etc.
+

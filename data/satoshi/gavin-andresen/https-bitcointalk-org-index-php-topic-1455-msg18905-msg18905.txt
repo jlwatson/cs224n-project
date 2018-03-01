@@ -1,0 +1,21 @@
+
+
+Quote from: Osndok on October 27, 2010, 06:50:25 PM
+
+When bitcoin is exhibiting this slow-down behavior, it appears to be
+requesting something from the "DirectoryService" process (user name, reading a
+plist?). I'm not positive asto how to read these stack traces, but the issue
+seems to be within this block of code (perhaps it is running a lot more often
+then anticipated, contention over dbenv, or the db system is making
+ineffecient use of some DirectoryService).  
+
+  
+Is your Library/Application Data/ directory on a network-mounted volume?  
+  
+Running bitcoin 0.3.13 on my OSX 10.6.4 Mac I'm not seeing any issues (it uses
+almost zero CPU when it is not generating, and 100%, but nice'ed, when it is).
+I don't see any DirectoryService CPU usage.  
+  
+From what you've said, it looks like disk writes are chewing up lots of CPU
+time for some odd reason.  
+

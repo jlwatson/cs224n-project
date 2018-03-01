@@ -1,0 +1,18 @@
+
+
+Good idea.  
+  
+I think the first spot for plugins in bitcoin should be "send address
+resolver" services-- If I tell bitcoin "send 100 bitcoins to
+obama@whitehouse.gov" it could ask the plug-in resolvers (in some user-defined
+order) "do you have a bitcoin address for obama@whitehouse.gov" ?  
+  
+If I tell bitcoin "send 100 bitcoins to eff.org" maybe a different resolver is
+used (DNSSec query to eff.org to get a bitcoin donation address, perhaps). Or
+"send 11 bitcoins to +01-1-805-253-2751" ...  
+  
+There are lots of potential problems, of course, ranging from what if the
+resolver software service/author starts redirecting bitcoins to them to what
+if the user misspells the destination. That's why I think starting with a way
+of pluggin-in different solutions to try is the right way to start.
+

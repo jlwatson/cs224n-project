@@ -1,0 +1,40 @@
+
+
+Cross-posted from the Alternative Clients sub-forum, since it looks like the
+alternative client folks are more interested in adding new features than
+figuring out exactly how the features we already have work:  
+  
+Better testing, both for the Satoshi code and across different
+implementations, is right at the top of my priority list. So I wrote some code
+to make it easier to exercise edge cases in Script evaluation:  
+https://github.com/bitcoin/bitcoin/pull/1121/files  
+  
+The unit tests are data-driven by two files:  
+script_valid.json contains pairs of (scriptSig,scriptPubKey) that, when used
+in a transaction, should evaluate to true.  
+script_invalid.json contains pairs that are invalid for some reason.  
+  
+I'm looking for help to expand those to cover all the quirky edge cases that
+might trip up alternative "fully validating" implementations (excluding
+OP_CHECKSIG/OP_CHECKMULTISIG, I'm still thinking about how best to write test
+cases for those). If you can help, please jump in and write some more.
+Assuming you've got the bitcoin source tree cloned the process for adding new
+tests is easy:  
+  
+1\. Edit src/test/data/script*.json  
+2\. From the src/ directory run:  
+make -f makefile.unix test_bitcoin  
+3\. Run the unit tests with: ./test_bitcoin  
+  
+Or if you've already got Script test cases in some other human-readable form
+please point me to them.  
+  
+I'm planning on resetting the testnet with a new genesis block and a chain
+that contains all of the valid tests as spent transactions (and a checkpoint
+so all those nice test cases aren't overwritten).  
+  
+It would be really nifty to have a 'bad chain' node running; -connect to it
+and it would send you otherwise-valid blocks that contained one or more of the
+invalid transactions from script_invalid.json. Does that sound like a project
+any of you would like to tackle?
+

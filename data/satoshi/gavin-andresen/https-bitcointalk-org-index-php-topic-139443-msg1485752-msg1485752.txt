@@ -1,0 +1,12 @@
+
+
+Quote from: Gavin Andresen on January 28, 2013, 06:48:06 PM
+
+There are already free, centralized services that will timestamp arbitrary
+hashes for you.  
+
+  
+.... another random thought: I wouldn't be surprised if you could get tricky
+with nonces to get any https-enabled web server to act as a free timestamping
+service, too...  
+

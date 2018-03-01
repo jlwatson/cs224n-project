@@ -1,0 +1,7 @@
+
+
+Don't forget the risk of theft. Backups won't help if your coins get spent.
+Best to split off some of your coins to long term savings, transfer them to a
+separate wallet, securely back up that wallet, and securely delete it.
+Unfortunately this isn't easy with the current client.
+

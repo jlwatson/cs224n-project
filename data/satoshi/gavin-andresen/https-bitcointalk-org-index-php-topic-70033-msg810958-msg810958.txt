@@ -1,0 +1,10 @@
+
+
+Quote from: Diapolo on March 20, 2012, 12:44:33 PM
+
+I would like to contribute some compile fixes needed in bitcoin-qt.pro for
+compiling on Windows in the near future.  
+
+Great! Pull requests to fix compiling-on-platform-X problems are always
+welcome (assuming they don't also break compiling on platform-Y).  
+

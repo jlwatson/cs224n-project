@@ -1,0 +1,25 @@
+
+
+RE: lots of code to write if you can't keep up with transaction volume: sure.
+So?  
+  
+
+Quote from: retep on February 18, 2013, 07:09:02 PM
+
+Transaction volume itself leads to centralization too, simply by ensuring that
+only a miner able to keep up with the large volume of low-fee transactions can
+make a profit.  
+
+  
+I really don't understand this logic.  
+  
+Yes, it is a fact of life that if you have a system where people are
+competing, the people who are less efficient will be driven out of business.
+So there will be fewer people in that business.  
+  
+You seem to be saying that we should subsidize inefficient miners by limiting
+the block size, therefore driving up fees and making users pay for their
+inefficiency.  
+  
+All in the name of vague worries about "too much centralization."  
+

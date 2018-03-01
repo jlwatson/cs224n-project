@@ -1,0 +1,38 @@
+
+
+hazek: You are actually totally wrong about all your points. This volatility
+has nothing to do with clipping the orders way outside of the normal price
+range or darkpools.  
+  
+1) The market was this volatile or even more before darkpools and before I
+clipped the order book.  
+  
+2) You can't see the complete orderbook for any currency pair. There are dark
+pools for every currency pair. There is so much more hidden info for every
+other currency pair on earth. Yet all have less volatility.  
+  
+3) The merchant problem is easily solved by not holding BTC like I explain
+above.  
+  
+4) Multiple exchanges will only increase volatility since each market will be
+thinner. The only thing that will decrease volatility is liquidity. It may
+seem like there is a lot traded a day but it is really nothing compared to any
+other currency pair.  
+  
+5) The recent crash had been building for days since the peak. It was
+predicted by many people. It was greatly exacerbated by one person dumping a
+ton of coins. If they had used a dark pool instead there wouldn't have been
+such a huge drop. So actually use of the dark pool would have decreased
+volatility.  
+  
+6) Look at this chart: http://mtgoxlive.com/orders <\- see all those straight
+lines in price. Those are dark pool orders being hit. They are reducing
+volatility as you can plainly see. If they weren't there there would be spikes
+instead of straight lines.  
+  
+  
+I should have used a different word for it other than "dark pool". I guess
+"dark" scares people and they don't understand it. So when something
+happens... "The market crashed. It must have been that evil dark pool that
+confuses me!"
+

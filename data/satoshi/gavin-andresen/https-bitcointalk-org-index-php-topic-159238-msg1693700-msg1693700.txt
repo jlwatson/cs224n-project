@@ -1,0 +1,21 @@
+
+
+Quote from: bitcool on March 27, 2013, 08:59:14 PM
+
+Quote from: Gavin Andresen on March 27, 2013, 08:14:20 PM
+
+Ummm.... speaking of the hardfork, has a version of Litecoin been released yet
+that fixes the problem?  
+
+If it's a rhetorical question, that's OK.  
+  
+If not, I am worried.  
+
+  
+Not rhetorical: it needs to be fixed, or your blockchain can easily be forked.  
+  
+Beware of Altchains that are abandoned or neglected by their developers
+(activity at https://github.com/litecoin-project/litecoin/commits/master
+doesn't look healthy to me... and now y'all are going to accuse me of
+spreading FUD, so I'll go away and shut up).  
+

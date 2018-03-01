@@ -1,0 +1,11 @@
+
+
+bitcoind doesn't prompt before adding fees because it is meant to be used by
+websites and other services where there may not be a person available to push
+an "Ok, pay a fee" button. There might not even be a place to put the button,
+either.  
+  
+Your Transaction 2 paid a fee because it ran into the "small, low-priority
+transactions must pay" code that is new with version 0.3.21. It was low
+priority because its outputs were small and its input was fairly new.  
+

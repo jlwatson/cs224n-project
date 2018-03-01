@@ -1,0 +1,22 @@
+
+
+Quote from: HanSolo on October 13, 2012, 04:51:33 AM
+
+Is there a way to register watched addresses in the standard client?  
+
+Not yet. There is a pull request implementing bloom filters that should make
+that easy to implement.  
+
+Quote
+
+Or, could 'listunspent' be extended to take any non-wallet address as an
+optional parameter?  
+
+No. The reference implementation doesn't keep a master map of all addresses to
+unspent transaction outputs, and adding such an index for the small number of
+services that need to look up arbitrary addresses doesn't make sense.  
+  
+I'd suggest you -blocknotify and the getblock() RPC call to maintain your own
+index of address --> unspent txout.  
+  
+

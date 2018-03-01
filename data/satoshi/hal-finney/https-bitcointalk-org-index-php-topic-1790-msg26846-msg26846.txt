@@ -1,0 +1,33 @@
+
+
+Let me clarify how I understand the BitDNS idea. First, I think it is somewhat
+misnamed, as we would not propose to replace the entire decentralized DNS
+infrastructure of A records, CNAMEs, TTL values, etc. What we want to change
+is the registrar function, which keeps track of who owns each name.  
+  
+A domain name entry in this system has 3 parts:  
+  
+\- the name itself (e.g. example.bitdns)  
+\- a hash of the owning public key (e.g. djiusjfkrhffhdehyormavtrr...)  
+\- the IP address of the authoritative DNS server for the name (e.g. 1.2.3.4)  
+  
+When you generate a block you get to create 50 of these entries, and you then
+own those 50 names. Of course they have to be new names that were not in
+earlier blocks.  
+  
+Subsequently a name might have two things happen to it:  
+\- the IP address of the DNS server might change  
+\- it might be transferred to a new owner  
+  
+Both of these might be handled the same way, via a BitDNS transaction. The
+transaction would contain:  
+\- the domain name  
+\- the new owner key hash  
+\- the new IP address of the DNS server  
+And it would be signed by the old owner private key.  
+  
+As with Bitcoin, transactions would be broadcast and incorporated into the
+next block by miners.  
+  
+Is this what people have in mind?
+

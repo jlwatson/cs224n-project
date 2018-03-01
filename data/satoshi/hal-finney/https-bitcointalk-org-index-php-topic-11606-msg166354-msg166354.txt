@@ -1,0 +1,7 @@
+
+
+This patch might work for the import  
+http://forum.bitcoin.org/index.php?topic=9046.0  
+  
+Flipping a bit your way.
+

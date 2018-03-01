@@ -1,0 +1,16 @@
+
+
+Warning, lots of bad information and wrong answers in this thread!  
+  
+Addresses are not created in batches of 100 (after initialization), they are
+created one at a time as they are used, so you always have a pool of 100
+unused addresses.  
+  
+Wallets do hold transactions, all the ones you see in the client window.  
+  
+You would probably not want to share the same wallet between your home system
+and your phone, because of the risk of theft, any more than you would empty
+your bank account and carry all your money around with you as cash. Most
+people plan to hold a fraction of their assets in their phones.  
+  
+

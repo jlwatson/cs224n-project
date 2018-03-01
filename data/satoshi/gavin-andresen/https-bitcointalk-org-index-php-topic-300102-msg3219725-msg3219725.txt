@@ -1,0 +1,24 @@
+
+
+Quote from: The Avenger on September 23, 2013, 07:48:10 PM
+
+Quote from: Meni Rosenfeld on September 23, 2013, 07:44:15 PM
+
+There's not a lot of entropy in your obfuscation process, so it can be brute-
+forced.  
+
+Okay. Can you explain in a few more sentences exactly what this means? I am
+genuinely interested to know if this system can be broken easily.  
+
+  
+We all think we're very clever at coming up with unique ways to obscure our
+data.  
+  
+We are wrong.  
+  
+We tend to think alike, so pretty much any process you can think up is likely
+very similar to a process somebody else will think up.  
+  
+In short: humans are really bad at creating randomness (aka entropy). And
+we're even meta-bad, because we THINK we're good at it.  
+

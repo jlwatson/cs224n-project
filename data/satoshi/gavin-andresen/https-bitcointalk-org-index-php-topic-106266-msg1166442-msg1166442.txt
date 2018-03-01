@@ -1,0 +1,22 @@
+
+
+First: I think it is extremely unlikely that somebody would spend a million
+dollars on an attack that takes months to pull off, doesn't benefit the
+attacker at all, is easy to fix, and that would be easy for the network to
+recover from.  
+  
+
+Quote from: Sergio_Demian_Lerner on September 06, 2012, 09:51:42 PM
+
+The only way to recover from these attacks is by downloading a new version of
+the client with a new checkpoint with a much higher block difficulty. I can't
+think of any other possible patch. Maybe the interval between new releases  
+during the transition from GPUs to ASICs could be decreased.  
+
+Good idea, and easy to do.  
+  
+I've got a half-finished "user-defined checkpoint" patch in my personal git
+tree, so users, merchants, and big mining pools can decide for themselves to
+add checkpoints on-the-fly (via an 'addcheckpoint' RPC command) to protect
+against this type of attack.  
+

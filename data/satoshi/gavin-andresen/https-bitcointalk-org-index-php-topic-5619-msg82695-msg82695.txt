@@ -1,0 +1,11 @@
+
+
+What is meant by "rather inefficient"? Speed of serializing/deserializing?  
+  
+I can't imagine that is a significant factor for communicating with bitcoin;
+if you're running into JSON-RPC bottlenecks (is anybody running into
+performance bottlenecks due to JSON-RPC yet? If you are, what are you doing?)
+then the lack of persistent connections, lack of JSON-RPC-2.0-multicall
+support, or bitcoin single-threaded RPC are likely much, much bigger issues.  
+  
+

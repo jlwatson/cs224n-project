@@ -1,0 +1,29 @@
+
+
+Thanks for all the great feedback!  
+  
+Maybe one way to think about ClearCoin is as a tool to help manage risk
+between buyer and seller.  
+  
+If the buyer completely trusts the seller, then you don't need ClearCoin--
+just send bitcoins directly.  
+If the seller completely trusts the buyer, then just send the product first.  
+  
+Usually there's some level of trust/mistrust between buyer and seller. If you
+use ClearCoin in creative ways, you should be able to come up with a way of
+using ClearCoin that balances the risks to both buyers and sellers.  
+  
+To take davout's example: The person paying could deposit 20% of the funds in
+a ClearCoin account, then immediately release that 20% as a "good faith
+payment". Then they deposit the other 80%.  
+  
+That gives an 80/20 risk split. "Half now, half on delivery" type arrangements
+can be done the same way.  
+  
+davidonpda: You can choose how long your coins will be tied up when you create
+the escrow account-- one month, six months, or a year. Of course, the longer
+they're held the more comfortable the person on the other side of the
+transaction will be.  
+  
+PS to Vinnie: ClearWing Software is the company; ClearCoin is the service.  
+

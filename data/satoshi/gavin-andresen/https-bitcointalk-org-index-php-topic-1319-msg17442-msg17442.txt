@@ -1,0 +1,9 @@
+
+
+nBits is difficulty in 'compact' format? (if I recall correctly...)  
+  
+It should be reported as floating-point 'difficulty', like you get from the
+'getinfo' rpc command.  
+  
+I will add that.  
+

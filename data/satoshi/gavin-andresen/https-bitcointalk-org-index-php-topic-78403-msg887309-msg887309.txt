@@ -1,0 +1,9 @@
+
+
+Miners won't switch to a 51% chain if it means they can't cash out the coins
+they're creating!  
+  
+The attack we're talking about is "51% attacker refuses to include anybody
+else's transactions in their blocks." And newly generated coins are useless to
+miners if they can't get transactions that spend them into the block chain....  
+

@@ -1,0 +1,13 @@
+
+
+Quote from: genjix on March 03, 2011, 03:34:56 PM
+
+That's code to parse JSONs. There's a Python library to work with JSON-RPC.  
+
+Huh? See that 'import json' statement at the top? That would be the standard
+(as of python 2.6) JSON parsing library.  
+  
+The code I posted tells the standard JSON parsing library to read JSON Numbers
+as Decimal. If you are doing monetary calculations in python, then you should
+be using Decimal. That is what it is for.  
+

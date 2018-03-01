@@ -1,0 +1,16 @@
+
+
+It'd been a while since I shot myself in my foot, so I guess I was overdue.  
+  
+Anyhow, on my third attempt I think I've got it right-- I fixed a bug that was
+causing Bitcoin to be unusably slow on Macs running FileVault (the built-in
+filesystem encryption on the Mac).  
+  
+The problem was Bitcoin opening and then closing the debug.log file on every
+write. After a couple of "too clever for my own good" solutions that broke, or
+could break, in interesting ways, the code now opens debug.log and simply
+keeps it open, constantly appending to it.  
+  
+If you run a bitcoind server, see the "don't forget to rotate your logs"
+thread for what you need to do for log rotation to work properly.  
+

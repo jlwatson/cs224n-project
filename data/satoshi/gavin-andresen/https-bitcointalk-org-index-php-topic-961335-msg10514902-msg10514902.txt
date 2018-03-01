@@ -1,0 +1,14 @@
+
+
+I think it will depend on the release.  
+  
+Adoption of 0.10.0 is looking really good:
+https://getaddr.bitnodes.io/dashboard/?days=90#user-agents  
+... going from about 3% of nodes to 12% in just the last three days.  
+  
+Different versions existing on the network isn't a problem until there is some
+incompatible change in either the consensus code (a hard fork) or the p2p
+networking protocol (and even that doesn't have to be a problem if there are
+"bridge" nodes that speak both versions of the protocol and relay
+blocks/transactions across the incompatible networks).  
+

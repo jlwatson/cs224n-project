@@ -1,0 +1,27 @@
+
+
+All great ideas that I'm confident will eventually happen... assuming Bitcoin
+doesn't crash and burn for some reason (yes, I'm working hard on a technology
+I think has about a 30% chance will be made illegal or won't be "better
+enough" than alternatives to catch on or will overtaken by something even
+better or will have its peer-to-peer network overwhelmed with jerks mounting
+denial-of-service-attacks or will crash and burn for some reason I haven't
+thought of yet).  
+  
+The "URL shortener" for stock Bitcoin would need to be a plug-in, where you
+give it one or more websites that provide URL shortening services (to get
+bitcoin addresses for email addresses or phone numbers or social security
+numbers (ok, SS#'s would be a bad idea)). I don't think stock Bitcoin should
+or could do that, because that service means maintaining a centralized
+database, and trusting whoever runs that database not to suddenly, one day,
+decide to redirect all the bitcoins to themself and then retire to Bermuda.
+(or trust them not to get hacked so hackers get all those coffee-shop
+payments...)  
+  
+That'd be another good, standalone project for a good C++ programmer who
+wanted to do some Bitcoin-related programming...  
+  
+I think the next big step for Bitcoin is a "lightweight client" that doesn't
+rely on a constant connection to the Bitcoin network, doesn't store the entire
+block chain, and doesn't try to generate blocks.  
+

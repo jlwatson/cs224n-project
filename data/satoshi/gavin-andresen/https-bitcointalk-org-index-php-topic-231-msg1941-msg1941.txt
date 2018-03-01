@@ -1,0 +1,13 @@
+
+
+I've started reverse-engineering and documenting the wallet and block
+databases, and have written some Python code that deserializes many of the
+Bitcoin data structures. I was going to let it ferment a little more before
+announcing, but Mr. Google will surely find and index it soon, and it should
+be a good head start for anybody who wants to start a Python bitcoin client.  
+  
+Open source, MIT license, at:  
+~~https://code.google.com/p/bitcointools/~~  
+MOVED TO git: http://github.com/gavinandresen/bitcointools  
+  
+

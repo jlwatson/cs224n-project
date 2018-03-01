@@ -1,0 +1,19 @@
+
+
+While we ponder this, if you are worried about this, there is a fairly
+straightforward workaround that will make you immune from this.  
+  
+Run two bitcoin daemons. One that is a full peer in the network, but has an
+empty, never-used wallet.  
+  
+And another with a full wallet that connects to the full peer. You could even
+run them both on the same machine (you'll use double the CPU and disk space,
+unfortunately).  
+  
+RE: "I better alert people before they can be tracked" :  
+  
+Dan Kaminsky demonstrated that it is pretty easy to tie bitcoin addresses to
+IP addresses by watching the network last year. If you are worried about being
+tracked, you should be running bitcoin over Tor and connecting to only trusted
+nodes. We make no anonymity guarantees.  
+

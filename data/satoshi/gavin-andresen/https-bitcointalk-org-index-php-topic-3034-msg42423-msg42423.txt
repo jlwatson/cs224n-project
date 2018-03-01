@@ -1,0 +1,18 @@
+
+
+ribuck:  
+  
+Accuracy/precision is a red-herring unless you're treating numbers as strings,
+since JSON-RPC numbers ARE ALWAYS double-precision floating point numbers
+(according to the JavaScript/ECMAScript spec). Bitcoin could send a number
+that looks like 2100000000000001, but the code that interprets that JSON-RPC
+number will convert it into an inexact double-precision floating-point
+equivalent. And then the code that displays that number will have to decide
+how to round and format that inexact floating point number and display it to
+the user.  
+  
+When we need more than 51 bits of precision (wouldn't THAT be a fantastic
+problem to have!), then we'd HAVE to send numbers as strings, and have the
+JavaScript (or whatever) on the other end feed them into a bignum-type library
+to handle them.
+

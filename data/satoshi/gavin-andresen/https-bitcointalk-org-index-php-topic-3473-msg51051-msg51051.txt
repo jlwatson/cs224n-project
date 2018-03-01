@@ -1,0 +1,11 @@
+
+
+Version 0.3.20.01 is now at:  
+https://sourceforge.net/projects/bitcoin/files/Bitcoin/bitcoin-0.3.20/  
+  
+Differences with the first release candidate 0.3.20:  
+  
+\+ Windows built with mingw instead of Visual C++ (my fingers are crossed that
+fixes the rendering issue)  
+\+ Fix for a denial-of-service attack reported in IRC  
+

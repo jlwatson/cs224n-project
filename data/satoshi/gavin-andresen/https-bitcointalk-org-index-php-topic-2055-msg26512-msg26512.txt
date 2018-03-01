@@ -1,0 +1,32 @@
+
+
+Quote from: marekknowak on December 03, 2010, 04:51:16 PM
+
+I'm very curious as of what restricts the supply of bitcoins? basically, what
+mechanism prevents some computer to create new bitcoins, and pass them as
+valid to other bitcoin clients?  
+
+  
+Bitcoin contains this magical little piece of code:  
+
+Code:
+
+int64 GetBlockValue(int nHeight, int64 nFees)  
+{  
+int64 nSubsidy = 50 * COIN;  
+  
+// Subsidy is cut in half every 4 years  
+nSubsidy >>= (nHeight / 210000);  
+  
+return nSubsidy + nFees;  
+}  
+
+  
+If you try to create more than GetBlockValue coins (50, right now) when you
+get lucky and generate a block, all the other clients will reject it.  
+  
+There are a bunch of other checks to prevent cheating (make sure you actually
+did the work to find a valid hash for the block, make sure all the
+transactions in the block are valid, etc), but that simple little piece of
+code is what restricts the supply.  
+

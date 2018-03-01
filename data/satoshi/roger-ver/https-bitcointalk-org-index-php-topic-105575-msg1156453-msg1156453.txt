@@ -1,0 +1,14 @@
+
+
+To activate the full wallet feature:  
+1\. Setup or access a wallet on blockchain.info/wallet from your computer.  
+2\. Connect your iPhone to the internet via the same IP address that you
+accessed the wallet on your computer from.  
+3\. Install the block chain app.  
+4\. The app will have full wallet functionality. Create a new account, or pair
+it with an existing one.  
+  
+  
+If you don't follow the steps above, it will only allow you to view bitcoin
+transactions.
+

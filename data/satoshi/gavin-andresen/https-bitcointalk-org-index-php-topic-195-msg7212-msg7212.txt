@@ -1,0 +1,28 @@
+
+
+Quote from: bytemaster on August 03, 2010, 03:12:01 AM
+
+I would like to enable users to create other custom assets. The asset would
+have a globally unique hash and could ben sent / recved to addresses. For
+example, a company could issue "shares" that could then be exchanged and
+verified by bitcoin. A game engine could issue its own type of currency and
+have it tracked.  
+  
+Is anything like this even remotely possible with scripts or would that
+require a breaking change? Is it even possible to 'upgrade' the network to
+support such an option at this point?  
+
+I don't think you need scripts to do something like that.  
+  
+Just send a bitcoin to yourself, and then declare that transaction is the
+"root transaction for My Valuable Asset."  
+  
+You'd need a custom client that only accepted or spent transactions that could
+be entirely traced back to that Root Transaction (not hard, all transactions
+can be tracked back). And shows fractions of that coin as units of your custom
+currency. And you'd probably want to make some other changes so your users
+didn't accidently (or purposely) mix Your Valuable Asset coin with regular
+bitcoins (like a custom wallet and different scheme for generating payment
+addresses).  
+  
+

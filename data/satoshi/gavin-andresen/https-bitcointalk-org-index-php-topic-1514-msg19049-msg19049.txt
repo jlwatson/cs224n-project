@@ -1,0 +1,18 @@
+
+
+I wonder if we have already passed the point where a user-typed-in-arbitrary-
+key can be both secure from brute-force attacks and convenient to use.  
+  
+If you make the key long enough to prevent brute-force try-every-possible-key
+attacks then typing it in gets really painful.  
+  
+You can add proof-of-work, but attackers tend to have lots of CPU power (think
+botnets) and lots of time, and if you make the proof-of-work take more than a
+few seconds per attempt on a low-CPU device it gets really painful again.  
+  
+I'm thinking some variation of wallet-on-a-USB-stick might be a more
+convenient and practical way of physically exchanging bitcoins.  
+  
+I wonder if Ebay would let you sell USB sticks pre-loaded with Bitcoin, a
+snapshot of the block chain, and a "starter wallet" with X bitcoins in it...  
+

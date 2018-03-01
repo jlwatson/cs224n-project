@@ -1,0 +1,19 @@
+
+
+Cloning your wallet to do anything besides backing it up is a bad idea.  
+  
+It might work perfectly for a while... but you are very likely to get weird
+behavior from bitcoin sooner or later, because doing that is not tested or
+supported.  
+  
+Where 'weird behavior' is one clone of the wallet shows one balance, the other
+clone shows another, and you might end up with bitcoins that you can spend
+from one wallet but not the other (or, worst case, end up with bitcoins that
+neither wallet is able to spend).  
+  
+If you REALLY REALLY REALLY want to do this... then get the latest code from
+git, pull sipa's 'Spent per txout' patch, and then spend a bunch of time
+testing to find out what happens when your cloned wallets eventually start
+using different keys from the keypool.  
+  
+

@@ -1,0 +1,35 @@
+
+
+This problem may have to do with the wallet password length.  
+I created a brand new wallet with a 102 Character password.  
+When I tried to pair my phone with the brand new wallet, I received the same
+error.  
+I then shortened the password to 30 characters and the phone was successfully
+able to pair with the wallet.  
+  
+I then shortened the password for my original blockchain wallet to 30
+characters, but the phone will still not sync.  
+  
+(My passwords contain upper and lower case letters, numbers, special
+characters and white spaces)  
+  
+I would prefer not to need to start a new wallet so I can keep my address book
+and account history.  
+  
+  
+\--------------------------------------------------------  
+I've discovered another bug.  
+When updating the main wallet password in google chrome, it says that the
+password change succeeded and logs me out of the wallet.  
+When I try to login with the new password, it fails.  
+I can still login with the original password one time.  
+If I log out, and try to login with the original password again, it fails, but
+I can now login with the new password.  
+  
+  
+\-------------------------UPDATE----------------------------  
+  
+I updated my password to a shorter one with upper and lower case letters and
+numbers, now the iphone wallet successfully pairs with the wallet, so the
+issue seems to clearly be related to the wallet password.
+

@@ -1,0 +1,11 @@
+
+
+Quote from: jgarzik on December 12, 2010, 09:38:00 PM
+
+You don't want to generate a new address for each web page hit. That's a lot
+of useless addresses stored in your wallet.  
+
+Change "getnewaddress(label)" to "getaccountaddress(label)" and you'll get the
+same address over and over, until somebody donates. Then you'll get a
+different one.  
+

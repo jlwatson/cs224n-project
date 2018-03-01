@@ -1,0 +1,11 @@
+
+
+Has anybody tried generating bitcoins on Amazon EC2 instances? If you have,
+how many coins/day are you getting (and on what type of instance) ?  
+  
+If nobody has already, I might do some experimenting and get some back-of-the-
+envelope estimates for $/bitcoin using Amazon EC2 spot instances.  
+  
+(I've had zero luck generating any coins over the last week on my couple-year-
+old Macbook Pro, which only does 150-200K hashes per second)  
+

@@ -1,0 +1,16 @@
+
+
+Is there a lot of demand for timestamping? Are people willing to pay for it?  
+  
+There are already free, centralized services that will timestamp arbitrary
+hashes for you. Besides the risk that they might go away (which you could
+mitigate by getting timstamps from several of them), is there any real
+advantage to using the blockchain?  
+  
+If I can already get timestamps for free, why would I bother to pay a
+transaction fee to get a blockchain timestamp?  
+  
+I'm often wrong, so feel free to ignore me, but blockchain timestamping seems
+to me like one of those gee-whiz ideas that appeals to us techies but isn't
+"enough better" than existing solutions to be interesting to non-techies.  
+

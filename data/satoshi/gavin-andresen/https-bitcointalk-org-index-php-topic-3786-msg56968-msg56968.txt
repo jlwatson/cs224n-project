@@ -1,0 +1,10 @@
+
+
+It was LC_NUMERIC, I bet... (I'd just set LANG and unset the rest and assumed
+they'd all get picked up; internationalizing C++ applications is something I
+know very little about).  
+  
+I modified the patch to format numbers the way they were formatted before:
+always , for the thousands separator, and . for the decimal point (instead of
+letting sprintf try to do the right thing).  
+

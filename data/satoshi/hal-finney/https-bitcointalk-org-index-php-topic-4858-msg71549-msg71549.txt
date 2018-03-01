@@ -1,0 +1,14 @@
+
+
+Adding a check for a sufficiently low probability event means that the
+overwhelming majority of the time, the CPU or memory glitched, and it is a
+false alarm.  
+  
+Adding checks for address hash collisions with existing addresses would not
+protect you against the creation of an address in the future whose hash
+collides with yours.  
+  
+If you ever did generate an address whose hash collided with an existing
+address, you could steal any bitcoins held by that address. So you might not
+want to throw this windfall away.
+

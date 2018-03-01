@@ -1,0 +1,7 @@
+
+
+Maybe we should fix this duplicate-transaction problem. We could embed the
+block number in the generation transaction so they would all be unique. Right
+now the txin has hash = all zeroes, n = UINT_MAX. We could change to n = block
+number and still identify it as coinbase by the zero hash.
+

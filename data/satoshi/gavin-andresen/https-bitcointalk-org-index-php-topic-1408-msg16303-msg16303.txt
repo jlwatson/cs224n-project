@@ -1,0 +1,8 @@
+
+
+The only think I can think of is that the php fopen() call is timing out. Are
+you trying to generate coins? Does it get better if you stop generating?  
+  
+Are you using PHP5 ? If you are, try creating a stream_context with a longer
+timeout (see http://www.php.net/manual/en/context.http.php ).  
+

@@ -1,0 +1,9 @@
+
+
+Well, I can always pay you to work on my block, just like I can pay you to
+work on my car. So it can certainly be arranged, outside the Bitcoin protocol.  
+  
+I'm not sure I've seen a convincing analysis of the optimal strategy for
+miners in the era of no block creation fees, even ignoring these kinds of side
+payments.
+

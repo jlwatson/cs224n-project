@@ -1,0 +1,16 @@
+
+
+We know that Bitcoin's resistance to attack is based on the cost for the
+attacker to overwhelm the network, or at least to control a large fraction of
+its computing power. We assume this cost will continue to rise in the future
+so attacks will be infeasible even for well-funded attackers.  
+  
+But the computational power of the network is proportional to difficulty; and
+it appears that difficulty is proportional to bitcoin price. It follows that
+unless bitcoins become substantially more valuable than they are today, the
+Bitcoin network will never be substantially more resistant to attack than it
+is today.  
+  
+For Bitcoin to succeed and become secure, bitcoins must become vastly more
+expensive.
+

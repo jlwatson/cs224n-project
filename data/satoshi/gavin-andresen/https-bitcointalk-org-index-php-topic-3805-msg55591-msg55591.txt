@@ -1,0 +1,17 @@
+
+
+RE: trading private keys with somebody: theoretically you could, but that's
+not typical bitcoin usage and the current bitcoin client makes it hard to do.  
+  
+Practically speaking, if Bitcoin did have a feature to state:  
+"On THIS date somebody using the identifier <foo@bar.com> controlled THIS
+public/private keypair"  
+  
+... that would just inspire the smarter bad guys to send stolen coins to new
+private keys before spending them.  
+  
+I can imagine a black market forming where dumber bad guys sell stolen
+wallet.dat files (at a discount) to smarter bad guys (or just plain greedy
+people who don't bother to ask where the wallet came from), who mix up the
+coins in them and then sell them.  
+

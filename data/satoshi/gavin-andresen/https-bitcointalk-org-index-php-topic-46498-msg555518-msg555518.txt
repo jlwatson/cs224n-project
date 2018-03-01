@@ -1,0 +1,25 @@
+
+
+Quote from: ArtForz on October 03, 2011, 06:42:23 AM
+
+Nope, bitcoin still has the off-by-1, as for now it's deemed "too big to fail"
+and fixing it would mean a backwards-incompatible change to the blockchain.  
+
+  
+First: sorry for conflating the off-by-1 and the asymmetric adjustment issues.
+As I said, I haven't taken the time to consider changing the bitcoin
+difficulty adjustment algorithm (too big a change for too little benefit, in
+my opinion; if we lose 90% of hashing power in a month then there that is a
+sign something much more serious is wrong with bitcoin than the difficulty
+algorithm; speculation on what will happen when the block reward drops seems
+pointless to me, I don't think we'll know until it happens).  
+  
+Second: I've written 'discourage blocks' infrastructure:  
+https://github.com/gavinandresen/bitcoin-git/tree/discourageblocks  
+(code reviews welcome)  
+  
+... which should give us the ability to nudge miners to Do The Right Thing.
+Discouraging blocks that appear to be gaming the off-by-one bug should be
+enough incentive to prevent 50+% cartels from forming, without requiring a
+blockchain-splitting change.
+

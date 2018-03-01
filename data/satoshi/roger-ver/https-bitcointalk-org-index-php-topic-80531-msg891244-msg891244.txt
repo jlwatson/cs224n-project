@@ -1,0 +1,39 @@
+
+
+Yesterday Yifu Guo (bitsyn.com) and I visited a company that produces Android
+tablets.  
+We went with the intention of buying tablets, but when they asked how we
+wanted to use them, it all started.  
+  
+It became an intense meeting of nearly 5 hours.  
+Nearly 75% of that time was spent discussing Bitcoins.  
+The managing director and other members of the meeting were very enthusiastic
+and seemed to get the big picture.  
+At one point, he commented that "Bitcoin is a pandora's box."  
+  
+The company is very interested in preloading ALL OF THEIR TABLETS with Bitcoin
+relay node software, AND a Bitcoin wallet software.  
+They will then begin marketing their tablets as having this additional
+"Bitcoin feature" that their competitors don't.  
+They will market it along the lines that you can buy a tablet and become your
+own bank, etc.  
+  
+This company ships about 150,000 Android devices per month.  
+That is close to TWO MILLION tablets per year.  
+  
+I think this is another huge opportunity, and giant step forward for Bitcoin.  
+I would suspect that with an extra 2M devices that have the Bitcoin relay node
+software always running in the background,  
+and that randomly connect to the internet from various IPs as their users use
+them, the Bitcoin network would become impossible to block.  
+  
+Can someone with more technical knowledge chime in on the benefits of this
+many extra nodes?  
+  
+In order for this to happen, the Bitcoin community will need to be ready to
+help with the development of all the required software to do this.  
+  
+Items required from us:  
+1) Super reliable Android Bitcion node relay software.  
+2) Super reliable Android Chinese Bitcoin wallet software.  
+

@@ -1,0 +1,24 @@
+
+
+I've been thinking a lot and trying to educate myself on best practices for
+securing the bitcoin wallet.  
+  
+Part of the solution could be a smart card that supports ECDSA; the PKCS #11
+standard supports elliptic key crypto, so it is feasible to have a hardware
+token that stores your private keys and never lets them out of the token.  
+  
+If the token includes some type of biometric identification (e.g. built-in
+fingerprint reader or mechanism for entering a password) then there is no way
+for the trojan to spoof new transactions.  
+  
+But [mike] is right-- if your computer is infected by a trojan the trojan can
+just rewrite the bitcoin address and amount before the software asks the
+hardware token to sign the payment transaction. The only way to prevent that
+is if the hardware token can somehow display the transaction details
+independent of the infected computer. That's one very sophisticated hardware
+token...  
+  
+Hopefully Hal and bitcoinex will now tell us how all this was solved years ago
+and how an iPhone app synchronized with a dumb-ish smart card can use smart
+crypto to make it all work....  
+

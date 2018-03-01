@@ -1,0 +1,42 @@
+
+
+Here's my motivation for /P2SH/ or something like it:  
+  
+I want to stop playing whack-a-mole with wallet stealing viruses and trojans,
+and I think requiring more than one private key to sign away your bitcoins is
+the critical feature needed to do that. Keep one set of keys on your computer,
+another set of keys on your cell phone, teach each to talk to the other before
+sending out bitcoins and you're safe (as long as a virus or trojan doesn't
+infect BOTH your cell phone and your computer at the same time).  
+  
+The bitcoin protocol already supports that, but the bitcoin _network_ , the
+bitcoin _software_ , and the bitcoin _addresses_ that we're all using now
+don't support multisignature transactions.  
+  
+OP_EVAL and /P2SH/ and Luke's OP_CODEHASHCHECK are all slightly different ways
+of implementing multisignature transactions that are as short as the bitcoin
+addresses we're using today.  
+  
+  
+RE: the timeframe:  
+  
+I'm pushing this hard because I'm tired of hearing that users lost their
+bitcoins to trojans and viruses, and getting there is a multi-step process
+that will take a lot longer than I'd like:  
+  
+1\. First a majority of miners have to validate, accept and mine the new
+transaction types. (that's the Feb 15 date)  
+2\. Second we have to convince enough people to upgrade so that they are
+relayed around the network and not dropped  
+3\. Finally, we can release software with wallets that use the new feature.  
+  
+I'm losing patience because this process started in October, over three months
+ago, and certain people seem determined to do whatever they can to derail it--
+if I was more conspiracy-theory-minded I would think somebody was purposely
+trying to keep bitcoin less secure than it can be. roconnor brought up
+legitimate complaints with OP_EVAL that were discussed and addressed with
+/P2SH/, but I can't respond to every half-baked scheme that is supposedly
+"better" or I will spend all of my time explaining why something like
+CODEHASHCHECK is a bad idea and have no time left over to making Bitcoin
+better.  
+

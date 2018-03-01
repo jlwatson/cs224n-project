@@ -1,0 +1,161 @@
+
+
+Based on the below conversation with Patrick Strateman / Phantomcircut, I'm
+happy to do whatever everyone thinks is best.  
+I think it is clear that Patrick can't be trusted to do what he says though.  
+  
+[10/1/13 3:14:55 AM] Patrick Strateman: Hello roger  
+[10/1/13 3:15:03 AM] Patrick Strateman: I have a simple question for you  
+[10/1/13 3:15:10 AM] Patrick Strateman: are you in the us or japan at the
+moment?  
+[10/1/13 3:19:47 AM] Patrick Strateman: It would be a very good idea to answer
+this simple question  
+[10/1/13 3:20:15 AM] Patrick Strateman: if i do not receive an answer within
+24 hours i will have no choice but to take action  
+[10/1/13 3:20:58 AM] Roger Ver: What are you implying?  
+[10/1/13 3:23:04 AM] Roger Ver: Why have you been promsing to turn over the
+passwords to the liquidators, but never actually fufilling your promise?  
+[10/1/13 3:24:45 AM] Patrick Strateman: I was, at a point, prepared to turn
+over the passwords to Mr McCullagh. However his statements regarding the
+specifics of how he wishes to receive the information left me with extreme
+reservations  
+[10/1/13 3:25:25 AM] Roger Ver: Can you tell me the details of what caused the
+reservations?  
+[10/1/13 3:25:47 AM] Patrick Strateman: He asked to receive them over email
+with no security precautions taken.  
+[10/1/13 3:26:02 AM] Patrick Strateman: I would have been remiss in providing
+them in such a manner  
+[10/1/13 3:26:22 AM] Patrick Strateman: For reasons which I assume are obvious  
+[10/1/13 3:26:32 AM] Roger Ver: I think I agree. If he provides you with a PGP
+key, you are still willing to send him the passwords?  
+[10/1/13 3:28:08 AM] Patrick Strateman: His attitude towards the passwords in
+question has made the handover -- even under otherwise secure conditions--
+questionable.  
+[10/1/13 3:28:33 AM] Patrick Strateman: I remain only interested in a
+resolution to the current situation to the benefit of all parties.  
+[10/1/13 3:30:09 AM] Roger Ver: At the end of the day, I don't think it is
+your problem if the liquidator screws up with password security, and Mark at
+MTGOX has told me that the accounts are locked down, so even if someone does
+present the passwords, it will take Mark's manual approval to release any
+funds. So even sending the passwords via a plane text email would still likely
+be secure enough.  
+[10/1/13 3:30:47 AM] Roger Ver: If you have other ideas, I am happy to hear
+them.  
+[10/1/13 3:34:47 AM] Patrick Strateman: Mr McCullagh made a remarkably similar
+statment as to the transfer of passwords.  
+[10/1/13 3:35:33 AM] Patrick Strateman: His suggestion that the use of
+"dropbox" is acceptable or reasonable or in the best interest of creditors is
+however entirely contradictory to the general sentiment.  
+[10/1/13 3:35:54 AM] Patrick Strateman: (If you're wonding yes he actually
+suggested that the credentials be relayed via DropBox(tm))  
+[10/1/13 3:36:44 AM] Patrick Strateman: At this point I cannot within reason
+produce credentials to a NZ liquidator whom I have serisous misgivings about
+while being sued under US law.  
+[10/1/13 3:36:59 AM] Patrick Strateman: I once again assume you can understand
+the dilema I face.  
+[10/1/13 3:38:00 AM] Roger Ver: If I were in your shoes, I would send him the
+passwords by whatever insecure method he wants, and be done with it. I've
+already told you we will drop the law suit as soon as you turn over the
+passwords to the liquidator.  
+[10/1/13 3:38:23 AM] Roger Ver: If you refuse, it just wastes more time and
+money for everyone involved.  
+[10/1/13 3:39:04 AM] Patrick Strateman: But can you force jesse powell to
+comply with those terms? You yourself implied that this was entirely his
+doing.  
+[10/1/13 3:39:35 AM] Patrick Strateman: excuse me there is a typo let me fix
+that  
+[10/1/13 3:40:22 AM] Roger Ver: I'm 99% sure the other parties will agree to
+drop the lawsuit as well once you turn over the passwords. They told me
+previously that is all they want as well.  
+[10/1/13 3:41:22 AM] Roger Ver: You could also Fedex the liqudator a USB drive
+with the passwords in a truecrypt container, and then email him the password
+after he confirms reciept. That would be a bit more secure than email alone.  
+[10/1/13 3:41:43 AM] Patrick Strateman: Unfortunately for both you and me I
+have serious misgivings about mr powells statements given that he has now
+employed council who knowingly is committing perjury.  
+[10/1/13 3:42:02 AM] Roger Ver: Can you explain what you mean by that?  
+[10/1/13 3:42:26 AM] Patrick Strateman: Every case management statement has
+denied that Bitcoinica LP is in bankruptcy  
+[10/1/13 3:42:47 AM] Patrick Strateman: those statements are not only false
+but hilariously provably false  
+[10/1/13 3:42:59 AM] Patrick Strateman: I wish to seek a resolution  
+[10/1/13 3:43:06 AM] Patrick Strateman: but this is not the way towards that  
+[10/1/13 3:43:29 AM] Patrick Strateman: I would be open and willing to a
+settlement conference between yourself and tihan  
+[10/1/13 3:43:35 AM] Patrick Strateman: jesse need not attend  
+[10/1/13 3:44:06 AM] Patrick Strateman: i cannot speak for tihan so i do not
+know if he would be willing  
+[10/1/13 3:44:08 AM] Roger Ver: I'm not a lawyer, so I don't have a legal
+opinion in regards to that, but I am sure the lawyer is not intentionaly
+commiting purgery and risking his law licence over this case.  
+[10/1/13 3:44:42 AM] Roger Ver: I think the settlement offer hasn't changed.
+Just turn over the passwords to the liquidator, and the lawsuit will be
+dropped.  
+[10/1/13 3:45:35 AM] Roger Ver: If you would like, I can check with the rest
+of the creditors and see if there is some other settlement they would like to
+see happen. Ultimately, only a portion of the funds belongs to me, so input
+should be in proportion to the amount owed.  
+[10/1/13 3:47:19 AM] Roger Ver: By not turning over the passwords to the
+liquidator, you have substantially run up the liquidation bill. That will
+directly result in the creditors receiving less money back.  
+[10/1/13 3:47:42 AM] Patrick Strateman: Mr McCullagh took no action for over 6
+months.  
+[10/1/13 3:47:50 AM] Roger Ver: I think everyone involved just wants to get
+their share of the money back, and have the entire mess be over.  
+[10/1/13 3:48:00 AM] Patrick Strateman: the work was deligated to a non-
+partner who took minimal actions  
+[10/1/13 3:48:18 AM] Roger Ver: The liquidators have been asking for you to
+turn over the passwords for 6 months.  
+[10/1/13 3:48:24 AM] Patrick Strateman: My requirements of Mr McCullagh were
+reasonable and necessary  
+[10/1/13 3:48:27 AM] Roger Ver: Without the passwords, there isn't anything
+they can do.  
+[10/1/13 3:48:43 AM] Patrick Strateman: only within the last few weeks has he
+come even close to meeting those requirements  
+[10/1/13 3:48:45 AM] Roger Ver: If he provides you with a PGP key, will you
+send him the passwords?  
+[10/1/13 3:49:46 AM] Patrick Strateman: To say that the liquidators have been
+asking for the passwords for over 6 months is to be exceptionally
+disingenuous.  
+[10/1/13 3:49:57 AM] Roger Ver: Please explain.  
+[10/1/13 3:49:58 AM] Patrick Strateman: The accounts in question are held by
+third parties.  
+[10/1/13 3:50:07 AM] Patrick Strateman: Mr McCullagh was told this  
+[10/1/13 3:50:23 AM] Patrick Strateman: he did absolutely nothing to secure
+the companies assets  
+[10/1/13 3:50:36 AM] Patrick Strateman: let me say that again so im entirely
+sure you understand  
+[10/1/13 3:51:03 AM] Patrick Strateman: mr mccullagh the liquidator of
+bitcoinica lp took no action for over a 8 months to secure the assets of the
+company in liquidation  
+[10/1/13 3:51:11 AM] Patrick Strateman: none  
+[10/1/13 3:51:32 AM] Roger Ver: What do you mean by "secure the assets"?  
+[10/1/13 3:51:44 AM] Patrick Strateman: only now that the approximately 80,000
+USD in assets held by Core Credit LTD has been exhausted is he taking action  
+[10/1/13 3:52:41 AM] Roger Ver: Should I be thanking you for that?  
+[10/1/13 3:53:17 AM] Roger Ver: Please list the specific things you want in
+order to turn over the passwords to the liquidator.  
+[10/1/13 3:54:48 AM] Patrick Strateman: Mr McCullagh's actions have harmed me
+more so than you or any of the other creditors  
+[10/1/13 3:55:15 AM] Patrick Strateman: I think we can both agree that I
+personally have the most to lose by the liquidation failing to come to
+completion.  
+[10/1/13 3:56:06 AM] Roger Ver: I dissagree. The liqudiators spending money
+because of your delays hurts me, and the rest of the creditors who have to pay
+for it. It doesn't cost you anything. Please list the specific things you want
+in order to turn over the passwords to the liquidator.  
+[10/1/13 3:57:03 AM] Patrick Strateman: excuse me i have urgent business to
+attend to I will return as soon as reasonably possible  
+[10/1/13 3:59:40 AM] Patrick Strateman: As I am sure you're aware the cost of
+procedings in the US far exceeds liquidators fees as yet.  
+[10/1/13 4:01:14 AM] Roger Ver: When you are ready, please list the specific
+things you want in order to turn over the passwords to the liquidator.  
+[10/1/13 4:02:23 AM] Patrick Strateman: As I said previously I am willing to
+enter into settlement negotiations with yourself and Tihan.  
+[10/1/13 4:02:49 AM] Roger Ver: Tihan and I get along great, I am happy to
+talk with him any time.  
+[10/1/13 4:03:24 AM] Roger Ver: I'm going to relay this chat to the rest of
+the creditors to see what they want as well. I hope you will chose to list
+what specific things you want in order to turn over the passwords to the
+liquidator.
+

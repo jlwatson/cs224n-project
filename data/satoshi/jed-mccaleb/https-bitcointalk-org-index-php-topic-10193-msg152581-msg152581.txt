@@ -1,0 +1,9 @@
+
+
+creighto: Even if you are correct that there is some hidden pool of mining
+waiting to be put online it doesn't change my original point that bitcoin as
+it is now depends on everyone trusting a few random people. We are implicitly
+trusting a couple large miners and a couple pools and your secret hasher.  
+My argument is that we might as well make this trust explicit. It will be much
+more efficient, and way more secure.
+

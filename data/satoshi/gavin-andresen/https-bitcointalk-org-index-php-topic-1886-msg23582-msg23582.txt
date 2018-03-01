@@ -1,0 +1,8 @@
+
+
+The send methods don't try to be clever; they always broadcast transactions.  
+  
+If you want that behavior, be clever yourself: call getaccount
+<bitcoinaddress> before calling send, and then call move instead of send* if
+you find out the bitcoinaddress is one of yours.  
+

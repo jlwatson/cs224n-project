@@ -1,0 +1,6 @@
+
+
+Thanks for the help sanity testing, I've repackaged the rc6 bits as version
+0.6.0.  
+  
+

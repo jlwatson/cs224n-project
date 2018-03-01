@@ -1,0 +1,6 @@
+
+
+Looks ok to me, assuming $account and $address are strings and $amount is a
+number.  
+  
+

@@ -1,0 +1,54 @@
+
+
+I thought I'd explain a little more why I think most conservatives might have
+a negative reaction to bitcoin, why libertarians love it, and why I think
+liberals might be convinced to love it.  
+  
+I'm starting from Jonathan Haidt's Moral Foundation Theory, which says that we
+all have five basic universal moral foundations:  
+
+  * Harm/care
+  * Fairness/reciprocity
+  * Ingroup/loyalty
+  * Authority/respect
+  * Purity/sanctity
+
+Different cultures and people of different political or religious viewpoints
+feel more strongly about some of these than others. Conservatives score pretty
+highly on all five; liberals score very high on the first two. Libertarians...
+are complicated. More like conservatives when it comes to money, more like
+liberals when it comes to social issues.  
+  
+So: how do I think people will react to bitcoin for each of the five moral
+foundations?  
+  
+Harm/care: if Bitcoin gets a reputation for 'that online currency that the
+criminals and drug dealers use' then that's bad.  
+  
+Fairness/reciprocity: if Bitcoin is seen as 'that online currency that made a
+bunch of early adopter geeks obscenely wealthy' then that's bad.  
+  
+Ingroup/loyalty: I think conservatives might feel like bitcoin is an affront
+to Their National Currency (whatever currency that happens to be).  
+  
+Authority/respect: Conservatives probably won't like a rag-tag band of open
+source rebels trying to overthrow The Authorities. I'm not happy about the
+tone of the recent Forbes article, for example.  
+  
+Purity/sanctity: Assuming we can get past the Harm/care problems, I actually
+think bitcoin could be positioned as the purest form of online money.  
+  
+Moral Foundations Theory strikes me as probably right (and it's backed by
+pretty solid research, it is not just philosophical musings). I've been
+thinking about how to "frame" bitcoin to appeal to people on a moral/emotional
+level. Random thoughts:  
+  
+Fairness/reciprocity: if you're an early adopter geek, start circulating your
+coins-- send them to MyBitcoin or MtGox and then back to yourself if you want
+to keep them, but make it hard to tell if there ARE any early adopter geeks
+holding lots of coins. And if you're talking about bitcoin, compare it to the
+fairness of the current system, where bankers are allowed to create (and
+profit from) creation of money.  
+  
+What do y'all think?  
+

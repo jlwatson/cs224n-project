@@ -1,0 +1,12 @@
+
+
+Easiest way would be to put it in the bitcoin.conf file.  
+  
+Create $HOME/Library/Application Support/Bitcoin/bitcoin.conf and put:  
+  
+connect=IP ADDRESS  
+  
+... in it. Any of the command-line options (except -datadir and -conf) can be
+put in the bitcoin.conf file.  
+  
+

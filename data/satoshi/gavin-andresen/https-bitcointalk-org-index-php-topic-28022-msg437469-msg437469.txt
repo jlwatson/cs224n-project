@@ -1,0 +1,10 @@
+
+
+Two pull requests seem appropriate: one for the generic issues (talk with
+TheBlueMatt about the upnp #define, I believe it is working as designed), and
+one for DragonFly-specific stuff.  
+  
+Frankly, DragonFlyBSD-specific stuff is unlikely to get pulled; there just
+aren't enough DragonFly-BSD systems to justify the work of maintaining support
+for it (according to bsdstats.org it isn't a very popular BSD variant).
+

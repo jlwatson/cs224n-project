@@ -1,0 +1,11 @@
+
+
+Quote from: arklan on October 13, 2012, 12:23:37 AM
+
+i need a URI to try clicking. where can i find one?  
+
+I slapped one up you can try: http://skypaint.com/bitcoin/fauceturi.html  
+  
+I think typing bitcoin:1.....?label=... etc into the browser address bar
+should work for testing, too.  
+

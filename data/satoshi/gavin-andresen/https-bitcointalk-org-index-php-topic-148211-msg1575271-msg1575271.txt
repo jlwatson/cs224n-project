@@ -1,0 +1,13 @@
+
+
+The default block-filling algorithm that most miners are running is:  
+  
+\+ Fill up part of the block with the highest transactions, regardless of fees  
+\+ Then fill up the rest of the block with as many fee-paying transactions as
+possible, highest fee-per-kilobyte first.  
+  
+... so flooding the network with high-fee transactions won't "stall Bitcoin."
+Well, except for people playing SatoshiDice or doing something else that
+results in lots of low-priority fee-paying transactions (and even there, they
+could always opt to pay a little more in transaction fees).  
+

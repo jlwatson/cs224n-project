@@ -1,0 +1,34 @@
+
+
+Quote from: Mike Hearn on August 25, 2012, 04:24:32 PM
+
+Redefining NOPs means that merchants who don't upgrade get effectively
+downgraded to SPV level security (trust the chain strength) rather than full
+verification because I could send them a transaction that spends anyone elses
+money and they'd accept it. Or is that wrong?  
+
+That's wrong; you wouldn't be able to send a new-style transaction to a
+merchant unless they'd already upgraded and were publishing new-style
+addresses.  
+  
+... which would actually just be BIP16 addresses, with the redemption script
+being something like <ed25519_pubkey> OP_NOP1  
+(I'm wrong about needing a new bitcoin address type).  
+  
+Obviously merchants wouldn't start doing that until a majority of miners were
+interpreting OP_NOP1 as OP_ED25519_VERIFY.  
+  
+
+Quote
+
+Quote
+
+I don't think now is the right time to do any of that, mostly because I
+wouldn't be surprised if some solution for instant "off the chain" payments is
+adopted instead, in which case perhaps sep256k1 transaction cost will be
+negligible.  
+
+What would such a solution look like?  
+
+http://gavintech.blogspot.com/2012/07/off-chain-transactions.html  
+

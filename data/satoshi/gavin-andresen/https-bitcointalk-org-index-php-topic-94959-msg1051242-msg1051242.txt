@@ -1,0 +1,18 @@
+
+
+Quote from: apetersson on July 24, 2012, 07:01:32 PM
+
+i am currently also develping BIP11 support for BitcoinJ as a followup from
+the Berlin Hackathon:  
+  
+http://code.google.com/r/andreaspeterssonat-hackathon/source/checkout  
+  
+Gavin, are you referring to BIP16 with this text?  
+
+  
+Yes-- bitcoind creates BIP16 multisig transactions (using BIP13 addresses).
+Because a BIP16 transaction doesn't reveal public keys until the first spend,
+if an attacker has only one of the public keys (and the multisig address has
+been funded but never spent) they won't be able to figure out that the key is
+helping to protect a large multisig-protected balance.  
+

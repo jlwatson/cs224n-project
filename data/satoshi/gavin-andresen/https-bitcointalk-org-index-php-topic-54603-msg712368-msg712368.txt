@@ -1,0 +1,20 @@
+
+
+Quote from: Stardust on January 25, 2012, 11:35:58 AM
+
+I was really looking forward to the import feature in bitcoind (don't care
+about sweep). Too bad the developers decided to be nanny for us.  
+
+  
+Huh? GIT HEAD bitcoind supports import private key functionality:  
+
+Code:
+
+importprivkey <bitcoinprivkey> {label}
+
+  
+Whether or not that's ever supported by the GUI is a different issue, and
+there I think we SHOULD be more concerned about people using the GUI shooting
+themselves in their feet.  
+  
+

@@ -1,0 +1,23 @@
+
+
+So, one thought:  
+  
+Instead of "staging" all of the dependencies and then modifying the
+makefile/.pro to look for the dependencies in six different places, it would
+be cleaner to configure with --prefix=<somewhere> and then 'make install' to
+put all the dependency libraries/include files in one spot. Ideally, none of
+the makefiles/.pro files would contain specific version numbers for anything.  
+  
+Specific notes as I worked through doing that on a Windows system, putting
+dependencies in C:\deps :  
+  
+Openssl: /bin/perl Configure --prefix=/c/deps mingw ...etc  
+  
+BDB: ../dist/configure --prefix=/c/deps ...etc  
+  
+Boost: b2.exe --layout=system --prefix=C:\deps link=static threading=multi
+runtime-link=static toolset=gcc ...etc  
+  
+Qt: configure.exe -prefix=C:\deps -I "C:\deps\include" -L "C:\deps\lib" ...etc  
+  
+

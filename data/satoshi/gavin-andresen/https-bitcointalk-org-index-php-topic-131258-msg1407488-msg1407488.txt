@@ -1,0 +1,15 @@
+
+
+Standard disclaimer first: I am often wrong.  
+  
+But I've got a nagging feeling that all of the pure Proof-Of-X (where X !=
+Work) systems would set up a dynamic of "the rich and powerful get more rich
+and more powerful."  
+  
+The more coins you have, the more you get, as far as I can see in all of the
+proposed schemes (another disclaimer: I only vaguely pay attention to all of
+the Proof-of-X schemes, so feel free to tell me how I'm wrong). Seems to me
+that would end up being a destructive feedback loop, where your decentralized
+currency naturally gets more and more centralized over time.  
+  
+

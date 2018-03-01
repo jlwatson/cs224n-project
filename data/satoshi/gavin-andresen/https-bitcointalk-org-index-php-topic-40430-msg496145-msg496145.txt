@@ -1,0 +1,13 @@
+
+
+Quote from: mtbitcoin on August 31, 2011, 04:58:11 AM
+
+Are there any hard limits of to how far the daemon can scale or is this
+limited by the underlying hardware?  
+
+No hard limits, but the bitcoind "accounts" code hasn't been optimized for
+that. For example, computing an account's balance loops through all
+transactions in the wallet, so will take an increasing amount of time the more
+transactions you have in the wallet.  
+  
+

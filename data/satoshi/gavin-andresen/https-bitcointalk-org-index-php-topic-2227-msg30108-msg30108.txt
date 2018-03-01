@@ -1,0 +1,23 @@
+
+
+If you're simulating, be sure you're not overlooking the 'opportunity cost' of
+working on the next-valid-block when you're 'holding back' blocks.  
+  
+Example:  
+  
+Cartel finds block N. Instead of releasing it right away, Cartel holds it and
+starts working on block N+1 (trying to get a head start).  
+  
+Before Cartel finds block N+1, somebody else finds an alternate block N and
+announces it.  
+  
+IF Cartel loses the race to announce, then Cartel has wasted time looking for
+a block N+1 that will not be accepted.  
+  
+If they simply announce block N right away, they'll never waste time trying to
+find a block N+1 that has only a 50% chance of being accepted.  
+  
+Unless the Cartel can propagate their blocks across the network faster than
+the whole rest of the network, there is never an advantage to holding back
+blocks.  
+

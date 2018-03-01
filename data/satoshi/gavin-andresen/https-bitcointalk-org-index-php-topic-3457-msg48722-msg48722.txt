@@ -1,0 +1,22 @@
+
+
+Here's what happens when you press the Get Some button on the Faucet and it
+sends you coins:  
+  
+\+ A Google App Engine task is scheduled to actually do the send.  
+  
+\+ The send tasks are (currently) scheduled to run at most once per minute, so
+huge spikes in demand for coins from the faucet are smoothed out.  
+  
+The nice thing about App Engine tasks is that they're persistent little
+buggers-- they'll keep going until they succeed. If the send fails for some
+reason (I need to restart bitcoind for some reason, or the connection between
+the Google and my bitcoind server is down), App Engine will reschedule the
+task to try again after an hour.  
+  
+So, you were probably just very unlucky and the send failed twice in a row, OR
+you on the tail end of a couple hundred people all asking for coins at about
+the same time (the faucet will service a maximum of 120 requests in two
+hours).  
+  
+

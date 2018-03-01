@@ -1,0 +1,21 @@
+
+
+Quote from: phantomcircuit on August 09, 2011, 05:28:15 AM
+
+Getting insurance for bitcoin holdings is practically impossible, mostly due
+to the potential for massive swings in value.  
+
+  
+So factor out the swings in value by insuring in a more stable currency.  
+  
+Obtaining insurance for "up to £X worth of bitcoins per account" seems like it
+aught to be possible. If X is a small number, then that's a strong indication
+that people shouldn't be using Vibanko for secure storage of coins.  
+  
+If you can't find an insurance company that will cheaply sell you (say) £1,000
+of coverage for (say) 10,000 accounts then that is an indication that maybe
+you're riskier than you think. Can you afford to self-insure, and put up a
+£10,000,000 bond to cover potential losses? Or work backwards: how large a
+bond can you afford to put up? Divide that by the expected number of users and
+that's a good indication of how much wealth users should trust you with.
+

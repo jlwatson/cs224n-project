@@ -1,0 +1,43 @@
+
+
+Quote from: theymos on October 03, 2012, 03:32:27 PM
+
+Requiring a 50 BTC deposit (or whatever) would be another way to prevent Sybil
+attacks. Perhaps this could be an alternative to giving out your identity.  
+  
+Another possibility would be to have one of several third-parties verify your
+identity and give you an anonymous "voting token" using blind signing.  
+
+  
+50 BTC (or whatever) deposit, tied up for a minimum of a year (don't want
+somebody putting down 1,000 BTC deposits the day before a vote, voting 20
+times, then canceling their 20 sockpuppet memberships and getting their
+deposit back immediately) is an interesting idea.  
+  
+Call me paranoid, but I don't see many third parties who I would trust to not
+get hacked and to properly identify anonymous people. I don't see that third
+parties would have a strong incentive to do a good job at that. And delegating
+that piece of really core functionality feels like the wrong way to go to me.  
+  
+For the record: I think it would be great to come up with an easier way for
+people to remain anonymous but still be Foundation members. I say "easier"
+because I'd guess with enough effort you could use a (physical) mail
+forwarding service and an anonymous email service to sign up with a fake
+identity. I suppose the mail forwarding service is like an identity-checking
+service.  
+  
+RE: one vote per bitcoin: there seems to be some notion that Foundation member
+will be voting on things like "should a change to the core protocol be rolled
+out to support XYZ."  
+  
+Umm, no. Foundation members will be voting for (and lobbying) board members
+who will decide things like "should the bylaws be changed to allow anonymous
+memberships" or "how much Foundation budget should be dedicated to X and how
+much to Y." The number of bitcoins you own has nothing to do with those kinds
+of organizational decisions.  
+  
+Technical changes will happen as they have for the last couple of years-- get
+rough consensus in the developer community then convince miners and merchants
+and users to upgrade.  
+  
+

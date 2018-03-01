@@ -1,0 +1,21 @@
+
+
+I don't think it's happening here, but I had something similar happen when I
+paid myself.  
+  
+Suppose you have a wallet funded only with one 15.87 btc transaction, and you
+pay yourself (ie one of your wallet addresses) 10. Then you will have two
+funded addresses in your wallet, the 10 you paid, and one with 5.87 for
+change. Now suppose you pay someone else 10. You'd think it would just use the
+10 btc address as input. But it won't.  
+  
+The client will choose both the 10 and 5.87 addresses as input, and have two
+outputs, 10 btc to the address you are paying, and 5.87 back to you as change.
+The reason is the client's coin-choosing algorithm is transaction based. If
+you have transaction where both outputs go to you, as when you pay yourself,
+then if the client payscwith that transaction, it will always use both
+addresses.  
+  
+So this is a way you can get transactions like what you saw, with two inputs
+and two outputs, and values that match.
+

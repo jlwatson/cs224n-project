@@ -1,0 +1,16 @@
+
+
+Please add Pool.Bitcoin.com to the list of pools.  
+  
+  
+We are enabling Bitcoin Cash mining because we have sold millions of dollars
+worth of hash rate to our customers.  
+That hash rate belongs to them, not us. Since so many of them have asked to be
+able to mine Bitcoin Cash with their hash rate, we will let them do what they
+want with their own property. Bitcoin.com as an entity intends to follow
+through with the Segwit2X agreement.  
+Per our announcement, if the 2X part of that agreement does not come in time,
+we will be putting all of our efforts behind the chain that is most inline
+with the bitcoin outlined in the Satoshi White Paper. Currently that seems to
+be Bitcoin Cash, Bitcoin Unlimited, and Bitcoin Classic.  
+

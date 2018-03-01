@@ -1,0 +1,19 @@
+
+
+Quote from: uvt9 on November 17, 2014, 07:51:39 AM
+
+It seems Bitcoin community can't reach consensus on this issue, a lot of
+people against the proposal.  
+
+  
+There seem to be a few people who want some OTHER algorithm for increasing the
+block size, but I'm hearing very broad consensus that we do need a hard fork
+to increase the size.  
+  
+That is progress.  
+  
+I'll be running some experiments using actual blockchain data to see where the
+current code breaks; if it can already handle 20MB blocks then I'll work
+through the details to propose a hard fork (write BIPs, write code, write
+tests, ...).  
+

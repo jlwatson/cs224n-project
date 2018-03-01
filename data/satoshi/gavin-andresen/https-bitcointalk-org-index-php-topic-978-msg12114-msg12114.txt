@@ -1,0 +1,83 @@
+
+
+Bear with me, this is a brain dump to try to organize my thoughts on securing
+the client <\--> bitcoin JSON-RPC connection:  
+  
+First: **Preventing man-in-the-middle attacks** :  
+  
+HTTPS only prevents man-in-the-middle attacks if it is implemented properly by
+the client. Example attack scenario against a lazy client:  
+
+  * Client connects to "https://bitcoinservice.org:8332/"
+  * Attacker intercepts connection (e.g. via a DNS poisoning attack), and connects to the client using it's certificate.
+  * Client gets certificate and _doesn't bother to verify that the connection certificate is for bitcoinservice.org_. Completes SSL handshake.
+  * Client then continues conversation by sending JSON-RPC request containing unencrypted rpcuser/rpcpassword.
+  * Attacker now has rpcuser/rpcpassword and can mount a man-in-the-middle attack against the bitcoin server.
+
+  
+The "correct" way to prevent this is for clients to properly authenticate the
+server's certificate, but I don't think that's practical-- the default
+behavior for most url-opening libraries (used by the various JSON-RPC
+libraries) is to **NOT** validate server certificates. You have to write extra
+code to install certificate authorities and/or write callbacks to examine the
+certificate and determine whether or not it is the certificate you expect.  
+  
+I think a more practical way for the client to prevent a man-in-the-middle
+attack is for the client to hard-code the bitcoin server's IP address and
+avoid any DNS lookups-- connect to http://111.11.11.111:8332/ (if
+bitcoinservice.org is at IP 111.11.11.111). It is much, much harder to
+successfully IP spoof a TCP connection than it is to successfully poison a DNS
+cache.  
+  
+"Security in depth" is a good idea, and I've thought about layering other
+mechanisms for making the client->server connection secure, but I think we'd
+just be duplicating SSL functionality. For example, I can imagine encrypting
+the whole JSON-RPC request string with a pre-shared key known to the clients
+and the server, but that's just a lame version of the strong encryption you
+get from SSL if the client is properly validating server certificates. I think
+the security-in-depth will come from having the server authenticate clients,
+which brings me to:  
+  
+Second: **Authenticating clients** :  
+  
+The whole point of implementing HTTPS on the bitcoin JSON-RPC port is to allow
+connections from IP addresses other than 127.0.0.1. But the "security-in-
+depth" idea means we almost certainly don't want to allow just _anybody_ to
+connect and start sending bitcoins from our wallet. Even if an attacker
+manages to steal the rcpuser/rpcpassword, we'd like to prevent them from
+emptying out our wallet if they try to connect from an unauthorized machine
+(if they **can** connect from an authorized machine you're already screwed).  
+  
+Again, the "correct" way to authenticate clients is to do the public-key-
+infrastructure thing (... create a master bitcoin certificate you'll use as
+your certificate authority, then create public/private keys and certificates
+signed by that authority and require the clients and server to accept only
+connections properly signed with the right keys...). And I think bitcoin
+should definitely support validating client certificates (that's just a couple
+of lines of OpenSSL library calls).  
+  
+But again, I'm worried that some people deploying bitcoin either won't bother
+or will be using languages/libraries/systems that make it difficult or
+impossible to send a client certificate when connecting.  
+  
+Hard-coding the IP addresses of clients that are allowed to connect via HTTPS
+(maybe allowing wild-carding of IP ranges) is a much easier-to-setup, almost-
+as-secure, way to authenticate clients.  
+  
+So, to summarize my current thoughts on all this:  
+  
+ **Recommendation for clients will be to:**  
+
+  * Connect to the bitcoin JSON-RPC port via IP address and/or:
+  * Properly validate the bicoin server certificate
+
+  
+ **The bitcoin JSON-RPC-https server will require:**  
+
+  * Server private/public keys (generated using openssl, filename/path specified in bitcoin.conf file)
+  * IP addresses (or ranges) of clients that are allowed to connect in the bitcoin.conf file
+  * (optional)Certificate authority file used to validate clients (they must connect using a certificate signed by that authority)
+
+  
+What do y'all think-- sound reasonable?  
+

@@ -1,0 +1,26 @@
+
+
+Quote from: onemorexmr on March 03, 2015, 11:49:18 PM
+
+i am nearly convinced now that a big block size together with 1BLT is a threat
+for bitcoin as miners dont have any incentive to make smaller blocks.  
+
+  
+Why do you want miners to have an incentive to make smaller blocks?  
+  
+Smaller blocks means fewer transactions, so fewer opportunities to collect
+fees, so less profit.  
+  
+Miner profit in fiat currency = number of transactions * average transaction
+fee * btc-to-fiat exchange rate  
+  
+Experience (and common sense) says that more usage of Bitcoin means a higher
+btc-to-fiat exchange rate, so if you want to maximize miner's fee revenue then
+increasing the number of transactions is the obvious way to do it.  
+  
+If you think that putting an artificial cap on the number of transactions will
+increase overall miner profit, then I urge you to find a Real Economist and
+talk to them about the wisdom of trying to use production quotas to keep
+prices artificially high.  
+  
+

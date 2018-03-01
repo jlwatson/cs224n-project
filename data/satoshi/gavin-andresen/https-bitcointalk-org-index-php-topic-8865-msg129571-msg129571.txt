@@ -1,0 +1,7 @@
+
+
+I'd suggest removing/replacing the "it is anonymous" claim.  
+Anonymity and bitcoin is...complicated. I'd suggest:  
+  
+"It is like cash" -- no one can steal your identity  
+

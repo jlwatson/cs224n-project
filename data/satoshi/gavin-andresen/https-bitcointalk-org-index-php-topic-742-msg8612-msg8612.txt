@@ -1,0 +1,29 @@
+
+
+Quote from: Insti on August 10, 2010, 08:40:12 PM
+
+Are transactions allowed to have input addresses with a zero balance?  
+
+If they are (I didn't see anything preventing them after a quick reading of
+the code), then they trigger the 0.01BTC micro-transaction fee.  
+  
+I'll be doing a lot of experimenting (on the TEST network, of course) with
+refunding transactions over the next few weeks. I think the UI issue can be
+resolved (it should be pretty straightforward to teach the UI to recognize
+refund transactions and show them as "refund from BLAH", where BLAH is either
+a BC address or a label from your address book.  
+  
+I've already implemented a "refundtransaction" api call, but it still needs
+work before it would be ready for standard bitcoin. In particular, it
+shouldn't be possible to create infinite 'refundtransaction' loops (where you
+accidentally or purposely refundtransaction a refunded transaction, probably
+triggering another refund, etc).  
+  
+And refunding a transaction should, ideally, use the same "coins" (... should
+have the same ancestor transactions, for anybody who's going to get all
+pedantic on me) as the original transaction, if possible, so if that original
+transaction is exactly as valid as the original transaction. Otherwise it
+might be possible to generate a bad transaction, send it somewhere you know it
+will get refunded immediately with different, valid transactions, and so
+"launder" your bad bitcoins for good.  
+

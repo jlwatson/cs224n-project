@@ -1,0 +1,27 @@
+
+
+The testnet has suffered rewrite-the-block-chain-with-more-hashing-power
+attacks.  
+  
+It does bad things to your wallet, if your wallet contains transactions that
+depend on previously mined but now-no-longer-valid blocks. I suspect it will
+cause lots of heartburn for exchanges; this patch from sipa (which hasn't been
+extensively tested because long block-chain re-orgs on the main chain are not
+an issue) might help:  
+https://github.com/bitcoin/bitcoin/pull/195  
+  
+Alternatively, removing all the wtx wallet transactions stored in the wallet
+and then running with -rescan should get back to a sane state. Although an
+exchange may very well find customers end up with negative balances after
+doing that, and customers will likely be upset that their balances are likely
+to change from what they think they have if they've deposited invalid-under-
+the-new-chain transactions.  
+  
+Successfully bootstrapping an alternative chain starting from a low
+difficulty, given that there are people with lots of potential hashing power
+and the willingness to mess around with the chain "just because they can,"
+seems like a hard problem to me, although if people were willing to accept
+some centralization until hashing power got to a "safe" level it could be
+solved by a central authority publishing block-chain checkpoints every X
+blocks.  
+

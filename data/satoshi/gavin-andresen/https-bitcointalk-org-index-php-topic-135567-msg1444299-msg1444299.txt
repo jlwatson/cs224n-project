@@ -1,0 +1,23 @@
+
+
+There are three 0.5 BTC bounties available for people who will help us test
+the upgrade-to-release-0.8 code.  
+  
+I'm looking for:  
+  
+CLAIMED: ~~Somebody running (or willing to install and sync-up)
+bitcoind/bitcoin-qt version 0.3.24  
+(need to test upgrading from a very old version of Bitcoin)~~  
+  
+CLAIMED: ~~Somebody running a version of Windows with their bitcoin data
+directory on a FAT32 filesystem  
+(need to test upgrading on a very old filesystem)~~  
+  
+CLAIMED: ~~Somebody running Windows XP with an NTFS filesystem  
+(need to test upgrading on a very old operating system)  
+~~  
+  
+Detailed instructions on how to test and then claim a bounty are here:  
+https://github.com/gavinandresen/QA/blob/master/HardLinksUpgrade.md  
+  
+

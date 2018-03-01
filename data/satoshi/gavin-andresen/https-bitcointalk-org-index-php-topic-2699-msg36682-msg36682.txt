@@ -1,0 +1,14 @@
+
+
+I agree with mh-- if there are real compatibility issues or weaknesses, then
+those would be a good reason to switch curves.  
+  
+If there aren't, sep256k1 seems plenty good enough for the forseeable future.
+I think most programmers (myself included) have a tendency to worry about
+small-probability "what if" problems that we know how to solve, when we'd be
+better off thinking about high-probability problems that we don't want to
+think about because we don't already know how to solve them.  
+  
+Like multifactor wallet authentication so trojans don't steal users'
+wallets....  
+

@@ -1,0 +1,11 @@
+
+
+I think this is a great idea Joe. There have been many, many, many requests
+for this functionality. The recent addition of the rescan feature will help.
+When you import the key, do a rescan to pick up the transaction that funds it.
+Then pay yourself. People want this for backups too.  
+  
+I don't think you need to remove the key from the sender's wallet, it will
+still notice when it's spent. OTOH might be a good idea to remove it,
+otherwise you might accidentally spend it before the recipient inputs it.
+

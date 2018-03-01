@@ -1,0 +1,27 @@
+
+
+So...  
+  
+I've been mostly quiet about the alternative block chains, but I have to say
+I'm a little disappointed.  
+  
+I had hoped that they would be full of interesting experiments with different
+transaction types or smart contracts or different fee-setting algorithms or
+maybe some innovative scheme for instant transactions.  
+  
+Instead, it seems like you've been too busy dealing with low hashrates and
+transaction-spam attacks, and have been spending all of your time re-inventing
+a lot of infrastructure (exchanges and block explorers and mining pool
+software and etc.).  
+  
+I'm curious to hear what other people think: will altchain innovation pick up
+in 2012? Am I irrationally biased and just not seeing the awesome power of
+(insert-your-favorite-altchain-feature-here)?  
+  
+I think there's an interesting dynamic, where the larger and more popular an
+altchain gets, the harder it is to do things like schedule a block-chain
+splitting-change (because you have to get all your exchanges and mining pools
+and etc. to upgrade). I wonder if that means the experimentation will only
+happen with brand-new blockchains, and if a blockchain will only really take
+off it the inventor manages to "get it 99% right" the very first time...  
+

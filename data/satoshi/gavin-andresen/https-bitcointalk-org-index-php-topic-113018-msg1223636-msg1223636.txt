@@ -1,0 +1,19 @@
+
+
+Quote from: jgarzik on September 26, 2012, 10:07:06 PM
+
+Quote from: gusti on September 26, 2012, 10:03:34 PM
+
+I'm also thinking in setting up a script which every hour will download and
+PGP verify the files, and send an alarm by email if see any problem. Do you
+think that procedure can be helpful ?  
+
+Absolutely. That is a perfect example of decentralized action at work... we
+need as many people as possible checking these things.  
+
+I was just about to say the same thing; if there were multiple people all over
+the world downloading and checking the binaries against the PGP signatures
+that would be a wonderful thing, and would be much more robust against all the
+various attacks that might happen (DNS poisoning on some subset of the
+Internet, compromising one mirror, etc etc etc).  
+

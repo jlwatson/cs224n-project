@@ -1,0 +1,28 @@
+
+
+Here is an idea for how miners can get paid.  
+  
+Let us start with a fork of Bitcoin. We will start a new block chain just like
+Bitcoin did two years ago. There will be coins in this chain, which I will
+call bitdnscoins. People can pay bitdnscoins to each other via transactions in
+the BitDNS block chain, just like with Bitcoin. Block miners get 50
+bitdnscoins.  
+  
+However in addition to bitdnscoin transactions there would also be domain name
+transactions. Here is the main idea: at any time a bitdnscoin can be converted
+into a new domain name registration via a special transaction. This uses up
+the bitdnscoin and it can't be used again. There would also be 'maintenance'
+domain name transactions where an existing domain name is transferred to a new
+owner or has other data fields changed.  
+  
+Bitdnscoins represent the right to register a new domain name. They are
+valuable for this reason. You would acquire them by mining, or more commonly
+by buying them, with Bitcoins, dollars, etc. To register a new name you need a
+bitdnscoin.  
+  
+And the incentive for miners to include transactions? Same as for Bitcoin:
+transaction fees. Registering a new domain name costs 1 bitdnscoin. But you
+can pay more, and the excess goes to the miner. Pay 1.2 bitdnscoins for your
+new domain name, and 0.2 of that goes to any miner who includes your
+transaction. That's the incentive.
+

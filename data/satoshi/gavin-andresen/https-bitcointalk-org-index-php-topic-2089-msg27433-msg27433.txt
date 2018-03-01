@@ -1,0 +1,8 @@
+
+
+My private gpg key is kept in my LastPass Vault (as a secure note), along with
+all of my passwords.  
+  
+I'm a big fan of LastPass; Steve Gibson did a good review of their tech and
+why it's safe on a Security Now podcast a while back.  
+

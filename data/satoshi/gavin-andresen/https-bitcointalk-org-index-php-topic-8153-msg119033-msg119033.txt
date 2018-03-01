@@ -1,0 +1,7 @@
+
+
+The send RPC methods return a transaction id.  
+  
+Pass the transaction id to the gettransaction RPC method, and it will give you
+details of the transaction, including what fees were paid.  
+

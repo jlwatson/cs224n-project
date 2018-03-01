@@ -1,0 +1,12 @@
+
+
+Quote from: Nicolas Dorier on January 16, 2015, 08:37:05 PM
+
+Imagine that you discover a fork condition between V1 and V2 of bitcoin core.  
+Surely enough, this should be reported to github, and test data must be
+updated.  
+
+  
+No, please report security-critical issues (including consensus bugs) to the
+bitcoin-security mailing list: bitcoin-security@lists.sourceforge.net  
+

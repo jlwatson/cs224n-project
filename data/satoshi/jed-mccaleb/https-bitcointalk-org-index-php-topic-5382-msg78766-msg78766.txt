@@ -1,0 +1,52 @@
+
+
+I, and I assume many other people, feel that bitcoin will take off once it
+finds some killer app that really makes use of the strength of BTC. And anyone
+with any amount of BTC benefits greatly from bitcoin taking off since that
+will cause the price to skyrocket. So we should all be very interested in this
+happening.  
+  
+The best use of BTC I can think of that also has the benefit of spreading the
+idea of BTC rapidly is a tipping service. Here are some key parts of the
+service that I and other people have thought of:  
+  
+o Twitter tipping system.  
+Allow people to tweet BTC tips to other twitter users. Has great  
+potential to go viral and spread throughout the entire twitter  
+population.  
+A twitter user would just tweet to us: #tip @bob  
+then we would tweet this fact to bob and send him 1 BTC  
+If bob already was registered with us then great. Otherwise we would  
+give him a link to register and claim his coin.  
+Obviously can spread quickly since this stuff will show up in people's  
+twitter feeds.  
+And I think people will like publicly showing their support for what they are
+tipping.  
+  
+o Web based tipping.  
+A browser plugin that allows you to tip the webpage, facebook page or  
+blog you are currently reading. The page doesn't have to know about  
+the tipping service. If it is some new page we will scrape it or the  
+site for an email address that seems appropriate and send the tip to  
+it.  
+Once tipped the site owner will be encouraged to place a tip button on  
+their site thus spreading the knowledge of the service.  
+  
+o SMS tipping.  
+A service that allows you to send small BTC amounts by text message to  
+any phone that can receive SMS.  
+they would just text to our number: send <amount> <number>  
+Basically the same as the twitter thing but with SMS.  
+  
+o Forum tipping plugin.  
+Plugin for popular forum software allowing people to tip posters they like.  
+  
+The beauty of all these is that they only require the tipper to know  
+about the service. Once people are tipped they will naturally want to  
+find about it to retrieve their coins. I think it would spread pretty  
+quickly. People who own BTC have extra incentive to tip since tipping will
+increase the popularity of BTC and thus the value of the BTC that they own.  
+  
+If you make this you should call it CoinToss  
+  
+

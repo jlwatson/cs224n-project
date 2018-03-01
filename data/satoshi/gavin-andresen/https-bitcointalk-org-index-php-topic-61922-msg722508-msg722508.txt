@@ -1,0 +1,48 @@
+
+
+BIP 16 (or 17) will not meet their initial "go/no-go" deadlines. You can see
+the state of support here: http://blockchain.info/P2SH  
+  
+That's OK, that's why the deadlines were structured the way they are; in the
+past, Satoshi made changes like this by simply changing the code and then
+expecting everybody to upgrade. This is the first time we've used a more open,
+community-driven process.  
+  
+So, since we'll miss the deadline, the question is: what next? To focus
+discussion, here are two straw-man proposals that y'all can agree or disagree
+with; I'll go along with whatever consensus arises over the next couple of
+days:  
+  
+
+Quote
+
+Support for BIP 16/17 will be evaluated weekly, beginning on February 1
+(support measured as described in the BIP). Results shall be announced here in
+this thread, and when support exceeds 55% the switchover date shall be set two
+weeks from then (with announcements made here, to the bitcoin-development
+mailing list, and to the Mining and Mining Pool forums). If support drops to
+less than 20%, then the proposal shall be withdrawn.
+
+  
+
+Quote
+
+To give more time for testing and deployment, there will be a new go/no-go
+deadline for evaluating BIP 16/17 support. The new deadline for BIP 16 shall
+be March 1, 2012. If 55+% support the new feature (as described in the BIP),
+then March 15 shall be the switchover date.
+
+  
+
+* * *
+
+On the subject of testing... I've created a wiki page to record QA (quality
+assurance) testing that has been done on BIP 16. If you can help test, or have
+been testing/deploying, then please add to this page:
+https://en.bitcoin.it/wiki/BIP_0016_QA  
+  
+As always, (on-topic) discussion, feedback, etc. is very welcome. If we can,
+I'd like to move past the "we dont' need to do ANYTHING" arguments, there is
+clearly rough consensus (with notable exceptions) that a short-bitcoin-address
+solution is needed.  
+

@@ -1,0 +1,43 @@
+
+
+The bitoin URI thread has died down, but bitcoinmarket and MtGox's spiffy
+"click to pay" features prompted me to think some more about payment links on
+web pages.  
+  
+The problem with the MtGox/Bitcoinmarket solutions is that they still require
+you to copy&paste an address if you want to pay directly from the bitcoin
+client running on your machine. My computer-phobic relatives just won't be
+able to do that (I can hear them saying "...BUT I DON'T HAVE A COPY
+BUTTON...").  
+  
+But a bitcoin: URI has problems, too:  
+1\. It is hard to implement-- every browser has a different way of registering
+protocol handlers.  
+2\. If you don't have the protocol handler installed, clicking on the link
+doesn't give you any help on what to do to make it work. (try it here)  
+3\. Looks like some software (like this forum) don't like bitcoin URIs: Donate
+to the Faucet (that URI is bitcoin:15VjRaDX9zpbA8LVnbrCAFzrVzN7ixHNsC, the
+forum software is truncating it and adding http://).  
+  
+Maybe a bitcoin payment request MIME type would work better; you click on a
+link and the web server returns a little file of type "application/bitcoin-
+payment-request". Like this. Or the links on this page.  
+  
+If you're running Firefox, you get this dialog box if it doesn't know about
+application/bitcoin-payment-requests:  
+  
+  
+On PCs, an app can add stuff to the registry to associate itself with a mime
+type (anybody know if browsers other than IE pay attention to those registry
+settings?).  
+  
+Macs are similar (although I don't know the details; gotta set the mime type
+in the App's Info.plist, I believe...). Anybody know about Linux?  
+  
+Teaching the Bitcoin application to read the bitcoin-payment-request file
+would be easy, and it shouldn't be terribly hard to get it to ask an already-
+running Bitcoin to popup a "Send Payment To..." dialog box with fields filled
+in (OR get it to start itself running and then popup the dialog box).  
+  
+So: whaddya think?  
+

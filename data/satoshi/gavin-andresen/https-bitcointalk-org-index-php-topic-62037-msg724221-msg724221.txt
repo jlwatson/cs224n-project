@@ -1,0 +1,31 @@
+
+
+RE: debating ideas rather than people: I've tried very hard to do that.  
+  
+I said last year when I reluctantly agreed to function as the lead core
+bitcoin developer that I have zero experience leading open source projects.
+But I try to do my due-diligence and learn from the experience of other
+successful projects.  
+  
+The "aha" moment for me yesterday is the point in the video that I linked to,
+where the advice is to evaluate whether or not somebody causing issues for a
+project (whether intentional or not) is a net positive or negative to the
+project, and if they're "more trouble than they're worth" get them out of the
+project.  
+  
+This isn't about BIP 16 versus BIP 17, this is about one person draining the
+rest of the development team with nagging, idealogical rigidity, and holy wars
+against "impure" ideas.  
+  
+I try very hard to consider that maybe I'm wrong, but I think the evidence is
+clear.  
+  
+You might also argue that the subversion people take the wrong approach, in
+which case please send me a link to some other open source project that has
+dealt with the issue in a different/better way.  
+  
+I thought carefully about where to start this, and decided I might as well
+start it in the most public bitcoin discussion forum, because I think if I
+started it anywhere else it would eventually just appear here as "There's a
+Secret Conspiracy Started By Gavin To Oust A Valued Developer!"  
+

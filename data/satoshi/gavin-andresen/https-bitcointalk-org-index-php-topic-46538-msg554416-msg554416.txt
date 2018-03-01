@@ -1,0 +1,14 @@
+
+
+Quote from: jimrandomh on October 02, 2011, 04:37:43 PM
+
+Once the details are hammered out and there's a testnet implementation (which
+I see little reason *not* to rush; it's only testnet), then it'll be time to
+summon as much security-researcher attention to it as possible.  
+
+  
+I agree. Security is really high on the priority list; I'd like to see secured
+bitcoin addresses in people's forum signatures within a year. I'm sure one of
+the alternate blockchains will take this idea and run with it, so much of the
+hammering-out will happen there.  
+

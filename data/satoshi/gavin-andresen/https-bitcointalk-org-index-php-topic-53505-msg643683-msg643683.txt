@@ -1,0 +1,19 @@
+
+
+Quote from: paraipan on December 07, 2011, 11:21:03 PM
+
+Quote from: Gavin Andresen on December 07, 2011, 10:12:23 PM
+
+Or giving them a bogus "previous block hash" so they're not anchored anywhere
+in the chain at all.  
+
+small question... is that possible ?  
+
+  
+Sure-- it has to be possible, there is no guarantee that you'll see blocks
+announced on the network in order. An orphan block may just be one that you
+can't connect to the main chain yet because you haven't seen it's parent yet
+(maybe you're downloading blocks and haven't got them all yet, or maybe a
+miner got lucky and only needed eleven hashes to build on a block and you see
+her block before the parent because of network delays).  
+

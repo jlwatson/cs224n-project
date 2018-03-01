@@ -1,0 +1,14 @@
+
+
+Quote from: HostFat on July 13, 2012, 12:33:24 PM
+
+He was putting code on bitcoin.org without asking to anyone, without
+votes/poll ...  
+
+Yes, he ruffled a bunch of feathers by unilaterally changing bitcoin.org
+instead of submitting a pull request that could be tweaked and argued about.  
+  
+You can see the discussion here:
+http://sourceforge.net/mailarchive/forum.php?thread_name=4FFBF1DF.8070203%40justmoon.de&forum_name=bitcoin-
+development
+

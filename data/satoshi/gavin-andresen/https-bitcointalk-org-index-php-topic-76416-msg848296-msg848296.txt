@@ -1,0 +1,17 @@
+
+
+Split from the press hits topic:  
+  
+The only "skeleton key" I have is the private key for alert messages, that
+lets me sign messages that are broadcast and then displayed in the client (see
+https://en.bitcoin.it/wiki/Alerts for details, and the alerts that have been
+sent).  
+  
+MAYBE he is saying that the core developers could slip in a change to the
+source code without anybody else noticing... but we've worked hard to make
+that impossible (with things like the gitian reproducible build system so
+people can verify that we are creating executables from the source code that
+anybody can look at).  
+  
+Smells like plain-old FUD to me.
+

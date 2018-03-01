@@ -1,0 +1,21 @@
+
+
+I've been making slow but steady progress on my at-the-network-level testing
+tool. I don't put a lot of faith in standards documents-- it is too easy to
+misinterpret or ignore them. Good implementation-independent test suites seem
+like a better investment of time.  
+  
+What's working: python-based code that serializes/deserializes messages in
+both bitcoin's binary format (to talk to the node being tested) and JSON (so
+it is easy for us humans to tweak/examine test data). Connecting and
+requesting all blocks.  
+  
+Still todo: actually start writing test cases, figure out what other tools I
+need to write to create good test cases, and start systematically going
+through the "rules of bitcoin" and devising tests to make sure the rules are
+being followed-- starting with the super-important "get this wrong and you
+split the blockchain" rules.  
+  
+I hope to recruit some of you to help out with all that... I'll be creating a
+github project with my progress so far very soon.  
+

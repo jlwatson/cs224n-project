@@ -1,0 +1,14 @@
+
+
+We've already got ParseMoney in util.cpp, this patch adds
+parseNumber/uriParseAmount. Having more than one way to convert strings into
+bitcoin amounts is not a good idea, in my humble opinion.  
+  
+Also, instead of having a separate executable it would be more 'wxbitcoin-
+like' to have one executable that acts as either client or server depending on
+what command-line arguments are given. The problem with two executables is
+you'll have clueless users double-clicking on bitcoinuri.exe and then
+wondering why it doesn't do anything.  
+  
+I do like the use of boost message queues to communicate.  
+

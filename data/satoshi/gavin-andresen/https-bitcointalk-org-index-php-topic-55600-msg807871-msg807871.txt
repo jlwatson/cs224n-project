@@ -1,0 +1,20 @@
+
+
+I started experimenting with user-defined checkpoints (-checkpoint=height,hash
+multiarg, and 'addcheckpoint <height> <hash>' RPC call) but stopped when
+higher priority issues came up.  
+  
+It seems to me that type of low-level mechanism is the right way to go;
+checkpointing is a good low-level way of identifying which chain you think is
+"the" chain. And making it command-line/RPC configurable means we don't all
+have to agree on One True Way of deciding what the right blockchain aught to
+be; cunicula can write some code that implements proof-of-stake and then tie
+it into bitcoin/bitcoind using -blocknotify. etotheipi can write some code
+that scans the blockchain for well-known miner signatures (or asks miners
+directly if they produced a new block), etc.  
+  
+If your argument is "But Gavin, if core Bitcoin doesn't support One True Way
+of doing I'll never be able to convince miners to do it my way!" then I'd say
+you need to better express to them how the benefits of your proposal outweigh
+the costs.
+

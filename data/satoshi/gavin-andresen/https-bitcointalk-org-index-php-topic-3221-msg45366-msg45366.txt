@@ -1,0 +1,29 @@
+
+
+Quote from: casascius on February 07, 2011, 06:28:38 AM
+
+I do wonder though, why would anyone buy it? I can't picture myself in the
+mindset of being someone who has never heard of Bitcoin and thinking - WOW - I
+want this.  
+
+  
+I think it would be great for newbies who hear about bitcoin and decide they
+want to try it.  
+  
+USB stick is better than a CD because you could include a recent copy of
+Bitcoin (with most of the block chain), already configured, for Windows and
+Mac.  
+  
+So the user plugs in the USB drive, double-clicks the bitcoin app, and they're
+up and running.  
+  
+The seller would need to establish a reputation for no-viruses/trojans, no
+already-spent coins in the wallet on the stick, etc etc etc....  
+... all the stuff that newbies are probably to clueless to worry about anyway.  
+  
+The value is both the "starter" bitcoins in the wallet AND the convenience of
+not having to download/install/configure bitcoin. If PayPal asked, I'd say
+that I'm selling bitcoin software on USB sticks, and that the bitcoins in the
+wallet are just there because you can't use the software without having a few
+bitcoins to start....  
+

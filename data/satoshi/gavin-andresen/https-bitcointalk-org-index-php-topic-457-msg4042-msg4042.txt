@@ -1,0 +1,27 @@
+
+
+Quote from: Hepatizon on July 18, 2010, 03:44:33 PM
+
+The other question - and I know this must have been answered somewhere and I
+just couldn't find it - what determines transaction uniqueness? Say Alice buys
+a widget from Bob for 31.42 bc. Alice then decides she wants another widget,
+and places a new order - with the same keys for both buyer and seller - for
+another 31.42 bc. What makes these two transactions distinct? If a node sees
+one transaction for 31.42 from A to B, then sees a transaction for 31.42 from
+A to B, what tips it off that these are two distinct transactions rather than
+the same transaction detected twice?  
+
+A few things make those 31.42BTC transactions unique:  
+  
+\+ The timestamps in them will be different.  
+\+ The input transactions will be different (you can think of those as being
+different 'coins' going in to make the payment).  
+\+ And if the input transactions don't add up to exactly 31.42 (and they
+probably won't), they'll have different output transactions for returning any
+change to Alice.  
+  
+By the way: all that stuff is hashed together to give each transaction a
+unique 256-bit transaction ID (which you never see, but is used internally so
+Bitcoin can quickly figure out if it has already seen this transaction
+before).
+

@@ -1,0 +1,21 @@
+
+
+I haven't been paying to the whole "cloud hashing" thing, but it seems to me a
+great cover for an old-fashioned Ponzi scheme.  
+  
+1\. Take investors BTC, "buy" gigahashes of mining.  
+2\. Pay them back for a while using new investor's BTC.  
+3\. Once you've got enough investors, take the BTC and run.  
+(maybe claim "oops, sorry, got hacked")  
+  
+I'm not saying CEX.IO is a tarted-up Ponzi scheme. I have no idea.  
+  
+I'm just asking how everybody who is giving them money knows that they aren't
+a Ponzi. Or aren't selling the same hardware twice or three times, operating a
+kind of 'fractional reserve' system (that will eventually fall apart).  
+  
+Excuse me in advance if this has been discussed and I'm just missing something
+(e.g. a variation on Greg Maxwell's exchange auditing scheme might work: e.g.
+"they publish all the blocks found and an auditable merkle tree of all
+customers and how much hashing power each has").  
+

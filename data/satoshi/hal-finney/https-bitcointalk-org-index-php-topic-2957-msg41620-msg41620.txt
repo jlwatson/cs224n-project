@@ -1,0 +1,11 @@
+
+
+Okay, I've confirmed that hashes OK using sha256sum and gets your value,
+0f898c5494eaa468d12cf0630a0c0b238cc1149c1c53bbc592d16497094e95ff. So the
+question remains to verify the sig.  
+  
+You will have to add 01 00 00 00 to the end before you hash, for the hashtype.  
+  
+I'm not sure about your scriptsig shortening. You removed the sig ok, but
+there seems to be more stuff added at the end, after the pubkey.
+

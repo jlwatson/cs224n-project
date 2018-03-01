@@ -1,0 +1,22 @@
+
+
+Luis Fernando Molina, CEO of bitDubai and founder of Fermat is doing an AMA:  
+  
+
+Quote from: Luis
+
+I am an entrepreneur. I started my career 20 years ago building banking
+systems. 16 months ago I founded Fermat : A peer to peer Financial Application
+Framework. We have been in stealth mode until just now, so it is quite logical
+that you have never heard about us.  
+  
+Fermat in a nutshell is a P2P Network for transporting meta-data and a Plug-
+ins Framework to build P2P Financial Applications that are both crypto
+currency and digital assets enabled. The goal is to decentralize the full
+stack up until the GUI in order to enable an ecosystem of financial
+applications that do not require trust and are censorship resistant.
+
+  
+https://forum.bitcoin.com/ama-ask-me-anything/i-am-luis-fernando-molina-ceo-
+of-bitdubai-and-founder-of-fermat-please-ask-me-anything-t2948.html
+

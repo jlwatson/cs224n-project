@@ -1,0 +1,58 @@
+
+
+An example of how bitcoin works on a bit-level: Ok, I'll give it a shot.  
+  
+Here's what the current best-block (according to my bitcoin client) looks
+like, dumped in a geek-readable format:  
+  
+BLOCK 68fa61ac1f55a5787dfa0c75bc83e67376ae8356e6887a2ab74cdb0900000000  
+Next block: 0000000000000000000000000000000000000000000000000000000000000000  
+Time: Mon Jul 5 15:51:22 2010  
+Previous block:
+c18adb50289393b5a995b3506f039ac75e8de79f511515448811510200000000  
+3 transactions:  
+1 tx in, 1 out  
+['TxIn: COIN GENERATED coinbase:0442310d1c029c00']  
+['TxOut: value: 50.00 pubkey: 17sdrb1X7qpjPMJortqaNwWtBbtouSoJn2 Script:
+65:046d...bb9c CHECKSIG']  
+1 tx in, 1 out  
+['TxIn: prev(580a...e82e:0) pubkey: (None) sig: 71:3044...db01']  
+['TxOut: value: 50.00 pubkey: 1FeFgJRvCYUTCBj1u696eL23xpAdNB4B8p Script: DUP
+HASH160 20:a09d...6d81 EQUALVERIFY CHECKSIG']  
+3 tx in, 1 out  
+['TxIn: prev(c0a0...6bc3:0) pubkey: (None) sig: 73:3046...0f01', 'TxIn:
+prev(f909...2493:0) pubkey: (None) sig: 73:3046...1601', 'TxIn:
+prev(bc0a...fe64:0) pubkey: (None) sig: 72:3045...6201']  
+['TxOut: value: 150.00 pubkey: 1BHxjkqPmtNdmJxLZgneijvGszRxM9hPkz Script:
+65:04ee...1d02 CHECKSIG']  
+  
+So: that big long string of hex at the top is the block header's hash value.
+Note that it ends with 8 zeroes; that's the proof-of-work (my utility for
+dumping blocks doesn't bother dumping the Nonce values).  
+  
+What's hashed in the block header? The Nonce. The block's generation time. The
+previous block's hash. And a hash of all the transactions in the block. (and
+probably some stuff I'm forgetting).  
+  
+This block has three transactions in it. The first is the 50.00 (which is
+really 5,000,000,000 of the smallest possible units) reward for
+finding/creating the block. It can only be spent by whoever has the private
+key that matches the public key in the TxOut
+(17sdrb1X7qpjPMJortqaNwWtBbtouSoJn2 -- you can think of public keys and
+bitcoin addresses as equivalent), which will be whoever generated the block.  
+  
+The second is a payment of 50.0 from.... somebody... to... somebody. How does
+Bitcoin know that transaction is valid? Well, it:  
+\+ Looks up the previous transaction. That's the TxIn: prev(580a...e82e:0)
+stuff-- fetch TxOut zero (which will be a coin generated txn) from previous
+transaction 580a....  
+\+ EVALUATE(TxIn.pubkey + previous transaction TxOut.pubkey) and make sure it
+evaluates to true. This is where the cryptography happens; the receiver uses
+the private key known only to them and provides a correct digital signature.  
+  
+The third is a payment of 150.0 (three 50.0-value in, one 150.0-value out).  
+  
+Clear as mud?  
+  
+  
+

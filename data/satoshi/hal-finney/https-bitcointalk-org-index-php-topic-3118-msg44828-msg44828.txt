@@ -1,0 +1,15 @@
+
+
+See this analysis by [mike] looking at similar transaction loads and what that
+would mean for mining servers:  
+  
+http://bitcointalk.org/index.php?topic=2454.msg34469#msg34469  
+  
+Mike astutely identifies the bottleneck as the CPU power to verify transaction
+signatures. I've been doing some profiling and over 90% of the CPU time of the
+(non-generating) client is spent in ECDSA_verify.  
+  
+There are plans for lightweight clients that would not download blocks, just
+headers. Then they would be sent details of transactions involving them. Only
+the big iron would keep the block chain.
+

@@ -1,0 +1,28 @@
+
+
+Making it easier for merchants to accept bitcoins, and users to pay using
+them, aught to be priority number 1.  
+  
+There's a great talk by the CTO of Facebook available on Youtube, and I think
+he gave the right advice on scaling:  
+Don't worry much about it until just before it becomes a problem. Don't
+overengineer, because you're likely to waste time doing something that turns
+out to be irrelevant.  
+  
+I think Satoshi has done an amazingly fantastic job; over the last two days of
+Bitcoin being "slashdotted" I haven't heard of ANY problems with Bitcoin
+transactions getting lost, or of the network crashing due to the load, or any
+problem at all with the core functionality.  
+  
+Yes, it's annoying to have to wait for the block chain to download (especially
+with the Microsoft Security Essentials weirdness), and yes it would be nice if
+all the pieces of Bitcoin functionality were already nicely separated and
+ready to be rearranged and extended in all the ways we all want to rearrange
+and extend it. But I've been poking at the Bitcoin code for over a month now,
+and the more I learn the more impressed I become at the thought that's gone
+into it.  
+  
+This quote seems appropriate:  
+"We reject: kings, presidents and voting.  
+We believe in: rough consensus and running code." -- David D. Clark  
+

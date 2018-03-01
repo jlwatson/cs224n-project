@@ -1,0 +1,14 @@
+
+
+After talking with a few groups of people, I decided a good use of Bitcoin
+Faucet funds would be compensating miners who had blocks that were orphaned in
+last week's Bit Chain Fork.  
+  
+This is a one-time thing-- don't expect orphaned blocks in the future to be
+compensated! It is just a coincidence that I haven't had time to fix the
+Faucet, and have a bunch of coins waiting to be given away.  
+  
+Transaction id paying the to the addresses in the coinbases of the orphaned
+blocks: c931f1aa9f0d211dca085342ec472e77b538b55980a2c7b0ff9fab9a20a9acd2  
+  
+

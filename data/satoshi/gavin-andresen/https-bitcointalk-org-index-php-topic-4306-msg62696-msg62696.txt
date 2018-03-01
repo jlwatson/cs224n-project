@@ -1,0 +1,12 @@
+
+
+Maintaining the faucet isn't a big drain on my time-- most days I don't think
+about it.  
+  
+Given the number of newbies who wander into #bitcoin-dev and mention they got
+0.05 BTC from the faucet, I think it is still valuable as a nice introduction
+to using bitcoin.  
+  
+And Jim: thanks! Without donations the Faucet would have run out of coins long
+ago...  
+

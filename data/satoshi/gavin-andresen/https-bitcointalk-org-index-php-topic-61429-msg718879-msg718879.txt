@@ -1,0 +1,28 @@
+
+
+You know how I say "I make mistakes, don't trust me" ...  
+  
+A bug in my code is dropping transaction fees from the block reward. Simple to
+fix, and obvious in hindsight; I will be personally reimbursing everybody who
+got bit by this bug by finding the blocks affected by this, figuring out what
+transaction fees the creators SHOULD have received, and sending that number of
+bitcoins to the block-award address.  
+  
+Backports and the main git HEAD tree have been patched with the fix.  
+  
+
+* * *
+
+On a higher level:  
+  
+There is obviously not going to be 50+% blockchain support for BIP 16 on
+Tuesday; I'm going to start conversations on how to move forward.  
+  
+And there has obviously not been enough testing of the BIP 16 code. Getting
+people to thoroughly test things BEFORE code makes it into the main tree has
+been a chronic problem, I'd appreciate ideas on how to avoid this kind of
+annoying, time-wasting "it's ready"/"oops, found a bug"/"it's fixed"/"wait,
+no, somebody found another bug" thing in the future. I've been unsuccessful
+finding the kind of QA (quality assurance) person who can both do the QA and
+do the fundraising necessary so they get paid.  
+

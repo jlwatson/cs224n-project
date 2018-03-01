@@ -1,0 +1,100 @@
+
+
+We're pretty close to being able to duplicate the bitcoin GUI using the RPC.  
+  
+I think the only thing missing is reporting bitcoin addresses in
+listtransactions. That gets a little sticky with multisends (one transactions
+that sends coins to multiple recipients); here's what I'm thinking of
+implementing after doing some brainstorming with theymos/jgarzik/nanotube in
+IRC chat and running a couple of 'multisend' tests on the test network:  
+  
+
+Code:
+
+"category" : "receive",  
+"amount" : amount,  
+"address" : "bitcoinaddress"
+
+... plus the rest of what is reported now  
+(account/txid/confirmations/time/comment). That's the "received on"  
+address, of course.  
+  
+On the send side, I'm leaning towards:  
+
+Code:
+
+"category" : "send",  
+"amount" : amount,  
+"fee" : fee,  
+"toaddress" : { "address" : amount } # or "toaddress" : { "address" : amount,
+"address" : amount } for a multisend.
+
+... plus the rest of what is reported now  
+(account/txid/confirmations/time/comment).  
+  
+I don't like that the common case looks kind of ugly; I'd much prefer  
+just
+
+Code:
+
+"address" : "bitcoinaddress"
+
+  
+That could be done by having listtransactions report multiple category:send
+entries for a multisend... except it is not obvious  
+which one should report the fee, if there is a fee. First one? All of them?  
+  
+I'm also a worried that websites might get their accounting wrong if they're
+not prepared to deal with multisends; making "toaddress" an  
+Object makes it obvious that multisends are possible. The only way a website
+would get a multisend would be if they allow users to import keys from their
+local bitcoin wallet, which nobody is doing... yet.  
+  
+  
+Here's how listtransactions currently reports a complex multisend:  
+  
+
+Code:
+
+{  
+"account" : "Test3",  
+"category" : "receive",  
+"amount" : 3.03000000,  
+"confirmations" : 66,  
+"txid" :  
+"36c86ca499275945a3f1805d6e070ac00b2d32e5e16a4c9cf2c83b189a347d88",  
+"time" : 1292532062,  
+"comment" : "multisend, Test1 to Test2 and Test3 twice (same addr)"  
+},  
+{  
+"account" : "Test3",  
+"category" : "receive",  
+"amount" : 3.00000000,  
+"confirmations" : 66,  
+"txid" :  
+"36c86ca499275945a3f1805d6e070ac00b2d32e5e16a4c9cf2c83b189a347d88",  
+"time" : 1292532062,  
+"comment" : "multisend, Test1 to Test2 and Test3 twice (same addr)"  
+},  
+{  
+"account" : "Test2",  
+"category" : "receive",  
+"amount" : 2.00000000,  
+"confirmations" : 66,  
+"txid" :  
+"36c86ca499275945a3f1805d6e070ac00b2d32e5e16a4c9cf2c83b189a347d88",  
+"time" : 1292532062,  
+"comment" : "multisend, Test1 to Test2 and Test3 twice (same addr)"  
+},  
+{  
+"account" : "Test1",  
+"category" : "send",  
+"amount" : -8.03000000,  
+"fee" : 0.00000000,  
+"confirmations" : 66,  
+"txid" :  
+"36c86ca499275945a3f1805d6e070ac00b2d32e5e16a4c9cf2c83b189a347d88",  
+"time" : 1292532062,  
+"comment" : "multisend, Test1 to Test2 and Test3 twice (same addr)"  
+},  
+

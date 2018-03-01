@@ -1,0 +1,32 @@
+
+
+Quote from: adamstgBit on November 22, 2011, 09:18:09 AM
+
+i will contact Gavin shortly, i suggest you do the same, don't tell him what
+they did wrong... tell him why its important to do beta testing outside his
+the dev team b4 releasing new versions... in all honesty i don't give a fuck
+how long it take for the client to evolve i just NEED it to be perfect ever
+time  
+
+  
+Mmm... perfect software...  
+  
+You notice how we aren't at Bitcoin version 1.0 yet? That the version is "0.5
+BETA" ?  
+  
+If you NEED it to be perfect then you're going to be waiting forever, because
+no software is ever perfect.  
+  
+The criteria for a new 0.something release is "Is there general agreement that
+it is better than the last release."  
+  
+There is general agreement that the new GUI is better; the huge problem with
+the old GUI is we have no wxWidgets GUI programmers willing to support the old
+GUI. There are several people contributing patches to the new Qt GUI.  
+  
+I've said it before but I'll say it again: Bitcoin is still a high-risk, high-
+potential-reward experiment, and you shouldn't invest time or money that you
+can't afford to lose. We're working hard to make it better, but we're not
+perfect.  
+  
+

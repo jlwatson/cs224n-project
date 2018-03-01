@@ -1,0 +1,22 @@
+
+
+Thanks for all the ideas!  
+  
+First: I'm definitely going to drop from 5 BTC; I think I'll go all the way
+down to 0.50 BTC (rather than do 1 or 2). Giving away a percentage of how much
+the faucet has is an interesting idea, but I want it to be as simple as
+possible.  
+  
+Second: I really don't want to make getting coins from the Faucet a whole
+heavy-weight "register and check your email and yada yada yada."  
+  
+But I do like the idea of adding an extra hurdle for 'suspicious-looking'
+behavior. So I'm leaning towards doing some fuzzy browser fingerprinting
+combined with rate-limiting and, if you look suspicious or the fountain has
+been giving away a larger-than-usual number of coins, require that you login
+with your google account before getting any coins. No google account: no
+coins.  
+  
+It is hard to create lots of google accounts; they're requiring either phone
+or SMS account verification these days...  
+

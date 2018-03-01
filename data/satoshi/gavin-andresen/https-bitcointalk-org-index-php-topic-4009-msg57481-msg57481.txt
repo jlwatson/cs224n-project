@@ -1,0 +1,24 @@
+
+
+This definitely needs fixing; it is another "people getting lots of very small
+change from mining pools" issue.  
+  
+The code that controls this is CTransaction::GetMinFee() in main.h and
+CreateNewBlock() in main.cpp.  
+  
+We should think about:  
+  
+\+ Is setting aside a specific amount of space for free transactions the right
+thing to do? Maybe blocks should just get filled in reverse priority order
+(with transactions with fees at the front of the line)  
+  
+\+ What to do with the current transaction backlog.  
+If old, big, low-priority transactions get flushed, then there needs to be
+some way for the bitcoin client(s) that sent them to reclaim those coins.
+Perhaps the client should stop retransmitting, and reclaim, transactions if,
+oh, 5,000 blocks go by without the transaction getting accepted.  
+  
+Or maybe it makes sense to let those old transactions trickle in; perhaps the
+next version of bitcoin should take the oldest transaction in the memory cache
+and add it to the generated block.
+

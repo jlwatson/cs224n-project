@@ -1,0 +1,9 @@
+
+
+Quote from: Sergio_Demian_Lerner on September 07, 2012, 01:51:15 PM
+
+Maybe we could implement the idea of dynamic checkpoints (Gavin) but only if
+they come signed by the Alert signing key ...  
+
+No. Absolutely not.  
+

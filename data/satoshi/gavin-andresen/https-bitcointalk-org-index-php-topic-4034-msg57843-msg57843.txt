@@ -1,0 +1,33 @@
+
+
+Quote from: jgarzik on March 01, 2011, 11:31:56 PM
+
+Add a mass-pay JSON-RPC method, provided that the user interface requires a TX
+fee parameter (NOTE: zero is a valid TX fee)  
+
+  
+I've got a (private so far) patch that creates mass-pay transactions. API is:  
+sendmulti <fromaccount> {address:amount,...} [minconf=1] [comment]  
+  
+This code in CTransaction::AcceptToMemoryPool will need to change, too:  
+
+Code:
+
+if (GetSigOpCount() > 2 || nSize < 100)  
+return error("AcceptToMemoryPool() : nonstandard transaction");
+
+(a mass-pay transaction will have N+1 OP_CHECKSIGs in it, where N is the
+number of people being paid).  
+  
+Replacing in the stock client with something like:  
+
+Code:
+
+if (GetSigOpCount() > 2) minFee += GetSigOpCount()*GetArgMoney("-masspayfee",
+CENT/100);
+
+... seems like the right direction to go.  
+  
+BUT: I think a higher priority is figuring out how to deal with fees for the
+other two send methods.
+

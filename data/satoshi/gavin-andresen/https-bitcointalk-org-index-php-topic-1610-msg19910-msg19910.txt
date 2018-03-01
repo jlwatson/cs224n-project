@@ -1,0 +1,15 @@
+
+
+Quote from: foreverdamaged on November 03, 2010, 08:19:09 PM
+
+Yes you can, but in my undestanding, that offline wallet needs to have been
+online at least once, otherwise its public key(s) are not known to the bitcoin
+network.  
+
+  
+That's not right-- the person paying you doesn't know your public key, they
+just know your bitcoin address (which is a 160-bit hash of your public key).  
+  
+You can (and I have) send bitcoins to ANY 160-bit bitcoin address, whether or
+not there actually is a public/private keypair corresponding to that address.  
+

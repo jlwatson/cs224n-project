@@ -1,0 +1,24 @@
+
+
+Let me unpack this idea into parts.  
+  
+1\. Sharing your compute power in a massively parallel effort that has some
+value.  
+  
+2\. Doing this specifically with GPU.  
+  
+3\. Getting paid for it.  
+  
+4\. Getting paid specifically with bitcoins.  
+  
+#1 is widely done, eg Folding@Home to improve biological models. There are a
+ton of these. For #2, I imagine that some do use GPUs, as people are very
+competitive. #3 is hard. If you're getting paid, someone is paying, so we are
+mostly looking at commercial applications. But these tend to be sensitive or
+secret, not suitable for wide sharing. For example, an obvious application
+would be rendering graphics for a new movie. But the producers wouldn't want
+their scenes to be leaked.  
+  
+To solve these problems and then focus only on people who want to receive
+bitcoins would be doubly difficult.
+

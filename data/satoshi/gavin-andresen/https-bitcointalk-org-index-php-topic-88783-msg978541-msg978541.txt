@@ -1,0 +1,11 @@
+
+
+The things on my "good enough to be called 1.0" list are:  
+  
+\+ easy enough for my grandma to use  
+\+ secure enough that it'd be hard for my grandma to lose her bitcoins, even
+if her computer is infected by 11 bitcoin-stealing trojans and then catches
+fire and explodes.  
+\+ past the December block-reward-drops-to-25  
+  
+

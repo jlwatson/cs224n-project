@@ -1,0 +1,10 @@
+
+
+Login as ubuntu, password "ubuntu"  
+  
+I think, if I remember correctly.  
+  
+Wait... no, maybe not. According to the README there, you need to ssh in using
+the private key in the ssh_key.tar file. That super long "password" is not a
+password, but is the ssh public key.
+

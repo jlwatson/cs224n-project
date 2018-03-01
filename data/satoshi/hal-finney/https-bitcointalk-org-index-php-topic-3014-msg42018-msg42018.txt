@@ -1,0 +1,10 @@
+
+
+Well my attempt to verify that sig in openssl failed, it didn't verify. That's
+no surprise since the two methods also disagreed about the validity of the
+bitcoin sig. I hoped I'd see something wrong in the data structures, but I
+didn't. Your pubkey is a valid EC point on the secp256k1 curve. The signature
+appears to be properly formatted.  
+  
+I'll see if I can think of anything else...
+

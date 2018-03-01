@@ -1,0 +1,11 @@
+
+
+Tomorrow at 21:00 UTC on #bitcoin-dev I'd like to talk about:  
+  
+Status of BIP 16 support (progress towards 50% hashing power).  
+  
+Protocol change: checksum in version messages coming up Feb. 20.  
+  
+Duplicate coinbase issue (and requiring block height in the coinbase as a
+solution).  
+

@@ -1,0 +1,8 @@
+
+
+Bitcoin addresses are 160-bit hashes of keys which have 256 bits of
+uniqueness. We could switch to a 256-bit hash pretty easily (or even not use a
+hash, just use the 256-bit x coordinate of the public key). The scriptPubkey
+could use OP_HASH256 instead of OP_HASH160 to reduce the risk of collisions.
+Addresses would be a few characters longer.
+

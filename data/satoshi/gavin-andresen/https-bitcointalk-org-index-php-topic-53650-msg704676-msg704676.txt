@@ -1,0 +1,14 @@
+
+
+Quote from: Matthew N. Wright on January 20, 2012, 11:31:13 PM
+
+Even on my Korean windows it shows English. So wtf@that  
+
+  
+Nobody has written a Korean translation. If/when somebody does (join
+https://www.transifex.net/projects/p/bitcoin/ if you want to help) you'd get
+the Korean translation.  
+  
+An option to change the language in the GUI is a great idea. Somebody should
+do that....  
+

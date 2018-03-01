@@ -1,0 +1,21 @@
+
+
+Quote from: deepceleron on March 22, 2012, 02:21:51 PM
+
+What is more annoying is that _all_ Bitcoin releases before 0.3.24 were just
+deleted from sourceforge. Why?? Here's Linux 1.0.0 from 1994, they aren't
+trying to erase their history...  
+
+  
+That's source code for the kernel, right?  
+  
+I removed the old binary releases from SourceForge because it was getting
+annoying to find things like testnet-in-a-box in that very long list, and also
+getting hard to see what the latest release was. And with our gitian
+reproducible build process, the windows/linux binaries for recent releases are
+deterministically reproducible from the source code.  
+  
+See https://github.com/bitcoin/bitcoin/tags for the history back to the 0.1.5
+release. Uploading 0.1 to github is a good idea, maybe somebody who knows more
+about git than I do can suggest the best way to do that.  
+

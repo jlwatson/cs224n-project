@@ -1,0 +1,26 @@
+
+
+Decentralized systems often settle into some kind of "power law distribution."  
+  
+For example, there's no central authority determining how large cities all
+over the world should be, and yet if you plot the size of cities you'll see
+that there are a few REALLY big ones, a bunch of medium sized ones, and a
+gazillion small ones.  
+  
+Plot the size of the bitcoin mining pools and I think you'll see the same
+thing.  
+  
+If there were no mining pools, then plot the hashing power of individual
+miners and I bet you'd see the same thing... (ArtForz used to be a significant
+fraction of mining power all by himself, for example)  
+  
+I worry a lot more about incentives than I do size; if the "naturally big"
+players have the right incentives, then they're not bad for the network. So
+far, I think the incentives are working nicely. For example, people HAVE tried
+to knock out the big mining pools and exchanges using denial-of-service
+attacks, and the big mining pools and exchanges have (as far as I can tell)
+worked to fix that problem themselves.  
+  
+PS: p2pool built into a bitcoin client is something I'd fully support, I think
+a lot of people would like a one-button "get a trickle of bit-pennies" option.  
+

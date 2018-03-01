@@ -1,0 +1,10 @@
+
+
+correction: bitcoin-qt/bitcoind command-line arguments have a single-dash, so
+it would be  
+bitcoin-qt -server  
+  
+Since you have to set a rpcuser/rpcpassword in the bitcoin.conf file for
+-server to work anyway, you might want to put "server=1" in the bitcoin.conf
+file instead of using the command-line argument...  
+

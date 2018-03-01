@@ -1,0 +1,27 @@
+
+
+Here's a use case I'd like to work:  
+  
+I tell Bitcoin running on my computer or cell phone to run transactions
+through a bitcoin security service-- maybe I give it a https:// URL for the
+service.  
+  
+I tell the security service "auto-approve small-value transactions, but give
+me a call for any transactions above $X (or $XY per day)."  
+  
+The security service sends me something in the mail that I keep safe, but that
+I can use to recover use of my bitcoins in case the security service goes out
+of business or disappears or I decide to stop paying for the service.  
+  
+I get bitcoin addresses either from my bitcoin client (not trustworthy!)
+and/or from the security service that require both my computer and the
+security service to sign to spend. And I have people send bitcoins (or I self-
+send my own bitcoins) to those addresses.  
+  
+Spending coins is done as usual-- I type in an amount and an address. Behind
+the scenes, magic happens, and if the transaction is greater than $X I get a
+phone call -- "Press 1 to confirm payment of $X bitcoins to bitcoin address
+blah, press 2 to cancel."  
+  
+If I suddenly get random phone calls, I know my computer has been infected.  
+

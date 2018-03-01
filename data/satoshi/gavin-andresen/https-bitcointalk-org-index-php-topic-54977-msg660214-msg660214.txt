@@ -1,0 +1,12 @@
+
+
+Quote from: SAC on December 22, 2011, 07:50:48 PM
+
+Is it wise to download any of the binaries around here, unless you audit all
+the code yourself before compiling it you should not be running any of it with
+that concern...  
+
+  
+Run them inside a virtual machine that you don't use anything else for and
+you're almost certainly safe.  
+

@@ -1,0 +1,34 @@
+
+
+Quote from: cbeast on June 11, 2012, 12:45:43 AM
+
+Quote from: Andrew Vorobyov on May 30, 2012, 05:49:15 PM
+
+Quote from: Gavin Andresen on May 30, 2012, 05:23:03 PM
+
+A multisignature transaction taking funds from #1 and paying them to #4 that
+requires signatures from #1, #2, and #3 should accomplish the same thing,
+though.  
+
+  
+Great idea, Gavin!  
+  
+So when we will have facilities to spend multi signature transactions without
+having all of the keys in one wallet?  
+  
+Can you estimate how much time will it take to develop this?  
+
+You have asked the $64,000 (literally) question. It will happen, have faith.  
+
+  
+I've been switching back and forth between writing a spec for it (
+https://gist.github.com/2839617 ), implementing it (
+https://github.com/gavinandresen/bitcoin-git/tree/signrawtx ), writing up a
+test plan (
+https://secure.bettermeans.com/projects/4180/wiki/Raw_Transaction_RPC_Test_Plan
+) and testing.  
+  
+My goal is to get all that done by the end of this week and have it in the 0.7
+release. But lots of things could make it take longer.  
+  
+

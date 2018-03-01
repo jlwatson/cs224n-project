@@ -1,0 +1,25 @@
+
+
+Quote from: BitcoinScholar on February 08, 2013, 01:42:07 AM
+
+ _The other component is an ECDSA signature over a hash of a simplified
+version of the transaction._  
+
+  
+The magic of public key crypto is that you can give somebody your public key,
+some data, and a signature, and they can be certain that:  
+  
+a) that particular signature could only have been created by somebody that has
+the private key that corresponds to the public key  
+b) the data hasn't been changed in any way  
+  
+They don't need to know the private key-- you keep it secret.  
+  
+The "hash over..." bit is the way digital signatures work-- you sign a hash of
+the data, and not the data itself, because the hash is much smaller.  
+  
+The "...simplified version of the transaction" bit is complicated. The data
+signed is the transaction minus all it's scriptSig signatures, plus (almost
+always) the previous transaction's scriptPubKey. See the OP_CHECKSIG page on
+the wiki for all the gory details.  
+

@@ -1,0 +1,13 @@
+
+
+The number of confirmations tells you which block a transaction is in:  
+0 confirmations: not in a block yet.  
+1 confirmation: in block number "getblockcount" block.  
+2 : getblockcount-1  
+... etc.  
+  
+Note that if there is a block chain reorganization which block the transaction
+is in can change (as can the number of confirmations).  
+  
+  
+

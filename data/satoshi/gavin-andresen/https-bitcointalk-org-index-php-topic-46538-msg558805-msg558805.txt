@@ -1,0 +1,41 @@
+
+
+Quote from: ByteCoin on October 04, 2011, 11:53:42 PM
+
+If such comprehensive changes are being considered then I suggest that the
+default option should be that the signatures for a transaction should not
+influence the transaction hash.  
+
+  
+... but isn't it the signatures that give each transaction its unique
+identity? I may be wrong, but without the signature hashes I think you can get
+two different transactions (two transactions that are exactly the same as far
+as scriptPubKeys, but spend different outputs) that hash to the same value,
+which would cause all sorts of problems, including replay attacks re-using old
+signatures.  
+  
+
+Quote
+
+Another improvement would be the introduction of the Bernstein signature
+scheme with a similar security parameter to the existing ECDSA but a much
+faster verification. Transactions using the cheaper signatures could get a
+discount on the fees or be allowed more sigOps.  
+
+  
+Interesting... too radical a change for right now, in my opinion. (I think
+Pieter's proposal is too radical a change for right now, too... I'm on the
+fence about whether OP_EVAL is too radical a change, but I think the
+advantages outweigh the risks).  
+  
+
+Quote
+
+With regards to key recovery, a 2 bit hint can be used to accellerate the
+process. Alternatively, a single hint value could be assumed and it would be
+the responsibility of the signer to redo the signing operation until the
+assumed hint value is correct.  
+
+  
+Pieter's proposal is <signature+2bits>  
+

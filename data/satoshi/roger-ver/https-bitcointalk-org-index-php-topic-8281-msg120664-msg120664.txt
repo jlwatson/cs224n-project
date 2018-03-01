@@ -1,0 +1,17 @@
+
+
+I have since changed the password, and I am currently the only person on the
+planet who knows it.  
+  
+Does deepbit have any sort of a log of what IP addresses log into each
+account?  
+I think that might be my only chance of having any info at all as to who took
+my bitcoins.  
+If the IP address is one in the same town as my business, I will know the
+theft was related to one of the employees who knew the password.  
+  
+If the IP address is in some far off country, then I know it was just some
+random hacker.  
+  
+Any other thoughts on how I can find additional information?
+

@@ -1,0 +1,17 @@
+
+
+Quote from: theymos on December 15, 2010, 04:10:21 PM
+
+Implementing this in a convenient way would be tough, and it would be blocked
+by IsStandard.  
+
+  
+No, implementing it would be easy. Implement it (don't forget the UI), test it
+on the test network (where it is pretty trivial to get non-IsStandard stuff
+into blocks), and then lobby for a new 'standard' transaction type.  
+  
+theymos, please stop acting like the current IsStandard test is set in stone.
+It is not, and, as Satoshi said, new versions of the client are rapidly
+adopted by a majority of the network, so introducing a new transaction type
+will not be a big deal.  
+

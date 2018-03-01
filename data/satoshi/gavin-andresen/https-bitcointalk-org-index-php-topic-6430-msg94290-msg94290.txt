@@ -1,0 +1,7 @@
+
+
+What's the extra CPU cost for recovering the public key? Current bottleneck
+for bitcoin transaction processing is the CPU cost of ECDSA signature
+verification, not disk space or bandwidth, so saving bytes at the expense of
+more CPU is not the right thing to do.  
+

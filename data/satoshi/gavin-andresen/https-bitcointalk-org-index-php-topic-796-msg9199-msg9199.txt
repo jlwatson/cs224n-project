@@ -1,0 +1,19 @@
+
+
+Quote from: dwdollar on August 14, 2010, 02:04:32 PM
+
+So you have a theory of distribution and need a currency to implement it? I
+suppose a Bitcoin-like currency could be modified to behave in this manner.  
+
+I see two fundamental problems with using a Bitcoin-like system to implement a
+Universal-Dividend-like system:  
+  
+1\. How does the system identify "individuals" ? If you've got a completely
+automated way of doing that I **really** want to know about it!
+freebitcoins.appspot.com could really use a foolproof system for identifying
+individuals.  
+  
+2\. If everybody gets a dividend, why would anybody bother running a block-
+generating node? What is the incentive for doing the work needed to support
+the system?  
+

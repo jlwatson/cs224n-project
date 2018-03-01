@@ -1,0 +1,9 @@
+
+
+The setup.exe is a "NSIS installer" -- I think this will work (but I haven't
+tried it):  
+
+Code:
+
+bitcoin-0.5.0-win32-setup.exe /S
+

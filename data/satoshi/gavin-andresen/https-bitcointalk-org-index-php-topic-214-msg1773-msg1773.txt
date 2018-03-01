@@ -1,0 +1,33 @@
+
+
+I want to write an application that does stuff whenever bitcoins are sent to a
+particular Bitcoin address.  
+  
+Actually, that feature would be useful for the Bitcoin Faucet (it could
+monitor the donation address and keep it's display of how many bitcoins are
+available more up-to-date; currently I memcache the balance and only update it
+every 10 minutes or so).  
+  
+I want this new JSON-RPC call:  
+  
+monitorreceivedbyaddress(address, nConfirmations, url)  
+address: bitcoin address to monitor  
+nConfirmations: send notification after this many transaction confirmations  
+url: POST detail of the transaction to this url (after nConfirmations)  
+  
+I'm thinking the POST data would look like:  
+
+Code:
+
+{"tx_id" : "...transaction id, maybe encoded into hex",  
+"address" : bitcoin address being monitored  
+"label" : label (if any) of the bitcoin address being monitored  
+"amount" : amount being paid to address  
+"confirmations" : number of confirmations  
+"from" : [ "address" , "address" ] # Sending address(es)  
+}  
+
+  
+I don't think teaching the bitcoin client to do HTTP POSTs would be horribly
+hard; I might take a whack at implementing this myself...  
+

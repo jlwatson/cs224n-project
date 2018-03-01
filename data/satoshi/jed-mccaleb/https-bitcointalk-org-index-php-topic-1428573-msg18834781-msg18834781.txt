@@ -1,0 +1,5 @@
+
+
+Here are a list of wallets: https://www.stellar.org/about/directory#wallets  
+Another good one is: https://github.com/stellarchat/desktop-client/releases  
+

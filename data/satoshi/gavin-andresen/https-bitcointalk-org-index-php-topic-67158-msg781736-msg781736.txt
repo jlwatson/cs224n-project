@@ -1,0 +1,6 @@
+
+
+Those 0.002 bitcoins cannot be redeemed, because there is no input that will
+make that script valid (because there are no OP_ENDIF opcodes in there to
+match the OP_IFDUP/OP_IF opcodes).  
+

@@ -1,0 +1,30 @@
+
+
+Great ideas, Mike. I think the "use two servers" approach will happen first
+(you typically want at least two servers anyway just for backup and
+redundancy), but trusted code running in a TPM could be an extremely powerful
+and cost-effective building block for much more secure solutions.  
+  
+RE:  
+
+Quote from: Mike Hearn on March 05, 2012, 11:19:25 PM
+
+How do you abstract and simplify the techniques needed to track external
+state. For instance, a pool server needs to track who is owed what payouts.
+Even if an attacker can't compromise the wallet, they could submit bogus
+payment data to the monitor and trick it into signing away its money. The
+monitor could potentially store and manage the entire database itself, but
+there are often better ways. The trick is to make them simple. This is a
+problem shared with the multi-server approach. Common design patterns would
+help a lot.  
+
+  
+That seems like the hardest problem.  
+  
+Does the TPM have access to a guaranteed-to-be-unhackable time source? If it
+does, then a policy like "do not approve more than X bitcoins worth of
+transactions in timeperiod Y" should work well enough to prevent more than
+petty theft, assuming you've got some other way of watching the blockchain for
+unauthorized transactions and shutting down the compromised machine or using
+an emergency offline backup key to move the funds to a non-compromised wallet.  
+

@@ -1,0 +1,10 @@
+
+
+Quote from: gmaxwell on August 30, 2013, 06:49:38 AM
+
+Please stop!  
+
+  
+Yes, please stop polluting the UTXO set. There are much better ways to
+accomplish what you want to accomplish.  
+

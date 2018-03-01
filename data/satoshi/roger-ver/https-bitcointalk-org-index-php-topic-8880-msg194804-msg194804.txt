@@ -1,0 +1,27 @@
+
+
+Here is what the main guy (Brian) who is working on this said:  
+ _I've now got the bitcoin settings in the admin pages so it can be turned on
+and off, and I have a test product in the store. Next is adding the code to
+talk to the local bitcoind. That code exists already at bitcoin.org. I'm too
+busy to make that priority #1 but its moving along.  
+  
+This weekend I am doing speeches at 2 different events around the Bay Area
+about bitcoin! That's why I'm busy now. One of them is going to be tough and
+technical, for the Bay Area Hackers Association in SF. They want technology
+and crypto talk. The other is at a floating anarchist festival out on the
+delta near Stockton. They will pick me up in a speedboat and drive me out to
+the event! That one is Saturday at noon I think. So I am busy preparing two
+different speeches.  
+  
+Bitcoin hit $32!  
+  
+Crazy!  
+  
+B  
+_  
+  
+  
+I'm not sure what his ID is on the forums here, but I imagine he would love
+some help!  
+

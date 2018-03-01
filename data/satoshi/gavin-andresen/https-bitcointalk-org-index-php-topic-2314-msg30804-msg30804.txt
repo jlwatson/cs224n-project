@@ -1,0 +1,21 @@
+
+
+Quote from: davout on December 16, 2010, 05:28:24 PM
+
+Maybe a composite ID would solve the problem, anyway I think that if something
+is called ID it should be guaranteed to be unique (or collision likelihood
+should be limited to the probability of a hash collision)  
+
+  
+Just use transactionID+account.  
+  
+You've already got the problem that if a customer sends coins from account A
+to an address that belongs to account B, that is a single, unique transaction
+that affects two accounts.  
+  
+listtransactions will Do the Right Thing (generate two entries, different
+accounts, same transaction id). And gettransaction won't lie to you (it
+doesn't say anything about what accounts were involved, on purpose, for
+exactly this reason).  
+  
+

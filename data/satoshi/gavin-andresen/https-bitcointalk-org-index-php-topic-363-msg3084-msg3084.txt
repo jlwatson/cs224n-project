@@ -1,0 +1,18 @@
+
+
+It's **ALIVE**!  
+  
+  
+  
+Source on git now has:  
+  
+\+ different genesis block  
+\+ ridiculously easy minimum proof of work threshold  
+\+ protocol message header bytes are { 0xfa, 0xbf, 0xb5, 0xda } instead of {
+0xf9, 0xbe, 0xb4, 0xd9 }  
+  
+If you compile and connect and turn on coin generation you'll generate a lot
+of play money quickly...  
+(I've turned off generation, but will keep my three clients -- two Linux, one
+Mac -- connected)
+

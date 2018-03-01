@@ -1,0 +1,18 @@
+
+
+Quote from: riush on March 05, 2011, 05:40:48 PM
+
+\- tag these minor releases in git, too  
+\- sign tags with gpg (git tag -s -u <email> <tag>)  
+
+  
+The tag is v0.3.20.2, and it is signed by my (gavinandresen@gmail.com) gpg
+key.  
+  
+RE: roadmap for v0.4 : I worry that we'll spend time creating a roadmap and
+then... people will work on whatever strikes their fancy. So the 0.4 release
+will end up being completely different from what the roadmap says.  
+  
+That said, I'll start a roadmap thread; maybe we CAN all agree on priorities
+and find people to actually work on the highest priority stuff.  
+

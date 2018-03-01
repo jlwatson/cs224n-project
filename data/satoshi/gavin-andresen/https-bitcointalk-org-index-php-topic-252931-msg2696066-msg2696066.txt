@@ -1,0 +1,17 @@
+
+
+Nice work!  
+  
+RE: gcc creating different binaries:  
+  
+The gitian build does two main things to make builds reproducible:  
+  
+1\. Uses libfaketime.so so all calls to time()/etc during compilation return
+the same time.  
+(I don't know if it is the compiler, linker, or archiver that likes to put
+timestamps in binaries)  
+  
+2\. Passes -frandom-seed=constant to g++, so it doesn't create random names
+for generated methods.  
+  
+

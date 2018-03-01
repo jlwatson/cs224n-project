@@ -1,0 +1,12 @@
+
+
+The Faucet has several abuse prevention features in place. I'm not going to
+say what they are because then the 'bad guys' would have a road map for what
+to do to try to get around them.  
+  
+They're not 100% foolproof, but they're pretty good.  
+  
+The steady stream of transactions from the Faucet the last few days IS because
+of the increased interest due to the security now podcast and slashdot
+mention.
+

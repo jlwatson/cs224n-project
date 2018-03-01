@@ -1,0 +1,18 @@
+
+
+Seems like $ would be inviting confusion, since it's followed by numbers that
+can look kind-of like a dollar amount:  
+19vcWM6EEbQHVdN2W8NXv9ySgsPjbZ6gU3$64.20.45.38  
+  
+means send $64.20 to my bitcoin address ?  
+  
+Hyphen or underscore would be less confusing, but I think period would work
+really nicely:  
+  
+19vcWM6EEbQHVdN2W8NXv9ySgsPjbZ6gU3.64.20.45.38  
+19vcWM6EEbQHVdN2W8NXv9ySgsPjbZ6gU3.skypaint.com  
+  
+The advantage of that last one is it is a valid URL; if a user pasted that
+into Firefox's URL bar or searched for it in Google the website owner could
+display a helpful web page explaining how to pay.  
+

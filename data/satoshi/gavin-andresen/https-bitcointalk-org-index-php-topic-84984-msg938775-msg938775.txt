@@ -1,0 +1,11 @@
+
+
+I'd love to see somebody resurrect the Visual C++ makefile and build
+instructions (and let us know if we've accidentally added and gcc-specific
+code), so Windows developers didn't have to spin up a VM and cross-compile
+everything.  
+  
+As to why your builds are different: no idea, but you can look at the file-by-
+file checksums in the bitcoin-build.assert file to see exactly what is
+different.  
+

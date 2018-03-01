@@ -1,0 +1,26 @@
+
+
+Quote from: DeepBit on April 08, 2012, 06:25:37 PM
+
+Quote from: Gavin Andresen on April 08, 2012, 03:13:58 PM
+
+Extending Bitcoin to new and wonderful types of transactions is fine, and,
+actually, I believe Therilith could build most of what he wants on top of
+Bitcoin
+
+I don't think you are interested in wonderful types of transactions, may be
+even the opposite.  
+Now the rules are more strict and inputs are being checked for being standard
+too  
+  
+We had the chance to enable more opcodes inside P2SH, but it didn't
+happened...  
+
+Write up a proposal, start experimenting on testnet, recruit people to think
+really hard about how whether or not what you're proposing could be abused to
+compromise security or could make a denial-of-service attack easier...  
+  
+I'm against changes that _might_ make Bitcoin a tiny bit better, but if you've
+got a well-thought-out proposal for how to make Bitcoin much better in some
+way then I'll help you argue for it.  
+

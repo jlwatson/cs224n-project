@@ -1,0 +1,19 @@
+
+
+Quote from: kiba on May 14, 2011, 03:12:41 PM
+
+Beware of other people using your accounts.  
+
+  
+I agree, but they are both trusted long term employees 5+ years who I trust.  
+  
+  
+I am guessing that deepbit maybe susceptible to a brute force password hacking
+attack.  
+You seem to be able to try as many incorrect passwords on the site in a row as
+you want.  
+I hope they put a delay after 3 failed log in attempts.  
+  
+Does anyone have the contact info for the admin at deepbit?  
+I am hoping they have some kind of log for whoever logged into my account.
+

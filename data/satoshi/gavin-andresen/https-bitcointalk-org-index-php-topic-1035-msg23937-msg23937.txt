@@ -1,0 +1,12 @@
+
+
+Designing and implementing user-friendly wallet backup for the GUI bitcoin
+seems like it would be a great little project for somebody who knows C++ and
+knows, or is willing to learn, wxWidgets programming. The non-GUI code already
+has the 'backupwallet' RPC method, and 'getinfo' will tell you the age of the
+oldest key in your keypool.  
+  
+For extra credit, the code could keep track of the last successful backup and
+warn you that it is time to backup again when the keypool age gets close to
+the last backup time.  
+

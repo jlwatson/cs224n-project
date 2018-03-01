@@ -1,0 +1,14 @@
+
+
+Meh.  
+  
+Lots of other ways that merchants could arrange to pay transaction fees, I
+don't think we need a hard fork to solve that problem.  
+  
+E.g. : child-pays-for-parent.  
+  
+Or an extension to the payment protocol so the merchant provides an already-
+signed SIGHASH_SINGLE / SIGHASH_ANYONECANPAY input to pay the fee that the
+client includes as the first input in the transaction.  
+  
+

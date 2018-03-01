@@ -1,0 +1,7 @@
+
+
+The "Bitcoin Ticker" app on Iphone will automatically send you push alerts
+whenever bitcoin reaches the price you set.  
+It is a great app that I enjoy a lot.  
+I don't know if there is an android version.
+

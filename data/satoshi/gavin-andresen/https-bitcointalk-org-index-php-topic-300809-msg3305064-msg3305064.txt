@@ -1,0 +1,15 @@
+
+
+"Impress with this protocol" ??  
+  
+My primary motivation for the payment protocol can be seen in this mock-up of
+multi-signature transaction authorization:  
+https://moqups.com/gavinandresen/no8mzUDB/p:af7339204  
+  
+I want much more secure wallets, but we can't get there unless the "who am I
+paying" piece is authenticated.  
+  
+You should save the "Gavin is trying to impress evil institutional investors"
+mud-slinging for when I get around to laying out the argument for increasing
+the block size, because that would be closer to the truth.  
+

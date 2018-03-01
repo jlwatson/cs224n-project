@@ -1,0 +1,4 @@
+
+
+I split ByteCoin's OP_EVAL post and followups into it's own thread.  
+

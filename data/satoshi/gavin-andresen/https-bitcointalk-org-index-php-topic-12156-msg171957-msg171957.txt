@@ -1,0 +1,34 @@
+
+
+Quote from: frycicle on June 05, 2011, 07:14:19 PM
+
+What kind if growing pains are you speaking of?  
+
+  
+Technical growing pains like the ones we're dealing with right now-- IRC
+channel filling up so new people are having trouble connecting, BTC/$ going up
+so the 0.01BTC transaction fees are too high, etc. There will be more of these
+as transaction volume increases, some in the core bitcoin code and more
+affecting bitcoin-running websites (who will find they have to upgrade their
+servers to handle increased volume/users, etc).  
+  
+Legal growing pains. I expect somebody doing something illegal and using
+bitcoins to help do it will get caught, put in jail, and that will be mis-
+reported as "bitcoins are illegal!" I'd say there's a 1 in 5 chance of bitcoin
+being made outright illegal in the USA, but I also know that I'm terrible at
+accurately predicting stuff.  
+  
+Security growing pains. My biggest worry is what to do about non-
+technologically-savvy people running bitcoin on a virus-infested personal
+computer or mobile phone and losing all their bitcoins the first time they
+enter their password (I'm assuming their wallet will be password-protected) to
+send a couple coins to their friend.  
+  
+And just plain new-technology growing pains. Expect some (maybe most) bitcoin-
+related companies to fail, because most startups fail. Some people will lose
+money when they do.  
+  
+Again, I'm optimistic because there are, and will be, lots of motivated people
+working to solve all of these problems, and because I believe the core
+technology is solid. But I don't expect smooth sailing.  
+

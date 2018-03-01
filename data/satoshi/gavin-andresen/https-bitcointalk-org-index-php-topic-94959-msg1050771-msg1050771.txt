@@ -1,0 +1,87 @@
+
+
+There's a prettier version of this here: https://gist.github.com/3161162  
+  
+ **Goal:**  
+Multi-person 'cold storage' wallet, using the upcoming 0.7-release 'raw
+transactions' JSON-RPC api (geek's multisig):  
+  
+ **Setup:**  
+Alice generate a public/private keypair. She prints them out and stores them
+somplace physically secure offsite as a backup. She secures the private key in
+a way she can easily access.  
+  
+Bob does the same, then Alice and Bob exchange public keys and both form a
+2-of-2 multisig address using addmultisigaddress and verify that it's the same
+for both of them.  
+  
+0.1 BTC are sent to the multisig address, then Alice and Bob follow the spend
+procedure to make sure it works properly. If it does, the multisig address is
+fully funded as the secure 'cold' wallet. Public keys, multisig address, and
+funding/spending Transaction IDs and amounts are kept in a spreadsheet
+accessible to Bob and Alice (and potentially anybody else interested in
+auditing; Google Docs or DropBox or any other document-sharing solution
+works).  
+  
+To detect security breaches, Alice and Bob should send a token amount of
+bitcoin (say 1 BTC) to the public keys that they are using, and should never
+spend those coins. Both addresses should be monitored by both Alice and Bob,
+and if they see coins being spent they should assume that the corresponding
+private key has been compromised and transfer the multisignature coins to a
+new, secure multisig address with fresh keys generated on devices that have
+not been compromised.  
+  
+ **Spend:**  
+Alice selects enough unspent transactions to withdraw the amount she wants and
+cover fees. She updates the Google Doc document and marks the funding
+transactions as 'PENDING SPEND'.  
+  
+She calls createrawtransaction with those inputs and one or two outputs:  
+
+  * Output to the address where the withdrawal is going
+  * Change output, back to the multisig address
+
+She calls signrawtransaction, passing in her private key, and then send the
+half-signed transaction to Bob (via email or any other method).  
+  
+Bob calls decoderawtransaction and checks with Alice to make sure the
+transaction is OK (Bob and Alice either communicate in advance via phone or
+Bob calls Alice to verify the transaction details).  
+  
+Assuming all is OK, Bob calls signrawtransaction and then sendrawtransaction
+to broadcast to the network. He marks the PENDING SPEND inputs in the shared
+spreadsheet 'SPENT', and adds the change output (if any) to the spreadsheet as
+a new potential input for future spends.  
+  
+ **Variations/notes:**  
+Depending on the level of security felt to be necessary, securing the private
+keys might involve encrypting them with pgp and a passhprase and storing them
+encrypted on the computer or in the cloud. Or storing them in a LastPass
+secure note. Or storing them on a passphrase-protected IronKey USB stick.
+Alice and Bob don't necessarily have to follow the same procedure for securing
+their private keys.  
+  
+If Alice or Bob suffer any sort of security breach or some period of time goes
+by (1 year?), they should generate new keys and a new address and send all
+funds to the new address.  
+  
+If Alice and Bob do this more than twice, a little front-end tool that
+automated much of the process would be a worthwhile investment; that tool
+could be a prototype for adding complete multisig support to Bitcoin-Qt. Then
+again, it might just be easier to add support to Bitcoin-Qt in the first
+place.  
+  
+Extending this so any two of (Alice,Bob,Carol) can authorize a transaction out
+of the wallet is straightforward, and would prevent loss of funds if any one
+of them completely lost access to their private key. Or if even more security
+is needed then requiring all three authorize withdrawals is also
+straightforward.  
+  
+Sending the change back into the same multisig address is somewhat bad for
+both security (the public keys associated with the address are revealed at the
+first spend transaction) and privacy. This can also easily be extended to use
+two (or more) Hierarchical Deterministic Keys (see BIP 32), with a new
+multisig address generated for any change on every withdrawal.  
+  
+Alice and Bob might be one person, of course, using two different computers.
+

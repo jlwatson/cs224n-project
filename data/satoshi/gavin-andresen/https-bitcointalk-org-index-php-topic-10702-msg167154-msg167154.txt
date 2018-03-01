@@ -1,0 +1,16 @@
+
+
+Quote from: ArdaXi on June 02, 2011, 08:29:06 PM
+
+Quote from: Garrett Burgwardt on May 31, 2011, 09:57:14 PM
+
+Additionally, bitcoin isn't meant for micropayments.  
+
+It was my understanding that it was, in fact, meant for micropayments,
+especially since 1 BTC exceeds $10 now.  
+
+  
+Depends on your definition of "micropayment". Bitcoin is not suitable for
+transactions of less than a US penny, because of its fixed costs of processing
+transactions.
+

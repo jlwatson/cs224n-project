@@ -1,0 +1,19 @@
+
+
+Quote from: theymos on March 03, 2011, 08:43:47 PM
+
+Couldn't peers theoretically need to send 500 MB in response to a getblocks
+request? The limit should perhaps be MAX_BLOCK_SIZE*500.  
+
+  
+500MB per connection times 100 connections would be 50 GB. That re-opens the
+door to a memory exhaustion denial-of-service attack, which is the problem
+-maxsendbuffer fixes.  
+  
+As transaction volume grows I think there will be lots of things that need
+optimization/fixing. One simple fix would be to request fewer blocks as they
+get bigger, to stay inside the sendbuffer limit...  
+  
+(ps: I've been re-downloading the current block chain connected to a
+-maxsendbuffer=10000 0.3.20 node, and the workaround works)
+

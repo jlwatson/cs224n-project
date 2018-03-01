@@ -1,0 +1,23 @@
+
+
+Auto-reset once a month... very interesting idea.  
+  
+It'd make a mess of peoples' testnet wallets-- they'd be full of orphaned
+0-confirmation transactions. But deleting your testnet wallet once a month
+wouldn't be that big a burden, and that should prevent people from trading
+testnet coins as if they were worth something.  
+  
+Somebody who wanted to be annoying could still drive up difficulty after every
+reset and make life miserable for anybody testing their new exchange or
+merchant software, though.  
+  
+The problem with **just** doing more frequent difficulty adjustments is
+somebody with lots of hashing power can still over-write huge parts of the
+chain whenever they like. I suppose you could argue that bitcoin services
+should be written so that they can handle suddenly getting a 600-block-long
+chain-reorg... but that just does NOT happen on the real bitcoin network.  
+  
+More hare-brained thoughts: could automatic block-chain lock-ins for the
+testnet be implemented somehow? Fetch a block depth/hash pair from a website
+somebody volunteers to create (auto-updated once a day...) ?  
+

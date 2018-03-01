@@ -1,0 +1,35 @@
+
+
+Quote from: phantomcircuit on March 10, 2011, 02:51:29 AM
+
+And I dont know how you'd be able to detect that you were being attacked if an
+attacker simply controlled a large % of the connectible peers. (which reminds
+me you could actually control 75% of the current network with just 1500 ips
+because only about 500 peers are connectible)  
+
+  
+Well, imagine an attacker did manage to surround your node.  
+What can they do?  
+  
+a) Dropping outgoing transactions-- a send-coins denial-of-service.  
+b) Dropping incoming transactions-- a 0-confirmation-receive-coins denial-of-
+service  
+  
+Can these be exploited somehow to the attacker's advantage? Maybe if attacker
+and attackee were competing on a bidding site or the site being attacked was a
+bidding site and the attacker wanted to squash competing bids. Rounding up
+thousands of IPs to try to get a better deal on biddingpond hardly seems worth
+it. And an old-fashioned DDoS attack can probably take out any one particular
+node anyway, with or without bitcoin involved.  
+  
+c) Dropping new block announcements (that would be a 1+-confirmation-receive-
+coins DoS)  
+d) ... and maybe feeding the attacked node attacker-generated blocks  
+  
+(d) is more serious, because the attacker could generate bogus N-confirmation
+transactions. But it should be detectable; assuming the attacker doesn't have
+as much hashing power as the rest of the network, blocks will be generated
+much more slowly (either much more slowly after the last compiled-in block
+checkpoint if you're downloading the block chain, or much more slowly since
+the last time your node connected to the network).  
+

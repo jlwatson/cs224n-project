@@ -1,0 +1,26 @@
+
+
+Quote from: dust on February 27, 2013, 10:42:47 PM
+
+I did some price comparisons and BitcoinStore is actually cheaper this time
+(unlike during beta when "cheaper than Amazon" really meant "cheaper than some
+third-party sellers on Amazon").  
+  
+
+Quote
+
+MtGox $31.56 Bitcoinstore $31.42
+
+The hidden 1% fee due to the exchange rate used is a bit deceptive. I would
+rather just see higher prices with the proper exchange rate.  
+
+  
+$0.16 difference does NOT equal a 1% fee.  
+  
+The MTGOX price displayed is the most recent trade value on MTGOX.  
+The BitcoinStore price is based on the highest ask price on MTGOX.  
+  
+Sometimes this value is the same, sometimes there is a spread, but you will
+always get more via BitcoinStore.com than you would by selling your coins on
+MTGOX at the same instant.  
+

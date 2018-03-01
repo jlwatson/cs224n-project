@@ -1,0 +1,15 @@
+
+
+Quote from: Hal on January 21, 2011, 10:10:15 PM
+
+Satoshi once suggested that people could hack their client to generate and
+discard a bunch of random addresses until you got one that started with your
+initials or even your name if it was short.  
+
+  
+I wrote a 'vanity bitcoin address' patch a while ago that lets you do exactly
+that: https://gist.github.com/614460  
+  
+I bet finding an address starting 1HAL... wouldn't take more than a few hours.
+If I recall, it took a day or so to find one with the string 'gavin' in it.  
+

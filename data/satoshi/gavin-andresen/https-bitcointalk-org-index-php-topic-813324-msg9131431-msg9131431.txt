@@ -1,0 +1,53 @@
+
+
+Quote from: theymos on October 08, 2014, 05:37:37 AM
+
+Lowering the limit afterward wouldn't be a soft-forking change if the majority
+of mining power was creating too-large blocks, which seems possible.  
+
+  
+When I say "soft-fork" I mean "a majority of miners upgrade and force all the
+rest of the miners to go along (but merchants and other fully-validating, non-
+mining nodes do not have to upgrade)."  
+  
+Note that individual miners (or sub-majority cartels) can unilaterally create
+smaller blocks containing just higher-fee transactions, if they think it is in
+their long-term interest to put upward pressure on transaction fees.  
+  
+
+Quote from: theymos on October 08, 2014, 05:37:37 AM
+
+I think that a really conservative automatic increase would be OK, but 50%
+yearly sounds too high to me. If this happens to exceed some residential ISP's
+actual bandwidth growth, then eventually that ISP's customers will be unable
+to be full nodes unless they pay for a much more expensive Internet
+connection. The idea of this sort of situation really concerns me, especially
+since the loss of full nodes would likely be gradual and easy to ignore until
+after it becomes very difficult to correct.  
+  
+As I mentioned on Reddit, I'm also not 100% sure that I agree with your
+proposed starting point of 50% of a hobbyist-level Internet connection. This
+seems somewhat burdensome for individuals. It's entirely possible that Bitcoin
+can be secure without a lot of individuals running full nodes, but I'm not
+sure about this.  
+
+  
+Would 40% initial size and growth make you support the proposal?  
+  
+
+Quote from: theymos on October 08, 2014, 05:37:37 AM
+
+  
+Determining the best/safest way to choose the max block size isn't really a
+technical problem; it has more to do with economics and game theory. I'd
+really like to see some research/opinions on this issue from economists and
+other people who specialize in this sort of problem.  
+
+  
+Anybody know economists who specialize in this sort of problem? Judging by
+what I know about economics and economists, I suspect if we ask eleven of them
+we'll get seven different opinions for the best thing to do. Five of which
+will miss the point of Bitcoin entirely. ("...elect a Board of Blocksize
+Governors that decides on an Optimal Size based on market supply and demand
+conditions as measured by an independent Bureau of Blocksize Research....")  
+

@@ -1,0 +1,17 @@
+
+
+Update on the problem and release:  
+  
+m0mchil reports no rendering issues running a 0.3.20 bitcoin compiled using
+the mingw toolchain, and has volunteered to document/setup the build
+environment (in an Amazon EC2 virtual machine that I'll make public so it'll
+be easier for anybody to get a working bitcoin windows build environment up
+and running).  
+  
+And responding to alkor: Windows/Mac open source coders seem to be a lot rarer
+than Linux... which is not surprising, I suppose.  
+  
+PS to genjix: Looking good! I'll try to find some time to give it a try (I
+don't know Qt programming so I probably won't be able to help code, though).  
+  
+

@@ -1,0 +1,10 @@
+
+
+Dhaw generated all of these coins on his (her?) own machines.  
+  
+Unfortunately, either due to a bug or some oddness with Dhaw's network
+connections they were all generated on an alternate block chain.  
+  
+The Bitcoin client really shouldn't allow coin generation until you have all
+of the blocks up to the last block checkpoint.
+

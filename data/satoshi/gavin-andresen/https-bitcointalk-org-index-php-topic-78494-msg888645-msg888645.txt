@@ -1,0 +1,11 @@
+
+
+On restart, you should be able to ask bitcoind for the top-of-chain block
+(using getblockcount/getblockhash/getblock).  
+  
+If it's not in your database, then add it. Then look at the previous block
+hash, and if it's not in your database ask bitcoind for it (and so on).  
+  
+To be extra safe, after you're all done ask bitcoind for the top-of-chain
+block again to see if there was a block re-org while you were catching up.  
+

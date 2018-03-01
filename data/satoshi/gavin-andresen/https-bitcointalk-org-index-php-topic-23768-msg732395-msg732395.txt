@@ -1,0 +1,18 @@
+
+
+Quote from: Luke-Jr on February 05, 2012, 06:42:59 AM
+
+Since it seems a lot of pools have been hacked (and balances emptied)
+recently, I just thought I'd let everyone know that Eligius _should be_ immune
+to this attack. Since we generally payout in generation, I can safely encrypt
+the pool wallet, and never unlock it on the actual pool server (ie, only
+create manual payout transactions on an offline system).  
+
+  
+But what if somebody hacked into your server and modified the code that
+decides which addresses get paid out?  
+  
+If they were smart, they'd shave just a little bit from everybody's payout and
+insert a payout to themselves... I imagine it could take quite a while before
+anybody noticed.  
+

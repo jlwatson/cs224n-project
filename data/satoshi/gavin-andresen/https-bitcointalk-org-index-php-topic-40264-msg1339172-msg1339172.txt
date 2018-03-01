@@ -1,0 +1,35 @@
+
+
+Quote from: piuk on November 13, 2012, 05:33:10 PM
+
+What about this... The owner of a website puts a file on their website called
+bitcoin_tags.json or something like that. This would server a similar purpose
+to sitemap.xml but instead contains a number of bitcoin addresses and labels.  
+  
+For example http://wikileaks.org/bitcoin_tags.json  
+  
+{  
+"tags" : {  
+"address" : "1HB5XMLmzFVj8ALj6mfBsbifRoD4miY36v",  
+"tag" : "Donations",  
+"sig" : "signature of concatenated tag and domain"  
+}  
+}  
+  
+Once the owner of a website has added the file they can suggest that
+blockchain.info indexes it, once indexed blockchain.info will display the new
+tag accordingly. This has the advantage of.  
+  
+* maintainable, webmaster can update bitcoin_tags.json as they choose. Deadlinks will be removed from the database.   
+* Decentralised, any service can index tags.  
+* More secure, both the domain and the address signature is verified. Tags can be independently verified if necessary and little moderation is needed.  
+
+  
+You should only trust tags fetched via https, otherwise a man-in-the-middle
+could hijack the .json file and replace the address and signature.  
+  
+(and I think you'd want "tags" to be an Array of Objects...)  
+  
+RE: adding data to the blockchain: Did you see Stefan Thomas' nifty idea for
+using ECC math to tie a hash to a transaction without any blockchain bloat?  
+

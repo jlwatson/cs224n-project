@@ -1,0 +1,25 @@
+
+
+Quote from: Hal on February 10, 2011, 11:31:02 PM
+
+Verifying an ECDSA signature takes about 3 ms. Let's say the typical
+transaction has 2 inputs. Each transaction is verified twice, once alone and
+once in a block. That's 12 ms per node, times 10000 nodes...  
+
+  
+Thanks Hal!  
+  
+If I had a cluster of bitcoin transaction processing nodes (or a big mining
+farm), I'd connect them with memcache and store transaction hashes/verified
+flag pairs, so signatures were verified once. Or maybe just have one machine
+filter transaction/block traffic and only pass along valid
+transactions/blocks, and not have the rest of the machines even bother
+checking signatures.  
+  
+It will be tougher for individual nodes. If they're not mining, they could
+just check signatures ONLY on somebody-sent-to-them transactions.  
+  
+If they are mining... well, it seems to me single-node miners will become
+increasingly rare as bitcoin scales up. Hardware farms or miners using a
+mining pool seem like the way of the future.  
+

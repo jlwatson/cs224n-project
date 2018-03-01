@@ -1,0 +1,33 @@
+
+
+Specifically, what are you proposing? What nVersion value should they check,
+what should they check it against, and what should they do if the check
+fails/succeeds?  
+  
+Messages do not have version numbers. Nodes exchange their client versions on
+connection, but that value increments with every release. There's no way to
+know if packets from a more-recent client peer have changed to be incompatible
+with this version.  
+  
+Here is some of the code that handles the "version" message:  
+
+Code:
+
+// Change version  
+if (pfrom->nVersion >= 209)  
+pfrom->PushMessage("verack");  
+pfrom->vSend.SetVersion(min(pfrom->nVersion, VERSION));  
+if (pfrom->nVersion < 209)  
+pfrom->vRecv.SetVersion(min(pfrom->nVersion, VERSION));  
+
+  
+pfrom->nVersion is the peer version. This sends the "verack" message, checking
+if the peer is newer than version 209 for backwards compatibility. It sets the
+outgoing serialization version (vSend) to the older of the peer and this node,
+but only does it for incoming (vRecv) for peers older than 209. Otherwise the
+incoming deserialization version is left at this node; don't know why the
+difference.  
+  
+This design puts the responsibility on the newer node to send/receive
+backwards compatible messages.  
+

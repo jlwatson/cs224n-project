@@ -1,0 +1,7 @@
+
+
+This will get you started:
+https://www.stellar.org/developers/learn/concepts/assets.html  
+You can also jump in our slack channel and ask questions: slack.stellar.org  
+  
+

@@ -1,0 +1,15 @@
+
+
+Crashing bugs, any bug that might result in loss of bitcoins, and security
+fixes are always highest priority, but here are the big things I think are
+very high priority that, as far as I know, nobody is working on. I think they
+all need to be done before we can say we have a "Bitcoin 1.0" :  
+  
+
+  * finish download-only-blockheaders client mode
+  * password-protect the wallet private keys (mitigate the steal wallet.dat problem: see https://gist.github.com/803170 )
+  * import a backed-up wallet
+  * figure out how to do click-to-pay
+  * design/implement a secure DNS-like "map string to bitcoin address" system (so I can send bitcoins to "gavin@acm.org")
+  * export+encrypt part of your balance (for long-term storage; I still waffle on whether we want to encourage that right now)
+

@@ -1,0 +1,20 @@
+
+
+  
+The below problem has been resolved.  
+Thank you Instawallet!  
+  
+  
+ _It seems that someone is trying to attack Instawallet.org  
+  
+There have been more than 50K new wallets created in the last few minutes or
+so. (From less than 2M to over 2.05M )  
+If you watch the page, the number of wallets is increasing faster than the eye
+can follow.  
+  
+My recent instawallet deposit has also not been credited into my account.  
+  
+What is going on, and what can the community do to help?  
+  
+(If someone knows the owners, please contact them)_
+

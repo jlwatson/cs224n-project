@@ -1,0 +1,22 @@
+
+
+There was a thread on twitter
+(https://twitter.com/taoeffect/status/832041974735654912) debating this
+question and I wanted to move it here since discussions on twitter usually
+aren't that productive.  
+  
+In my view Stellar is definitely permission-less. Anyone can run a validator.
+You don't need permission from anyone to join or use the network.  
+  
+Greg, in the case that you are concerned with that there could be some
+"cartel" of validators that are all listening to each other and no one else,
+it is trivial for people to set up their own validators outside this cartel
+and listen to each other.  
+  
+Keep in mind that this can also easily happen in bitcoin, if a cartel of
+miners with over 51% of the hashing decide to stop accepting blocks from
+people outside of cartel they can do this. The difference is in bitcoin it
+would be hard to ignore the cartel and there is economic incentive for the
+cartel to take all the blocks.  
+  
+

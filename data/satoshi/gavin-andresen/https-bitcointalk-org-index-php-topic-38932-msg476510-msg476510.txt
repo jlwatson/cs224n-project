@@ -1,0 +1,24 @@
+
+
+You're right, I think even without blockexplorer Satoshi would've added the
+IsStandard() check. There were a series of "oops, didn't think of that"
+moments that pushed him to disable a bunch, tighten up some requirements on
+existing opcodes, and add IsStandard().  
+  
+In general, I believe in "whitelisting" instead of "blacklisting" to try to
+prevent harm. Enable functionality that you can prove (or convince yourself
+beyond a reasonable doubt) will not cause problems. I'm strongly influenced
+from watching web content systems that fail repeatedly trying to detect
+malicious HTML or CSS.  
+  
+RE: allow non-standard transactions but give them a very low priority so they
+take a very long time to confirm: I like that idea. I'll have to think a
+little more about possible unintended consequences (will they tend to fill up
+transaction memory pools and crowd out low-priority standard transactions? Do
+they need their own memory-limited pool? etc)  
+  
+The intent was always to relax the rules when SPV/headers-only mode was
+implemented and non-mining clients didn't need to download the entire block
+chain. However, nobody tackled that work (it is on my TODO list, right after I
+tackle some testing framework work).
+

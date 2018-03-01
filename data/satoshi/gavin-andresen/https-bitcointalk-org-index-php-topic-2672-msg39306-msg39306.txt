@@ -1,0 +1,7 @@
+
+
+I don't think we have consensus that CORS in bitcoin is a good idea, so I'm
+not going to pull this now.  
+  
+tcatm's little proxy server is a good workaround.  
+

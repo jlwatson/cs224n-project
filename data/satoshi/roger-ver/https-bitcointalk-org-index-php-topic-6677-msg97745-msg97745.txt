@@ -1,0 +1,9 @@
+
+
+I just tested out your shopping cart. (I hope you don't mind)  
+Does it generate a different bitcoin address for each customer, or use the
+same one for every order?  
+  
+Thanks for your effort!  
+  
+

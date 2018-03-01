@@ -1,0 +1,37 @@
+
+
+Quote from: piotr_n on July 03, 2012, 09:11:12 AM
+
+Any ideas when this will get included into the main build?  
+
+It was pulled into what will become the 0.7 release a while ago.  
+  
+Documentation is now on the wiki: https://en.bitcoin.it/wiki/Raw_Transactions  
+  
+I decided not to abbreviate "transaction" -- none of the other RPC calls use
+abbreviations. And the features have been tweaked a little bit.  
+  
+There are some nice unintended-but-useful things you can do with it-- as
+documented on the wiki page:  
+  
+ **Re-broadcast a transaction**  
+If you want to re-broadcast a transaction right away, you can use the
+getrawtransaction and sendrawtransaction API calls to do that. As a bash
+shell-script one-liner it would be:  
+
+Code:
+
+sendrawtransaction $(getrawtransaction $TXID)
+
+(note that Bitcoin-Qt/bitcoind automatically re-transmit wallet transactions
+periodically until they are accepted into a block).  
+  
+ **Validate a transaction without broadcasting it**  
+If you have a raw transaction and want to make sure all of it's signatures are
+correct, you can use the signrawtransaction API call. Pass in the hex-encoded
+raw transaction, any inputs that bitcoind doesn't yet know about, and an empty
+array of private keys to use to sign the transaction. Passing an empty array
+of private keys will prevent signrawtransaction from doing any signing; if it
+returns "complete":1 then all of the existing signatures are valid and there
+are no signatures missing.  
+

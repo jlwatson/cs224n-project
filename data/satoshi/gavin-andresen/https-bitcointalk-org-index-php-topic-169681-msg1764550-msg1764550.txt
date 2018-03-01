@@ -1,0 +1,17 @@
+
+
+I think the big difference between the "bitcoin elites" and the existing
+financial system elites is the "bitcoin elites" are working really hard to
+distribute our power.  
+  
+We're getting there, but it will take time. I really hope in a year or two
+there will be at least three or four different bitcoin implementations all
+producing blocks, validating transactions, etc. And in ten years there will be
+a dozen or more.  
+  
+That is a natural progression; I was around when NCSA Mosaic was the one web
+browser and the NCSA server was the only web server, and there have been a
+couple cycles of certain browsers / web servers becoming dominant and then
+fading. I expect to see a similar evolution for Bitcoin infrastructure
+software.  
+

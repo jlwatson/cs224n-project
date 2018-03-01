@@ -1,0 +1,17 @@
+
+
+Wallet.dat files don't get corrupted very often; blkindex.dat or addr.dat
+corruption is much more common (which makes sense, they are much larger and
+changes all the time as new blocks are added/indexed).  
+  
+A lot of reported "database corruption" has been Berkeley DB log file
+incompatibility (the .dat files are compatible between 4.* releases and across
+operating systems; I know the log files are NOT compatible from 4.7 to 4.8, I
+think they're cross-OS compatible too but could be wrong about that).  
+  
+The Satoshi bitcoin code could certainly do a better job of helping users
+recover from any/all of the above, although I personally think that
+development time would be better spent on the "what if my computer catches
+fire" scenario-- can we make it really easy for users to securely backup and
+restore their wallets off-site?
+

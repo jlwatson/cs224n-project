@@ -1,0 +1,22 @@
+
+
+If your 0.33 bitcoins came from one or two recent payments to you, then
+waiting a day or three to let the inputs "mature" will let you send them
+without a fee. The transaction priority fee rules are designed to discourage
+people from sending lots of small bitcoin transactions in a short time.  
+  
+If your 0.33 bitcoins came from 20 or 30 penny-sized payments to you, then
+you'll have to go to a lot of work to send them without a fee, because a 20-
+or 30-input transaction will be too big to qualify to be free. The transaction
+size fee rules are designed to discourage people from wasting everybody's disk
+and network bandwidth by sending big transactions.  
+  
+If you did receive lots of tiny payments, you can try to bundle them up in
+chunks-- you might be able to send three payments of 0.10 BTC without a fee
+(because each of them would be smaller than the "too big to be free" size).  
+  
+But you should ask yourself: is it really worth your time? 0.01 BTC is less
+than 5 US cents. If it takes you more than 20 seconds to send 2 or 3 payments
+to avoid the 0.01BTC fee, then you're valuing your time at less than US
+minimum wage.  
+

@@ -1,0 +1,19 @@
+
+
+Quote from: Necrathex on December 22, 2010, 12:46:47 PM
+
+Hi there!  
+  
+I noticed that the NL locale for Bitcoin has some errors (quite some actually)  
+So i made my corrections, attached is the nl locale .po file.  
+  
+ _edit: correctly used poedit this time_  
+
+  
+Thanks!  
+  
+Can somebody volunteer to be "translation pull person" for the new git
+integration repository? The job would be packaging up changes into "pull
+requests" (if the person doing the work can't or won't use git), giving them a
+sanity test, and then pulling them into the integration repository.  
+

@@ -1,0 +1,17 @@
+
+
+Quote from: paulie_w on July 13, 2012, 08:40:19 PM
+
+that's an interesting perspective. was it your view all along that the
+'mainline' client was actually just a proof-of-concept, and that the client
+side of things would eventually be taken over by third parties?  
+
+Sure-- I've always liked the BitTorrent/W3C model because it is less
+centralized (lots of different implementations of the protocol, as opposed to
+a project like Perl, where essentially everybody runs the same code). I
+consider Satoshi's code the "reference" client, though, not "proof-of-
+concept", since there is no formal specification.  
+  
+(I've written a formal specification, and I think having a working reference
+implementation is better than An Officially Blessed Pile of Paper).  
+

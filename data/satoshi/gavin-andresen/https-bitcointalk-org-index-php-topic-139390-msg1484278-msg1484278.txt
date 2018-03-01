@@ -1,0 +1,35 @@
+
+
+Quote
+
+In fact, the suggestion of associating your personal information with your
+bitcoins puts a very bad taste in my mouth. Why would you suggest this, Gavin?  
+
+Because it is critical that YOUR passphrase be different from EVERYBODY ELSE'S
+passphrase.  
+  
+Adding your email address or driver's license number or some other certainly-
+unique-for-you information makes that work.  
+  
+That shifts the problem from "attacker is trying to guess EVERYBODY's
+passphrase" to "attacker happens to know that you have a bunch of BTC in a
+brainwallet and is trying to attack YOUR brainwallet, specifically."  
+  
+
+Quote
+
+It's an improvement but Moore's law is ruthless, especially considering the
+economic incentives to recover those keys and how bitcoin mining causes people
+to accumulate massive amounts of computing power.  
+
+  
+Nicely said.  
+  
+Again: we are really bad at thinking up good, unique passphrases. We share so
+much experience and culture that whatever you think of, somebody else will
+probably think of, too. Or some attacker will think of something similar
+enough to crack your passphrase.  
+  
+And we are really bad at imaging what it means that an attacker might try a
+few hundred BILLION passphrases to try to crack everybody's brainwallet.  
+

@@ -1,0 +1,11 @@
+
+
+Can you please let me know if this works on OSX 10.5:  
+https://s3.amazonaws.com/gavinandresen-bitcoin/bitcoin-0.7.2rc2-macosx.dmg  
+  
+I set up a new build environment on an old, 32-bit OSX 10.6 laptop, and I
+think I fixed the 10.5 compatibility issue.  
+  
+(some MacPorts maintainers don't seem to be terribly good at making sure their
+ports honor BOTH the -arch AND the -isysroot settings...)  
+

@@ -1,0 +1,16 @@
+
+
+You likely had this problem because you didn't actually send the coins within
+the 15 minutes allotted by Bitpay.  
+You likely just instructed some other entity to send the coins for you, and
+they took their sweet time doing so.  
+If you keep your bitcoins in a wallet in which you control the private keys,
+you wont have this problem anymore.  
+You also wont be creating additional work for the people at bitpay and
+bitcoinstore.  
+  
+Some good examples are the Bitcoin QT client, Electrum and the blockchain.info
+wallet  
+  
+Some bad examples are mtgox, bitstamp, and coinbase.
+

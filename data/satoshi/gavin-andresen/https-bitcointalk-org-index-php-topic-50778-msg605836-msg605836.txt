@@ -1,0 +1,10 @@
+
+
+I'd like to see one or more of the alt chains take:  
+https://github.com/gavinandresen/bitcoin-git/tree/op_eval  
+  
+... and start supporting OP_EVAL, multisignature transactions, and the new
+bitcoin address type.  
+  
+(and thanks to coblee- he (she?) did help flesh out the ideas)
+

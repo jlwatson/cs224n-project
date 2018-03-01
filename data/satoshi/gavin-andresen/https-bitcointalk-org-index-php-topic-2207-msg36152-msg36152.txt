@@ -1,0 +1,6 @@
+
+
+Great! I'd like to see this good work make it back into mainline bitcoin;
+please talk with the other improve-the-build-process efforts and submit some
+patches.  
+

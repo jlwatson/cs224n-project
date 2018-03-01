@@ -1,0 +1,18 @@
+
+
+Quote from: trout on October 14, 2014, 09:16:17 PM
+
+why not linear growth, like +n MB per block halving, or quadratic like +n MB
+per n'th block halving?  
+
+  
+Because network bandwidth, CPU, main memory, and disk storage (the potential
+bottlenecks) are all growing exponentially right now, and are projected to
+continue growing exponentially for the next couple decades.  
+  
+Why would we choose linear growth when the trend is exponential growth?  
+  
+Unless you think we should artificially limit Bitcoin itself to linear growth
+for some reason. Exponential growth in number of users and usage is what we
+want, yes?  
+

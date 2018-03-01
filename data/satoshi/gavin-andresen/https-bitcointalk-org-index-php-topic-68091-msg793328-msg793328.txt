@@ -1,0 +1,8 @@
+
+
+Bitcoin doesn't install Growl-- something else must have in the past.  
+  
+PS: there is an open bug in the 0.6 release that it is not compatible with
+some versions of Growl; if that isn't resolved Growl notifications might be
+completely disabled.
+

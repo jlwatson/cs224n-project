@@ -1,0 +1,11 @@
+
+
+One of the speakers at the Emerging Technology conference I attended at the
+CIA was from Facebook Payments, and he seemed pretty adamant that they're
+committed to doing what they can to keep the people buy the credits (users who
+want to play games) separate from the people who cash them out (the game
+developers).  
+  
+So a facebook app implementation of bitcoinjs would very likely not be
+approved for Facebook payments.
+

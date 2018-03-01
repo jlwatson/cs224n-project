@@ -1,0 +1,29 @@
+
+
+Quote from: odolvlobo on November 12, 2014, 01:17:20 AM
+
+Please correct me if I'm wrong, but isn't this an issue right now? Assuming
+that mining is profitable (i.e. mining revenue is greater than cost), a 51%
+attack would essentially cost nothing because the attacker would receive all
+the mining revenue (which exceeds his cost because we assume that mining is
+profitable). This is independent of subsidy in relation to transaction fees.  
+
+  
+You are wrong.  
+  
+Example that should make it clear:  
+  
+Honest miner with 50% hash power: will mine 6 blocks every two hours (on
+average). Rest of the network will mine the other 6 blocks.  
+  
+Attacking miner with 50% hash power: will mine 6 blocks every four hours (on
+average), because they refuse to build on anybody else's blocks.  
+  
+Result: if the attacker is the longest chain, they'll get half as many BTC as
+honest mining (if they are unlucky and are not the longest chain, they'll get
+zero).  
+  
+If they could keep up the attack for a full month until difficulty adjusts
+then they'll start making what they would have been making if they were
+honest.
+

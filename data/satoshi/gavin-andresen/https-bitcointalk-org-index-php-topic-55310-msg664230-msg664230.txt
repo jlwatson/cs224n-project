@@ -1,0 +1,30 @@
+
+
+Quote from: ThiagoCMC
+
+There are rumors that the Bitcoin network will split in two, one side, people
+using 0.5.1, 0.4.0.... On the other side, people using 0.6.0...
+
+I've been working hard to make sure there will be no blockchain split, and
+I've convinced myself I've thought through all the "old/new client sending
+transactions to an old/new miner" cases.  
+  
+The only case where an old miner could be split off the network is if they are
+mining non-standard transactions (which means they've modified their mining
+code) and do not upgrade. If you are in that situation, then you should either
+stop adding transactions containing OP_NOP1 into your miner's memory pool or
+upgrade to interpret OP_NOP1 as OP_EVAL.  
+  
+But I've said it before and I'll say it again: don't trust me. I make
+mistakes. Two serious bugs in my OP_EVAL/multisignature code have been found
+(and fixed) in the last week. Version 0.6 **will** have at least a month of
+release candidate testing.  
+  
+I still firmly believe the benefits of the new 0.6 features far outweigh the
+risks. Please help minimize the risks; review code if you can, run release
+candidate on the testnet and try to break them, read the BIPS and try to think
+of ways bad people might use them to do bad things. Review the contingency
+plans and think about how they could be improved or if you could help when
+(when, not if) vulnerabilities are found.  
+  
+

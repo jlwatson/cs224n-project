@@ -1,0 +1,17 @@
+
+
+Quote from: theymos on February 21, 2011, 08:55:40 AM
+
+He'll get all of them in less than an hour.  
+
+What about difficulty adjustments though? Difficulty will increase by a factor
+of 4 every 2016 blocks. Current difficulty is > 32000 or 2^15, plus the
+implied 32 bits for an actual value of 2^47, ie 47 bits of zeroes at the front
+of the hash. We add 2 more zeroes every 2016 blocks, so after 105 such
+adjustments, the target will be all zeroes!  
+  
+However, I peeked at the code, and even an all-zero target can be met with an
+all-zero hash. So theymos is right, Mr Lucky (who I think has an infinitely
+fast computer in his pocket) can go all the way, as fast as the net can
+broadcast blocks.
+

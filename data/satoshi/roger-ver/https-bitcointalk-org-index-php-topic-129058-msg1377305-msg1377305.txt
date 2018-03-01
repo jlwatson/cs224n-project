@@ -1,0 +1,10 @@
+
+
+I think Blockchain.info is the first place new users should be sent to who
+want to create a new wallet.  
+  
+Luckily about 500 new users are signing up per day, but that rate needs to
+increase even more:  
+  
+http://blockchain.info/charts/my-wallet-n-users
+

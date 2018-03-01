@@ -1,0 +1,21 @@
+
+
+RE: tx replacement:  
+  
+Somebody aught to start experimenting with transaction replacement with
+testnet-in-a-box.  
+  
+Put together a test plan, modify the code and try to break it.  
+  
+Assuming it all works, submit a pull request to enable transaction replacement
+on testnet (with a pointer to your test plan and results of testing, please).  
+  
+Then we can start trying to break transaction replacement on testnet; again,
+assuming no bugs/hacks/issues turn up after "enough" testing, and if there's
+general consensus that the benefits outweigh the risks, it could be rolled out
+to the production network.  
+  
+We just pulled a DoS fix involving filling up memory with orphan transactions;
+one concern with transaction replacement is DoS (could I fill up the memory
+pool by spamming "will be replaced" transactions?)
+

@@ -1,0 +1,21 @@
+
+
+RE: could you make through adroit use of the scripting language: you could
+hide the receiving address, but not the amount.  
+  
+Bitcoin needs to see TxOut amounts so it can add them up and make sure the
+transaction includes any necessary fees.  
+  
+And to make sure the transaction is valid, although I suppose it could allow
+invalid-but-not-yet-decrypted transactions into the block chain, and just not
+allow them to be ever spent (it'd be a complicated way of deleting BTC). But
+that makes me extremely nervous-- it seems to me it just makes things more
+complicated and more likely to be exploited.  
+  
+Also, this: "All the network nodes try to decrypt the message with each of
+their public keys" ... won't scale. Busy nodes will have more and more public
+keys over time (as they give out different receiving addresses for each
+purchase transaction), and trying them all whenever an encrypted transaction
+comes over the wire will take an ever-increasing amount of time.  
+  
+

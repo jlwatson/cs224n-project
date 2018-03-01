@@ -1,0 +1,7 @@
+
+
+If Mr. Augustus found some documentation that I don't know about it, I
+genuinely want to know about it, because it will save me time. Right now I'm
+throwing blocks at an instrumented v0.7.2 bitcoind that tells me how many
+locks are taken, so I can be sure whatever fix we implement will always work.  
+

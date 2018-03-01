@@ -1,0 +1,18 @@
+
+
+Quote from: makomk on August 22, 2011, 12:39:52 PM
+
+You're talking about the developers intentionally revoking previously-valid
+transactions by central fiat - and they can't just revoke the ones involved in
+the double-spend, they have to revoke all of them.  
+
+  
+Why couldn't the-collective-we only revoke the double-spends (and subsequent
+txns that depended on them) ?  
+  
+A hard-coded list of invalid txids wouldn't be hard to insert into the is-
+valid-transaction checks, and that along with a blockchain checkpoint would
+work just fine. Valid transactions on the bad chain would move to the new
+chain (actually, they'd already be on the non-attacker chain, since the miners
+on both sides of the block split would have included them).  
+

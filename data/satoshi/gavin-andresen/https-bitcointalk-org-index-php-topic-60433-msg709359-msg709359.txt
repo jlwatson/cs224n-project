@@ -1,0 +1,62 @@
+
+
+Quote from: Steve on January 23, 2012, 09:41:28 PM
+
+...And even BIP16, which also evaluates code you push on the stack, seems
+wrong to me (and would make the implementation more complex and static
+analysis more difficult).  
+
+  
+BIP 16 explicitly states:  
+"Validation fails if there are any operations other than "push data"
+operations in the scriptSig."  
+  
+Let me try again for why I think it is a bad idea to put anything besides
+"push data" in the scriptSig:  
+  
+Bitcoin version 0.1 evaluated transactions by doing this:  
+  
+
+Code:
+
+Evaluate(scriptSig + OP_CODESEPARATOR + scriptPubKey)
+
+  
+That turned out to be a bad idea, because one person controls what is in the
+scriptPubKey and another the scriptSig.  
+  
+Part of the fix was to change evaluation to:  
+  
+
+Code:
+
+stack = Evaluate(scriptSig)  
+Evaluate(scriptPubKey, stack)
+
+  
+That gives a potential attacker much less ability to leverage some bug or flaw
+in the scripting system.  
+  
+Little known fact of bitcoin as it exists right now: you can insert extra
+"push data" opcodes at the beginning of the scriptsigs of transactions that
+don't belong to you, relay them, and the modified transaction (with a
+different transaction id!) may be mined.  
+  
+
+Quote
+
+As for backward compatibility & chain forks, I think I would prefer a clean
+solution rather than one that is compromised for the sake of backward
+compatibility. Then I would lobby to get people to upgrade to clients that
+accept/propagate the new transactions and perhaps create patches for some of
+the more popular old versions designed just to allow and propagate these new
+types of transactions. Then when it's clear that the vast majority of nodes
+support the new transactions, declare it safe to start using them. Any
+stragglers that haven't updated might find themselves off on a dying fork of
+the block chain which will be a great motivator for them to upgrade.  
+
+  
+Are you volunteering to make that happen? After working really hard for over
+four months now to get a _backwards-compatible_ change done I'm not about to
+suggest an "entire network must upgrade" change...  
+

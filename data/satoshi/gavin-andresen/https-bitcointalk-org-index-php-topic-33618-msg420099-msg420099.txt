@@ -1,0 +1,11 @@
+
+
+blk0001.dat stores all of the transaction data for the block chain.  
+  
+So to "inject" data into it you transmit valid transactions that are then
+included in blocks. Dan crafted transactions that contain the tribute message.  
+  
+I think it is a neat hack. ("hack" in the sense of "clever, non-obvious way to
+use technology") I wonder how much it cost in transaction fees, or if he
+managed to do it entirely with free transactions...  
+

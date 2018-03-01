@@ -1,0 +1,23 @@
+
+
+I would also like to add foreign language support for this.  
+  
+Here is the same text needed but in Japanese:  
+  
+  
+実際の店舗でも以下の方法を利用することにより、簡単にビットコインで支払いを受けることができます。  
+(PCにビットコインソフトをインストールし、ビットコイン口座を作っておく必要があります。ビットコインソフトはhttp://www.bitcoin.co.jpよりダウンロードできます。インストールするだけでかんたんに口座開設可能。)  
+  
+1\. 任意で会社のロゴのアップロードおよびロゴの下に表示したいお好みの文章を入力します(任意)  
+2\. 使用するビットコイン口座アドレスを入力する(必須)  
+3\. 送信ボタンを押しQRコードを表示する  
+4\. ページを印刷後店舗のレジ横などに張ってください  
+5\. お客様にQRコードを携帯などで読み取ってもらい支払いを行ってもらう  
+  
+Is it possible to put links to each different language for this form?  
+Can some other forum users translate it into other languages?  
+  
+Since I am in Japan, I know 3 stores that will accept bitcoin right away with
+this easy to use page.  
+I'm sure I can find more!
+

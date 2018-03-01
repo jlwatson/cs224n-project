@@ -1,0 +1,43 @@
+
+
+Quote from: riggasconi on January 23, 2011, 04:09:28 PM
+
+Satoshi Nakamoto writes in his white paper that it is not needed to control
+all of the bitcoin connections, but just a majority of them. Am I missing
+something ?  
+
+  
+You are confusing "control 50+% of generating power" with "control
+connections."  
+  
+Lets say you control 51% of the generating power.  
+  
+You can:  
+  
+Spend bitcoins once. Then wait for them to be confirmed by the rest of the
+network as many times as the merchant requires, while secretly working on
+another version of the block chain where you did NOT spend them. Your secret
+block chain should be longer than the network's, since you control 51% of the
+generating power.  
+  
+So you announce your secret block chain, and instead of sending those coins to
+a merchant you include a transaction where you send them to yourself. YEAH!
+you just ripped off the merchant! Wahoo!  
+  
+You cannot rip off two merchants with the same bitcoins-- one or the other of
+the transactions will be seen as valid.  
+  
+And you cannot "unspend" the transaction to the merchant-- if you don't spend
+it SOMEWHERE, the merchant's bitcoin node will re-announce it to the network
+and all the other nodes will consider those bitcoins "spent, just waiting to
+be included in the next generated block."  
+  
+  
+If you run the numbers again with the realistic double-spend scenario, you'll
+see crime doesn't pay. There is no way you can rent enough hashing power to
+commit a profitable double-spend attack.  
+  
+If you can steal the hashing power (maybe you're a bot farmer), then if you
+run the numbers you'll find it is more profitable to just generate blocks and
+sell the bitcoins rather than try to somehow get stuff trying to double-spend.  
+

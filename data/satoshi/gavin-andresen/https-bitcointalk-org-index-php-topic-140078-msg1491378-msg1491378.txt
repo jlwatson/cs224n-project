@@ -1,0 +1,29 @@
+
+
+Thanks Sergio!  
+  
+So: if the attacker creates a block with a transaction that takes 3 minutes to
+verify, and then broadcasts it, it will take a very long time for it to
+propagate across the network (because peers verify blocks before relaying
+them).  
+  
+And since this attack requires non-standard transactions, mining a block is
+the only way an attacker will be able to pull off this attack. So I don't
+think this is a practical attack on the production network: by the time the
+3-minute-to-verify block got to 50% of the network the other half of the
+network will probably have produced a block (sure, the attacker could try to
+Sybil the network and send its block to a super-majority of mining nodes, but
+I bet all of the big mining pools are hiding their block-creating and share-
+accepting nodes behind multiple "front-end bitcoinds" by now to mitigate DDoS
+attacks).  
+  
+Fixing the OP_*SIG opcodes so they "look before they hash" is a good idea.
+We're actually moving towards that; see fStrictEncodings and the
+IsCanonicalSignature/IsCanonicalPubKey in the latest script.cpp code. The
+intent is to eventually roll out a 'soft-fork' that requires signatures and
+public keys be well-formed and canonical.  
+  
+Also, a nit: using OP_0 for the scriptSig wouldn't work for this attack (see
+if (vchSig.empty()) return false; in CheckSig()).  
+  
+

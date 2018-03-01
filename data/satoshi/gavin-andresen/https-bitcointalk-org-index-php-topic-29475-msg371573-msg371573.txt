@@ -1,0 +1,24 @@
+
+
+Quote from: antares on July 17, 2011, 02:39:25 AM
+
+I think it should be enough to backup your wallet, delete your .bitcoin folder
+in your user profile folder, create a new .bitcoin folder, put your wallet
+inside and then start bitcoin. It should download a new copy of the block
+chain and you should be good to go. AFAIR this is a known bug.  
+
+  
+Don't do that, you'll just spend a lot of time re-downloading the block chain
+and then be back in the same state you were before (unless you happen to get
+lucky and your transactions get confirmed while you're waiting for the block
+chain to download again).  
+  
+Restarting bitcoin and letting it get 8 fresh connections might help. Allowing
+incoming connections so you have more than 8 connections should also help your
+transactions get confirmed.  
+  
+Safest thing to do is to be patient; your transactions will be rebroadcast and
+eventually will get confirmed. If they're not confirmed in a week, then there
+are ways of deleting the transactions from your wallet and "freeing up" the
+stuck bitcoins, but messing with your wallet should always be a last resort.  
+

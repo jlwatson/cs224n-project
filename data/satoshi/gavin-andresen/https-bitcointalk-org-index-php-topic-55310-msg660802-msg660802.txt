@@ -1,0 +1,19 @@
+
+
+Quote from: netrin on December 23, 2011, 05:46:08 PM
+
+Is that gavinandresen/bitcoin-git or bitcoin/bitcoin? If I also pull the anon-
+ish 'coin control' is that likely to interfere with 0.6 testing? How and where
+would you prefer test feedback?  
+
+  
+bitcoin/bitcoin is the 0.6 tree  
+  
+I haven't done a code review of the anon-ish coin control, so I don't know if
+it will mess up 0.6 testing; it might interfere with the multisignature
+transaction changes.  
+  
+The github issues tracker is the best to report any bugs you find, for general
+"it sucks" or "I love it" or "can you make this new RPC command to this" the
+best place is either IRC chat or right here.  
+

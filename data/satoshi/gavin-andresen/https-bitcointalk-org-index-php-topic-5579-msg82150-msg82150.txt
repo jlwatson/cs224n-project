@@ -1,0 +1,16 @@
+
+
+Quote from: slush on April 08, 2011, 05:09:02 PM
+
+Or somebody have access to hundreds google accounts...  
+
+  
+Hundreds of google accounts AND hundreds of IP addresses (the Faucet does
+still check IP address). And the patience to solve hundreds of CAPTCHAs...  
+  
+I'm pretty sure almost all of the bitcoins going out of the Faucet are new
+people trying out Bitcoin. We're getting between 500 and 1,000 downloads of
+bitcoin binaries from the SourceForge site per day (stats here).  
+  
+PS: Thanks again to everybody who donates to keep the Faucet running!
+

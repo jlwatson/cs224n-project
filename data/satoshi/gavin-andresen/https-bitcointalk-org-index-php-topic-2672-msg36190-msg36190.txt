@@ -1,0 +1,15 @@
+
+
+https://github.com/bitcoin/bitcoin/pull/23  
+  
+Cross Origin Resource Sharing lets servers support cross-origin Javascript. It
+is supported by the latest browsers (although IE support is... different), and
+involves sending CORS headers in responses.  
+  
+Adding this enables Javascript code running in a browser to connect with any
+bitcoin/bitcoind that allows RPC connections from the browser's IP address and
+has the right rpc username/password.  
+  
+Code changes are minimal (4 lines of code to output CORS headers). Thanks to
+tcatm for implementing and testing.  
+

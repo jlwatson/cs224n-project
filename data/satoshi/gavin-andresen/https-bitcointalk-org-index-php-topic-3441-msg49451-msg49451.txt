@@ -1,0 +1,19 @@
+
+
+One more thought: the "finney attack" can only be profitable if the reward
+from cheating is greater than (reward of mining times the probability your
+block will be rejected because you delay announcing it while you "run down to
+the store").  
+  
+Reward for block is currently $50, that will (hopefully!) continue to rise for
+the next decade or two.  
+  
+Say it takes you 5 minutes to complete a transaction at the corner store (half
+the average block gen time)... today you'd have to make a $25-or-greater
+purchase just to break even.  
+  
+Seems likely this attack will be completely impractical for transactions under
+$200 when the block reward is worth more than $400. 0-confirmations (just wait
+N seconds to look for a quick double-spend) for any transaction under $200
+seems "good enough" to me.  
+

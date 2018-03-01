@@ -1,0 +1,18 @@
+
+
+BIP 12 says: "If there are any OP_EVALs in the deserialized script they are
+also executed, but recursion is limited to a depth of 2."  
+I waffled on whether to propose any recursion at all, but I think just a touch
+of recursion will be safe and very useful.  
+  
+And I wasn't clear, because I'm just thinking out loud: I meant take two big
+256-bit random numbers (call them n1 and n2) and then produce three keypairs,
+where the private keys are n1, n2, and n1*n2. Thinking a little further, a
+2-of-2 with that key arrangement gives a kind of "a and b OR c" ... but if c
+knows both n1 and n2 then the n1*n2 is redundant....  
+  
+Anyway, my point was that with some cleverness I think lots of things become
+possible with just what is proposed with BIP 11, and I'd like to give people
+time to explore what can be done and figure out how to make this stuff easy to
+use before thinking about even more complicated transaction types.  
+

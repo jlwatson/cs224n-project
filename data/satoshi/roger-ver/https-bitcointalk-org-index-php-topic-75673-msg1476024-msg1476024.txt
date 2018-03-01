@@ -1,0 +1,20 @@
+
+
+Quote from: molecular on January 24, 2013, 03:39:58 PM
+
+is it still possible to use the blockchain app from korean appstore?  
+  
+we managed to install it on a phone and upon startup we even see the full
+features at the bottom for half a second.  
+  
+However these icons disappear and only one icon is left. The app keeps beeping
+and shows public transactions.  
+  
+Any way to couple this to a wallet and use it as a wallet?  
+  
+
+You can install it from any app store. (Not only Korean)  
+If you install it from an IP address that already has accessed a
+Blockchain.info wallet that is more than two weeks old, the iphone app will
+have the full wallet functionality enabled.
+

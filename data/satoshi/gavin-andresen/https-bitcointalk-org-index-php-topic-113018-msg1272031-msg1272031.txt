@@ -1,0 +1,13 @@
+
+
+Quote from: runeks on October 14, 2012, 04:33:28 AM
+
+I've updated the script. Now you only need to specify the URL of the
+SHA256SUMS.asc file in question.  
+
+  
+Nice! You should submit a pull request to put a version of this in the
+contrib/ directory; my only suggestion would be to make it take a version
+string as an argument (and maybe automatically look in the test/ subdirectory
+if it contains 'rc').  
+

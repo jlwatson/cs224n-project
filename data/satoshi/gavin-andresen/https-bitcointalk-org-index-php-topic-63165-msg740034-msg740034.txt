@@ -1,0 +1,29 @@
+
+
+Quote from: pc on February 09, 2012, 04:19:56 PM
+
+Or are these the kinds of things that are being asked to test thoroughly? Is
+there a test plan of some sort, or should we just be doing whatever we can
+think of on testnet to see what happens?  
+
+  
+You are the Quality Assurance department. A test plan is an excellent idea,
+could you write one up and post it on the wiki and ask for volunteers to help
+test?  
+  
+
+Quote from: piuk on February 09, 2012, 05:31:59 PM
+
+Gavin, will Btcoin-QT support plain M-Of-N transactions and P2SH transactions
+or will it be etiher-or?  
+
+  
+I don't know, the GUI for multisignature transactions hasn't been designed
+yet. But I imagine it will be simpler to always produce P2SH transactions,
+just as the client always produces OP_HASH160 transactions and has no option
+to produce plain OP_CHECKSIG transactions.  
+  
+I assume that both forms will be supported for multisig payments into your
+wallet (but detailed discussion on how to support multisig in the GUI should
+happen somewhere other than this thread).  
+

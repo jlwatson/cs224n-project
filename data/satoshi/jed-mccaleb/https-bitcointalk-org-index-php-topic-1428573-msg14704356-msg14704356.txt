@@ -1,0 +1,16 @@
+
+
+Tons of improvements.  
+Safer with a solid consensus mechanism:
+https://www.stellar.org/developers/learn/concepts/scp.html  
+Much more scalable.  
+Much easier to develop against as it uses a normal SQL DB to store state and
+the API is very good now.  
+Now has multisig and smart contract features:
+https://www.stellar.org/blog/multisig-and-simple-contracts-stellar/
+http://jedmccaleb.com/blog/bitcoin-lightning-stellar/  
+  
+I'd make your decision based on looking at the code and the paper and how the
+system works rather than from rumors and innuendo spread about me.  
+  
+

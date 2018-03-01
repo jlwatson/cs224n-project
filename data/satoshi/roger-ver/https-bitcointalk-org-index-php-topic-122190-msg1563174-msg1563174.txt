@@ -1,0 +1,23 @@
+
+
+Quote from: julz on February 27, 2013, 03:24:00 AM
+
+The security error above is a real worry to me too. It seems to be similar to
+the one that the Avalon website had. As I haven't seen any public statements
+about this - I'm beginning to wonder if it's some sort of man-in-the-middle
+attack on Bitcoin-related websites.  
+  
+Also.. I've been unable to login since the site update - and I have not
+received any shipping info for an order placed over 10 days ago.  
+I know it's a beta site - but this is almost enough to scare me back to using
+'good-old' reversible credit card merchants  
+  
+  
+
+  
+There is no "man in the middle attack"  
+We are waiting for a new SSL certificate and the error will go away.  
+  
+Julz, send me your order number and I can look into it for you.  
+All orders are processed the same day and usually ship the very next day.
+

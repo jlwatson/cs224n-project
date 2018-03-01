@@ -1,0 +1,19 @@
+
+
+Quote from: theymos on September 24, 2010, 01:58:11 AM
+
+I would be trivial to add a JSON-RPC command to do that. Just use the
+IsValidBitcoinAddress function.  
+
+  
+For extra credit, give an Object as the return value:  
+  
+{  
+'isvalid' : true,  
+'ismine' : true, # true if isvalid and you have the private key (can spend
+coins sent to this address)  
+'version' : 0, # ADDRESSVERSION  
+'address' : '1frt6531....' # might as well echo back the address...  
+}  
+  
+

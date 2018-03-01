@@ -1,0 +1,17 @@
+
+
+Quote from: zef on May 26, 2011, 07:35:22 PM
+
+It would only take 17 hours at 6 blocks an hour to hit the 100 block level. I
+mean its not very probable that something like that could happen, but it's
+possible.  
+
+  
+If the network was split 50/50, then each half would generate blocks half as
+fast. So it would take 34 hours.  
+  
+For an "Egypt splits off from the rest of the network" scenario, it would
+probably split something like "less than 5% generated in Egypt, 95% rest of
+the world" in which case it would take 17/.05 = over two weeks for the blocks
+generated in Egypt to mature.  
+

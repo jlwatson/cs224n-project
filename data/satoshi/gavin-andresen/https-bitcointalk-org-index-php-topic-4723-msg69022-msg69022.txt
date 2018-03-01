@@ -1,0 +1,17 @@
+
+
+Quote from: [mike] on March 21, 2011, 09:26:42 AM
+
+The first step to playing with interesting scripts is to re-enable non
+standard transactions on the testnet. I keep meaning to do this but have been
+busy with other things, like making the testnet-in-a-box.  
+
+Making IsStandard() return true if fTestNet is a good idea.  
+  
+The process for getting a new transaction type into bitcoin would be to test
+it thoroughly on the testnet, get general consensus on its API and/or GUI and
+that it is useful, safe, and unlikely to be abused, and work with the
+'infrastucture' sites (like blockexplorer and bitcoinmonitor) to make sure the
+right APIs or hooks are in place so they can do something intelligent with the
+new transactions.  
+

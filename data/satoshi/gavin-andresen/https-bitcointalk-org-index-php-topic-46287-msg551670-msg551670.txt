@@ -1,0 +1,14 @@
+
+
+Honestly, I don't think the future of bitcoin is running "heavy" nodes on our
+personal computers.  
+  
+I think the vast majority of people will be using bitcoin through web or
+mobile apps in the not-too-distant future. So I'm not personally inclined to
+put a lot of effort into splitting the node and wallet, unless that makes
+creating lightweight web and mobile apps easier.  
+  
+That said, the new QT gui does a much, much better job of letting you know
+what bitcoin is doing, both during initial startup and initial blockchain
+download.  
+

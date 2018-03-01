@@ -1,0 +1,22 @@
+
+
+Quote from: pc on November 23, 2011, 08:35:25 PM
+
+And just to be clear, this rule will fork the test blockchain between those
+running on the current or prior versions of the client, and those running on
+whatever version this change comes out in, right?  
+
+  
+Yes.  
+  
+Any opinions on whether to do a hard reset (new genesis block with the new
+rules) or a split ("new rules apply to blocks with timestamps after XYZ") ?  
+  
+  
+RE: scaling down difficulty: good idea if we were thinking of implementing
+something like this for the main network. But I'd want to give everybody lots
+of time to think long and hard about potential hacks/exploits/unintended
+consequences if this was being considered for the main network-- sudden drops
+in hashing power is NOT a problem for the main network, so I don't think it is
+worth considering now.  
+

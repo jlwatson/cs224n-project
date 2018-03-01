@@ -1,0 +1,19 @@
+
+
+Sorry to send you on a wild goose chase, the problem is **NOT** CRLF issues.  
+  
+The problem is in your HTTP headers; you're sending the request as:  
+  
+Content-Type: application/x-www-form-urlencoded  
+  
+The correct Content-Type for JSON-RPC over HTTP is:  
+Content-Type SHOULD be 'application/json-rpc' but MAY be 'application/json' or
+'application/jsonrequest'  
+  
+I'm not sure what .net is doing with the body of the request, but by the time
+it gets to Bitcoin/PostBin, it has x-www-form-urlencoded it enough to confuse
+the heck out of them.  
+  
+When you get this working, please update this thread, and for extra positive
+karma, add a .net section to the Bitcoin JSON-RPC wiki page.  
+

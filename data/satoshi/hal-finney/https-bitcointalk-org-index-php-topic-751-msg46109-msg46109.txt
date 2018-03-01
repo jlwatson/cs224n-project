@@ -1,0 +1,11 @@
+
+
+People talk about moving keys/addresses, but also it is important to move the
+transactions. Bitcoin is a transaction based system. Your keys authorize
+(sign) payments, but the payments actually come from the transactions you have
+received and which are in your wallet. If you're splitting off some keys into
+another wallet, you need to move the transactions that fund those keys, or
+they won't be able to do anything. (Should move address book and account
+entries too.)  
+  
+

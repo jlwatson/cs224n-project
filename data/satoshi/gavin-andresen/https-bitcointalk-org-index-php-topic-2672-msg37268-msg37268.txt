@@ -1,0 +1,24 @@
+
+
+Quote from: bitcoinex on January 11, 2011, 05:30:39 PM
+
+Browser is the most buggy program on typical PC! Without browser planted into
+SElinux I do not want this functionality - from leaky browser site can read
+the password from config file and steal the money. Such bugs are still
+happening.  
+
+  
+CORS support doesn't change this.  
+  
+IF the browser has a bug that lets JavaScript code read the local filesystem,
+THEN JavaScript code can get your rpc username/password from your bitcoin.conf
+file.  
+  
+And IF the JavaScript code can do that, then it can send rpc commands to
+bitcoind running on localhost (because, surprisingly, the same-origin policy
+does NOT apply to localhost: urls-- we learned that lesson here six months or
+so ago).  
+  
+That is all true right now, with the released bitcoin/bitcoind.  
+  
+

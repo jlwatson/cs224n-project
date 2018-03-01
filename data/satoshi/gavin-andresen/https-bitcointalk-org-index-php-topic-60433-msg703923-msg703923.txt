@@ -1,0 +1,77 @@
+
+
+I haven't seen discussion of BIP 17 anywhere besides IRC, so I thought I'd
+start one.  
+  
+I'll start by saying that I'm trying hard to put aside my biases and
+dispassionately evaluating the proposal on its merits (I'll just say that I'm
+not happy with the way BIP 17 came to be, but it is what it is).  
+  
+Quick executive summary of BIP 17:  
+  
+A new opcode is proposed, OP_CODEHASHVERIFY, that replaces OP_NOP2.  
+  
+It is used in a new "standard" scriptPubKey that looks like:  
+  
+
+Code:
+
+<hash> OP_CODEHASHVERIFY OP_POP
+
+  
+... which is redeemed using a scriptSig like (for example, a 2-of-2
+CHECKMULTISIG):  
+  
+
+Code:
+
+OP_0 <signature> OP_CODESEPARATOR 2 <pubkey1> <pubkey2> 2 OP_CHECKMULTISIG
+
+  
+  
+OP_CODEHASHVERIFY is defined to take the hash of everything in the scriptSig
+from the last OP_CODESEPARATOR and compare it to the top item on the stack. If
+the hashes match, then it is a no-op, otherwise script validation fails. (see
+the spec for all the details for what happens if there is no CODESEPARATOR or
+a CODEHASHVERIFY is put in the scriptSig)  
+  
+  
+BIP 17 is an alternative to BIP 16, which has a scriptPubKey:  
+  
+
+Code:
+
+OP_HASH160 <hash> OP_EQUAL
+
+  
+... which is redeemed with:  
+  
+
+Code:
+
+OP_0 <signature> OP_PUSHDATA(2 <pubkey1> <pubkey2> 2 OP_CHECKMULTISIG)
+
+  
+  
+I see the appeal of BIP 17 -- the redeeming opcodes aren't "hidden" as
+serialized bytes, they're right there in the scriptSig. That feels less like a
+hack.  
+  
+However, there are a couple of practical reasons I like BIP 16 better:  
+  
+
+  * Old clients and miners count each OP_CHECKMULTISIG in a scriptSig or scriptPubKey as 20 "signature operations (sigops)." And there is a maximum of 20,000 sigops per block. That means a maximum of 1,000 BIP-17-style multisig inputs per block. BIP 16 "hides" the CHECKMULTISIGs from old clients, and (for example) counts a 2-of-2 CHECKMULTISIG as 2 sigops instead of 20. Increasing the MAX_SIGOPS limit would require a 'hard' blockchain split; BIP 16 gives 5-10 times more room for transaction growth than BIP 17 before bumping into block limits.
+  * With BIP 17, both transaction outputs **and** inputs fail the old IsStandard() check, so old clients and miners will refuse to relay or mine both transactions that send coins into a multisignature transaction **and** transactions that spend multisignature transactions. BIP 16 scriptSigs look like standard scriptSigs to old clients and miners. The practical effect is as long as less than 100% of the network is upgraded it will take longer for BIP 17 transactions to get confirmed compared to BIP 16 transactions.
+  * Old clients and miners will immediately accept ANY scriptSig for BIP 17 transactions as valid. That makes me nervous; if anybody messes up and sends coins into a BIP 17 transaction before 50% of hashing power supports it anybody can claim that output. An advantage of BIP 16 is the "half-validation" of transactions; old clients and miners will check the hash in the scriptPubKey.
+
+  
+I also have some theoretical, "just makes me feel uncomfortable" reasons for
+disliking BIP 17:  
+  
+
+  * OP_CHECKSIG feels like it was originally designed to be in the scriptPubKey-- "scriptSig is for signatures." Although I can't see any way to exploit an OP_CHECKSIG that appears in the scriptSig instead of the scriptPubKey, I'm much less confident that I might have missed something. I'm much more confident that BIP 16 will do exactly what I think it will (because it is much more constrained, and executes the CHECKSIG exactly as if it appeared directly in the scriptPubKey).
+  * Changing from the scriptSig being just "push data onto the stack" to "do the bulk of verification" also makes me nervous, especially since nodes that relay transactions can add whatever they like to the beginning of the scriptSig before relaying the transaction. Again, I can't think of any way of leveraging that into an exploit, but the added complexity of code in the scriptSig and requiring OP_CODESEPARATORs in the right place makes me nervous.
+  * I've never liked OP_CODESEPARATOR-- it is not like the other opcodes, the way it isn't affected at all by OP_IF and the way it 'steps out' and causes the raw bytes of the transaction to be hashed. Nobody has been able to figure out how to use it, and the best guess is it is like your appendix: maybe useful in the past, but not useful now. Safer to get rid of it entirely, in my opinion.
+
+  
+

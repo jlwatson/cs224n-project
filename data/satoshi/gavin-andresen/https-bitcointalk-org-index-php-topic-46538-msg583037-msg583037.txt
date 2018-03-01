@@ -1,0 +1,33 @@
+
+
+Quote from: gmaxwell on October 19, 2011, 12:47:53 PM
+
+There have been a number of proposals that would make this more safe to
+deploy, e.g. using a flag in the coinbase to perform a majority vote of
+hashpower to decide the height to enable the feature. Someone obviously needs
+to talk to some of the bigger miners and see if they have other concerns that
+need to be addressed but I don't see why a hashpower vote isn't sufficient,
+since the feature is non-forking.  
+
+  
+I pulled a Satoshi and decided to implement OP_EVAL to make sure it would
+actually work.  
+https://github.com/gavinandresen/bitcoin-git/tree/op_eval  
+  
+Not ready for pulling, expect rebasing/tweaking/changing. But it is fully
+working on the testnet.  
+(example transaction here)  
+  
+The code puts "OP_EVAL" in the coinbase of generated blocks, so the rest of
+the network can see how many miners support it.  
+  
+I gathered contact information for the top ten mining pools last week; when
+there is rough consensus on the details, I'll contact them to see if they have
+concerns and/or are willing to support OP_EVAL.  
+  
+I started writing up BIPs for the various pieces of OP_EVAL, I'll post them
+soon.  
+  
+  
+  
+

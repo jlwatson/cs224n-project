@@ -1,0 +1,6 @@
+
+
+The rules that the GUI (and bitcoind sends) follows to figure out if you
+should pay a fee are now the same as the rules in the block generation code.
+The rules themselves didn't change.  
+

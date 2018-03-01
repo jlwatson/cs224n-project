@@ -1,0 +1,19 @@
+
+
+Yes, who cares if you get extra testnet coins?  
+  
+But... if somebody wanted to be annoying, they'd pre-generate as long a min-
+difficulty coinbase-only-transaction chain as the block timestamp rules
+allowed, and constantly broadcast those blocks. Just to prevent transactions
+from getting confirmed.  
+  
+To prevent that...  
+  
+Testnet could prefer to build on blocks with more transactions from the memory
+pool over blocks with fewer transactions from the memory pool (that's not a
+bad rule for main net, either; might be worth considering if it works well for
+testnet). The rule now is "build on first valid block seen".  
+  
+And "discourage" (refuse to directly build on or relay) blocks with timestamps
+in the future.  
+

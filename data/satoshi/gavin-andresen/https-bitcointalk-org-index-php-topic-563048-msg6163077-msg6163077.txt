@@ -1,0 +1,45 @@
+
+
+https://github.com/Lekensteyn/pacemaker is a little SSL server to test SSL
+clients for heartbleed vulnerability.  
+  
+I installed Bitcoin Core version 0.9.0 on my Mac (compiled against the
+vulnerable openssl 1.0.1f), created a web page to launch a payment request
+fetch from pacemaker...  
+  
+... and I get good news:  
+
+Code:
+
+Connection from: 127.0.0.1:62937  
+Possibly not vulnerable  
+
+  
+Step-by-step so you can help test on other OS'es :  
+  
+
+  * git clone https://github.com/Lekensteyn/pacemaker.git
+  * cd pacemaker
+  * python pacemaker.py
+  * Run Bitcoin Core GUI version 0.9.0
+  * In your browser, visit https://bitcoincore.org/~gavin/heartbleed.html
+
+  
+pacemaker.py should report a connection, and then either say "Client returned
+blah bytes" or "Possibly not vulnerable"  
+  
+It looks to me like pacemaker.py IS working; visiting https://127.0.0.1:4433/
+in Chrome pacemaker tells me:  
+
+Code:
+
+Connection from: 127.0.0.1:62514  
+Client returned 7 (0x7) bytes  
+0000: 15 03 03 00 02 02 2f ....../  
+
+  
+This isn't a definitive "no need to worry even if you HAVE clicked on payment-
+protocol-enabled bitcoin: links at an untrustworthy website" ... but given the
+evidence I've seen, it seems to me extremely unlikely anybody's private keys
+have been compromised.  
+

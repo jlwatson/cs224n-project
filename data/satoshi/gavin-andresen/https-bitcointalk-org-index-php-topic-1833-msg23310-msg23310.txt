@@ -1,0 +1,17 @@
+
+
+Quote from: ShadowOfHarbringer on November 20, 2010, 03:42:52 PM
+
+Actually I think i remember Satoshi or Gavin saying that **it actually is a
+quite easy** change as bitcoin was designed so that decimal places can be
+added indefinately.  
+
+Wasn't me. I don't remember Satoshi ever writing something like that, but I'm
+really good at forgetting things.  
+  
+I agree with ribuck, if we ever need more than 21quadrillion bit-atoms,
+encoding more using the unused high bits in the 64-bit number will work
+nicely.  
+  
+That would be a very nice problem to have.  
+

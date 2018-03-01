@@ -1,0 +1,25 @@
+
+
+Quote from: barbarousrelic on December 15, 2011, 02:35:48 PM
+
+This can already happen, say, if a person has a copy of their wallet on their
+Linux partition and another on their Windows partition. If you spend the money
+on the Linux partition, and then a few days later boot to Windows, it will
+appear you are richer than you are until the blocks all download.  
+
+  
+... and that's exactly why I discourage people from doing things like that. It
+is too easy for two "copies" of a wallet to get out-of-sync.  
+  
+You have to be a geek and muck around with copying the wallet.dat file from
+one place to another to get into trouble, and that is by design. I have no
+problem at all with geeky tools that let you do dangerous things (like
+PyWallet).  
+  
+The JSON-RPC interface is trickier, because adding dangerous functionality
+there might encourage web services to do not-so-smart things like sending
+private keys over unencrypted/unprotected channels ("Email the private key as
+a Christmas gift" works great for a while, and then the bad guys start looking
+for privkeys in traffic they're sniffing and spend them before your Dad
+can....)  
+

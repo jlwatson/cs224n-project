@@ -1,0 +1,53 @@
+
+
+Quote from: triplehelix on March 26, 2012, 10:18:06 PM
+
+maybe you can explain the justification for not encrypting the wallet by
+default?  
+
+  
+Here's the thinking:  
+  
+Joe Random User finds out about bitcoin, and decides "what the heck, I'll
+check it out."  
+  
+They run it. First thing it does is ask him for a passphrase, with tons of "DO
+NOT FORGET YOUR PASSPHRASE" and/or "CHOOSE A LONG PASSPHRASE" warnings. What
+does he do? Many users will either:  
+  
+1\. Type "passphrase".  
+  
+or  
+  
+2\. Bang on the keyboard to create a long, random passphrase:
+"b;lkaj425[09234kjvfda,nvfd;nkj34toht4"  
+  
+He gets a little coin from the Faucet, writes me an email asking when they
+will arrive (because he hasn't yet downloaded the entire blockchain and didn't
+bother to read the information about that on the Faucet's "Sent!" page), and
+then shuts down the client.  
+  
+Time passes. Eventually the Faucet coins show up.  
+  
+He decides Bitcoin really doesn't suck as much as he first thought, so he
+decides to buy some Bitcoin on Mt. Gox.  
+  
+Time passes while Dwolla verifies his bank account and stuff.  
+  
+Then he buys Bitcoin, and manages to send them and see them show up in his
+running Bitcoin.  
+  
+Yay!  
+  
+Time passes. He decides he wants to spend the Bitcoin, and now he has to enter
+the passphrase that he set a week or three ago. But back then, wallet security
+wasn't at all important to him. He didn't have an Bitcoins to keep secure.  
+  
+So either he forgot that his passphrase is "passphrase" or he remembers that
+he typed a bunch or random letters just so he could get past that annoying
+"enter passphrase" dialog box so he could just **try** the damn thing.  
+  
+In short: wallet encryption is not the default because the right time to enter
+a passphrase to encrypt the wallet is when you KNOW that the wallet is
+valuable, and will take the steps necessary to protect it.  
+

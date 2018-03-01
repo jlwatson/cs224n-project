@@ -1,0 +1,19 @@
+
+
+I've wanted a libbitcoin since... well, since I first started browsing the
+bitcoin source code.  
+  
+The consensus of the core bitcoin development team is to move towards a
+libbitcoin in small-ish, incremental steps, NOT to move to a full-blown API in
+one fell swoop.  
+  
+The Bitcoin Consultancy folks disagree with that approach, and are moving
+ahead with a libbitcoin of their own that it rewritten from scratch, and I
+suspect there will be at least two or three other alternative implementations
+rewritten from scratch popping up over the next year or so. Which is why I'm
+spending a lot of time thinking about and working on cross-implementation
+testing.  
+  
+(I'm supposed to be on vacation here in Australia, but I'll try to find some
+time to upload what I've done so far to github).
+

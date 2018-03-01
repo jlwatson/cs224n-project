@@ -1,0 +1,31 @@
+
+
+That sounds more complicated than it needs to be.  
+  
+If you can assume some mixers are honest and won't disclose what they added to
+the mix, then just do a series of pair-wise mixes.  
+  
+E.g.  
+  
+A and B communicate securely and create a transaction that has 2 inputs and 2
+outputs, all of the same amount of bitcoins (A and B might need to send-to-
+selves to get the right sized outputs). The output order is randomized. They
+each sign their input (after checking to make sure their output goes to them).  
+  
+A could then repeat with C, then D and, assuming B, C, and D aren't all
+actually the same person recording his IP address and the mixes, would have a
+coins linked to the wallets of A/B/C/D. I believe after a few mixing steps a
+simple clustering analysis would think everybody who participated in the mix
+is sharing one big wallet (but I know very little about that stuff, and I
+wouldn't be surprised to find out there are more sophisticated clustering
+techniques that look at transaction times and overall transaction ordering
+that might be able to see through the fog and figure out who is who).  
+  
+If all the other participants in the mixes are actually the same person (Sybil
+attack) then I believe no matter WHAT algorithm you use you're sunk.  
+  
+My intuition is that if you can make the pairwise-mixing case work, then
+involving more than 2 people at once might be a useful optimization. But you
+should start with the 2-person case and prove it is secure before getting more
+complicated.  
+

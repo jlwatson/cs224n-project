@@ -1,0 +1,6 @@
+
+
+Works nicely on Linux, and is the recommended way to close dialogs.  
+  
+Anybody able to give it a quick compile and test on Windows?  
+

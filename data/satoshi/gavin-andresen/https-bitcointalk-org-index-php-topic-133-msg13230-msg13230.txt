@@ -1,0 +1,41 @@
+
+
+Quote from: Ground Loop on September 19, 2010, 04:01:27 AM
+
+So I've been trying to figure out.. just how many coins did  
+1HZNsUqQxKVLmfPfCAzLwrnVDzx8CxwxnM  
+receive?  
+  
+I just can't figure out how to get a total tally of coins to a specific
+address. Is there a tool for that?  
+
+  
+bitcointools can tell you all transactions to a particular bitcoin address:  
+  
+
+Code:
+
+dbdump.py --search-blocks=1HZNsUqQxKVLmfPfCAzLwrnVDzx8CxwxnM | grep 1HZN |
+grep TxOut  
+['TxOut: value: 50.00 pubkey: 12pCJJci7fRbr7XDBvrV8awimbPnT6BJZd Script: DUP
+HASH160 20:13e5...5de5 EQUALVERIFY CHECKSIG', 'TxOut: value: 10000.00 pubkey:
+1HZNsUqQxKVLmfPfCAzLwrnVDzx8CxwxnM Script: DUP HASH160 20:b5a1...0910
+EQUALVERIFY CHECKSIG']  
+['TxOut: value: 45.00 pubkey: 1PQPaGweztcFf1W8TmzEbxMVSdWsE4DKGA Script:
+65:0437...3cc6 CHECKSIG', 'TxOut: value: 5.00 pubkey:
+1HZNsUqQxKVLmfPfCAzLwrnVDzx8CxwxnM Script: DUP HASH160 20:b5a1...0910
+EQUALVERIFY CHECKSIG']  
+['TxOut: value: 50.00 pubkey: 1HZNsUqQxKVLmfPfCAzLwrnVDzx8CxwxnM Script: DUP
+HASH160 20:b5a1...0910 EQUALVERIFY CHECKSIG']  
+['TxOut: value: 50.00 pubkey: 1HZNsUqQxKVLmfPfCAzLwrnVDzx8CxwxnM Script: DUP
+HASH160 20:b5a1...0910 EQUALVERIFY CHECKSIG']  
+['TxOut: value: 45.00 pubkey: 1H1isittEm7RqH4ih2Gfhc2cRjBdfsbhFT Script:
+65:046c...55cb CHECKSIG', 'TxOut: value: 5.00 pubkey:
+1HZNsUqQxKVLmfPfCAzLwrnVDzx8CxwxnM Script: DUP HASH160 20:b5a1...0910
+EQUALVERIFY CHECKSIG']  
+... etc...  
+
+  
+Feed that to a little script that just looks for value: (something) pubkey:
+1HZNsUq and totals up the (somethings) and you can figure it out.  
+

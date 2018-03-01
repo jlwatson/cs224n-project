@@ -1,0 +1,16 @@
+
+
+I actually had an account with MTB back in the day. They partnered with David
+Chaum, guru of techno-privacy. Chaum had a place with Cypherpunks roughly
+analogous to Satoshi's around here, except he didn't have the grace to
+disappear mysteriously, and he very definitely had feet of clay.  
+  
+Anyway, MTB offered accounts using Chaum's blinding technology, so the bank
+couldn't see whom you were paying, as long as it was another account holder. I
+don't think this would fly today, but that was before KYC etc. The experiment
+never really got off the ground, and it was terminated shortly after.  
+  
+The OP has a piece of blinded ecash suitable for transfer to another MTB
+account holder, at least if you had a time machine and could go back to the
+90's. They were all powers of two, hence the 128 cents.  
+

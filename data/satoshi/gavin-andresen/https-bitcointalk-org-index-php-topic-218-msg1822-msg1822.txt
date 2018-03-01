@@ -1,0 +1,71 @@
+
+
+Quote from: HarryS on June 26, 2010, 11:17:51 PM
+
+I am also running bitcond 1.3 (RC?) that satoshi just posted. How do I use it
+though? There aren't many docs on using bitcoind... it just said "starting
+bitcoin server", and my IP appears in the #bitcoin room on irc.lfnet.org. How
+would I figure out my bitcoin address, how many coins I have, send to other
+people, etc?  
+
+You can talk to the running bitcoind either by:  
+1\. sending JSON-RPC calls; see http://www.bitcoin.org/wiki/doku.php?id=api
+for more details.  
+2\. re-running bitcoind and giving it extra arguments; it will figure out that
+there's already a bitcoind running and will pass along the commands.  
+  
+For example, running "bitcoind help" gives you the list of commands it
+understands:  
+
+Code:
+
+bitcoind help  
+getaddressesbylabel <label>  
+listreceivedbyaddress [minconf=1] [includeempty=false]  
+getreceivedbyaddress <bitcoinaddress> [minconf=1]  
+getbalance  
+getblockcount  
+getblocknumber  
+getconnectioncount  
+getdifficulty  
+getgenerate  
+getinfo  
+getlabel <bitcoinaddress>  
+getnewaddress [label]  
+getreceivedbyaddress <bitcoinaddress> [minconf=1]  
+getreceivedbylabel <label> [minconf=1]  
+help  
+listreceivedbyaddress [minconf=1] [includeempty=false]  
+listreceivedbylabel [minconf=1] [includeempty=false]  
+listtransactions [count=10] [includegenerated=false]  
+sendtoaddress <bitcoinaddress> <amount> [comment] [comment-to]  
+setgenerate <generate> [genproclimit]  
+setlabel <bitcoinaddress> <label>  
+stop  
+
+  
+To figure out what your bitcoin address is, run:  
+ ~~bitcoind getaddressesbylabel ""~~  
+ ~~(your default address has the empty string as its label).~~  
+
+Code:
+
+bitcoind getaddressesbylabel "Your Address"
+
+To figure out how many coins you have, run:  
+
+Code:
+
+bitcoind getbalance
+
+or  
+
+Code:
+
+bitcoind getinfo
+
+  
+Regarding running headless: the non-daemon bitcoin will run via remote (e.g.
+ssh forwarded) X-windows, if you install the necessary X11-client stuff on
+your server.  
+

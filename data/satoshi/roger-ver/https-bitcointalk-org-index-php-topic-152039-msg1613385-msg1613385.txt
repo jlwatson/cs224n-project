@@ -1,0 +1,22 @@
+
+
+http://pastebin.com/uUacVNHK  
+  
+"The Bitcoin network is currently experiencing an irreconcilable fork  
+between Bitcoin 0.8 and <0.8 nodes due to a block being mined by a  
+Bitcoin 0.8 node which an elevated blocksize which older nodes are  
+unable to handled.  
+  
+This issue will be resolved by mining power moving to the pre-0.8 fork  
+and making it longer. Until this is resolved all transactions at and  
+beyond block 225439 should be regarded as unconfirmed.  
+  
+Miners must move their hashpower back to 0.7.2 (or before) nodes or  
+their blocks will be orphaned. Once the pre-0.8 chain is longer  
+operation will resume as normal and a patch will be issued for 0.8 to  
+avoid triggering this issue.  
+  
+Please see the Bitcoin-dev mailing list or contact me if more  
+information is required. I will send out another email once the issue  
+is resolved."
+

@@ -1,0 +1,10 @@
+
+
+If there's a c++ programmer out there looking for a good "get me feet wet"
+project involving Bitcoin, I think importing/exporting public/private keypairs
+(in one of OpenSSL's file formats) would be a really good choice.  
+  
+The hard part is importing; you'd have to write code to re-scan the block
+chain to find transactions to/from the newly imported public/private keys, and
+add them to the wallet.  
+

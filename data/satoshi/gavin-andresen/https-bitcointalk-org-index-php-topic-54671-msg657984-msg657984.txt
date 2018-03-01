@@ -1,0 +1,12 @@
+
+
+Quote from: gmaxwell on December 21, 2011, 07:21:54 AM
+
+Having an asker interface in bitcoind would obviously be nice...  
+
+Use:  
+contrib/wallettools/walletunlock.py  
+and  
+contrib/wallettools/walletchangepass.py  
+  
+

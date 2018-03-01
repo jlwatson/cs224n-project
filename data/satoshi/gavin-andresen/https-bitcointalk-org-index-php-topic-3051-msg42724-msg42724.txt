@@ -1,0 +1,24 @@
+
+
+Quote from: davout on January 30, 2011, 08:41:56 PM
+
+Yea, that's nice, but will we reset the main network the day someone pulls the
+same trick on it ?  
+
+  
+No, if necessary we'd change the difficulty adjustment rules and make the
+code:  
+  
+if (current block is > some_number)  
+... new rules for adjusting difficulty  
+else  
+... old rules for adjusting difficulty  
+  
+I could have done that and kept the testnet block chain, but it is cleaner to
+just reset it with new rules.  
+  
+And "pulling the same trick" means throwing an overwhelmingly massive amount
+of hashing power at the main network (like 16 times the current overall
+hashing power) for a significant amount of time, which is getting increasingly
+hard to do.  
+

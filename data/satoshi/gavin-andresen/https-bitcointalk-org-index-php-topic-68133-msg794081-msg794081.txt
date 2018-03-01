@@ -1,0 +1,12 @@
+
+
+Stay tuned: the testnet is a mess right now. Another genesis block reset might
+be needed to fix it, there have been several blockchain-splitting changes and
+there are several different versions of the blockchain competing (with/without
+the difficulty change, with/without the duplicate coinbase change, and
+with/without BIP16 support).  
+  
+In the meantime, testing with a testnet-in-a-box or private testnet is a good
+way to go:  
+https://sourceforge.net/projects/bitcoin/files/Bitcoin/testnet-in-a-box/
+

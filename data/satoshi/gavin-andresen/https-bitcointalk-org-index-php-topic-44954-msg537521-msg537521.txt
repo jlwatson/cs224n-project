@@ -1,0 +1,32 @@
+
+
+I like the idea of trying to prove that the DoS code doesn't increase the
+chance of network fragmentation.  
+  
+The DoS countermeasures should be careful not to penalize or ban peers for any
+messages that the client will (or might, in another situation) relay.  
+  
+For example, double-spent transactions don't trigger the DoS countermeasure
+code.  
+  
+That should be sufficient to prevent split-the-network attacks; if an attacker
+wants to try to split the network, the only way the attacker would be
+successful is if it could somehow send messages to peers that ARE relayed and
+trigger disconnections elsewhere in the network.  
+  
+Looking through the patch:  
+https://github.com/bitcoin/bitcoin/pull/517/files  
+  
+... I see a couple of cases where relayed messages are penalized (block times
+too far off, and hitting the free transaction relay limit). To be safe, I'll
+remove them.  
+  
+As for relaying block headers for banned peers: "banned" means "if you try to
+connect to me I'll simply drop the connection attempt." I feel strongly that
+is the correct behavior; the motivation for the DoS prevention code is to
+"whitelist" peer behavior, and try to prevent possible 0-day attacks like "if
+I send you THIS invalid transactions followed by THAT sequence of weird bytes
+followed by THIS corrupted block header THEN I trigger an obscure bug in the
+version of OpenSSL that you're running and compromise your machine...."  
+  
+

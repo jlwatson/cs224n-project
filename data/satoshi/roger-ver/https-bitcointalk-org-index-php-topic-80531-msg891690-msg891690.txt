@@ -1,0 +1,18 @@
+
+
+Quote from: johnthedong on May 10, 2012, 03:37:51 AM
+
+This is awesome! Which tablet company is it?  
+
+  
+I don't want to step on any toes, so I will let Yifu check with the company to
+see if they are ready to have their intentions be publicly known.  
+  
+  
+Also, I believe the idea is to install software in each tablet that relays new
+Bitcoin transactions throughout the network.  
+It would not store the entire blockchain. I will need advice from the core
+developers in regards to what will be the most useful and practical.  
+If the Bitcoin software degrades the end user experience, I don't think they
+will be willing to install it.
+

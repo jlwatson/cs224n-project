@@ -1,0 +1,13 @@
+
+
+Zooko Wilcox-O'Hearn also deserves recognition; he warned us that the method
+Bitcoin uses to compute the Merkle tree was possibly insecure (although at the
+time we couldn't see how to turn it into an exploit).  
+  
+This was a nasty bug; if Forrest hadn't found it and responsibly reported it,
+an attacker probably could have stopped most of the nodes on the network
+before we got patched code out. It is bugs like this that make me think that
+having several different implementations of the Bitcoin protocol is a good
+idea.  
+  
+

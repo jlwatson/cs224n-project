@@ -1,0 +1,8 @@
+
+
+Fantastic idea!  
+  
+My only suggestion would be a "copy to clipboard" icon/link next to the
+funding address (I need to do that for ClearCoin, too-- haven't looked into
+how to do it yet, but github does it so I know it can be done...)  
+

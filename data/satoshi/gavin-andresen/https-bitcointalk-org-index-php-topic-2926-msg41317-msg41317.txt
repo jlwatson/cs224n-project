@@ -1,0 +1,12 @@
+
+
+ribuck: I did misunderstand, sorry.  
+  
+And maybe I should have been clearer: the idea behind a **reproducible**
+virtual image is exactly to capture tools, version numbers, etc etc. Auditors
+that create their own virtual images with the same CPU, OS, tools, etc. will
+be relied upon to confirm that yes, the bitcoin executables on the website
+were indeed built using standard compilers/linkers/etc from a particular
+source revision.  
+  
+

@@ -1,0 +1,54 @@
+
+
+Back in the 90's on the cypherpunks mailing list, Wei Dai (of Crypto++ and
+b-money fame) invented a system of anonymous lending. Of course the classic
+problem with anonymous loans is that you don't know whose legs to break if
+they don't pay it back. Wei solved this problem, with some conditions.  
+  
+The participants in the protocol are borrowers, lenders, and bystanders (who
+don't want to lend or borrow right now, but might wish to do so on future runs
+of the protocol). The key is that all participants are fully identified, to
+the extent that they are vulnerable to that all-important leg-breaking.
+Nevertheless, the protocol conceals the role of each participant, and the
+amount they are borrowing or lending, if any.  
+  
+There needs to be a system of anonymous payments, and a simple trusted machine
+called the Pot. (In practice, the Pot would be simulated by the participants,
+using a cryptographic multi-party computation.)  
+  
+In a preliminary phase, participants would anonymously negotiate and agree on
+the amount each person would borrow or lend, such that the total amount
+borrowed equalled the total amount lent. The actual protocol then has four
+phases, two for borrowing/lending, and two for repayment.  
+  
+Phase 1 is private. Each participant anonymously puts money into the Pot, and
+gets in exchange a signed receipt for the amount. Lenders would put the most
+money in, bystanders less, and borrowers little or none. You'll see why in a
+moment.  
+  
+Phase 2 is public. The Pot now has a certain amount of money in it; this is
+divided equally and distributed publicly to all participants.  
+  
+The borrowing/lending is now done. People who put more money in the Pot than
+the per-person distribution in phase 2 are net lenders; people who put in less
+are net borrowers; and people who put in the same amount are the bystanders,
+with no net change. No one knows whether anyone else is a borrower or lender.  
+  
+When it is time to repay the loan, two more phases are run, the mirror images
+of the first two.  
+  
+Phase 3 is public. Each participant publicly and verifiably puts back into the
+Pot the exact amount taken out in phase 2 (or, that amount plus interest).
+This is leg-breaking time! No excuses, everybody's got to pay up.  
+  
+Phase 4 is private. Each participant anonymously presents his receipt from
+phase 1 to the Pot, and gets back that amount (or, that amount plus interest).
+This unwinds the earlier transactions and all the funds are back where they
+started.  
+  
+All that is visible publicly is that everyone splits up the pot evenly in
+phase 2, and then returns that same amount in phase 3. But behind the scenes,
+transfers of value are taking place. And failure to repay a loan means failure
+to carry out phase 3, which be publicly visible and will lead to serious
+consequences.
+

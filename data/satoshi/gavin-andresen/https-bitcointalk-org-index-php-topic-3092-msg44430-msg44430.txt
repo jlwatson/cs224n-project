@@ -1,0 +1,38 @@
+
+
+Quote from: jon_smark on February 04, 2011, 01:52:17 PM
+
+Anyway, as I mentioned I'm not that familiar with the inner workings of the
+Bitcoin protocol, so I'm making lots of assumptions. I hope you can fill the
+blanks, because without an API that allows clients to have a fool-proof way of
+ensuring transaction consistency it will be very hard for Bitcoin to be taken
+seriously for e-commerce applications.  
+
+  
+The fool-proof way of dealing with your use case (customer orders something,
+you want to ship after you're sure payment has cleared):  
+  
+\+ Give each customer an account. When they order, use getaccountaddress to
+get a bitcoin address to which they can send payment.  
+  
+\+ Every N minutes ask bitcoin either the balance (with minimum 6
+confirmations) for accounts with pending orders or all accounts  
+  
+\+ If the account balance is enough to pay for the order, ship it and move the
+coins from the customer's account to a PAID account.  
+If not... either wait or tell the customer they paid the wrong amount or maybe
+refund any extra they sent (you'll have to ask them for a refund address).  
+  
+The inelegant polling will eventually be fixed by bitcoin POSTing when new
+blocks or transactions arrive, but I think you'll still need to ask bitcoin
+what the account's current balance is-- trust me, you really don't want to
+recreate all the bitcoin logic dealing with double-spent transactions or block
+chain reorganizations.  
+  
+If you grow to handling thousands of orders per day (which would be a very
+good problem to have) you'll want to buy or build a version of bitcoin
+optimized for high-volume transaction websites. Or maybe you'll run 20
+bitcoinds, each handling 1/20'th of the customers -- I dunno, I don't spend a
+lot of time worrying about problems I'll have when my project is outrageously
+successful.  
+

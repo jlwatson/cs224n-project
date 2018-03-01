@@ -1,0 +1,97 @@
+
+
+An impromptu brainstorm this morning in IRC chat (thanks everybody!) helped me
+think through a few issues for an "accounts" API.  
+  
+The big idea:  
+  
+Replace the JSON-RPC "label" API with the notion of "accounts".  
+  
+What is broken about the current API?  
+\+ you can't get a list of all transactions that make up an account's balance  
+\+ if your bitcoin service has the notion of maintaining a balance for
+multiple  
+customers then you end up mirroring information stored in the bitcoin wallet
+database.  
+Mirroring is a problem because if the connection between your service and
+bitcoin  
+fails at the wrong time (e.g. between sending a "sendtoaddress" and getting  
+back "sent") your database can be out of sync with the bitcoin reality.  
+  
+Problems this proposal does NOT tackle:  
+\+ multiple "wallets" for GUI bitcoin users  
+\+ improving anonymity by keeping "coins" from different people in different
+"wallets"  
+\+ "push" notifications from bitcoin when coins are received (or blocks
+generated)  
+  
+NEW METHODS:  
+\------------  
+getaccountaddress <account>  
+move <fromaccount> <toaccount> <amount>  
+sendfrom <account> <tobitcoinaddress> <amount> [minconf=1] [comment] [comment-
+to]  
+listtransactions <account> [minconf=1] [count=10] [start=0]  
+  
+CHANGES TO EXISTING METHODS:  
+\----------------------------  
+getbalance [account] [minconf=1]  
+  
+listreceivedbyaddress:  
+return "account" instead of "label" in JSON-RPC result  
+  
+sendtoaddress:  
+same API, but debits accounts as described below  
+  
+METHODS RENAMED:  
+\----------------  
+setlabel --> setaccount  
+getlabel --> getaccountfromaddress  
+getaddressesbylabel -> getaddressesbyaccount  
+getreceivedbylabel -> getreceivedbyaccount  
+listreceivedbylabel -> listreceivedbyaccount  
+... returns "account" instead of "label" in result  
+  
+  
+ ~~METHODS REMOVED (deprecated):  
+\-----------------------------  
+setlabel~~  
+  
+  
+NOTES:  
+\------  
+  
+All existing routines would continue to be supported for a while (e.g.
+listreceivedbylabel would be kept as a synonym for listreceivedbyaccount, and
+would return both "account" and "label" in the JSON result).  
+  
+Coins going into or out of the wallet that don't have an associated account
+will be associated with a default account (named the empty string: ""). So
+sum(account balances) will always equal server account balance.  
+  
+Generated coins will be assigned to the default account when they mature.  
+  
+sendtoaddress, and the GUI "send" button, will debit ~~accounts starting with
+the default account (if it has a non-zero balance) and continuing in
+alphabetical (ascii) order.~~ the default address, which will be allowed to go
+negative.  
+  
+None of these changes will be visible in the graphical user interface. These
+changes are for people running bitcoind to support bitcoin-related services,
+not for end-users.  
+  
+It would be nice to support transactions by batching up several commmands and
+ensuring that they either all succeed or all fail. But: this should be useful
+even without that feature. The cleanest way of doing that is JSON-RPC-2.0
+"batch send", and that all can come in a later version.  
+  
+ ~~Why remove setlabel? Because it is not clear what "setaccount
+<bitcoinaddrress>" means for old transactions that were received on that
+address-- do they remain credited to the old account (confusing!) or does
+history get rewritten so they are credited to the new account (your
+accountant/auditor will surely protest!).~~  
+  
+UPDATE: svn rev 188 implements most of this (all but gettransactions). And due
+to the disaster recovery scenario described below, 'setlabel' stays as
+'setaccount'.  
+

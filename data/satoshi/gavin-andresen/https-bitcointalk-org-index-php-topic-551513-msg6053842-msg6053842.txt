@@ -1,0 +1,52 @@
+
+
+Quote from: instagibbs on April 03, 2014, 02:01:37 PM
+
+Not quite right. Miners can and will mine things with a lower fee. Many nodes
+will simply not forward the transactions however.  
+
+  
+For low-priority transactions, it doesn't look to me like many miners are
+accepting lower fees.  
+  
+Right now, a 999-byte transaction paying the reference-implementation-default
+fee of 0.0001 BTC will wait 2-3 hours to get into a block.  
+  
+A typical 250-byte transaction paying the default 0.0001 BTC fee will see its
+first confirmation in 5 or 6 blocks (about an hour on average). If you want
+your transaction to confirm quickly, then right now you need to pay about
+double the default fee.  
+  
+Some results running https://github.com/bitcoin/bitcoin/pull/3959 (more
+review/testing welcome) :  
+  
+
+Code:
+
+$ for i in {1..25}; do ./bitcoin-cli estimatefee $i; done  
+0.00077821  
+0.00044643  
+0.00044444  
+0.00044248  
+0.00044248  
+0.00038911  
+0.00038760  
+0.00026810  
+0.00024752  
+0.00022831  
+0.00020040  
+0.00017513  
+0.00016155  
+0.00014706  
+0.00013802  
+0.00012531  
+0.00011779  
+0.00011013  
+0.00010363  
+0.00010111  
+0.00008905  
+0.00008636  
+0.00007474  
+0.00006743  
+0.00004444  
+

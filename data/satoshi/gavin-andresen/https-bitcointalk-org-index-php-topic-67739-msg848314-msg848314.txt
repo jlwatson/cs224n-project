@@ -1,0 +1,20 @@
+
+
+Quote from: jevon on April 12, 2012, 05:10:55 PM
+
+Suppose there's a transaction for 100,000BTC and several blocks later a double
+spend with 50,000BTC fee...  
+  
+Maybe there should be a maximum fee per transaction.  
+
+Or maybe you should wait 60 blocks before considering a half-a-million-dollar
+transaction final if you think there is any possibility of a mining cabal
+trying to do this.  
+  
+All of this reminds me, I need to clean up my user-defined-checkpoints code
+for the 0.7 release, so a cabal of merchants and exchanges can get together
+and decide they will "lock in" an agreed-upon blockchain after 6 (or 60 or
+whatever) confirmations. I think that would go a long way towards
+infrastructure for injecting real-world knowledge about who is trustworthy
+into the block-chain.  
+

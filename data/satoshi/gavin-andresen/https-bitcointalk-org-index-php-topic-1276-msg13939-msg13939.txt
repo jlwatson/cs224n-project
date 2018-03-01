@@ -1,0 +1,17 @@
+
+
+"Mainstream" users want a more-selection, less expensive, just as fast variant
+of iTunes. Frankly, I don't think an illegal filesharing site can scratch that
+itch and stay in business for long (I'm curious to see how long mulve.com
+lasts).  
+  
+If it could, I think a bitcoin-revenue-sharing business model would work
+well-- "We'll give you 50% of the revenue from any downloads of stuff you
+upload" (and "we" charge x-bitcoins-per-download).  
+  
+But I think even if such a service existed there would still be a bunch of
+people who refuse to pay a bit-penny for downloads. But I agree with lfm-- I
+think many of them would be willing to pay _indirectly_ for downloads; you
+just have to tell them that they're paying for "X gigbytes of premium
+bandwidth" or something...  
+

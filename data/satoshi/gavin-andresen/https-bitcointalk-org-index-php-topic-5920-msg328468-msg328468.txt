@@ -1,0 +1,23 @@
+
+
+Losing double-spent transactions should probably be reported as
+-1/unconfirmed, -2/unconfirmed, etc -- meaning "there is a N-confirmed
+transaction that conflicts with this one."  
+  
+-6/unconfirmed seems like the natural "this transaction ain't never gonna be confirmed, time to report it as -N/orphan."  
+  
+-1/unconfirmed should be enough to stop re-transmitting it.  
+  
+And -120/orphan seems like a safe time to "unspend" any inputs (let them be
+spent by new transactions) that weren't spent by the other, conflicting
+transaction.  
+  
+... he says nonchalantly, knowing full well that actually making bitcoin
+behave that way means a lot of very careful coding and lots and lots of
+careful testing...  
+  
+The shortcut, maybe-good-enough-for-now solution: export all the private keys
+from all the messed up wallets. Start with a clean wallet, then re-import all
+the private keys and let the clean-slate bitcoin figure it all out.  
+  
+

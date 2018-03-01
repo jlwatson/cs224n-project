@@ -1,0 +1,19 @@
+
+
+Quote from: BlueMatt on May 03, 2011, 08:30:44 PM
+
+That said, there is never anything wrong with adding just a bit more salt to
+your hashes.  
+
+You're suggesting:  
+ECDSA_SIGN(SHA256(RIPEMD160(SHA256(public_key))+"fixed string"+message))  
+is more secure than:  
+ECDSA_SIGN(SHA256("fixed string"+message))  
+  
+It sure looks more secure! But maybe some super-smart cryptographer will tease
+out a relationship between all the hashing and signing in the first version
+and it will turn out to be less secure; maybe she'll figure out a way to
+factor out the private key if the public key is involved in the salt.  
+  
+I like the simpler version better.  
+

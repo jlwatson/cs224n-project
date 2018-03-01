@@ -1,0 +1,23 @@
+
+
+No, actually, in the current source code it never gets lowered:  
+
+Code:
+
+// Retarget  
+CBigNum bnNew;  
+bnNew.SetCompact(pindexLast->nBits);  
+bnNew *= nActualTimespan;  
+bnNew /= nTargetTimespan;  
+  
+if (bnNew > bnProofOfWorkLimit)  
+bnNew = bnProofOfWorkLimit;  
+  
+/// debug print  
+printf("GetNextWorkRequired RETARGET\n");  
+
+There's no "else if (bnNew < ...something)"  
+  
+ **UPDATE** : rodin is right, I'm wrong. bnProofOfWorkLimit is a constant, and
+this code just make sure the proof of work never gets too easy.
+

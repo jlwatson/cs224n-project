@@ -1,0 +1,17 @@
+
+
+0.3.20 will support listtransactions '*' for all transactions.  
+  
+Transactions since <txid> .... sounds dangerous. Are you trying to mirror the
+transaction database that bitcoin keeps? If you are, are you sure you'll deal
+properly with (rare) block chain re-organizations where transactions that you
+thought had one confirmation turn out to be invalid in a new fork of the
+chain?  
+  
+I can imagine subtle bugs-- you ask for transactions since <txid> but that
+txid turns out to be an orphan transaction (double-spend on the losing side of
+a block chain re-org) so bitcoin returns... what?  
+  
+All non-orphan transactions with transaction time equal to or greater than a
+given timestamp might work-- but what is your use case?  
+

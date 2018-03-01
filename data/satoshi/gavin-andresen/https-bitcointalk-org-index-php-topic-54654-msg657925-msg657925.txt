@@ -1,0 +1,10 @@
+
+
+The coinbase must be between 2 and 100 bytes long and must be valid when
+deserialized as a "CScript", but may contain arbitrary data.  
+  
+Block 158479 looks like it is doing merged mining.  
+The '07456c6967697573' at the start is the string 'Eligius'.  
+The stuff in the middle looks like hashes for other block chains.  
+And the '074f505f4556414c' at the endis is the string 'OP_EVAL'.  
+

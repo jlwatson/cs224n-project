@@ -1,0 +1,9 @@
+
+
+You can't send messages with transactions.  
+  
+There was some discussion of adding another "standard" transaction type that
+allowed you to add N bytes of arbitrary data. I think that is a good idea (I
+think people would find all sorts of interesting uses for it), but there are
+higher priority things on the development roadmap.  
+

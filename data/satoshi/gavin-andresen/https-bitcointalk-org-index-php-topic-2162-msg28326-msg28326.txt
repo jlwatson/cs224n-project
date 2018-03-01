@@ -1,0 +1,18 @@
+
+
+Quote from: theymos on December 08, 2010, 11:41:42 PM
+
+Yeah; it's pretty pointless. Why on Earth would any miner adopt this change,
+when it means that they will be getting fewer transaction fees due to the lost
+non-standard transactions?  
+
+  
+There's been exactly one block with non-standard transactions:  
+http://blockexplorer.com/b/71036  
+... and it contained no fees.  
+  
+HOWEVER: jgarzik, you're over-reacting, too. This will **not** cause a block
+chain split; all clients will accept blocks containing non-standard
+transactions as valid. Most (many?) just won't put non-standard transactions
+in blocks that they generate, and won't relay them. There will be no havoc.
+

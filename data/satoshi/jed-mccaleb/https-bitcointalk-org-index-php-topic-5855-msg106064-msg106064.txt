@@ -1,0 +1,4 @@
+
+
+Shouldn't the order_add message tell you if it was a buy or sell order?
+

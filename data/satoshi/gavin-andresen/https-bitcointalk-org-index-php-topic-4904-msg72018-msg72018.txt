@@ -1,0 +1,10 @@
+
+
+Quote from: [mike] on March 25, 2011, 11:35:48 AM
+
+Oops. Should RPCs be run with the BFL held?  
+
+D'oh!  
+  
+sendfrom should definitely CRITICAL_BLOCK(cs_main). Nice catch ArtForz.  
+

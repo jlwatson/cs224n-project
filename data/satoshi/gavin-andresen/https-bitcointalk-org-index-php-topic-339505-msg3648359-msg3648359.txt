@@ -1,0 +1,38 @@
+
+
+DeathAndTaxes: I'm normally impressed with your posts, but I think you've got
+some details wrong.  
+  
+First, RE: the orphan cost of transactions: Decker/Wattenhofer measured 80ms
+for a 1K bigger block. The math to compute orphan cost is:  
+
+Code:
+
+orphan cost = (block_reward+fees) * (1 - e^(-(1/target block time)*delta_time)
+
+Plugging in 25 XBT block reward, 600 target time, 0.08 delta time, and
+assuming no fees (to make the math easier):  
+
+Code:
+
+orphan cost = 25 * (1 - e^(-(1/600)*0.08) = 0.0033
+
+  
+So 3.3 millies per kilobyte is the orphan cost.  
+  
+Even if we assume Decker/Wattenhofer are off by a factor of two (we **have**
+made some improvements since they measured block propagation; better
+measurements welcome), ~~default transaction fees (1 to 5 millies per
+kilobyte) are in the right ballpark to minimize orphan costs.~~ the .1 default
+transaction fee does not come close to covering the orphan cost (edited:
+thanks foxpup).  
+  
+It should be fairly easy to get about another factor of about 10-20 reduction
+in orphan costs. And as I said in another thread, if EVERYBODY produces larger
+blocks then EVERYBODY bears the increased orphan cost, and the result is
+better for everybody . There is a fixed number of new bitcoins to be earned,
+regardless of the orphan rate; everybody's share of that fixed number will be
+the same if everybody has a slightly higher orphan block rate. But everybody
+will earn more fees, and their bitcoins will be worth more because bitcoins
+will be more useful.
+

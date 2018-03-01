@@ -1,0 +1,10 @@
+
+
+Quote from: ewal on June 08, 2011, 12:23:54 AM
+
+Is there a way to delete an account (reassigning any addresses it has to the
+default "" account) or to rename an account?  
+
+No, there's no way.  
+  
+

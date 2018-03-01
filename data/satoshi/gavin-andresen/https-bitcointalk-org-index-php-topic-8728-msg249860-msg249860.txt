@@ -1,0 +1,28 @@
+
+
+RE: making it harder to brute-force:  
+  
+I have a couple of thoughts. First, if users choose passwords like 'abc123' or
+'password' or any of the other top-1,000 passwords it doesn't matter if we're
+scrypt'ing; they're toast. I'd rather see work on either giving users feedback
+on how strong or weak their password is rather than adding a tiny-little-bit-
+more security by scrypting.  
+  
+That said, changing the 'ekey' data so that ONLY the 256-bit private key is
+encrypted should increase security with very little extra code. Consider what
+you'd have to do to brute-force:  
+  
+1000 x SHA256(password_text)  
+  
+Now you have a 256-bit number. Is it the right private key? To check:  
+ECC multiply to get candidate public key  
+RIPEMD160(SHA256(candidate public key)), and check to see if it matches public
+key.  
+  
+Anybody know how easy it is to GPU parallelize ECC multiplies? A quick google
+search gives me the impression that is an area of active research.  
+  
+  
+RE: pre-computing wallet keys: ?? wallet private keys are 256-bit random
+numbers. Am I misunderstanding you gmaxwell?  
+

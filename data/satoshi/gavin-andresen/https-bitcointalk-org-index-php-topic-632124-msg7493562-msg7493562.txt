@@ -1,0 +1,21 @@
+
+
+Quote from: ivan.pustogarov on June 22, 2014, 10:34:14 AM
+
+We are currently working on a countermeasure. In particular we wonder how  
+reducing from eight to four entry nodes would effect the bitcoin network.  
+We also think to decay the connections based on the number of transactions  
+(for example renewing half of the entry node connections after each  
+transaction). It might be interesting to include a proof of work for  
+creation of connections, but this would create a compatibility issue.  
+
+  
+Excellent!  
+  
+I've been accused in the past of "not caring about privacy" -- when I do care
+a lot about privacy. But I am not a privacy researcher, and I have a deep
+respect for how difficult it is to create a truly privacy-preserving system.  
+  
+I'm very happy that somebody who **is** an expert is thinking about, and
+working on, countermeasures.  
+

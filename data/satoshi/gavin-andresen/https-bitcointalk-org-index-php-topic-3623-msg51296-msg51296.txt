@@ -1,0 +1,9 @@
+
+
+The only thing stopping me from announcing 0.3.20 "Final!" is confirmation
+from Windows users that switching to the mingw build process fixed the
+rendering issues.  
+  
+So: if you're a Windows bitcoin user, please install the latest 0.3.20 from
+SourceForge and let me know how it works for you.  
+

@@ -1,0 +1,16 @@
+
+
+Quote from: jimbobway on July 12, 2010, 06:46:59 AM
+
+I tried to get the free bitcoins. It said the bitcoins were on it's way. But
+it's been more than 5-10 min and still no bitcoins in my balance. How long
+should it take?  
+
+If you have finished downloading the "block chain" (the history of previous
+transactions) then you'll get your bitcoins right away.  
+  
+If you haven't finished that initial download (if the "blocks" number at the
+bottom of Bitcoin is less than 65-thousand-something), then you'll get your
+free bitcoins as soon as you download the block containing that 5-bitcoin
+transaction.  
+

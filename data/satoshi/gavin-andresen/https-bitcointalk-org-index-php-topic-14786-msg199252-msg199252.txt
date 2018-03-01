@@ -1,0 +1,14 @@
+
+
+This would be like a 6-blocks-back block chain lock-in. Maybe not a bad idea
+at this point (unlike the early days when legitimate users might throw lots of
+new hashing power at the network or there might have been network splits
+because there were so few nodes).  
+  
+I think there would have to be an override, in case there WAS an hour or two
+or three network split.  
+  
+Or maybe some attempt to detect double-spends (e.g. more-than-5-block-split OK
+if all transactions are valid on both chains).  
+  
+

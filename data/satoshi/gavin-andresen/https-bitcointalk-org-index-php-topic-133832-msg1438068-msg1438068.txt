@@ -1,0 +1,22 @@
+
+
+RE: "multisig transactions" :  
+  
+I did some high-level multisig design work a couple of months ago:  
+https://gist.github.com/4039433  
+and  
+https://moqups.com/gavinandresen/no8mzUDB/  
+  
+... and had these thoughts about terminology:  
+  
+
+Quote
+
+ **Is "Shared Wallet" the right metaphor?  
+**  
+I use the term "shared wallet" to mean: one or more multisignature bitcoin
+addresses that can receive funds and whose private keys are distributed to
+more than one person or device.  
+  
+Perhaps "joint account" or some other banking term would be better.  
+

@@ -1,0 +1,27 @@
+
+
+eleuthria is right.  
+  
+The bad-for-not-upgraded-miners scenario is:  
+  
+\+ Somebody gets a valid BIP16 transaction into the chain.  
+  
+\+ They then spend that transaction by broadcasting a 'standard', non-BIP16
+transaction, BUT they create a signature for the BIP16 part that old miners
+consider valid, new miners consider invalid.  
+  
+\+ The old miners will add that 'poisonous' transaction to their memory pool
+and if they include it in the blocks they mine then those blocks will be
+rejected by most of the network.  
+  
+makomk pointed out a while ago that I hadn't noticed that old miners will
+accept spends of half-valid BIP16 transactions, because the old code doesn't
+check to see if a transaction is _spending_ a non-standard input. He's right;
+one of the changes in the 0.6 release is an AreInputsStandard() method, to
+make upgrading smoother next time.  
+  
+Executive summary: if you are a p2pool or solo miner you should upgrade before
+the switchover date (April 1, if all goes well) or there is a good chance
+you'll produce nothing but orphan blocks. I welcome suggestions on how to
+effectively get that message out to the community.  
+

@@ -1,0 +1,20 @@
+
+
+Quote from: wobber on June 13, 2010, 09:00:32 AM
+
+I've been able to drawn 50 BTC in minutes using Tor. Please add some address
+filter too, so the same address can't be used twice. I'll also provide a Tor
+blacklist if you'd like.  
+PS: I've paid back those BTCs.  
+
+  
+How many public Tor exit nodes are there these days? You've essentially
+blacklisted 10 of them already  
+  
+I am going to add a one-donation-per-bitcoin address rule to make it a teeny-
+tiny bit harder to cheat. I don't want to blacklist anybody coming from Tor,
+though-- I think a lot of people using Tor will also be interested in Bitcoin.  
+  
+I'll implement a CAPTCHA when (if?) the current service starts running low on
+coins (there are 1,570 bitcoins in the faucet right now!).  
+

@@ -1,0 +1,28 @@
+
+
+Code:
+
+sendmany <fromaccount> {address:amount,...} [minconf=1] [comment]  
+amounts are double-precision floating point numbers  
+
+https://github.com/bitcoin/bitcoin/pull/106  
+  
+Need for this is being driven by mining pool operators; it is much more
+efficient to pay lots of people with one transaction rather than lots of
+little transactions.  
+  
+Old clients will refuse to relay sendmany transactions, so to ensure timely
+inclusion in a block mining pool operators should either upgrade together and
+connect their clients together or wait until a good percentage of the network
+has had a chance to upgrade to the next version of bitcoin.  
+  
+Examples of use from a bash command-line (note you have to quote the second
+'object' argument because the {} characters are interpreted by bash):  
+
+Code:
+
+bitcoind sendmany "" '{"mvTt8hav6e9ESjSrXJ1yaJhyULHv8ywcN7":50}' 1 "To the
+Faucet"  
+bitcoind sendmany "SomeAccount"
+'{"myeTWjh876opYp6R5VRj8rzkLFPE4dP3Uw":10,"mikZVLuasDcY1Jmph3rqgT1NXfjB1srSEc":15,"mvTt8hav6e9ESjSrXJ1yaJhyULHv8ywcN7":50}'  
+

@@ -1,0 +1,21 @@
+
+
+Quote from: bg002h on October 10, 2012, 12:26:29 AM
+
+Receiving nodes have no reason to forward transactions on...  
+
+  
+Actually, there is a small incentive to forward transactions:  
+  
+If you mine a block that contains a lot of transactions that have never been
+broadcast on the network, it will take your peers longer to verify that the
+signatures in the block are valid.*  
+  
+So it takes your block longer to propagate through the network, which makes it
+slightly more likely to lose a block race.  
+  
+
+* * *
+
+* A couple of releases ago I implemented a signature cache, so if a node sees a transaction broadcast it doesn't have to re-check it when that transaction is part of a block.  
+

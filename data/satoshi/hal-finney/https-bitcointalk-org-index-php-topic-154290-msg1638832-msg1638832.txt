@@ -1,0 +1,13 @@
+
+
+Indeed, I bricked my laptop when I was first experimenting with this
+technology several years ago. Fortunately it was under warrantee and they
+replaced it. All you have to do is make sure your BIOS is up to date and that
+won't be a problem.  
+  
+As far as XMHF (TrustVisor) I just bought a new system from bitcoinstore.com
+which should support it. This is a newer technology than Flicker which should
+remove some of the limitations. I'm worried though because Jon McCune, whose
+group is doing both of those projects, left CMU for Google. The projects seem
+a little rudderless now.
+

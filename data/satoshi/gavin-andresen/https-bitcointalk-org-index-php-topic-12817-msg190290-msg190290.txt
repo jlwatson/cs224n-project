@@ -1,0 +1,6 @@
+
+
+I'm going to keep the main Faucet closed until the 0.3.23 client with default
+0.0005 fees are in place, and I'll drop the reward to somewhere around 1
+millibitcoin (which, at $30/BTC, is 3 cents).  
+

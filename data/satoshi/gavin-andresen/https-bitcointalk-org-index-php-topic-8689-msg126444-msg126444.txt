@@ -1,0 +1,26 @@
+
+
+Quote from: creighto on May 17, 2011, 09:43:59 PM
+
+There is an economic incentive for a for profit miner to exclude free
+transactions, but not an economic incentive for a miner to exclude a low fee
+paying transaction so long as there remains room in the block.  
+
+People keep saying that, but it is simply not true.  
+  
+With a given number of "front-end" CPUs checking ECDSA transaction signatures,
+miners will be able to process at most N transactions per second.  
+  
+If there are more transactions than that going over the network, then miners
+will drop the least-profitable transactions and only process the most-
+profitable N.  
+  
+Mining involves two distinct tasks: checking transactions and gathering them
+into a block (which is inexpensive right now because there aren't gazillions
+of transactions). And then hashing (which will always be expensive).  
+  
+  
+Miner operators will keep track of the transactions they're dropping, and will
+do some math to figure out if it would be profitable for them to invest in
+MORE front-end CPUs to process more than N transactions per second.  
+

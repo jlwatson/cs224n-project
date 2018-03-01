@@ -1,0 +1,14 @@
+
+
+Actually TPM's do have a secure clock. There's just no guarantee about when it
+will keep ticking. You can detect if it gets reset because there is a 20 byte
+nonce, which changes at every reset. I've found that my HP laptop preserves
+the timer in S3 sleep, I don't know for sure, but I shut it down for a few
+seconds and it seemed to be preserved, which was a surprise. And my HP desktop
+system is never shutdown, but it preserves the timer across reboots.  
+  
+If bcflick eetects a timer reset, it won't let you spend anything for 24
+hours. But you can always boot into a safe mode and reset your passphrase.
+This will reininitialize bcflick and you can spend up to the daily limit,
+right away.
+
