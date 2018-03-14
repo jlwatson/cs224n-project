@@ -1,0 +1,5 @@
+It's too soon to start junking up the API for backward compatibility at all
+costs.  
+  
+Just return "<txid>".
+

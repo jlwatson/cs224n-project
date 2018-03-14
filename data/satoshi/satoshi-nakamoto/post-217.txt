@@ -1,0 +1,4 @@
+Once you get away from a system where each node's influence is proportional to
+their CPU power, then what else do you use to determine who is (approximately)
+one person?  
+

@@ -1,0 +1,5 @@
+We don't even specify linking glibcxx_3.4.11, so gcc must automatically link
+it behind the scenes. There's probably a compiler switch that would tell it to
+static link it. I'm not sure what the licensing issues would be. Typically,
+compiler stuff is fully redistributable.
+

@@ -1,0 +1,4 @@
+There will be a proxy setting in version 0.2 so you can connect through TOR.
+I've done a careful scrub to make sure it doesn't use DNS or do anything that
+would leak your IP while in proxy mode.
+

@@ -1,0 +1,6 @@
+For future reference, here's my public key. It's the same one that's been
+there since the bitcoin.org site first went up in 2008. Grab it now in case
+you need it later.  
+  
+http://www.bitcoin.org/Satoshi_Nakamoto.asc
+

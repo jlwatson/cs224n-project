@@ -1,0 +1,5 @@
+I hope someone can test an i5 or AMD to check that I built it right. I don't
+have either to test with.  
+  
+I'm also curious if it performs much worse on 32-bit linux vs 64-bit.
+

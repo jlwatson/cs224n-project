@@ -1,0 +1,4 @@
+Sorry, I didn't test compile on linux the last few revisions.  
+  
+Reverted makefile.unix.
+

@@ -1,0 +1,7 @@
+It adjusted to 181.54 a few minutes ago. Typical time to get a block is about
+a week now.  
+  
+The difficulty can adjust down as well as up.  
+  
+The network should be generating close to 6 blocks per hour now.
+

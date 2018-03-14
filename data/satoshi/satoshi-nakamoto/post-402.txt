@@ -1,0 +1,9 @@
+davidonpda, were you also running laszlo's build previously?  
+  
+Check if the "%appdata%" directory exists, and "%appdata%\bitcoin"  
+  
+Try:  
+rename "%appdata%\bitcoin" bitcoin2  
+  
+does it work then?
+

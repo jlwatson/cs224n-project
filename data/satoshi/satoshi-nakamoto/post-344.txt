@@ -1,0 +1,5 @@
+Thanks for the Spanish and French translations! The edited and updated .po
+files are attached.  
+  
+I uploaded these to the SVN.
+

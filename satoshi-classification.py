@@ -9,7 +9,7 @@ import glob
 import random
 
 BATCH_SIZE = 32
-CANDIDATES = ["gavin-andresen", "hal-finney", "jed-mccaleb", "nick-szabo", "roger-ver"]
+CANDIDATES = ["gavin-andresen", "hal-finney", "jed-mccaleb", "nick-szabo", "roger-ver", "dorian-nakamoto"]
 
 texts = []
 texts_by_candidate = {}

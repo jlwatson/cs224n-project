@@ -1,0 +1,4 @@
+I can't think of a way to implement that. All the transaction fees would be
+additional transactions. What about the transaction fees for the transaction
+fee's transaction?  
+

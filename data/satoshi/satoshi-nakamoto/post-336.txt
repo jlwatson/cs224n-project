@@ -1,0 +1,6 @@
+Run it with the undocumented switch -minimizetotray and the option is
+available in the options menu.  
+  
+I don't know how to fix it. It's something wrong deep inside wxWidgets or GTK
+or Gnome.
+

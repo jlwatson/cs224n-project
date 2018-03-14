@@ -1,0 +1,4 @@
+OK, the undocumented switch "-minimizetotray" which re-enables the option.  
+  
+I uploaded the change to SVN.
+

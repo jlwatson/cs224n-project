@@ -1,0 +1,9 @@
+On Windows, findstr /c:"version message" debug.log  
+  
+It looks like the bad chain was on block 74678 recently.  Can't wait to
+overtake it.  
+  
+On the stats at http://nullvoid.org/bitcoin/statistix.php there's been 5
+blocks per hour in the last 3 hours.  We had a difficulty adjustment about a
+day ago that should have put it back to 6 blocks per hour.  
+

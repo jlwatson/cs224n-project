@@ -1,0 +1,3 @@
+That's kind of interesting as an upside-down bar chart of how many blocks were
+produced each day. The target is 144 blocks per day.
+

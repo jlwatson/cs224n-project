@@ -1,0 +1,4 @@
+That would be nice at point-of-sale. The cash register displays a QR-code
+encoding a bitcoin address and amount on a screen and you photo it with your
+mobile.
+

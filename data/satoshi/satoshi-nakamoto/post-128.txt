@@ -1,0 +1,2 @@
+I changed the switch name to -disablesafemode.
+

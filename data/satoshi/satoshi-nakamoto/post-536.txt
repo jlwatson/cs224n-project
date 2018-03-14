@@ -1,0 +1,9 @@
+\--------------------  
+anonguy54:  
+Request: Make this anonymous?  
+Posted:Thu 15 of Oct, 2009 (19:58 UTC)  
+  
+Are there any plans to make this service anonymous?  
+  
+e.g; Being able to route BitCoin through Tor.
+

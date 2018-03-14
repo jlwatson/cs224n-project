@@ -1,0 +1,6 @@
+I wrapped sha256.cpp in  
+#ifdef FOURWAYSSE2  
+#endif // FOURWAYSSE2  
+  
+try it now.
+

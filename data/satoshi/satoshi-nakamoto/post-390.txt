@@ -1,0 +1,6 @@
+Changed the version number to 1.3 and removed "Beta".  
+  
+(links removed, see below)  
+  
+Uses irc.lfnet.org.  
+

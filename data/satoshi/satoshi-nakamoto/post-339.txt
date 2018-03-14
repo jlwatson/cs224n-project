@@ -1,0 +1,4 @@
+The fix for the thread priority level on linux is available in the 0.3.1
+release candidate here:  
+http://bitcointalk.org/index.php?topic=383.msg3198#msg3198
+

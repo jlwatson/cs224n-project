@@ -1,0 +1,4 @@
+I just uploaded a quick build so testers can check if I built it right. (I
+don't have an i5 or AMD) If it checks out, I'll put together the full package
+and do all the release stuff.
+
