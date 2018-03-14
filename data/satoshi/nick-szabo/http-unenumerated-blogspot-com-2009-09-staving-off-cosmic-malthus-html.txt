@@ -1,0 +1,121 @@
+Robin Hanson has a good argument about the inevitability of Malthusian
+economics in our future -- here refined by Anders Sandberg. This Malthusian
+future is distant in human terms but an eyeblink in cosmic terms. Sandberg
+observes that that our cosmic environment, while very large, is finite and
+dispersed. Emigration beyond our solar system can expand these resources only
+polynomially, which can't keep up with exponential economic or population
+growth. Therefore, our current boom era of exponential economic growth,
+wherein manufacturing productivity has grown at about the same positive
+percentage rate per year starting in Western Europe in the late Middle Ages,
+is historically very unique and must eventually come to an end. Furthermore,
+Hanson argues that the specter of Malthus, purged in the late 20th century by
+declining fertility, will return -- Darwinian genetic adaptation to modern
+fertility-reducing conditions and technologies will eventually bring
+population growth rates back to exponentially positive rates until once again
+resource limits are reached and most humans (or posthumans) live at
+subsistence levels -- very extreme poverty by the standards of modern
+developed countries.  
+  
+The Darwinian argument may be overcome if culture keeps evolving faster than
+genes and thereby can keep overcoming future genetic adaptations. (Richard
+Dawkins argues that we can overcome our selfish genes). It may be rebutted
+that units of culture (what Dawkins calls "memes") themselves are Darwinian
+competitors and thus also face Malthusian limits, or that future computerized
+minds may reproduce very quickly and evolve as fast as culture. I won't
+elaborate on these arguments further here as Robin has got me into a hyper-
+futuristic mood and I'd like to suggest another way in which we might achieve
+more "room at the bottom".  
+  
+Hanson counts atoms in order to estimate the density of information (or of
+minds) that might be created. But, just as Freeman Dyson, Gerard O'Neill, and
+others showed that planets are a waste of mass, so that technologically mature
+civilizations won't have planets, I'll argue here that atoms are a waste of
+mass-energy, and technologically mature civilizations may not have very many
+of them. Instead information may be stored in photons and collections of
+electrons and positrons (for example geonium) may handle most information
+processing and form the substrate of minds.  
+  
+Given that a photon can come in a vast number of possibly distinguishable
+frequencies, the spectrum spanning more than 20 orders of magnitude, we may be
+able to store at least 10^30 bits per photon. One approach to creating photons
+is to simply capture the energy of solar nuclear fusions as photons, as we
+already know how to do -- this should give us about 10^95 bits worth of
+photons of average energy blue. But we'd have to either wait billions of years
+for all these fusion reactions to occur naturally in the sun or accelerate
+them somehow. More completely, the neutrons and protons in the sun, if
+converted into photons of average energy blue, would give us 10^97 bits and we
+may not have to wait billions of years if we can figure out how to bring about
+this hypothetical conversion. This is a fascinating but very speculative bit
+of physics which I will explore further.  
+  
+Of course, we will still need some electrons or positrons around to actually
+process that information and recycle photons. And we still need some neutrons
+and protons around to fuse for energy to make up for the waste heat, to the
+extent that geonium computations will be less than perfectly reversible.
+Unless we are very clever and figure out how to make solid structures that
+don't blow up out of electrons and positrons, we will need some magnetic tanks
+made out of traditional heavy atoms to hold the geonium. Worse, the strong
+tendency for baryon number to be conserved makes cracking protons difficult
+and perhaps impossible. Protons are made out of three quarks, and while
+cracking quarks is quite possible (particles with two quarks but zero net
+baryon number decay spontaneously into particles with no quarks), the tendency
+for baryon numbers to be conserved at the energy levels used by current
+particle accelerators suggests that cracking the proton, if we can even figure
+out how to do it, may require vast amounts of energy, so that only a tiny
+fraction of the sun's neutrons and protons might be converted before we run
+out of energy from the fusion of the remaining nuclei. Right now we know how
+to crack the neutron into a proton and electron, but we don't know how to
+crack the proton. To be feasible we will have to discover a way to "catalyze"
+proton decay, by analogy to how the activation energies of chemical reactions
+can be lowered by catalysts.  
+  
+If feasible, converting wasteful atoms into more useful photons would give us
+many orders of magnitude more room at the bottom. Staving off Malthus then
+becomes a question of how much information can be stored in a photon, and of
+how quickly electrons or positrons can process those photons.  
+  
+We still face Heisenberg uncertainty as a limit on how quickly these photonic
+memories can be recalled. The product of the measured time of arrival of a
+photon and its measured energy (and thus the number of distinguishable
+frequencies) has a fixed uncertainty -- if we measure the time with greater
+precision, we can distinguish fewer frequencies, and vice versa. This sets a
+finite limit on the rate at which we can process the information stored in the
+photons. Seth Lloyd has calculated that 1 kilogram of mass converted into
+energy can perform at most 10^50 operations per second. So future
+civilizations could only stave off Malthus by going photonic -- Malthus will
+still eventually catch up, assuming Darwinian competition in reproduction
+remains.  
+  
+In addition to classical bits stored as photon frequencies, an exponentially
+higher number of quantum bits (qubits) might be stored in the entangled states
+of these photons. However, to use some number of these qubits requires
+destroying an exponentially larger amount of them. Thus, against exponential
+population growth memory storage itself remains cheap, but recalling memories
+or thinking about things becomes exponentially expensive. Qubit minds might
+stave off Malthus by hibernating for exponentially longer periods of time,
+waking up only to observe an exponentially decreasing number of interesting
+events.  
+  
+My argument that we may figure out how to crack three-quark particles like
+neutrons and protons into photons relies on the probability, due to the
+imbalance of protons and anti-protons (and neutrons and anti-neutrons) in the
+observable universe, that baryon number (a property of quarks) is not
+necessarily conserved, and is falsifiable in that sense: if for example we
+discover with better telescopes that the amount of antimatter in the universe
+is the same as the amount of matter, that will at least strongly suggest that
+even at Big Bang energies baryon number is conserved, rendering the
+possibility of ever converting the quarks which constitute most of the mass of
+neutrons and protons into non-quarkish things (like electrons, positrons or
+photons) extremely unlikely. It's also somewhat imminently testable insofar as
+if LHC and similar colliders continue to fail to crack the proton, that
+further dims prospects. Feasibility, however, is not so testable: one could
+argue that, even if baryon number was not conserved in the Big Bang, and even
+if we soon discover how to crack the proton in high-energy colliders, we may
+never figure out a method, analogous to catalysis in chemical reactions, to
+crack protons at economically low energies or to productively recycle the
+energies used to perform the conversions rather than it being dispersed as
+waste heat.  
+  
+(h/t: the phrase "Cosmic Malthus" to describe Hanson's theory is from
+commenter Norman at Robin's blog).
+

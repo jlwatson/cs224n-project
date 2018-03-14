@@ -1,0 +1,132 @@
+Hearing and reading many legal arguments has reinforced my belief that, as
+great as rational argument and readily observable phenomena are, we moderns
+have a superstition that they can solve every kind of problem. They can't.
+Rationality, absent the right kinds of express knowledge, may for some
+applications be very inferior to intuition based on tacit knowledge or
+rationality based on ancient wisdom rather than readily observed phenomena as
+its axioms. Too often "rational argument" is just shallow and foolish
+rationalization and carries false authority because it seems rational.  
+  
+Furthermore, our ancestors' brains as far back some hundred thousand years
+were just as large as ours. Why then are we so quick to believe that the
+thoughts in those brains were far more foolish than ours?  
+  
+Thus, I've long believed that there is hidden wisdom in ancient traditions
+that were long followed and that evolved through little more than trial and
+error rather than being purposefully designed and rationally explained. On the
+surface to our minds these traditions may seem foolish, pointless, or
+superstitious, but there is often hidden wisdom to be found. If found and
+expressed in modern rational terms, we may find something like that wisdom
+applies again, rather than our current beliefs, in future changed
+circumstances.  
+  
+Here's a possible extreme example of some hidden wisdom in ancient tradition
+where we moderns see only rank superstition (although it may be a silly
+example, too -- the jury is still out).  
+  
+We now consider the ancient trial by ordeal to be a barbaric relic, and
+rightly so, but below I give some reasons to believe that ordeals worked to
+some extent, and that they were among the best methods that legal systems
+could have used in Europe before around the 16th century when investigators
+started gaining substantial ability to gather and piece together
+circumstantial evidence. The other widely used methods of fact finding before
+this period were direct eyewitnesses to the actual crime(rare), witnesses as
+to reputation, confession (often obtained by torture), and grand juries of
+close neighbors. Usually two or more of these methods were combined. In
+England, it was common before the 13th century to combine a grand jury of
+neighbors (who usually had strong local knowledge of criminal and victim as
+well as often being witnesses to circumstantial evidence) with an ordeal.
+Grand jurors had such profound personal knowledge of the defendant, a fellow
+villager, that they would not, as they are said to do today, indict the
+proverbial ham sandwich. Rather, grand juries had usually lived with the
+defendant and victim for their entire lives, and thus had profound knowledge
+of the characters and circumstances that modern juries lack. They might,
+however, be susceptible to bias against the defendant. The ordeal was added as
+an extra required step to let God, as they saw it, reverse the grand jury if
+the grand jury made an error or swore falsely.  
+  
+Some of the most common ordeals were those where the defendant was wounded in
+some way. If the wound was healing well, the defendant was pardoned, and if
+healing poorly, guilt was confirmed. For example, a hot iron would be used to
+burn the hand. The hand would be bandaged up and then examined in three days.  
+  
+Two theories for how the ordeal could have been effective came across my mind
+earlier today (in a legal history class discussing ordeals). I just searched
+to learn that these were previously and independently thought of by somebody
+posting under the nym "WolfKeeper".  
+  
+The first theory is that it was an instance of the placebo effect. With the
+placebo effect, often people will feel less pain, be more active (e.g. walk
+longer on a treadmill), be less depressed, etc. on treatment they think is
+real, but is not (e.g. a sugar pill) than with no treatment. Whether wounds
+will physiologically heal faster is more controversial. However, it does seem
+to be thte case that more extreme treatments, such as surgery, have a greater
+placebo effect than convenient treatments, such as taking a small, easy to
+swallow pill.  
+  
+Defendants probably almost always believed the religious claims about ordeals
+that they were truthful messages from God. Under the placebo theory, if they
+so believed and were innocent, their wounds would heal faster; if they so
+believed and were guilty, they would heal slower. The placebo effect would
+have been strong both because of the extremity of the ordeal and the strength
+of the religious belief.  
+  
+The second theory may be a physiological cause of a strong placebo effect on
+healing, or may be independently effective, or both. This theory is that
+cortisol levels would have been (and may still be) elevated higher and for
+longer periods for guilty defendants than for innocent defendants. The most
+extreme effect of extended periods of high cortisol is Cushing's Syndrome
+which can cause rapid weight gain, easy bruising, and slow healing of wounds.
+Weight gain and slow healing probably often occur to a lesser extent for less
+extreme elevations of cortisol. Perhaps ordeal by water and ordeals by wounds,
+respectively, could distinguish higher levels of cortisol typical in the
+guilty from lower levels of cortisol typical of the innocent. (I say "could"
+because much of the difference in stress, and thus levels of cortisol, could
+have been caused by the belief by both the guilty and the innocent that God
+would send a truthful signal via the ordeal. Thus the effect might not be
+readily replicable with typical modern defendants). The counter-argument is
+that an innocent person on trial might by as subject to long-term stress as a
+guilty person. This argument will have to be resolved by experimentation, if
+such a study is possible with modern defendants.  
+  
+A third theory, which I at first dismissed in an instant and almost
+subconsciously as trivial, but which might in fact be very important, is that
+religious belief in the efficacy of ordeals might have convinced many guilty
+defendants to confess, whether or not the ordeal was otherwise effective. This
+theory might be tested if we can estimate the frequency of confessions from
+the historical record.  
+  
+We might not be able to ethically test the placebo theory of ordeals. But the
+cortisol theory probably can be tested, for example by testing, at the same
+early phase of prosecution (before trial is held or charges are dropped) the
+cortisol levels of people and seeing whether they are later convicted by
+juries or whether their charges are dropped early by the prosecution (assuming
+we believe today's prosecutors and juries are reasonably accurate!)  
+  
+The Catholic Church proscribed ordeals at the Fourth Lateran Council in 1215
+and they soon fell out of favor in Europe. This proscription is probably due
+to the effect of recovering the ancient rational thinking of Roman law and
+Aristotle in Italy over the course of the 12th century. If the placebo effect
+theory is correct, the ordeal didn't merely become unpopular with the
+authorities -- it actually stopped working when people stopped believing that
+it worked.  
+  
+On the European continent, the trial by ordeal was replaced with, in many
+cases, confession obtained by torture. It's not clear to me that a confession
+extracted by torture is any less barbaric or more effective than an ordeal.
+Torture and confession did, however, comport more closely to the reborn Roman
+law. In England, which lacked the strong hierarchical control by officialdom
+assumed by Roman procedural law, ordeals were replaced with trial by jury.
+Grand juries became pro forma and the main action moved to the "petite jury"
+or trial jury.  
+  
+Not until around the 16th to 18th centuries did Europeans learn to use
+circumstantial evidence effectively. The methods the Continent developed for
+judges to formally weigh circumstantial evidence had quite a bit to do with
+the scientific revolution and the development of probability theory, but that
+is another story. Circumstantial evidence and science are two areas where it
+did pay off handsomely to express knowledge and apply rational thinking to it.  
+  
+My thanks to Professor Renee Lerner and her wonderful legal history class for
+helping to inspire these thoughts.
+

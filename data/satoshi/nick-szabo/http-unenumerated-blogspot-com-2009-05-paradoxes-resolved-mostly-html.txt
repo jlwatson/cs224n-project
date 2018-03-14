@@ -1,0 +1,131 @@
+A paradox is usually just a good _reductio ad absurdum_ , or what
+mathematicians call a proof by contradiction. The paradox serves to disprove
+one of its assumptions (or equivalently, if we "exclude the middle", to prove
+the opposite of one of its assumptions). Many intellectuals often overly
+complicate paradoxes, for the sake of entertainment or out of wishful thinking
+that the dubious assumption has not in fact been disproven. A paradox is only
+truly mysterious if more than one of the assumptions being used are truly
+mysterious, and thus we can't tell which assumption caused the contradiction.
+But usually it's more a case of obsfucation or wishful thinking than of
+genuine mystery. Many academics have a terrible habit of hiding or confusing
+their assumptions, and this allows wishful thinking to run rampant.  
+  
+ **Newcomb's paradox**  
+  
+Chooser -- let's say that's you --- plays a game wherein you choose whether to
+open both boxes A and B or just B. For whatever odd reason -- Predictor is an
+omniscient diety, Predictor is running a very repeatable simulation of the
+Chooser's mind, time travel, the Predictor has repeatedly run the Chooser
+through this experiment before, etc. -- the Predictor already knows with very
+high probability what box(es) the Chooser will select. The first step in the
+game is that the Predictor makes his prediction. Then a trustworthy third
+party puts $1,000 into box A, and $1,000,000 into box B if the Predictor has
+predicted B only, otherwise nothing into box B. After these two steps are
+completed the Chooser selects which box(es) to open.  
+  
+Here's the payoff matrix for Chooser:  
+  
+ _Predicted choice_|  _Actual choice_|  _Payoff_  
+---|---|---  
+A and B| A and B| $1,000  
+A and B| B only| $0  
+B only| A and B| $1,001,000  
+B only| B only| $1,000,000  
+  
+  
+What is Chooser's best strategy? According to game theory, A and B beats
+B-only by $1,000 whether the Predictor predicts A and B or just B. Therefore
+Chooser should choose to open both A and B.  
+  
+But another strategy for Chooser is the following: The Chooser, knowing that
+the Predictor has very good information about his forthcoming choice and has
+mechanically acted on it, and thus is almost surely correct, eliminates those
+choices where the Predictor is wrong and chooses B-only over A and B because
+of the remaining two choices it has a higher payoff.  
+  
+By following 2-player game theory, the expected value of Chooser's winnings is
+only a bit over $1,000, while by taking into account the high accuracy of the
+Predictor's prediction and maximizing expected value the expected value is a
+bit over $1,000,000.  
+  
+The paradox dissappears if you stop assuming a game with two players. The
+Predictor does not have any stake in the outcome and is not a player. Indeed,
+we are told that Predictor will make no free choice at all, but will simply
+mechanically predict what Chooser will do. It's the Chooser's free will in the
+face of a mechanical but oddly well-informed Predictor. Chooser should not be
+misled by the payoff matrix into assuming this is a 2-player game, but should
+instead choose the best of the two choices of significant probability.  
+  
+ **Fermi's Paradox**  
+  
+Enrico Fermi asked, if there are extraterrestrial civilizations, why haven't
+we seen them? No alien artifacts large or small on earth, nor anything visibly
+unnatural on the many millions of square kilometers of billion-year-old (or
+more) surface we've observed elsewhere in our solar system, nor any visible
+megastructures in our galaxy. Under Darwinian evolution life and civilization
+tends to spread to use as much energy and matter as it can. New volcanic
+islands and areas where life has been destroyed by volcanoes are quickly
+colonized by a very observable spread of plants that soon soak up a
+significant fraction of the incoming sunlight. Human civilizations have
+similarly in the blink of astronomical time spread all over our planet,
+leaving a number of highly visible artifacts such as the Great Wall of China,
+a dazzling display of lights on the night side of our planet, and in our
+atmosphere increased carbon dioxide and a potpouri of odd chemicals.
+Photosynthetic life has given our planet a bizarre oxygen atmosphere and
+turned our continents significantly darker. Even if an alien society somehow
+turned radically un-Darwinian and thus remained obsessively small and hidden,
+it would take just one "crazy hermit" to appear once in hundreds of millions
+of years to take off and replicate his crazy Darwinian verion of that
+civilization across the galaxy, building visible structures all over the
+galaxy to efficiently use stellar energy and recycle volatile elements.  
+  
+The average star in our galaxy is about 10 billion years old; if it takes 5
+billion years for life to appear and evolve into a civilization and 200
+million years for the their descendants to spread across our galaxy (which
+only requires travel at a small fraction of the speed of light), the average
+civilization that has already emerged in our galaxy should have spread across
+it 2.3 billion years ago.  
+  
+If they exist, or existed, evidence of this existence should be all over the
+galaxy, just as with the existence of life and civilization on earth. But we
+see no evidence that any advanced civilization has ever expanded into our
+solar system or any where else in our galaxy. Even worse, we see no evidence
+of artificiality in other galaxies. Artificial entities would severely change
+what we observe in the cosmos, but instead the millions of galaxies we've
+observed seem to look quite natural. This can be easily tested by studying
+data from our current telescopes. Unless we discover a significant proportion
+of galaxies that are oddly dim in the optical but bright in the infrared (or
+perhaps, if the alien machines are extremely clever and very miserly, in the
+microwave), indicating artificially efficient use of stellar energy, and oddly
+bright in the heavy element spectra and dim in the volatile elements spectra,
+indicating artifically efficient enclosure of the volatile elements (for
+efficient volatile recycling), we must conclude that the odds of finding a
+civilization in any given galaxy, and thus of another civilization in our own
+galaxy, are remote. Fermi's paradox simply proves its major assumption wrong:
+there are no little green men in our galaxy. Sorry to pop that good old sense
+of wonder.  
+  
+It would be fun to listen in on a civilization from a distant galaxy, if we
+ever find one and if we ever figure out how to detect such faint signals.
+Imagine the Wikipedia of a billion-year-old civilization!  
+  
+ **Kavka's toxin**  
+  
+Perhaps less easily resolved, because one of its assumptions is the vague and
+subjective idea of "intent", is the paradox of Gregory Kavka's toxin: you get
+$1 million put in your bank account at 9 AM if at 7 AM you intend to drink an
+extremely painful but not otherwise harmful toxin at 11 AM. The toxin
+basically causes you to live in sheer hell for 24 hours. You get to keep the
+million dollars whether you drink the toxin or not. Can you intend to do
+something that when the time comes would not be rational to do? Kavka says you
+can't -- that there is no way to win the $1 million. Turn off your alarm and
+sleep in.  
+  
+My analysis is that the only ways to win the $1 million are through credible
+commitment or self-delusion. Thus the Wikipedia entry cites election-year
+political promises that would actually be too expensive to implement as an
+example of Kavka's toxin. Of course the political party only fools others (and
+perhaps themselves) into believing its intent. Standard election procedures,
+in which campaign promises are not legally binding, prevent credible
+commitment, so serious intent only could arise through self-delusion.
+

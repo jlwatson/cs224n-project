@@ -1,0 +1,158 @@
+I've written generally on the problem of measuring value. Civilization has
+progressed when we've discovered how to use better, but often quite non-
+obvious, proxy measures of value. One important kind of value measurement
+problem is estimating the inflation or deflation of a currency. The most
+popular estimate is a consumer price index (CPI) using weighted indexes of
+prices of a basket of goods and services. The CPI in turn is used to compute
+adjustments for inflation-indexed securities and pension schemes and"real"
+values for things like GDP, productivity, and so on. Richard Vermillion at
+Quicksilver Sulfide has a good post on the limitations of weighted price
+indexes for such purposes.  
+  
+I agree wholeheartedly that incomparability is a big problem for the CPI. I
+conclude that the CPI, and thus indexed investments and pensions and various
+"real" estimates of GDP and productivity are heavily error-prone and bias-
+prone. It is doubtful, however, that these problems "systematically make[] us
+overestimate inflation." Some other proxy measures of inflation suggest the
+opposite is the case.  
+  
+If one may generalize, technological progress over the last five years has
+increased value and decreased prices faster than other factors (e.g. rising
+regulations, rising money supply, and other political problems) have increased
+them in arguably luxury or zero-sum areas like entertainment and office
+bureaucracy (e.g. the oft cited rapidly falling costs and increased
+capabilities computers and associated products). But political factors have
+(to various degrees depending on your unit of measure) increased prices faster
+than rising technological productivity in traditional necessity areas such as
+food, housing, and energy. Furthermore, the problems Vermillion points out
+with choosing units of measurement (gallons of gas or miles driven?) are
+multiplied or exponentiated when it comes to comparing the value of gadgets
+that play music or movies or allow us to spiel on the Internet.  
+  
+What is a luxury and what is a necessity is itself quite debatable, and most
+categories are part luxury and part necessity. Prices of underlying real
+estate are mostly necessity (we need to be within commuting distance of our
+jobs), but the prices of houses themselves (especially after the big increases
+in square footage) are increasingly luxury. I take a long view and a global
+view, under which agriculture and its inputs (over the last century including
+oil) has been the dominantly important industry for about ten millenia and is
+still a crucial industry. Just because water is far cheaper than diamonds, or
+flour is cheaper than cable TV, to such an extent that we can spend more on
+the latter than the former, doesn't mean water should be (or in fact
+subjectively is) weighed far less than diamonds or bread less than a month's
+subscription to cable. Even though Americans probably spend more on cable TV
+than on food calories (or at least more than we could spend if we didn't
+insist on ingredients and recipes and modes of delivery until recently
+considered luxuries), there would be far more suffering if the price of food
+calories went up by a factor of ten than if the price of cable TV did so.
+People once found and will find other ways to entertain themselves without
+cable, but we can't do without calories. (Many of us Americans would be
+healthier with a few less calories, but that goes for cable TV too).  
+  
+There is a vast amount of interconnection between the different factors. Fuel
+mileage and thus the productivity of a mile of commuting may be up, but urban
+and suburban real estate prices and the associated commute distances probably
+have more than offset this factor in the ten years (not to mention value lost
+from extra time spent commuting instead of more enjoyable or productive
+activities).  
+  
+We could just leap over these variously biased and error-prone indexes if we
+could observe how people value a dollar tomorrow versus a dollar today -- time
+preferences. Although there are other influences on time preferences, I
+hypothesize that the dominant influence on time preferences overall for users
+of a currency is the expectation of inflation in that currency. Even if we
+can't accurately measure an overall rate of inflation, due to the problems
+Vermillion describes, we may be able to find a good proxy measure for it if we
+can find a good proxy measure for the overall time preference of currency
+users that doesn't involve first computing a "real" rate of interest.  
+  
+People sense price rises in the things they value, and thus come to their own
+estimates of past inflation, i.e. rises in the costs of their own budget due
+to external causes, and expectations of future inflation in the prices of
+things they value. I argue that this subjective inflation, and the expectation
+of future subjective inflation, are what a money issuer really ought to
+target: the issuer should observe proxy measures that most closely approximate
+overall subjective inflation expectation, and expectations of same, and expand
+or contract the money supply, via discount rates or otherwise, accordingly.  
+  
+For the purposes of estimating subjective inflation, I don't think interest
+rates work as a proxy measure. Here's why, giving as an example today's U.S.
+dollar interest rates. If dollar inflation is lower than the CPI indicates, as
+Vermillion argues, then real interest rates are positive, showing that folks
+prefer to spend a dollar on todays's technologically inferior and more pricier
+goods over a dollar on tommorrow's superior and less expensive goods. But if
+consumers have such "Luddite" or risk averse commodity preferences, then
+inflation may be much higher than Vermillion or the CPI suggest, meaning real
+interest rates aren't really positive. Using interest rates as an indicator of
+time preferences introduces a circularity when arguing for or against such
+preferences for the purposes of properly weighing a basket of goods.  
+  
+Another problem of using interest rates as a proxy measure for inflation
+expectations is that it is biased by investor behavior and in particular
+foreign inflows or outflows of dollars. If there is a larger dollar supply in
+the world returning home to the U.S. and chasing fewer investment
+opportunities, that will drive down interest rates despite subjective
+inflation expectations. If the economy using dollars is shrinking (either
+because the economy itself is shrinking or because some other currency is
+gaining favor, supplanting the use of dollars) and the dollar supply fails to
+shrink along with it, the result is both inflation and low interest rates.  
+  
+A better measure of consumer time preferences, and thus per the argument above
+consumer inflation expectations, may be to look at savings rates. Savings
+rates here in the U.S. strongly suggest that people aren't saving up to buy
+computers or audio or video players two years from now because these gadgets
+will be very important to us and more functional and cheaper than today.
+Rather, increasingly U.S. consumer budgets are going into goods and services
+that have been rising much faster than the CPI, especially housing and
+education. The negative savings rate strongly suggests, as do the price
+trajectories of the most objectively comparable goods (commodities and
+housing), that the CPI has for the last five years been understating
+inflation, and that interest rates in the U.S. are too low compared to this
+inflation to induce Americans at least to save here. (Foreigners are investing
+vast sums here, but that's another story). If Americans have been spending as
+if their dollars will be worth less tomorrow than today, perhaps we should
+respect that perception, technological progress in entertainment and office
+bureaucracy notwithstanding.  
+  
+The correlation between time preferences observed in U.S. consumer savings
+rates and a "consumer price index" far more heavily weighted towards
+necessities than today's CPI suggests either that (a) goods on the luxury end
+where productivity has been increasing tend to be "zero sum" status goods, or
+entertainment goods that only temporarily make us happier, so that the
+productivity increases won't actually make us much happier in the future, and
+thus don't effect much our time preferences compared to "positive sum" and
+"we'd be far less happy without them" necessities, or (b) that time
+preferences are very risk averse, and thus strongly weigh future water over
+future diamonds, despite our spending more on the latter in the present, or
+(c) a combination of both these factors. In both cases there are rational
+arguments to make for such preferences and in any case we should respect them
+and choose the units and weights of our price indexes consistent with them.  
+  
+Another reason to believe the U.S. CPI, at least, underestimates inflation is
+the intuitive argument that the organization that created the formula for the
+CPI (i.e. the federal government) is also the organization that stands to pay
+out vastly greater sums on i-bonds, Social Security, and so on should the
+inflation rates it reports go up. Even small biases in reporting inflation
+today lower the federal government's future liabilities by vast sums. It is
+also hard to recognize and correct any bias, since due to incomparability CPI
+units and weights could be debated ad infinitum. There is a wide lattitude of
+government choice among CPI weights and measures that cannot be proven to be
+right or wrong. Why would they not choose the values that best meet their
+budget preferences? However, to make this argument correctly one should invoke
+public choice or similiar theory rather than treating government as if it has
+the incentives of an individual; such an analysis is beyond the scope of this
+post.  
+  
+Whether or not we can find other proxy measures for inflation, Vermillion's
+basic point about incomparability and the dubious nature of the units and
+weights used in price indexes is correct. Unless there is a good substitute
+proxy measure for subjective time preferences and thus subjective inflation,
+(perhaps the savings rate as suggested above), we are stuck with weighted
+indexes. But measures based on these weighted indexes, including measuring the
+"real" values of GDP or of particular sectors or goods, measuring "inflation,"
+and measuring "productivity" -- all these suffer from the incomparability of
+the goods and services in the index, and thus are much more error-prone, much
+more bias-prone, and indeed, much more prone to badly incentivized
+manipulation and fraudulent accounting than the usual economic pundits and
+advisors have been assuming.
+

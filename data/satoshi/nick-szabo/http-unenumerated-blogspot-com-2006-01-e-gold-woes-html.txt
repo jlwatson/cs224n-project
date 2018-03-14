@@ -1,0 +1,6 @@
+Ian Grigg has a good article on the the investigation involving e-gold(tm).
+Here is a letter from e-gold's Doug Jackson. Note that e-gold, like e-cash,
+PayPal, etc. is a trusted third party payment system, and thus very different
+from bit gold. Unlike most payment systems, however, e-gold is its own
+currency, fixed to the value of gold.
+

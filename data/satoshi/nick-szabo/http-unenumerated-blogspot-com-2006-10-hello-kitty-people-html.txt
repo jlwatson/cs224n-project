@@ -1,0 +1,79 @@
+Nicholas Carr complains about the lack of human intervention in the
+calculation of many web search engine rankings. This popular viewpoint is like
+the silly final scene in the original Star Wars movie: turn off that darned
+machine and "trust the force, Luke." Never mind that web searches, like the
+torpedo or whatever that destroyed the Death Star, necessarily require complex
+technology, or that the algorithm can make billions of decisions in the time
+it would take Carr or myself or a Chinese firewall operator to make one. Carr
+bitterly complains that some commentary that he and I and Martin Luther King
+would find quite disagreeable comes first when you Google for "Martin Luther
+King." Out of trillions of possible short search phrases, Google's algorithm
+can be shown to produce an occasional poor result -- oh my!  
+  
+Carr would thus like to substitute human judgment -- or more precisely, the
+judgment of some human who agrees with him -- for Google's algorithm. He makes
+the robotic assumption that a human is automatically more trustworthy than
+robot. After all, we are much more cuddly than robots. Like the humans that
+run the Chinese firewall, he fails to add.  
+  
+But automata have often served as authority to great human benefit. In late
+medieval times, mechanical clocks replaced more erroneous or subjective time
+measures such as the sun or personal inclination. The result was that we be
+became better coordinated in all sorts of ways. The calculator on a cash
+register cuts way down on disputes over counting change. Entire professions
+like accounting, auditing, and the law, among others, exist because human
+strangers cannot, and should not overly pretend to, trust each other without
+some highly evolved, verifiable, and often repeatedly mechanical institutions.
+In other words, processes and rules.  
+  
+Human trust requires being able to tell the "good guys" from the "bad guys."
+That only occurs among people who know each other well (and otherwise, in
+fiction). People who have gotten a close look underneath often misleading
+robes. For every other kind of relationship we depend on those loathsome
+processes and rules, as objective as possible. Whether we like to admit it or
+not, and we usually don't. And the people who don't are proud to say so. They
+sound like much more agreeable people if they just trust everybody, and expect
+everybody to trust them, regardless of how well they know or are known. Call
+them the Hello Kitty people. Until proven otherwise, each and every one of the
+six-plus billion people on the planet are angelic and adorable fuzzballs who
+can be fully trusted by everyone. Until disillusioned, Hello Kitty people purr
+with content. And thereby they come across as the most adorable of us all. As
+opposed to computer programmers or lawyers with our cold hard rules.  
+  
+The Hello Kitty people are those teenagers who put their personal lives on
+MySpace and then complain that their privacy is being violated. They are the
+TV viewers who think that the Hurricane Katrina rescue or the Iraq war were
+screwed up only because we don't, they belatedly discover, have actual Hello
+Kitties in political power. When inevitably some of world's Kitties, unknown
+beyond their cute image, turn out to be less than fully trustworthy, the
+chorus of yowling Kitty People becomes unbearable cacophony.  
+  
+The people who run search engines and other remote Internet companies are
+generally not our families, nor our close friends. They are not organizations
+we can come to trust merely based on their humanity. When it comes to
+strangers, human judgment is often far less verifiable, and thus far less
+accountable, than an algorithmic intermediary. When stranger trusts stranger,
+human judgment all too easily turns into human corruption. How many examples
+of strangers, or nearly so, killing each other, lying to each other, stealing
+from each other, and so on do you need in the news every day to be convinced
+that many strangers have other things on their mind besides your welfare?
+(Hint: the headlines are just the tip of the iceberg. Strangers harming
+strangers are vastly more common than an algorithmic Google ranking we'd all
+agree is erroneous).  
+  
+With large institutions staffed by strangers (e.g. a big search engine
+company), the human appearances can be far more deceiving than for the people
+we know and therefore can rationally trust without the help of verified
+performance of rules. Among strangers a computer program, at least an open
+source one or one whose results can readily be tested by third parties, is
+often much fairer and far less corruptible than human judgment. The highly
+controversial area of web search rankings is probably one of the areas where
+this is the case. I usually trust simple objective ranking algorithms (e.g.
+those based on counting links) long before I trust the censorship of
+ideologized strangers like Carr or the censorious bozos on the Chinese
+firewall. But our emotional instincts evolved in small little tribes, and so
+there will always be countless Hello Kitty People to decry all these cold hard
+rules and programs in favor of their own fuzzy and cuddly illusions. If the
+world were just a fiction movie, or just a little happy tribe, I'd quite agree
+with them.
+

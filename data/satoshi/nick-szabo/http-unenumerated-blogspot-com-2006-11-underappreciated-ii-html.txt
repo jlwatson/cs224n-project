@@ -1,0 +1,14 @@
+The potential for the application of discrete mathematics beyond computer
+science: in biology, economics, sociology, etc.  
+  
+Hal Finney's Reusable Proofs of Work is important for at least two reasons: as
+a good stab at implementing bit gold, and for its use of the important idea of
+transparent servers: using remote attestation to verify the code running on
+servers.  
+  
+The role of Stockholm syndrome in politics. Left as an exercise for the
+student. :-)  
+  
+Three "silent" movies which I've had the good fortune to see on the big screen
+with live music: The Merry Widow, The Phantom of the Opera, and Safety Last.
+

@@ -1,0 +1,93 @@
+The United States Court of Appeals for the Federal Circuit, which usually has
+the final say on most U.S. patent appeals, and thus the most influence on the
+development of U.S. patent law, has recently been eroding conservation of
+rights, the principle that you cannot sell or claim more than you own, and in
+particular that you can't reclaim it once you sell it. Under the patent
+exhaustion rule, which is as old as patent law itself, patent rights are
+exhausted upon the first sale of an object embodying the patent. The patent
+holder is effectively allowed to sell the patent rights once per object,
+rather than maintaining control shared control over the object with the
+object's owners and possessors through its entire lifetime. The patent holder
+is allowed to collect a royalty only once per object. Once the first sale
+occurs, the object reverts from being held in a tangle of intellectual
+property, with a potential wide variety of "owners" imposing a wide variety of
+restrictions, to being owned outright by a single person or express
+partnership as traditional (i.e. real or personal) property.  
+  
+The Federal Circuit has eroded this principle in a number of ways: by ignoring
+foreign sales (so that for example an object first sold in Canada under a
+Canadian patent, then imported into the U.S., comes under the thrall of the
+equivalent U.S. patent), by excluding certain kinds of patents from the rule,
+and by changing the default rule for implied licenses (i.e. ruling that the
+default implication was that resale was not allowed, effectively extending
+patent rights beyond the first sale), etc. In some cases patent rights seem to
+disappear, but then reappear later on in the lifetime of the object. In other
+cases the patent holder maintains a continued shared control of the object
+over its entire lifetime, despite any changes of normal ownership and
+possession over the object.  
+  
+The Supreme Court today in _Quanta Computer v. LG Electronics_ reversed, 9-0,
+the erosion of the first sale rule via change of default rules and via the
+exception of certain kinds of patents. LG Electronics had licensed its patents
+to Intel, and Intel sold chips it made using that technology to Quanta, and LG
+sued Quanta for infringement. The Supreme Court held that all kinds of patents
+are covered by the first sale rule, and that the default (implied) patent
+license terms assume no further rights of the patent holder over the object:  
+
+> The authorized sale of an article that substantially  
+> embodies a patent exhausts the patent holder’s rights and  
+> prevents the patent holder from invoking patent law to  
+> control postsale use of the article. Here, LGE licensed  
+> Intel to practice any of its patents and to sell products  
+> practicing those patents. Intel’s microprocessors and  
+> chipsets substantially embodied the LGE Patents because  
+> they had no reasonable noninfringing use and included all  
+> the inventive aspects of the patented methods. Nothing in  
+> the License Agreement limited Intel’s ability to sell its  
+> products practicing the LGE Patents. Intel’s authorized  
+> sale to Quanta thus took its products outside the scope of  
+> the patent monopoly, and as a result, LGE can no longer  
+> assert its patent rights against Quanta. Accordingly, the  
+> judgment of the Court of Appeals [Federal Circuit] is reversed.
+
+LG Electronics thought it could restrict subsequent use of the chips, and
+indeed had a cause of action directly against subsequent users of the chips
+(e.g. Quanta), via its license agreement with _Intel_. The Federal Circuit
+agreed with this pathological reasoning, but the Supreme Court shot them down:  
+
+> LGE points out that the License Agreement specifically disclaimed any
+license to third parties to practice the patents by combining licensed
+products with other components. But the question whether third parties
+received implied licenses is irrelevant because Quanta asserts its right to
+practice the patents based not on implied license but on exhaustion.
+
+Imagine Alice could make a contract with her friend Bob which gave Alice the
+right to confiscate things that you or anybody else bought from Bob. If
+property rights would be confiscated from third parties by contract on ad-hoc
+basis, there would be no effective property rights. Contracts should never be
+able to impose duties on third parties. Only property law (via deeds,
+licenses, etc.) can impose duties on subsequent owners or licensees, and these
+transactions should strictly adhere to conservation of rights and intellectual
+property exhaustion if they are not to interfere with others' property rights.  
+  
+For property deeds to impose duties on subsequent owners, they must either be
+clear from the object itself (e.g. a physical object is obviously personal
+property clearly belongs to somebody) or they must be clearly written and
+publicly recorded (e.g. liens on personal property, real property deeds that
+define property boundaries and restrict use of the property, etc.)
+Furthermore, there should generally be _one_ set of restrictions based on
+_one_ owner per object, or simple and well-known variations on that (e.g.
+joint tenancy), not a wide variety of restrictions stemming from a wide
+variety of people who "own" the object in different ways, i.e. intellectual
+property owners. An intellectual property license, when as here is not clear,
+should be construed to follow the default rules of intellectual property law,
+especially those rules like patent exhaustion that preserve a standard sphere
+of traditional property rights not entangled in a web of intellectual
+property.  
+  
+My kudos go out to our highest court for defending traditional property rights
+against further erosion by the Federal Circuit's pathological interpretations
+of intellectual property law.  
+  
+Here is Dennis Crouch's take on the case.
+

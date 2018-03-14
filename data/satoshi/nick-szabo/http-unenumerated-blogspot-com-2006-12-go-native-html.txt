@@ -1,0 +1,123 @@
+ _Collision between a comet and a 370 kilogram projectile exposes subsurface
+ice, causing large amounts of dust and over 250,000 tons of water vapor to
+stream off the comet. As a liquid that much water would fill over a hundred
+Olymic-sized swimming pools._
+
+NASA for now is sticking to Werner von Braun's World War Two vintage idea of
+lunar and Martian bases that import everything from earth -- including even
+such basics as propellants, tankage, food, air, and water. While these white
+elephants are still seen by most of NASA as the "next logical steps", there
+are a wide variety of other and often much better ideas for space development
+out there. I've long considered the possibility that comet mining, or similar
+drilling for any ice that might exist underneath the regolith of some
+asteroids (as we know it does on Mars), is a much more productive way to go.  
+  
+The argument for microgravity ice mining, laid out in the above-linked
+article, involves several steps of reasoning, but the most important parts of
+the idea are (1) that use of native materials, rather than hauling materials
+from earth, is crucial to productive and affordable long-term space
+development, and (2) that given the expensive bottleneck of launching from
+earth, the most important variable for space industry is the mass throughput
+ratio (MTR): the ratio of the mass of material processed per unit of time to
+mass of the (earth-origin) machinery required. Higher MTR translates to
+greater amplification of a small mass launched from earth into a large amount
+of materials processed in space. Cometary or similar ice can be processed to
+create propellant, tankage, and other useful items as described in the above-
+linked article.
+
+_Snow maker._
+
+To develop space economically, instead of merely wasting large amounts of
+money on historical dead ends, we need to use native materials, and we need to
+process them with very high mass throughput ratios. Developing bases on the
+moon, Mars, or elsewhere in deep space without using native materials would be
+as foolish as if the Pilgrims at Plymouth Rock had imported all their water,
+food, and wood from England.  
+  
+I endorse the ice mining approach because, even though cometary (and possibly
+asteroidal) ice is not conveniently located, we can generally process water
+with very high mass throughput ratios. Here are some approximate (back-of-
+envelope) estimates I've made, usually based on the linked descriptions of the
+process. I typically assume the machines can operate on average 20 hours per
+day, 300 days per year:  
+
+_Centrifuge that separates sludge from water at a rate of 200 gallons per
+minute._
+
+Snow cone machine (grinding ice into small bits): 67,000/yr. (In other words,
+the machine can convert 67,000 times its own weight in ice to "snow" in a
+year).  
+  
+Sludge separation with centrifuge: 3,000/yr.  
+  
+Snow making from liquid water: 330,000/yr.  
+  
+The MTR of a sequence of processes can be readily estimated. For example to
+grind ice into snow, then melt it (which I assume here has an MTR of
+10,000/yr.), then separate out the dirt and organics with a centrifuge, then
+make snow with the now clear water -- a sequence similar to the comet mining
+process described in the above-linked article -- I estimate the MTR to be
+about 1,500 per year with the current off-the-shelf equipment.
+
+If this can be achieved for comet mining, then we can (for example) launch 10
+tons of equipment and, by staying at the comet or asteroid for two years, make
+30,000 tons of ice for various uses, including propellant, tankage, and
+radiation shielding. This is before discounting mass we lose from transporting
+the equipment to the comet or asteroid and ice back to a useful orbit, which
+will often be a factor of 10 to 20 -- see the above-linked article. Thus 10
+tons launched into low earth orbit would result in 1,500 to 3,000 tons of
+water ice in a useful orbit such as earth geosynchronous orbit, Earth-Sun L1
+(for the global warming application, link below), Mars orbit, or a wide
+variety of other inner solar system orbits.
+
+_Old ice breaker._
+
+With a decent R&D; budget we can probably actually do much better than the
+current off-the-shelf equipment, some aspects of which have to be redesigned
+for the space environment anyway (e.g. where the water flow depends on
+gravity). The MTRs of many of these machines can probably be improved by large
+factors by appropriate substitution of materials with better engineering
+properties (especially strength) per mass -- for example Kevlar, Vectran,
+Spectra, carbon fiber, or carbon nanotube for structural steel and diamond
+grit for grinding surfaces. Such substitutions would be too expensive for
+typical earthside applications, but make sense where transportation costs are
+very high, as with launch costs. This substitution is helped by fact that,
+unlike most other proposed processes for extracting propellant from materials
+native to space (e.g. liquid oxygen from lunar soil) these processes don't
+require high temperatures.  
+
+_Old ice saw._
+
+On a related note, here's an interesting set of pages on the ancient art of
+harvesting, handling and storing ice for refrigeration.  
+  
+Lest this all be dismissed as mere NASA-style entertainment, there are
+possibly quite important applications, including combatting global warming,
+for which native material based space industry is crucial. (No, the idea is
+not to throw big ice cubes into the earth's oceans. :-) Furthermore, once the
+first mission returns ice, it can be used as propellant and tankage to
+bootstrap even more ice mining equipment. Only a few such boostrapping cycles
+are needed before orbital ice becomes as cheap as water on earth. Since comet
+ice can include methane and ammonia as well as water, it can provide the raw
+materials for most of chemicals and bulk materials we need in space industry.
+Indeed, all the above-mentioned advanced materials can be manufactured
+starting with these building blocks -- keeping in mind that the current
+earthside manufacturing processes will have to themselves be examined for MTR,
+reliability, and automability, and so the substitution of more simply produced
+materials may be in order, just as we are substituting a simpler rocket for
+advanced earth-launched upper stages in order to take advantage of native ice
+derived propellant and tanks.  
+  
+Of course, there many challenges with automation and reliability to be met.
+Some of these are being addressed by the current developments in deep sea oil
+and mineral extraction, which I am currently researching and will hopefully
+cover in a near future post.
+
+_Here is recent evidence of not just ice, but (at least temporarily) liquid
+water underneath the Martian surface that has flowed out onto the surface and
+frozen. Mars itself, in a deep gravity well, is not an ideal source of water
+for use beyond Mars, but ice there suggests that ice might also survive near
+the surfaces of some asteroids that lie even farther from the sun._
+
+  
+

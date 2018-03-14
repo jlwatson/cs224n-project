@@ -1,0 +1,30 @@
+From my article Advances in Distributed Security:  
+
+> Broadcasts using sound or radiation, from sources such as bell towers, radio
+towers, satellites, and pulsars, must send out the same value to every
+receiver. A remote beacon such as a pulsar has perfect security: the access
+structure is any party, and its complement, the attack structure, is the empty
+set. For human controlled broadcasts, the attack structure consists only of
+the broadcaster and the access structure is any receiver.  
+>  
+> Natural broadcasts are thus immune to the problem, described in the
+discussion of the Byzantine Generals problem below, of a transmitter sending
+different values to different receivers. Indeed, as we will see below,
+distributed researchers have gone to great lengths just to recreate this
+simple property on the Internet with logical broadcast protocols.  
+>  
+> Nature provides clocks that are oblivious to the malicious intentions of any
+outside parties. In the case of a remote high-energy system such as a pulsar,
+this means anybody. Pulsars are many orders of magnitude more accurate than
+random delays that face attackers on the Internet. If critical Internet
+servers were synchronized to natural clocks in a secure and timely fashion,
+they would be immune to attacks that relied on uncertainties in timing.
+
+  
+More here.  
+  
+Detecting pulsars is still, alas, a difficult process, but not so hard that
+amateurs have had no success doing so. Amateurs have had some success tracking
+pulsars with software defined radio and quagi antennas combined with digital
+signal processing.
+

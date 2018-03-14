@@ -1,0 +1,160 @@
+ _(Note to readers -- after several months of posting reruns, I am back to
+doing original posts until further notice)._  
+  
+Arnold Kling describes his militaristic theory of the origins of money, and
+kindly also quotes and refers readers to my theory (or set of theories, as I
+posit that shell proto-money played a crucial role in several different kinds
+of hunter-gatherer transactions). Here is the gist of Kling's theory:  
+  
+
+> Imagine that you're a warlord leading a band of soldiers. Your business
+model is that your soliders prey on farmers, taking plunder and tribute. To
+help motivate your soldiers, you promise them a share of the booty. When the
+band of warriors is small, the promises can be verbal and informal. However,
+in order to organize a large army, you need formal, written contracts. Lacking
+lawyers and xerox machines, you make little carvings on metal, hand them out
+to soldiers, and say, "After the battle, turn this in to the clerk and we'll
+give you a share of captured slaves and grain and stuff."
+
+There may not be as much contrast between our theories as Kling suggests. We
+both seem to agree that the traditional economists' explanation of money
+emerging from a barter market that otherwise obeyed the principles of
+efficient modern markets is not historically sound (although I do believe it
+is theoretically and empirically sound as a theory of the way things _can_
+happen -- money-like intermediate commodities can and have been observed to
+emerge from barter markets). Where we may differ, and perhaps not by much, is
+on the role of coercion. I believe that both coercive and voluntary
+transactions (and transactions that partook of both components) were
+important, and that the voluntary transactions were not efficient market
+exchanges:  
+  
+
+> Voluntary spot trades are not the only kinds of transactions that benefit
+from lower transaction costs. This is the key to understanding the origin and
+evolution of money. Family heirlooms could be used as collateral to remove the
+credit risk from delayed exchanges. [As explained elswhere in the article,
+these were typically exchanges that involved very high transaction costs. I'd
+add in clarification now that the closest modern economic model of them would
+be bilateral monopoly, not spot exchange on an efficient market]. _The ability
+of a victorious tribe to extract tribute from the vanquished was of great
+benefit to the victor . The victor's ability to collect tribute benefited from
+some of the same kinds of transaction cost techniques as did trade. So did the
+plaintiff in assessment of damages for offenses against custom or law_
+[emphasis added], and kin groups arranging a marriage. Kin also benefited from
+timely and peaceful gifts of wealth by inheritance. The major human life
+events that modern cultures segregate from the world of trade benefited no
+less than trade, and sometimes more so, from techniques that lowered
+transaction costs. None of these techniques was more effective, important, or
+early than primitive money -- collectibles.  
+> ...  
+>  Warfare involved, among other things, killing, maiming, torture,
+kidnapping, rape, and the extortion of tribute in exchange for avoiding such
+fates. When two neighbor tribes were not at war, one was usually paying
+tribute to the other. Tribute could also serve to bind alliances, achieving
+economies of scale in warfare. Mostly, it was a form of exploitation more
+lucrative to the victor than further violence against the defeated.  
+>  
+> Victory in war was sometimes followed by an immediate payment from the
+losers to the victims. Often this just took the form of looting by the
+enthusiastic victors, while the losers desperately hid their collectibles.
+More often, tribute was demanded on a regular basis. In this case, the triple
+coincidence could and sometimes was avoided by a sophisticated schedule of
+payments in kind that matched the losing tribe's ability to supply a good or
+service with the victor's demand for it. However, even with this solution
+primitive money could provide a better way -- a common medium of value that
+greatly simplified the terms of payment – very important in an era when terms
+of the treaty could not be recorded but had to be memorized. In some cases, as
+with the wampum as used in the Iriquois Confederacy, the collectibles doubled
+as a primitive mnemonic device that, while not verbatim, could be used as an
+aid to recall the terms of the treaty. For the winners, collectibles provided
+a way to collect tribute at closer to the Laffer optimum. For the losers,
+collectibles buried in caches provided a way to “under-report”, leading the
+victors to believe the losers were less wealthy and thus demand less than they
+might. Caches of collectibles also provided insurance against over-zealous
+tribute collectors. Much of the wealth in primitive societies escaped the
+notice of the missionaries and anthropologists due to its highly secretive
+nature. Only archeology can reveal the existence of this hidden wealth.  
+>  
+> Hiding and other strategies presented a problem that tribute collectors
+share with modern tax collectors – how to estimate the amount of wealth they
+can extract. Value measurement is a thorny problem in many kinds of
+transactions, but never more so than in the antagonistic collection of tax or
+tribute. In making these very difficult and nonintuitive trade-offs, and then
+executing them in a series of queries, audits, and collection actions, tribute
+collectors efficiently optimized their revenue, even if the results seemed
+quite wasteful to the tribute payer.  
+>  
+> Imagine a tribe collecting tribute from several neighbor tribes it
+previously defeated in war. It must estimate how much it can extract from each
+tribe. Bad estimates leave the wealth of some tribes understated, while
+forcing others to pay tribute based on estimates of wealth they don't actually
+have. The result: the tribes that are hurt tend to shrink. The tribes that
+benefit pay less tribute than could be extracted. In both cases, less revenue
+is generated for the victors than they might be able to get with better rules.
+This is an application of the Laffer curve to the fortunes of specific tribes.
+On this curve, applied to income taxes by the brilliant economist Arthur
+Laffer, as the tax rate increases, the amount of revenue increases, but at an
+increasingly slower rate than the tax rate, due to increased avoidance,
+evasion, and most of all disincentive to engage in the taxed activity. At a
+certain rate due to these reasons tax revenues are optimized. Hiking the tax
+rate beyond the Laffer optimum results in lower rather than higher revenues
+for the government.
+
+We do seem to differ in that Kling's account is basically an account of the
+origins of coinage in the agricultural era, and mine is an account of the
+origins of shell proto-money in the hunter-gatherer era. As indicated above, I
+believe both coercion and voluntary transactions (and admixtures of same)
+played an important role in the hunter-gatherer era, and as a general matter
+that's also true of the agricultural era.  
+  
+I have very little disagreement with Kling's account of the importance of
+coercion in the origin of coinage. Indeed, here's what I had to say about the
+origins of coinage:
+
+> Given what we have seen about the benefits of proto-money to tribute and tax
+collectors, as well as the critical nature of the value measurement problem in
+optimally coercing such payments, it is not surprising that tax collectors,
+specifically the kings of Lydia, were the first major issuers of coinage. The
+king, deriving his revenue from tax collection, had a strong incentive to
+measure to value of wealth held and exchanged by his subjects more accurately.
+That the exchange also benefited from cheaper measurement by traders of the
+medium of exchange, creating something closer to efficient markets, and
+allowing individuals to enter into the marketplace on a larger scale for the
+first time, was for the king a fortuitous side effect.
+
+My account of coinage differs from Kling only in that I'm looking at the
+measurement problem that occurs when collecting the plunder; he is looking at
+the measurement problem that occurs when distributing the plunder out to the
+soldiers. Both are important. Indeed I have also discussed the latter before
+on this blog (I don't recall the origins of the idea -- I may have read it
+somewhere -- a bleg to my kind readers, if you know of a reference, please
+post it in the comments):  
+  
+
+> Markets will tend to standardize on whatever the dominant transactor, the
+party that controls the largest plurality of cash flow, standardizes on, and
+in most historical societies the dominant transactions were tax collection and
+the payment of those taxes to soldiers.
+
+By "dominant" here I just mean constituting the plurality (the largest
+player), not the majority of the value of all transactions, whether coercive
+or voluntary or some admixture of same. Coinage made measuring the value of
+both plunder and the distribution of plunder more accurate: both were
+important in increasing the efficiency of plunder and giving rise to coinage.
+More efficient exchanges, resembling more spot exchanges than bilateral
+monopoliies, and thus a larger tax base, were a fortuitous consequence for the
+Lydian kings (and later for the Greeks who eventually conquered the relatively
+coinless Persians).  
+  
+The issue of coercion is also deeply implicated in the origins of agriculture
+itself. After all, hunter-gatherers were expert botanists compared to the
+modern layman. They were perfectly well aware that one could plant seeds (and
+shoots, for asexual reproduction) and have them grow, and could have easily
+learned the basic techniques associated with early agriculture once they had
+experimented with this knowledge. Yet these expert botanists with brains the
+same size as ours existed for 100,000 years before the agricultural
+breakthrough occured. The problem was not one of farming technique, it was one
+of securing this capital investment from fellow tribe members and foreign
+tribes. Only once this problem in coercion and transaction costs was solved
+could agricultural society appear. More here and here.
+

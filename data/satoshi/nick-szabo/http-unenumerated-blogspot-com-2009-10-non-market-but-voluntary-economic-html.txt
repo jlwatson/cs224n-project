@@ -1,0 +1,41 @@
+Often in political parlance the phrase "the market" is used quite broadly to
+cover a wide variety of voluntary economic institutions, including firms, non-
+profit organizations, families, and so on in addition to markets proper. But
+traditional neoclassical economics is about ideal markets proper:
+instantaneous buying and selling on a costless spot exchange. Ronald Coase
+started expanding the scope of economics with his work on the firm, and this
+line of thinking has developed into a school, often called the "new
+institutional economics" or NIE that focuses on non-market or partial-market
+voluntary economic institutions as well as on the conditions that must be
+satisfied for efficient markets to be possible. The economics Nobel committee
+has finally recognized the study of non-market but voluntary economic
+institutions with its awards this year to Oliver Williamson and Elinor Ostrom.  
+  
+Williamson and his fellow travelers Oliver Hart, Yoram Barzel, Steven Cheung,
+and Janet Landa have long influenced my thinking about measuring value, mental
+transaction costs, smart contracts,  
+the origins of money, and more.  
+  
+The new institutional economics school in a nutshell holds that often
+transaction costs are too high for spot markets to work properly. If spot
+markets were perfectly efficient we would not need firms or long-term
+contracts, for example, but in fact we have those and many other institutions
+besides pure markets. The NIE studies and has started to explain the functions
+of institutions that are not markets proper, such as long-term contracts and
+firms, as well as the legal underpinnings of market economies, especially
+property and contracts. Contracts and property are the main formal expressions
+of economic relations recognized by the NIE, which makes this school
+especially interesting to someone like me interested in the economic role of
+contracts and property and how to adapt these institutions to (and even to
+some extent incorporate them into) evolving technology.  
+  
+Note that these institutions are "voluntary" in the sense of the traditional
+common-law principle of non-initiation of force, and assume a sophisticated
+legal framework. When this assumption doesn't hold, these principles usually
+work in a very different way or don't work at all, and one has to be very
+careful applying them. (See here and here for more on the problem of coercive
+externalities).  
+  
+Meanwhile, here is a good article introducing the other economics Nobel winner
+this year, Elinor Ostrom.
+

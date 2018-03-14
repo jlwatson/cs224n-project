@@ -1,0 +1,86 @@
+The spate of anti-phishing bills currently making their way into or through
+legislative bodies around the world provide a good opportunity to do something
+that is long overdue -- amend our obsolete and destructive cybercrime
+statutes. If network security professionals are to be empowered to stop
+phishing and prevent cyberterrorism, a major overhaul to these statutes is
+crucial.  
+  
+The Cuthbert case in the U.K. has provided yet another example of an unjust
+conviction under cybercrime statutes. These statutes were typically enacted
+before the advent of the Web and generally make "unauthorized access" to a
+computer a crime. Under these statutes, the Web equivalent of pushing on the
+door of a grocery store to see if it's still open has been made a crime. These
+vague and overly broad statutes put security professionals and other curious
+web users at risk. We depend on network security professionals to protect us
+from cyberterrorism, phishing, and many other on-line threats. These statutes,
+as currently worded and applied, threaten them with career ruin for carrying
+out their jobs. Cuthbert was convicted for attempting to determine whether a
+web site that looked like British Telecom's payment site was actually a
+phishing site, by adding just the characters "../.." to the BT site's URL. If
+we are to defeat phishing and prevent cyberterrorism, we need more curious and
+public-spirited people like Cuthbert.  
+  
+Meanwhile, these statutes generally require "knowledge" that the access was
+"unauthorized." It is thus crucial for your future liberty and career that, if
+you suspect that you are suspected of any sort of "unauthorized access," take
+advantage of your Miranda (hopefully you have some similar right if you are
+overseas) right to remain silent. This is a very sad thing to have to
+recommend to network security professionals, because the world loses a great
+deal of security when security professionals can no longer speak frankly to
+law-enforcement authorities. But until the law is fixed you are a complete
+idiot if you flap your lips. Since almost any online activity of which, it
+turns out, the web site operator does not approve may be deemed to be
+"unauthorized," these cases revolve around whether the defendant "knew" that
+the act was "unauthorized." In Cuthbert's case, because he told the police
+that his purpose had been to test the public site's access controls (the
+equivalent of pushing on doors of a grocery store to see if it is open) to see
+if he had just given his credit card number to a phishing site -- a laudable
+act of due diligence in this age of phishing and identity theft -- he
+essentially admitted to the difficult knowledge element of the criminal
+statute. After that, the conviction was a slam dunk.  
+  
+Several years ago, network security professional Randall Schwartz engaged in a
+traditional friendly competition with security professionals in another
+company to try to find holes in their security. That company turned out to be
+not so friendly and Schwartz was convicted under an Oregon statute similar to
+the one that felled Cuthbert. The court rejected  a defense of
+unconstitutional vaguenessbecause, said the court, it sounded more like a
+defense of overbreadth. In fact these statutes are both vague and overbroad,
+but courts often do not understand the issues involved.  
+  
+Orin Kerr (a professor at my law school) has written a good paper on the
+subject with respect to laws in the United States.  
+  
+Kerr recommends using more specific language instead of "unauthorized access."
+My own recommendation is that, if we are going to keep the "unauthorized
+access" language, it at least should be amended along the following lines:  
+  
+(1) an access should not be defined as "unauthorized" unless either the
+defendant was provided notice of lack of authorization (equivalent to a no-
+trespassing sign) and affordance (a barrier that requires some intentional act
+to pass, equivalent to a fence or a door), or there is a long-standing and
+widely-known custom that the kind of access as perceived by the defendant was
+unauthorized, or both, and  
+(2) there should be no crime unless there was an underlying intent to use the
+unauthorized access to commit another kind of crime (such as theft of data,
+trespassing via disruption of computer operation, etc.)  
+  
+Under (1), "unauthorized access" would for the first time have a clear
+definition, similar to how "trespassing" is defined in the context of a public
+place (you are authorized to enter a public store when it is opened, to push
+on the door to see if the store is open, to shop, in some jurisdictions to use
+the restroom unless there is a sign to the contrary; but you are not to enter
+the back room where they have the safe). Security professionals would operate
+under the same rules as everybody else instead of having knowledge
+discriminatorily imputed to them because they are "supposed to know better."  
+  
+Under (2), accesses done for laudable purposes, such as Cuthbert's
+investigation about whether his credit card had been phished, would no longer
+be considered criminal. Network security professionals would be freed to do
+their jobs and protect the Internet from real criminals.  
+  
+The current spate of anti-phishing bills currently making their way into or
+through legislative bodies around the world provide a good opportunity to
+amend cybercrime statutes -- to bring them into the twenty-first century world
+of the public web.
+

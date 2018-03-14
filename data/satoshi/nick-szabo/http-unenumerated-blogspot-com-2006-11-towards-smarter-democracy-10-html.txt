@@ -1,0 +1,41 @@
+Bryan Caplan has a great article on the irrationality of voters. (No, it's not
+a commentary on the most recent American election, which was probably a
+smidgen more rational than most, on balance). The basic idea, which I find
+unimpeachable except in one area, is that voters are almost never foreseeably
+impacted by their own votes. Single votes almost never change the outcome of
+elections. Even if they did they would rarely impact the voter or others in a
+way the voter clearly foresees. Given this disconnect between vote and
+consequence, votes instead are based on how good they make the voter feel.
+People vote in the first place, and then decide what to vote on, based almost
+entirely on their emotional needs rather than on a rational analysis of the
+kind that, for example, an engineer brings to designing software, an economist
+brings to crafting monetary policy, a lawyer brings to drafting a contract, a
+judge brings to interpreting law, or even that a boss or HR person brings to
+hiring a new employee.  
+  
+I'd add that people use their political opinions to signal things they'd like
+their acquaintances to believe about their personality. For example, people
+support aid to the poor to signal to their friends and co-workers that they
+are generous people, and thus good people to be friends or co-workers with.
+The actual impact of any resulting policy on poor people or taxpayers or
+others generally remains unobserved by friends and co-workers and thus is
+irrelevant. Even if a friend believes the policy is mistaken, but that the
+opiner's heart is in the right place, this is sufficient for successful
+signaling. It's coming across as having a genuine desire to help the poor that
+counts. Similarly, people are motivated to vote in order to signal their
+altruistic participation in the community.  
+  
+The one area Caplan fails to explore is very small-scale elections. I've long
+thought that juries, for example, are a much better example of democracy than
+large-scale elections. Jurors are forced to take the time to learn the facts
+(thus overcoming rational ignorance) and have a real case at hand (thus
+overcoming much of the mismatch between social signaling to ignorant friends
+and reality). They can clearly foresee the impact their verdict will have on
+the defendant. While Caplan extols the virtues of judges and other experts
+like himself (he'd like to have a Supreme Court of Economists to overturn bad
+economic legislation), such a Platonic oligarchy of experts needs to be
+checked and balanced by democracy. Juries, and the right of juries to judge
+law as well as fact (and for lawyers to argue law as well as fact in front of
+the jury), along with an unimpeachable right to trial by jury, are a much
+better way than large-scale elections to check oligarchy.
+

@@ -1,0 +1,250 @@
+Theoretical or futuristic technologies have long been a staple of science
+fiction. Increasingly the future of technology development has become an
+important political issue as decisions are made to fund a variety of
+alternative energy and emission reduction technologies in response to
+projected long-term climate changes, medical technologies to address health
+problems and epidemic threats, military R&D; in response to recent and feared
+future security threats, and so on. Hundreds of billions of dollars of R&D
+funding over the next decade hinges on questions of future technologies. Some
+of these technologies in some of their forms may be harmful or dangerous; can
+we evaluate these dangers before spending billions of dollars of development
+and capital investment in technologies that may end up expensively restricted
+or banned as designed?  
+  
+We lack a good discipline of theoretical technology. As a result, discussion
+of such technologies among scientists and engineers and laypeople alike often
+never gets beyond naive speculation, which ranges from dismissing or being
+antagonistic to such possibilities altogether to proclamations that sketchy
+designs in hard-to-predict areas of technology are easy and/or inevitable and
+thus worthy of massive attention and R&D funding. At one extreme are recent
+news stories, supposedly based on the new IPCC report on global warming, that
+claim that we will not be able to undo the effects of global warming for at
+least a thousand years. At the other extreme are people like Eric Drexler and
+Ray Kurzweil who predict runaway technological progress within our lifetimes,
+allowing us to not only easily and quickly reverse global warming but also
+conquer death, colonize space, and much else. Such astronomically divergent
+views, each held by highly intelligent and widely esteemed scientists and
+engineers, reflect vast disagreements about the capabilities of future
+technology. Today we lack good ways for proponents of such views to
+communicate in a disciplined way with each other or to the rest of us about
+such claims and we lack good ways as individuals, organizations, and as a
+society to evaluate them.  
+  
+Sometimes descriptions of theoretical technologies lead to popular futuristic
+movements such as extropianism, transhumanism, cryonics, and many others.
+These movements make claims, often outlandish but not refuted by scientific
+laws, that the nature of technologies in the future should influence how we
+behave today. In some cases this leads to quite dramatic changes in outlook
+and behavior. For example, people ranging from baseball legend Ted Williams to
+cryptography pioneer and nanotechnologist Ralph Merkle have spent up to a
+hundred thousand dollars or more to have their bodies frozen in the hopes that
+future technologies will be able to fix the freezing damage and cure whatever
+killed them. Such beliefs can radically alter a person's outlook on life, but
+how can we rationally evaluate their credibility?  
+  
+Some scientific fields have developed that inherently involve theoretical
+technology. For example, SETI (and less obviously its cousin astrobiology)
+inherently involve speculation about what technologies hypothetical aliens
+might possess.  
+  
+Eric Drexler called the study of such theoretical technologies "exploratory
+engineering" or "theoretical applied science." Currently futurists tend to
+evaluate such designs based primarily on their mathematical consistency with
+known physical law. But mere mathematical consistency with high-level
+abstractions is woefully insufficient, except in computer science or where
+only the simplest of physics is involved, for demonstrating the future
+workability or desirability of possible technologies. And it falls far short
+of the criteria engineers and scientists generally use to evaluate each
+others' work.  
+  
+Traditional science and engineering methods are ill-equipped to deal with such
+proposals. As "critic" has pointed out, both demand near-term experimentation
+or tests to verify or falsify claims about the truth of a theory or whether a
+technology actually works. Until such an experiment has occurred a scientific
+theory is a mere hypothesis, and until a working physical model, or at least a
+description sufficient to create such has been produced, a proposed technology
+is merely theoretical. Scientists tend to ignore theories that they have no
+prospect of testing and engineers tend to ignore designs that have no imminent
+prospect of being built, and in the normal practice of these fields this is a
+quite healthy attitude. But to properly evaluate theoretical technologies we
+need ways other than near-term working models to reduce the large
+uncertainties in such proposals and to come to some reasonable estimates of
+their worthiness and relevance to R&D; and other decisions we make today.  
+  
+The result of these divergent approaches is that when scientists and engineers
+talk to exploratory engineers they talk past each other. In fact, neither side
+has been approaching theoretical technology in a way that allows it to be
+properly evaluated. Here is one of the more productive such conversations --
+the typical one is even worse. The theoreticians' claims are too often
+untestable, and the scientists and engineers too often demand inappropriately
+that descriptions be provided that would allow one to actually build the
+devices with today's technology.  
+  
+To think about how we might evaluate theoretical technologies, we can start by
+looking a highly evolved system that technologists have long used to judge the
+worthiness of new technological ideas -- albeit not without controversy -- the
+patent system.  
+  
+The patent system sets up several basic requirements for proving that an
+invention is worthy enough to become a property right: novelty, non-
+obviousness, utility, and enablement. (Enablement is also often called
+"written description" or "sufficiency of disclosure", although sometimes these
+are treated as distinct requirements that we need not get into for our
+purposes). Novelty and non-obviousness are used to judge whether a technology
+would have been invented anyway and are largely irrelevant for our purposes
+here (which is good news because non-obviousness is the source of most of the
+controversy about patent law). To be worthy of discussion in the context of,
+for example, R&D funding decisions, the utility of a theoretical technology,
+if or when in the future it is made to work, should be much larger than that
+required for a patent -- the technology if it works should be at least
+indirectly of substantial expected economic importance. I don't expect meeting
+this requirement to be much of a problem, as futurists usually don't waste
+much time on the economically trivial, and it may only be needed to
+distinguish important theoretical technologies from those merely found in
+science fiction for the purposes of entertainment.  
+  
+The patent requirement that presents the biggest problem for theoretical
+technologies is _enablement._ The inventor or patent agent must write a
+description of the technology detailed enough to allow another engineer in the
+field to, given a perhaps large but not infinite amount of resources, build
+the invention and make it work. If the design is not mature enough to build --
+if, for example, it requires further novel and non-obvious inventions to build
+it and make it work -- the law deems it of too little importance to entitle
+the proposer to a property right in it. Implementing the description must not
+require so much experimentation that it becomes a research project in its own
+right.  
+  
+An interesting feature of enablement law is the distinction it makes between
+fields that are considered more predictable or less so. Software and
+(macro-)mechanical patents generally fall under the "predictable arts" and
+require must less detailed description to be enabling. But biology, chemistry,
+and many other "squishier" areas are much less predictable and thus require
+far more detailed description to be considered enabling.  
+  
+Theoretical technology lacks enablement. For example, no astronautical
+engineer today can take Freeman Dyson's description of a Dyson Sphere and go
+out and build one, even given a generous budget. No one has been able to take
+Eric Drexler's _Nanosystems_ and go out and build a molecular assembler. From
+the point of view of the patent system and of typical engineering practice,
+these proposals either require far more investment than is practical, or far
+have too many engineering uncertainties and dependencies on other unavailable
+technology to build them, or both, and thus are not worth considering.  
+  
+For almost all scientists and engineers, the lack of imminent testability or
+enablement puts such ideas out of their scope of attention. For the normal
+practice of science and engineering this is healthy, but it can have quite
+unfortunate consequences when decisions about what kinds of R&D; to fund are
+made or about how to respond to long-term problems. As a society we must deal
+with long-term problems such as undesired climate change. To properly deal
+with such problems we need ways to reason about what technologies may be built
+to address them over the spans of decades, centuries, or even longer over
+which we reason about and expect to deal with such problems. For example, the
+recent IPCC report on global warming has projected trends centuries in the
+future, but has not dealt in any serious or knowledgeable way with how future
+technologies might either exacerbate or ameliorate such trends over such a
+long span of time -- even though the trends they discuss are primarily caused
+by technologies in the first place.  
+  
+Can we relax the enablement requirement to create a new system for evaluating
+theoretical technologies? We might call the result a "non-proximately enabled
+invention" or a "theoretical patent." [UPDATE: note that this is not a
+proposal for an actual legally enforceable long-term patent. This is a thought
+experiment for the purposes of seeing to what extent patent-like criteria can
+be used for evaluating theoretical technology]. It retains (and even
+strengthens) the utility requirement of a patent, but it relaxes the
+enablement requirement in a disciplined way. Instead of enabling a fellow
+engineer to build the device, the description must be sufficient to enable an
+research project -- a series of experiments and tests that would if successful
+lead to a working invention, and if unsuccessful would serve to demonstrate
+that the technology as proposed probably can't be made to work.  
+  
+It won't always be possible to test claims about theoretical designs. They may
+be of a nature as to require technological breakthroughs to even test their
+claims. In many cases this will be due the lack of appreciation on the part of
+the theoretical designer of the requirement that such designs be testable. In
+some cases it will be the lack of skill or imagination of the theoretical
+designer to fail to be able to come up with such tests. In some cases it will
+be because the theoretical designer refuses to admit the areas of uncertainty
+in the design and thus denies the need for experiment to reduce these
+uncertainties. In some cases it may just be inherent in the radically advanced
+nature of the technology being studied that there is no possible way to test
+it without making other technology advances. Regardless of the reason the
+designs are untestable, these designs cannot be considered to be anything but
+entertaining science fiction. In only the most certain of areas -- mostly just
+in computer science and in the simplest and most verified of physics -- should
+mathematically valid but untested claims be deemed credible for the purposes
+of making important decisions.  
+  
+Both successful and unsuccessful experiments that reduce uncertainty are
+valuable. Demonstrating that the technology can work as proposed allows lower-
+risk investments in it to be made sooner, and leads to decisions better
+informed about the capabilities of future technology. Demonstrating that it
+can't work as proposed prevents a large amount of money from being wasted
+trying to build it and prevents decisions from being made today based on the
+assumption that it will work in the future.  
+  
+The distinction made by patent systems between fields that are more versus
+less predictable becomes even more important for theoretical designs. In
+computer science the gold standard is mathematical proof rather than
+experiment, and given such proof no program of experiment need be specified.
+Where simple physics is involved, such as the orbital mechanics used to plan
+space flights, the uncertainty is also usually very small and proof based on
+known physical laws is generally sufficient to show the future feasibility of
+orbital trajectories. (Whether the engines can be built to achieve such
+trajectories is another matter). Where simple scaling processes are involved
+(e.g. scaling up rockets from Redstone sized to Saturn sized) uncertainties
+are relatively small. Thus, to take our space flight example, the Apollo
+program had a relatively low uncertainty well ahead of time, but it was
+unusual in this regard. As soon as we get into dependency on new materials
+(e.g. the infamous "unobtainium" material stronger than any known materials),
+new chemical reactions or new ways of performing chemical reactions, and so
+on, things get murkier far more quickly, and it is essential to good
+theoretical design that these uncertainties be identified and that experiments
+to reduce them be designed.  
+  
+In other words, the designers of a theoretical technology in any but the most
+predictable of areas should identify its assumptions and claims that have not
+already been tested in a laboratory. They should design not only the
+technology but also a map of the uncertainties and edge cases in the design
+and a series of such experiments and tests that would progressively reduce
+these uncertainties. A proposal that lacks this admission of uncertainties
+coupled with designs of experiments that will reduce such uncertainties should
+not be deemed credible for the purposes of any important decision. We might
+call this requirement a requirement for a _falsifiable design_.  
+  
+Falsifiable design resembles the systems engineering done with large novel
+technology programs, especially those that require large amounts of
+investment. Before making the large investments tests are conducted so that
+the program, if it won't actually work, will "fail early" with minimal loss,
+or will proceed with components and interfaces that actually work. Theoretical
+design must work on the same principle, but on longer time scales and with
+even greater uncertainty. The greater uncertainties involved make it even more
+imperative that uncertainties be resolved by experiment.  
+  
+The distinction between a complete blueprint or enabling description and a
+description for the purposes of enabling falsifiability of a theoretical
+design is crucial. A patent enablement or an architectural blueprint is an a
+description of _how to build._ An enablement of falsifiability is a
+description of _if it were built -- and we don't claim to be describing or
+even to know how to build it -- there is how we believe it would function,
+here are the main uncertainties on how it would function, and here are the
+experiments that can be done to reduce these uncertainties._  
+  
+Good theoretical designers should be able to recognize the uncertainties in
+their own and others' designs. They should be able to characterize the
+uncertainties in such a way as to that evaluators to assign probabilities to
+the uncertainties and to decide what experiments or tests can most easily
+reduce the uncertainties. It is the recognition of uncertainties and the plan
+of uncertainty reduction, even more than the mathematics demonstrating the
+consistency of the design with physical law, that will enable the theoretical
+technology for the purposes, not of building it today, but of making important
+decisions today based on to what degree we can reasonably expect it to be
+built and produce value in the future.  
+  
+Science fiction is an art form in which the goal is to suspend the reader's
+disbelief by artfully avoiding mention of the many uncertainties involved in
+the wonderful technologies. To be useful and credible -- to achieve truth
+rather than just the comfort or entertainment of suspension of disbelief --
+theoretical design must do the opposite -- it must highlight the uncertainties
+and emphasize near-term experiments that can be done to reduce them.
+

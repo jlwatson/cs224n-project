@@ -1,0 +1,145 @@
+Modern civics and political science is often taught as an absurd dichotomy:
+that government is a "monopoly over the use of force" and that the absence of
+government is anarchy. Using this fallacious dialectic, many highly lawful
+societies, such as most of medieval Europe, and in particular medieval and
+renaissance England, were "anarchies." Even the United States is really an
+"anarchy": jurisdictions are divided up among federal, state, county,
+municipal and other entities, including shopping malls and mass transit
+authorities whose security guards can legally arrest probable criminals. (Some
+states even still allow "citizen arrest," although it's not recommended that
+people who don't understand the procedural distinctions between arrest and
+kidnapping try it). Government does not, and should not, come in the abstract
+forms taught by high school civics and political science, nor as in the
+economic models of law that talk about law being enforced by "the government."  
+  
+In medieval and renaissance England (and in many later instances), English
+jurisdictions were property. The king had granted (as property called a
+"franchise") much jurisdiction to lords and corporate bodies (such as Church
+organizations, municipalities, and colonies) but owned the residual
+jurisdiction of the realm (i.e., all jurisdiction not owned by somebody else).
+This grant would take the form of a property deed called a charter. A
+franchise could also be owned by prescription -- i.e. by having exercised the
+jurisdiction since the English "time out of mind" year for prescriptive
+property rights, 1189 A.D.  
+  
+Where franchise courts had exclusive jurisdiction, the king's courts were
+merely "night watchmen" courts that insured that the franchise courts stayed
+within their property boundaries, i.e. their jurisdictional and procedural
+bounds. Medieval and early colonial English courts thus formed more of a
+"peer-to-peer" system than the hierarchical current (Roman imperial style, or
+"sovereign") system where "higher courts" generally review both the procedure
+and substance of judgments in "lower courts."  
+  
+Franchise jurisdictions were defined, by custom or statute or express charter
+language, by the people and legal subjects over which jurisdiction could be
+exercised. For example, a merchant court could exercise jurisdiction over
+merchants doing business at the market fair the court was appurtenant to, and
+the law it exercised was merchant law. This only had to be consistent with
+royal law in keeping within its jurisdiction (procedurally as well as
+territorially): substantively such laws could and often did diverge sharply
+from royal substantive law.  
+  
+There were dozens of standard jurisdictional franchises. For example,
+"infangthief" enabled the franchise owner to hang any thief caught red-handed
+in the franchise territory, whereas "outfangthief" enabled the owner to chase
+the thief down outside the franchise territory, catch him red-handed, and then
+hang him. "Gallows" enabled the owner to try and punish any capital crime, and
+there were a variety of jurisdictions correponding to several classes of
+lesser offenses. "View of frankpledge" allowed the owner to control a local
+militia to enforce the law. "The sheriff's pleas" allowed the owner to hear
+any case that would normally be heard in a county court. There were also
+franchises that allowed the collection of various tolls and taxes.  
+  
+A corporation was also a franchise, and corporations often held, as
+appurtenances, jurisdictional franchises. The City of London was and is a
+corporate franchise. In the Counties Palatine the entire government was
+privately held, and most of the American Colonies were corporate franchises
+that held practically all jurisdiction in their territory, sometimes subject
+to reservations (such as the common law rights of English subjects and the
+right of the king to collect customs reserved in the American charters). The
+colonies could in turn grant franchises to local lords (as with the Courts
+Baron and Courts Leet in early Maryland) and municipalities. American
+constitutions are largely descended from such charters.  
+  
+In terms of protecting personal liberties, franchises in general and colonial
+corporations in particular ranged all over the map. Those where Englishmen
+themselves settled in large numbers, such as the American colonies, tended to
+be protective and even expansive of liberties, but many other English colonial
+corporations, from the East India Company (first chartered in the late 16th
+century) to the Royal South Africa Company (Cecil Rhodes' colonial
+corporation, chartered in the late 19th century) could be authoritarian and
+brutal especially to non-Englishmen.  
+  
+Through medieval and renaissance times, and to some extent well into the
+colonial period, the basic laws of English jurisdiction were property laws.
+The basic actions (kinds of lawsuit) contesting the jurisdiction or procedure
+of a court were those of title and trespass. Infringement of jurisdiction was
+a trespass, and abuse of a defendant by a court (i.e. violating certain common
+procedural laws) could be a trespass. If any person, including a royal or
+franchise official, confiscated a person's goods, or imprisoned an individual,
+or administered some other coercive remedy, he could be sued for trespass. He
+then had to defend his use of force as a matter of legal authority -- that he
+had rights as a victim seeking remedy, or rights by owning a jurisdictional
+franchise, and that he exercised those rights within the personal,
+substantive, and procedural bounds of the jurisdiction.  
+  
+The king's courts could only reach inside exclusive franchise jurisdictions
+through the "extraordinary" or "prerogative" writs, which were writs of
+trespass or title. Thus, where franchise courts held the substantive
+jurisdiction, the king's courts generally could not review their proceedings
+for substantive error: only for trespassing on jurisdiction and committing
+certain procedural defaults, such as depriving a defendant of a right to jury
+trial. Indeed, many of the procedural rights specified in today's United
+States Constitution probably have their origins in the legal authority defense
+required of both franchise and royal courts to exercise coercive process
+without trespassing on the defendant.  
+  
+David Friedman has described the legal system of medieval Iceland. This was
+also a peer-to-peer justice system, albeit less specialized and in some ways
+even more decentralized, and where personal jurisdiction was tied more to
+choice than to territory. In political science terms medieval Iceland has been
+called an "anarchy," but it is more realistic to describe it as a very peer-
+to-peer kind of government, where medieval England was partly peer-to-peer and
+partly hierarchical, and modern governments tend, on the imperial Roman model,
+to be quite hierarchical.  
+  
+The Icelandic system was also based on a jurisdictional property, the
+_godord._ However, the _godord_ was more a protection service, champion, legal
+advocate, and executor of the law than a judge. The court of last resort,
+since Iceland had no king, was the democratic _allthing,_ but it was more than
+a night-watchman court as it reviewed substance as well as procedure of
+dispute settlements arbitrated between _godord._  
+  
+In our modern system of arbitration, based on choice-of-forum clauses in
+contracts, personal jurisdiction is based even more on choice, but it is
+embedded within our imperial Roman style hierarchical and territorial court
+system that reviews arbitrations for substance as well as procedure, and
+arbitrators depend on normal governmental entities to execute their judgments:
+they have no police powers of their own.  
+  
+At the same time as the American Revolution eliminated most titles, it (on top
+of the early Parliamentarian revolutions) eliminated most franchises, except
+for certain rigid forms such as municipal corporations which are no longer
+considered an instance of a franchise. Corporate colonies and Counties
+Palatine were converted into States. (Actually this process started well
+before the American Revolution, which was more of a climax to this process).
+The modern laws of interstate jurisdiction came to be derived largely from
+international law rather than from franchise property law, and the procedural
+rights of defendants were encoded in constitutions which succeeded the
+colonial charters. Today the word "franchise" is typically reserved to
+official monopolies such as water utilities and jurisdictional and police
+powers are defined by statute not property grant. The laws of procedure are
+now based on constitutions and statutes, and the laws of jurisdiction are
+generally derived from international law (treating for this purpose States as
+sovereign states) rather than the old franchise law. However, some of the
+extraordinary writs, such as _habeus corpus,_ survive in the ability of the
+U.S. Supreme Court to reach into non-Article III courts (e.g. state courts,
+military courts, etc.) to review their proceedings, usually still on
+jurisdictional and procedural grounds.  
+  
+
+I will have much more to say about the "peer-to-peer plus nightwatchmen" model
+of "government," and the extraordinary writs, in future post(s). I have also
+describe the actual English system in much more detail, in a paper to be
+forthcoming.
+

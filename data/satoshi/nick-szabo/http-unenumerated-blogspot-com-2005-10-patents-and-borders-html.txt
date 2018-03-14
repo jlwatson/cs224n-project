@@ -1,0 +1,13 @@
+It's becoming common to patent distributed systems. For example, you might
+have a patent on server software S and client software C, where a person
+deploying server software S' and client software C' would infringe the patent.
+But if S' is in Canada, and the C's are (at least in part) in the United
+States, does that also infringe the patent S+C? And if so, where? That's the
+big issue in NTP v. RIM, the "Blackberry case."  
+  
+The latest news is that the district (trial-level) court will go ahead and
+move the case forward on remand while the case is appealed to the United
+States Supreme Court and the USPTO reexamines NTP's e-mail patents at the
+urging of RIM. One of the issues the district court will look at is whether
+NTP reached a settlement with RIM for $450 million. NTP wants more!
+

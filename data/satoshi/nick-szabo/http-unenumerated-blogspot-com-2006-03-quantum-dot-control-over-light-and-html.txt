@@ -1,0 +1,19 @@
+LEDs are more energy efficient and last far longer than light bulbs. But their
+color range has been rather limited. A graduate student at Vanderbilt
+University has discovered that you can paint LEDs with quantum dots . The
+color produced by the quantum dots, nanocrystals of a precise specific size,
+can be varied by varying the size of the crystal, but the result is usually
+one specific wavelength. Michael Bowers at Vanderbilt discovered that crystals
+of cadmium and selenium that contain either 33 or 34 pairs of atoms are both
+preferentially formed (thus making mass production easy) and emit a broad-
+spectrum white light akin to the sun or a standard light bulb.  
+  
+Another interesting application of quantum dots is for more efficient
+thermoelectric devices, for example devices to cool our increasingly hot
+silicon computer chips. Quantum dots allow a greater ratio of thermal to
+electrical conductivity -- that means more heat pumped while retaining control
+over the electric current.  
+  
+Also interesting is infrared paint. It seems to me that infrared-scale quantum
+dot paint might also be used for passive thermal control.
+

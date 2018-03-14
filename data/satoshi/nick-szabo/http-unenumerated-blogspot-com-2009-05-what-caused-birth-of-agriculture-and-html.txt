@@ -1,0 +1,83 @@
+Robin Hanson asks, "what key features make this [human] growth groove
+possible?" -- two key events being the birth of agriculture and the industrial
+revolution. Commenter "gwern" is on the money in saying that (a) explaining
+why the IR happened when and where it did is hard, and (b) the explanation has
+to include something that China didn't have much sooner, which eliminates most
+of the usual explanations. I'd add that explaning the birth of agriculture is
+even harder -- we have vast amounts of historical data on the IR and only
+archaeological and comparative anthropological evidence about the birth of
+agriculture.  
+  
+Indeed, the most important thing in explaing these two events is to be aware
+of enough facts from different fields, and have sufficient doses of skepticism
+and common sense, that you can eliminate the many theories that are popular
+but obviously, if you know enough such things, wrong. For example, be aware
+that hunter-gatherers were experts on botany and animal behavior. It's not
+plausible that the simple ideas that seeds can grow into plants that you can
+eat later, or that you can keep an animal tied or penned up and eat it later,
+were not discovered and known countless times during the c. 100,000 years
+between when our brains became modern-sized and agriculture developed. There
+has to have been some major barrier to benefitting from such obvious ideas to
+have kept agriculture from developing far sooner. I also don't find genetics
+plausible as a cause of agriculture, since agriculture ended up spreading to a
+number of human groups that had become genetically isolated long before the
+dawn of agriculture. (Genetic evolution caused _by_ agriculture is another
+story -- Cochran and Harpending have some ideas very much worth thinking
+about). Also not plausible are climate explanations -- there were many local
+climates hospitable to agriculture throughout those 100,000 years -- just not
+necessarily at Mediterranean or higher lattitudes.  
+  
+That said, going back to the IR there a number of likely-to-firm differences
+between China and Western Europe (or Great Britain in particular):  
+  
+(1) Differences in political and legal culture. What differences,
+specifically, it's hard to say, because there is very little about, for
+example, Sung or Ming dynasty commercial law that has been translated into
+English: far too little to compare to English law in the 18th century, for
+example. We know some very general things, such as that Western Europe was
+(and still is) a far more legalistic culture than China. Also, we know that
+Western Europe (contrary to Gregory Clark's claim) radically changed its
+property law between the 16th and 19th centuries, from a feudal model of of
+hierarchy of tenures and bundled political property rights to a model based on
+old Roman law with flattened and purely economic ownership. There ensued
+movements such as the enclosure movement in England and an accompanying large
+increase in capital investments in land. But we don't know when or to what
+extent similar incentives to capital investment might have been present or
+missing in China.  
+  
+(2) China never controlled the world's oceans and merchant marine, but the
+British just prior and during its IR did. If this explains the IR, then to
+explain our explanation (i.e. why did Britain come to control the world's
+ocean-going trade) we have to step back and solve the even more puzzling
+question of how a tiny country of fishing-folk and small-time crusaders,
+Portugal, and not an advanced superpower like China, was the first country to
+take over most of the world's oceanic trade routes (later to be beaten back by
+other Western European countries and eventually Great Britain).  
+  
+(3) China had the printing press, but in contrast to Western Europe it did not
+lead to a rapid growth in literacy sustained over several centuries -- perhaps
+because of bureaucratic central control rather than the free-enterprise
+printing businesses that sprung up all over Western Europe, perhaps because
+the much greater number of symbols did not as efficiently lend itself to
+printing as the Roman alphabet, or a combination of these two factors.  
+  
+(The Romans were not all good -- indeed they gave our culture something quite
+nasty which I will blog on in the near future).  
+  
+Other interesting related phenomenon to explain, (and it would be nice per
+Occam's Razor if it was the same general explanation, but social life is
+rarely that simple) is why Japan industrialized well in advance of China and
+Britain was a few decades ahead of the rest of Western Europe during most of
+the 18th and the first half of the 19th century.  
+  
+Robin: "If you wanted to attribute the industrial revolution to writing, you'd
+have to explain why there was a strong threshold effect, so that pre-1800
+writing levels had weak growth rate effects, while post-1800 writing levels
+had strong effects."  
+  
+Besides threshold effects, there could be delay effects: for example, the the
+rapid growth of books and literacy after the mid-15th century in Western
+Europe gave rise to a slow but accelerating series of innovations (most
+obviously scientific and technological advances, but perhaps also innovations
+in business or law), which in turn gave rise to the IR.
+

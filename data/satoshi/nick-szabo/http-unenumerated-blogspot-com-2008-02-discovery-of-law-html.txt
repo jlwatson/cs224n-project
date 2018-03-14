@@ -1,0 +1,102 @@
+Justice John Paul Stevens has riled up law professors everywhere by
+reiterating the traditional doctrine of the common law, namely that the case-
+by-case decisionmaking that has given rise to the common law, as well as other
+precedent-based law such as interpretation of the United States Constitution,
+is a process of discovering something that already, in a Platonic sense,
+exists:  
+  
+
+> [T]he source of a "new rule" is the Constitution itself, not any judicial
+power to create new rules of law. Accordingly, the underlying right
+necessarily pre-exists our articulation of the new rule.
+
+  
+This contradicts the modern academic dogma of "positivism" in which the common
+law is made, not discovered, and therefore cannot be said to exist in any
+sense until the decision comes down. This is associated with another dogma,
+"realism", in which judicial decisions are largely just, as with legislation,
+exercises in political power.  
+  
+Legal academics make far too much out of the "made" vs. "discovered"
+dichotomy. We can see that by looking at the supposed distinction between
+"discovering" a law of science and "inventing" a new piece of technology. If
+it's possible to make a strong and important distinction between "discovering"
+and "making", we should be able to do so here. Yet our patent system would not
+have been able to transition so smoothly to being able to patent new breeds of
+plant or new strands of DNA if this distinction were so clear. In patent law
+the distinction between a "discovered" law and a "made" invention can be as
+trivial as the distinction between a "discovery" that a high level of a
+certain hormone correlates with a high risk of a certain disease and the
+"invention" of a test that allows one to detect the high hormone level and
+algorithmically (or perhaps even mentally -- it's unresolved law) conclude
+that one is at serious risk of the disease. In other words, no serious
+difference at all -- the test apparatus and the mental or algorithmic step was
+how the discovery was made. To make the discovery is to make the invention,
+and vice versa, and the idea that there is an strong and important distinction
+between the two here is risible.  
+  
+There are thus cases in which the distinction between making and discovering
+is trivial. But we can readily and fruitfully think of all invention as
+discovery. What was more important to inventing the first automobile: the
+physical making and combining of its parts, or the discoveries of ways make
+and combine them (in this case, discovering what are the better and worse ways
+to combine an internal combustion engine with a carriage)? One can discover
+better and worse ways of making things just as one can discover new continents
+or planets. That, and not whether the physical machine has actually been
+built, and thus can be said to now physically "exist", lies at the heart of
+invention. Furthermore, there is a Platonic sense in which these better or
+worse designs already exist, because the basic laws by which they operate
+already exist: the designs be deduced from the laws of physics and the history
+of the part of the universe in which it is desired that they operate. In
+practice, it this process of discovery requires its own empirical tests: build
+the machine, try it in the various desired environments, tweak the machine to
+make it work better. As with discovery those laws themselves, inventors
+hypothesize which designs are better or worse and test them against reality.
+They don't exercise their will and arbitrarily decide which machines will work
+better and which will not.  
+  
+So too, common law is a painstaking way of discovering and making better law,
+case by case, dispute by dispute, piece of evidence by piece of evidence. For
+machines there is a Platonic "environment space", the set of environments we
+desire those machines to work in. As we explore new environments we discover
+new ways to make machines work better in them. In common law, there is a
+"facts space", a Platonic space of possible unique disputes, each with its own
+unique set of facts. It is not possible to explore more than a miniscule
+fraction of the facts space.  
+  
+Instead of the hubristic exercise of waving one's hands calling for "Change"
+and then drafting broad legislation, the ultimate consequences of which are
+usually unknown, common law judges tweak the common law. In each case they are
+discovering a better way in which the law can be made. Just as there are
+empirically better and worse machines, so there are empirically better and
+worse laws. If the law applied to the facts of this case is unjust, it needs
+to be tweaked. Not repealed or overruled, as the absolutist minds of
+positivists would have -- but tweaked -- by a shade of meaning or an exception
+for a new situation. To repeal a rule of common law insults the combined
+wisdom of several previous courts and a variety of cases with their own large
+bodies of evidence not before the current court. It's like an octopus
+declaring that, based on his discovery that wheeled vehicles don't work on the
+ocean, that they won't work on land either, despite many landlubbers who've
+reported that wheeled vehicles work on land just fine. The principles of
+precedent or _stare decisis_ allow the law to evolve towards worker better in
+an ever wider variety of disputes, even though only the facts of one case can
+be observed at a time.  
+  
+So there is no dichotomy -- judges both make law and discover law. By not
+doing so in broad brushstrokes, they can avoid doing the broad unintended
+harms that legislation usually causes. Legislation purposefully disrupts
+previously existing legal rights and duties wholesale. Proper common law
+precedent -- any precedent that should be respected -- never should do this.
+Instead it should be clarifying the nature of previously unexplored
+territories of the facts space, the space of possible disputes, and tweak the
+law so that it works better in the newly explored part of the facts sapce.
+Incremental discovery of better law justifies the prohibition against _ex post
+facto_ laws applying to legislation in a way that it does not apply to common
+law making.  
+  
+N.B.: the fact that scientific discoveries are called "laws", by metaphor to
+human laws, should clue us in as to what people generally thought about the
+nature of law at the time of the scientific revolution, i.e. from the
+Renaissance through the Enlightenment, and including the drafting and
+ratification of the U.S. Constitution.
+

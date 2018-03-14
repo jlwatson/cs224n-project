@@ -1,0 +1,114 @@
+After a long stint of research and thought I have returned to share some of
+the results.  
+  
+In the early 19th century the Reverend Thomas Malthus, foreshadowing Charles
+Darwin, wrote:  
+
+> Throughout the animal and vegetable kingdoms Nature has scattered the seeds
+of life abroad with the most profuse and liberal hand but has been
+comparatively sparing in the room and the nourishment necessary to rear them.
+The germs of existence contained in this earth if they could freely develop
+themselves would fill millions of worlds in the course of a few thousand
+years. Necessity, that imperious all pervading law of nature, restrains them
+within the prescribed bounds. The race of plants and the race of animals
+shrink under this great restrictive law and man cannot by any efforts of
+reason escape from it ... Wherever therefore there is liberty the power of
+increase is exerted and the superabundant effects are repressed afterwards by
+want of room and nourishment.
+
+This is the Malthusian trap: any improvements in institutions, technologies,
+or any other improvement in labor productivity will over the course of a few
+generations increase the population until it once again flirts with
+subsistence levels.  
+  
+Delayed marriage and plagues can delay or reverse such population growth for a
+time and produce higher than subsistence standards of living, but, with some
+small variations (see diagram below), eventually our Darwinian proclivity to
+procreate will return our descendants back to subsistence levels.  
+  
+But just as Malthus was writing, his Great Britains were becoming the first
+living things to ever break free of the Malthusian trap. As a result, in the
+21st century the developed world has both populations _and_ standards of
+living never before achieved.  
+  
+We can picture the progress of civilization in Malthusian terms. Click to
+enlarge and examine this schematic diagram:  
+_Click to enlarge._  
+  
+In this chart, the horizontal axis represents, on a logarithmic scale, the
+human population per area of land adjusted for natural (but not artificial)
+variability in its potential to support human food production. Such an
+adjusted area is typically called by ecologists a "global hectare" and my
+phrase "natural global hectare" represents a hypothetical measure of this
+independent of all human labor and capital improvements.  
+  
+The vertical axis represents per capita nutrition derived, via human labor and
+capital, from this ecology.  
+  
+The slope line or "labor productivity isocline" represents, intuitively
+speaking, a level of civilization. In other words, a level of technological
+and institutional progress. More specifically, it represents food production
+output per worker (productivity) adjusted for the marginality of ecology being
+used. As the isoclines move up and right, a given unit of labor is producing
+more human nutrition from the same global hectare. So our own 21st century
+agriculture is far more productive than 19th century British agriculture,
+which in turn was far more productive than medieval European agricultural,
+which in turn was more productive than Neolithic agriculture, which in turn
+was more productive than hunting and gathering.  
+  
+As we move along a given isocline (a given "level of civilization" as just
+described) we experience the Malthusian tradeoff: more population per global
+hectare with lower nutrition, or less population per global hectare with
+higher nutrition. As we escape from the Malthusian trap, nutrition itself
+becomes satisfied and the left axis really represents a more general per
+capita income. Prior to escaping from the Malthusian trap, nutrition dominated
+the average human budget with fuel (mostly to cook food), clothing, shelter,
+etc. usually less than 20% of a personal budget or the overall economy.  
+  
+A number of interesting patterns emerge from this kind of analysis. First,
+roving bandit societies such as hunter-gatherers and pastoral nomads tended to
+have lower population levels and higher per-capita nutrition than stationary
+bandit societies (settled agriculture). The Western European Dark Ages is an
+interesting intermediate case. This certainly suggests that most prior
+analyses of Malthusian tradeoffs, which have focused on pure economics, are
+very incomplete -- that security and politics play a crucial role, and not
+just in the trivial sense wars and other causes of mortality. There are good
+reasons of security of property and capital investments to expect this
+difference between roving and stationary bandits, as I hope to describe in
+future post(s).  
+  
+The main question I hope to answer in forthcoming posts is: why did our escape
+from the Malthusian trap happen when and where it did, and not elsewhere? This
+will probably involve exploring a wide variety of technologies and
+institutions and especially the key factors of capital investment and
+security.  
+  
+One obvious possible answer -- and the most likely reason humans will continue
+departing from the Malthusian trap for some time to come -- is birth control.
+But the British population up to the late 19th century was booming and seldom
+made effective use of birth control, so this can't explain Great Britain's
+initial escape from the Malthusian trap. A second answer is to invoke the
+industrial revolution. But this is a vague term and risks getting at least
+some of the causation backwards, as one of the factors enabling the industrial
+revolution was a large swelling of the British industrial work force because
+improving farm labor productivity meant that fewer farm workers could feed
+more people. And it neglects a third crucial factor, the transportation
+revolution. And it risks focusing on technology when institutional changes
+played a crucial role. All of which I hope to explore and to discuss with my
+readers.  
+  
+Meanwhile, for now I leave you with the following fascinating looks at London
+and Beijing early in the 20th century. See if you can spot a difference
+between the two societies which I find crucial. Indeed it is visually obvious
+and is implicit in a theme of the Chinese documentary. The internal combustion
+engines are irrelevant for our pre-20th-century purposes. Escape from the
+Malthusian trap was well underway by the early 19th century and the difference
+I have in mind had existed to some extent at least for many centuries. But if
+you're into more trivial pursuits see if you can spot the two "horseless
+carriages" on the London streets.  
+  
+London in the 1900s:  
+  
+  
+Beijing and some other Chinese locales in the 1920s:  
+

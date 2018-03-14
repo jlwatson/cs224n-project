@@ -1,0 +1,62 @@
+Our Constitution, while admirable in many respects, has some deep flaws,
+especially the federal court structure. But given the flawed court structure,
+it has developed one very redeeming feature: the Incorporation Doctrine. Under
+this doctrine, said by the Supreme Court to be implied from the 14th Amendment
+clause requiring States to respect due process, the federal Bill of Rights is
+applied as a limitation on States. This doctrine has allowed federal courts to
+enforce many individual rights against state governments, which state courts
+have far less incentive to do, even though similar or the same rights are
+written into most state constitutions. Combined with the doctrine that the
+Bill of Rights means the same thing when applied to States as they do when
+applied against the federal government, (the Same-Scope Doctrine -- an
+assumption that on original meaning grounds is perhaps flawed), it has also
+given the federal courts far more incentive to enforce the Bill of Rights
+against the federal government itself.  
+  
+A brief further explanation of the basic flaws in both federal and state
+courts are in order. These courts are selected by the legislatures and
+executive whose power they interpret. This gives a strong selection bias
+(similar to adverse selection in economics, but involving the choices of third
+parties). When on the bench, operational bias (analogous to moral hazard in
+economics) biases verdicts towards increasing both federal power and the
+rights of other parties as narrow exceptions to those powers in order to
+increase the number and importance of disputes, and thereby increase the
+importance of the federal courts. The same logic applies to state courts
+interpreting the powers of state legislatures and executives under state
+constitutions.  
+  
+An example of selection bias at work: you will almost always see Senators ask
+judicial nominees their opinion on the Commerce Clause. To be approved, the
+nominee cannot declare an intention to overturn preposterous interpretation by
+which "commerce among the States" includes growing marijuana or wheat in your
+own backyard for your own consumption. If a nominee does not declare
+allegience to this legal monstrosity, which has vastly increased the power of
+the President and Senate, most Presidents and Senates will not allow him on
+the federal bench. (The occassional joker, like Justice Thomas, does slip past
+both the President and Senate, but it's very rare).  
+  
+Before the Incorporation Doctrine and the same-scope assumption, federal
+courts rarely enforced the Bill of Rights against the federal government. They
+enforced the small handful of limitations on the States in the original
+Constitution far more zealously. The combination of selection and operational
+biases produces this result -- the federal courts want to inrease their
+influence by enforcing rights, but have to commit to Senators (and often the
+President) who select them to not enforce them strongly against federal
+legislative or executive acts. They don't need to commit to States -- the
+States are not a source of selection bias -- so they can exercise their power
+freely by enforcing rights against the States.  
+  
+Thus the federal courts have always been eager to enforce individual rights
+against the States, but very reticent to do so against the federal government.
+The Incorporation Doctrine and the same-scope assumption cause the federal
+courts to enforce the Bill of Rights against the federal government, going
+against their selection bias, as a price they are willing to pay to enforce a
+larger set of rights against the States.  
+  
+A much better solution for keeping governmental powers in check and rights
+protected would be to have federal courts interpret state constitutions, and
+set up a new super-federal court, selected completely independently of federal
+politicians, to interpret the U.S. Constitution. Until such radical
+modification, the Incorporation and Same-Scope doctrines are crucial to
+incentivizing federal courts to enforce the Bill of Rights today.
+

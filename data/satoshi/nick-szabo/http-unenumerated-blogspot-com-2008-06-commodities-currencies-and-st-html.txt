@@ -1,0 +1,135 @@
+Hal Finney describes the surprising results of the Hotelling model of
+nonrenewable commodities:  
+
+> prices become much higher than the costs to produce the resource, the
+opposite situation from competitive markets in other kinds of commodities. Yet
+resource owners restrain production without the need for a cartel or any
+coordination.
+
+This occurs because, under the Hotelling assumptions that the commodity is not
+renewable and cannot be substituted for (and of secure property rights, as
+David Friedman correctly points out) the commodity producer can choose between
+producing today or keeping it in the ground to produce tommorrow, with no fear
+of permanently losing sales to some competitor. Any sales lost to a competitor
+today draws down the competitor's fixed stores and can be recouped at any time
+in the future.  
+  
+What the Hotelling model does not properly account for is that these very
+characteristics also make these goods great substitutes or hedges for money.
+Hotelling looks at a "fixed" or "prevailing" interest rate, but we should
+really be looking at expectations of future interest rates, taking into
+account expectations of future inflation. And we should account for changes in
+these expectations. If we do so, I think we will find the model to have high
+explanatory power (albeit not high predictive power, since we can't outguess
+the market about future monetary conditions -- but the search for predictive
+as opposed to explanatory power in economic models is largely futile anyway).  
+  
+Imagine a world with two currencies C1 and C2 and two nonrenewable minerals,
+M1 and M2. C1 money supply outstrips money demand by 10%/year, and for C2 by
+5%/year (in other words, C1 "inflates" or "falls" by 10%/year and C2 by
+5%/year). If the price has not properly increased to account for future
+expected inflation, people will prefer holding M1 and M2 to holding either of
+the currencies. They will play "hot potato" with the currencies: as soon as
+they obtain a currency in trade, they will try to purchase M1 or M2 with it.
+All holders of M1 or M2 will demand a stiff premium to exchange their minerals
+for falling currencies. What premium will they charge? In theory, the
+inflation premium is infinite: it is a "net present value" calculation of the
+depreciation of the currency into the infinite future. In practice, (as with
+the St. Petersburg paradox, and because no commodity is perfectly nonrenewable
+or perfectly immune to substitution over the long term), the premium will just
+be very high: not only far higher than the cost of production, but also far
+higher than the Hotelling model under the assumption of no inflation.
+Inflation expectations will dominate the prices of M1 and M2 in C1 and C2.  
+  
+Now imagine that inflation expectations change. If expectations of inflation
+in C2 to infinity go down from 5% to zero, we have in theory a change of net
+present value of revenue streams from M1 and M2 in currency C2 from infinity
+to zero, and in practice just a very high drop. It takes only a small change
+in inflation expectations to send the prices of M1 and M2 in C1 and C2 soaring
+or plummeting.  
+  
+Since the standard Hotelling model predicts no abrubt price changes, and the
+monetary model does, the monetary model is a better choice for explaining the
+actual dramatic price movements in relatively nonrenewable commodities such as
+oil that we have observed.  
+  
+Under imperfect information, since we have far better information about
+geology and technology than we do about future monetary conditions, and since
+uncertainty in monetary conditions produces far greater price changes than
+uncertainty about geology and technology, we can again conclude that abrupt
+changes such as we've seen are due almost entirely to changes in monetary
+expectations rather than in "fundamentals".  
+  
+Furthermore, when we see dramatic changes across a wide variety of
+commodities, being led by the less renewable commodities like oil, Occam's
+Razor (or equivalently, basic probability) tells us that there are not 100
+different explanations for why 100 different commodities have all gone up
+dramatically. Rather, we need only two quite related explanations: changes in
+inflation and inflation expectations for the currencies they are priced in.  
+  
+Two commodities that come relatively close to being Hotelling nonrenwable
+commodities are gold and oil. For gold, the above-ground stockpiles are far
+greater than the annual production. For oil, the below-ground stockpiles are
+far greater than the annual production. The price of gold has always
+historically been dominated by its role as money, monetary substitute, or
+hedge, or equivalent, and the price of oil is also coming to be so in an age
+of floating currencies and in the current decade of rising inflation
+expectations. When we realize that Hotelling nonrenewable goods make better
+long-term stores of value than less renewable commodities, we can explain why,
+while all commodities have dramatically risen over the last three years, the
+surge in oil has been disproportionately dramatic, and even more dramatic than
+the rise of gold: the rise in oil combines an increasing use of oil as an
+inflation hedge (mostly by the producers themselves curtailing production),
+which effects oil but not gold (which has long been used this way), with
+increasing inflation expectations (which effect both gold and oil, and other
+commodities to a lesser extent).  
+  
+It is often noted, in rebuttal to the theory that the falling dollar is mostly
+responsible for commodity price rises, that the dollar has fallen less gainst
+the euro, or against a basket of other currencies, than oil and many other
+commodities have risen in dollar terms. In other words, oil and most other
+commodities have also risen in euro terms, just less so. There are a number of
+problems with this argument as a way of dismissing monetary causes.  
+  
+The first problem is that these statistics only record falls relative to other
+currencies. It assumes there is some currency out there, or some basket of
+currencies, that is a stable standard of value that we can measure against.
+But there isn't. It's quite possible, and indeed currently quite probable,
+that the euro etc. supply has also inflated (relative to demand for the
+currency), so that all major currencies are falling relative to a hypothetical
+stable standard of value. They are just falling by on average less than the
+dollar is falling. Just because there is no standard to measure them against
+doesn't mean they can't collectively fall (or equivalently, that they can't
+all collectively inflate, as defined by greater supply, less demand, or both
+for the currency).  
+  
+Also important is that the euro is too new and untested by time, and other
+currencies too small, for them to make good substitutes for the dollar. So
+when the dollar starts becoming dodgy, people turn to commodities to hedge
+debt denominated in unreliable currencies (which currently means practically
+all debt -- not just "junk" debt). So we have three monetary factors each
+causing commodity prices in dollars to rise:  
+  
+(1) More dollars chasing the same (in the short term relatively inelastic)
+supply of commodities. This directly effects only the dollar prices.  
+  
+(2) Greater demand for commodities as a substitute or hedge for currency-
+denominated debt, to hedge against further possible inflation. Small changes
+in inflation expectations, as discussed above, can have large impacts on
+commodity prices. This increases commodity prices in all currencies.  
+  
+(3) A flight to safety from the credit crunch, creating more demand for safer
+forms of debt (e.g. U.S. Treasuries), and thus even more demand for
+commodities to hedge the currency risk from holding that debt. This increases
+commodity prices in all currencies.  
+  
+No "manipulation" or irrational "speculation" is required to explain commodity
+prices, and there may not even be a bubble (although a bubble could easily
+arise under such conditions of high uncertainty). Rising commodity prices, and
+in particular the disproportionate surge in oil, are mostly or entirely just a
+rational and efficient response to the poor state of the world's floating
+currencies and the credit crunch.  
+  
+(This post is based on previous comments I have made at other blogs, including
+in response to Hal's post linked to above).
+

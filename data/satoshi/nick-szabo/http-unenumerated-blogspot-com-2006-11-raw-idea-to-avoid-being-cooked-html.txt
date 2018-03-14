@@ -1,0 +1,96 @@
+I come up with far more ideas than I have time to properly evaluate, much less
+pursue. Long ago I worked at the Jet Propulsion Laboratory and I still
+occasionally daydream about space stuff. Recently there have been several
+proposals for shading the earth from the sun, put forth to combat global
+warming. I've been noodling on my own sunshade idea for several years. For
+your entertainment (and who knows, it might also turn out to be quite useful)
+here it is:  
+  
+Put a bunch of Venetian blinds at a spot permanently between the earth and the
+sun (know to orbital engineers as the first earth-sun Lagrange point, a.k.a.
+"L1"). These blinds would be refractive rather than reflective to minimize the
+stationkeeping needed to prevent being "blown" away by the pressure of
+sunlight. At L1 they only need to refract the light by less than one degree of
+angle for the light to miss the earth. Less than 2% of sunlight needs to be
+deflected away from earth to offset the expected global warming from
+"greenhouse gases," primarily carbon dioxide.  
+  
+Venetian blinds, unlike this proposal, and this one, can be opened or closed
+to allow continued control over the amount of sunlight hitting earth. This is
+essential since we can't really predict with great accuracy the degrees of
+global warming that we will need to combat. The blinds I propose, rather than
+being a number of joined slats as in a normal Venetian blind, are simply a
+large number of separate satellites each with a refractive slat that can be
+manuevered to any angle with the sun (i.e. from fully "closed" vertical to
+fully "open" horizontal).  
+  
+I propose that the blinds be placed precisely at the region where they will
+deflect primarily light headed for equatorial regions on earth. That will even
+out temperatures a bit between northern and equatorial latitudes and reduce
+the energy (caused by temperature differences) available for storm formation,
+and thus probably the intensity of storms (although the effect, like the
+effect of global warming itself, on storms may be negligible). But the blinds
+should be maneuverable enough, by using solar electric propulsion or "sailing"
+on sunlight pressure, to redeploy to deflect sunlight headed to extreme
+latitudes if polar ice sheet melting becomes a larger problem than equatorial
+heat.  
+  
+Instead of launching these vast (or vast number of) panels from the very deep
+gravity well of earth or manufacturing them on the moon (which probably lacks
+the proper organic ingredients and even sufficient water, a crucial industrial
+input), we can extract the raw materials from any near-earth asteroids
+containing water and methane ice or, if there are none such, from Jupiter-
+family comets. Besides the proper raw materials being available in sufficient
+volume in such ice, but probably not on the moon, there are a number of other
+advantages to microgravity ice mining explained in that linked article. If
+extracting material from comets and manufacturing the blinds can be automated
+the entire vast project can be conducted by launching just a few dozen of
+today's rockets using the recently-proven solar electric upper stages;
+otherwise it will require manned missions similar to those recently proposed
+to Mars, but again using solar-electric upper stages. (Solar electric rockets
+are only required for the first trip; much lower cost solar-thermal ice
+rockets can be used in subsequent trips, again as explained in that linked
+article).  
+  
+Of course shades don't combat other effects of excess carbon dioxide such as
+ocean acidification and faster and differential plant growth, but these
+effects alone do not justify the vast costs of reducing carbon dioxide
+emissions. Indeed faster plant growth is probably a major economic benefit.  
+  
+My off-the-cuff estimate of cost, which is probably as good as any recent NASA
+estimate for any of their gigaprojects, is that the project would cost $10
+billion per year over 50 years. That's for the manned version; if it could be
+automated it would cost far less. This is far cheaper than other space-based
+sunshade proposals because once initial capital costs are made and the first
+two or three bootstrapping cycles have been undertaken, the ongoing transport
+costs of material from comet to the earth-sun L1 point are extremely small.  
+  
+As a side benefit it would (unlike a mission to the moon or Mars or a "base"
+or any similar project) develop infrastructure needed for large-scale space
+industry and colonization. I propose funding the project, not with a tax, but
+by treating the blinds like a carbon dioxide sink and auctioning extra carbon
+dioxide credits for a global carbon dioxide market, since the shade allows us
+to be far less drastic in reducing growth of carbon dioxide emissions. If
+instead of a market we go with carbon taxes the project could be funded from
+those. $10 billion per year is much lower than even the most optimistic
+estimates (at 1% of world GDP about $500 billion per year) of the costs of
+reducing carbon dioxide emissions. Furthermore, there are a variety of other
+markets for large-scale industry that can be exploited once the basic ice
+mining infrastructure is developed: space tourism and making manned missions
+and other transportation around the solar system vastly less expensive, for
+starters, as well as providing propellant, tankage, and industrial raw
+materials in earth orbits. As I stated in 1994:  
+
+> If the output of the icemaking equipment is high, even 10% of the original
+mass [returned to earth orbit by rockets using water propellant extracted from
+the comet ice] can be orders of magnitude cheaper than launching stuff from
+Earth. This allows bootstrapping: the cheap ice can be used to propel more
+equipment out to the comets, which can return more ice to Earth orbit, etc.
+Today the cost of propellant in Clarke [geosynchronous] orbit, the most
+important commercial orbit, is fifty thousand dollars per kilogram. The first
+native ice mission might reduce this to a hundred dollars, and to a few cents
+after two or three bootstrapping cycles.
+
+The savings for transporting materials to the earth-sun L1 point, instead of
+launching them from earth, are even larger.
+

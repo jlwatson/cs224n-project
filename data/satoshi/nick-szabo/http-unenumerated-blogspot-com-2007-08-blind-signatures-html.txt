@@ -1,0 +1,153 @@
+The following, from a larger article of mine, serves as an introduction to the
+idea of blind signatures and their use in digital cash and other digital
+bearer certificates:  
+
+> #### Introduction
+
+>
+
+> Meet the greatest simple equation since e=mc2:
+
+>  
+>  
+>     gSf(m) = S(m)
+
+>
+
+> S is a digital signature, f is the blinding function, and g an unblinding
+function. The blinding functions are usually based on a secret random number
+called the "blinding factor". m is another random number, a unique identifier
+which can, for example, refer to an instance of some object.  
+>  
+> The idea is very clever but very simple. It may be counterintuitive because
+the simplest physical world metaphor of this highly useful e-commerce
+primitive sounds worse than useless: Alice can get Carol to sign a blank
+check! Here's how:  
+>  
+> (1) Alice generates m and blinds it. "Blinding" is just a one-time-pad
+encryption to oneself, f(m). She sends this to Carol. This is like taking a
+piece of paper and sealing it inside an envelope which Carol can't open or see
+through.  
+>  
+> (2) Carol signs it: Sf(m), and sends this back to Alice. This is like Carol
+signing the outside of the envelope.  
+>  
+> (3) Alice unblinds it: gSf(m) = S(m). Carol has also signed the paper Alice
+put inside the envelope!  
+>  
+> The genius behind this discovery: cryptography guru David  
+> Chaum. The brilliance lies in step 3: Chaum discovered that  
+> some signatures have the property of being "commutative"  
+> with the blinding functions: Alice can strip off the blinding  
+> in the reverse order which the blinding and signature  
+> were applied, leaving just Alice's signature of n. It is as if  
+> Alice put a piece of carbon paper inside the envelope.  
+>  
+> In particular for RSA signatures, with public key (pq, e)  
+> and private key d, the blind signature functions are the following  
+> modulo pq:
+
+>  
+>  
+>     S(x) = xd  
+>     > g(x) = xk-1  
+>     > f(x)= xke
+
+>
+
+> We can check that the blind signature property holds:
+
+>  
+>  
+>     gSf(m) = (m(ke))d * k-1  
+>     >        = md * k * k-1  
+>     > = md
+
+>
+
+> which is the valid RSA signature of private key d on m.  
+>
+
+>
+
+> #### Unlinkable Transfers
+
+>
+
+> Distinguish between either a counter or third party tracing one person's
+true name, via lack of or weak communications mix, and a third party linking
+two entities (whether nyms, use-more-than-once-addresses, account numbers, or
+true names) as being involved in the same transaction. By unlinkability herein
+we mean the latter. The goal where true names are used (this occurs, for
+example, when using true name accounts or not using good communications
+mixes), is to prevent third party linking of two people doing business with
+each other. Where nyms are used the goal is to minimize the release of traffic
+information, to prevent the unwanted accumulation of unique behavior patterns,
+which could be used to link nyms (including to their true names), or could
+augment other means of breaching privacy. Blinding especially helps where
+rights holders want to keep third party or public accounts denominated in
+generic rights. In that case a communications mix doesn't even in principle
+give us what blinding does.  
+>  
+> Besides protecting against the transfer agent, Chaum's transferor-,
+transferee-, and double-blinding protocols protect against collusion of a
+party with a transfer agent to identify the countparty account or nym.  
+>  
+> Unlinkability can be provided by combining a list of cleared certificates
+with blind signatures and a delay-mixing effect. Enough instances of a
+standardized contract [or specifically with digital cash, standard
+denominations of money] are issued over a period of time to create a mix.
+Between the issuing and clearing of a certificate, many other certificates
+with the same signature will be cleared, making it highly improbable that a
+particular clearing can be linked to a particular issue via the signature.
+There is a tradeoff between the mixing effect and the exposure to the theft of
+a "plate" for a particular issue: the smaller the issue, the smaller the
+exposure but the greater the linkability; a larger issue has both greater
+exposure and greater confidentiality.  
+>  
+> Blind signatures can be used to make certificate transfers unlinkable via
+serial number. Privacy from the transfer agent can take the form of
+transferee- unlinkability, transferor-unlinkability, or "double blinded" where
+both transferor and transferee are unlinkable by the transfer agent or a
+collusion of a transfer agent and counterparty.  
+>  
+> A use-once-address communications mix plus foreswearing any reputation gain
+from keeping accounts, in theory also buys us unlinkability, but a
+communications mix is weak and very expensive.  
+>  
+> Bearer certificates come in an "online" variety, cleared during every
+transfer, and thus both verifiable and observable, and an "offline" variety,
+which can be transferred without being cleared, but is only verifiable when
+finally cleared, by revealing any the clearing name of any intermediate holder
+who transferred the object multiple times (a breach of contract).  
+>  
+> This unlinkability is often called "anonymity", but the issue of whether
+accounts are issued to real names or pseudonyms, and whether transferor and
+transferee identify themselves to each other, is orthogonal to unlinkability
+by the transfer agent in the online model. In the off-line model, account
+identification (or at least a highly reputable and/or secured pseudonym) is
+required: passing an offline certificate a second time reveals this identity.
+Furthermore, communications channels can allow Eve to link transferor and
+transferee, unless they take the precaution of using an anonymous remailer.
+Online clearing does make lack of identification a reasonable option for many
+kinds of transactions, although common credit and warrantee situations often
+benefit from or even require identification.  
+>  
+> When confronting an attempted clearing of a cleared serial number, we face
+an error-or-fraud dilemma similar to the one we encountered above in double
+entry bookkeeping. The ecash(tm) protocol from DigiCash actually takes
+advantage of on purpose to recover from a network failure. When certificates
+are lost over the net it is not clear to the transferor whether they have been
+received and cleared by the transferee or not. Second-transferring directly
+with the transfer agent resolves the ambiguity. This only works with the
+online protocol. The issue of distinguishing error from fraud is urgent in the
+offline protocol, but there is as yet no highly satisfactory solution. This
+problem is often intractable due to the subjectivity of intent.  
+>  
+> With ideal two-way anonymous communications between use-once keys, and
+completely accountless clearing, unlinkability via blind signatures becomes
+redundant. This ideal case has yet to be even closely approached with
+implemented technology, and necessarily involves long communications delays
+which are often intolerable. Real imperfect communications mixes and less
+expensive blinded tokens complement each other.
+

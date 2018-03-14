@@ -1,0 +1,29 @@
+What do antiques, time, and gold have in common? They are costly, due either
+to their original cost or the improbability of their history, and it is
+difficult to spoof this costliness. For example, it is usually difficult to
+spend an extra hour at the office without sacrificing about an hour of your
+personal life.  
+  
+Unforgeable costliness is a pattern that recurs in many human institutions and
+is fundamental to civilization. Modern employment is based on the time-rate
+wage. Our monetary system is based on money being made unforgeably costly
+either through collectibles, commodity standards, or (in modern fiat
+currencies) accounting.  
+  
+The unforgeable costliness pattern includes the following basic steps:  
+  
+(1) find or create a class of objects that is highly improbable, takes much
+effort to make, or both, and such that the measure of their costliness can be
+verified by other parties.  
+  
+(2) use the objects to enable a protocol or institution to cross trust
+boundaries  
+  
+There are some problems involved with implementing unforgeable costliness on a
+computer. If such problems can be overcome, we can achieve bit gold. This
+would be the first online currency based on highly distributed trust and
+unforgeable costliness rather than trust in a single entity and traditional
+accounting controls. Hal Finney has implemented a variant of bit gold based on
+a tamper-evident computer plug-in card, for which remote users can verify what
+code is running on the card.
+

@@ -1,0 +1,88 @@
+The current debate over statutory restrictions on the uses of the writ of
+habeas corpus should lead us to re-examine the foundations and context of that
+prerogative writ. The only explicit mention of it in the U.S. Constitution is
+in Art. I Sec. 9, as one of the restrictions on the powers of Congress:  
+  
+
+> "The Privilege of the Writ of Habeas Corpus shall not be suspended, unless
+when in Cases of Rebellion or Invasion the public Safety may require it."  
+>
+
+From this language we may reasonable conclude two important principles:  
+
+  1. Habeas corpus may only be suspended by an act of Congress (which raises the question of what is to be done if Congress and the courts cannot convene).
+  2. Habeas corpus is presumed to be a right that precedes the Constitution and is incorporated by it, by restriction on when it may be suspended.  
+
+But if the writ of habeas corpus precedes the Constitution and is incorporated
+into it, does that make it one of the unenumerated rights of the Ninth
+Amendment, and if so, what about the other prerogative writs that have a
+similar status in common law, such as quo warranto, mandamus, prohibito,
+procedendo, and certiorari? We don't hear much about these in current
+jurisprudence, except the last, in discretionary appeals.  
+  
+I have argued in a paper in progress, "Presumption of Nonauthority and
+Unenumerated Rights", at http://www.constitution.org/9ll/schol/pnur.htm , that
+all of those writs, and more, are indeed among the unenumerated rights of the
+Ninth Amendment, and that, contrary to current doctrine, these are not
+creatures of statute but fundamental rights that may not be constitutionally
+burdened. For evidence of this we can find among the proposed amendments from
+the New York ratifying convention not just a declaration of the writs as
+rights, but of a right to petition for the rights "in the name of the people",
+that is, as private attorneys general. That we have the rights was taken for
+granted. Only the standing of any person to petition for them was thought
+necessary to be asserted in an amendment.  
+  
+Habeas corpus can be considered a subset of quo warranto. The former demands
+an official prove his authority to detain a person, but the latter demands an
+official, including a private official, prove his authority to do anything he
+may be doing or threatening to do, including holding an office. The former
+requires the official to produce the detainee in court. The latter requires
+him to suspend his activity until proof is made.  
+  
+Was there ever a time, following the Declaration of Independence, which made
+the people the sovereign, when any individual could go to court with a
+petition for a writ of quo warranto and get an official activity suspended
+until that official proved his authority? Yes, there was, in the early
+republic, but so seriously did officials take the threat of such a writ that
+they took great care not to exceed their authority, so that the remedy almost
+never had to be carried forward, or precedents established. It should come as
+no surprise that officials don't like the right and have done almost
+everything they can to deny or deprecate it or make people forget about it.  
+  
+Perhaps it's time to change that.  
+  
+Most law schools don't teach much about the prerogative writs, not even habeas
+corpus. It should come as no surprise that many lawyers and judges are unclear
+on the concept or how it is supposed to work, if we followed the original
+standard of due oprocess. Too many judges treat a petition as an ex parte
+motion to show cause, with the burden on the petitioner. It is not. The writ
+is not an order from the court to produce the prisoner and the proof. The
+petition itself is the order to do that, much like a citation in a civil case,
+to respond to the filed petition. the writ is the finding by the court of
+whether the official has the authority, ordering release of the prisoner if he
+does not.  
+  
+The only statutory component of habeas corpus, or the other writs, was a
+prescription of how much time the official has to comply. Originally, that
+ranged from three to twenty days, depending on the distance of the official
+from the court.  
+  
+The question may arise, what happens if the court fails or refuses to hold a
+hearing, or accepts the authority of the official without the proof? This
+question is critical to an understanding of the role of courts in the Anglo-
+American legal tradition. The answer, by original standards of due process, is
+that the writ issues by default if the respondant fails to respond, or even if
+the court fails to hold a hearing. If the judge accepts the official's claim
+of authority without proof, then by those ancient standards, the judge himself
+may be removed from his position by a writ of quo warranto. In 18th century
+England this became a serious matter, and "peasants with torches and
+pitchforks" burning down courthouses and hanging judges was something that
+actually happened. If courts were derelict the people, as militia, took the
+law into their own hands, enforcing writs that by common understanding issued
+by default. But that process was not always so "due", and the line between
+militia enforcing the law and an enraged mob was often crossed.  
+  
+We now live in an era of increasing tension between the judiciary and the
+public. This is a matter that deserves our constructive attention, or history
+could repeat itself.
+

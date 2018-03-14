@@ -1,0 +1,35 @@
+The famous (among patent attorneys) U.S. claim construction case _Phillips v.
+AWH_ may get even bigger if the Supreme Court decides to hear AWH's appeal.
+AWH wants the Court to address the question of whether the Federal Circuit's
+review of claim interpretations on appeal should be done from scratch, which
+is the Federal Circuit's view, or with some degree of deference to the lower
+court's interpretation. The Federal Circuit has been notorious for overturning
+over half of lower court interpretations of claims language. This seems to
+imply a rather large degree of randomness in the way claims are interpreted.
+My opinion is that this high uncertainty may be a consequence of the inherent
+difficulty of defining claims to chunks of technology "space". If that's the
+case, deferring to the lower court would not make this uncertainty go away, it
+would simply hide it, giving to our patent laws a false sense of integrity.
+Deference would at least make our arbitrary patent decisions more efficient.
+Here are links to the briefs in front of the Court. Harold Wegner says to
+expect the Court's decision on whether it will hear the case on February 21st.  
+  
+Meanwhile, the Enlarged Board of Appeal of the European Patent Office has
+decided an issue of law similar to that in the U.S. _Metabolite_ case which is
+now in front of our Supreme Court. The EPOs' decision will allow drafters of
+European patents to use, to some extent, the technique of gratuitous elements
+in order to get around the ban European Patent Convention Article 52(4) places
+on patents for "diagnostic methods practiced on the human or animal body[.]"
+European law also bans software patents, if you are foolish enough to believe
+the plain language of the statute.  
+  
+Today the Wall Street Journal has a good article on _RIM v. NTP_ , where the
+U.S. Federal Circuit decided that a network system that would infringe a U.S.
+patent if entirely within the United States would also infringe a patent if
+one (at least) of the claim elements was located outside the United States but
+the users and thus the locus of control (so reasoned the court) were located
+within the United States. However, for a similar method claim, all the steps
+of the procedure had to be performed within the United States in order for the
+procedure to infringe the method claim. The WSJ's article is available today
+online.
+

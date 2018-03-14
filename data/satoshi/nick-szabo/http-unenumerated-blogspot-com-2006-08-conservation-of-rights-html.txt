@@ -1,0 +1,70 @@
+Under the first sale rule, a patented or copyrighted work can be resold
+without the permission of the patent or copyright holder. For example, if you
+buy a book you can give it away or resell it without getting permission from
+the publisher, even if the book contains a copyright notice that purports to
+forbid this. Similarly, if you buy a patented widget, you can generally resell
+it without the permission or against the objections of the patent owner. The
+first sale is said to exhaust the rights of the patent holder over that
+object.  
+  
+The Federal Circuit court in the United States has held that for patents the
+first sale rule does not apply to copies, including seeds based on purchase of
+the parent seed:  
+  
+
+> The fact that a patented technology can replicate itself does not give a
+purchaser the right to use replicated copies of the technology. Applying the
+first sale doctrine to subsequent generations of self-replicating technology
+would eviscerate the rights of the patent holder.
+
+Furthermore, the Federal Circuit held that the farmer had no implied license
+to use the daughter seeds, because Monsanto's license to the wholesaler
+restricted this use and "a seller cannot confer broader rights via an implied
+license than it has been granted by the patent holder."  
+  
+This latter is based on a general principle of the common law of property: you
+can't grant more than you own. There is an interesting exception to this
+principle for financial property (negotiable instruments).  
+  
+The idea at work here might be called a conservation of property rights: you
+can't sell what you don't own and you can't take back what you have sold. It
+is a sensible principle that greatly simplifies the legal relationships we
+have with each other. However, this case, and some other recent cases
+providing for exceptions to the first sale rule, seems to give rise to a new
+and odd violation of rights conservation. A patent owner can lose its rights
+over an object, but later they can re-appear again. Here, the patent owner
+Monsanto lost its residual rights of control over the seeds when it sold them,
+via the first sale doctrine. But then, when the farmer grew the seeds and
+planted the daughter seeds, the patent owner's rights suddently re-appeared.  
+  
+For the case of seeds, this paradox can be resolved by treating the daughter
+seeds as separate objects from the parent seeds. Under this view, what the
+farmer was doing was the equivalent of manufacturing new widgets rather than
+simply repairing the same widget (which would not require the patent owner's
+permission under U.S. law).  
+  
+A more disturbing violation of rights conservation occurs in the issue of
+national versus international first sale exhaustion. Many countries have a
+simple rule: the first sale of an object by a patent owner anywhere in the
+world exhausts that owner's patents covering the object in that country. This
+was also the view in the majority of federal circuit courts in the U.S. before
+creation of the Federal Circuit and its monopoly over patent law.  
+  
+  
+Earlier this year the Federal Ciruit in the Jazz Photo took a different view.
+Now if you buy, for example, a widget in Japan, paying royalties to the
+Japanese patent owner in Japan, and then export the widget to the U.S., you
+still need permission of the U.S. patent owner (usually the very same person
+with the same kinds of patent claims as the Japanse patent owner). The patent
+owner's rights over that object disappear upon first sale in Japan but
+magically re-appear when the object crosses the border into the U.S. This can
+only be reconciled with conservation of rights by the idea that that the
+Japanese patent is a different property right than the United States patent,
+even though they are owned by the same person and protect the same invention.
+It is as if you drove your car from Virginia to Maryland and the dealer you
+bought it from came along and repossessed it, because your Virginia title did
+not give you Maryland title. That would be a very strange and unfortunate
+world. It is far simpler, and makes for much more secure property rights, to
+treat property rights as universally conserved even though they are titled by
+a local authority.
+

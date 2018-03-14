@@ -1,0 +1,14 @@
+One thing I've notice as smart contracts have been evolving (rather
+obliviously to the idea of smart contracts) is that they are being implemented
+in little pieces. For example, instead of the full-blown protocol I describe
+in that article, wherein the ability of one's car to start is automatically
+tied to the lateness of one's payments, the "auto repo auto" has been
+implemented as a somewhat simpler gizmo that responds to radio signals from a
+trusted (and legally regulated) party: a "starter-interrupt device." Instead
+of a full-blown market translator, we get simple gizmos like this price-
+sensitive thermostat. Both the market translator and the price-sensitive
+thermostat reduce mental transaction costs by obtaining consumer preferences
+and translating them into purchasing decisions. The price-sensitive thermostat
+has the advantage that people already enter their preferences into
+thermostats, so there is already a digital source of preferences.
+

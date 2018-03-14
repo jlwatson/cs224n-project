@@ -1,0 +1,159 @@
+A recent discussion has inspired me to articulate my own design for better
+government, long simmering in the back of my head and in various scribbles. My
+focus is on the "action end" of government where disputes are resolved and
+laws enforced, namely what in modern democratic systems we call the judicial
+and executive branches. Indeed except for the Articles of Incorporation, which
+is the constitution of Juristopia, its laws evolve mostly by the common law
+method of precedent. Subsidiary organizations are free to pass bylaws if they
+wish, as long as they do not contravene Juristopia's own Articles of
+Incorporation or disobey an Order of the Extraordinary Court. There is very
+narrow legislative role for the Board of Franchisors which will be stated
+below. The main democratic element is juries, which play an important role in
+limiting the exercise of governmental powers.  
+  
+To simplify discussions of political power and rebellion, let's posit a system
+of magic Rings of Power, a la Tolkien. However, there is no master One Ring.
+(Tolkien surely had the correct answer for such a totalitarian power: it must
+be destroyed at all costs). Instead these are Rings of Discontempt that
+operate as follows:  
+  
+(1) There are N Rings, where N is odd, say 9. Any Ring in the possession of an
+individual who possesses another Ring has no power (that includes the first
+Ring possessed -- the second renders the first impotent -- so that there is a
+strong disincentive to accumulate Rings).  
+  
+(2) To operate the ring, a quorum of holders of the Rings, called the Court of
+Extraordinary Justices, touch their Rings together and prouounce the unique
+name of an individual to be punished for Contempt of Court, and pronounce a
+punishment.  
+  
+(3) The quorum of joined Rings can administer the following magical
+punishments to the named person at any range:  
+(a) imprisonment in a magical jail for any specified number of time, requiring
+the aid of no human jailers  
+(b) instant and painless death  
+  
+(4) The Rings confer on their wearers complete invulnerability to any kind of
+violence.  
+  
+There is no other magic of any sort in Juristopia.  
+  
+Like the Catholic College of Cardinals, the Extraordinary Justices choose
+their own successors. Board of Franchsisor members also choose their own
+successors, but have no Rings. Combined with the magical Rings, self-
+succession allows the Extraordinary Court to avoid the two main sources of
+political bias and pressure from other branches of government they now face:
+from their initial appointments by other branches, and by the ultimate ability
+of an executive branch to ignore a court order that it despises. An executive
+officer who refuses to execute a Court order is punished with Contempt of
+Court; the Rings insure that no rebellion against such punishment is possible.  
+  
+The Articles of Incorporation state that the Court of Extraordinary Justices
+exercises only a very narrow jurisdiction, called the Extraordinary
+Jurisdiction. All Ordinary Jurisdiction, and all armed forces and police
+powers besides the Rings, are auctioned off to the highest bidder as
+franchises.  
+Franchises are property rights to exercise certain narrowly defined
+governmental powers, subject to limitations on the monopolistic fees or taxes
+they may charge, determined by juries selected by lottery from the feepayers
+or taxpayers.  
+  
+A number of general kinds of franchises are specified by the Articles: public
+nuisance suppression, fraud suppression, armed forces, police forces, and
+common law courts are the five main categories of franchises, but there is a
+vast variety of possible jurisdictional "boundaries" for franchises within
+each category, and ownership of franchises may be bundled within or across
+boundaries in a dizzying variety of ways. The franchise market can thus
+assemble bundles that best persuade juries of feepayers to maximize fees. Each
+franchise collects its own monopoly fees from all persons within its
+territory; no franchise may charge fees that are more than what a jury
+considers "reasonable", including a reasonable profit. The general franchises
+stated in the Articles can be subdivided and narrowed, but not expanded, by
+the Board of Franchisors, which can pass bylaws that specify the subject
+matter and personal jurisdiction and territorial boundaries of each franchise.
+Some franchises are executive (similar to government agencies), and some are
+judicial (courts). The Board, like the Court, selects its own successors.  
+  
+The Articles of Incorporation state that Juristopia Corporation itself does
+not have shareholders and may not earn a profit. Its only officers are members
+of the Board and Court, and the salaries of these are limited to salaries
+deemed "reasonable" by juries chosen by lottery from among Juristopia'
+taxpayers, as are its overall budget and the fees (taxes) it may charge within
+the territory of Juristopia. Its officers and employees may legally only
+engage in the business of Extraordinary Jurisdiction (Court) and writing
+initial franchise deeds (Board) -- they are are forbidden from engaging in
+ordinary business or Ordinary Jurisdiction.  
+  
+All Justices and Board members must be eunuchs (if male) or artificially or
+naturally postmenstrual and sterile (if female), may own no amount or kind of
+property that a jury deems "unreasonable", must dispose of any properties that
+will create an imminent conflict of interest, and must recuse themselves from
+any legislation or cases that create a conflict of interest. They may not
+reproduce themselves in any fashion. The purpose of all this is to minimize
+potential biases, conflicts of interests, and motivations to use the Rings to
+expand power. (A digital protocol would be ideal if human judgment were not
+required to render verdicts and define new franchises).  
+  
+The Articles state that all the jurisdictions and armed powers shall be
+auctioned off to the highest bidder as franchises. There would, for example,
+be Army, Navy, and Air Forces franchises empowered to charge a reasonable fee
+to the entire island for their services. There would be some public nuisance
+suppression franchises: for example there could be an air pollution franchise,
+allowing the franchise owner to regulate all pollution in Juristopia, similar
+to the U.S. EPA today. These franchises might be further unbundled into the
+particulates franchise, the sulfur dioxide franchise, the carbon dioxide
+franchise, etc. -- or alternatively the car tailpipe franchise, the electric
+plant emissions franchise, etc. These franchises would be allowed to auction
+off tradeable emission rights, or altenatively to charge emission fees. To the
+extent franchises are monopolies, or coercive, or both, the fees they can
+charge are limited to what are "reasonable" fees as determined by juries.  
+  
+The Articles restrict the Extraordinary Court's jurisdiction to appeals in
+certain narrow (extraordinary) areas: choice of law and forum clauses, cases
+involving the property rights of franchises, and cases involving violations of
+a Bill of Rights, which would also be part of of the Articles. The Bill of
+Rights states a number of individual procedural rights, such as right to trial
+by juries, the right of juries chosen by a lottery of taxpayers to decide
+whether any taxes or franchise fees are reasonable, limits on search, seizure,
+and arrest, and so on that must be respected by any entity exercising a
+judicial or police power.  
+  
+All Ordinary Jurisdictions are auctioned off to the highest bidder and can be
+freely traded. Among the Articles of Incorporation would be a strong
+requirement that Choice of Forum and Choice of Law clauses in contracts be
+enforced in a way much broader than current U.S. practice (e.g. allowing all
+torts of any kind between the two parties to be included in the scope of
+choice, overriding any franchise jurisdictions).  
+  
+In the expanded form I propose, these will allow pairs of persons (individual
+or corporate) to opt out of the franchise that would otherwise have
+jurisdiction over future cases between them. This introduces a substantial
+degree of competition between franchises, and one might be able to assemble an
+AC-style system of insurance/protection companies from such clauses.  
+  
+Under the Articles there are no Chief Justices, Presidents, or other lead
+executive officers that have special constitutional powers. Any Commander-in-
+Chief of the Armed Forces is optional and would be chosen by the various armed
+frachises themselves, as they may agree. The Court and Board are free to elect
+nominal leaders for administrative purposes if they wish.  
+  
+The biggest open problem in Juristopia is how to stop the Extraordinary Court
+from cleverly interpreting the Articles of Incorporation to usurp the Ordinary
+Jurisdictions that properly belong to the franchises. Or from just using its
+control of the Rings to blatantly violate the Articles and enforce martial law
+and slavery for its own grand benefit and everbody else's pauperization, once
+enough people have settled on the island with high exit costs. A possible
+solution might include giving Extraordinary Juries, selected by lottery for
+each decision, their own set of Contempt of Jury Rings to enforce jury
+restrictions on the Court and Board.  
+javascript:void(0)  
+Publish Post  
+I have also neglected powers to make and enforce treaties with other
+governments. Since such treaties typical assume external sovereignty, the very
+low degree of internal sovereignty in Juristopia, which is otherwise a very
+good feature, may pose an interesting problem for treaties.  
+  
+(N.B.: I crudely described a previous version of Juristopia here).  
+  
+UPDATE: spelling change.
+

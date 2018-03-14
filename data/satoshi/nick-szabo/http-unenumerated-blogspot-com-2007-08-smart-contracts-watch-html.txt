@@ -1,0 +1,98 @@
+Cell phones can be used to monitor and pay for parking. This system and this
+one are pretty clumsy in terms of all the gratuitous user input required, but
+as has occurred with prepaid cell phones I expect this to become quite a bit
+more user-friendly in the future. It will be very nice to be able to top up
+the parking meter without having to return to the car.  
+  
+As usual remember that any information recorded (here, where and when you
+park) "can and will be used against you." For example it can generally be
+subpoenad for use in court, as also occurs with credit card records, phone
+records, and automated toll systems. My old boss David Chaum, his student
+Stefan Brands, and others in the advanced cryptography community have designed
+many protocols that would preserve privacy in these scenarios, but the
+deployers of these technologies are usually not terribly interested in your
+privacy. Your recourse -- keep using physical cash, and take the trouble to go
+back to your car to check and stuff your parking meter.  
+  
+In my original writing on smart contracts I talked about trading derivatives
+and constructing synthetic assets with low transaction costs:  
+
+> Very complex term structures for payments (ie, what payments get made when,
+the rate of interest, etc.) can now be built into standardized contracts and
+traded with low transaction costs, due to computerized analysis of these
+complex term structures. Synthetic assets allow us to arbitrage the different
+term structures desired by different customers, and they allow us to construct
+contracts that mimic other contracts, minus certain liabilities. As an example
+of the latter, synthetic assets have been constructed that mimic the returns
+of stocks in German companies, without requiring payment of the tax foreigners
+must pay to the German government for capital gains in German stocks.
+
+A bit later I figured out that the primary barrier to such activity is mental
+transaction costs. These costs throw a monkey wrench into what is otherwise
+the very good idea of consumer derivatives. One can imagine a wide variety of
+consumer derivatives, such as buying insurance against air fare changes and
+the growing business of selling sports tickets based on personal seat licenses
+(PSLs). I have sketched some possible solutions to the mental transaction
+problem, such as the market translator. The main problem is designing an
+automated agent that can figure out user preferences without bothering the
+user -- usually by recording and analyzing the user's normal behavior. If this
+can be fully automated the bottom drops out, so to speak, and even nanobarter
+becomes possible.  
+  
+Smart contracts, based on digital property, open up a vast new space of
+possibilities. Many of the digital machines you own can obtain good
+information about your usage and their own status, from which they could at
+least crudely estimate what you want to buy. Take parking, for example. A
+suitably smart car and parking meter system should be able to figure out where
+you want to park and how much you want to pay for it, with minimal user
+intervention. I'm not talking anything like "AI" here, just computerized cars
+and parking meters that have sufficient sensors, can communicate with each
+other, and use known algorithms. As you are driving down the street, you tell
+your car that you want to find a parking place. The price of open parking
+spots ahead starts popping up on your dashboard. You choose and agree to pay
+the fee by simply parking in the spot.  
+  
+Along with this future urban lifesaver, parking spot derivatives would be very
+useful. For the same reasons as stadium owners sell PSLs -- to receive revenue
+up-front to help pay the cost of building the infrastructure -- owners of
+parking spaces could sell parking space licenses (PSL again, oops :-). The
+owner of the PSL, in turn -- or said owner's car acting as his agent -- could
+sell the hours or minutes that the car is not using. You could buy a PSL and
+thereby reserve that sweet spot right next to your downtown office for the
+year. Then sell off the parking rights for the weekends. You could reserve a
+spot next the your favorite club and sell off all the times except Thursday
+through Saturday night. And if you are away from the office or staying in for
+the evening, your car's market translator can price and offer the space and it
+will become open and start popping up on driver's dashboards.  
+  
+This kind of thing is just the tip of the iceberg as far as the potential of
+smart contracts is concerned.  
+  
+Finally I will report on a digital cash system from no less than our frequent
+commentor Daniel Nagy. Nagy makes the following observation:  
+
+> While everyone with a cellular or a touch-tone telephone, a web-browser or
+email client in its readily available, out-of-box configuration is able to
+transmit short messages (up to a few hundred bits), performing complex
+calculations involving strong asymmetric cryptography requires additional
+tools which not everyone possesses or can afford to run. The fact that it is
+impossible to transact without performing complex calculations in real time is
+a far more serious obstacle than the need to contact the issuer for each
+transaction.
+
+This is an interesting approach, but I suspect may be correct only in the
+limited sense that these devices and software don't come built-in with the
+particular cryptographic protocols needed for strongly private cash (e.g.
+Chaumian blinding). But they don't come built-in with digital cash software
+either. Thus, the main advantage of Nagy's scheme, which may or may not make
+up for its reduced privacy features, comes from the ability to use it without
+having to install any extra software at all -- to just, for example, cut and
+paste the cash from an e-mail where you received it from one person to an
+e-mail where you pay it to another. Your word processor can be your wallet. If
+this is an important use-case, then Nagian cash may succeed where Chaumian
+cash failed.  
+  
+Another payment system of note is WebMoney, which recently started up a gold-
+backed currency, a competitor to the troubled e-gold. (HT: Financial
+Cryptography)
+

@@ -1,0 +1,16 @@
+Here's a good summary of the Cuthbert case in which playing around in the
+United Kingdom with URLs (e.g. adding "../.." in front of them) landed a web
+user in prison. The conviction was probably based at least as much on what
+Cuthbert said he was trying to do by typing this (testing the security to
+determine whether the site was a phishing site or a genuine one -- a good but
+illegal intent) as on what he actually typed.  
+  
+Poorly written statutes like these produce all sorts of bad effects and
+injustices. What does it mean for a computer access to be "unauthorized"? For
+a cybercrime convinction to be just, there should at least be notice
+(analogous to a "no trespassing sign") and cautionary affordance (analogous to
+a door or a fence that one cannot cross by accident). Stay tuned for more
+comments on this here in the next week or so.  
+  
+Ian Grigg and Adam Shostack also have some interesting comments on this case.
+

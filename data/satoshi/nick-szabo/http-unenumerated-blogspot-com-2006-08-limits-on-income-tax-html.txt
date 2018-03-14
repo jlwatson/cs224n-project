@@ -1,0 +1,45 @@
+The D.C. Circuit held today that the definition of "income" in the Sixteenth
+Amendment does not include "damages received solely in compensation for a
+personal injury." More generally, a "restoration of capital" is not income,
+nor is “a substitute for [a] normally untaxed personal ... quality, good, or
+‘asset’." If it's not income, and it's not taxable elsewhere in the
+Constitution (which severely limits the federal power to tax), then the
+federal government may not tax it, regardless of what Congress or the IRS say.  
+  
+Because of the "sanctity of property" (what a refreshing phrase to read in a
+federal court case!), the court says it cannot defer to Congress to define
+what constitutes "income" and thus what is taxable under the Sixteenth
+Amendment. Thus, even though the Internal Revenue Code excludes from the
+income tax only compensation “received ... on account of personal physical
+injuries," compensation for emotional and reputational injuries is not
+"income," therefore not taxable. A good application, I'd say, of charter-based
+law and the principle of least authority (more commonly known in this context
+as the principle of enumerated powers, as opposed to the scheme of
+unenumerated rights per the Ninth amendment).  
+  
+One interesting objection that may be raised by the IRS on appeal is that even
+if "restoration of capital" and compensatiion for "normally untaxed
+personal...asset[s]" are not taxable under the Sixteenth Amendment, they may
+under some circumstances (including non-physical personal injuries) be taxable
+under the original Constitutional grant of the power to tax to Congress. This
+gets us into the old argument over proportionment, direct taxation and the
+income tax that was current during the years before the enactment of the
+Sixteenth.  
+  
+The grant of tax power to Congress under Article I severely limits direct
+taxes: "direct Taxes shall be apportioned among the several States which may
+be included within this Union, according to their respective Numbers." (A. 1,
+S. 2, C. 3). This language would have to be quite severely twisted (as it
+unfortunately was in some late nineteenth century cases, though not this far)
+to fit in a direct tax on compensation, since such a tax is not apportioned
+among the states according to their population, but rather is apportioned
+according to the amount of the compensation. That's why they passed the
+Sixteenth Amendment in the first place: because the Court back then would not
+stretch the language far enough to include a general income tax. The principle
+of least authority, via the Ninth and Tenth Amendments, strongly urges judges
+who read the Constitution thoughtfully to not interpret the necessarily
+concise language of the enumerated powers to include more power than ratifiers
+intended to grant.  
+  
+The opinion was written by Douglas Ginsburg, one of my favorite judges.
+

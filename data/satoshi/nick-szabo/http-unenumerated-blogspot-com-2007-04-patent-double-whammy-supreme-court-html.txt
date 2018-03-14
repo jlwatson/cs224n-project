@@ -1,0 +1,151 @@
+Today was the probably biggest day in patent law since the passage of the 1952
+Patent Act. By a unanimous (9-0) vote, the U.S. Supreme Court overruled
+decades of Federal Circuit holdings in the most controversial area of patent
+law, obviousness. And by a 7-1 vote, it ringingly re-affirmed the doctrine
+that U.S. legal language should be construed to not encroach on foreign
+jurisdictions unless it expressly does so -- implicitly criticizing the
+Federal Circuit's failure to respect foreign patent jurisdictions and
+reversing it outright in the area of software export.  
+  
+You'd think that engineers, who make the vast majority of inventions, would be
+the most enthusiastic supporters of our patent system. But most engineers find
+our patent system problematic, and by far their greatest objection is the
+plague of trivial patents. This is largely governed by the statutory language
+forbidding "obvious" patents. This is a notoriously ambiguous word that gives
+rise to a notoriously subjective area of law. In an effort to provide clarity,
+the Federal Circuit in recent decades went beyond old Supreme Court precedent
+and set up a requirement that the patent challenger must show a "teaching,
+motivation, or suggestion" in the prior art to combine the patent claim's
+elements in order to show that a patent claim was obvious. It was not enough
+that common sense or the vast majority of engineers in the field found the
+patent to be trivial. The Federal Circuit's doctrine thus gave rise to a a
+flood of trival patents in exchange for achieving some objectivity and
+clarity. Today in _KSR v. Teleflex_ , the Court rejected this tradeoff and
+argued that subjectivity ("common sense") should also be used to find patents
+obvious -- that the Federal Circuit's "teaching, suggestion, or motivation"
+requirement was far too strict. Instead, the Court held that common sense
+arguments could be made.  
+  
+The Court also specifically held in _KSR_ that instead of just looking at
+obviousness in the context of the problem the problem the patentee was trying
+to solve, "any need or problem known in the field or endeavor at the time of
+invention and addressed by the patent can provide a reason for combining the
+elements in the manner claimed." This provides a much needed expansion of the
+power to prove a patent obvious without decreasing the clarity or objectivity
+of the test. Along the same lines, the relevant prior art need not solve the
+same kind of problem -- the obviousness analysis should include elements from
+prior art even where that art solved different problems from those addressed
+by the current patent. Whether the changes to the prior art produce result
+that could be predicted by your typical engineer in the field (in patent
+parlance, a "person of ordinary skill in the art" or POSITA) is also strongly
+relevant -- if the function that results from changing or combining elements
+from the prior art is predictable by our POSITA, given what is already known
+about how those elements work individually, the claimed change to or
+combination of those elements is probably obvious. Unlike the "common sense"
+approach, the any-purpose and predictable-function tests are quite objective
+and clear, and I hope the Federal Circuit strongly and fully adheres to them
+in future obviousness cases.  
+  
+I'm proud to observe that two of the professors whose patent classes I enjoyed
+the most, Professor Robert Brauneis and Professor John Duffy, helped KSR make
+its case for a broader and stronger obviousness standard that should become
+one of the strongest precedents ever set in U.S. patent law.  
+  
+Also today in _Microsoft v. ATT_ , the Court came out very strongly for the
+doctrine that, unless there is express language in U.S. statutes covering
+extraterritorial acts, U.S. patent law should be construed to not cover them.
+Seven Justices came out strongly in favor of strict construction in this
+sense, with only one dissent. _Microsoft_ also holds that mere software
+instructions do not constitute "components" of patented products: only their
+specific physical instantiations do. The statutory language makes it an act of
+infringement to export "components" of patented products overseas that can be
+easily assembled into a product which if manufactured, sold, or used in the
+U.S. would infringe the U.S. patent.  
+  
+Microsoft Windows had already been held to violate AT&T;'s patent when copied,
+sold or used in the U.S. When Microsoft snail-mailed a master disk of Windows
+code overseas, and when it sent Windows code overseas over the Internet, the
+Federal Circuit held that these acts constituted exporting "component(s)" of
+Windows and thus was also an infringement. Seven Justices disagreed with the
+Federal Circuit but differed a bit on just what constitutes a "component".
+Justices Ginsburg, Kennedy, Scalia, and Souter argued that a specific copy of
+code instantiated on the specific disk to be installed in the target computer
+is a component. Justices Alito, Breyer and Thomas disagreed, opining that only
+software when running on a computer constituted a component -- even the code
+residing on the specific disk to be installed into a specific computer does
+not. Only, surprisingly, Justice Stevens dissented that the export of a master
+disk in this case in itself constituted exporting "the functional equivalent
+of a warehouse of components" and thus a "component" under the statutory
+language. I agree with Stevens that software is more analogous to a player
+piano roll than to the notes on a sheet of music to which the plurality
+compared it, although I disagree with his conclusion. In the case of a player
+piano roll and software the human mediated in their execution is trivial --
+simply starting up the machine so that the instructions can be copied from the
+roll or disk and executed on the machine, whereas the blueprints and sheets of
+music cited by the majority are human- but not machine-interpreted design
+documents.  
+  
+_A 19th century player piano ready to play the instructions on its paper
+roll._  
+  
+Stevens is right about the analogy, but he misses the point correctly
+emphasized by the majority -- that statutes are to be construed narrowly to
+avoid encroaching on extraterritorial jurisdiction. This doctrine argues
+strongly for not assuming that Congress meant "component" to include anything
+more than physical parts -- it does not include mere instructions even when
+those instructions can be automatically executed and constitute the practical
+entirety of the invention. The majority also pointed out an important policy
+consideration that Congress probably did not consider: that it might be
+impossible for the exporter of software to control subsequent overseas acts of
+copying and use that constitute infringement, and thereby problematic to hold
+said exporter liable for it, whereas in the case of physical parts the degree
+of infringement is strictly limited by the number of parts exported.  
+  
+The Court's ringing restatement of the doctrine that U.S. statutory law be
+construed to not encroach on extraterritorial jurisdictions could have
+implications in a number of areas such as the Federal Circuit's holding that
+foreign sales will not be recognized under the first sale exhaustion rule and
+cases where the patent's components, for example network nodes, reside in
+several countries, rather than in a single country. In _Jazz Photo_ the
+Federal Circuit held that it would act as if sales that occurred outside the
+U.S. simply didn't occur -- rather like holding that your purchase of a car in
+Canada cannot be recognized in the U.S., so that you have no right to complain
+if it is stolen. In the infamous Blackberry case, it held that, because one of
+the components of RIM's network and RIM's Blackberry wireless e-mail users
+were located in the U.S., RIM infringed the U.S. patent, even though most of
+the functionality that violated the patent was located at a relay station and
+server farm in Canada. The patent challenger in that case had the same option
+the Court said AT &T; had in this case -- to get a Canadian patent and protect
+its rights in Canada. Instead, it obtained only a U.S. patent and used that
+patent successfully in the Federal Circuit to attack foreign activities more
+properly addressed under Canadian jurisdiction. There are many other cases
+where the Federal Circuit has short-shrifted foreign patent jurisdiction and I
+hope today's ringing call to respect these jurisdictions will be heeded by the
+Federal Circuit and that it will thus revisit many of its relevant holdings.  
+  
+Chief Justice Roberts, a great fan of achieving unanimity in order to boost
+the authority of the Court, was able to create unanimity here in a barely
+disguised effort to teach the Federal Circuit that it, and not the Federal
+Circuit, is the Supreme Court in patent law as elsewhere. The Federal Circuit
+hears the vast majority of patent appeals and for decades it has acted as the
+_de facto_ supreme court of patents. In those rare cases where the real
+Supreme Court spoke on patents the Federal Circuit often construed its
+holdings quite narrowly and continued on much as before. Roberts' ability to
+create unanimity in _KSR_ and near unanimity in _Microsoft_ will hopefully go
+a long way towards persuading the Federal Circuit to more closely and fully
+follow Supreme Court precedents in the patent field.  
+  
+I'll probably have much more to say about these two landmark cases in the
+future.  
+  
+Here are the full opinions:  
+  
+ _KSR v. Teleflex_  
+ _Microsoft v. AT &T;_  
+  
+Here are some relevant old blog posts of mine:  
+  
+On _KSR v. Teleflex_  
+On the Blackberry transnational infringement case  
+On the first sale exhaustion rule
+

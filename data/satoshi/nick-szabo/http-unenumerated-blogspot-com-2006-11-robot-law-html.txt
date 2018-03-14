@@ -1,0 +1,162 @@
+To what extent can law be mechanized? This author, Mark Miller, Lawrence
+Lessig, and others have proposed that software code can provide a substitute,
+to a greater or lesser degree, for various kinds of legal rules, especially in
+new software-driven areas such as the Internet. Indeed software increasingly
+provides a _de facto_ set of law-like rules governing human interaction even
+when we don't intend such a result.  
+  
+This post proposes a framework for mechanical laws in physical spaces inspired
+by the traditional English common law of trespass (roughly what today is
+called in common law countries the "intentional torts," especially trespass
+and battery).  
+  
+Several decades ago, Isaac Asimov posited three laws to be programmed into
+robots:  
+  
+
+> 1\. A robot may not injure a human being, or, through inaction, allow a
+human being to come to harm.  
+>  
+> 2\. A robot must obey orders given it by human beings, except where such
+orders would conflict with the First Law, and  
+>  
+> 3\. A robot must protect its own existence as long as such protection does
+not conflict with the First or Second Law.
+
+I reject these as an approach for analyzing the mechanization of law because
+(i) they represent a law of robot servants towards human masters, which is
+quite different from my present goal of analyzing the mechanization of laws
+among equals (whether equal as fellow property or equal as fellow property
+owner), and (ii) they are hopelessly subjective and computationally
+intractible. How does a robot determine when a human has been "harmed"? Even
+if that problem was solved how does a robot predict when a human will come to
+harm, much less how to avoid their own actions causing such harm, much less
+what actions will lead to avoidance of that harm? While Asimov attempted to
+address some of these issues in various oversimplified scenarios in his
+stories, this is no substitute for the real-world experience of actual
+disputes and settlements, and the resulting precedents and the evolution of
+rules.  
+  
+Thus I propose to substitute for Asimov's Laws a framework which (1) is based
+on a real-world, highly evolved system of law that stressed concrete and
+objective rules rather than abstract, ambiguous, and subjective ethical
+precepts, (2) is "peer-to-peer" rather than "master-servant", and (3) is
+based, as much as possible, not on hypothetical human-like "artificial
+intelligence," but on a framework much of which can be tested with hardware
+and simple algorithms resembling those we possess today. Indeed, a prototype
+of this system can probably be developed using Lego(tm) robot kits, lasers,
+photosensors, sonar, video cameras, and other off-the-shelf hardware along
+with some custom computer programming using known algorithms.  
+  
+Using such a prototype framework I hope that we can test out new legal rules
+and political systems in contests without harming actual humans. I also hope
+that we can test the extent to which law can be mechanized and to which
+security technology can prevent or provide strong evidence for breaches of
+law.  
+  
+What about possible application to real-world security systems and human laws?
+In technical terms, I don't expect most of these mechanical laws to be applied
+in a robotic _per se_ fashion to humans, but rather mostly to provide better
+notice and gather better evidence, perhaps in the clearest cases creating a
+_prima facie_ case shifting the burden of lawsuit and/or the burden of proof
+to the person against whom clear evidence of law-breaking has been gathered.
+The system may also be used to prototype "smart treaties" governing weapons
+systems.  
+  
+The main anthropomorphic assumption we will make is the idea that our robots
+can be motivated by incentives, e.g. by the threat of loss of property or of
+personal damage or destruction. If this seems unrealistic, think of our robots
+as being agents of humans who after initially creating the robots are off-
+stage. Under contest rules the humans have an incentive to program their
+robots to avoid damage to themselves as well as to avoid monetary penalties
+against their human owners; thus we can effectively treat the robots as being
+guided (within the limits of flexibility and forethought of simple algorithms)
+by such incentives.  
+  
+The traditional trespasses are based on surfaces: a trespass on real property
+breaks a spatial boundary of that property, and a battery touches the skin or
+clothes or something closely attached to same (such as a tool grasped in the
+hand). Corresponding to such laws we have have developed a variety of security
+devices such as doors, locks, fences, etc. that provide notice of a surface
+and sometimes provide evidence that such a surface has been forceably crossed.
+The paradigmatic idea is "tres-pass", Law French for "big step": a crossing of
+a boundary that, given the notice and affordances provided, the trespasser
+knew or should have know was a violation of law. In our model, robots should
+have been programmed to not cross such boundaries without owner consent or
+other legal authority, ideas to be explored further below.  
+  
+One way to set up this system is as contests between human programmers
+deploying their robots into the robot legal system. In a partially automated
+system there would be some human-refereed "police" and "courts," but an ideal
+fully-automated version would run without human intervention. Under contest
+rules in the fully-automated mode, after the human creators, who had an
+incentive to program the robots to respond to incentives, are done with their
+programming and the contest has commenced, only robots and other things exist
+in this robotic legal system. Only robots are legal persons; as such they can
+own other things and devices as well as spatial regions and things fixed
+therein (real property).  
+  
+For each type of tort in my robot legal system, I propose a class of surface
+or other physical condition and correspondong class(es) of sensors:  
+  
+(1) battery : physical surface of the robot (sensor detects touch). This
+touching must be the result of a physical trajectory that was probably not
+accidental (e.g. bumping a fellow robot on within a crowded space is probably
+not a battery).  
+  
+(2) trespass to real property : three-dimensional surface of laser-break
+sensors bounding a space owned by a robot, or other location-finding sensors
+that can detect boundary crossings.  
+  
+(3) trespass or conversion of moveable property: involves touch sensors for
+trespass to chattels; security against coversion probably also involves using
+RFID, GPS, or more generally proplets in the moveable property. But this is a
+harder problem, so call it TBD.  
+  
+(4) assault is a credible threat of imminent battery : probably involves
+active and passive viewing devices such as radar, sonar and video and
+corresponding movement detection and pattern recognition. Specifics TBD
+(another harder problem).  
+  
+Note that we have eliminated subjective elements such as "intent" and "harm."
+The idea is to replace these with deductiions from physical evidence that can
+be gathered by sensors. For example, evidence of a boundary crossing with
+force often in itself ( _per_ se) implies probable intent, and in such cases
+intent can be dispensed with as a conjunctive element or can be automatically
+inferred. With well-designed physical triggering conditions and notices and
+affordances to avoid them, we can avoid subjective elements that would require
+human judgment and still reach the right verdict in the vast majority of
+cases. In real world law such notices, affordances, and evidence-gathering
+would allow us to properly assign the burden of lawsuit to the _prima facie_
+lawbreaker so that a non-frivolous lawsuit would only occur in a miniscule
+fraction of cases. Thus security systems adapted to and even simulating real-
+world legal rules could greatly lower legal costs, but it is to be doubted
+that they could be entirely automated without at least some residual
+injustice.  
+  
+Our robotic contract law is simply software code that the robots generated (or
+their human programmers have previously coded) and agree to abide by, i.e.
+smart contracts.  
+  
+Three basic legal defenses (or justifications) for a surface break, taking of
+moveable property, or assault are:  
+  
+(1) consent by the owner, expressed or implied (the former requires only some
+standard protocol that describes the surface and conditions for activity
+within that surface, i.e. a smart contract; I'm not sure what the latter
+category, implied consent, is in robot-land, but the "bumping in a crowded
+space" is probably an example of implied consent to a touch).  
+  
+(2) self-defense (which may under certain circumstances include defense of
+property if the victim was illegally within a surface at the time), or  
+  
+(3) other legal authorization.  
+  
+The defense (3) of legal authorization is the most interesting and relates
+strongly to how robots are incentivized, i.e. punished and how robots are
+compensated for damages. In other words, what are the "police" and "courts"
+that enforce the law in this robotic world? Such a punishment is itself an
+illegal trespass unless it is legally authorized. The defense of legal
+authorization is also strongly related to the defense (2) of self-defense.
+That will be the topic, I hope, of a forthcoming post.
+

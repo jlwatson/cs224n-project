@@ -1,0 +1,177 @@
+Jurisdiction is the legal right of a court to order coercive process: to
+imprison a person, to put them on trial, to punish criminals, and to require
+plaintiffs with a variety of remedies (ranging from payment of damages to
+injunctions) at the expense of defendants. Subject matter jurisdiction is the
+areas of law over which a court may legally assert jurisdiction, and personal
+jurisdiction is those persons over which a court may assert jurisdiction.  
+  
+The question of which court has jurisdiction is in theory independent of the
+question of which law will be applied ("choice of law" or "conflict of laws"),
+though they for various practical reasons they are often in fact intertwined.  
+  
+Jurisdiction comes in three basic forms:  
+  
+(1) Sovereign government. This is what we were taught in high school civics
+class -- courts have jurisdiction over us because -- well, because they're
+"the government," that's why. Many people now consider this the only kind of
+jurisdiction. However, historically sovereign jurisdiction had its origin in a
+much more general kind of jurisdiction:  
+  
+(2) Property. One owns jurisdiction over certain subject matters, and
+exercises that jurisdiction over certain tenants or visitors to one's
+franchise territory, based on conditions in the property deed or covenant.
+Often the franchise territory is simply the territory of the land one owns and
+to which the franchise is attached, but the charter defining the franchise
+could specify a different territory. The largest jurisdiction is the realm
+itself, the jurisdiction owned by the king, and consisting of all jurisdiction
+in the realm not owned by others in the form of a granted or prescriptive
+franchise. Jurisdiction as property was historically often associated with
+feudal or colonial government, but the degree of decentralization possible
+varied radically. In its more decentralized forms (such as those of medieval
+Iceland, and to a lesser extent medieval and Renaissance England) this is a
+radically different model of jurisdiction than that based on sovereign
+government. More here.  
+  
+(3) Contract. This has been common in various times and places, and is on the
+rise in many parts of the modern world in the form of choice of law and choice
+of forum clauses (often called "arbitration clauses" because they often
+specify a private arbitrator instead of a state court). Contractual
+jurisdiction works much better for relational disputes than for torts between
+strangers. Conceivably, however, a network of contracts in which people agree
+to delegate consent to jurisdiction could grow dense enough to cover most or
+even all persons who might contact each other. There are however no modern
+examples of this. Medieval Iceland has sometimes been interpreted as an
+example of universal contract-based jurisdiction, but is better viewed as a
+hybrid property/contract system, since it was based on a franchise-like
+property right called a "godord."  
+  
+The U.S. Supreme Court splits on its justifications for why a state may
+exercise of broad jurisdiction. The view of conservative justices is just that
+states are sovereign over their territories, period. If the state "tags" you
+inside its territory you are "it" in their courts for any amount of liability,
+even if you were just passing through. Liberal justices have justified state
+jurisdiction as a kind of restitution or implied contract, described further
+below. Under both views you can also be hauled in from outside the state if
+you had "minimal contacts" with that state, for example shipping a product
+there.  
+  
+Thoughtful political and legal scholars have long recognized that jurisdiction
+requires much more than brute force assertion: it requires some kind of
+consent of the governed. Legal scholar Lysander Spooner long ago debunked the
+idea that government is a "social contract" that you and I actually agreed to
+abide by. Neither you nor I have ever agreed to any such thing by any process
+resembling that of formation in contract law. The liberal justices dredge up a
+similar argument: by entering a state territory and performing some minimal
+act, such as driving on the roads, you have "availed" yourself of the
+protections of that jurisdiction. By driving on the road, for example, you
+have availed yourself of the "significant benefit" of police services, and
+thereby have now subjected yourself to the full sovereign jurisdiction of that
+state -- even if that puts you in jeopardy of a penalty far out of proportion
+to any benefit you have obtained, and even if the penalty is for something
+completely unrelated to the benefit.  
+  
+For example, let's say you were married and living in New Jersey and your
+spouse ran off to California with the kids. You visit California for three
+days to see the children.  
+  
+Both the liberals and conservative justices in the U.S. agree that your spouse
+can greatly extend your stay by hauling you into California court to dissolve
+your New Jersey marriage and split up your New Jersey property. But they agree
+on this grotesque idea for different reasons.  
+  
+According to the conservatives, California is sovereign and can simply can tag
+you because you are in their territory. According to the liberal justices, you
+have "availed" yourself of the "significant benefits" of the California laws
+by driving on California roads, and thereby justified California gaining
+control over your marriage, your children, and your property. (The actual case
+was _Burnham v. Superior Court of California_ , 495 U.S. 604 (1990)).  
+  
+One cannot rebut the conservatives because they just make a raw assertion: a
+conclusory statement, not an argument. Your spouse simply needs to file a
+complaint and serve you with process in California territory: tag and you're
+it. Stay away from your spouse and kids and your New Jersey marriage and New
+Jersey property are safe from the tender mercies of the California courts.
+Take one step inside and it's all up for grabs.  
+  
+The shallowness of the liberals' pseudo-contractual argument can be seen by
+translating it to an actual contractual setting. Suppose you stepped onto a
+car lot called Mike's Maserati Mecca and were talked into test driving that
+slick silver bullet you certainly can't afford. After a thoroughly enjoyable
+ride with Mike, in which you consented to follow his directions and availed
+yourself of the significant benefits of his hospitality, Mike presented you
+with a contract from the back office. He then declared that, by driving the
+car, you thereby agreed to buy it. The price is the standard market price, but
+that doesn't mean that you can afford it. Call it a "drive-wrap contract."  
+  
+No court anywhere I know of would enforce this "contract": your small act of
+stepping into the car dealer's territory, availing yourself of property
+protected by Mike's security guard, and even the somewhat larger and related
+act of test-driving his car, in no way could be construed as consent to "rules
+of the territory" that include an obligation to purchase the car. Many courts
+have a derogatory name for this: "officious intermeddling." Another example:
+if the neighbor kid shows up one day and simply starts mowing your lawn, there
+is no implied contract whereby you owe the kid the typical price of a mown
+law. You may be morally or reputationally obligated in your neighborhood,
+depending on its norms, but it is not a legal obligation. The only vaguely
+analogous situation where a court will allow a person to force a contract with
+you is if you are completely incapacitated and desperately in need a help: if
+a doctor helps you, a typical court will construe the existence of a contract
+to pay the doctor a reasonable fee, because that is what you almost surely
+would have agreed to had you been conscious. This implied-in-law contract is
+also often called an action for "restitution": you have been unfairly enriched
+by the doctor, and must "disgorge" the unfair enrichment.  
+  
+On the other hand, if you had started smashing on of Mike's Maseratis with a
+sledge hammer, Mike would under traditional common law be within his rights to
+restrain and arrest you for vandalism on his property. See also Semayne's Case
+for the implied franchise that pertains to one's house to protect it from
+trespass. While (in the same move away from traditional English law that gave
+us the doctrine of substantive sovereign jurisdiction in place of property-
+based jurisdiction) many jurisdictions have restricted rights to defend
+oneself and one's property, many other jurisdictions retain them in statute,
+such as the "stand your ground" statutes that give you the right to protect
+your property as well as yourself in your house, and in some state in your
+automobile and at your place of business. Similarly, if while in California
+you started beating your spouse, there would be no traditional common law
+objections to California dealing with you in defense of its resident.
+Committing a tort (or crime) is itself implied consent to tort (or criminal)
+jurisdiction.  
+  
+The liberal justices with their pseudo-contractual or pseudo-restitutionary
+talk of "availment" to "significant benefit" giving rise to arbitrary
+jurisdiction do not explain why California's assertion of jurisdiction over
+out-of-state marriage and property is not also simply officious intermeddling.
+They certainly do not explain why, even if you've unfairly enriched yourself
+by driving free on California's roads, you should be forced to disgorge far
+more than the value you obtained, and in areas of your life unrelated to
+highway safety: your marriage, property, and children.  
+  
+Assertion of sovereign jurisdiction, the kind were taught in school is the
+only kind, is in fact the kind of jurisdiction that is the most unjust and
+that is on most intellectually shaky ground. U.S. courts either simply don't
+try to justify it or try to justify it with absurd pseudo-contractual
+arguments. Like their intellectual forebears with their specious idea of a
+"social contract," many modern justices at least recognize the moral
+requirement for consent to jurisdiction. But they too fail to address the
+issue with intellectual seriousness, because the consequences for the law of
+jurisdiction would be too radical: their own courts could lose most of their
+power.  
+  
+There are some good arguments for some sovereign jurisdiction, but they lead
+to a sovereignty far smaller than that exercised by the modern state. The
+necessity for some minimal sovereign court, to which you and I are bound "just
+because," seems unavoidable. For both the property- and contract-based
+jurisdictions there seems to be the need for at least a "night watchman" or
+"meta" court that determines the questions of basic jurisdiction itself. In
+property-based jurisdictions such as the franchises of England, the king's
+courts determined these questions as a matter of "trespass" on (infringement
+of) franchise property. It was also possible for a court to trespass on a
+defendant by violating basic due process rights associated with the type of
+jurisdiction, for example torturing the defendant or by denying right to a
+trial by jury. In a contract-based system, involuntary courts with large
+territories would be needed to determine, if disputed, the preliminary
+question of whether a proper contract had been formed with a proper choice of
+forum clause. In the U.S. this question is answered by the court with
+jurisdiction over the contract, usually a court of the state where the
+contract was formed.
+

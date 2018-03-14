@@ -1,0 +1,167 @@
+Adam Smith observed how even the most basic of products in 1776, at the dawn
+of the industrial revolution in Britain, depended, directly and indirectly, on
+the work of thousands of people:  
+  
+
+> Observe the accommodation of the most common artificer or day-laborer in a
+civilized and thriving country, and you will perceive that the number of
+people of whose industry a part, though but a small part, has been employed in
+procuring him this accommodation, exceeds all computation. The woollen coat,
+for example, which covers the day laborer, as coarse and rough as it may
+appear, is the produce of the joint labor of a great multitude of workmen. The
+shepherd, the sorter of the wool, the wool-comber or carder, the dyer, the
+scribbler, the spinner, the weaver, the fuller, the dresser, with many others,
+must all join their different arts in order to complete even this homely
+production. How many merchants and carriers, besides, must have been employed
+in transporting the materials from some of those workmen to others who often
+live in a very distant part of the country! How much commerce and navigation
+in particular, how many shipbuilders, sailors, sailmakers, ropemakers, must
+have been employed in order to bring together the different drugs made use of
+by the dyer, which often come from the remotest corners of the world! What a
+variety of labor, too, is necessary in order to produce the tools of the
+meanest of those workmen! To say nothing of such complicated machines as the
+ship of the sailor, the mill of the fuller, or even the loom of the weaver,
+let us consider only what a variety of labor is requisite in order to form
+that very simple machine, the shears with which the shepherd clips the wool.
+The miner, the builder of the furnace for smelting the ore, the feller of the
+timber, the burner of the charcoal to be made use of in the smelting-house,
+the brickmaker, the bricklayer, the workmen who attend the furnace, the
+millwright, the forger, the smith, must all of them join their different arts
+in order to produce them. Were we to examine, in the same manner, all the
+different parts of his dress and household furniture, the coarse linen shirt
+which he wears nest his skin, the shoes which cover his feet, the bed which he
+lies on, and all the different parts which compose it, the kitchen grate at
+which be prepares his victuals, the coals which he makes use of for that
+purpose, dug from the bowels of the earth, and brought to him perhaps by a
+long sea and a long land carriage, all the other utensils of his kitchen, all
+the furniture of his table, the knives and forks, the earthen or pewter plates
+upon which he serves up and divides his victuals, the different hands employed
+in preparing his bread and his beer, the glass window which lets in the heat
+and the light, and keeps out the wind and the rain, with all the knowledge and
+art requisite for preparing that beautiful and happy invention, without which
+these northern parts of the world could scarce have afforded a very
+comfortable habitation, together with the tools of all the different workmen
+employed in producing those different conveniences; if we examine, I say, all
+these things, and _consider what a variety of labor is employed about each of
+them, we shall be sensible that without the assistance and co-operation of
+many thousands, the very meanest person in a civilized country could not be
+provided_ [emphasis added], even according to what we may falsely imagine the
+easy and simple manner in which he is commonly accommodated.
+
+Leonard Read used the pencil as an even more startling example of how a simple
+20th century product depended on a vast global network of economic relations.
+The number of people required, directly and indirectly, to manufacture a high-
+technology device, such as a cellphone or laptop computer, is probably in the
+millions. Friedrich Hayek explained the fine-grained division of labor that
+makes modern technology and wealth possible as a division of knowledge in "The
+Use of Knowledge in Society":  
+  
+
+> The peculiar character of the problem of a rational economic order is
+determined precisely by the fact that the knowledge of the circumstances of
+which we must make use never exists in concentrated or integrated form but
+solely as the dispersed bits of incomplete and frequently contradictory
+knowledge which all the separate individuals possess. The economic problem of
+society is thus not merely a problem of how to allocate "given" resources—if
+"given" is taken to mean given to a single mind which deliberately solves the
+problem set by these "data." It is rather a problem of how to secure the best
+use of resources known to any of the members of society, for ends whose
+relative importance only these individuals know.
+
+Yet there existed a culture, the pre-European Polynesians, which established
+self-sufficient economies sometimes not totalling more than a few hundred
+people on dozens of small islands int the Pacific. Due to the small number of
+people that made up a self-sufficient economy, they did it using technology
+and institutions radically different from the agricultural civilizations of
+the Eurasian continent where they had come from. The Polynesians did not work
+metal: metalworking (for example the mining, smelting, smithing, etc. required
+to extract and work iron) requires too much of a division of labor. They used
+only the materials readily available on a South Seas island: their houses,
+ovens, boats, weapons, etc. were all made out of plants, stones, and animal
+parts. Since they lived at a Malthusian equilibrium (which almost every
+culture lived under until northwest Europe in the 17th century started a long
+climb out of it), their standard of living was on average the same as the
+world average -- dirt poor by our standards. This was enough, however, to
+produce catamarans that could navigate the South Pacific long before Magellan
+and Cook.  
+  
+Small island economies greatly increased the premium and resulting emphasis on
+trade between islands in Polynesia and Melanesia (the Melanesians were an
+earlier group of island settlers). When inter-island trade was feasible, large
+proportions of resources and attention went into it. The kula ring was a
+splendid example of a sophisticated trade institution that developed among
+some of the Melanesians.  
+  
+What's more, the Polynesians could do something that we moderns cannot --
+replicate their entire economy from one island to another by packing up their
+families, along with a variety of plants and a handful of animals, onto a
+handful of catamarans. Could we similarly replicate our entire modern global
+economy, or a set of tools that could produce an equivalent result, to, say,
+another planet on a handful of rockets? That was the ambition of K. Eric
+Drexler's nanotechnology: pack a rocket full of "assemblers": self-replicating
+robots that can make almost anything. In the mid-20th century, mathematician
+and computer scientist John Von Neumann sketched a theoretical model of a
+self-replicating machine -- a self-replicating pattern in the 2-dimensional
+world of "cellular automata" (where, among other simplifications, copy
+operations come for free). I have long been skeptical of the idea that
+physical self-replication can be done with a simple design:  
+  
+
+> While going from macroscopic industrial parts proposed by von Neumann, or
+the nucleic acids, amino acids and myriad of tertiary biochemicals in
+bacteria, to atomic-scale diamondoid parts reduces the search space, and thus
+complexity, but this also reduces the degrees of design freedom. It could be
+that the search space of diamondoid replicators is so small that there is no
+possible configuration of, say, 10 million carbon atoms can copy itself in
+practice, when we get down to the details of atomic placement in each
+operation. A particularly difficult task in atomic placement for one small
+segement of a Stewart platform (eg assembling the ratchet complex) may
+necessitate a blowup in the complexity of the platform itself or in the
+machinery that brings molecules to and places them for the platform. To be
+truly self-replicating we need to close all the loops in the graph of
+operations. Attempts to close the last 1% ("vitamins") might introduce even
+more open loops than we close. The minimum complexity might easily exceed the
+degrees of freedom in the search space, in which case a solution does not
+exist.
+
+The seeming simplicity of the the small-island Polynesian economy, lacking a
+sophisticated division of production and distribution operations and thus
+lacking a highly complex division of knowledge, is in one sense an illusion.
+This simplicity was made possible by making intensive use of very high evolved
+plant life. The complexity of life is extremely high. The self-sufficiency of
+the pre-European Polynesian economy is only possible if agriculture can be
+productively accomplished with tools made by the farmer or his friends. There
+is no simple design of a pan-assembler or self-replicating device -- the
+simplest ones we know of, life, are of extremely high complexity, and it will
+be a long time before we create new versions of life, much less artificial
+self-replicating machinery, in a lab.  
+  
+Partially self-replicating machines are, of course, quite possible. The actual
+direct and indirect labor required for these machines, like those required for
+laptops and cell phones, is in the millions of people, and for many of the
+same reasons -- these machines are based on sophisticated microchips and
+plastics, among other parts of complex origin. Even if we radically redesigned
+every tool and machine we have for our hypothetical self-sufficient
+extraterrestrial economy -- and such radical redesign would be utterly
+necessary -- it would still likely require hundreds of thousands of people and
+gigatonnes of machinery, at least, to have a wealthy yet self-sufficient
+economy beyond earth.  
+  
+Take Smith's coat and Read's pencil, elaborate the required network still
+further for today's complex products, and multiply by many thousands of
+products -- that is what is required to fill the shelves of your hardware
+super-store (in the U.S., Home Depot and Lowe's). Do this again for your
+drugstore, your clothing store, etc. You'd have no such super-stores in our
+space colony. It would in many ways be quite poor by earth standards.  
+  
+The Polynesians relied on the ready availability of high-evolved life that
+could readily be grown in the native environment (no complex artificial
+creations like Plexiglass domes or grow-lights needed), and yet were dirt-poor
+by our standards. Modern products generally require elaborate divisions of
+labor necessarily involving millions of people. Such an economy cannot be
+planned, as numerous attempts to do so demonstrated in the 20th century. A
+modern economy requires a decentralized information-transmitting mechanism
+such as a market to work. In sharp contrast to the Polynesian small-island
+economy, our global economy cannot be easily replicated. We have to make it
+work here, or nowhere.
+

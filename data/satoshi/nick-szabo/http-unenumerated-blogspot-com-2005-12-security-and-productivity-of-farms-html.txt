@@ -1,0 +1,92 @@
+Perhaps the two most important factors contributing to a neolithic, ancient,
+or medieval civilization were the productivity and security of farmland. Over
+these times (almost all of recorded history) productivity and security
+(largely, but by no means entirely, involving warfare techniques and
+organization) were probably the two main factors determining the ownership (or
+more generally control) of farmland and thus the structure of an
+agriculturally dominated society.  
+  
+Which of these two factors were more important? Many traditional historians
+take it for granted that military organization (often determined by military
+technology) determined social structure as well as the success of a society.
+Thus, for example, the theory that the stirrup gave rise to feudalism.  Some
+other historians or scientists who study history take it for granted that crop
+productivity, primarily determined by ecology and technology, was more
+important to the success of a civilization or to determining its political,
+legal, and economic institutions.  
+  
+Neither view is correct. Farm productivity and farm security interact, and
+institutions are at least as important to determining that productivity and
+security as the reverse.  
+  
+A few historians have started analyzing the interaction between crop
+productivity and security in a variety of detailed ways, an approach I think
+may shed quite a bit of light on history.  
+  
+One common strategy of ancient warfare was to "devastate" enemy crops.
+Historian and viticulturalist Victor Davis Hanson has studied the vines, olive
+trees, and some grain varieties grown in ancient Greece and has shown that
+they could often withstand intentional destruction (burning, chopping, digging
+up, etc.) rather well. I further suspect that plants in most places and times
+were bred, not merely for their nutritional content, and not merely to
+withstand weeds and animal pests, but to withstand such assaults from human
+pests as well.  
+  
+Furthermore, I hypothesize that the pattern of control or ownership of land,
+and thus property law (and political structure in general) will vary depending
+upon the interaction of agricultural productivity and security, and vice
+versa.  
+  
+To flesh out this theory I will make some corollary "geostrategic" hypotheses
+about neolithic, ancient, classical, and medieval warfare:  
+  
+* There are some economies of scale in protecting farmland. An obvious economy of scale is that the area (a good proxy measure for value) of farmland increases as the square of the length of boundary that must be guarded.  
+  
+* There are some diseconomies of scale in protecting farmland. An important diseconomy of scale is that it becomes more difficult to coordinate ever larger armies (the knowledge problem familiar to Austrian economists) and to coordinate the tax collection needed to fund those armies.  
+  
+* There is a tension between the optimal size of a farm for the application of organizational labor and technology and the optimal size for military protection. If security needs become too great, the two can become mismatched and farm productivity will fall. If this is not to occur some military coordination between landowners is needed (this may be feudal, or democratic/agrarian as in the classic Greek polis, or a wide variety of other kinds of coordination including the modern state).  
+  
+* Geographic features can help protect farmland, allowing its size and organization to be optimized for productivity. Which geographic features are important depends on the scale on which farmland is defended. During many eras of history (from large-scale feudal coordination to the state) such coordination has occurred on a large scale. Thus, it may be no coincidence that two large islands which have been largely or entirely protected from invasion for hundreds of years, Japan and Britain, also had among the highest agricultural productivities per acre during that period as well as the greatest cultivation of even marginal arable lands. Italy's situation is similar being protected on one side by the Alps and three other sides by water. Italy and Japan, though often divided politically during this era, are long and thin, making disputed internal boundaries shorter. In some areas (such as the Low Countries) inhabitants went to great lengths to create water barriers between themselves and invading armies. Contrariwise, this theory predicts agricultural productivity will be lowest in unprotected continental regions. Indeed, interior continental regions easily reached by horse tended to be given over to much less productive nomadic grazing. Security constraints were probably what prevented any sort of crop from being grown.  
+  
+Some of the inspiration for this theory comes from Adam Smith, in Book 3 of
+The Wealth of Nations. Smith pointed out that there was a large mismatch
+between land ownership patterns that provided the best incentives to
+productively use the land and laws derived from feudal protection needs. Under
+English law there were a variety of kinds of land ownership, called "estates."
+Smith advocated straight ownership called "fee simple" that allowed land to be
+divided among children, bought and sold, and used as collateral. The two now
+curious but formerly common kinds of estates Smith observed and criticized
+were "primogeniture," in which land could not be divided among children but
+had to be devised to the oldest male, and "fee tail," or restraints against
+transferring the property or using it as collateral. In the Middle Ages land
+ownership was bundled with the ability to protect the land. The law thus
+prevented foolish heirs from dividing up their land into portions too small to
+protected. These restraints also protected the tenants who actually worked the
+land.  
+  
+Smith, living on an island well protected by the navy of a single state,
+observed that England was moving away from that kind of ownership and
+advocated getting rid of it altogether, pointing out its economic
+wastefulness. As evidence Smith cited large tracts of poorly cultivated or
+entirely uncultivated land in farms still under those feudal property law
+constraints. Furthermore, we have seen the importance of the ability to use
+land as collateral. Collateralization of land probably ocurred first on a
+large scale in late medieval Italy. This may be due to its greater adherence
+to the traditions of Roman law (in which land was divided equally among
+children and was freely transferable) as well as its relatively secure
+geography.  
+  
+The crucial role of security for the history of farming may also shed light on
+the birth of agricultural in the first place. Hunter-gatherers were very
+knowledgeable about plants and animals, far more than the typical modern. It
+would not have taken a genius -- and there were many, as their brains were as
+large as ours -- to figure out that you can plant a seed into the ground and
+it will grow. There must have been, rather, some severe institutional
+constraints that prevented agriculture from arising in the first place. The
+basic problem is that somebody has to protect that seedling for several months
+from enemies, and then has to harvest it before the enemy (or simply a envious
+neighbor) does. Security and allocation of property rights between providers
+of security and providers of farm labor were the intractable problems that
+took vast amounts of trial and error as well as genius to solve in order for
+agriculture to take root.
+

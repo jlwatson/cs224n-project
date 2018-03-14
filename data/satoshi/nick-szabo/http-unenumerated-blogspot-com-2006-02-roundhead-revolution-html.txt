@@ -1,0 +1,130 @@
+Gregory Clark (via Marginal Revolution) has a new and more comprehensive data
+set on real wages in England from 1209 to the present. Up to about 1600, it is
+consistent with the Malthusian theory that real wages varied inversely with
+population. But then from at least 1630, there is a remarkable and
+unprecedented departure from the Malthusian curve formed by the ratio of real
+wages to population. Real wages rose over 50% from 1630 to 1690 despite rising
+population. There is then a stable period from 1730 to 1800 with a new curve
+parallel to but offset from the original Malthusian curve, and then a second
+startling departure from 1800 to today reflecting the end of this last
+Malthusian epoch (ironically just as Malthus was writing).  
+  
+This data contradicts the idea that nothing remarkable happened to the economy
+before the industrial revolution got going in the late 18th century. It also
+contradicts the theory that a qualitative shift occurred due the the Glorious
+Revolution of 1689 in which Parliament gained more power, some Dutch financial
+pratices were introduced, and soon thereafer the Bank of England founded.  
+  
+Rather, the theory that comes most readily to mind to explain an economic
+revolution in 17th century England is the rather un-PC theory of Max Weber.
+I'll get back to that, but first Clark debunks the theory of Becker et. al.
+regarding family investment. According to this theory, parents choose between
+the strategy of having a large number of children and having a small number of
+children in whom they invest heavily, teaching them skills. This is basically
+the spectrum between "R strategy" and "K strategy" along which all animals
+lie, except that with humans there is a strong cultural component in this
+choice (or at least Becker et. al. claim or assume that family size has always
+been a cultural choice for humans -- see my comments on this below).  
+  
+According to this family investment theory, until quite recently (perhaps
+until the industrial revolution) having more children was the better bet due
+to lack of reward for skill, and overall underdevelopment of the economy
+limited the reward for skill, so the world was caught in a Malthusian trap of
+unskilled labor. However at this recent point in history rewards for skilled
+labor went up, making it worthwhile for parents to invest in skills (e.g.
+literacy). Clark's data contradicts this theory: his data show that the ratio
+of wages for skilled to unskilled laborers did not rise either in the 17th
+century revolution or during the industrial revolution, and actually were in
+substantial decline by 1900. Indeed, a decline in demand for skilled labor is
+what Adam Smith predicted would happen with increasing specialization in
+manufacturing. Thus, there was no increase in reward for skill investment
+which would have pulled us out of the Malthusian trap. Thus, Clark also
+rejects the family investment theory.  
+  
+I think, however, that part of the family investment theory can be rescued.
+Clark's and other data on literacy demonstrate a substantial rise in literacy
+just prior to and at the initial stages of the qualitative change in
+productivity. Literacy in England doubled between 1580 and 1660. Parents were
+in fact making substantial investments in literacy despite an apparent lack of
+incentive to do so. Why?  
+  
+My own tentative theory to explains Clark's data combines Becker, Weber, and
+the observations of many scholars about the cultural importance of printing.
+Printing was invented in the middle of the 15th century. Books were cheap by
+the end of that century. Thereafer they just got cheaper. At first books
+printed _en masse_ what scribes had long considered to be the classics.
+Eventually, however, books came to contain a wide variety of useful
+information important to various trades. For example, legal cases became much
+more thoroughly recorded and far more easily accessible, facilitating
+development of the common law. Similar revolutions occurred in medicine and a
+wide variety of trades, and undoubtedly eventually occurred in the building
+trades that were the source of Clark's data.  
+  
+Printing played a crucial role in the Reformation which saw the schisms from
+the Roman Church and the birth in particular of Calvinism. The crucial thing
+to observe is that, while per Clark the gains from investment in skills did
+not increase relative to unskilled labor, with the availability of cheap books
+and with the proper content the costs of investing in the learning did
+radically decrease for many skills. Apprenticeships that used to take seven
+years could be compressed into a few years reading from books (much cheaper
+than bothering the master for those years) combined with a short period
+learning on the job. This wouldn't have been a straightforward process as it
+required not just cheap books with specialized content about the trades, but
+some redesigning of the work itself and up-front investment by parents in
+their children's literacy. Thus, it would have required major cultural
+changes. That is why, while under my theory cheap books were the catalyst that
+drove mankind out of the Malthusian trap, many institutional innovations,
+which took over a century to evolve, had to be made to take advantage of those
+books to fundamentally change the economy.  
+  
+Probably the biggest change required is that literacy entails a very large up-
+front investment. In the 17th century that investment would have been
+undertaken primarily by the family. Such an investment requires delayed
+gratification -- the trait Weber considered crucial to the rise of capitalism
+and derived from Calvinsim. However, Calvinist delayed gratification under my
+revised theory didn't cause capitalism via an increased savings rate, as Weber
+et. al. postulated, but rather caused parents to undertake a costly practice
+of investing in their children's literacy. Once that investment was made, the
+children could take advantage of books to learn skills with unprecedented ease
+and to skill levels not previously possible. So the overall investment in
+skills did not increase, but instead the focus of that investment shifted from
+long apprenticeships of young adults to the literacy of children. At the same
+time, the productivity of that investment greatly increased, and the result
+was overall higher productivity.  
+  
+Investment in literacy would have both enabled and been motivated by the
+famous Protestant belief that people should read the Bible for themselves
+rather than depending on a priest to read it for them. This process would have
+started in the late 15th century among an elite of merchants and nobles,
+giving rise to the Reformation, but might not have propagated amongst the
+tradesmen Clark tracks until the 17th century. It is with the spread of
+Huguenot, Puritan, Presbyterian, etc. literacy culture to tradesmen that we
+see the 17th century revolution in real wages and the first major move away
+from the Malthusian curve.  
+  
+This theory that the Malthusian trap was evaded by a sharp increase in the
+productivity of skill investment explains why population growth did not fall
+in the 17th century as Becker et. al. would predict. Cheap books substantially
+lowered the cost of skill investment, so the productivity gains could come
+without increasing the overall investment in skills and thus without lowering
+family size.  
+  
+The family size/skill investment tradeoff is more likely to explain the second
+and sharper departure from Malthusian curve starting around 1800. However
+again I think Becker is wrong insofar as this was not due to an increase in
+returns on skill (Clark's data debunks this), but due to (1) technology
+improving faster than humans can have children, and (2) the rise of birth
+control (without which there is little control by choice or culture over
+family size -- no cultural family size choice theory really works before the
+widespread use of birth control).  
+  
+The catalyst in moving away from the Malthusian curve was thus not, per Becker
+et. al., an increase in the returns on investments in skills, but rather a
+decrease in the costs of such investments once cheap books teaching
+specialized trades were available and the initial hill of literacy was climbed
+by Calvinist families. If the Calvinist literacy-investment theory ("The
+Roundhead Revolution") is true, we should see a similar departure from the
+Malthusian curve at the same time or perhaps even somewhat earlier in the
+Netherlands, and also in Scotland, but probably not in Catholic countries of
+that period.
+

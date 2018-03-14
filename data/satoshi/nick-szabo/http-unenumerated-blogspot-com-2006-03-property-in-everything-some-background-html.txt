@@ -1,0 +1,102 @@
+I will soon be posting portions of a translation of the Magna Carta (the Great
+Charter) interspersed with my own commentary. Besides the background of the
+above link, here is some background on the nature of law and political
+structure in the lands of King John in 1215, and on why the document is more
+relevant to the modern United States than it is to modern England.  
+  
+What follows is a necessarily oversimplified summary, but it can be used to
+reconstruct almost all of the law of King John's England pertinent to Magna
+Carta. Such a summary must in some ways be very alien to modern minds, so if
+you question this summary in any way please read the Magna Carta itself first
+before commenting, as you will probably find that the alien law as I describe
+it is in fact reflected in that Great Charter.  
+  
+The basic building block of English legal and political structure was quite
+simple: property. Tyler Cowen talks about modern "markets in everything." In
+King John's England there was property in everything. Often, however, it was
+property that could not be easily bought or sold, but only inherited or
+transfered in marriage (like the kingship itself). Every political office and
+every legal right was such a property right. Jurisdiction, the right to make
+law, as well as goods and land -- all was property. Often these rights were
+appurtenant (i.e. attached to) rights in other kinds of property. For example,
+the jurisdiction and right to enforce judgments of manorial courts via certain
+remedies (a subset of the remedies available to royal common law courts) came
+bundled with tenure to the manor'sland. For example, if the king had granted a
+land to a lord in fee simple (i.e. perpetual) tenure, that lord would by an
+appurtenant express grant or sometimes implicitly (by prescription or custom)
+have jurisdiction over the manor's sub-tenants and villiens (serfs).
+Jursidiction over market fairs and their participants, and the ability to
+enforce court judgments by the limited remedy of distraining (attaching) goods
+in those markets, came bundled with the royal or baronial franchise to operate
+the market. Even in the 18th century, Blackstone described the entire
+political structure of England under the legal category of "the rights of
+persons." Every office and authority was held as a property right, and every
+liberty of a tenant or other subject was an easement that restricted such a
+property right.  
+  
+Tenures such as fee simple, estates for life, etc. are the ancestors of modern
+forms of ownership (which still go under these names), but are also akin to
+leases insofar as they entailed obligations such as to pay rent. Rent paid to
+the king included "scutage" and "aid" -- the ancestor of what we now call
+taxes. The Magna Carta forces the king to gain the "consent" of his immediate
+tenants via a vote of what became Parliament before collecting such rents.
+Tenancy was also in some ways akin to modern citizenship, as the obligations
+of a tenant often included providing military service and submitting to the
+jurisdiction of the landlord where such jurisdiction was appurtenant to that
+lord's property. The jurisdiction of the royal courts was appurtenant to the
+king's original ownership of his realm, and many lords also had jurisdictions
+appurtenant to their manors.  
+  
+Thus, the Magna Carta's language is quite akin to either a medieval or a
+modern property deed that grants various rights and reserves various easements
+appurtenant (i.e. attached to) the property in question. Any such deed,
+license, or charter grants a subset of the bundle of rights belonging to the
+current owner to the new owner or (in the case of a lease) tenant. The Magna
+Carta is such a property deed. The property in question is the entire kingdom
+and various subsets thereof, and the various rights and easements are
+appurtenant to the entire kingdom or particular subsets thereof. The rights
+the charter grants are to "all free men of the kingdom" or various subsets
+thereof. The "kingdom" is the property of the king and his heirs from which he
+is granting rights to English subjects and their heirs.  
+  
+Except for the king, who under Norman theory owned all original rights in the
+realm, these rights took the form of tenures (somewhat akin to our leases) and
+franchises. In theory all such rights became such by grants from the king. In
+practice these "grants" often recognized pre-existing rights. Thus they were
+akin to both prescriptive property rights and to natural or customary legal
+rights. These tenures or franchises were often granted perpetuity; sometimes
+they were for a term of years. If they were granted in perpetuity, under
+English law (which unlike Roman law did not recognize the totalitarian idea of
+sovereignty) they could not be legally taken back by future kings. The Magna
+Carta, for example, grants "all the liberties written out below, to have and
+to keep for them and their heirs, of us and our heirs." The listed liberties
+are a mix of rights granted to pacify rebellious subjects and the recognition
+of prescriptive rights, often of a very broad (unenumerated) nature.  
+  
+The totalitarian idea of sovereignty, derived from the ancient law of the
+Roman emperors in Justinian's _Institutes_ , whereby emperors were the source
+of all law (the sovereign) and could always disobey or retract their own
+edicts, was much later adopted (at least the retraction part) in England as
+the sovereignty of Parliament. This new "democratic" sovereignty asserted that
+Parliament could abrogate rights granted in perpetuity by previous royal
+charters. This was the main legal idea in dispute in the American Revolution.
+The colonists argued that Parliament could not abrogate the royal charters to
+the colonies which, like the parts of the Magna Carta which recognized the
+rights of cities, towns, and the Church in a sweeping way, recognized customs
+and liberties of the inhabitants of colonies in a sweeping way.  
+  
+During and after their successful rebellion, the North American colonists
+adopted state constitutions, the Articles of Confederation, and the United
+States Constitution. These were modeled on previous royal charters and,
+contrary to the recent innovation of Parliamentary sovereignty that the
+colonists rebelled against, could not be abrogated by mere legislation. In a
+democratic compromise, however, (following James Wilson's vague idea of the
+"sovereignty of the people"), these charters were adopted by super-majority
+votes of "the people" (typically conventions of representatives) and could be
+amended by super-majority votes (legislatures, referendums, and/or
+conventions). Thus, the United States introduced democracy while maintaining
+the idea of perpetual rights that cannot be abrogated by mere majorities. Thus
+the Magna Carta, one of the earliest charters granting perpetual rights, is
+even more important to the United States than it is to the democratic, yet
+totalitarian, modern England.
+

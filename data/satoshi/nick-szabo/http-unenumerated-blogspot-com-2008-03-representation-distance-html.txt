@@ -1,0 +1,115 @@
+An agent (or representative) is a person authorized by his principal (or
+constituent) to act on behalf of that principal. The task of the agent,
+ideally, is to implement the will, interests, or preferences of that
+principal. The degree of communication and control of the principal over the
+agent varies greatly. Examples of principal/agent relationships include
+employer/employee, shareholder/management, and voter/representative. Agency
+law and principles can be applied, metaphorically or actually, to all such
+relationships. Economists study the “agency problems” that occur when the
+agent’s behavior is influenced by other interests, especially his own. A
+contract in which, when rules are not specified, one person is legally or
+morally expected to learn and implement the preferences of the other, or at
+least to maximize an abstract measure representing the preferences of another,
+is an agency contract.  
+  
+Agency contrasts sharply with a grant of property rights. The grantee, the
+person to whom property is granted, is bound by the rules of the grant, not by
+the will of the grantor. A grantor can cause his interests to be represented
+only through specifying, before the grant is made, the conditional rules under
+which the grant is made. Within the grant condition and boundary rules, the
+owner of property is legally expected to act solely in his own interests. With
+political property rights, the “boundaries” are rules of legal procedure which
+the owner may not breach. A similar but temporary effect can sometimes be
+achieved with a contract that details all of the rules of the relationship,
+with the legal and moral understanding that all else about the relationship is
+simply a matter of personal preference rather than of one party learning and
+implementing the preferences of the other.  
+  
+Representation distance estimates the degree of loss of information, control,
+or both in a principal/agent relationship. In other words, it estimates the
+degree to which the agent fails to know or implement the true preferences of
+the principal(s). In a representative democracy or republic, representation
+distance estimates the degree to which the representative actually represents
+the interests (basically equivalent to economic preferences, but in politics
+they might also include preferences to coerce others) of his constituents
+rather than others.  
+  
+Representation distance generally grows with the size of group represented.
+Since even any two people communicate imperfectly, and have conflicts of
+interest between them, it's not even possible for one person to perfectly
+represent another, albeit such representation can far more accurately
+represent any interests than representing a group. One can think of this
+distance as being minimal, call it 1, when a person is acting for himself.
+When one principal delegates duties to one carefully chosen and monitored
+agent (a.k.a. representative), the distance is some greater value, perhaps 2.
+Representation distance is further compromised by majority vote, which leads
+to two losses: (1) the interests become increasingly general and vague, rather
+than the specific and concrete interests the voters actually have, as the
+number of voters increase and (2) the interests of minorities tend to be
+neglected. These numbers are purely illustrative (perhaps we should start at
+zero), and the function whereby representation distance increases with the
+size of the group represented is unknown.  
+  
+A similar effect occurs in shareholder/management relationships. Shareholder
+interests vary greatly. Their time preferences for dividends or capital gains
+vary greatly. They sometimes have non-monetary interests, as in "socially
+conscious" investing. But the duty of management to shareholders usually gets
+stripped down to a very simple one, a fiduciary duty to maximize profit.  
+  
+There may also be efficiency measures proportional to representation distance.
+For example, the efficiency of investment in public goods (where the "public"
+is just the population of voters) may be some function of the number of
+voters. On the other hand, larger representation distance may have a good
+effect in decreasing the ability of some voters to coerce or oppress other
+voters via the representative.  
+  
+Vast amounts of money are put into K Street lobbying, primarily by
+corporations and government employee labor unions. This is readily explained
+by representation distance: the relationships between lobbyists and
+Congressmen, and even more between lobbyists and unelected but influential
+bureaucrats, often have a much shorter representation distance than those
+between voter and Representative. (The much shorter physical distance, which
+greatly facilitates face-to-face relationships, greatly helps to shorten the
+representation distance, but these are otherwise independent ideas). We can
+thus expect persons with sufficient resources at stake, such as corporations
+and government employee unions, to put far more effort into lobbying than they
+or others do into mere voting.  
+  
+Since a political representative represents not the only normal economic
+preferences of voters, but also preferences to coerce others, large
+representation distance is not necessarily a bad thing. An effectively
+infinite representation distance is effective independence, which is often a
+good thing. (We can’t achieve perfectly infinite representation distance, of
+course). We want the legislative, executive, and judicial branches to operate
+independently, for example, not for one to represent the other. However
+political property rights, or contracts where when the rules are unspecified
+on party is not expected to learn or implement the preferences of the other,
+are usually a far better way than pseudo-representation to achieve
+independence or infinite representation distance. Political property rights
+turn at least putatively will-based (a representative is supposed to represent
+the will of his principal(s)) system into a rule-based system (the owner must
+operate within the procedural bounds of his property right, and is expected
+within those rules to learn and follow only his own preferences). Pseudo-
+representation -- the use of the language of agency depsite a very large
+representation distance -- may, however, provide an illusion of participation
+sufficient to satisfy the naive that their interests are actually being
+represented.  
+  
+To summarize, no group is truly homogenous, so it's not possible to perfectly
+represent any group. Since even any two people communicate imperfectly, and
+have conflicts of interest between them, it's not even possible for one person
+to perfectly represent another, albeit such representation can far more
+accurately represent any interests than representing a group. Thus
+representation distance grows with the size of group represented. Much
+politics can be explained by problems caused by representation distances that
+are too long or too short, or by poor estimates of representation distance
+made by naive participants.  
+  
+[These comments are based on my comments on a previous post, and thanks to
+"anonymous" for reminding me about my old idea of representation distance, and
+for the idea that bribery of a representative by a third party increases
+representation distance from the principal].  
+  
+Here are some links to learn about agency law, the principal/agent problem,
+and political property rights.
+

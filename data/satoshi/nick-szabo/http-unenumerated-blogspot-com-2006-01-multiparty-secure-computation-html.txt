@@ -1,0 +1,19 @@
+A few years ago I wrote this introduction to a class of cryptographic
+protocols often called "multiparty secure computation." Wikipedia now also has
+a good introduction.  
+  
+The basic idea is to perform a shared yet mutually private computation over
+the Internet. The computation could be as simple as comparing ages or as
+complex as an audit or an auction. In this shared computation, the inputs are
+mutually private, the output shared with all participants, and the privacy of
+the inputs does not depend on a trusted third party. For example, Alice, Bob,
+and Charles can each input their ages into the protocol, and the protocol will
+output a result indicating who is the oldest, without any of them learning the
+actual age of any other. They can only learn what they can deduce from their
+own input and the protocol's output.  
+  
+Here's a good page of links to papers on the subject. There have been some
+very useful breakthroughs since I wrote on the subject, including orders-of-
+magnitude improvements in speed and security improvements in terms of how many
+parties must collude to fake a result or deny a party access to the output.
+

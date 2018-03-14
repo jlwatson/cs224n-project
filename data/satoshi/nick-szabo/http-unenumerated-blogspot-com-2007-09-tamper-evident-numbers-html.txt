@@ -1,0 +1,22 @@
+From The Playdough Protocols:  
+
+> Evolving beyond clay tokens, accounting was the first use of the external
+marks and started to take a familiar form. Along with the tamper evident clay,
+the Sumerians developed a kind of virtual tamper evidence. It took the form of
+two sets of numbers. On the front of the tablet, each group of commodities
+would be recorded separately -- For example on the front would be recorded 120
+pots of wheat, 90 pots of barley, and 55 goats. On the reverse would simply be
+recorded "265" -- the same objects counted gain, probably in a different
+order, and without bothering to categorize them. The scribe, or an auditor,
+would then verify that the sum was correct. If not, an error or fraud had
+occured. Note the similarity to tamper evident seals -- if a seal is broken,
+this meant that error or fraud had occured. The breaker of the seals, or the
+scribe who recorded the wrong numbers, or the debtor who paid the wrong
+amounts of commodities would be called on the carpet to answer for his or her
+discrepancy.  
+>  
+> Checksums still form the basis of modern accounting. Indeed, the principle
+of double entry bookeeping is based on two sets of independently derived
+numbers that must add up to the same number. Below, we will see that modern
+computers, using cryptographic methods, can now compute unspoofable checksums.
+

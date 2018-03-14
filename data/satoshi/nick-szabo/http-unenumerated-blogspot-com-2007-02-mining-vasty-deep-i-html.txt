@@ -1,0 +1,167 @@
+This is the first in a series of articles about mining the sea floor for
+minerals. This article is about the first and largest such activity, offshore
+oil and gas, and especially the more recent activity in deep water oil. First,
+however, there is currently a fasionable topic, the discussion of which will
+help put deep water oil in perspective: namely the nonsense about "peak oil"
+-- the theory that worldwide oil production has or will soon peak and that we
+thus inevitably face a future of higher oil prices.  
+  
+
+ _Layout of the Total Girassol field, off the shore of Angola in 1,400 meters
+of water, showing the FPSO ship, risers, flow lines, and subsea trees (well
+caps and valves on the sea floor)._  
+
+### Why peak oil is nonsense
+
+There are any number of reasons why peak oil is nonsense, such as tar sands
+and coal gasification. Perhaps the most overlooked, however, is that up until
+now oil companies have focused on land and shallow seas, which are relatively
+easy to explore. But there is no reason to expect that oil, which was largely
+produced by oceans in the first place (especially by the precipitation of dead
+plankton), is any more scarce underneath our eon's oceans as it is under our
+lands. Oceans cover over two-thirds of our planet's surface, and most of that
+is deep water (defined in this series as ocean floor 1,000 meters or more
+below the surface). A very large fraction of the oil on our planet remains to
+be discovered in deep water. Given a reasonable property rights regime
+enforced by major developed world powers, this (along with the vast tar sands
+in Canada) means not only copious future oil, but that this oil can mostly
+come from politically stable areas.  
+  
+
+ _The FPSO, riser towers and flow lines in Total's Girassol field off of
+Angola._
+
+Some perspective, even some purely theoretical perspective, is in order. If we
+look at the problem at the scale of the solar system, we find that
+hydrocarbons are remarkably common -- Titan has clouds and lakes of ethane and
+methane, for example, and there are trillions of tonnes of hydrocarbons, at
+least, to be found on comets and in the atmospheres and moons of the gas giant
+planets. What is far more scarce in the solar system is free oxygen. If there
+will ever be a "peak" in the inputs to hydrocarbon combustion in the solar
+system it will be in free oxygen -- which as a natural occurence is extremely
+rare beyond Earth's atmosphere, and is rather expensive to make artificially.
+
+_A deep sea "robot hand" on a ROV (Remotely Operated Vehicle) more often than
+not ends in an attachment specific for the job. Here, a subsea hydraulic
+grinder and a wire brush._
+
+What's even more scarce, however, are habitable planets that keep a proper
+balance between greenhouse gases and sunlight. Venus had a runaway greenhouse,
+partly from being closer to the sun and partly because of increased carbon
+dioxide in its atmosphere which acts like an inulating blanket, preventing
+heat from radiating away quickly enough. The result is that Venus' surface
+temperature is over 400 C (that's over 750 fahrenheit), hotter than the
+surface of Mercury. On Mars most of its atmosphere escaped, due to its low
+gravity, and its water, and eventually even much of its remaining carbon
+dioxide, froze, again partly due the greater distance from the sun and partly
+due the low level of greenhouse gases in its generally thin atmosphere.
+
+_Hydraulic subsea bandsaw. Great for cutting pipes as shown here._
+
+So far, the Earth has been "just right", but the currently rapidly rising
+amount of carbon dioxide and methane in our atmosphere, largely from the
+hydrocarbons industries, is moving our planet in the direction of Venus.
+Nothing as extreme as Venus is in our foreseeable future, but neither will
+becoming even a little bit more like Venus be very pleasant for most of us.
+The real barrier to maintaining our hydrocarbon-powered economy is thus not
+"peak oil", but emissions of carbon dioxide and methane with the resulting
+global warming. That peak oil is nonsense makes global warming even more
+important problem to solve, at least in the long term. We won't avoid it by
+oil naturally becoming too expensive; instead we must realize that our
+atmosphere is a scarce resource and make property out of it, as we did with
+"acid rain."  
+  
+This series isn't mainly about oil or the atmosphere, however; it is about the
+technology (and perhaps some of the politics and law) about extracting
+minerals generally from the deep sea. Oil is the first deep sea mineral to be
+extracted from the sea on a large scale. The rest of this article fill look at
+some of the technology used to recover offshore oil, especially in deep water.
+Future posts in this series will look at mining other minerals off the ocean
+floor.
+
+_Painting of the deepwater (1,350 meters) subsea trees at the Total Girassol
+field. They're not really this close together._
+
+### FPSOs
+
+Once the wells have been dug, the main piece of surface equipment that remains
+on the scene, especially in deep water fields where pipelines to the seashore
+are not effective, is the Floating Production, Storage, and Offloading (FPSO)
+platform. The FPSO is usually an oil tanker that has been retrofitted with
+special equipment, which often injects water into wells, pumps the resulting
+oil from the sea floor, performs some processing on the oil (such as removing
+seawater and gases that have come out with the oil), stores it, and then
+offloads it to oil tankers, which ship it to market for refining into gasoline
+and other products. The FPSO substitutes far from shore and in deep water for
+pipes going directly to shore (the preferred technique for shallows wells
+close to a politically friendly shoreline).  
+  
+Many billions of dollars typically are invested in developing a single deep
+water oil field, with hundreds of millions spent on the FPSO alone. According
+to Wikipedia, the world's largest FPSO is operated by Exxon Mobil near Total's
+deep water field off Angola: "The world's largest FPSO is the _Kizomba A_ ,
+with a storage capacity of 2.2 million barrels. Built at a cost of over US$800
+million by Hyundai Heavy Industries in Ulsan, Korea, it is operated by Esso
+Exploration Angola (ExxonMobil). Located in 1200 meters (3,940 ft) of water at
+Deepwater block 15,200 statute miles (320 km) offshore in the Atlantic Ocean
+from Angola, West Africa, it weighs 81,000 tonnes and is 285 meters long, 63
+meters wide, and 32 meters high ((935 ft by 207 ft by 105 ft)."  
+  
+  
+
+### ROVs
+
+Today's ROVs (Remotely Operated Vehicles) go far beyond the little treasure-
+recovery sub you may have seen in "Titanic." There are ROVs for exploration,
+rescue, and a wide variety of other undersea activities. Most interesting are
+the wide variety of ROVs used for excavation -- for dredging channels, for
+trenching, laying, and burying pipe, and for maintaining the growing variety
+of undersea equipment. Due to ocean-crossing cables and deep sea oil fields,
+it is now common for ROVs to conduct their work in thousands of meters of
+water, far beyond the practical range of divers.  
+  
+
+_A grab excavator ROV._
+
+It should be noted that in contrast to space vehciles, where teleprogramming
+via general commands is the norm, and often involves long time delays between
+the commands being sent and the results being known to the spacecraft's
+operators, with undersea operations real-time interaction is the norm. Due to
+operator fatigue and the costs of maintaining workers on offshore platforms,
+research is being done on fully automating certain undersea tasks, but the
+current state of the art remains a human closely in the loop. The costs of
+maintaining workers on platforms is vastly lower than the cost of maintaining
+an astronaut in space, so the problem of fully automating undersea operations
+is correspondingly less important. Nevertheless, many important automation
+problems, such as the simplification of operations, have had to be solved in
+order to make it possible for ROVs to replace divers at all.  
+
+_A ROV for digging trenches, used when laying undersea cable or pipe._
+
+Another important consideration is that ROVs depend on their tethers to
+deliver not only instructions but power. An untethered robot lacks power to
+perform many required operations, especially excavation. At sea as long as the
+tether is delivering power it might as well deliver real-time interactive
+instructions and sensor data, i.e. teleoperation as well.  
+  
+Trenching and other high-power ROVs are usually referred to as "work class."
+There are over 400 collectively worth more than $1.5 billion in operation
+today and their numbers are increasingly rapidly.  
+
+_Tankers are big, but storms can be bigger._
+
+### Harsh Conditions
+
+Besides deep water and the peril of storms anywhere at sea, many offshore
+fields operate under other kinds of harsh conditions. The White Rose and Sea
+Rose fields of Newfoundland start by excavating "glory holes" dug down into
+the sea floor to protect the seafloor against icebergs which can project all
+the way to the fairly shallow sea floor. Inside these holes the oil outflow
+and fluid injection holes themselves are dug and capped with subsea trees
+(valves). The drill platform, FPSO, and some of the other equipment has been
+reinforced to protect against icebergs.  
+  
+In future installments, I'll look at diamond mining and the startups that plan
+to mine the oceans for copper, gold, and other minerals.  
+  
+

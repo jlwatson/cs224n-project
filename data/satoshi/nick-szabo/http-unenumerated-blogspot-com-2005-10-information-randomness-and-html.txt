@@ -1,0 +1,5 @@
+I spent several years working as an information security engineer. I've
+written on the mathematics of information quite a bit, including my
+Introduction to Algorithmic Information Theory, The Abuse of Statistics in
+Cryptography, and Absolute Compression and True Randomness.
+

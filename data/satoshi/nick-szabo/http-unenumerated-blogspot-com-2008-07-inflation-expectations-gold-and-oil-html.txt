@@ -1,0 +1,272 @@
+James Hamilton (link below) commits an egregious, but all too common, error:  
+
+> Yet another example, and the one people often think of first, would be if
+there is a higher inflation rate in the U.S. than Europe. In that case we
+might expect to see an increase in the price of oil that exactly equals (in
+percentage terms) the decrease in the value of the dollar...The graph below
+plots the cumulative logarithmic change since 1999 in the dollar price of one
+euro along with the dollar price of one barrel of oil...
+
+Hamilton then computes correlation coefficients between dollar oil prices and
+the euro/dollar exchange rate, finds a number of periods in which they are not
+closely correlated, and concludes that the dollar does not explain most of the
+dramatic rise in oil prices. Why do we keep seeing this kind of reasoning from
+supposed authorities like Mr. Hamilton? The flaw should be quite obvious, but
+since I've seen it mindlessly and repeatedly perpetrated by a number of
+professors of economics over the last few months, allow me to tediously
+correct it: if greater inflation is expected in _both_ the euro and the
+dollar, the price of oil will increase in  both euros and dollars. The
+euro/dollar exchange rate reflects relative monetary changes between the
+dollar and the euro, and the monetary component of the dollar oil price
+reflects absolute monetary changes in the dollar. It is absurdly illogical to
+expect the relative and the absolute to be strongly correlated. If the
+monetary changes in the euro and the dollar are of similar magnitude and
+direction, oil and gold prices will go up or down for these monetary reasons
+while the exchange rate changes little for these reasons. If European and U.S.
+monetary authorities are reacting in similar ways to, for example, similar
+credit crunches, there is no reason to expect a substantial correlation
+between euro/dollar exchange rates and oil prices. We will see such
+correlation for monetary reasons only when they are reacting with
+substantially different magnitudes or in different directions.  
+  
+In expectation terms, the euro/dollar exchange rate reflects relative
+inflation expectations and surprise relative inflation between the dollar and
+the euro, whereas the monetary component of the dollar oil price reflects
+absolute inflation expectations and surprise absolute inflation for the
+dollar.  
+  
+Analyzing the weekly price quotes since 2000, I get a correlation coefficient
+of 0.93 between the dollar price of gold and the dollar price of oil -- both
+absolute measures of dollar inflation expectations and surprise dollar
+inflation. The alternative hypotheses, changes in expectations and surprises
+in technological/geological supply or industrial demand, have very different
+effects on gold and oil that should lead to low correlations between their
+prices. The high correlation between gold and oil implies that oil as well as
+gold price changes are dominated by monetary factors. Many professional
+economists seem to be in denial about these basics of life under fiat
+currencies, perhaps since this ruins using the highly visible gas prices for
+simple chapter 1 lessons about how the fundamentals of consumption demand and
+supply by themselves are supposed to fully determine prices. These chapter 1
+exercises, besides neglecting expectations, assume fixed-value currencies, and
+spectacularly fail for mineral commodities in our world of fiat currencies. In
+that world there is a monetary component to mineral commodity prices
+exponential in size to the expected inflation rate. This monetary component
+always dominates the gold price and at more than minimal levels of expected
+inflation (i.e. > ~2%/year) it also dominates oil prices, as demonstrated by
+the high correlation between gold and oil prices since 2000.  
+  
+[UPDATE: another thing that puzzles many economists is why oil consumption has
+not dramatically slackened, and indeed in some areas has still risen, in
+response to climbing oil prices. This demand puzzle is a problem for any
+theory, whether monetary or fundamental. The answer involves demand
+fundamentals, but does _not_ involve fundamentals that have _changed_
+substantially in the last decade: demand forms a fairly constant backdrop for
+the monetarily-driven dramatic rise in oil prices; it does not itself explain
+the rise. The answer to the demand puzzle is that despite all the recent
+political sci-fi rhetoric to the contrary, oil is a superior form of energy,
+often with no economical ready substitutes, as well as a great chemical
+feedstock. Automobiles in particular give us quite valuable real options that
+the vast majority of us actively seek and are extremely reluctant to give up.
+When gas prices go up we cut back on luxuries and many other kinds of
+necessities to make room for greater gas expenditures. Alternatives are
+typically costly status items, like hybrids, that are not practical
+substitutes for most people. As a result the demand for oil is far less
+elastic than for most commodities. Furthermore, because the dramatic oil price
+rise of the last decade is largely a monetary not a fundamental effect, the
+costs of alternative energies and conservation are also inflating -- they are
+simply much stickier than oil prices and will thus lag but eventually catch up
+to them. Investments in them will turn out far worse than a mere fundamental
+analysis would indicate, and enough people remember the 1970s, and how tacky
+and dangerous the small cars everybody bought in the late 1970s and early
+1980s seemed by the late 1980s, that this has made people more reluctant to
+buy small or alternative in the current runup. Adding to oil's inelasticity
+are the many countries that subsidize fuel consumption.  
+  
+Observe that this inelasticity and these subsidies, while important for
+explaining the demand puzzle, have not changed substantially as dollar oil
+prices have climbed by more than a factor of 10 since 1998. The component of
+the demand curve reflecting fundamentals has gradually risen, but it has also
+risen by a similar proportion in many prior decades and can't explain any
+dramatic increase in oil prices. What has changed are inflation expectations,
+driven by increasing government deficits and expected central bank behavior in
+response to the credit crunch, among other monetary factors. Our higher oil
+and gold prices reflect, exponentially, the increase in these expectations.]  
+  
+(Here's the link to Hamilton's erroneous analysis, H/T Marginal Revolution,
+and my comments above were originally made at that blog, and appear here
+slightly edited).  
+  
+Here are two graphs I've recently made based on my historical studies of the
+relationships between inflation, long-term inflation expectations, gold, and
+oil (click to enlarge):  
+  
+  
+  
+The first graph shows implied expected inflation based on historical weekly
+gold and oil prices, 2000-2008. The oil and gold prices are adjusted for an
+estimate of historical inflation (specifically inflation as measured by CPU-I
+up to the date of the price, as opposed to inflation expected after the date
+of the price, which these adjusted prices imply) and for a small fundamental
+long-term trend (see below). The absolute expected inflation is based on
+certain baseline assumptions, whereas the relative changes in inflation
+expectations are not based on these parameters but simply on the theory that
+the oil and gold prices reflect the net present value of expected inflation,
+which is an exponential function. There is a close correlation, specifically
+0.93, between the weekly movements of gold and oil prices in this period. The
+expectations implied by oil include both monetary component reflected by this
+correlation as well as a much smaller component primarily reflecting differing
+expectations and surprises between gold and oil in industrial demand and
+technologicaly/geological supply.  
+  
+The separate oil (in gold prices) expectation graph reflects this difference.
+My attribution of all the differences between gold and oil to these
+fundamentals assumes that there has been insignificant change in the relative
+demand for gold and oil _as money_ , which may be dubious assumption give the
+great recent rise in the use of oil and other commodity derivatives to hedge
+inflation in investment portfolios, and also the possibility that the security
+of economic property rights (i.e. effective long-term control by the same
+entity) in oil has increased recently faster than that of gold. But the
+fundamental contribution to the price of oil in terms of gold must be
+substantial since the graph of the difference in price expectations between
+the two reflects major events impacting oil demand such as 9/11(which along
+with the recession from the dot-com crash greatly impacted world and
+especially U.S. travel, reducing oil demand).  
+  
+A few potentially important monetary events, such as the appointment of Ben
+Bernanke to replace Alan Greenspan as Fed chairman, are also labeled. There is
+a significant increase in the both the level and volatility of inflation
+expectations around and after this appointment as the market tried to predict
+how inflationary Fed policy under Bernanke might become, and generally
+indicated that higher inflation could be expected from Bernanke than
+Greenspan. Even before Bernanke was chosen, the ballooning federal deficits
+after 9/11 caused a gradual but substantial increase in inflation expectations
+from then until the end of Greenspan's term. Over his entire leadership from
+1987 to 2006, Greenspan lowered inflation expectations from about 4% to below
+2%, and they then rose to about 2 1/2% by the end of Greenspan's term, and are
+back above 4% today. (Greenspan in his own book, _The Age of Turbulence_ ,
+published in 2007, says that with fiat currencies we can expect inflation of
+about 4.5% from here on out, a more pessimistic estimate than that probably
+implied by gold prices in 2007, but perhaps a bit more prescient than the
+market given that inflation expectations have increased to above 4% in 2008.
+Of course, remember that my model reflects changes in inflation expectations
+much better than absolute inflation expectations, so these absolute numbers
+are very approximate).  
+  
+Not shown on these graphs is a very interesting possible difference of nearly
+1% between inflation expectations implied by gold, recently a bit over 4%, and
+expectations implied by TIPS (U.S. Treasury bonds with returns adjusted by the
+U.S. CPU-I inflation index), recently 3.3% The difference may largely reflect
+the errors I have suggested might exist in my absolute (but not relative)
+numbers due to my choices of parameters, but they might also reflect one or
+more of the following:  
+  
+(1) The difference between the consumption basket of the U.S. urban consumer
+(as reflected in the CPU-I) and a global consumption basket;  
+  
+(2) Understatement of actual subjectively experienced inflation by the CPU-I
+formual based on errors in its formula, perhaps including the "hedonic" and
+other adjustments made to it in recent years (we don't have TIPS prices to
+measure differences in gold- and TIPS-implied inflation prior to 2005);  
+  
+(3) subtleties involving discount rate and utility curve differences between
+the U.S. urban consumer and some global average; and/or  
+  
+(4) Prices on the 10-year TIPS reflect inflation expectations only over the
+next 10 years, whereas gold reflects inflation expectations over an
+indefinetely long period. If some event (e.g. the baby boomers reaching years
+of requiring peak medical attention, causing U.S. government deficits to
+skyrocket) posing great inflation risks is expected to occur within a
+foreseeable period of time but not within the next 10 years, this could be
+reflected in a spread between the two implied expectations.  
+  
+There is also a small component of long-term relative oil/gold fundamentals in
+my analysis. Since the 1950s, oil prices have increased on average 0.9%/year
+faster than gold, which I have attributed to a fundamental difference between
+the two: a greater proportion of oil is actually consumed every year than
+gold, and so oil is gradually (i.e. at 0.9%/year) becoming scarcer relative to
+demand than gold. The graphs and implied inflations are adjusted for this
+effect. This is as close the numbers attribute any reality to "peak oil"
+theories: they show that we do not face an imminent demise of the oil economy,
+only a very long and very gradual increase in the technological/geological
+scarcity relative to consumption demand for oil. Extrapolating the same rate
+as the last 50 years, the price of oil in terms of gold will take 80 years to
+double. Taking out monetary factors and this gradual effect, we have had in
+the recent years (indeed since 1999, although until about 2003 this was masked
+by low inflation expectations) a small acute crisis in the fundamentals of
+oil, rising a bit above the 0.9%/year trend as it did in the 1970s, but this
+burp not substantially greater than in many former years such as in the 1970s,
+and I expect it, as occured in the 1980s, to reverse from technological
+substitutes for and conservation of oil which we are currently (as in the late
+1970s and early 1980s) overinvesting in, due to monetary effects on oil prices
+being mistaken for fundamental ones. This mistake will reify as alternative
+energies and conservation techniques (barring unexpected technological
+breakthroughs), with stickier prices lagging those of oil in reflecting
+inflation expectations, increase in price _faster_ than oil in the next decade
+(assuming no further monetary problems that further increase inflation
+expectations and thus oil prices). Prices besides oil, gold, and to a lesser
+extend other mineral commodities are far stickier than those mineral prices.
+Once inflation expectations increase, it takes many years for other prices
+(and especially the stickiest prices of all, wages) to catch up to oil and
+gold: these other prices greatly lag both increases and decreases in oil and
+gold prices, and indeed may never catch up at all if the expectations turn out
+to be wrong (as they indeed often are, given how little information the market
+actually has on future U.S. government and Fed behavior!)  
+  
+The second graph shows this expected versus the actual (or at least CPI-U)
+dollar inflation from 1968 to today. Again from the difference between oil and
+gold we can see some oil fundamentals such as the impact of the Asian/Russian
+crisis on lowering oil prices (in terms of gold as well as, in this case,
+dollars, as inflation expectations were also at their lowest) in 1998 and of
+the Iran/Iraq war which depressed oil prices in terms of gold in the 1980s
+(probably due to decreased security of long-term economic property rights in
+their oil and the need by these oil states to fund their war with limited
+ability to borrow).  
+  
+Since I generated these graphs three weeks ago, there has been a substantial
+and as usual correlated drop in both dollar gold and oil prices, probably
+reflecting an easing of the credit crunch in the U.S. and more confidence that
+the Fed, seeing its inflationary behavior lead to immediate and politically
+consequential pain at the gas pump, is less likely to use high inflation to
+default on current U.S. debts than was thought in previous weeks. At the same
+time the overt default risk for Treasuries has nearly tripled, also reflecting
+some new political limits on inflationary default. By the way, in the most
+recent week the dollar also strengthened against the euro by a similar amount,
+so that the explanation for last week, but not most of the previous ones,
+involves a monetary improvement unique to the dollar rather than shared by the
+Fed and the ECB.  
+  
+  
+[UPDATE: here's a third graph showing implied inflation expectations derived
+from monthly quotes of gold and oil in dollars going back to 1974, using some
+different parameters than were used for the second graph econd graph. The two
+expectations have a correlation coefficient of 0.76. (I forgot to run the
+correlation with the parameters that generated the second graph, so I wanted
+to show the graph corresponding to the 0.76). This is still a strong
+correlation consistent with the long-term trends in oil and gold prices each
+reflecting a common estimate of future inflation -- gold and oil fundamentals
+are very different and so cannot lead to such strong correlation. This
+compared to two random walks with no long-term tendency to rise, which on
+average have no correlation.  
+  
+Per the comments below, the 0.93 coefficient cited above might for statistical
+reasons suggest much more correlation than actually there due to the rising
+nature of both making the differences from the mean calculated in the
+coefficient consistently large and thus reducing the proportional difference
+in movements: a random walk that tends to rise can also have correlation
+coefficients in the .60's to .90's. Indeed taking correlations of differences
+we get only .25, on the high end of weak positive correlations, for one-week
+deltas, but this rises with the weeks of difference: I've calculated up to 40
+week deltas which give 0.64, a strong correlation. This suggests that weekly
+fluctuations are dominated more by non-monetary factors and the monetary
+factors don't start to dominate until the price movements are over about 6
+months: fundamental fluctuations tend to be shorter term and tend (except for
+the 0.9% secular trend for which I've adjusted the data) cancel each other
+out. There are also as I undestand it, and I am admittedly no statistical
+expert, statistical reasons to expect that the 0.25 is too low in that such
+differencing can exagerate noise. For the two implied inflation expectations
+in the third graph, which have a 0.76 correlation coefficient, the
+exageratedly small differences in proportion due to large distances from the
+mean should be greatly reduced since the series is largely flat, finishing
+pretty much where it started. But all this must be subject to review by people
+far more knowledge in statistics than I. :-) ]
+

@@ -1,0 +1,24 @@
+A common kind of mental transaction cost is demonstrated by psychological
+pricing, and in particular the strong tendency to price things at $(X-1).99
+instead of $X.00.  
+  
+As Brian Moore points out, an extra digit is an easy visual way to filter out
+higher prices:  
+  
+
+> If I see the following prices for gas:  
+>  
+> .99  
+> .98  
+> 1.02  
+> .89  
+>  
+> My brain immediately dismisses the 3rd price, then goes back and looks at
+the others to find the lowest A seller doesn't want to be eliminated like
+that.
+
+Furthermore, we save on mental transaction costs by processing the more
+signicant digits first and often ignoring the rest. That fits our habit of
+scanning numbers from left to right.  
+  
+

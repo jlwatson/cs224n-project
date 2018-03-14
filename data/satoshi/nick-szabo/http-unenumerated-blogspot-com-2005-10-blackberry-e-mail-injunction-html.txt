@@ -1,0 +1,10 @@
+Chief Justice Roberts has denied RIM's request to stay an injunction by the
+trial court that might soon shut down RIM's Blackberry e-mail system, which
+has been held to violate NTP's United States wireless e-mail patent. The
+Supreme Court is still considering RIM's petition for writ of certiorari (i.e.
+whether to take the case on appeal). The Federal Circuit held that RIM's
+distributed system in North America, with a relay server located in Canada and
+some of the Blackberries and their users located in the United States,
+violated NTP's United States patent for a distributed e-mail system involving
+wireless devices and a relay.
+

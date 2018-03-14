@@ -1,0 +1,128 @@
+There is a long-standing controversy about the idea of parliamentary supremacy
+-- the idea that legislative law trumps all other law. That is currently the
+dominant theory in England, but the United States holds a contrary view --
+here judges review legislative laws against a prior and higher law: a written
+constitution (and perhaps also against natural law, but that is a subject we
+won't pursue here).  
+  
+Parliamentary supremacy was not always the view in England. Sir Edward Coke,
+for example, considered some old statutes and case precedents part of a higher
+"common law" that could on occasion trump statute. Coke's doctrine was not
+overtly repudiated by English legal courts for several hundred years, but
+neither was it strictly followed by later judges. Parliamentary supremacy was
+a major legal issue in the American Revolution which separated the United
+States from England.  
+  
+One of the problems with the modern debate over this issue is that the
+question is put in modern terms that assume that statute and case law where on
+point must always be followed --the modern rigid view of written law. But this
+was, if out of practical necessity if for no other reason, not the medieval
+view of the law. Books (or, more often, scrolls) of statutes and case records
+were often locked in dusty libraries where students and barristers and
+attorneys and even judges had difficulty gaining access to them. Sometimes
+they had simply been destroyed. As a result, prior to the 16th century printed
+editions, much of the learning about the law came from oral instruction rather
+than books. It was gestalt in nature. This rendered it, by our standards,very
+flexible but also disconcertingly uncertain. Not only did judges sometimes
+forget statutes and cases; they could often also effectively just ignore
+statute or case precedent if they felt it didn't lead to a just outcome in the
+case at hand. The legal historian Theodore Plucknett, for example, recorded
+several medieval cases where statutory law was clearly on point but ignored.
+Judges thus could effectively nullify statutory law, which is even more
+powerful than the ability to review statutes against a higher law. Records of
+cases prior to the 16th only rarely cite either statutes or prior cases, but
+simply declare what the interlocutor believes the law to be.  
+  
+Another crucial point is that up to the 16th century in England (and even, at
+least nominally, somewhat later) parliamentary statute was consideredto be an
+opinion about what the law was, not a statement of new law. The same held true
+for case precedent (and nominally still does even up to today). Of course, in
+reality law was always evolving, and statutes might indeed radically change
+things. But this ancient attitude towards the law was plausible at the time,
+again due to the primarily oral nature of the law, and it had legal
+consequences. It meant, first of all, that the modern "last-in-time rule"
+(when two statutes conflict, the later statute has effectively repealed the
+earlier one) was not in force -- a later statute could be reviewed equally
+against an earlier statute and the judge could decide which version most
+suited the case. Thus the earlier statute was neither a higher law (as in
+modern judicial review against a constitution), nor a lower law (as in the
+modern "last-in-time" rule) but merely another opinion about the law to be
+weighed against the more recent opinion. The more recent or more ancient
+statute might weigh more heavily depending on which was considered more
+authoritative Secondly, the fact that statutes were merely an opinion about
+the law, not the law itself, gave a judge justification to ignore them when
+they felt they were not very authoritative, which for the practical reasons
+cited above they often did. If you couldn't remember the law but had to look
+it up (which before printed editions could involve quite a bit of trouble), it
+probably was not so authoritative. Third, it meant that there could be two
+leading theories about judicial review against case law:  
+  
+(1) Parliamentary statutes trump cases from the Kings Bench, Chancery, and
+other courts because Parliament is the highest court in the land.  
+  
+(2) Parliamentary statutes are simply dicta (since they typically did not
+involve a specific case and controversy brought to trial), and therefore take
+lower priority than case precedent.  
+  
+I'm not aware of any participant in this debate expressing the second theory,
+but some might have thought it implied, as I do. The first theory has often
+been cited as the leading argument for parliamentary supremacy, but not much
+before Blackstone made it popular in the late 18th century.  
+  
+Sir Edward Coke, the leading opponent of Parliamentary supremacy, (and whose
+opinion in Dr. Bonham's case is perhaps the only unequivocal precedent against
+such supremacy), muddled the issue by often quoting at least one old statute,
+the Magna Carta, as a law that trumped later statute. Coke effectively treated
+the Magna Carta as the United States treats our Constitution. In the habits of
+the time, he simply weighed its authority very highly. An argument for Coke's
+view is that Magna Carta took the form of a property grant that effected the
+entire property of the realm (including all incorporeal rights, such as what
+we call civil liberties), and that it was a charter for England itself
+analogous to the charters the king was granting for early American colonies at
+the time, which trumped the statutes of the resulting colonial legislatures.  
+  
+But Coke also considered certain long-standing procedural doctrines derived
+from case precedent, such as the right to a properly trained judge, to be part
+of the higher law against which statutes should be reviewd. He did not
+consider most everyday aspects of what we now call the common law (the law of
+real property, tort, etc.) to be part of this higher common law that trumped
+statute. Rather, the higher common law was confined to certain important
+procedural rights, similar in style to those later found in the United States
+Bill of Rights.  
+  
+Americans had a stronger case for judicial review. First, our (mostly
+corporate) colonial governments were franchises expressly set up by charter.
+The power of colonial legislatures was thus not unlimited, but rather was
+constrained by clauses in the charter. Colonial legislators could not, for
+example, deny the king his right to customs, and could not contravene the
+English liberties of residents, since these rights were both expressly
+reserved in the charter grants. So judicial review became the American habit
+from the start. Second, these charters were printed, thus immediately
+available to the judge and all parties; this and the fact that they were a
+higher law than local legislative statute helped them to be applied, using the
+modern view of written law, and a strict way. (The extent to which
+Parliamentary statute applied to the colonies, beyond the extent to which
+Parliament could regulate the king's customs and military affairs, and whether
+Parliamentary statutes could themselves be reviewed, per Coke, and against
+what,were far more controversial issues, and played a leading role in the
+Revolution). As a practical matter, Americans also got in the habit of
+conducting judicial review of statutes, and thus in contrast to English judges
+acquired much practical experience at the task. Judicial review of statutes is
+not something one immediately learns to do once one thinks of the idea, and if
+one has not learned how to do it properly, it's easy to imagine why one would
+be opposed to the idea.  
+  
+Update, Sept. 14th 2006: Todd Zywicki has made similar points about case law,
+precedent, and the doctrine of _stare decisis_ in his paper "The Rise and Fall
+of of Efficiency in Common Law: A Supply Side Analysis," available at SSRN.
+Before the printing press, and to some extent for several centuries
+thereafter, case precedent was very hard to access through other than oral
+communications and was considered more or less authorattive according to a
+variety of factors rather than followed rigidly. Thus s _tare decisis,_ the
+modern doctrine that courts must follow precedent, was not rigidly adhered to.
+I'd also add something that Zywicki's account and my own research experience
+with medieval cases implies, namely that the the idea of "overturning" a case
+was unknown. A contradictory older case could always be treated as more
+authoratitive than the more recent case, or vice versa, in parallel with the
+lack of a "last-in-time" rule for statute law.
+

@@ -1,0 +1,110 @@
+In the first two parts of this series I described undersea oil and diamond
+mining operations. In addition at least two startup companies, Neptune
+Minerals and Nautilus Minerals, are moving into mining the seafloor for
+metals. They're planning to dig into extinct black smokers for copper, and
+possibly also zinc, gold, silver, and other minerals. David Heydon, CEO of
+Nauilus Minerals, says of the remarkably high quality of the ores, "we haven’t
+seen these types of mineral deposits since the beginning of modern mining."  
+  
+Nautilus and Neptune don't plan to mine live black smokers, which would be
+dangerous (black smokers are hot springs with temperatures well above 200
+centigrade, although not boiling because at high pressure) and environmentally
+questionable (live black smokers team with exotic chemosynthetic life).
+Rather, they plan to mine the probably far greater number of extinct and
+lifeless black smokers that populate the oceans.  
+ _autilus paydirt:  
+Cutting of an extinct black smoker at 1,600 meters._  
+  
+Geologist Steven Scott, a longtime advocate of sea mining, describes the
+geology of seafloor massive sulfides (SMS's). "These deposits are essentially
+metalliferous mud formed from hot, dense brines." They form within and around
+black smokers, the famous deep-sea vents discovered in 1979. Black smokers
+deposit "sinter-like mounds and chimneys of metal sulfides, oxides, silica and
+sulfates. Veins, disseminations and stockworks of relatively low metal grade
+impregnate the underlying lavas."  
+  
+Curiously, we may already be mining black smokers: billion-year-old, long-
+extinct black smokers whose remains now lie on dry land. "The [current live
+black smoker] deposits have similarities to so-called volcanogenic massive
+sulfide ores being mined on land in Canada and elsewhere and which formed in
+ancient oceans as much as 2700 million years ago. Elements of potential
+commercial interest in both the modern and ancient deposits are copper, zinc,
+lead, silver, gold and barium. About 150 seafloor sites are known, most of
+which lie between 1500 and 3500 meters water depth."
+
+####
+
+_Neptune paydirt, topside._  
+  
+Both Neptune and Nautilus recently performed assays of several promising
+extinct smokers. Nautilus' assay was performed by two methods: a drill based
+on a ship (but dropped through 1600 meters of water) and a remotely operated
+vehicle (ROV) that took cutting samples. Here are at least some of the
+results. Heydon observes that "with 97% of the ocean floor yet to be
+extensively explored, it is likely that numerous deposits remain
+undiscovered."  
+  
+Here is more from Steven Scott.  
+
+#### Business Plans
+
+Nautilus estimates that it could cost as much as $300 million to ramp up to
+full-scale mining. Its plans include a $120 million specialized mining ship,
+the _Jules Verne_. This ship is similar to the FPSO used for deep sea oil, but
+will separate ore from sludge and water rather than oil from water. A large
+ROV, based on the trencher ROV used to lay pipes in the deep sea oil industry,
+but adding a large rotating drum scraper like those used in coal mining, will
+scrape the smokers creating sludge which will be pumped up to the _Jules
+Verne_ and processed. Since the most expensive FPSOs can cost upwards of $800
+million, the $120 million is a relative bargain. Indeed, the basic
+mothership/ROV setup is taken straight from the deep sea oil industry FPSO/ROV
+methodology.  
+
+> Nautilus will contribute $120 million to develop undersea tools, including
+pumps, pipes and two subsea crawler-miners. It will also partner with a group
+of engineering companies with expertise in drilling and geophysics. If _Jules
+Verne_ is in place by 2009, it could stay at the Papua New Guinea site until
+2014, before moving on to exploit other deposits. Nautilus estimates that it
+will be able to mine 6000 tonnes a day from its target site.  
+>  
+>  Although there are technological hurdles to be overcome, ... 'the
+technology already exists; it just hasn't been integrated in this way. One
+beauty of the sea floor model is that a floating equipment production chain is
+our one main investment. Once we have the chain we can easily bring it up and
+redeploy it to another area.'
+
+(More on Nautilus' plans here).  
+  
+_Nautilus' ROV with cutting arm to take samples._  
+  
+Like many start-ups, Nautilus has a speculative and risky business plan, but
+the payoff could be vast:  
+
+> [Nautilus] doesn't expect to reach first-scale production until 2009.
+There's no comparable traditional mining business model, since many of the
+individual deposits underwater are too small to be economically viable if they
+were on land. But because offshore drilling operations can move, whereas mines
+on land are stuck, the combined value of deposits in a wider area makes the
+operation worthwhile.  
+> ...  
+> The worth of the oil, gas and minerals in the world's oceans is estimated to
+be in the trillions of dollars. If Mr. Heydon's estimates are correct, deep
+sea mining could have the potential to supply the world's growing demand for
+gold, copper and silver, among other metals. The resulting revenue could be in
+the billions of dollars for deep sea mining companies, of which only two
+currently exist.  
+> ...  
+> Disputes over who owns what in the ocean have been a fact of global politics
+for decades. For reasons of security, potential resources and sometimes just
+pride, countries are constantly claiming control over new chunks of underwater
+property. As an indicator of just how rare it is to be able to mine hassle-
+free in the ocean, the exploration licence Papua New Guinea granted Nautilus
+was a world first.  
+>
+
+More here.  See also here.  
+  
+In forthcoming posts in this series, we will look at some of the
+technological, environmental, political, and legal considerations involved in
+this new endeavor.
+

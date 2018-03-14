@@ -1,0 +1,61 @@
+  
+Abstract money today primarily involves accounts and other computerized bits,
+but traditionally came in the form of paper. The Chinese, who invented paper
+money called it "flying money." Abstract money is worthwhile because the
+dominant kind of money over human evolution, unforgeably costly commodities,
+can be quite costly to store and transport compared to abstract documents. For
+money the biggest costs of storage and transportation are typically not
+mundane real estate or carriage costs, but active security threats such as
+robbery and embezzlement.  
+  
+Abstract documents, unlike unforgeably costly commodities, require trust in a
+human institution to enforce the abstract claims of value made in the
+document. This enforcement, if effective, lets the recipient of the document
+be confident that it can be converted into something of value, traditionally
+an unforgeably costly commodity that backs the document. If the recipient of
+the document wants to trade the document to third parties -- negotiate it --
+this enforcement may also provide confidence to these third parties that they
+too can receive something of value in exchange for relinquishing the abstract
+claim.  
+  
+Enforcement typically came in the form of legal and reputation systems. For
+example, the Medieval European law merchant enforced contracts and monetary
+promises in the merchants' own courts, with remedies such as bankruptcy and
+expulsion from merchant guilds. Bosses (principals) enforced orders against
+their employees (agents), and there were also often family relationships
+within firms that increased trust within the firm.  
+  
+In most modern legal systems, and in many traditional legal and merchant
+reputation systems, credit money has come in two basic forms -- drafts, or
+orders from a boss to his employee (in legal jargon, from a principal to his
+agent) to transfer goods to a certain person, and notes, or promises to
+transfer goods to a certain person. A draft was enforced privately, by the
+ways bosses normally discipline employees; a promise to pay was enforced by an
+enforcement agency, often a government, by reputation among merchants, or
+both. Often the document reifying money that we will examine took on both of
+these roles.  
+  
+The draft, in particular the warehouse receipt, is probably oldest form of
+credit document. Warehouse receipts are issued to document the storage of
+personal property in a warehouse. Typically, a warehouse receipt is an
+acknowledgement that the warehouseman is holding the owner's goods. The
+receipt acts as a title to the goods; transferring the receipt is as good as
+transferring the goods. The receipt acts as an instruction to the
+warehouseman's agent to release the goods to whoever presents the receipt.
+Thus, it is more properly categorized as a draft (an order to an agent) than a
+note (a promise to pay), although in some ways and in some legal systems it
+has been treated as both.  
+  
+Another kind of draft is a bill of lading. This is a receipt for transported
+goods, and an order for the transport agent at the other end to release the
+goods to a person authorized by the shipper to receive them.  
+  
+
+> Description of illustrations(in order): Sumerican clay envelope c. 3,500
+B.C., probably a warehouse receipt or a billing of lading; plate for Chinese
+paper money, c. 1279 A.D., with recent print from that plate; private bank
+note of the Bank of Scotland, 1716; Early Mormon private bank (Kirkland Safety
+Society, Ohio, U.S.A.) note signed by Joseph Smith, 1837; private bank note
+from a private road and bridge operating company (Delaware Bridge Company, New
+Jersey, U.S.A.) 1838; warehouse receipt for silver with micro-barcodes 2002.
+

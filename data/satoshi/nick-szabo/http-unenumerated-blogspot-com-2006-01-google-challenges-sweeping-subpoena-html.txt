@@ -1,0 +1,71 @@
+Not two days after I observed that the United States gives litigants intrusive
+discovery and subpoena powers, the Justice Department provides a good example.
+In pursuit of its case defending the Child Online Protection Act (COPA) in
+_ACLU v. Gonzales_ that Department has commanded, via a subpoena for
+production of evidence, various search engines that are not parties to the
+suit (Google, Yahoo, etc.) to hand over very large samples of URLs available
+to be searched and search queries from you and me. For example, it commanded
+Google to hand over all "URL's" available to be searched "as of July 31, 2005"
+and and all queries performed on their search engines between June 1 and July
+31st of 2005.  
+  
+Fortunately, the subpoenas have not asked for information that might identify
+the querier (besides the query itself, which identifies all us "ego surfers"
+who like to keep track of what people are saying about us). Thus, it has not
+asked for your Internet protocol addresss that search engines could and
+probably routinely do record, or cookies which also can be used to tie
+together different searches that you have made.  
+  
+Perhaps the DoJ is just looking to make a statistical study to justify the
+law, for example that some fraction of Internet searches are for porn. They
+may argue that if porn is available to a search engine, then it is effectively
+available to minors. According to Professor Orin Kerr, the DoJ is arguing that
+COPA requires password protection for pornography, not just filters: "DOJ's
+argument is that it needs the information from Google to explain the role of
+search engines in locating and obtaining pornography, which is then integral
+to understanding why filters are not an effective alternative to COPA screens
+[i.e., password protection]." However, unless the data is securely protected
+by the procedures (archaically designed for paper documents) specified in the
+protective order, the DoJ could use this data for a wide variety of
+surveillance unrelated to porn and COPA.  
+  
+Here's a declaration that includes the subpoena, Google's response, and the
+protective order. Whereas MSN, AOL, and Yahoo complied with the subpoena
+(after apparently negotiating to reduce the amount of data), Google has
+objected to the subpoena. Good for Google! Powers to intrude on new kinds of
+privately collected data should never be given to a government without
+challenge, except where absolutely necessary in a truly urgent emergency,
+which this surely is not. (In other words, if this was September 12 and DoJ
+was asking airline web sites to hand over search queries for trips by plane to
+the East Coast the morning of the 11th, I'd expect Google to be patriotic and
+comply. Short of that kind of very rare and very urgent extremity, I expect
+and am happy to see them be patriotic and resist). If the Department of
+Justice wants Google's records, it will now have to ask the court to compel
+production under Federal Rules of Civil Procedure 45(c)(2)(B).  
+  
+I hope the federal court allows the ACLU to examine that kind and volume of
+data in its discovery of the NSA. Much more likely is that the Department of
+Justice is going to invoke national security to set up a very big double
+standard when it comes to discovery. The NSA can argue that protective orders
+designed for paper are woefully inadequate for protecting top secret digital
+data. Alas, they'd be right, even if it were just commercial trade secret
+data. Our law firms need and our courts should require 21st century security
+techniques for protection of discovered or subpoenaed digital evidence. We
+could, for example, use key splitting techniques and require that discovery be
+done on tamper-evident court computers with the evidence owner and a court
+official present. We might also in the future use multiparty secure
+computation for studies of the kind the DOJ, the ACLU, the FISA court, and so
+on would like to perform on sensitive digital data.  
+  
+Given federal discovery rules, PATRIOT, FISA, and the unchecked and infinite
+power claimed by the executive branch, the sad fact as things stand now is
+that the feds claim the right to snoop on us almost at will. Indeed, the
+Justice Department is currently arguing that they have a perfect right to
+snoop on any aspect of our lives, whether we consider said aspect to be
+private or not, at will, if at their sole discretion they believe it is
+relevant to national security. But despite the supposed even-handedness of
+federal discovery rules, the federal government is going to declare that, when
+they get sensitive about it, we have very little right to check up on them.
+Since when do "public servants" get to conduct surveillance on "we the people"
+and not vice versa?
+

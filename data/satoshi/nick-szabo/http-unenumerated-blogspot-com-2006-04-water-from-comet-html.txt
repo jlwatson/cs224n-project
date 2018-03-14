@@ -1,0 +1,26 @@
+  
+When my old employer the Jet Propulsion Laboratory slammed a 370 kilogram
+projectile into comet Tempel 1, it caused the release of at least 250,000,000
+kilograms of water from the comet over a period of two weeks, according to the
+BBC. The peak rate occurred at 5 days, and it's a reasonably continuous flow.
+This suggests a variation on my ice rocket manufacturing technique: instead of
+going to all that work to extract, liquify, distill, and then freeze water
+from the frozen mudball, just make this kind of coma (something like a vapor
+geyser) and put the slowly rotating and shaded cylinder forms in the path of
+the coma. One probably has to tether the cylinders to the comet to keep them
+from blowing away, and I haven't worked out what the best distance from the
+comet surface is, or indeed if the deposition rate on the forms will be fast
+enough at a safe distance (deposition from gas is a different regime from the
+freezing spheres I proposed in 1992). Also the comet throws off carbon
+dioxide, methane, and other gases with the water, and the vapor carries some
+dust, so it's unknown whether the purity of the deposited ice will be
+sufficient to avoid overly rapid corrosion of the thermal ("steam") rocket.
+But the economics are potentially quite attractive so it's worth looking into.
+The basic economic advantage of rockets using native ice as the propellant
+source is that (once we've moved the ice to the starting orbits of our desired
+journeys) they save not only on the expensive launch of propellant from earth,
+but also on most of the remaining mass one must now launch out of earth's vast
+gravity well, namely propellant tanks. The BBC Tempel 1 story comes via
+Emergent Chaos.  
+  
+

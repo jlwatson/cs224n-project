@@ -1,0 +1,4 @@
+One of the big engineering advantages of outer space is that microgravity
+allows for very large structures. First, however, one must figure out how to
+deploy the structure. Here's an interesting new approach.
+

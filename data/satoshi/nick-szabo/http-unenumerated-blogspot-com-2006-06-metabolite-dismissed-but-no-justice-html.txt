@@ -1,0 +1,40 @@
+We are going to have to wait longer for the U.S. Supreme Court's opinion on
+the section 101 patentable subject matter jurisprudence of the last two
+decades, in which the Federal Circuit sharply diverged from Supreme Court
+precedent. That's because the Court dismissed _LabCorp. v. Metabolite_ on a
+procedural "technical issue," namely LabCorp's failure to properly raise the
+section 101 issue at the original trial. Justice Breyer, joined by Stevens and
+Souter, wrote a strong dissent arguing that the case should be decided and the
+patent's claim to a "law of nature" held invalid. This dissent looks like a
+passing of the torch of section 101 enforcement from Stevens, the author of
+_Parker v. Flook,_ __ to a new generation of justices. Breyer's opinion
+suggests that he at least vaguely recognizes the _Neilson/Morse/Funk/Flook_
+methodology, which the Federal Circuit has long rejected despite the many
+Supreme Court precedents, including _Flook,_ that upheld it. I'll probably
+analyze Breyer's dissent in a subsequent post.  
+  
+It is unknown where the other justices stand on section 101, although it's
+probable that at least Ginsburg joined by some of the conservative justices
+would have agreed with the Federal Circuit's jurisprudence and argued based on
+dicta in _Diamond v. Chakrabarty_ that "anything under the sun" can be
+patented. Instead, however, these justices agreed with the procedural
+dismissal and thus avoided making an argument that Metabolite's claim to (as
+the dissent accurately described it) "any test" combined with a "law of
+nature" was valid.  
+  
+I find that, although I agree with the substance of the dissent (claim 13 is
+invalid under section 101 as an attempt to patent a "law of nature," and it's
+not even a close call), I agree with the majority that this case should be
+dismissed for failure to properly raise the issue at trial level. Rather than
+specifically raise section 101, LabCorp engaged in vague hand-waving at the
+trial level. At the Federal Circuit level it made a 101-type argument and
+cited some 101 cases, but inexplicably still failed to directly cite section
+101! It's grossly unfair and very costly to require already overburdened
+attorneys to respond to arguments that are poorly researched or amount to
+vague hand-waving, which is what LabCorp's implied section 101 arguments were
+here at the trial level and even to some extent at the Federal Circuit.
+LabCorp's failure to properly raise the issue allowed the Federal Circuit to
+completely ignore it, so that the Supreme Court was actually analyzing the 101
+issue in this case for the first time, without proper fact-finding under
+section 101 below: something that it should be extremely loathe to do.
+

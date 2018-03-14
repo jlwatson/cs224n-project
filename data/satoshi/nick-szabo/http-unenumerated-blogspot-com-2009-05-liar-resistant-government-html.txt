@@ -1,0 +1,102 @@
+I have extensively explored the technological codification of certain aspects
+of law -- law that is "smart" as in "smart weapons". These could implement in
+digital protocol important parts of law that are now processed by the mind via
+legal language or through physical enforcement. My focus has been on smart
+contracts, smart property, and other such technological reifications of
+private law. Here I explore the dangerous territory of extending these ideas
+to public law, especially to governmental forms and legal procedures.
+Officials of a wide variety of governments have too often over the course of
+history covered up or falsified evidence, destroyed or forged public records,
+and introduced other lies into legal and political processes. We need to
+protect future legal procedures and other governmental operations from such
+abuses.  
+  
+The canonical problem explored by computer scientists in designing these
+protocols, the Byzantine Generals Problem, is itself an exercise about liars
+in government.  
+  
+This article focuses on technologically ensuring the veracity and execution of
+those steps of legal procedure which are capable of such enhancement
+(formalizeable or objective aspects which I call "dry", in contrast to the
+many inherently subjective and non-syntactical "wet" aspects of the law):
+securing chains of evidence, securing chains of command, securely recording
+and publicizing the ownership and transfer of property, and so on.  
+  
+A set of ideas I have for procedural law, or "government" broadly defined, is
+that many of its dry steps might be based on Byzantine fault tolerance
+protocols along with cryptographic protocols that form tamper-evident
+structures such as unforgeable chains of evidence. I describe some of these
+and related protocols further here, here, and here, but I will describe the
+basic idea of Byzantine fault tolerance here.  
+  
+The basic idea of a Byzantine fault tolerant protocol is that it is a highly
+distributed peer-to-peer protocol robust from a certain fraction or less of
+its participants lying about information originally observed or created by one
+or a small subset of them. The fraction varies based on various assumptions of
+the model, but common figures are 1/3 and 1/2 for information originating from
+one node assuming that node is truthful. If the fraction required for
+successful collusive lying is not achieved (and such an attack requires either
+informed negotiations occurring before this protocol step or negotiating the
+collusion in a single step, the latter possible to avoid by assuming fraud if
+messaging is abnormally delayed), the liars are detected and can be excluded
+from future participation in the network. In a less formal sense, Byzantine
+fault tolerant protocols are simply distributed, peer-to-peer networks with
+dense communications (in the least efficient but most secure versions, every
+node sends every bit of information to ever other node) in order to protect
+against minorities of colluding liars, and to detect and exclude any liars who
+have not reached the threshold of collusion and thus can be excluded from the
+network.  
+  
+Byzantine fault tolerance protocols are not as strong as cryptographic
+protocols. They can also suffer from the sock puppet problem (also called in
+some literature the "Sybil" problem), in which one or a few liars control a
+much larger and sufficient fraction of network nodes, if the participants are
+not strongly identified as unique individuals. Thus where it is possible, we
+should augment these dense peer-to-peer protocols with or use instead stronger
+cryptographic schemes such as hashing and a variety of cryptographic
+signatures. If the Byzantine protocol is overcome by collusive liars in a way
+that cannot be detected before sufficient collusion occurs or prevented by
+cryptography, some outside manual "meta-protocol" is required to figure out
+who is lying and repair the network or create a new network containing the
+truthful state. For some kinds of communications, digital signatures and a
+chain of evidence based on cryptographic hash chains are a much stronger
+security against forgery. Byzantine protocols, with their imperfect detection
+and exclusion of liars, are to be relied on only where the lie is of a nature
+not amenable to prevention by cryptographic chains of evidence.  
+  
+Sensors and effectors can be readily hooked up to these high-integrity
+networks. Cryptography can, for example, provide us an unforgeable chain of
+evidence from a security camera to our computer displays and an unforgeable
+return chain of command from our mice to a gun or a jail cell lock.
+Cryptography can also secure smart contracts with the local officials: a judge
+declares you bailable, said authorization being transmitted to your jail door.
+Your girlfriend fills out a web form which pays the bail bondsman with a
+credit card. The bondsman's computer debits her account and then puts up the
+digital bond, and the jail door opens. You're out and I don't get to date your
+kind-hearted girlfriend.  
+  
+One popular piece of secure government that many people have worked on is
+secure voting.  
+  
+Several years ago I sketched an important sub-protocol of liar-resistant
+government, namely secure property titles (or, more generally, secure public
+registries). Such titles could, of course, include titles to political as well
+as real, personal, and intellectual property, and physical security devices
+such as sensors and weapons could be controlled based on them. In addition to
+to the cryptographic integrity of the records themselves, the public title
+registry can follow any rules of transfer in at least a Byzantine failure
+resistant way. Normal title transfers, signed over by the former owner, would
+be cryptographically strong.  
+  
+Besides the obvious real property titles, domain names, and so, on, these
+registries could securely record and transfer the shares of a corporation. Bit
+gold, my sketch of an electronic currency that minimally relies on trust in
+any one person or organization, achieves this minimal vulnerability by using
+secure property titles. Satoshi Nakamoto has implemented BitCoin which very
+similarly uses a dense Byzantine fault tolerant peer-to-peer network and and
+cryptographic hash chains to ensure the integrity of a currency.  
+  
+Making a number of important legal and political functions liar-resistant is
+on the horizon, and bits and pieces of this task are already being
+implemented.
+

@@ -1,0 +1,108 @@
+  
+  
+For those of you who didn't catch me on econ-law a few months ago [2005]
+during the hurricanes, here is an expanded version of what I posted there:  
+  
+Here are some alternative ways of rationing in an emergency. At least some of
+these have been written about by Yoram Barzel. We have witnessed all of them
+during hurricane Katrina [and also this summer (2008) during Ivan]:  
+  
+
+> (1) market prices ("price gouging")  
+> (2) waiting in line  
+> (3) centrally planned rationing  
+> (4) don't ration: just let the resource run out
+
+It's not clear that, even with perfect knowledge, with or without an emrgency,
+centrally planned rationing could operate without using one of the other
+methods of rationing. In any case, our very poor knowledge about each others'
+needs is sufficient to ensure that, short of a perfect price system, we can't
+get what we want without waiting in line, and sometimes we just can't get what
+we want (or even, the Rolling Stones notwithstanding, what we need). The worse
+the price system -- in other words, the higher the transaction costs -- the
+more we wait in line or do without, as East Germany once demonstrated (cf.
+West Germany) and as North Korea continues to demonstrate. Luckily for those
+of us in largely market price based economies, we need only wait in line when
+trying to do business with the government, call a toll-free service line, go
+to a hot movie on opening night, or during an emergency -- i.e. in the
+remaining situations where prices don't operate very well or at all, due to
+transaction costs imposed by law or otherwise.  
+  
+Mises and Hayek long ago demonstrated the weakness of centrally planned
+economies such as the old Soviet Union (or today's North Korea) -- the lack of
+knowledge the government has about peoples' needs and desires. Similarly, lack
+of the requisite detailed rknowledge of the needs of others, especially at
+specific times of crisis when they need our help most, is a huge problem even
+if we were perfectly charitable. Not even the local governments exhibited much
+knowledge of the needs of their neighbors, especially in New Orleans. Much
+less did the state or Feds (FEMA being only the most glaring example) exhibit
+even a tiny fraction of the knowledge that would be required for an optimal
+outcome. This is not the fault of the people in the government agencies to not
+act as knowlegeably as they are capable of acting, but rather the fault is in
+their implied promises and our expectations. For example, TV commentators,
+watching pictures of some Coast Guard helicopters, seem to have come to expect
+that government agencies will swoop down from the sky and rescue everybody and
+take on other attributes of God. Such as, for example, being able to
+knowledgeably evacuate people and distribute other scarce goods and services
+in a disaster.  
+  
+Per Mises and Hayek, even if the Soviet Union had been run by an perfectly
+beneficient dictator, people would have, short of a matching omniscience of
+said dictator (and of enough of his underlings to receive and act on the
+knowledge) still have waited in bread lines. When price controls hit gasoline
+in the United States in the 1970s, people similarly waited in gas lines.  
+  
+In emergencies rationing becomes extreme: people wait in long lines, pay
+"extortionate" prices, or, even worse, do without. We are thrown into
+economically unfamiliar territory and transaction costs balloon. Goods will
+always be rationed in one or more of the above four ways, and in an emergency
+the rationing can be quite severe. Our charitable spirit can temporarily
+overcome self-interest, but it can't overcome the knowledge problem or the
+scarcity of goods.  
+  
+Given that waiting in line, or doing without, are very painful (even sometimes
+deadly) alternatives, and that allowing the charge of very high prices can
+largely prevent use of these extreme and wasteful forms of rationing, why do
+we have price gouging laws?  
+  
+Can price gouging laws be explained as follows? In a zero transaction cost
+world, consumers would successfully negotiate with retailers for an insurance
+policy that caps prices in case of emergency. This may be, for example,
+because retailers are better able to bear the risk of emergency supply
+shortages than consumers are, or because consumers don't want to bear the risk
+of having to have an unusually large amount of money at hand during an
+emergency. (Katrina may be a good example of this -- it reportedly struck just
+before many paychecks were due, leaving many people who live from paycheck to
+paycheck without funds). However, the transaction costs for negotiating with
+consumers for such contracts are too high. Therefore, the default retail sales
+contract should include such insurance. Price gouging laws are a convenient
+way to do this. More generally, if it weren't such a bother almost all of us
+would like to purchase insurance against volatile prices in order to make our
+budgets more predictable.  
+  
+Whether and when wholesale contracts include such price caps provisions would
+provide interesting evidence in favor of or against this hypothesis, and under
+what conditions it would have been rational to for consumers and retailers to
+have made such a contract.  
+  
+As we have seen, there is a strong economic argument against price gouging
+laws. Consistent application of market pricing during an emergency would
+minimize the other inefficient, and occasionally deadly, rationing methods
+above, especially (4)actually running out of emergency supplies. Consumers
+could be confident that supplies will not run out, so stocking up on excess
+supplies based on fear of imminently running out of the supply (such as we've
+seen consumers do in some areas recently with gasoline) would be minimized.
+Given modern technology, perhaps we should work on improving the availability
+of credit and liquidity in emergencies via always-up wireless devices and
+immediately payable liquidity insurance policies instead of price gouging
+laws.  
+  
+Furthermore, the promise of very high prices might motivate retailers to fly
+in special deliveries of emergency supplies at otherwise prohibitive
+transportation rates. On can even imagine for-profit organizations doing many
+of the tasks that the National Guard, Red Cross, and similar organizations are
+doing now. Of course, the moral indignation would be enormous. People, at
+least in political discussion, tend to be extremely averse to "windfall
+profits" and seem to have a strong psychological preference for an implicit
+insurance policy that puts a price cap during emergencies on retail contracts.
+

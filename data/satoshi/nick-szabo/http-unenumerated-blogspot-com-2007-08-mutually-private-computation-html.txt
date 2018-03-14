@@ -1,0 +1,51 @@
+From my article, The God Protocols:  
+
+> Imagine the ideal protocol. It would have the most trustworthy third party
+imaginable — a deity who is on everybody's side. All the parties would send
+their input to this god. God would reliably determine the results and return
+the output. In addition, God, being the ultimate in confessional discretion,
+would ensure that no party would learn anything more about the other party's
+input than they could learn from their own input and the output.  
+>  
+> Alas, in our temporal world we deal with humans rather than deities. Yet,
+too often we are forced to treat people in a nearly god-like manner because
+our infrastructure lacks the security needed to protect ourselves.  
+>  
+>  
+>  
+> To an astonishing extent, network security theorists have recently solved
+this problem. They have developed protocols that create virtual machines
+between two or more parties. Multi-party secure computation allows any number
+of parties to share a computation, each learning only what can be inferred
+from their own input and the output of the computation. These virtual machines
+have the exciting property that each party's input is held in strict
+confidence from the other parties. The program and the output are shared by
+the parties.
+
+>
+
+>  
+>  
+> For example, we could run a spreadsheet across the Internet on this virtual
+computer. We would agree on a set of formulas and set up the virtual computer
+with these formulas. Each participant would have their own input cells, which
+remain blank on the other participants' computers. The participants share
+output cell(s). Each participant inputs their own private data into their
+input cells. Alice could only learn as much about the other participants'
+input cells as she could infer from her own inputs and outputs.
+
+>
+
+> I go on to briefly describe applications such as confidential auditing and
+auctions with private bids, here.
+
+>
+
+> Related articles: confidential auditing, secure time-stamping, advances in
+distributed security.
+
+>
+
+> Some outside links to papers: secure time-stamping, multiparty secure
+computation.
+

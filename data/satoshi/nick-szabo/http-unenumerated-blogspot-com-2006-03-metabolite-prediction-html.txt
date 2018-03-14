@@ -1,0 +1,37 @@
+Based on yesterday's oral arguments in _LabCorp v. Metabolite_, Harold Wegner
+predicts the likelihood that Justice Stevens will write the majority opinion
+and that this opinion will reverse and remand the case to the Federal Circuit.
+That court had held that the patent claim combining a scientific discovery
+with a prior art blood test was patentable.  
+  
+My observation is that if Stevens,who wrote the old anti-software-patent
+opinion in _Parker v. Flook_ , keeps to his old (and the Supreme Court's old)
+philosophy regarding subject matter patentability, and extends his comments
+beyond "laws of nature" to other expressly forbidden categories (one of which
+is "algorithms"), there will be fireworks for business method patents and even
+software patents. Even if the Court applies a _Flook_ -type methodology
+without expressly excluding algorithms from the scope of its argument, this
+could set a very big precedent that could be used to attack software and
+business method patents.  
+  
+I have previously written about the connection between _Metabolite_ 's
+controversy over patenting "laws of nature" and the origin of software and
+business method patents. In the paper "Elemental Subject Matter" I further
+describe how software came to be patentable despite the express prohibition
+against patenting "algorithms," and highlight the differences between the
+Federal Circuit's software-patent-friendly philosophy and Justice Steven's
+software-patent-hostile philosophy -- a difference of philosophy that easily
+extends to the "law of nature" at issue in _Metabolite_ , raising the
+possibility that _Metabolite_ will set a precedent redounding back onto
+software and business method patents.  
+  
+If _Flook_ is applied in this way to reverse _Metabolite_ , thus creating
+uncertainty about the validity of software and business method patents, expect
+a hue and cry among corporate lobbyists here on K Street, resulting in
+legislation to expressly designate software, business methods, or both as
+patentable categories of subject matter.  
+  
+There are, however, several other possible rationales for invalidating the
+patent in _Metabolite_ , so Stevens may have a hard time gathering five votes
+to apply the _Flook_ methodology here. Expect the Court's decision in June.
+

@@ -1,0 +1,56 @@
+The most notorious feature of the U.S. patent system is the current test for
+obviousness. On top of being "novel," patents are supposed to be "non-
+obvious." The novelty test is relatively straightforward: nobody must have
+previously described a device that has all the elements of the disputed patent
+claim. Thus, if A+B, B, and C have already been made or described, then A+B+C
+and B+C are novel but A+B is not.  
+  
+In order to not bother people with trivial combinations, patent law has longed
+deemed that on top of novelty there be an "inventive step," which in the U.S.
+now goes under the name of "non-obviousness." To the Supreme Court in the
+1950s, this meant that a patent claim must demonstrate "the extraordinary
+level of innovation, beyond the capabilities of a person having ordinary skill
+in the art, that warrants the award of a patent." This expressed most
+engineers' aspirations about what a true invention consists of, but it was
+notoriously subjective, leading to arbitrary decisions by patent examiners and
+courts. To create a more objective test, in the 1970's the Supreme Court held
+that a new combination which did not change the respective functions of at
+least some of the elements was obvious.  
+  
+Then Congress created the Federal Circuit and granted it a virtual monopoly
+over patent appeals. The Federal Circuit proceeded to radically change patent
+law in a variety of areas, usually in favor of the patent seeker or holder.
+Until this most recent term, the Supreme Court has largely let it do so. But
+now, first with _eBay _ and now with this obviousness case ( _KSR v. Teleflex_
+), the Supreme Court is starting to rein it in.  
+  
+Among the law the Federal Circuit changed, it made the obviousness test far
+more difficult for a patent examiner or alleged infringer to prove, but also
+made the test far more objective and straightforward. To be obvious, according
+to the Federal Circuit, there must be a teaching, suggestion, or motivation in
+prior literature that would have led a person of ordinary skill in the art
+(i.e. your typical engineer in the particular field) to have made the claimed
+combination. For the purposes of this counterfactual test it is assumed that
+this hypothetical engineer had all relevant prior art pasted on the walls of
+his office. The teaching or suggestion doesn't have to be a full-fledged
+description of a combination of the elements, as in novelty, but in practice
+the infringer almost has had to prove a lack of novelty in order to prove a
+lack of obviousness, rendering the obviousness test almost superfluous and
+leading to the raft of trivial patents engineers complain of these days.  
+  
+I'm proud to say that the professors of two of the best patent classes I took
+in law school are leading the charge to overturn the Federal Circuit's
+obviousness test. John Duffy is co-counsel for the petitioner, KSR, which is
+challenging the Federal Circuit law. Robert Brauneis is Counsel of Record for
+the 24 Law Professors as friends of the Court who support reforming the
+obviousness test. These are two very talented individuals and I predict a
+splendid success.  
+  
+KSR in its brief argues that the Supreme Court's test(s) should be restored,
+but it gives short shrift as to what specifically the test of obviousness
+should be. If you have good idea(s) for what the test(s) for obviousness
+should be, now is the time to let us know.  
+  
+Patently Obvious has more discussion of the issue and links to all the various
+briefs.
+

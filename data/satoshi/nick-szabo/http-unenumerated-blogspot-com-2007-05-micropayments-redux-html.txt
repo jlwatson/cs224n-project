@@ -1,0 +1,72 @@
+Clay Shirky describes how micropayments proponent Scott McCloud seems to have
+thrown in the towel, and he points to my old micropayments paper. A few
+comments on Shirky's excellent description of the micropayments problem and on
+my old paper may be in order.  
+  
+When I wrote that paper I thought of micropayments as payments of a
+granularity smaller than the 1 cent granularity of traditional prices, or very
+close to it. My prediction was that the granularity of payments on the
+Internet would be somewhat higher than traditional price granularity. This was
+in a response to the fascinating Digital Silk Road/Agorics idea that you could
+buy and sell IP packet transmission, memory space, and the like at
+unprecedentedly low granularities like a thousandth of a cent. There is
+basically no important computational transaction cost barrier to such
+payments, but I described mental transaction cost barriers that still have not
+been surmounted. The efforts of micropayment engineers focusing on
+computational rather than mental transaction costs were and are misguided.  
+  
+So when the Post Office raises postage rates by 1 cent, or charges a few cents
+more for one class of mail than another, that's very close to what I thought
+of as a micropayment and is what I was predicting would be very hard (not
+impossible) to do productively on the Internet. But when iTunes sells a song
+for a dollar, regardless of how popular the song is, that's a price
+granularity that is sufficiently high to overcome mental transaction costs.
+Nowadays many people call even a dollar a "micropayment" because it's smaller
+than your typical credit card payment, and this muddles the issue. Paypal and
+some services like iTunes have shown that there's at least a significant niche
+market below typical minimum credit card payment, but it hasn't shown that
+micropayments of the kind I talked about are feasible.  
+  
+I don't claim that price granularities of near 1 cent or below will never make
+economic sense on the Internet, but they do require a sophisticated attention
+to preference revelation and mental transaction costs that so far has
+generally been lacking. Something like micropayments, or at least low-
+granularity accounting, is happening on the advertising payment end rather
+than the consumer payment end. The business of selling eyeballs wholesale is
+much better able to automate the sophisticated accounting and auditing that is
+required for such schemes to work. Some proxy measures for eyeballs, e.g.
+based on "hits", have proven to be feasible when computers rather than humans
+can reliably do the counting at any granularity below thousands. Arguably some
+online games have also achieved low price granularities, although here
+payments are part of the entertainment value of the game (as in traditional
+games like Monopoly(tm)) rather than just a necessary transaction cost.  
+  
+The extent to which iTunes and the like can compete with free content is
+another issue which Shirky describes well. This competition interacts with
+price granularity insofar as the mental transaction costs put a floor on
+content prices and competition from free content (artists seeking fame rather
+than money) puts a ceiling on content prices. Shirky plausibly argues that
+there is little or (ultimately) no room in between this floor and ceiling
+leaving little and perhaps ultimately no significant market for online content
+funded directly by the consumer.  
+  
+Here are a couple more aspects of micropayments and price granularity I have
+long believed but I'm not sure I've sufficiently made clear:  
+  
+(1) As more low-wealth people get on the Internet, price granularity will
+naturally fall as such consumers are generally willing to put more effort and
+attention into shopping per money saved. Much of the reason price granularity
+has been higher on the Internet is because its users have higher than average
+wealth. However, unlike point (2) below this effect is not very large and
+won't by itself get us below traditional price granularities.  
+  
+(2) Where the mental transaction/preference revelation problem can be solved
+for high-wealth consumers at 1 cent granularity for a particular kind of
+Internet transaction, there is nothing magical about 1 cent, and it might well
+be easy to further reduce price granularity to a thousandth or a millionth of
+a cent. In that sense I'm a big fan of the agorics approach -- since
+"micropayments" has been taken to include much larger payments perhaps we
+could call them "nanopayments" -- and I hope I haven't overly discouraged
+people from looking at these fascinating and potentially quite lucrative and
+revolutionary possibilities.
+

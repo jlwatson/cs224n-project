@@ -1,0 +1,130 @@
+A "liberty" (Latin _libertatis_ or freedom) in the king's courts of medieval
+Europe usually referred something very different than it refers to now. It
+referred to the right of someone to deprive some other people of some of their
+normal rights as law-abiding subjects. In other words, it referred to a
+political property, a specifically limited right to coerce some set of people,
+usually for law enforcement or military or other political purposes. This
+curious meaning, in some ways quite the opposite of our modern meaning,
+reflects the conundrum that one person may use some freedoms to deprive
+another person of their freedoms. To prevent this, these "positive" freedoms
+to coerce can be limited to _procedural_ powers by which are enforced
+_substantive_ laws that are generally non-coercive, i.e. that generally
+protect only "negative" rights. English-derived common law (i.e. law in Great
+Britain, the Commonwealth, the United States, etc.) since at least the
+sixteenth century has generally accomplished this, and as we shall see it has
+used the flexibility of vague phrases to evolve a variety of modern negative
+rights.  
+  
+Medieval positive liberties that could be owned included the right of a lord
+to hang thieves caught red-handed in his territory, the right to hold a market
+and run a law-merchant court, to collect taxes for the king or for oneself, to
+be a privateer (i.e. a pirate legitimized under the king's laws), to conquer
+and run a foreign territory, and so on. There were many dozens of kinds of
+these political properties specified in thousands of property deeds, called
+charters. Charters often freely bundled real property (i.e. land) with a
+variety of political properties over territories matching the boundaries of
+the real property, but on occasion political properties could be unbundled
+from land, and specific kinds of political property could be combined with
+each other in a dizzying variety of ways. Political properties could be held
+by individuals (as in lords of the manor, counties Palatine, the proprietary
+American Colonies, and many other examples) or corporations (guilds, boroughs,
+cities like London and York, companies like the East India Company, the
+corporate American colonies, and so on).  
+  
+Individually owned politcal properties were generally hereditary. The king
+exercised his own hereditary political property, called the Realm or the
+Crown, from which at least in theory all other political property rights had
+been originally granted. As the original grantor the king retained via his
+courts jurisdiction over disputes involving those coercive properties, via the
+extraordnary or prerogative writs. Most political property rights only
+involved certain narrow subsets of the royal political powers, while some
+(such as the county Palatine) were very broad, including all royal powers
+within the boundaries of the county subject only to the intrusion of the
+king's extraordinary writs.  
+  
+In the foreign relations context, in the granting of powers of naval warfare,
+piracy, and colonization, political property was used for offense as much as
+for defense. In the domestic context, justice was meted out by these privately
+owned courts more often than injustice, but it should be observed that
+breaking free of the jurisdiction of the local lord in order to come under the
+jurisdiction of the king was, more than any other event, referred to as
+gaining one's "freedom". If you were the subject of a lord as well as, mostly
+indirectly, of the king, you were "unfree". If you were the subject of only
+the king and his ministers, you were "free". At least that is how the king's
+courts and ministers and any newspapermen that didn't want to be imprisoned
+for libel by the king's courts referred to it.  
+  
+In their quest to usurp the political properties of the lords, boroughs,
+cities, and guilds to run their local courts, the king's courts used cases
+brought under the extraordinary writs to evolve a set of "liberties" with a
+different meaning: liberties the way most of us think of them, negative
+liberties that individuals held against these private law enforcers as
+subjects of the king, and thus justified removal of the cases to the king's
+courts. The definitions of various political properties increasingly included
+the procedures within which those rights to coerce had to be exercsed in order
+to protect the king's subjects from injustice. Thus we see, for example, over
+the sixteenth to eighteenth centuries the king's courts successively stripping
+guilds of various of their jurisdictional powers and thereby increasing the
+liberty of the individual to freely engage in their trade. To try to be
+consistent, the king's judges also often, though by no means always, respected
+these negative liberties themselves in order to justify by rules their
+usurpation of the positive liberties of rival private courts.  
+  
+Many of the basic constitutional rights of individuals, for example of the
+rights enshrined in the U.S. Bill of Rights, descend from these efforts. The
+_lex mercatoria_ evolved in the privately owned market courts of Western
+Europe. Much of this merchant law was later incorporated into the common law
+(the law of the king's courts) in Great Britain by merchant juries in the
+century leading up to the industrial revolution. At the same time, the king's
+courts gained a large degree of independence from both the king and the rising
+power of Parliament, forming a separation of powers between the executive,
+legislative, and judicial branches that was to be used as a model for the
+United States Constitution.  
+  
+Lord Coke, Chief Justice of the king's court of Common Pleas under King James
+I in the early seventeenth century, declared in _Dr. Bonham's Case_ that these
+common law rights could even limit the power of Parliament, but this argument
+came to be neglected by later courts. There has been longstanding debate over
+whether this argument of Coke's was a legally binding "holding" necessary to
+reach the verdict of the case or an unecessary "dictum" and thus not binding
+precedent. A similar doctrine was, however, revived in the United States based
+on interpreting broad statements in our Constitution such as "due process" in
+terms of rights derived from English common law in order to limit the powers
+of Congress and the President. The term "due process" comes from a series of
+charters that followed the Great Charter (Magna Carta). The phrase was
+considered largely synonymous with "the law of the land" that features in the
+Magna Carta, and referred to procedural rights, including the rights of
+political property and procedural limitations on those rights, that were
+considred the "common law" at that time. However the United States' courts'
+much later interpretation of the phrase has been far more creative and modern,
+including the oxymoronic phrase "substantive due process" under which rights
+to freedom of contract, school choice, birth control, and abortion, among
+other such negative personal rights, have been unearthed and applied to limit
+State and Federal legislative and executive powers. (More on the history of
+due process here). The modern British Parliament, on the other hand, is
+considered to have arbitrary sovereign powers, which can only be limited in
+certain cases by interpreting the language of its statutes in narrow ways to
+conform with the unwritten British constitution, i.e. its procedural common
+law traditions, but again with many creative modern flourishes.  
+  
+In their efforts to limit locally coercive liberties by enhancing negative
+liberties, the king's courts fell short of consistency in some important ways.
+For example, a liberty of a corporation to enforce its regulations about a
+given subject matter (e.g. medicine, for a medical guild) in a given territory
+was often stripped from that corporation in a case involving a dispute between
+an individual and that corporation (e.g. somebody practicing medicine in the
+territory without permission of the guild), on the theory that "one should not
+be a judge in his own case." This is a very sound principle, and in the case
+of the guilds it led to the rise of free trade, but as the corporate
+barristers were quick to point out, the king's courts often did not apply this
+principle to themselves -- cases involving the king, which were many, remained
+in the king's courts. To some extent this was achieved by the independence of
+the king's courts, but it did not prevent these courts from gradually usurping
+the political property of the private courts and other privately held legal
+institutions and, with the generous help of Parliament and its own will to
+power, eventually extirpating them.  
+  
+There is a detailed analysis of many English cases involving privately owned
+rights to hold courts and enforce laws, including _Dr. Bonham's Case_ , in my
+paper Jurisdiction as Property. __
+

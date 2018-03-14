@@ -1,0 +1,54 @@
+If Mike Huben is saying that the law should be about mechanism, not policy,
+then I heartily agree. Yet Mike gets this philosophy blindingly wrong when
+applying it to the law.  
+  
+It is the highly evolved common law that got this wisdom most right:  
+  
+Contract law: provide mechanisms for making and enforcing contracts, not
+policy about who can contract with whom for what.  
+  
+Property law: provide mechanisms for transferring, collateralizing, devising,
+and protecting the quiet use of property, rather than policy dictating who can
+build what where.  
+  
+Tort law: use the edges or surfaces of the body, property, etc. as boundaries
+others may not cross without consent of the possessor, rather than dictating
+detailed rules for each possible harm.  
+  
+Et cetera. Under the common law we "write" (sometimes literally, as with
+contracts or wills) the policy of our own lives. The common law "create[s]
+user freedom by allowing them to easily experiment..." as Mike says about
+X-Windows. Our judges are supposed to accumulate a common law, and the
+legislatures write statutes, that are a "systems code" for our interactions
+with others. We, by our own agreements with those we specifically deal with,
+"write" within these basic mechanisms the rules that govern our own
+interactions with these others. The guiding philosophy of our legal code
+should indeed be mechanism, not policy.  
+  
+Of course, law as well as software is not quite this simple, and judges and
+legislatures sometimes (but not nearly as often as they would like to think)
+must make some hard policy choices for exceptions and edge cases. Also, as
+Mike proves in his essay with absurd and awful statements such as "I think
+that the rights specified in the Constitution and Bill of Rights are there for
+purposes of mechanism, not to directly protect individual rights," what is
+"mechanism" and what is "policy" is often in the mind of the beholder. In this
+case, the Founders (which for the Bill of Rights are the anti-Federalists, not
+generally the Federalists as Mike suggests) clearly had in their minds that
+the main purpose of the mechanisms was to protect individual rights,
+especially as those rights had evolved under the common law which Locke and
+the Constitution summarized as "life, liberty, and property." "Life" and
+"liberty" occur three times in the Constitution; "property" is protected in
+four different places. Mike's beloved welfare state, on the other hand, occurs
+nowhere in the Constitution. Much of the Constitution was intended to protect
+the mechanisms of the common law from the hubristic policymaking of
+legislatures and the arbitrary actions of government officials.  
+  
+The recent great strides of progress in human history, such as the Industrial
+Revolution, the Information Revolution, and the abolition of slavery, were
+propagated by common law countries. Countries lacking the common law have
+often fallen into authoritarianism and totalitarianism. The common law has
+proven that mechanism, not policy, is a very wise philosophy for law as well
+as for systems software. Mechanism, not policy, is a philosophy that all of us
+should aspire to when opining or voting on laws, and it's a philosophy judges
+should apply when interpreting them.
+

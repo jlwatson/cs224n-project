@@ -1,0 +1,25 @@
+Prions are alternatively folded proteins that catalyze the same alternative
+foldings in other (usually otherwise identical) proteins. Like DNA, prions can
+be replicators that undergo Darwinian selection:  
+
+> ...although the prion “option” [analogous to a gene with two alleles] is
+clearly subject to conventional Darwinian evolution, in the case of [the
+prion's] natural selection [the prion] is acting on a non-mendelian, non-
+genetically encoded trait.
+
+Prions are a protein analog of disappearing polymorphs in crystals. With two
+"options" the prion as replicator only contains one bit of information, but
+that's enough to make a difference.  
+  
+One of the most interesting questions raised is when prions will act more like
+genes (and thus be largely beneficial to the organism) and when will they act
+more like harmful diseases. Prion diseases include Creutzfeld-Jacob and "mad
+cow" disease. According to the replicator/vehicle theory described by Richard
+Dawkins, if the prion passes through a similar reproductive route as a gene it
+will tend to be selected like a gene and thus evolve to behave more like a
+gene (in terms of whether its effect on the organism is helpful or harmful,
+not in terms of its mechanics, where a prion is very unlike a gene). But if
+the prion passes from one organism to another through some other route (as in
+the cannibalism route of mad cow disease and kuru) it will be selected more
+like a disease and thus behave more like a disease.
+

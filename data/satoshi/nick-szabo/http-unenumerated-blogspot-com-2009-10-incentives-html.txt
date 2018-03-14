@@ -1,0 +1,47 @@
+Moral hazard and risk compensation for hikers.  
+
+> If they had not been toting the device that works like Onstar for hikers,
+"we would have never attempted this hike," one of them said after the third
+rescue crew forced them to board their chopper.
+
+I hope everybody by now knows about the moral hazard and risk compensation
+that comes with securitization, and the central role of novel mortgage
+securitization in the recent financial crisis that led to the current
+recession. If not, here's a good example:
+
+> By buying his mortgages and thus freeing up his capital to solicit even more
+business, Fannie and Freddie are a big reason Mr. Mozilo has driven [now-
+defunct sub-prime lender] Countrywide past the Citigroups and the Wells Fargos
+to the top of the mortgage heap. "If it wasn't for them," he said of Fannie
+and Freddie, "Wells knows they'd have us."
+
+Here's my analysis of incentives and clocks:
+
+> Mechanical clocks, bell towers, and sandglasses provided the world’s first
+fair and fungible measure of sacrifice. So many of the things we sacrifice for
+are not fungible, but we can arrange our affairs around the measurement of the
+sacrifice rather than its results. Merchants and workers alike used the new
+precision of clock time to prove, brag, and complain about their sacrifices.
+
+If you want something in an emergency you can wait in line, pay through the
+nose, or do without: choose one. Similar lessons apply to the current health
+care debate:
+
+> In emergencies rationing becomes extreme: people wait in long lines, pay
+"extortionate" prices, or, even worse, do without. We are thrown into
+economically unfamiliar territory and transaction costs balloon. Goods will
+always be rationed in one or more of the above four ways, and in an emergency
+the rationing can be quite severe. Our charitable spirit can temporarily
+overcome self-interest, but it can't overcome the knowledge problem or the
+scarcity of goods.
+
+Even in emergencies, when charity is most likely to spring forth, we need
+incentives. For example, doctors in emergencies are an interesting exception
+to the general rule in contract law against officious intermeddlers: if you
+are a patient who is in no position to consent or decline treatment, a doctor
+can go ahead and treat you and bill you. An implied-in-law or "quasi" contract
+has been formed. The same is not true in almost any other case: if that
+annoying windshield-washing guy starts cleaning your window without your
+consent, or if the neighbor kid comes along one day and mows your law without
+permission, you don't legally owe them a thing.
+

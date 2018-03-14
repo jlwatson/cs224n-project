@@ -1,0 +1,30 @@
+Broadcasts using sound or radiation, from sources such as radio, bell towers,
+and astronomical phenomena, must send out the same value to every receiver. A
+remote beacon such as a pulsar has perfect security: the access structure is
+any party, and its complement, the attack structure, is the empty set. For
+human controlled broadcasts, the attack structure consists only of the
+broadcaster and the access structure is any receiver.  
+  
+Natural broadcasts are thus immune to the problem (known in computer science
+as the Byzantine Generals problem) of a transmitter sending different values
+to different receivers. Indeed, distributed network researchers have gone to
+great lengths to recreate this simple property on the Internet with logical
+broadcast protocols. The results are incomplete and very inefficient compared
+to physical broadcasts.  
+  
+Nature provides clocks that are oblivious to the malicious intentions of any
+outside parties and many orders of magnitude more accurate than random delays
+that face attackers on the Internet. If critical Internet servers were
+synchronized to natural clocks in a secure and timely fashion, they would be
+immune to attacks that relied on uncertainties in timing. Here are some
+comparisons of the stability (error creep) in good natural clocks. Pulsars
+overtake atomic clocks in accuracy after about 4 months.  
+  
+ **Oscillator Stability**|  1 sec| 1 day| 1 month  
+---|---|---|---  
+Quartz| 10^-12| 10^-9| 10^-8  
+Rubidium| 10^-11| 10^-12| 10^-11  
+Cesium Beam| 10^-10| 10^-13| 10^-13  
+Hydrogen Maser| 10^-13| 10^-14| 10^-13  
+Pulsar| 10^-11| 10^-12| 10^-13
+

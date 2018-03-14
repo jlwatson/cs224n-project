@@ -1,0 +1,65 @@
+In his novel Cat’s Cradle, science fiction writer Kurt Vonnegut postulated
+“Ice-9.” Ice-9 was a form of water that was frozen at room temperature and
+catalyzed any normal water it came in contact with into more crystals of
+Ice-9. Once released into the environment, it froze all water, including us.
+Eric Drexler in the 1980s raised the specter of nano-robots that made copies
+of themselves and ate everything in their path: "gray goo." A wide variety of
+similar hypothetical disasters have since been given referred to as some sort
+of "goo."  
+  
+Self-replicating chemicals are not merely hypothetical: since Cat's Cradle,
+scientists have discovered some real-world example of crystals that seed the
+environment, converting other forms (polymorphs) of the crystal into their
+own. The population of the original polymorph diminishes as it is converted
+into the new form: it is a “disappearing polymorph.” In 1996 Abbott Labs began
+manufacturing the new anti-AIDS drug ritonavir. In 1998 a more stable
+polymorph appeared in the American manufacturing plant. It converted the old
+form of the drug into a new polymorph, Form 2, that did not fight AIDS nearly
+as well. Abbott’s plant was contaminated, and it could no longer manufacture
+effective rintonavir. Abbott continued to successfully manufacture the drug in
+its Italian plant. Then American scientists visited, and that plant too was
+contaminated was contaminated and could henceforth only produce the
+ineffective Form 2. Apparently the scientists had carried some Form 2 crystals
+into the plant on their clothing.  
+  
+Another instance of the “disappearing polymorph” may be the anti-depressant,
+Paxil (U.S. brand name for the chemical paroxetine hydrochloride). No, self-
+replicating Paxil doesn’t naturally spread into our brains and make people
+happy for free. It's not "happy goo." On the contrary, self-replicating Paxil
+converted, according to one of the parties in the ensuing lawsuit, an old, and
+now off-patent, form of Paxil into a new, patented form of Paxil. Once the new
+form, the hemihydrate form of Paxil, was created, its crystals started
+floating about, converting small fractions of the old form, anhydrous Paxil,
+into hemihydrate. Both forms of the drug work equally well as an anti-
+depressant, but it became impossible to manufacture the off-patent anhydrate
+without some of it being converted into the patented form. Call it "patent
+goo."  
+  
+Apotex, a generic drug manufacturer, was all set up to manufacture the off-
+patent anhydrous generic Paxil when it discovered small fractions of it were
+being converted into the hemihydrate. They couldn’t remove the contamination.
+Smithkline, owner of the patent on the hemihydrate, sued them for patent
+infringement. Apotex argued that the hemihydrate form occurred naturally, so
+that Smithkline’s patent was invalid. Smithkline argued that it was a
+disappearing polymorph, that the hemihydrate form had not existed before they
+had created it in their labs, and that it was up to Apotex to remove the
+hemihydrate from its product or pay it a royalty. Apotex was unable to remove
+the hemihydrate and unwilling to pay a royalty.  
+  
+Judge Richard Posner heard this case in the trial court and wrote an opinion
+that contains a good explanation of the self-replicating Paxil controversy.
+The Federal Circuit heard the appeal and decided that Smithkline’s patent on
+the hemihydrate was invalid as “inherently anticipated” because anhydrate
+naturally converts into hemihydrate. Normally, anticipation would require an
+actual reference describing the claimed chemical structure (in patent lingo
+that the hemihydrate was "taught in the prior art"). But Judge Rader held that
+inherent anticipation occurs when, more likely than not, an operation that is
+taught in the prior art would result in the claimed chemical. The anhydrate
+which was taught in the prior art would more than likely result in natural
+creation of some hemihydrate. Judge Gajarsa in concurrence argued that the
+drug was discovered not invented, making it unpatentable subject matter.
+Gajarsa’s opinion may have inspired the United States Supreme Court to raise
+the subject matter issue on its own (i.e., it had not been argued by the
+parties to the case) in _Metabolite_. The Supreme Court is considering whether
+to take the appeal on the self-replicating Paxil case as well.
+

@@ -1,0 +1,68 @@
+The D.C. Circuit has held that Congress cannot delegate lawmaking power to an
+international organization. The case is a lawsuit brought by an environmental
+group against the U.S. Environmental Protection Agency (EPA) for an alleged
+violation of the Montreal Protocol. The group argued that the EPA violated
+"decisions," or agreements that have been negotiated by party countries since
+ratification of the Protocol, defining "critical uses" which would be exempt
+from the general ban on the ozone-eating chemical methyl bromide. Some choice
+quotes:
+
+> If the “decisions” [further agreements made after the treaty was ratified]
+are “law” – enforceable in federal court like statutes or legislative rules –
+then Congress either has delegated lawmaking authority to an international
+body or authorized amendments to a treaty without presidential signature or
+Senate ratification, in violation of Article II of the Constitution. The
+Supreme Court has not determined whether decisions of an international body
+created by treaty are judicially enforceable. But there is a close analogy in
+this court...we held that rulings of the [International Court of Justice] do
+not provide “substantive legal standards for reviewing agency actions,”
+because the rulings, though authorized by the ratified treaty, were not
+themselves self-executing treaties. [citations elided]....  
+>  
+> A holding that the Parties’ postratification side agreements were “law”
+would raise serious constitutional questions in light of the nondelegation
+doctrine, numerous constitutional procedural requirements for making law, and
+the separation of powers...  
+>  
+> To illustrate, suppose the President signed and the Senate ratified a treaty
+with Germany and France to conserve fossil fuel. How this is to be
+accomplished the treaty does not specify. In a later meeting of
+representatives of the signatory countries at the United Nations, a consensus
+is reached to lower the speed limits on all major highways of the signatory
+nations to a maximum of 45 miles per hour. No one would say that United States
+law has thus been made.  
+>
+
+The court makes an interesting distinction between using an international
+organization's "decisions" to interpret ratified (and thus binding) treaty
+language and enforcing them as law itself:
+
+> Like any interpretive tool ... the “decisions” are useful only to the extent
+they shed light on ambiguous terms in the Protocol. But the details of the
+critical-use exemption are not ambiguous. They are nonexistent. The
+“decisions” do not interpret treaty language. They fill in treaty gaps.
+
+The court then makes a good analogy from contract law to treaty law:
+
+> Article 2H(5) thus constitutes an “agreement to agree.” The parties agree in
+the Protocol to reach an agreement concerning the types of uses for which new
+production and consumption will be permitted [i.e. the critical use
+exemption], and the amounts that will be permitted. “Agreements to agree” are
+usually not enforceable in contract. (“A treaty is in its nature a contract
+between . . . nations.”). And the fruits of those agreements are enforceable
+only to the extent that they themselves are contracts. There is no doubt that
+the “decisions” are not treaties. [citations elided]
+
+The court goes on to interpret the language of the Montreal Protocol to be
+consistent with the non-delegation doctrine, and thus as not authorizing
+courts to enforce post-ratification "consensus agreements": they "are
+international political commitments rather than judicially enforceable
+domestic law."  
+  
+This is a great decision, not because it preserves "sovereignty," but because
+it recognizes that a strong non-delegation doctrine is crucial to allocating
+Constitutional powers where the Framers intended them to be allocated.  
+  
+For more on the non-delegation doctrine, see my paper origins of the non-
+delegation doctrine. HT: Opinio Juris.
+

@@ -1,0 +1,189 @@
+In the middle of the Darby century came the important decision of _Miller v.
+Race_. Surprisingly, no copy of this case is to be found online save in the
+syllabus of Professor Gregory Maggs. So with his permission I've appended his
+edited version of the case (with some additional very minor edits of my own)
+below.  
+  
+Negotiable instruments – checks, bank notes, and so on – are promises to pay
+or orders with an implied promise to pay, and are thus contracts. But they
+differ from contracts in two important ways. First is the idea of “merger.”
+Normally, a contract right is an abstraction that is located nowhere in
+particular but belongs to a party to the contract or to a person to whom that
+party has assigned that right. Possessing a copy of a normal contract has
+nothing to do with who has rights under that contract. But in a negotiable
+instrument, the contract right is “merged” into the document. Assignment of
+that right takes place simply by transferring the document (in the case of a
+bearer instrument) or by indorsing (signing) and transferring it.  
+  
+The second big way negotiable instruments differ from contracts is the “good
+faith purchaser” or “holder in due course” rule which is illustrated by
+_Miller v. Race_. In a normal sale of goods under common law, the new owner’s
+title to the goods is at risk to the contractual defenses of a prior owner.
+For example: Alice is Dr. Barb’s patient and is feeling ill. Barb says to
+Alice, “sell me your Mercedes for $100 and you’ll feel a lot better.” Alice
+complies, but then later realizes she was snookered. Meanwhile, Barb sells the
+car to Chuck, who knows nothing of how Barb acquired it, for $50,000. Under
+contract law, Chuck can get no greater title to the car than Barb had. But the
+contract is void for undue influence, so Barb doesn’t have legal title to the
+car. Ergo, Chuck does not, either. Alice can sue Chuck to get her car back.
+Chuck must then sue Barb for his $50,000, an expensive and often-futile thing
+to do.  
+  
+Contract defenses are invoked so commonly that any downstream owner of a good
+is at significant title risk under common law. This risk could make things
+very bad for paper money, which to work efficiently should change hands dozens
+of times or more. Thus, _Miller v. Race_ has long been celebrated as an
+advance that made bank notes under the common law a more efficient form of
+money. _Miller_ helped create for promissory notes under common law
+(including, crucially, bank notes) what is now known as the “good faith
+purchaser” or “holder in due course” rule. Summarized, this rule says that a
+holder in due course who obtained the instrument for value, in good faith, and
+without notice of any upstream claims or defenses, is entitled to enforce the
+promise to pay in that instrument regardless of most kinds of such claims or
+defenses.  
+  
+The good faith purchaser rule can cause its own problems. For example, when
+you sign a promissory note to get a mortgage, these days the bank usually
+sells that note to an aggregator, who bundle up these mortgage notes in
+packages and sell them to investors. In most states if you make your mortgage
+payments to Bank A, who has meanwhile sold the mortgage to Bank B (and perhaps
+not told you), Bank B can bill you for that same payment and foreclose on your
+house if you don't pay. You have to pay Bank B and then beg, plead, or sue
+Bank A to get your money back.  
+  
+Today, the differences between negotiable instrument law and contract law are
+sufficient that negotiable instruments and sale of goods are in different and
+largely distinct sections of the U.S. Uniform Commercial Code.  
+  
+Mr. Race was a clerk at the Bank of England who refused to pay on demand when
+Miller presented the Bank’s note. Miller was an innkeeper who had unknowingly
+taken the note as payment from a lodger who had stolen the note from the
+mails. Forthwith, _Miller v. Race_ :  
+  
+ ** _Miller v. Race_**  
+Court of King’s Bench  
+1 Burr. 452, 97 Eng. Rep. 398 (K.B. 1758)  
+  
+
+> It was an action of trover against the defendant, upon a bank note, for the
+payment of twenty-one pounds ten shillings to one William Finney or bearer, on
+demand.  
+>  
+> The cause came on to be tried before Lord Mansfield at the sittings in
+Trinity term last at Guildhall, London and upon the trial it appeared that
+William Finney, being possessed of this bank note on the 11th of December
+1756, sent it by the general post, under cover, directed to one Bernard
+Odenharty, at Chipping Norton in Oxfordshire; that on the same night the mail
+was robbed, and the bank note in question (amongst other notes) taken and
+carried away by the robber; that this bank note, on the 12th of the same
+December, came into the hands and possession of the plaintiff, for a full and
+valuable consideration, and in the usual course and way of his business, and
+without any notice or knowledge of this bank note being taken out of the mail.  
+>  
+> It was admitted and agreed, that, in the common and known course of trade,
+bank notes are paid by and received of the holder or possessor of them, as
+cash; and that in the usual way of negotiating bank notes, they pass from one
+person to another as cash, by delivery only and without any further inquiry or
+evidence of title, than what arises from the possession. It appeared that Mr.
+Finney, having notice of this robbery, on the 13th December, applied to the
+Bank of England, “to stop the payment of this note:” which was ordered
+accordingly, upon Mr. Finney’s entering into proper security “to indemnify the
+bank.”  
+>  
+> Some little time after this, the plaintiff applied to the bank for the
+payment of this note; and for that purpose delivered the note to the
+defendant, who is a clerk in the bank: but the defendant refused either to pay
+the note, or to re-deliver it to the plaintiff. Upon which this action was
+brought against the defendant.  
+>  
+> The jury found a verdict for the plaintiff, and the sum of 21l. 10s.
+damages, subject nevertheless to the opinion of this Court upon this
+question—“Whether under the circumstances of this case, the plaintiff had a
+sufficient property in this bank note, to entitle him to recover in the
+present action?”  
+> * * *  
+>  
+> Sir Richard Lloyd, for the defendant.  
+> The present action is brought, not for the money due upon the note; but for
+the note itself, the paper, the evidence of the debt. So that the right to the
+money is not the present question: the note is only an evidence of the money’s
+being due to him as bearer.  
+>  
+> The note must either come to the plaintiff by assignment; or must be
+considered as if the bank gave a fresh, separate, and distinct note to each
+bearer. Now the plaintiff can have no right by the assignment of a robber. And
+the bank cannot be considered as giving a new note to each bearer: though each
+bearer may be considered as having obtained from the bank a new promise.  
+>  
+> I do not say whether the bank can, or cannot stop payment; that is another
+question. But the note is only an instrument of recovery. Now this note, or
+these goods (as I may call it,) was the property of Mr. Finney, who paid in
+the money: he is the real owner. It is like a medal which might entitle a man
+to payment of money, or to any other advantage. And it is by Mr. Finney’s
+authority and request that Mr. Race detained it.  
+>  
+> It may be objected, that this note is to be considered as cash “in the usual
+course of trade.” But still, the course of trade is not at all affected by the
+present question, about the right to the note. A different species of action
+must be brought for the note, from what must be brought against the bank for
+the money. And this man has elected to bring trover for the note itself, as
+owner of the note; and not to bring his action against the bank for the money.
+In which action of trover, property can not be proved in the plaintiff: for a
+special proprietor can have no right against the true owner.  
+> * * *  
+>  
+> Mr. Williams contra for the plaintiff.  
+> The holder of this bank note, upon a valuable consideration has a right to
+it, even against the true owner.  
+>  
+> 1st, the circulation of these notes vests a property in the holder, who
+comes to the possession of it, upon a valuable consideration.  
+>  
+> 2dly, this is of vast consequence to trade and commerce; and they would be
+greatly incommoded if it were otherwise.  
+>  
+> 3dly, this falls within the reason of a sale in market-overt; and ought to
+be determined upon the same principle.  
+> * * *  
+>  
+> Lord Mansfield now delivered the resolution of the Court.  
+>  
+> After stating the case at large, he declared that at the trial, he had no
+sort of doubt, but this action was well brought, and would lie against the
+defendant in the present case; upon the general course of business, and from
+the consequences to trade and commerce: which would be much incommoded by a
+contrary determination.  
+>  
+> It has been very ingeniously argued by Sir Richard Lloyd for the defendant.
+But the whole fallacy of the argument turns upon comparing bank notes to what
+they do not resemble, and what they ought not to be compared to, viz. to
+goods, or to securities, or documents for debts.  
+>  
+> Now they are not goods, not securities, nor documents for debts, nor are so
+esteemed: but are treated as money, as cash, in the ordinary course and
+transaction of business, by the general consent of mankind; which gives them
+the credit and currency of money, to all intents and purposes. They are as
+much money, as guineas themselves are; or any other current coin, that is used
+in common payments, as money or cash.  
+> * * *  
+>  
+> Here, an inn-keeper took it, bonâ fide, in his business from a person who
+made an appearance of a gentleman. Here is no pretence or suspicion of
+collusion with the robber: for this matter was strictly inquired and examined
+into at the trial; and is so stated in the case, “that he took it for a full
+and valuable consideration, in the usual course of business.” Indeed if there
+had been any collusion, or any circumstances of unfair dealing; the case had
+been much otherwise. If it had been a note for 1000l. it might have been
+suspicious: but this was a small note for 21l. 10s. only: and money given in
+exchange for it.  
+> * * *  
+>  
+> A bank-note is constantly and universally, both at home and abroad, treated
+as money, as cash; and paid and received, as cash; and it is necessary, for
+the purposes of commerce, that their currency should be established and
+secured.  
+> * * *  
+>  
+> Lord Mansfield declared that the Court were all of the same opinion, for the
+plaintiff; and that Mr. Just. Wilmot concurred.
+

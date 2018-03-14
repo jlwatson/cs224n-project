@@ -1,0 +1,137 @@
+Here's a bit of theoretical applied science I wrote back in 1993:  
+  
+
+> Using materials native to space, instead of hauling everything from Earth,
+is crucial to future efforts at large-scale space industrialization and
+colonization. At that time we will be using technologies far in advance of
+today's, but even now we can see the technology developing for use here on
+earth.  
+>  
+> There are a myriad of materials we would like to process, including dirty
+organic-laden ice on comets and some asteroids, subsurface ice and the
+atmosphere of Mars, platinum-rich unoxidized nickel-iron metal regoliths on
+asteroids, etc. There are an even wider array of materials we would like to
+make. The first and most important is propellant, but eventually we want a
+wide array of manufacturing and construction inputs, including complex
+polymers like Kevlar and graphite epoxies for strong tethers.  
+>  
+> The advantages of native propellant can be seen in two recent mission
+proposals. In several Mars mission proposals[1], H2 from Earth or Martian
+water is chemically processed with CO2 from the Martian atmosphere, making CH4
+and O2 propellants for operations on Mars and the return trip to Earth. Even
+bringing H2 from Earth, this scheme can reduce the propellant mass to be
+launched from Earth by over 75%. Similarly, I have described a system that
+converts cometary or asteroidal ice into a cylindrical, zero-tank-mass thermal
+rocket. This can be used to transport large interplanetary payloads, including
+the valuable organic and volatile ices themselves into high Earth and Martian
+orbits.  
+>  
+> Earthside chemical plants are usually far too heavy to launch on rockets
+into deep space. An important benchmarks for plants in space is the thruput
+mass/equipment mass, or mass thruput ratio (MTR). At first glance, it would
+seem that almost any system with MTR>1 would be worthwhile, but in real
+projects risk must be reduced through redundancy, time cost of money must be
+accounted for, equipment launched from earth must be affordable in the first
+place (typically <$5 billion) and must be amortized, and propellant burned
+must be accounted for. For deep-space missions, system MTRs typically need to
+be in the 100-10,000 per year range to be economical.
+
+>
+
+> A special consideration is the operation of chemical reactors in
+microgravity. So far all chemical reactors used in space -- mostly rocket
+engines, and various kinds of life support equipment in space stations -- have
+been designed for microgravity. However, Earthside chemical plants incorporate
+many processes that use gravity, and must be redesigned. Microgravity may be
+advantageous for some kinds of reactions; this is an active area of research.
+On moons or other plants, we are confronted with various fixed low levels of
+gravity that may be difficult to design for. With a spinning tethered
+satellite in free space, we can get the best of all worlds: microgravity,
+Earth gravity, or even hypergravity where desired.
+
+>
+
+> A bigger challenge is developing chemical reactors that are small enough to
+launch on rockets, have high enough thruput to be affordable, and are flexible
+enough to produce the wide variety of products needed for space industry. A
+long-range ideal strategy is K. Eric Drexler's nanotechnology [2]. In this
+scenario small "techno-ribosomes", designed and built molecule by molecule,
+would use organic material in space to reproduce themselves and produce useful
+product. An intermediate technology, under experimental research today, uses
+lithography techniques on the nanometer scale to produce designer catalysts
+and microreactors. Lithography, the technique which has made possible the
+rapid improvement in computers since 1970, has moved into the deep submicron
+scale in the laboratory, and will soon be moving there commercially. Lab
+research is also applying lithography to the chemical industry, where it might
+enable breakthroughs to rival those it produced in electronics.
+
+>
+
+> Tim May has described nanolithography that uses linear arrays of 1e4-1e5
+AFM's that would scan a chip and fill in detail to 10 nm resolution or better.
+Elsewhere I have described a class of self-organizing molecules called
+_nanoresists_, which make possible the use of e-beams down to the 1 nm scale.
+Nanoresists range from ablatable films, to polymers, to biological structures.
+A wide variety of other nanolithography techniques are described in [4,5,6].
+Small-scale lithography not only improves the feature density of existing
+devices, it also makes possible a wide variety of new devices that take
+advantage of quantum effects: glowing nanopore silicon, quantum dots
+("designer atoms" with programmable electronic and optical properties),
+tunneling magnets, squeezed lasers, etc. Most important for our purposes, they
+make possible to mass production of tiny chemical reactors and designer
+catalysts. Lithography has been used to fabricate a series of catalytic towers
+on a chip [3]. The towers consist of alternating layers of SiO2 4.1 nm thick
+and Ni 2-10 nm thick. The deposition process achieves nearly one atom
+thickness control for both SiO2 and Ni. Previously it was thought that
+positioning in three dimensions was required for good catalysis, but this
+catalyst's nanoscale 1-d surface force reagants into the proper binding
+pattern. It achieved six times the reaction rate of traditional cluster
+catalysts on the hydrogenolysis of ethane to methane, C2H6 + H2 --> 2CH4. The
+thickness of the nickel and silicon dioxide layers can be varied to match the
+size of molecules to be reacted.  
+>  
+> Catalysts need to have structures precisely designed to trap certain kinds
+of molecules, let others flow through, and keep still others out, all without
+getting clogged or poisoned. Currently these catalysts are built by growing
+crystals of the right spacing in bulk. Sometimes catalysts come from biotech,
+for example the bacteria used to grow the corn syrup in soda pop. Within this
+millenium (only 7.1 years left!) we will start to see catalysts built by new
+techniques of nanolithography, including AFM machining, AFM arrays and
+nanoresists Catalysts are critical to the oil industry, the chemical industry
+and to pollution control -- the worldwide market is in the $100's of billions
+per year and growing rapidly.  
+>  
+> There is a also big market for micron-size chemical reactors. We may one day
+see the flexible chemical plant, with hundreds of nanoscale reactors on a
+chip, the channels between them reprogrammed via switchable valves, much as
+the circuits on a chip can be reprogrammed via transitors. Even a more modest,
+large version of such a plant could have a wide variety of uses.  
+>  
+> Their first use may be in artificial organs to produce various biological
+molecules. For example, they might replace or augment the functionality of the
+kidneys, pancreas, liver, thyroid gland, etc. They might produce psychoactive
+chemicals inside the blood-brain barrier, for example dopamine to reverse
+Parkinson's disease. Biological and mechanical chemical reactors might work
+together, the first produced via metaboic engineering[7], the second via
+nanolithography.  
+>  
+> After microreactors, metabolic engineering, and nanoscale catalysts have
+been developed for use on Earth, they will spin off for use in space.
+Microplants in space could manufacture propellant, a wide variety of
+industrial inputs and perform life support functions more efficiently. Over
+95% of the mass we now launch into space could be replaced by these materials
+produced from comets, asteroids, Mars, etc. Even if Drexler's self-replicating
+assemblers are a long time in coming, nanolithographed tiny chemical reactors
+could open up the solar system.  
+>  
+> ====================  
+> ref:  
+> [1] _Case for Mars_ conference proceedings, Zubrin et. al.  
+> papers on "Mars Direct"  
+> [2] K. Eric Drexler, _Nanosystems_, John Wiley & Sons 1992  
+> [3] Science 20 Nov. 1992, pg. 1337.  
+> [4] Ferry et. al. eds., _Granular Nanoelectronics_, Plenum Press 1991  
+> [5] Geis & Angus, "Diamond Film Semiconductors", Sci. Am. 10/92  
+> [6] ???, "Quantum Dots", Sci. Am. 1/93  
+> [7] Science 21 June 1991, pgs. 1668, 1675.
+

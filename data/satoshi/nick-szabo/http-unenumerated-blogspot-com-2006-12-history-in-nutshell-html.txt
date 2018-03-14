@@ -1,0 +1,53 @@
+I've written about geographic patterns that demonstrate the importance of
+securing as well as producing wealth (link below). These have shaped forms of
+government and law. Hunter-gatherer tribes, under which our instincts evolved,
+had no need of large organizations, governments, or law as we know it. The
+dawn of agriculture was probably made possible, not by the discovery that food
+plants could be grown from seeds (this would have been obvious to a hunter-
+gatherer), but in solving the much harder problem of how to protect this
+capital investment over the course of a planting-growing-harvesting-storage
+cycle from fellow human beings. This required internal law and external
+security exercised much more thoroughly and over a larger area. It was
+securing the production, more than the production itself, that required
+eventually radical organizational evolution.  
+  
+Once farmland became the main source of wealth, there were substantial
+economies of scale in protecting it. This posed a difficulty in forming
+organizations larger than tribes; those cultures that could coordinate larger
+militaries slowly displaced tribes that could not. This led to a wide variety
+of governmental forms, but they tended to have in common that the military
+consumed the bulk of the otherwise insecure agricultural surplus. The primary
+legal form was that of real property, usually claimed by military lords and
+their heirs.  
+  
+The next phase appeared sporadically and temporarily among city-states that
+dealt most in goods (included harvested and transportable agricultural
+commodities) rather than farmland. As cultures became centered around trade
+and industry, converting from farmland to goods as the main source of wealth,
+they also tended to convert to from feudal monarchies to republics (or as we
+tend to call them now, democracies). Contract law became as or more important
+than real property law. Real property became much more alienable, either sold
+outright or pledged as security for insurance or investments.  
+  
+As most wealth became mobile, taxes became centered on trade and income -- on
+wealth transfers that require crossing borders or crossing trust barriers --
+rather than on wealth. During the same centuries as the rise of republics,
+cheap paper made widespread monolinguistic merchant communities more
+effective. The printing press gave rise to modern national languages, making
+large-scale organizations such as the modern corporation and nation-state
+possible. This led to substantial efficiency gains both in the security of
+production (and of the accompanying trade) as well as in the production and
+trade themselves.  
+  
+Technology and economy have now once again leapt ahead of government and law:
+now in the most developed countries it's no longer goods, but services and
+information, which increasingly create wealth. It's still almost anybody's
+guess what organizational forms will be needed to produce and secure service
+value and information wealth, and for that matter whether such wealth will
+take the legal forms that have appeared with goods-centered republics (e.g.
+patents and copyrights) or whether new more security-efficient forms of
+property and contract will emerge. I expect smart contracts and related
+protocols to play an important role.  
+  
+More about security and history here.
+

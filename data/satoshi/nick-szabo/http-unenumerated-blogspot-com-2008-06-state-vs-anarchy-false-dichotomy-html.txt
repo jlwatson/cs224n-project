@@ -1,0 +1,86 @@
+The false dichotomy between "state" (or "goverment") and "anarchy" can be
+highlighted every time someone tries to come up with a coherently stated
+definition of either of these supposed opposites. If we take, for example,
+Hans-Hermann Hoppe's definition literally, a federalist system of governments
+like the United States is not a "state" at all, nor are a wide variety of
+other political systems that have or could exist that could hardly be called
+"anarchies". Here's Hoppe:  
+
+> Let me begin with the definition of a state. What must an agent be able to
+do to qualify as a state? This agent must be able to insist that all conflicts
+among the inhabitants of a given territory be brought to him for ultimate
+decision-making or be subject to his final review. In particular, this agent
+must be able to insist that all conflicts involving himself be adjudicated by
+him or his agent. And implied in the power to exclude all others from acting
+as ultimate judge, as the second defining characteristic of a state, is the
+agent's power to tax: to unilaterally determine the price that justice seekers
+must pay for his services. [Source]
+
+I'm not trying to pick on anarchists like Hoppe here. Statist political
+scientists and politicians also oversimplify the world of politics and law
+with this false dichotomy. This usually takes the form of observing that
+modern governments have feature X, and by two invalid steps of logic (that X
+is necessary for government and that without such government there is only
+lawless anarchy) concluding that anyplace lacking feature X would be a lawless
+anarchy. "Anarchy" is thus used as a boogyman to justify all sorts of
+brutality, waste, and other wrongs perpetrated by modern governments.  
+  
+Let's start here:  
+
+> This agent must be able to insist that all conflicts among the inhabitants
+of a given territory be brought to him for ultimate decision-making or be
+subject to his final review
+
+The United States federal government does not "insist that all conflicts among
+the inhabitants of a given territory be brought to [it] for ultimate decision-
+making", nor even that all disputes are "subject to [its] final review." Most
+disputes occur under State and local law, and the final arbiters of State law
+are State supreme courts. Only in the minority of cases where a dispute raises
+a question of federal law, or involves people from multiple states, do federal
+courts assert jurisdiction. Nor, of course, do States hold an all-encompassing
+monopoly of power -- many issues instead come under local or federal
+jurisdiction. Furthermore, federal, State, and local governments all have
+overlapping powers of taxation.  
+  
+Now it might be argued that some provisions of federal law, for example in the
+Constitution, are so ambiguous as to effectively allow federal courts to
+assert jurisdiction whenever they strongly desire to do so. To the extent that
+there is merit in this argument, it only creates a conflict of interest
+because federal courts are able to judge the scope of their _own_ power:  
+
+> In particular, this agent must be able to insist that all conflicts
+involving himself be adjudicated by him or his agent.
+
+Hoppe indeed identifies a serious defect in modern constitutions -- they
+violate the ancient common law maxim that no one should be a judge in his own
+case. But this defect is readily cured without the kind of radical from-
+scratch destruction and reconstruction of law and politics that the term
+"anarchy" suggests. The reforms needed to cure this defect (described in more
+detail here) are (1) selecting judges by a method completely independent of
+the other political branches, so that in no real sense would judges and those
+in other branches that they judge be agents of the same entity, or one the
+agent of the other, and (2) by reform of jurisdiction, for example by changing
+who has jurisdiction over constitutional questions. If federal courts were not
+selected by Presidents and Senates whose power they then judge, and if federal
+courts reviewed disputes involving state constitutions, and a super-federal
+court reviewed disputes involving the federal Constitution, so that they did
+not have final say over the scope of their _own_ power, conflicts of interest
+of the kind that Hoppe rightly criticizes in modern governments would no
+longer commonly arise.  
+  
+What Hoppe is really arguing against can more accurately be called
+"sovereignty", the idea of one entity with a monopoly over all coercive powers
+in a territory, than "state" or "government." There are plenty of
+configurations of coercive power, in fact most such configurations over most
+of history, that do not involve this kind of sovereignty. In highlighting the
+problems of sovereignty I quite agree with him, but observe that the United
+States and many other historical and current polities are or were not
+"sovereign" in this sense, and many historical entities (such as the system of
+political property rights over most of English history) were not even close.  
+  
+Those of us who would like to greatly reduce the brutal and wasteful powers of
+modern governments do ourselves a great disservice by adopting the statist
+term "anarchist." Anarchy is the boogyman of statists. A libertarian calling
+himself an "anarchist" is like an agnostic or atheist calling himself a
+"Satanist." Seek not for imaginary opposites, but for real alternatives.
+

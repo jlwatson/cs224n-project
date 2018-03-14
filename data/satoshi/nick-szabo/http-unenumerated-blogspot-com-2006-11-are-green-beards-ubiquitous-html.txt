@@ -1,0 +1,117 @@
+This is a post is for those of you who are fellow fans of evolutionary
+theories of behavior.  
+  
+A genetic strategy has been postulated by evolutionary theorists such as
+William Hamilton and dubbed by Richard Dawkins the "green beard effect." This
+effect has been observed in nature, though only rarely has it been clearly
+distinguished from other recognize-and-discriminate systems.  
+  
+Green beard genes are genes (or more likely small sets of linked genes) that
+code for the recognition of their presence in other individuals along with
+discriminatory favoritism of those individuals. _Kin altruism_ , although
+quite common and treated in this article as a distinct effect, can be thought
+of as a special case of the green beard effect. In kin altruism genes
+"recognize themselves" only in probabalistic assemblages, i.e. by degree of
+kinship (your children and siblings are guaranteed to share 1/2 of your
+uncommon mutations, nieces and nephews and grandchildren are 1/4 related to
+you, etc. Note that we are counting new and thus still uncommon mutations, not
+stable genes: the important question is what will favor or disfavor new
+mutations. Evolutionary pressure takes ubiquitous genes for granted).  
+  
+"Green beard" is a misleading name as it has led scientists to look for
+blatant signals, but as I argue below the effects are much more likely to be
+subtle and parasitical on other kinds of recognition systems. (I don't know to
+what extent, if any, the following "green beard"/"blue beard" theory of mine
+is original, as I haven't thoroughly researched this literature and the theory
+is at least partially suggested by the papers I have read and cite here). Most
+evolutionary scientists have thought green beard effects would be rare because
+they have generally not found such blatant signals associated with clear green
+beard effects and because green beard effects require the simultaneous
+appearance of three distinct yet genetically linked traits:  
+  
+(1) a detectable feature of the phenotype,  
+  
+(2) the ability to recognize this feature (or the lack of it) in others, AND  
+  
+(3) different behavior towards individuals possessing the feature versus those
+not  
+  
+This argument for green beard rarity is flawed, because a wide variety of
+recognition systems already exist that can readily give rise to green beard
+genes, some of the main ones being:  
+  
+\+ gender recognition and sexual selection (the tendency to prefer some
+characteristics in mates and avoid others)  
+  
+\+ conspecific recognition (distinuishing own species from others)  
+  
+\+ kin recognition for kin altruism  
+  
+\+ maternal recognition of self vs. fetus  
+  
+Let's call these "normal" recognition systems "blue beards." They are just as
+blatant or subtle as signals as "green beards." Any recognition system is
+imperfect: it is coded for by only some of the genes it benefits, and some of
+these genes will be more strongly linked than others. The more strongly linked
+genes automatically favor each other: they are green beard genes. Thus, almost
+any recognize-and-distriminate system can be expected to give rise to the
+following green beard cycle:  
+  
+(1) green beard genes arise within an existing recognize-and-discriminate
+system (the blue beard genes) and spread in the population,  
+  
+(2) as the green beard genes spread, the recognition system becomes noisier
+for unlinked (blue beard) genes,  
+  
+(3) the noise has enough negative impact on unlinked blue beard genes
+(beneficiaries of the original recognition system) that the blue beard genes
+develop modifiers to suppress the green beards.  
+  
+Alternatively, the green beard genes might have only a slightly deleterious
+effect on unlinked genes and thus might succeed. Consider the following
+hypothetical: a recognition system in a hypothetical cuckoo, a brood parasite,
+is under genetic pressure to favor blue or green tufts as these are the best
+ways (and blue is slightly better than green) for our hypothetical cuckoos as
+adults to recognize each other as distinct from their host species' adults
+which are red. The gene coding for the green tuft, however, is linked to the
+recognize-and-discriminate genes while a different gene coding for the blue
+tuft is unlinked. The green beard effect favors the green tuft even though is
+is slightly worse than the blue tuft as a signal recognition device.  
+  
+A similar effect might help explain runaway sexual selection for expensive
+features such as peacock tails: in any sexual selection process, signal genes
+linked to signal recognition genes will favor each other until they become too
+expensive for unlinked genes: it's an arms race between the linked green beard
+genes and the unlinked green beard supression genes, and it may be that full
+elimination of the green beards is often not the equilibrium. Indeed complete
+elimination can't be the equilibrium since recognition systems are far from
+perfect, but almost complete elimination is probably the normal equilibrium.
+Some examples of exhorbitant display may be green beard genes effects which
+persist because of the unavailability of mutations for the unlinked genes to
+modify and thus suppress the green beard genes.  
+  
+We thus can expect a red queen type arms race between green beard genes and
+the blue beard genes. That is just what has recently been found in the mother-
+fetus discrimination system (wherein the mother's cells distinguish mother
+cells from fetus cells and treat them differently). I expect far more effects
+like these to be found.  
+Sometimes green beard genes exist in equilibrium with a counter-effect such as
+lethal recessives. This has actually been observed in the red fire ant. In
+this ant, the kin recognition system, normally used by worker ants to
+recognize and kill unrelated queens, has given rise to green beard gene(s).
+One of these genes, a pheremone-coding gene, is always part of the green
+beard: at this gene locus "bb" is a lethal recessive, but "BB" also turns out
+to be lethal because "Bb" workers reliably recognize and kill "BB" queens just
+before they lay their first eggs. Thus "B" and "b" exist in equilibrium.  
+  
+Only a few green beard genes have been observed in nature so far because (1)
+they are almost always associated with and parasitical on an existing
+recognize-and-discrimate systems (blue beards), and it is hard for observers
+to distinguish green beards from blue beards, and (2) they are mostly
+transient in nature: they are either soon (in evolutionary time) suppressed by
+blue beard genes or soon come to dominate the population, destroy the original
+recognition system, and become evolutionarily functionless (i.e. they don't
+need to code for anything any more once competition is eliminated, so they
+become just more junk DNA). An equilibrium like that reached in the fire ant
+will be a rarity.
+

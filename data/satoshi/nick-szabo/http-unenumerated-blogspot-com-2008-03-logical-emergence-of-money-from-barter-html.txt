@@ -1,0 +1,196 @@
+The ever entertaining and informative Mencius Moldbug presents a useful but
+flawed account of the logical origins of money. By "logical origins" he means
+the following:  
+
+> The basic problem with Menger's approach, from my perspective, is that he's
+concerned with the _historical_ origin of money, whereas I am concerned with
+its _logical_ origin. What Menger wanted to know is how money actually
+happened. What I want to know is how it _can_ happen.
+
+Whatever his intentions, Menger's account today has much more value as a
+logical than a historical account of the origins of money. Thanks to modern
+archaeology we now know that money (or at least goods that before the rise of
+coinage were valued primarily as intermediate goods, which I call
+"collectibles", the main example being bead jewelry) emerged long before the
+efficient markets that Menger assumes. Humankind thus did not, with the
+exception of certain short and exceptional situations during the colonial era,
+ever pass through a stage of efficient barter markets that is Menger's setup.
+Indeed so long ago (more than 100,000 years ago) did collectibles start being
+used that they probably played an important role in the evolution of human
+cooperation, as I describe here.  
+  
+But let's get back to the logic of whether and how money will emerge in a
+voluntary and efficient barter market. Moldbug first gives a great description
+of why money is not like a normal commodity:  
+
+> ...since buying and selling any good cannot fail to affect its price - ie,
+its exchange rate against other goods - we have a feedback loop. The herd
+selects an intermediate good based on its predicted exchange rate. But the
+exchange rate cannot be predicted without knowing the herd's selection.
+Problem!
+
+Moldbug describes his setup world of Nitropia, in which the storage and
+transport costs on which Menger based his analysis are eliminated:  
+
+> anyone can trade with anyone, anywhere, by teleporting goods. In addition,
+we'll assume that all goods can be stored perfectly without any overhead.  
+>
+
+Moldbug calls this an equilibrium where there is no money, just barter. I
+don't agree -- given the mental transaction cost assumption (see below), money
+could emerge even here, in the complete absence of storage and transport
+costs. I'll explain why below.  
+  
+Moldbug then breaks this barter equilibrium by introducing a good with a
+storage cost, fish, which rots if not soon eaten. Sven the fisherman wants to
+fish, sell the fish, save the income, and when he's saved up enough buy a
+Cadillac.  
+  
+Moldbug claims that this eliminates the coincidence-of-wants problem from his
+scenario, but I don't buy it. A coincidence of wants problem is just what we
+have here: customers want to eat the fish while it's still fresh but Sven does
+not want to purchase the Cadillac until he has saved up enough income for it
+(he apparently prefers delaying gratification to incurring the interest costs
+of credit).  
+  
+Since the storage and transport costs of intermediate commodities are still
+zero, these provide no reason for Sven to choose one particular such commodity
+over another as a currency. But because as Moldbug says, "[t]ranslating
+between standards is a pain in the butt," out of these intermediate
+commodities a single monetary standard will emerge. In other words, Nitropia
+assumes transaction costs that create an incentive to converge on one
+currency. Since Nitropia has costless storage and transport, this is just what
+I have called mental transaction costs \-- the costs involved in making buying
+and selling decisions. These include the costs of keeping books and otherwise
+tracking and comparing prices, and the costs of mentally mapping preferences
+to budgets via prices.  
+  
+But mental transaction costs are a problem even if there are no commodities
+like fish with storage costs. A world of pure barter has O(N^2) prices for N
+commodities, and the mental transaction costs in such a world are
+correspondingly much higher than a world with a single currency and O(N)
+prices. So even a market with no transport or storage costs for any commodity
+whatsoever, but with sufficiently high mental transaction costs, will converge
+on a single currency.  
+  
+Not even the elimination of all storage and transport costs eliminates all
+coincidence of wants problems. If Sven's customers want the fish Sven caught
+today because they are hungrier today than they expect to be ten years from
+now, they will prefer to buy it today even if Sven could costlessly store the
+fish to be sold with equal freshness ten years from now. Even with zero
+storage and transport costs, time preferences for production and consumption
+create noncoincidences of wants, and these mismatches combined with mental
+transaction costs give rise to a currency standard.  
+
+> Menger's analysis does not and cannot show that the coincidence-of-wants
+effect is the only force that can result in standardized money. Perhaps there
+is another? Indeed there is.
+
+I disagree. What Moldbug's argument, properly corrected, shows is that some of
+the costs that arise from the noncoincidence of wants occur even if there are
+no transport or storage costs, but only mental transaction costs. This
+contrasts with Menger's analysis, which defined the costs caused by the
+coincidence wants in terms of transport and storage costs.  
+
+> Suppose Sven is choosing between only two possible intermediate goods - Ia
+or Ib. Say Ia is palladium, and Ib is rhodium. What is Sven's algorithm? It's
+actually quite simple. All Sven cares about is the change in the exchange rate
+between palladium and rhodium, across the time window T1 - T0 of the
+transaction. If (Ia/Ib)@T1 is greater than (Ia/Ib)@T0, he prefers palladium.
+If it is smaller, he prefers rhodium. In other words, he will prefer the I
+which will appreciate more across his monetary time window...  
+>  
+> [Now consider a population of Svens, each choosing an intermediate
+commodity]. Let's separate this herd into two strategies, by eye color. If
+Svens have blue eyes, they follow their proper MBA reflexes and diversify,
+buying equally priced lots of palladium and rhodium. But if they have brown
+eyes, they buy only rhodium.  
+>  
+> Who does better? The brown-eyed Svens. Why? Because [the introduction of a
+commodity that can't be costlessly stored [but as I observed above this is not
+really necessary; what we need to introduce are coincidences of wants and
+mental transaction costs -- NS]] has created new demand for both palladium and
+rhodium. There was no monetary demand before we broke the equilibrium - now
+there is. Ceteris paribus, the price must go up.
+
+Rhodium emerges as our standard, its price reflects its value as money on top
+of its value as an industrial commodity, and the price of palladium goes back
+to its mere value as an industrial commodity. Given the vagaries of markets,
+our blue-eyed MBAs would have bought palladium too high (anticipating the
+possible increase in its value as money if it would have become a monetary
+standard) and sold too low (as glut and bust will follow this monetary
+bubble), while the brown-eyed colluders reap the full benefits of investing
+early in the money standard that actual emerged.  
+  
+But if we take this analysis further, our blue-eyed MBAs don't come off nearly
+as bad as Moldbug's scenario suggests. If mental transaction costs, in
+addition to storage and transport costs, are sufficiently low there is no
+convergence on a single currency, because in a world of sufficiently
+unpredictable and volatile prices and risk aversion a party indeed benefits
+from stockpiling multiple currencies, just as they teach MBAs about
+investments.  
+  
+In Moldbug's competition of blue eyes versus brown, the dice were loaded: the
+agreement between brown-eyed Svens to standardize on rhodium, and the lack of
+any attempt to set up a competing standard, allowed parties who knew about the
+agreement to predict ahead of time which standard would win. If the outcome is
+significantly predictable, it pays to invest completely in the most likely
+winner. But let's add a third group: green-eyed Svens that use just palladium
+as their intermediate commodity. Green and brown eyes being of the same
+expected financial size (or of a completely unpredictable financial size),
+there is a 50% chance that palladium and green eyes will win, while brown eyes
+lose everything (except the original non-monetary value of the commodity,
+presumably negligible), and 50% chance of the reverse. For the blue eyes, if
+they diversified evenly it's basically a wash. The risk-neutral expected value
+of all three groups is the same, but if our players are risk-averse our blue-
+eyed MBAs have the strategy of highest expected value. 50/50 diversity is thus
+the optimal initial position when it cannot be predicted which of two
+commodities will gain value as money. But since it's impossible to discover a
+perfect 50/50 diversification, and mental transaction costs are sufficiently
+high, the equilibrium is unstable and will coverge to a single currency. Once
+one commodity starts to be favored, the optimal strategy is to move to that
+currency. So we have shown that sufficiently high mental transaction costs are
+sufficient to cause the emergence of a currency standard, even in the absence
+of storage and transport costs.  
+  
+Reminder: we are neglectling coercive means such as legal tender laws and
+operating in a completely voluntary market. But Moldbug's scenario also
+explains why larger governments usually end up controlling the currency, even
+in the absence of legal tender laws. Markets will tend to standardize on
+whatever the dominant transactor, the party that controls the largest
+plurality of cash flow, standardizes on, and in most historical societies the
+dominant transactions were tax collection and the payment of those taxes to
+soldiers. More recently government bonds and even more recently welfare
+payments have joined the fray, biasing the outcome still further. By
+standardizing on its own currency, a large government can gain revenue from an
+"inflation tax." This process is far easier for the government with a fiat
+currency than a currency based on natural unforgeable costliness (such as a
+precious metal). Before the advent of modern currencies, inflation and the
+resulting revenue could only be obtained tediously via the slow substitution
+of less scarce for more scarce metals in the government coinage. With paper
+the physical process is trivial, and only the matter of how the new money
+enters the economy is at issue.  
+  
+All the foregoing assumed sufficiently high mental transaction costs. This has
+been the historical norm, because trying to shop or otherwise do business in a
+world of multiple currencies, much less of pure barter, has always led to
+confusion, error, and overly complex accounting, and would do so even given
+the costless teleportation of Nitropia. But with sufficiently low mental
+transaction costs and sufficiently unpredictable exchange rates, it pays to
+hang on to multiple currencies, and a world of multiple currencies is the
+equilibrium. At the extreme of zero mental transaction costs, zero storage
+costs, and zero transport costs, we have a pure barter market, with no need
+for money at all.  
+  
+Now for a more radical claim: in some cases, computers can drastically reduce
+the mental transaction costs of comparing prices in multiple currencies, which
+along with the "costless teleportation" of online markets allows multiple
+currencies or in some cases even barter to become the equilibrium. I'm quite a
+bit more fuzzy on just what those circumstances are, or just what software
+with what user interfaces said computers must be running, but you can see some
+of my ideas here and here. The general idea is that most of the mental costs
+of mapping of preferences to budgets via prices, in order to make buying or
+selling decisions, are offloaded onto a software agent, via a user
+interferface and a complier that translates high-level preferences to detailed
+"binary" contracts.
+

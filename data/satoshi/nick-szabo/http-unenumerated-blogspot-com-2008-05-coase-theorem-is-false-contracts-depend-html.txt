@@ -1,0 +1,155 @@
+In the Rothbardian ideology of anarcho-capitalism, all law can supposedly be
+derived from contract, the entry into which is supposed to be voluntary.
+"Social contract" theories of government also tend, by this euphemism, to
+suggest that the formation of governments was somehow voluntary, an idiotic
+idea that anarchists such as the legal scholar Lysander Spooner have easily
+debunked.  
+  
+David Friedman justifies his neoclassical version of anarcho-capitalism by the
+Coase Theorem, which translated into legal terms is usually understood as the
+following: in the absence of transaction costs, and regardless of the prior
+allocation of legal rights, any tort ("externality" in economic terms) can be
+resolved by voluntary bargaining to form a contract, resulting in an
+economically efficient outcome.  
+  
+Here are some places where Friedman relies on the Coase Theorem:  
+
+> Consider two [legal protection] firms with somewhat different customer
+bases, bargaining over what court's legal system to agree on. Firm A prefers
+one legal system, say one that permits capital punishment for murder. Firm B
+prefers a different system, one that does not permit it.  
+>  
+> Each firm estimates the value to its customers, and from that the increase
+it can expect in its revenues, if it can provide them with its preferred legal
+system. We expect, along conventional Coaseian lines, that they will agree on
+the system that maximizes their combined benefit. [Source].  
+>  
+> A still more attractive and more likely solution [to avoid war] is advance
+contracting between the agencies. Under this scenario, any two agencies that
+faced a significant probability of such clashes would agree on an arbitration
+agency to settle them-a private court. Implicit or explicit in their agreement
+would be the legal rules under which such disputes were to be settled. Under
+these circumstances, both law enforcement and law are private goods produced
+on a private market...  
+>  
+> Readers familiar with the economic literature on efficiency may notice that
+my argument owes more to Coase than to Marshall. I have relied on the idea
+that parties will negotiate towards efficient contracts, rather than on the
+conventional analysis of a competitive industry....[Source]  
+>
+
+  
+The proof that the Coase Theorem is false is actually quite simple: the
+assumptions of the Theorem contradict each other. The assumption that
+transactions are voluntary contradicts the assumption that _any_ prior
+allocation of rights is possible, including rights that allow one party to
+coerce another. In fact, for the Theorem to at all make sense, a very large
+and crucial set of prior rights allocations must be excluded -- namely any
+that allow any party to coerce another.  
+  
+But we can't generally solve externalities problems by bargaining under this
+revised assumption. Externalities cannot be neatly distinguished from coercive
+acts, as extending one of Coase's own examples illustrates. In this example we
+have a railroad with a train that, passing by a farmer's wheat field, gives
+off sparks, which may start a fire in the field. In Coase's account, the prior
+allocation of rights might give the railroad the right to give off sparks, in
+which case the farmer must either plant his wheat far enough away from the
+railroad (wasting land) or buy the right to be free from sparks from the
+railroad. The prior allocation might instead already give the farmer the right
+to be completely free from sparks, in which case the railroad can either buy
+the right to emit sparks from the farmer or install spark-suppressors. If
+these are the two possible prior allocations of rights, Coase concluded that
+the railroad and the farmer will in the absence of transaction costs bargain
+to the most economically efficient outcome: if it costs less for the railroad
+to reduce the sparks than for the farmer to keep an unplanted firebreak,
+bargaining will achieve this outcome, and if the reverse, bargaining will
+achieve the reverse outcome, regardless of whether the farmer initially had
+the right to be free from sparks. So far, so good -- it seems, on the surface,
+that if bargaining is costless an efficient outcome will be achieved.  
+  
+The problem is that these are not the only prior allocations possible. The
+Coase Theorem is supposed to work under _any_ other allocation of prior
+rights. But it doesn't. It fails for a large and crucially important class of
+prior allocations: namely any that allow one party to coerce another. Here's
+an allocation that may or may not allow coercion, depending on your definition
+of coercion: a prior allocation that gives the railroad the right to emit as
+many sparks as it wants. In particular it includes the right of the railroad
+to emit sparks even if it could costlessly avoid emitting them. Here's one
+that is fairly clearly coercive: the right to emit sparks even if emitting
+them costs the railroad something extra (i.e. giving the railroad the right to
+purposefully emit sparks to start fires even at some extra cost to the
+railroad). Here's another farther down the coercive spectrum: a prior
+allocation that gives the railroad the right to torch the farmer's entire
+field with a flamethrower.  
+  
+It is usually the case with coercion, as here, that it is far cheaper for the
+coercer to cause harm than for the victim to prevent it. To increase the
+threatened harm to the farmer, and thus the revenue it can obtain from
+extortive bargaining with the farmer, the railroad can spend extra to
+purposefully threaten the farmer. Here, it is likely far cheaper for the
+railroad to install a super spark emitter, or a flamethrower, than for the
+farmer to defend his fields from these sources. Indeed, since any prior
+allocation is possible, why stop with the farmer's fields? Another possible
+allocation would give the railroad a right to torch the farmer's barns, and
+his house, to kidnap his children -- any prior ( _ex ante_ ) set of rules is
+supposed to be possible. In turn, if the _ex ante_ rules allow, the farmer
+could threaten to tear up the railroad tracks or sabotage them to derail the
+trains. Under all these prior allocations of rights that allow coercion, the
+railroad need not just bargain to avoid the costs of supressing its
+externality (whether sparks or flamethrowers), nor need the farmer bargain
+just within this artificially voluntary spectrum of possibilities that Coase
+and his followers assume. Instead, if the _ex ante_ rules so allow the
+railroad and farmer will bargain to avoid a negative-sum outcome: harm to the
+farmer with no direct benefit to the railroad, or vice versa. Since there are
+substantial _ex post_ benefits to one party from extorting payments from the
+other, the party that can threaten the most harm at the least cost to itself
+has, if the _ex ante_ rules allow, a strong economic incentive to engage in
+such coercion. These negative-sum games of coercion and extortion lead to
+highly inefficient outcomes, and they can only be avoided by carefully
+crafting the _ex ante_ rules to avoid such coercion and extortion. These
+coercive threats that make negative-sum games possible, and that decrease the
+payoffs of positive-sum games, cannot be neatly distinguished in practice from
+innocent externalities: any act or omission of one party that harms another,
+i.e. any externality, doubles as a threat, whether a tiny threat or a large
+threat, from which an extortion premium, its size depending on the size of the
+threat, can be extracted.  
+  
+In order to try to distinguish coercion, and the extortion it gives rise to,
+from an "innocent" externality that can be cured by efficient bargaining,
+there are ways to exclude some of these extreme possibilities from the prior
+allocation of rights. And indeed criminal and tort law do this: they
+distinguish purposeful behavior from negligent, and negligent from the mere
+unfortunate accident. But any such _ex ante_ distiction contradicts the claim
+that the Coase Theorem applies to _any_ prior allocation of rights. Voluntary
+bargaining cannnot give rise to tort and criminal law. Quite the opposite is
+true: at least a basic tort law is necessary to make voluntary bargaining
+possible. Tort law (and the associated property law which defines boundaries
+for the tort of trespass) is logically prior to contract law: good contracts
+depend on good tort and property law. Without a good tort law already in
+place, nobody, including the "protection firms" posited by anarcho-capitalism,
+can engage in the voluntary bargains that are necessary for efficient
+outcomes.  
+  
+This is not to claim that the polar opposite of anarcho-capitalism must be
+true, i.e. that "the government" along the lines we are familiar with is
+necessary. Instead, a system of political property rights that is unbundled
+and decentralized is possible, and may give rise to many of the benefits (e.g.
+peaceful competition between jurisdictions) promised by anarcho-capitalism.
+But political property rights are not based on a Rothbardian assumption of
+voluntary agreement -- instead, in these systems the procedural law of
+political property rights, as well as much of substantive property rights and
+tort law, is prior to contract law, and their origin necessarily involves some
+degree of coercion. Political and legal systems have not, do not, and cannot
+originate solely from voluntary contract. Both traditional "social contract"
+justifications of the state and the Rothbardian idea that contracts can
+substitute for the state are false: in all cases coercion is involved, both at
+the origin and in the ongoing practice of legal procedure. In both cases the
+term "contract" is used, implying voluntary agreement, when the term "treaty",
+a kind of agreement often forced by coercion, would far more accurately
+describe the reality. The real task for libertarians and other defenders of
+sound economics and law is not to try to devise law from purely voluntary
+origins, an impossible task, but to make sure the _ex ante_ laws make
+voluntary bargaining possible and discourage coercion and extortion (by any
+party, including political property rights holders or governments) as much as
+possible.
+

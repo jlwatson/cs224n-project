@@ -1,0 +1,48 @@
+The United States Supreme Court in _eBay v. MercExchange_ has held that,
+instead of applying a general rule that patent infringement leads to an
+injunction barring the infringer from using the patent, courts instead should,
+as in most other areas of law, apply the four-factor equity test used for
+deciding whether to order permanent injunctions. In other words, the plaintiff
+must show that:  
+  
+
+> (1) it has suffered irreparable injury from the infringement,  
+> (2) monetary damages are inadequate to compensate for the injury,  
+> (3) the balance of the hardships warrants a remedy in equity (roughly
+speaking, that the plaintiff will be hurt more by lack of injuntion than the
+defendant will by the injunction), and  
+> (4) the public interest would not be disserved by a permanent injunction.  
+>
+
+  
+This holding overturns that of the U.S. Federal Circuit favoring the general
+rule that, subject to a few exceptions, injunctions should issue when there is
+infringement. The Federal Circuit generally hears all appeals in U.S. patent
+infringement cases. It has been a _de facto_ supreme court of patents, since,
+at least until this year, the actual Supreme Court accepted patent appeals
+quite infrequently. If past history is any indication, the Federal Circuit
+will probably try to liberally interpret the Supreme Court's opinion to
+maintain the rules that it has championed. Here, it may try to read its rule
+of general injunctions into the four-factor test.  
+  
+There are a number of clever arguments the Federal Circuit might accept in
+order to effectively revert to the general rule. It might favor the plaintiff
+with presumptions that each of the four factors are generally found in patent
+cases, or reason by analogy that where injunctions were issued in a similar
+case in the past, the four factors impliedly must have been found, and thus
+should also be found in the present case. This would allow the Federal Circuit
+to distinguish _eBay_ as involving a particularly problematic variety of
+patents (business methods), or even just a particularly problematic instance
+such patents, and in effect keep applying the general rule to other kinds of
+patents.  
+  
+Thus, given the structure of U.S. federal courts, where generally all patent
+appeals go through the Federal Circuit, the U.S. Supreme Court may have to
+take several more injunction cases involving different circumstances than
+_eBay_ before it effectively overturns the ubiquitous use or threat of
+injunctions in U.S. patent cases.  
+  
+The concurring opinions also suggest that Justices Thomas and Alito may be the
+swing votes in the Court's upcoming decision in _Metabolite_ _._ Chief Justice
+Roberts will recuse himself. __Stay tuned.
+

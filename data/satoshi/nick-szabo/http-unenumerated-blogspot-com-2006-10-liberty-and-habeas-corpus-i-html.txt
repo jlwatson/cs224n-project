@@ -1,0 +1,74 @@
+The writ of _habeas corpus_ is an order from a national court to a local
+entity that has imprisoned a person to (1) produce that person at the national
+court, and (2) provide that court with a good reason for the imprisonment.
+_Habeas corpus_ is __ is an extraordinary writ _,_ and for that reason runs
+much farther than the normal jurisdiction of the national court. The local
+entity commanded by the writ can be _any_ entity within the nation, or any
+within any territory of that nation (including military bases), or on any of
+the nation's ships at sea: any entity at all that claims the right to detain
+people. _Habeas corpus_ is almost a millennium old, and in various forms it is
+probably much older. It has been and remains the main way by which legal
+rights against the arbitrary detention of a person by any kind of entity are
+enforced. _Habeas corpus_ well deserves its other traditional name: the Great
+Writ.  
+  
+Two cases help illustrate how crucial _habeas corpus_ has been to the
+development of liberty. The core meaning of the word "liberty" itself is
+simply freedom from bodily constraint without due process of law. For many
+hundreds of years in legal systems derived from English law, _habeas corpus_
+has been the main, and often the only, mechanism by which this most essential
+of freedoms has been enforced.  
+  
+ _Dr. Bonham's Case_ _,_ in 1610, played a key role both in the history of
+American and Commonwealth constitutional law and in the ending of the power of
+the guilds. Guilds were somewhat like labor unions or business cartels, but
+often with an extra power -- the power to themselves convict and imprison
+those operating in the guild's business.  
+  
+Besides guild courts, there were a large number and variety of other franchise
+courts in England: church courts, merchant's courts, manorial courts, mining
+courts, colonial courts, municipal courts, the courts of private counties, and
+so on. The king's courts generally had no jurisdiction to hear appeals from
+franchise or military courts except by extraordinary writ -- the most
+important of which was _habeas corpus._  
+  
+Dr. Bonham was imprisoned by the London physician's guild for practicing
+medicine in London without their license. _Habeas corpus_ made it possible for
+Dr. Bonham to appeal his imprisonment. The Court freed Dr. Bonham, holding
+that his due process rights had been violated by the guild: the guild's
+conviction had not been obtained before a proper court.  
+  
+ _Somerset's Case_ , in 1772, played a crucial role in the abolition of
+slavery. Somerset was a (former, it was argued) slave (formerly) owned by a
+merchant from the American colonies. When Somerset escaped from his master, he
+was recaptured and put on a boat for the British territory of Jamaica. An
+abolitionist petitioned on Somerset's behalf for _habeas corpus,_ which Lord
+Mansfield granted. Still on the high seas, the writ of _habeas corpus_ ordered
+the British captain to bring Somerset to London to be produced before the
+King's Bench. Slavery was no ordinary kind of property: it was also a
+deprivation of bodily liberty. As such, _habeas corpus_ made it possible for
+the slave to challenge his status as bodily detained property. The high
+court's writ of _habeas corpus_ reached far beyond Great Britain to the United
+Kingdom's colonies and its ships as sea. Once Parliament banned slavery across
+the British Empire, the Great Writ was crucial in implementing the ban to
+abolish slavery throughout that globe-spanning enterprise.  
+  
+The Great Writ has been often been suspended in areas and periods of warfare,
+leading to great abuse but also to the ability to efficiently and ruthlessly
+fight the war without the legal overhead. The U.S. Constitution specifies that
+_habeas corpus_ may be suspended only by Congress, and only with respect to
+invasion or rebellion (it may not be suspended domestically due to a foreign
+war or mere domestic crime), and even then only so long as public safety
+requires the suspension. Article I (listing the powers of Congress) states:  
+
+> The privilege of the Writ of Habeas Corpus shall not be suspended, unless
+when in Cases of Rebellion or Invasion the public Safety may require it. Art.
+I, §9, cl. 2.
+
+More about the _habeas corpus_ , military detention, and the Military
+Commissions Act coming soon in a subsequent post.  
+  
+ **UPDATE:** Here are some subsequent posts on _habeas corpus_ and the MCA:  
+The _Lex Gabina:_ ancient Military Commissions Act?  
+Liberty and _habeas corpus_ (II)
+

@@ -1,0 +1,14 @@
+When you call Cingular customer service, the customer representative you talk
+to learns your value to the company via this handy meter. You may or may not
+be eligible for various discount offers, depending on how much business you've
+done with the company in the past (life time value) and whether they expect
+you to stay with them in the future (churn potential). Churn potential is
+perhaps based on how hard it would be for you to switch to a competitor. Many
+companies track data related to these two variables, but this widget distills
+it all down for the operator you talk to.  
+  
+  
+  
+  
+Hat tip to Marginal Revolution.
+

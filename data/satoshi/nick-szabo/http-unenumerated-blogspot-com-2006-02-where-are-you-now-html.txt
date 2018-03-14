@@ -1,0 +1,17 @@
+A new crop of web services  in the U.K. allow you to locate and track people
+via their mobile phone. The phone companies themselves, and emergency call
+centers, and anybody else authorized, have long been able to do this in the
+U.S. and U.K. and elsewhere, but now it's going retail. There is also this
+service which at least alerts the trackee when his or her location is being
+queried. This partially addresses the attack of borrowing somebody's phone
+long enough to "give consent" and then tracking them with the service.  Via
+Ian Grigg's Financial Cryptopgraphy.  
+  
+Counter-intuitively, this development may enhance privacy, since the publicity
+that accompanies retail services will help prevent people from being in denial
+about the functions of their cell phone. Even if it doesn't enhance privacy in
+this manner, it may at least help take us from an Orwellian model of
+surveillance (the state behind a one-way mirror) to a Brinian model (peer to
+peer surveillance). OTOH, it may just fulfill the daydream of many a boss of
+being able to track employees 24x7.
+

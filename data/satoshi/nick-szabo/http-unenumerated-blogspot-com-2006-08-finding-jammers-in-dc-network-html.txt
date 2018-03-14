@@ -1,0 +1,10 @@
+David Chaum's dining cryptgraphers network is a nifty alternative to his
+digital mix to untraceably share encrypted information. But it suffers from
+the problem that since the participants are untraceable, one or more of them
+can jam the channel, preventing other participants from having their messages
+received. Bryan Turner has figured out a way to find the jammers if they are
+less than one-third of the total participants. Presumably this is accomplished
+without being able to find out much of anything else interesting about a
+participant. I suggest that a similar technique may also work for a jamming
+attack in a secure multiparty computation.
+

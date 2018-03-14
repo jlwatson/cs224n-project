@@ -1,0 +1,65 @@
+Given that I subscribe to the law of the dominant paradigm, I have a soft spot
+in my heart for ideas that haven't gotten the attention they deserve. I try to
+choose such ideas to blog on. But I can't give all such ideas that I know of
+the necessary attention. Here are some:  
+  
+Richard Dawkins himself is by now overexposed, but in his quest to convert the
+world to the atheist meme he, along with most of the rest of the world, has
+neglected his own theory of the extended phenotype. Like the metaphor of the
+selfish gene, this is an insight with many very important consequences. So far
+we've just scratched the tip of this iceberg.  
+  
+Yoram Barzel is one of the most important economists of the last half century,
+but few people know this. Along with the much more famous Friedrich Hayek,
+Barzel is probably the economist who has influenced me the most. He has had a
+number of important insights related to transaction costs which I've confirmed
+repeatedly in my own observations and readings in economic history. Probably
+his most important insights relate to the importance and nature of value
+measurement. (“Measurement Cost and the Organization of Markets,” Journal of
+Law and Economics, April 1982 Reprinted in The Economic Foundations of
+Property Rights: Selected Readings, SPejovich, ed., Edward Elgar Publishing
+Company, 1997. And in Transaction costs and Property rights, Claude Menard,
+Editor, Edward Elgar publishing Company, 2004.) Another is his analysis of
+waiting in line (queuing) versus market prices as two methods of rationing.
+Waiting in line is the main means of rationing in a socialist economy but is
+surprisingly widespread even in our own. (“A Theory of Rationing by Waiting,”
+Journal of Law and Economics, April 1974 Reprinted in Readings in
+Microeconomics, Breit, Hochman, and Sauracker, 3rd ed., 1986).  
+  
+Advanced cryptography over the last twenty-five years has come with a large
+number of important protocols. Public key encryption got all the hype, but it
+was just a warm-up. Alas, the perceived esoteric nature of the field and
+magical function of its protocols has apparently intimidated regular
+programmers away from implementing most of them. Appearances to the contrary
+they are based on solid math, not magic. I've blogged on some of these, but
+there is far more out there waiting to be picked up by mainstream computer
+security. Of all the advanced cryptography protocols secure time-stamping and
+multiparty secure computation are probably the most important.  
+  
+The ideas of voluntary oblivious compliance and admonition systems from the
+capability security community. These are very useful in elucidating
+interelationships between wet protocols (e.g. manual procedures and law) and
+security. (By contrast I think capability security itself, and indeed the
+entire area of access control, is over-hyped: there are important roles for
+such things, for example in internal corporation access control, secure
+operating systems, and services where trust by all parties in corporate
+systems administrators is satisfactory, but they are nowhere close to being
+the be-all and end-all of distributed computing as often seems to be implied.
+Rather it's advanced cryptography where the most important advances in
+distributed security lie).  
+  
+The whole topic of franchise jurisdiction, crucial to understanding medieval
+and Renaissance English law, has nevertheless long been almost completely
+neglected. It is also a very different paradigm of the power of courts that
+has been forgotten by the modern legal and political communities in favor of
+the Roman model of governmental sovereignty.  
+  
+Almost any topic that requires knowledge from more than one academic specialty
+has been overly neglected: so much so that most such topics don't even exist
+but should.  
+  
+The specific ideas mentioned are just the tip of the iceberg of
+underappreciated topics. Please let me know what ideas you think have been the
+most underappreciated. There are, I'm sure, many, many ideas out there that I
+should know about but don't.
+

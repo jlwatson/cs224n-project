@@ -1,0 +1,72 @@
+The history of the Due Process Clause in the United States' Constitution, and
+how it came to cover everything from (at various points in U.S. history)
+freedom of contract to abortion, is a long story which I should tell some day,
+but here is a very short version. It starts with the idea of a "common law" or
+"due process" -- synonyms in late medieval and Renaissance English law. Then
+these phrases meant not substantive judge-made law (as "common law" means
+today) but a group of procedural rights and principles which courts had slowly
+developed through precedent and that all royal courts in England (even to some
+extent privately owned courts) were expected to respect. One of these basic
+due process principles was that a court could not "take property from A and
+give it to B" except as a remedy for a wrong done by A to B. The Due Process
+Clause of the 5th and 14th Amendments -- "no deprivation of life, liberty, or
+property without due proces of law" -- was meant as a reference to these basic
+rights and principles, as well as to the continuing precedential development
+of such rights and principles by courts.  
+  
+The basic idea behind the _Lochner_ line of cases was that minimum wage laws,
+maximum hour laws, and such were taking property from one group (e.g. capital)
+and giving to another (e.g. labor) even though the one group had done the
+other no adjudicated wrong. But since many government laws even in the 19th
+century did redistribute rights people value from one class to another like
+this, this way of applying due process principles was too broad an attack on
+statutory sovereignty and practical politics to work without some compromises.  
+  
+But it was too late to discover such compromises throught the slow process
+deciding disputes and discovering rules, before being swamped by the tide of
+Progressive statutory sovereignty. The _Lochner_ line of cases quickly became
+hedged about and mutated: the principle involved was later said to be freedom
+of contract (both an employer's and a worker's rights were violated by such
+laws, rather than the problem being a redistribution without a wrong), and it
+was held (even before the New Deal) that a government merely had to come up
+with a "rational basis" to justify taking in this loose sense from group A to
+give to group B, etc.  
+  
+After Footnote Four, "merely economic" rights like property were derogated --
+it became trivial for government to "prove" a "rational basis." So we now find
+"rational basis" applied to most kinds o f rights while an
+"important/compelling governmental interest" is applied to important personal
+and political rights like contraception, abortion, free speech, voting,
+interstate travel, etc. (BTW, that U.S. courts find interstate travel to be a
+fundamental right is very interesting in light of the importance of low exit
+costs in fostering healthy legal and political competition).  
+  
+The "rational basis" test is the state of _Lochner_ precedent today -- a
+trivial test that "merely economic" laws practically always pass, in contrast
+to the "rationality-with-teeth" of personal rights cases like _Lawrence v.
+Texas_. Nominally, however, the test of  Lawrence is the same as the test of
+Lochner, and both are good law, so that it takes only a court sympathetic with
+property rights to revive _Lochner_.  
+  
+Such a development may take the form of an elephant that is in the room of
+modern due process cases -- freedom of contract. Implicit in Griswold, Planned
+Parenthood v. Casey, and many other such cases is not only a personal right,
+but a freedom of contract that is quite necessarily associated with this
+personal right. Without freedom to contract with an abortion provider, the
+right of a woman to get an abortion would be unduly burdened. Only this can
+explain why a contraception clinic is able to sue for a right to vend, not
+merely use, contraception, and Planned Parenthood is able to sue for a right
+to provide abortion services, not merely for a right of a woman to have an
+abortion.  
+  
+The same is true for almost any other fundamental right. Our crucial right of
+interstate travel, for example, must involve to at least some extent the
+freedom to contract with an airline company (buy a plane ticket and travel),
+to purchase a motor vehicle, to contract with a car rental company, and so on.
+This being the case, our courts should recognize that freedom of contract is
+not "merely" an "economic right." It is also a basic political right. Our
+courts should recognize a general freedom of contract, which becomes a
+fundamental right if it involves a contracting about a fundamental right,
+whether that be buying condoms ( _Griswold v. Conneticutt_) or sending our
+children to private schools ( _Pierce v. Society of Sisters_).
+

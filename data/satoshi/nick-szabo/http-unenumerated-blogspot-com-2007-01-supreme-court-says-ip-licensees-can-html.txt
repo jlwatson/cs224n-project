@@ -1,0 +1,139 @@
+In today's decision in _MedImmune v. Genentech_ , the U.S. Supreme Court held
+that (possibly subject to a caveat described below) a patent licensee can sue
+to get out of the license without having to infringe the patent first. In
+other words, the licensee can sue without stopping the license payments. This
+sounds like some minor procedural point. It is a procedural point but it is
+hardly minor. It dramatically changes the risks of infringement and
+invalidity, and on whom those risks are placed, in a licensing relationship.  
+  
+The Court's opinion today reverses the doctrine of the Federal Circuit, the
+normal appeals court for U.S. patents, that had held that there was no
+standing for a patent licensee to sue until it had actually infringed the
+patent or breached the contract. This meant that the licensee had to risk
+triple damages (for intentional infringement) and other potential problems in
+order to have a court determine whether the patent was valid or being
+infringed. This could be harsh, and it has long been argued that such
+consequences coerce licensees into continuing to pay license fees for products
+that it has discovered are not really covered by the patent.  
+  
+Given the fuzziness of the "metes and bounds" of patents, this is a common
+occurrence. Sometimes the licensee's engineers come up with an alternative
+design that seems to avoid the patent, but the licensee is too scared of
+triple damages if the court decides otherwise and sticks with the patented
+product and paying the license fees. At other times new prior art is
+discovered or some other research uncovers the probable invalidity of the
+patent. But enough uncertainty remains that , given the threat of triple
+damages, the licensee just keeps paying the license fees.  
+  
+A caveat is that the licensor may have to first "threaten" the licensee
+somehow that they will take action if the licensee doesn't make the expected
+payments or introduces a new product not covered by the license. In this case
+that "threat" took the form of an opinion letter from the licensor that the
+licensee's new product was covered by the old patent, and thus that the
+licensee had to pay license fees for the new product  
+  
+Justice Scalia wrote the opinion for the eight justice majority. He argued
+that if the only difference between a justiciable controversy (i.e. a case
+where the plaintiff has standing under "case or controversy" clause of the U.S
+Constitution) and a non-justiciable one (i.e. no standing to sue) is that the
+plaintiff chose not to violate the disputed law, then the plaintiff still has
+standing:  
+  
+
+> The plaintiff's own action (or inaction) in failing to violate the law
+eliminates the imminent threat of prosecution, but nonetheless does not
+eliminate Article III jurisdiction. For example, in _Terrace v. Thompson_ ,
+263 U. S. 197 (1923), the State threatened the plaintiff with forfeiture of
+his farm, fines, and penalties if he entered into a lease with an alien in
+violation of the State's anti-alien land law. Given this genuine threat of
+enforcement, we did not require, as a prerequisite to testing the validity of
+the law in a suit for injunction, that the plaintiff bet the farm, so to
+speak, by taking the violative action.
+
+  
+One of the main purposes of the Declaratory Judgments Act, under which such
+lawsuits are brought, is to avoid the necessity of committing an illegal act
+before the case can be brought to court:  
+  
+
+> Likewise, in _Steffel v. Thompson_ , 415 U. S. 452 (1974), we did not
+require the plaintiff to proceed to distribute handbills and risk actual
+prosecution before he could seek a declaratory judgment regarding the
+constitutionality of a state statute prohibiting such distribution. Id., at
+458, 460. As then-Justice Rehnquist put it in his concurrence, "the
+declaratory judgment procedure is an alternative to pursuit of the arguably
+illegal activity." Id., at 480. In each of these cases, the plaintiff had
+eliminated the imminent threat of harm by simply not doing what he claimed the
+right to do (enter into a lease, or distribute handbills at the shopping
+center). That did not preclude subject matter jurisdiction because the threat-
+eliminating behavior was effectively coerced. See _Terrace_ , supra, at 215.
+216; Steffel, supra, at 459. The dilemma posed by that coercion "putting the
+challenger to the choice between abandoning his rights or risking prosecution"
+is "a dilemma that it was the very purpose of the Declaratory Judgment Act to
+ameliorate." _Abbott Laboratories v.  
+>  Gardner_, 387 U. S. 136, 152 (1967).
+
+  
+Scalia, who is normally no fan of easy standing, extended this doctrine from
+disputes with the government to private disputes. For this he used as
+precedent _Altvater v. Freeman_ :  
+  
+
+> The Federal Circuit's _Gen-Probe_ decision [the case in which the Federal
+Circuit established its doctrine which the Supreme Court today reversed]
+distinguished _Altvater_ on the ground that it involved the compulsion of an
+injunction. But _Altvater_ cannot be so readily dismissed. Never mind that the
+injunction had been privately obtained and was ultimately within the control
+of  
+>  the patentees, who could permit its modification. More fundamentally, and
+contrary to the Federal Circuit's conclusion, _Altvater_ did not say that the
+coercion dispositive of the case was governmental, but suggested just the
+opposite. The opinion acknowledged that the licensees had the option of
+stopping payments in defiance of the injunction, but explained that the
+consequence of doing so would be to risk "actual [and] treble damages in
+infringement suits" by the patentees. 319 U. S., at 365. It significantly did
+not mention the threat of prosecution for contempt, or any other sort of
+governmental sanction.
+
+  
+Scalia as usual got to the point:  
+  
+
+> The rule that a plaintiff must destroy a large building, bet the farm, or(as
+here) risk treble damages and the loss of 80 percent of its business, before
+seeking a declaration of its actively contested legal rights finds no support
+in Article III.
+
+  
+Scalia rebutted the argument that under freedom of contract the parties had a
+right to, and had here, created an "insurance policy" immunizing the licensor
+from declaratory lawsuits:  
+  
+
+> Promising to pay royalties on patents that have not been held invalid does
+not amount to a promise not to seek a holding of their invalidity.
+
+  
+The lessons of this case also apply to copyright and other kinds of IP, albeit
+in different ways. In copyright one can be exposed to criminal sanctions for
+infringement so there is an even stronger case for declaratory lawsuits.  
+  
+The most interesting issue is to what extent IP licensors will be able to
+"contract around" this holding and thus still be able to immunize themselves
+from pre-infringement lawsuits. It's possible that IP licensors will still be
+able to prevent their licensees from suing with the proper contractual
+language. Licensees on the other hand may want to insist on language that
+preserves their rights to sue for declaratory judgments on whether the IP they
+are licensing is valid or on whether they are really infringing it with
+activities for which they wish to not pay license fees. If there's interest,
+I'll post in the future if I see good ideas for such language, and if I have
+some good ideas of my own I'll post those. This will be a big topic among IP
+license lawyers for the foreseeable future, as Scalia's opinion left a raft of
+issues wide open, including the issues about how such language would now be
+interpreted.  
+  
+I will later update this post with links to the opinions (I have them via
+e-mail from Professor Hal Wegner).  
+  
+UPDATE: Straight from the horse's mouth, here is the slip opinion.
+

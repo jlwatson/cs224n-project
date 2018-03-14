@@ -1,0 +1,94 @@
+There have been over the years several plans and attempts to develop very
+fined grained markets online. There are several barriers to the success of
+such markets. An important barrier recently raised by Zooko in his comments on
+the Tahoe peer-to-peer disk backup project is the vulnerability of and to a
+centralized mint issuing money.  
+  
+One possible answer to central mint vulnerability is bit gold \-- a currency
+the value of which does not depend on any particular trusted third party.
+Another alternative is an object barter economy.  
+  
+The key ideas of this nanobarter scheme are  
+  
+(1) the stuff to be traded (in Tahoe, disk space for backup) is represented by
+digital barter certificates (same protocol as digital cash, but every node is
+a "mint" that issues its own barter notes), and  
+  
+(2) default barter order and an agent ("market translator") that translates
+user behavior into barter orders. In the disk space economy, the default
+barter order might be to simply do a periodic barter that backs up N gigabytes
+of other peoples' disks in exchange for N gigabytes of their own. Many more
+sophisticated barter orders are also possible.  
+  
+If the reader is familiar with Menger's account of the origin of money from
+barter, this scheme is quite in the spirit of his scenario -- except that we
+reduce the transaction costs of barter by brute force automation instead of by
+making everybody choose a single currency.  
+  
+The transaction log and accounts are presented to the user in terms of a "pet
+currency"; the market translator automatically converts all different kinds of
+barter note prices into their pet currency values whenever prices need to be
+presented to the user.  
+  
+Every computer on the network (called a "node") runs a "mint" that issues
+"currency" (barter notes) backed by its commodity (e.g. disk space). In a
+simple system all disk space barter notes are treated as equivalent. Or there
+might be L different currencies corresponding the the L different kinds of
+leases in Tahoe. (In Tahoe a certain amount of disk space on a foreign disk is
+"leased" for a certain period of time). Indeed, a barter note is simply a
+lease in bearer form -- it can mean "I promise to bearer to provide G
+gigabytes of disk space for D days", or whatever the terms of the lease is.  
+  
+In a simple system, the barter note may simply be a ticket that never gets
+traded, merely issued and used. In a slightly more advanced system they trade
+but only at par value. A gigabyte is a gigabyte regardless of whose server its
+on -- this is a very simple proxy measure that excludes service quality from
+automated consideration. Since this is a nanomarket, there is normally no
+opportunity for the user to intervene with a more sophisticated or subjective
+judgment. Even a crude proxy measure, if full automated, may be sufficient for
+a nanomarket to outperform the non-nanomarket status quo (no transactions at
+all or the use of resource allocation algorithms, although the latter in a
+broad sense can be considered to be competing nanobarter systems).  
+  
+In a more sophisticated system (probably overkill for the purposes of Tahoe)
+some disk space notes trade at a discount because their backup services are
+unreliable. Bots "ping" the backup services provided by nodes to gather
+statistics on their reliability, and then buy reliable and sell unreliable
+notes. There are O((LN)^2) automated currency exchange products which these
+bots trade. The mental transaction cost problem caused by having O((LN)^2)
+prices with LN currencies is thus solved underneath the covers by these
+automated trading bots. The resulting trades are presented to users, if
+necessary, in terms of pet currencies, and we can have a large barter economy
+without the mental overhead of all those prices.  
+  
+To avoid the transaction costs of thinly traded markets, the bots might come
+to prefer the notes of one or a few services as "intermediate commodities"
+asMenger described, and most of the markets might become unused, leading to
+O(LN) actively traded markets -- an economy with a constant number of
+currencies and LN prices. But that's an entirely optional process that can be
+allowed to emerge. And with the right reliability-ping and arbitrage bots I
+suspect the transaction costs of thinly traded markets might be quite small,
+so that there is no compelling reasoning for a centralized currency to emerge
+and the added reliability of multiple currencies can be retained without the
+hassle (mental transaction costs) of users having to deal with multiple
+currencies.  
+  
+There are few computational transaction cost barriers left to developing
+nanotransactions -- the biggest is network delay time. The largest remaining
+barrier to nanomarkets is, for most kinds of transactions, mental transaction
+costs. User audits of nanotransactions cannot be both frequent and at fine
+granularity, or mental transaction costs quickly come to dwarf the value added
+by the market. Any problems with nanomarkets that might require such audits
+must be handled in a highly automated fashion.  
+  
+The approaches to designing this automation all seem to start with developing
+reasonable proxy measures of service value. For nanomarkets it is far more
+important that these be measurable in fully automated fashion than that they
+be terribly accurate. After good proxy measures have been developed, one must
+obtain or estimate user preferences in terms of these measures. Obtaining
+preferences directly from the user has to be done in with traditional value
+granularites, otherwise mental transaction costs dominate. Alternatively,
+further proxy measures can be made that estimate user economic preferences
+from their normal input behavior. These are then compiled into automated
+nanotransactions with the market translator.
+

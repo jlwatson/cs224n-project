@@ -1,0 +1,100 @@
+Imagine if the only place you could refill your gas tank was at home, so that
+you could never choose to drive farther than one tankful of gas would carry
+you. Furthermore, imagine that it usually required most of a tankful to get
+from one place you want to go to another -- or to get back home. So you
+usually could choose to go only one place per trip, and even when you could go
+more than one place, you had to plan the entire trip well ahead of time and
+could not deviate from it, no matter how much your needs changed while on the
+trip.  
+  
+That is largely the situation with space operations today. You have to plan
+the entire mission ahead of time. If in mid-mission you discover that you want
+to change the plane of your orbit, or extend the life of your satellite, or
+make any other change that requires more propellant than you long ago planned
+for, you are out of luck. If you want to reserve a wide variety of such
+decisions instead of committing to the entire plan up-front, it won't happen
+unless you launch a great deal of extra propellant that you will probably
+never use.  
+  
+Refueling capabilities and orbital propellant depots can change that. They
+provide choices -- what economists call _real options_.  
+  
+Like financial options, in an uncertain world real options often have
+substantial value. The kinds of real options commonly encountered in the
+business world include input mix options (options to use different inputs to
+deliver the substantially same output), output mix options (to use the same
+inputs to deliver different outputs), termination options (to abandon early
+failing projects or projects that have become unimportant), intensity or scale
+options (options to increase or decrease output), options to stop and restart,
+and switching options (the option to abandon one mean or end and change to
+another). All of these options can have a substantial operational and
+financial value that is not captured by traditional analysis of fixed plans.  
+  
+Propellant depots don't provide substantially cheaper propellant: it must all,
+for the near future, still be launched quite expensively from earth. And
+propellant depots don't provide an infinite variety of choices. They won't
+make it affordable for astronauts headed for Mars to return back home when
+they discover that they forgot to pack their toothbrushes. Orbital mechanics
+is relentless and an option to take on extra, but still expensive, propellant
+can only change things so much, and you especially won't be able to afford
+such an option if you're off the beaten path. But propellant depots and
+refuelable satellites will allow those operating satellites in common orbits,
+such as geosynchronous orbit and low polar earth orbit, to change plans during
+a satellite's lifetime by adding a wide variety of valuable real options, for
+example:  
+  
+* Spy satellites have highly uncertain propellant usage, and often end their lifetimes mostly full of propellant or exhaust their propellant long before any other components have degraded. Propellant depots will give spy satellites real options to optimize time over certain targets, to avoid a variety of attacks by changing orbits, and add flexibility to respond to other unpredictable challenges.  
+  
+* Commercial satellites: depots will extend the lifetimes of satellites that prove to be important, and allow satellites to be relocated over new locations as markets change. (With a few extra features on a depot tanker, propellant already on board a broken satellite, or a satellite that has proved to be unimportant, might be "siphoned" back into the tanker and used on a working and important spacecraft).  
+  
+* Upper stages and satellites can be checked out to make sure they are in working order on orbit before being fueled. Immediate systems failure, which is a common failure mode, need no longer result in the waste of expensive propellant.   
+  
+This short list is probably the tip of the iceberg. Real options are about the
+unpredictable, and it's hard to make a list of the unpredictable ahead of
+time. On-orbit refueling and orbital propellant depots are not just a
+technology, they are part of a new paradigm. They are part of thinking of
+space activities in terms of real options instead of fixed plans. This
+paradigm recognizes uncertainties in space missions and businesses that
+traditonal fixed space planning has neglected. Making good use of propellant
+depots requires not only technology, but the recognition of these
+uncertainties, and as a result a recognition of the options that businessmen,
+militaries, and scientists would like to retain. Those options can then be
+brought to reality with refuelable satellites and orbital depots, quite
+possibly in association with other technologies that enhance mission
+flexibility in other ways. It's not propellant depots and refueling
+capabilities by themselves that will be beneficial, it will be their use to
+enable a wide variety of new and valuable real options for spacecraft
+operators and users. It will be a crucial and lucrative entrepreneurial task
+to identify these real options and enable them with refuelable satellites,
+depots, and probably a wide variety of other techniques and services.  
+  
+Going back to our humble earthbound example, real options explain why most
+commuters prefer cars (with gas stations available in a wide variety of
+locations) to mass transist. Mass transist resembles far more the fixed plan
+-- travel from home to work and back every day, and that's it. Under the
+fixed-plan assumption, mass transit is far less expensive and far more energy-
+efficient than automobiles. Cars, and the gas stations that refuel them,
+provide real options -- to pick up kids from baseball today, to go to a class
+after work tommorrow, to go shopping at one of a wide variety of stores, to
+visit your doctor or the emergency room when you get sick, to pick up your
+friend from the airport after work the next day, and so on. Mass transit and
+traditional space mission planning both represent the mentality of artificial
+certainty, the idea that we can simply plot out the future and it will come to
+fruition just so. At least space mission planners have the excuse of orbital
+mechanics, which is highly predictable. Human beings are not, nor are the vast
+variety of our needs and desires known to planners. Economic comparisons
+between mass transit and automobiles that don't account for the vast number
+and variety of options made real by the the latter will grossly underestimate
+the value of automobiles.  
+  
+Related:  
+  
+Real options analysis also allows planning for discontinous risk, rather than
+the artificial assumption that risk is a continuous function that can be
+modeled simply by adding a risk premium to a risk-free interest rate. More on
+that, and the implications for space mission evaluation, here.  
+  
+Here is an introduction to mathematical analysis of real options, and here is
+a discussion of orbital depots for propellants that turn into vapors at normal
+temperatures, and are thus hard to store.
+

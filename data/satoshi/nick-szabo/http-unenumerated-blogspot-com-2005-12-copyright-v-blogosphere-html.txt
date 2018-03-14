@@ -1,0 +1,43 @@
+"The blogosphere has developed a set of copyright norms in an area where there
+is very little enforcement. These norms about the use of copyrighted material
+are probably at odds with existing copyright law." So writes Daniel Solove, a
+professor at my law school, More here (via Emergent Chaos). The same was true
+of the original Internet itself (e-mail, ftp, and so on), and then of the web.
+There would be no useful Internet and no useful web if it the copyright that
+copyright law says exists in almost every human-generated packet of bits was
+actually tracked and enforced. Copyright exists by default, simply from the
+human act of creating a web page, a photo, some music, and so on. Generally,
+under current copyright law once a work is created it may not be copied
+without the express permission of the copyright owner. However, if this
+standard were actually applied to the Internet transaction costs would be
+prohibitive and the Internet would not usefully exist.  
+  
+Fortunately, at least some of the massive copying done by the Internet has
+been deemed to come under "implied consent." By sending e-mail or publishing
+your web page, you have given implied consent for intermediating servers and
+users to have their software make copies so that users can view your work.
+Unless you put up a "robots.txt" file that forbids it, presumably Google and
+other search engines are free to copy, search, and cache your web pages,
+without asking you despite your copyright in them. Contrary to standard
+copyright law, web searching like many other features of the Internet does not
+require the express permission of the copyright owner. To be protected against
+copying the author must give notice that he desires such protection, rather
+than the starting with the presumption that nothing can be copied. This
+results in radically lower transaction costs that make e-mail, the web, and
+web searching possible. But when an industry fights back (e.g. the music
+industry against P2P) the presumptions made by emerging Internet norms can be
+put in jeopardy, Solove points out.  
+  
+The idea that copyright exists by default in a work is a rather recent one,
+especially in the United States. Traditionally, unless one registered the work
+with a copyright office, or at least labeled the work as "copyright", it was
+presumed that the work was placed, like almost all human communication has
+traditionally been placed, in the public domain. Copyright offices are now
+online and works mostly digital, so that registration can be made far easier.
+It's often easy to give notice to software regarding the status of works as
+with the "robots.txt" system. Under Internet norms works such as e-mails, web
+pages, and blog posts are not protected against copying by default. Thus, this
+older version of copyright law, where works are not copyrighted until they are
+registered or at least labeled as such (this time in a computer-readable way)
+is what we should return to in the Internet era, legally as well as de facto.
+

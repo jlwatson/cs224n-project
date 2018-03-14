@@ -1,0 +1,5 @@
+Will McCarthy's book Hacking Matter is now online. Although it contains too
+much hype for my tastes, it also contains a good layman's description of
+quantum dots (artificial atoms) and similar devices. See also the programmable
+matter FAQ.
+

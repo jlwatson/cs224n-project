@@ -1,0 +1,52 @@
+The classic economic account of the origins of money is that of Carl Menger.
+Menger described money as emerging out of markets where commodoties were
+bartered. Barter markets were inefficient, Menger explained, because a double
+coincidence of wants was required before a trade could be consumated. One way
+to solve this would be credit, but credit is a very imperfect institution for
+a variety of reasons. Another way to solve the problem is the intermediate
+commodity -- a commodity that everybody is willing to take or give in trade.
+This would start by being an otherwise useful commodity, but eventually it
+would be come to be valued more, or even entirely, for its monetary attributes
+(i.e. its attributes as an intermediate commodity, such as durability,
+divisability, the ability to be securely stored, etc.) Thus would money
+naturally emerge from the operations of a barter market.  
+  
+Menger's theory is valuable in a number of ways. The coincidence of wants
+problem is a crucial idea as well as illustrating the Austrian economic ideas
+of time and subjective preferences. Menger's theory provides a good example of
+how economic institutions can emerge, it demonstrates that (contrary to modern
+legal definitions) money need not be created by any sort of government, and it
+suggests that the emergence of money long predated the invention of coinage.
+And Menger's theory is true insofar as a barter market would evolve in the way
+Menger describes. However, as an actual description of the origins of money it
+is almost surely wrong -- or alternatively, it is even more right than he
+could have known. This is because money, in the form of collectibles such as
+shells, predated low transaction cost commodity markets by tens of thousands
+of years.  
+  
+Money (or, if you prefer to stick to modern legal definitions of money, proto-
+money which I call "collectibles") emerged far sooner than barter markets
+because the double coincidence of wants problem occurs not only in barter
+exchanges, but in other transactions that were as or more important than
+barter to hunter-gatherer societies: paying tribute, paying legal fines, bride
+price, and mortuary distribution (inheritance). Furthermore, barter exchanges
+in these societies usually resembled far more a bilateral monopoly than an
+efficient market exchange. Use of shell jewelry or similar objects in hunter-
+gatherer and neolithic societies for these purposes is nearly universal.
+Nevertheless, in all these kinds of transactions a double (or more)
+coincidence of wants and events (such as death, marriage, or legal judgment)
+is required if they are done in-kind rather than with objects with good
+monetary properties; the best such objects available were usually shells,
+often strung on necklaces providing secure storage and divisibility.  
+  
+Furthermore, these appeared long enough ago (mature shell jewelry is found now
+back to 75,000 B.P.) that the (begging) explanation "people collected shells
+and made jewelry for pleasure" may be backwards -- humans may well have
+evolved the pleasure of collection because of the evolutionary benefits of
+greater cooperation. Lowered transaction costs for all these kinds of
+transactions meant greater familial, political, legal, and economic
+cooperation -- i.e. the enhancement of kin altruism as well as reciprocal
+altruism and the mitigation of aggression.  
+  
+This is spelled out in detail in my Shelling Out: The Origins of Money
+

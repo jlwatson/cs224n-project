@@ -1,0 +1,110 @@
+There is a sense in which gene expression can be hierarchical: some genes are
+"master genes" that control the expression of many other genes. In other
+words, they select which genes to express when. It is thus entirely possible,
+and indeed in advanced organisms common, for a genome to encode a wide variety
+of phenotypes, only some of which get expressed, depending on the alleles of
+the master gene(s), on environmental cues, or both. Master genes can control
+gender, sexual orientation, and a wide variety of other complex structures and
+behavioral tendencies encoded for by complex assemblies of genes.  
+  
+The green beard effect occurs when linked genes produce all three of the
+following: (1) a signal, (2) recognition of that signal in others, and (3)
+different behaviors (e.g. altruism) towards those exhibiting that signal. If
+the genes can remain linked, organisms expressing the green beard allele can
+cooperate with each other and spread in the population. Most evolutionary
+biologists, studying the genetic evolution of behaviors in animals, have
+tended to dismiss green beard effects as rare, because they have only rarely
+been unambiguously observed in the field, and because it's highly unlikely
+that genes can remain linked in this manner during sexual recombination.  
+  
+I strongly suspect that this view is mistaken. It's hard to distinguish green
+beard from normal ("blue beard") signalling and recognition systems (such as
+those involved in kin altruism, mother/fetus interfaces, sexual selection,
+gender recognition, etc.) Green beard effects usually evolve "parasitically"
+on already existing "blue beard" signalling systems. Both of these make it
+difficult to recognize green beard effects, because they are usually strongly
+associated with existing "blue beard" signalling systems. Furthermore, strong
+linkages are not nearly as rare as has been assumed, because of the existence
+of master genes that control the expression of many other genes. Alternative
+alleles of a master gene could, for example, code for the selective expression
+of alternative strategies encoded in many other genes. In other words, a wide
+variety of genes, each existing in all members of a species, could code for
+two or more complex strategies, with a master gene coding for _which_ of the
+strategies actually gets expressed.  
+  
+Nature provides a great example where I believe a master green beard gene is
+at work: the side-blotched lizard. The male lizards have three different
+strategies for defending mates: dominance, sneakiness, and cooperative mate
+guarding. Violating standard theory, these sexual strategies correspond to
+very distinct throat color patterns: orange, yellow, and blue. Orange-throated
+lizards dominate a mate and territory and don't cooperate with other males in
+this task. Yellow-throated lizards look and act like females, and sneak around
+cuckolding orange-throated lizards. Blue-throated lizards cooperate to detect
+and fend off yellow lizards, but are weaker and can be defeated by yellow-
+throated lizards. The result is  
+
+> a kind of "rock-paper-scissors" game, where orange defeats blue, blue
+defeats yellow, and yellow defeats orange. The result is an evolutionarily
+stable situation in which no single color morph can dominate the population...  
+>  
+> The remarkable thing about the color morphs of side-blotched lizards is that
+an enormous range of behavioral, physiological, and life-history traits are
+correlated with throat color. Genes for different traits can be linked
+physically if they occur close together on a chromosome, but according to
+[evolutionary biologist Barry] Sinervo, throat color is linked to far more
+traits than could possibly be physically linked on the same chromosome.  
+>  
+> It's almost as if the whole genome is tightly tethered to this one master
+locus," he said. "In order to be a really 'good' blue, you have to have all
+these other alleles [of different genes] lined up in the right combination,
+and the same is true for orange and yellow color morphs. So there is strong
+selection for these different fitness combinations.  
+>  
+> "The whole genome crystallizes into three types," Sinervo said. "The alleles
+for all these different traits should be independent and separated on the
+chromosomes, yet the genes are interacting through this one locus."
+
+The lizards, the throat color gene determining orange, yellow, or blue throat
+splotches seems to be tightly correlated to the rest of a distinct complex
+strategem. This is inexplicable by traditional arguments against the green
+beard, which assume that the alternative strategies are coded in three
+separate sets of alternative alleles, all of which must be expressed to work.
+Being broken up and recombined every generation, they cannot stably evolve as
+distinct and competing sets of genes. But the cooperation of the blue-throated
+lizards qualifies as a green beard effect, bringing this assumption into
+question. The linkage of throat colors with complex behavioral strategies can
+be readily explained if _all three_ strategies are encoded in _all_ male side-
+blotched lizard genomes, and there is only one strong linkage, that is between
+the throat color gene and a gene that controls the expression of many other
+genes. Indeed, I wouldn't be surprised if the throat color gene and the master
+gene were the same gene.  
+  
+There are strong adaptive reasons for master genes to control complex
+assemblages in this way. Behavioral strategies, and indeed structures and
+metabolic pathways, that are too complicated but not ubiquitous in a breeding
+population are encoded across too many unlinked genes. As a result they cannot
+survive sexual recombination. All advanced multi-cellular organisms thus have
+master genes or distinct chromosomes that control the expression of many other
+genes. In the case of gender, distinct chromosomes are usually involved, but
+master genes can behave similarly, producing small sets of complicated
+strategies, each strategy very distinct from each other and each a distinct
+alternative to the other. In information theory terms, there is a large
+information distance between each of the alternative strategies, just as there
+are many differences between the genes expressed in the development of a
+female versus those expressed in a male. A wide variety of distinct
+morphological and behavioral traits are bundled into a small number (in the
+case of genders, typically two) of alternatives. A wide variety of other genes
+encode the distinct complex structures or strategies, to be invoked by master
+genes, developmental stages, and environmental cues. Since the complicated
+parts of each strategy are encoded in _every_ member of the breeding
+population, there is no problem with sexual recombination breaking linkages
+between many genes encoding each strategy: each gene of each strategy is still
+there waiting, in the next generation, to be invoked by the master gene.  
+  
+I strongly suspect that master genes and green beard effects analyzed in this
+manner will shed light on a wide variety of puzzles in evolutionary biology,
+including sexual selection, sexual orientation, and racial and ethnic
+preferences that, under the assumption that green beard effects are not
+important, have long defied analysis or been assumed to be purely
+environmental.
+

@@ -1,0 +1,64 @@
+I once described how confidential auditing was possible and beneficial:  
+  
+
+> The auditing function is a vast and indispensable part of the modern
+economy. Auditing controls allow, among other things, employers to delegate
+resources and authority to employees, franchisors to delegate to franchisees,
+stockholders to delegate to management, advertisers to count eybeballs,
+marketers to gather more reliable data on customers, and make possible a wide
+variety of other such relationships. Auditing controls might fairly be called
+the security protocols of capitalism...[However,] auditing is in deep conflict
+with efforts towards greater privacy. Auditors have an ethic of recording,
+investigating, and reporting as much as possible, and often see privacy
+efforts as attempts to prevent auditing and potentially cover up fraud...[But
+confidential auditing is possible because] we can achieve auditing logs
+unforgeable after commitment via secure timestamps. We can then achieve to a
+great extent unforgeability prior to commitment, with segregation of duties
+via multiparty integrity constraints. We then audit these commitments via
+multiparty private computations.
+
+In an article about multiparty secure (i.e. private) computations I described
+this process as follows:  
+  
+
+> Performance phase analysis with multiparty secure computer theory would seem
+to apply only to those contracts which can be performed inside the virtual
+computer. But the use of post-unforgeable auditing logs, combined with running
+auditing protocols inside the shared virtual computer, allows a wide variety
+of performances outside the virtual computer to at least be observed and
+verified by selected arbitrators, albeit not proactively self-enforced.  
+>  
+> The participants in this mutually confidential auditing protocol can verify
+that the books match the details of transactions stored in a previously
+committed transaction log, and that the numbers add up correctly. The
+participants can compute summary statistics on their confidentially shared
+transaction logs, including cross-checking of the logs against counterparties
+to a transaction, without revealing those logs. They only learn what can be
+inferred from the statistics; [they] can't see the details of the transactions
+
+In this I had been inspired by Eric Hughes' idea of encrypted open books. My
+sketch is more general insofar as it addresses pre-transaction forging (with
+separation of duties), post-transaction forging (with secure timestamping),
+and the auditing protocol itself (with multiparty private computation running
+off the logs themselves rather than Hughes' specialized protocol running off
+already prepared books).  
+  
+But my description was only a proof-of-concept sketch that one could go all
+the way from preparing to transact to transaction log to finished audits while
+maintaining both integrity and privacy, with neither depending on large
+amounts of trust in the auditors. Recently Shen et. al. came up with a
+detailed design of such a confidential auditing scheme in the context of
+gathering statistics from the logs of distributed computations:  
+  
+
+> ...no single TTP [trusted third party] node can have the full knowledge of
+the logs, and thus no single node can misuse the log information without being
+detected. On the basis of a relaxed form of secure distributed computing
+paragidms, one can implement confidential auditing service so that the auditor
+can retrieve certain aggregated system information e.g., the number of
+transactions, the total volume, the event traces, etc., without having to
+access the full log data...To prevent an unsupervised TTP from manipulating
+the system, we design query processing schemes that require TTP nodes work
+together, using the multiparty private computation, to perform any useful
+auditing functions.
+

@@ -1,0 +1,107 @@
+For the purposes of estimating the value of a project, risk has for simplicity
+often been treated as spread out evenly over the life of a project. For normal
+projects these risks can usually be fairly approximated by estimating risk per
+unit time. This occurs in, for example, the net present value (NPV) formula
+for estimating the value of a project where a constant interest rate risk
+premium is used. In a typical space mission, however, risk tends to be
+concentrated at particular events such as launches, burns, flybies and
+landings. Just floating out in space is relatively quite low risk, which is
+why we can fly to Jupiter and Saturn with failure rates not significantly
+greater than missions to the moon or Mars. All four of the spacecraft that
+have so far intentionally been flown beyond Saturn -- Pioneers 10 and 11, and
+Voyagers 1 and 2 -- had many initial glitches. But since passing beyond Saturn
+they have travelled on for nearly two decades, far beyond Pluto, with no
+substantial and unexpected failure. The Voyagers continue to send back
+valuable data on the very edge of the solar system, where the solar wind gives
+way to the interstellar influence -- more than 80 times as far from the sun as
+our own earth.  
+  
+There is a small risk of component failure that tends to obey a Poisson
+distribution that grows over time. But the risk in even earth-orbiting
+satellites is dominated by launch and orbit-insertion failures, and other
+failures at the start of the satellite's lifetime, which are unrelated to the
+satellite's expected lifetime.  
+  
+Thus the vast majority of the risk of most space projects does not grow
+exponentially with their duration, and indeed is usually not closely
+correlated to their duration in any way. We would thus get an exponentially
+wrong answer by a line of reasoning that estimated the risk of a generic deep
+space mission as X%/year, and deduce by plugging that risk into the net
+present value (NPV) equation that, for example, an 8 year mission is
+substantially costlier (due to a risk that grows exponentially over time) than
+a 2 year mission. An example of this fallacy is NPV analysis that assumes a
+constant risk premium for comparison of futuristic lunar and asteroid mining
+scenarios. All such papers that I've seen (e.g. this one) fall victim to this
+fallacy. To use NPV properly we need to account for the risks of particular
+events in the mission (in the mining scenario primarily launches, burns, and
+mining operations) to estimate a total risk, and divide that total risk by the
+duration of the mission to get a risk premium. The risk premium per year for
+the longer mission will thus probably be substantially lower than for a
+shorter mission (implying an overall risk slighly higher for the longer
+mission, all other things being equal).  
+  
+An even more accurate method for evaluating risk in space projects is called
+real options analysis. It has changed valuation from the old static NPV model
+to a dynamic model based on specific risks. One improvement this brings is
+removing the assumption of constant risk, which we've seen is wildly
+inappropriate for deep space missions. Another idea real options brings us is
+that designing a project to postpone choices adds value to the project when
+there will be better information in the future. A science mission example: if
+a scientific event could occur at either target A or target B, it's best to
+postpone the choice of target until we know where the event is going to occur.
+If that's possible, we now have a scientifically more valuable mission.  
+  
+Orbital planning for deep space missions tends to plan for a fixed mission
+ahead of time. Real options analysis says that the project gains value if we
+design in options to change the project's course in the future. For orbital
+mechanics that means designing the trajectory to allow retargeting at certain
+windows, even at some cost of delta-v and time. (Whether the tradeoff is worth
+it can be analyzed using real options mathematics, if we can make comparison
+estimates of different scientific targets using a common utilitarian scale).  
+  
+In the context of an Jupiter orbiter swinging by various Jovian moons, such
+options might include hanging around an interesting moon longer or changing
+the trajectory to target. The idea is instead of plotting a single trajectory,
+you plot a tree of trajectories, with various points where the mission
+controllers can choose trajectory A or trajectory B based on mission
+opportunies.  
+  
+A shorthand way to think of real options analys is that the project is modeled
+as a game tree with each node on the tree representing a choice (i.e. a real
+option) that can be made by the project managers. The choices are called "real
+options" because the math is the same as for financial options (game trees,
+Black-Scholes, etc.) but they represent real-world choices, for example the
+option of a vineyeard to sell its wine this year or let it age at least
+another year, the option of a mine to open or close, or expand or shrink its
+operations, etc.  
+  
+The orbital planning I've seen tends to plan for a fixed mission ahead of
+time. Real options analysis says that the project may gain value if we design
+in options to change the project's course in the future. For orbital mechanics
+that means designing the trajectory to allow retargeting at certain windows,
+even at some cost of delta-v and time. (Whether the tradeoffs between delta-v,
+time, and particular real options are worth it can be analyzed using real
+options mathematics, if we can compare different scientific targets using a
+common utilitarian scale).  
+  
+In the context of the Jovian moons project, such options might include hanging
+around Europa longer if a volcano is going there (like the one discovered on
+the similar moon Enceladus) or if some evidence of life is found (or leaving
+it sooner if not), or changing the trajectory so that the next target is
+Europa instead Ganymede if a volcano suddenly springs up on Europa, or to Io
+if an interesting volcano springs up there. The idea is instead of plotting a
+single trajectory, we plot a tree of trajectories, with various points where
+the mission controllers can choose trajectory A or trajectory B (sometimes
+with further options C, D, etc.) based on mission opportunities. Other
+trajectory options might include hanging around a particular moon for longer
+or changing the view angle to the target. We may trade off extra delta-v,
+extra time, or both in order to enable future changes in the trajectory plan.  
+  
+Here is more on real options analysis. Real options analysis is also quite
+valuable for the research and developoment phase of a project. Here is a good
+paper on real options analysis for space mission design. My thanks to Shane
+Ross and Mark Sonter for their helpful comments on space project evaluation
+and planning.  
+  
+UPDATE: This post is featured in the Carnival of Space #22.
+

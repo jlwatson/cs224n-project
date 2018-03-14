@@ -1,0 +1,125 @@
+The modern joint-stock corporation has many sources in medieval Europe. First
+among these was corporate law itself. Although the era is commonly referred to
+as "feudalism," for the hierarchy of individually owned "fiefs" of land and
+control of serfs as fixtures of that land, large amounts of wealth in Europe
+were actually controlled by corporate entities. Chief among these were church
+lands, the corporate entities being dioceses, religious orders and the Roman
+Church itself. These entities controlled a substantial fraction of the land in
+Western Europe. Furthermore cities (with varying degrees of political
+independence), merchant guilds, craft guilds, and many charitable entities
+(such as hospitals) were legal "corporations," i.e. artificial and perpetual
+legal persons under law. Some basic issues in corporate law (for example, when
+are officers individually liable for acts of the corporation, and when the
+corporation is liable for acts of its agents) had already been solved in canon
+law and urban law long before the joint-stock corporation.  
+  
+Another source of the joint-stock corporation was the tradition of dividing
+ownership over tangible things into "shares." For example, it was common in
+Italian maritime states fund the construction and operation of ships by
+dividing them into a certain number of shares (24 and 64 were common
+divisions). Share owners were responsible for funding voyages (not including
+cargo, which was typically paid for by trading partnerships called _commenda_
+) as well as the initial construction capital, and divided up the profits
+(fees paid by the merchants less costs). This tradition faded away in Venice
+when that republic's government took over ship ownership, but thrived across
+the Italian penninsula in Genoa. Ship shares became embedded into maritime law
+all over Europe and even survived the British Empire (today in Canada when you
+register a boat the government still registers 64 shares in it for its owner).
+The only organization controlled by the shareholders, however, was the captain
+and crew of the ship.  
+  
+The medieval organizations that most resembled later joint-stock corporations
+were the Genovese _maone_. These bore some strong resemblances to the
+_publicani_ tax farming corporations of the Roman Republican era, although it
+is not clear how they could have survived the intervening Late Empire and Dark
+Ages other than as very obscure (and perhaps now lost) written descriptions.
+In form and function _maone_ also bore strong resemblances to some early
+joint-stock companies such as the Bank of Amsterdam, Bank of England, and the
+Dutch and English East India Companies.  
+  
+The Italian cities often sold off their tax receivables to wealthy merchants
+at a discount as a way to borrow funds. (Discounting was one of the many ways
+late medieval financiers avoided the rather lax and narrow usury
+restrictions). The debts were divided into equal shares called _loca_ or
+_partes_. Legally, these shares were personal property (chattels) and could be
+freely traded.  
+  
+Technically, no organization was created when the city sold its tax
+receivables to merchants. However, to effectively collect the taxes, the
+holders of _loca_ formed an organization called a _maona_ or _societas
+comperarum_. This organization would then subcontract to tax farmers to
+collect the taxes. By the fourteenth century, Genovese _maone_ also engaged in
+military conquest and colonization. These were, quite literally, corporate
+raiders.  
+  
+Normally, _maone_ were temporary, but some of them ended up lasting for a long
+time. In 1346 the _Maona di Chio e di Focea_ (a company for managing the taxes
+of Chios and Focea) was formed. This organization's members obtained from
+Genoa the exclusive right to collect taxes from Chios (an Aegean island) and
+Phocaea (a port on the Anatolian coast). But first the company would have to
+conquer them! Although technically a temporary organization, it lasted until
+1566.  
+  
+Rather than going to buy receivables from Genoa, subscriptions to the _di Chio
+e di Focea's_ _loca_ shares (still legally debt, but to be paid out in
+dividends as taxes and trading revenues were collected) went to fund 29
+galleys to conquer Chios and Phocaea. The Genovese Republic, for a fee,
+granted the organization exclusive rights to collect taxes from the conquered
+territories as well as special trading privileges. The conquests, taxes, and
+trading were at least partially successful, and by the 16th century more than
+600 persons owned _loca_ of the _maona._ This function and some of this
+structure would later be emulated by the Dutch and English India Companies,
+but with a basic legal difference -- "shares" in these later joint-stock
+companies would constitute ownership (like ship shares) not debt as with the
+_maona._  
+  
+The most famous Genovese _maona_ was the _Officium procuratorum San Giorgio_ ,
+later the _Banco di San Giorgio_. Founded in 1407, this bank (and a later
+Genovese bank along the same lines, the Bank of Genoa) would be the
+inspiration for later central banks such as the Bank of Amsterdam and the Bank
+of England. _Banco di San Giorgio_ came to administer most of the Genovese
+Republic's debts. Dividends were paid out of tax collections (less directly
+than with earlier _maona_ , but still more directly than the later Bank of
+England). The _maona_ business was becoming more monopolistic, as it had
+become in Venice and would become with later central banks.  
+  
+At the same time, however, the ship share system spread to northern Europe and
+branched out beyond ships. In Italy and Germany by the 16th century a wide
+variety of mines were divied up into ownership shares. During the Reformation,
+a pious follower of Martin Luther gave him some _kuxen_ , shares in a mine in
+Saxony. Luther complained that he did not know what to do with them. (Indeed,
+since as with ship shares the mine managers could call on investors to pay up
+more capital, ownership was not for the financially naive).  
+  
+ _Martin Luther_  
+  
+Ship shares and mine shares like these were issued in small numbers (usually
+between 24 and 640) and thus were not typically traded on exchanges. The
+number of employees was also small, usually no more than a few dozen. _Kuxen_
+were reportedly sometimes traded at the Leipzig fairs. Indeed, illiquidity was
+the rule in the first century of English joint-stock companies. It was not
+until the _Vereenigde Oostindische Compagnie_ (the Dutch East India Company,
+founded out of a merger of smaller colonial companies in 1602) that volume
+existed to trade company shares on exhanges (which up to that time traded
+state and municipal bonds and commodities).  
+  
+Interestingly, the first joint-stock companies chartered by the English Crown
+(starting in 1553) were companies involved in trading (the Muscovy and Levant
+companies), mining (the Royal Mines and the Mineral and Battery), and trading
+combined with conquest (the India Companies, the Virginia and Plymouth
+companies, etc.) The two mining companies borrowed not only shares but
+managers and engineers (presumably along with their techniques) from Germany.
+The Genovese for their part would have felt at home with the trading and
+conquest companies.  
+  
+References include:  
+  
+Harold Berman, _Law and Revolution_.  
+  
+Guido Ferrarini, "Origins of Limited Liability Companies and Company Law
+Modernisation in Italy: A Historical Outline", _Centro di Diritto e Finanza_
+WP 5-2002.  
+  
+Meir Kohn, "The Capital Market Before 1600", working paper 99-06, February
+1999.
+

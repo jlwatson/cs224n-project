@@ -1,0 +1,124 @@
+In my old essay on micropayments and mental transaction costs, besides
+pointing out that mental transaction costs were a far more important barrier
+to Internet micropayments than computational transaction costs, I sketched
+some ideas for tools to lower mental transaction costs. Lowering mental
+transaction costs enables pricing at finer granularity, which increases price-
+sensitive behavior and thus the efficient allocation of scarce resources. I
+also used electricity conservation as a practical example of how mental
+transaction costs pose a barrier to price flexibility and thus to
+conservation. It turns out that electricity conservation is among the first
+areas to benefit from smart contracts that lower mental transaction costs.  
+  
+This paper I presented at the Second Berlin Internet Economics Workshop in
+1999 provides more detail on the economic theory behind mental transaction
+costs. Basically, mental transaction costs are the "hassle factor" one
+experiences when spending money: the costs of translating one's own knowledge
+and preferences into buying decisions. Mental transaction costs pose a severe
+limit on the efficiency of markets in general and on useful price granularity
+in particular; they are the main reason consumers generally prefer flat-rate
+pricing and why high price granularity (and thus micropayment) is usually
+useless.  
+  
+Tools to lower mental transaction costs have vast potential but present many
+problems, especially "determining what the parties want in the first place."
+The most promising tools are smart contracts -- computerized devices that
+respond to the environment according to price signals or other contractual
+terms, customer preferences, and other states or events that are encoded in
+them or that they are encoded to respond to. Many smart contracts in the
+future may be programmed using a contract drafting language for specifying
+their event-driven behavior.  
+  
+(I have also emphasized making smart contracts securely self-enforcing or
+self-verifying, but that is a different topic from this post, which deals with
+the role of smart contracts in lowering mental transaction costs).  
+  
+Mental transaction costs pose a barrier to any scheme to go from flat rate to
+variable pricing in order to conserve resources. Such a scheme may be made
+possible only by technological or institutional breakthroughs which lower
+mental transaction costs. Faruqui and Earle[1]'s description of California's
+Demand Response scheme for peak-demand pricing of electricity is generally a
+good description of a successful and promising program that increases
+conservation and reduces the danger of blackouts by going from flat pricing to
+three price tiers (off-peak, peak, and critical peak). But the article fails
+to recognize the important role of mental transaction costs when increasing
+the number of price tiers. The authors do, however, recognize two important
+success factors. The importance of these factors provides strong evidence that
+mental transaction costs and tools that save on these costs will crucial in
+determining the scope and success of California's demand-sensitive pricing
+scheme. The authors observed that "[o]n average, residential customers reduced
+peak loads on critical days by 13.1 percent." The reduction was much larger
+for customers with central air conditioning. More interesting still, customers
+with "automatic price-sensitive thermostats" saved twice as much energy as
+customers that did not have these smart contract devices.[2]  
+  
+The first effect comes about because on average each central air unit consumes
+far more power than each window unit; correspondingly the same mental
+transaction costs expended in controlling the thermostat of the former saves
+far more energy and thus money than controlling the latter. The second effect
+comes because the price-sensitive thermostat is a specialized smart contract
+that allows for simple input preferences (a simple table of preferred
+temperature at each of three to five price levels depending on the contract)
+and then runs automatically. It thus fulfills (for this particular function)
+my hopes of using simple user interfaces to input preferences into smart
+contracts which then make purchases automatically, thereby reducing the the
+mental transaction costs otherwise imposed by multi-tier pricing.  
+  
+In its most general form, a smart contract will have a market translator that
+specifies a purchasing or selling action based on a function of current
+budget, environmental variables, and current and predicted (e.g. according to
+rational expectations models) prices:  
+
+> transaction_decision = f(preferences, budget, environment, prices, price
+model)
+
+That general description makes it all rather complicated; in practice there
+will be quite simplified versions based on simple versions of a subset of
+these variables that work in particular niches where those variables dominate
+preferences. An example of this simplicity is the "automatic price-sensitive
+thermostats" mentioned above. Programming this thermostat is only a bit more
+complicated than a normal thermostat: one programs in multiple temperatures
+each corresponding to a price level. For example, at an off-peak charge of 9
+cents/kilowatt*hour, the summer air conditioning thermostat might be set to 72
+degrees, while the normal peak price of 22 cents might be set to 74 degrees
+and the critical peak price (the hottest days when California would without
+substantial conservation otherwise be in danger of blackout) of 60 cents set
+to 77 degrees. So you input three settings instead of one. Presumably when you
+want to change the settings you can do it one at a time or change all three at
+a time by the same amount. That takes substantially more effort than a normal
+thermostat, but the California experiment showed that where the overall use
+controlled by that thermostat is great enough and the price differential high
+enough, it's worth the effort.  
+  
+A bit more generally, a preference for physical state of the world can be
+specified by specifying a function  
+
+> preferred_state = f(current price)
+
+The thermostat then, like any thermostat, purchases electricity based on the
+function  
+
+> if actual_state > preferred_state then purchase (turn on consumption)  
+> else don't purchase (turn off consumption)  
+>
+
+(Reverse to "<" when heating rather than cooling and analogously for other
+kinds of physical states). The most typical example is the thermostat where
+the desired state has one dimension (temperature), but one can think of other
+desired states such as illumination patterns (also tied to current electricity
+prices), high network bandwidth and low latency applications such as video on
+demand, and so on which are multidimensional. Where price granularity is small
+and discontinuous (as in the three-tier price scheme described above) a simple
+table is probably the lowest mental transaction cost way of inputting the
+preferences. Where the price changes continuously, a simple graphical
+interface with a touch-sensitive cursor to define the price/state curve may be
+the best option, but realize that the transaction costs for the latter may be
+far larger than the former for the typical user, and so justified only when
+the value of resources conserved by price is much greater.
+
+Offline References:  
+  
+[1] Ahmad Faruqui and Robert Earle, "Demand Response and Advanced Metering,"
+Regulation v. 29 n. 1 (Spring 2006).  
+
+[2] Id. at pg. 25.
+

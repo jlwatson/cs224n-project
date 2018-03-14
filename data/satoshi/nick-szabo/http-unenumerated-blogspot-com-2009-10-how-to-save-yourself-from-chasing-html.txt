@@ -1,0 +1,125 @@
+For many people, the often outlandish proposals and predictions of futurists
+are just obviously impractical and are to be laughed off. This attitude,
+irrational is it may seem to futurists of the stripe who take outlandish ideas
+very seriously, is itself not to be sneered at -- automatic unbelievers in the
+alien save themselves from chasing many red herrings. Those who laugh at
+futurism because they are unimaginative dolts I will not try to defend, but
+those who laugh at futurism when futurists take themselves too seriously are
+usually spot-on. For those of a more serious nature and intellect who want to
+actually figure out the flaws in futuristic ideas, here are some heuristics:  
+  
+(1) Find the easier thing. If there is an easier way to get much of the value
+from a proposal, ask yourself, why hasn't somebody pursued this easier way?
+For example, seasteading proposes the creation of novel structures for people
+to settle permanentantly in the ocean. Ask yourself, why don't there already
+exist communities that live permanently on cruise ships? Why haven't oil
+companies moved the families of their offshore platform workers out to live
+where the work is?  
+  
+(2) Look to see if if the futurists have proposed experiments that can be done
+much sooner and more cheaply that would verify or falsify the propsosal or
+prediction. Many of the "most important", in terms of perceived future impact,
+hyper-futuristic ideas are conveniently unfalsifiable: artificial
+intelligence, uploading of consciousness, and so on. There are a near-infinite
+number of unfalsifiable theories that our imaginations could dream up, making
+the odds of any given such theory to be true about zero. The ability to
+conduct such dispositive experiments, the ability to prove a hypothesized
+event false if certain conditions occur, paradoxically makes that event far
+more likely. A related heuristic is to be very leery of ideas that, as is said
+of fusion power, are "always thirty years in the future". If the futurist
+can't explain why the futurist of 30 years ago who predicted something similar
+was wrong, that futurist should indeed be laughed at, early and often. Far too
+many futurists are so futuristic that they know little about the past which
+they purport to be projecting. Some don't even know when predictions similar
+to theirs were already made decades ago, and were already supposed to have
+come true. At the same time, be wary of futurists who are not willing to make
+short-term predictions, lest we obtain a track record of the vast uncertainty
+involved in their brand of futurism.  
+  
+(3) Except for rare phenomena of high predictability, such as the orbits of
+planets, past performance does not guarantee future results. Futurists often
+chart exponential curves of growth in some measure of technology: the speed of
+transport, the number of transistors that can fit on a chip, and so on. The
+first half of a logistics curve looks much like an exponential curve. You can
+fit an exponential curve to the data points, but it's really a logistic curve,
+which in the long run, and possibly even in the short run, will lead to a
+radically different kind of future. Because of physical limits and human
+psychology, reality far more closely resembles logistic curves than
+exponential ones. For example, world population growth seemed to follow an
+exponential curve until about the 1960s, when it flipped into a quite
+different mathematical regime. This transition to sub-exponential growth
+started much sooner in the developed world, which should have been but was not
+a clue for the population alarmists. As for physical limits, a good example is
+transport speed: it seemed to be growing exponentially until it hit the sound
+barrier in earth's atmosphere and the implacable nature of earth's gravity
+well beyond it in the latter half of the twentieth century. More on the
+dubious nature of exponential projections here.  
+  
+(4) Beware of the prophets of false certainty. These are people who focus on
+one out of many possible outcomes, or take very seriously unfalsifiable
+predictions, or follow exponential projections, or have neglected to find the
+easier thing, and pretend, because nobody has proven them wrong, that their
+version of the future has a high probability. We have, for example, the
+Bayesiologists, who, while to their credit are at least aware of first-order
+uncertainty (known unknowns), neglect the higher-order uncertainties (unknown
+unknowns) inherent in most futurism and demand that we make some intuitive
+guess as to the numerical probability of their predicted event. (When asked
+for an intuitive numerical guess about some hyper-futuristic prediction, "50%,
+plus or minus 50%, distribution function unknown" is usually the best answer).  
+  
+(5) Look at interests. You may not understand the science involved, but
+individual and institutional interests are human universals. Take
+astrobiology, for example. Here we have a science without a subject. Now the
+astrobiologists to a man argue that extraterrestrial life must be common,
+indeed that it may well be right around the corner underneath the ice of
+Enceladus or Europa or on one of those exciting new exoplanets. There appears
+to be, as many activists like to say about global warming, a "consensus" among
+the astrobiologists about the ubiquity of life in the universe. But only
+primitive life, of course -- otherwise the uncomfortable fact that we have
+never observed the signs of any artificial surfaces, despite observing
+billions of stars in our own galaxy and billions of other galaxies, would rear
+its inconvenient head. Thus the Rare Earth Hypothesis, in which for clever
+reasons life is supposed to almost always stops evolving beyond some primitive
+stage, in sharp contrast to the ongoing evolution of life to higher complexity
+in the only history of life we have actually observed. Does the
+astrobiologists' consensus reflect their expertise and your ignorance in
+astronomical and biological matters, or does it reflect something else?
+Consider this -- if you were skeptical about this astrobiological thesis, why
+would you become an astrobiologist in the first place, risking your career on
+a science that has no subject? If the politicians and academic boards who fund
+them ever became convinced that extraterrestrial life probably does not exist
+anywhere where we will be able to observe it before they retire,
+astrobiologists would have to find new jobs. This is a career for true
+believers. Beyond this rather dramatic selection effect, we have individual
+and institutional self-interest to keep the argument going -- to fund their
+careers, astrobiologists must persuade us that life in universe is common,
+common enough that we should fund multibillion dollar telescopes and
+spacecraft and, of course, grant copious amounts of research funding to them
+in order to look for it within or astronomically very near our solar system,
+which is as far as we can observe the signs of primitive life. Even if you
+know nothing whatsoever about either astronomy or biology, but do understand a
+thing or to about humans, you are wise to be highly skeptical of the claims of
+astrobiologists.  
+  
+(6) Be especially skeptical of political futurism. From NASA's Shuttle and
+Space Station, which were supposed to revolutionize space industry, to the
+politicization of doom-and-gloom scenarios such as overpopulation and the
+supposed dire consequences of global warming, politics mixed with futurism has
+a very poor track record. By contrast, private entities like the Singularity
+Institute, Foresight Institute, and so forth, while even more outlandish and
+preposterously self-serious, can provide creative starting points for
+brainstorming towards more practical ideas and are relatively harmless.  
+  
+(That leads me to my last heuristic -- (7) avoid futurists who can't laugh at
+themselves).  
+  
+Futurism at its best is a creative and entertaining game of ideas. Playing
+with outlandish ideas can be very productive -- for example, the Easier Thing
+on occasion may turn out to actually be a good idea you can implement now, and
+you arrive at the easier thing by starting with an outlandish idea. I
+occasionally explore outlandish futuristic ideas here at Unenumerated, which
+prides itself on an unending variety of topics. There is nothing to sneer at
+about futurism as fun unless you have an unimaginative rock for a brain.
+However, those who take these ideas too seriously, or have created a false
+sense of certainty about them, do deserve a few guffaws.
+

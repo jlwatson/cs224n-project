@@ -1,0 +1,229 @@
+The public interest (or public use) doctrine has been widely used in U.S. law
+in areas ranging from constitutional law (including the Takings Clause,
+substantive due process, and the First Amendment) to bankruptcy law and the
+regulation of public utilities, telecommunications, and transportation
+businesses in particular as well as of business generally. But this doctrine
+has been radically changed in form over the years, until today it is a only a
+mockery of its original form.  
+  
+From its origins in the medieval doctrines of seisin and feudal service, as
+applied to private rights to exercise police powers or to charge taxes or
+tolls, it was extended to apply to franchises and monopolies in general.
+During the New Deal, the idea was preposterously expanded to justify even the
+arbitrary and discriminatory regulation of every kind of property.  
+  
+In medieval times governmental jurisdiction was property. Like other property,
+it was either derived by title ultimately from the king or by long use
+(prescription). Like other property, it was governed by the doctrine of
+seisin, or active and notorious possession. Often property , including land,
+entailed, as a matter of obligation specified in charter (the deed under which
+property was conditionally transferred) or as a matter of custom, obligations
+such as military service, rent, or maintaining or using the property. In the
+context of a franchise involving police powers, the doctrine of "non-user,"
+justified as either seisin or implied feudal obligation, often imposed certain
+procedural obligations -- for example to exercise the police power against
+lawbreakers and to respect the right of trial by jury. The non-user doctrine
+was, however, controversial, and owners of these intangible properties argued
+that their franchises, even franchises to collect taxes and tolls or exercise
+police powers, were purely private property for their private use.  
+  
+In 1237 King Henry II argued, in a letter to the Abbott of Peterborough, that
+his grant to the abbott of local police powers was conditional on their being
+exercised:  
+  
+  
+
+> Since we ordered all the bailiffs in our realm to see that watches were kept
+by night against the disturbers of our peace and commanded that the holders of
+liberties [i.e. franchises] should see that this was observed in their
+liberties, we marvel greatly that you in your liberty of Peterborough have
+allowed homicide and theft to be committed, and have taken no steps to keep
+our peace...We enjoin you therefore that, as you wish to retain your liberty,
+you take care to deal with malefactors and peace breakers, so that it may
+appear that you are a lover of peace, and that we may not have to lay our
+hands upon your liberty because you have failed.
+
+A more recent case that illustrated this debate is _Att.-Gen. v. Newdegate_
+(King's Bench 1519). This case was to determine whether the franchises of
+"infangthief" and "outfangthief" that had been deeded by the king to Newdegate
+for his manor was forfeit back to the king due to "non-user." "Infangthief"
+was the right to hang those who had committed a theft on the land and caught
+red-handed on the land, and "outfangthief" was the right to hang such a thief
+even if caught red-handed elsewhere.  
+  
+According to a report of the case, "the king's attorney showed that
+[Newdegate] had not used it, and had also misused it, for he did not have
+gallows..." Newdegate's attorney lamely explained that "his gallows were blown
+down in the wind," but over a year had gone by and they were still down. He
+argued that whatever the reason the gallows were blown down was irrelevant
+because "non-user is neither a forfeiture nor finable because this is a
+liberty [franchise] granted to him which he may use as he wishes, and it is
+for his own advantage." Another words, he was arguing -- and it was a
+plausible argument at the time -- that even a function we now consider a core
+governmental function was purely a matter of private property. Even a police
+force and a court did not in this view entail enough public interest to
+justify common law regulation.  
+  
+However, Chief Justice Fyneux held that "this leet [i.e. the private court] is
+granted for the common wealth as well as for the benefit of the party [owner],
+and it must be used or else it is forfeit." Whereas in previous centuries this
+kind of forfeiture proceeding, called a _quo warranto,_ was considered merely
+a dispute over title to the franchise as either the king's private property or
+the current operator's private property, now the franchise of monopoly police
+power over an area was considered to have a pubic interest. It was this public
+interest, not an implied feudal obligation to the king as grantor of the
+franchiise, that now justified common law obligations and restrictions on the
+use of a police powers franchise.  
+  
+In the late 17th century, Lord Chief Justice Hale, in his treatise _De
+Portibus Maris (Concerning the Gates to the Sea)_ applied this doctrine to
+franchises to take taxes or tolls. All rights to charge taxes or tolls were
+originally the property of the king (the king's prerogative), but like the
+king's jurisdiction it was often granted or owned by prescription by other
+parties in the form of a franchise. Hale discussed the issue of what kind of
+commercial enterprise constituted taking a "toll," and thus required an
+intangible property right -- a franchise -- on top of the personal and real
+property of the enterprise in order to legally operate the enterprise. If the
+price was a toll, the enterprise was performed under franchise with a public
+interest, and thus would be regulated by the common-law franchise doctrines of
+non-user (the requirement of continual use for the public) and that the rate
+charged be reasonable.  
+  
+Besides toll-roads and bridges, for Hale toll-taking included being the sole
+operator of a port facility such as a wharf or a set of cranes, or the
+operator of the sole ferry in an area. Hale justified this scope of public
+interest by citing the Roman idea of _juris publica,_ under which the emperor,
+rather than local authorities or private parties ( _juris privati_ ) had
+jurisdiction over the ocean shoreline.  
+  
+These monopolistic situations with high avoidance costs were, however, still
+plausible variants of the right to collect taxes or tolls. According to Hale,
+when such a monopoly was either expressly a franchise granted by the king or
+was a toll-taking monopoly owned by prescription, the owner of the monopoly
+had to charge a reasonable rate. Hale describes such a franchise as "a right
+privilege, that no man may set up a common ferry for all passengers without a
+prescription time out of mind or a charter from the king. He may make a ferry
+for his own use or the use of his family, but not for the common use of all
+the king's subjects passing that way; because it doth in consequent tend to a
+common charge, and is become a thing of public interest and use, and every man
+for his passage pays a toll, which is a common charge, and every [such] ferry
+ought to be under a public regulation, viz., that it give attendance at due
+times, keep a boat in due order, and take but reasonable toll; for if he fail
+in these he is finable." As long as the property right is equivalent to the
+monopoly of taking a toll on a road, the property is "affected with a public
+interest." This interest, however, terminates if competition arises. If the
+situation is not or is no longer the equivalent of taking the toll -- i.e. if
+it does not involve "all" the king's subjects who travel that way -- freedom
+of contract (i.e. property rights in motion) must govern:  
+  
+
+> A man, for his own private advantage, may, in a port or town, set up a wharf
+or crane, and may take what rates he and his customers can agree for cranage,
+wharfage, housellage, pesage; for he doth no more than is lawful for any man
+to do, viz., makes the most of his own. If the king or subject have a public
+wharf, unto which all persons that come to that port must come and unlade or
+lade their goods as for the purpose, because they are the wharves only
+licensed by the king, or because there is no other wharf in that port, as it
+may fall out where a port is newly erected, in that case there cannot be taken
+arbitrary and excessive duties for cranage, wharfage, pesage, &c.; neither can
+they be enhanced to an immoderate rate, but the duties must be reasonable and
+moderate, though settled by the king's license or charter. For now the wharf
+and crane and other conveniences are affected with a public interest, and they
+cease to be _juris privati_ only; as if a man set out a street in new building
+on his own land, it is now no longer bare private interest, but is affected by
+the public interest.
+
+Up to here the public interest was required to justify a common law
+restriction on a franchise. In medieval and Renaissance times, on rare
+occassions Parliamentary statutes, and much more commonly local lords and
+guilds, regulated property in motion, with various oppressive or economically
+dubious laws that fixed prices, set maximum wages, and the like. These
+regulations were not considered part of the common law and were not justified
+in terms of the public interest doctrine. However, in the U.S. the Fourteenth
+Amendment was commonly held by legal scholars and judges to apply common law
+restrictions to statutory law, and that included restricting regulation of
+private property by the public interest doctrine as it had been explicated by
+Hale. The Waite, Peckham, and Taft Courts all agreed that the public interest
+doctrine restricted the ability both state and federal legislatures to
+regulate private property, but in the process of applying the doctrine in this
+way the Supreme Court ended up stretching it beyond all recognition, until it
+just broke.  
+  
+This conflict between the legislative desire to regulate property and the
+common law restrictions incorporated in the Fourteenth Amendment came to a
+head little more than a decade after the ratification of that Amendment. The
+common law doctrine of public interest was applied to restrict legislation,
+but it was even in the first case stretched to allow legislation that was far
+from regulation of any sort of private police power or toll-taking.  
+  
+In _Munn v. Illinois_ (US. Supreme Court 1877) the public interest doctrine
+was rather dubiously extended to a set of grain elevator situated near a major
+railroad hub in Chicago. These elevators sorted and stored grain and thus
+played an important role in the shipment and trading of grain. Their
+construction and operation had greatly expanded the ability of Midwest U.S.
+farmers to market their products, but now the farmers had complained about the
+high prices charged and successfully lobbied, via a political lobbying group
+called the Grangers, for Illlinois to regulate the rates charged by the
+elevators for storing grain.  
+  
+Munn's elevators did not comprise all (or even most) of the elevators near the
+hub. There were several companies operating such elevators, albeit they had
+been accused of collusion. Nevertheless, there is an economic rationale for
+extending the public interest doctrine to what Professor Richard Epstein calls
+network companies \-- companies like public utilities and railroads. Given the
+exclusive contracts between railroads and the grain elevators, and anti-
+scompetitive collusion between the elevator companies itself, the network
+doctrine could plausibly be further extended from the railroads to the
+elevators. Whether or not it was justifiable on policy grounds, _Munn_ was a
+radical redefinition of the public interest doctrine. No longer was the
+doctrine confined to performing governmental functions, i.e. running courts
+and police forces and collecting taxes and tolls, when the rights to conduct
+such activities were privately owned. Now the public interest doctrine applied
+to purely commercial enterprises that were not purely competitive but were
+associated with some uncompetitive practices or outcomes.  
+  
+The network or anticompetitive theory lasted for a little over seventy years,
+but it was easy for courts to extend this doctrine, since no commercial
+enterprise is purely competitive. Indeed, as Professor Epstein has described,
+the Progressive and pro-New Deal judges thought highly regulated monopolies or
+cartels were the ideal form of business for most sectors of the economy. In
+_Nebbia v. New York_ (U.S. Supreme Court 1934) Justice Roberts declared that
+the public interest doctrine justified almost arbitrary and discrimanatory
+regulation of property:  
+
+> The court has repeatedly sustained curtailment of enjoyment of private
+property, in the public interest. The owner's rights may be subordinated to
+the needs of other private owners whose pursuits are vital to the paramount
+interests of the community. The state may control the use of property in
+various ways; may prohibit advertising bill boards except of a prescribed size
+and location, or their use for certain kinds of advertising; may in certain
+circumstances authorize encroachments by party walls in cities; may fix the
+height of buildings, the character of materials, and methods of construction,
+the adjoining area which must be left open, and may exclude from residential
+sections offensive trades, industries and structures likely injuriously to
+affect the public health or safety; or may establish zones within which
+certain types of buildings or businesses are permitted and others excluded.
+And although the Fourteenth Amendment extends protection to aliens as well as
+citizens, a state may for adequate reasons of policy exclude aliens altogether
+from the use and occupancy of land [citations omitted].
+
+In terms of what local lords and legislatures had actually regulated over the
+course of history this was accurate. In the context of the history of
+franchise law, on which Hale's public interest doctrine was based, and which
+the Fourteenth Amendment had been held to incorporate, but which Justice
+Roberts had forgotten, this interpretation of the public interest doctrine was
+absurd. "Public interest" now refered, not to coercive police powers, not to
+toll-taking, not to toll-like monopolies, not to businesses with network
+externalities, but simply to the ubiquitous condition of scarcity, used in
+_NBC v. U.S._ (U.S. Supreme Court 1943) even to deny First Amendment claims
+against content-related FCC regulations:  
+
+> The facilities of radio are limited and therefore precious; they cannot be
+left to wasteful use without detriment to the public interest.
+
+The Waite Court's application of the doctrine to network-like businesses
+generally, including not just railroads but also semi-monopolistic depots
+standing beside railroads, had already stetched the doctrine well beyond toll-
+taking proper. Now the doctrine was simply smashed down altogether by the New
+Deal hurricane.
+

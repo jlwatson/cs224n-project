@@ -1,0 +1,180 @@
+Every year millions of people spend days or weeks on cruises, but Patri
+Friedman, Wayne Gramlich, and their fellow Seasteaders want to live on the sea
+full time. They want, essentially, to conduct political experiments in mobile
+communities as free as possible from sovereign jurisdictions. To do this, they
+are designing extravagant new kinds of structures that they believe will
+withstand the violent storms and other harsh conditions that can occur
+offshore.  
+  
+Besides tourism and jurisdictional arbitrage, there are a variety of other
+economic incentives to live on the ocean. Fishing and fish processing often
+involve employees spending many months at sea. Oil, diamonds, and soon a wide
+variety of other kinds of minerals are increasingly being extracted as land-
+based minerals are slowly depleted.  
+  
+Gramlich and Friedman have a very admirable goal but are trying to do too many
+things in parallel. They seem to have spent far more time in creating
+futuristic designs from scratch than in figuring out how to retrofit normal
+ships or mobile offshore oil platforms. On top of this is their important but
+novel and ambitious political experiment in lowering exit costs. While there
+are some relationships between the politics and the engineering, a better
+approach is to innovate in one area at a time. Design novel offshore
+technology, or design novel offshore communities, but don't try to do too much
+of both at once.  
+  
+Friedman voices a complaint, hardly uncommon in the world of engineering, that
+he has a hard time communicating with ocean engineers. I suspect the problem
+is that Friedman and Gramlich have taken their designs, whether workable or
+not, far away from the kinds of designs ocean engineers are used to analyzing.
+If they just started with normal ships and offshore platforms, then used such
+equipment as building blocks for larger structures, rather than trying to
+reinvent ocean engineering from scratch, they would not lack for experienced
+engineers to understand their designs and shops to assemble them.  
+  
+Sure, such structures seem crude and inefficient compared with the elegant and
+optimal structures that might be designed in theory. But they would be a far
+less expensive way to demonstrate the political and economic viability of
+seasteading. And they could be shown to offshore engineers who could quickly
+recognize most major problems they might have. The Friedman/Gramlich approach
+excites the imagination, but a far more incremental approach is needed to make
+it work. To take up Friedman's analogy: if all that exists are military
+planes, and you want to start the first civilian airline, don't try designing
+civilian planes and civilian airports from scratch. Just buy a bomber, yank
+out the bomb bays and guns, install passenger seats, get permission to use a
+couple military airports, take a few test flights, and start selling tickets.
+The first version may well fall very short of the optimal or ideal you have in
+mind, but it will give you the experience and the revenue needed to improve
+the design and approach that optimal.  
+  
+The biggest technological hurdle to meeting the requirements of the political
+experiment is probably the ability to join and separate the floating platforms
+at low cost. They must be moored and yet withstand the harshest storms (or
+alternatively to anticipate the storm, quickly unmoor, ride out the storm
+separately, and remoor when normalcy returns). This problem is mentioned
+briefly here but as far as I know, Seasteaders have not come up with a good
+solution for it.  
+  
+Mooring in rough water is a hard problem -- there are good reasons docks lie
+in sheltered bays. Ship-to-ship refueling, a common naval procedure, has long
+been very dangerous in bad weather. Ships and platforms loosely moored with
+cables can easily collide, smashed together by wind and wave, with devastating
+consequences. Friedman and Gramlich believe that their ideal platform will
+have "no" bobbing, lateral movement, or tilting from waves and wind. But oil
+platforms do exhibit enough such movements that trying to keep them moored
+together with traditional techniques in a storm would be highly dangerous.
+Cables could not prevent the platforms from colliding with high force, whereas
+a completely rigid mooring that coupled the movements of all the joined
+platforms would likely fail from strain.  
+  
+Some good old Internet searching digs up the fact that folks in the deep sea
+oil and liquified natural gas (LNG) industries have solved a similar problem
+-- how to offload fluids offshore, from FPSOs to tankers or from tankers to
+offshore pipeline terminals. For example the LNG industry needs to be able to
+hook up the huge LNG tankers to the offshore offloading terminals even in
+storms. One solution to this is the soft yoke flexible mooring. This is often
+abbreviated "SYMO" for "soft yoke mooring and offloading". It allows ships to
+moor to each other without the dangers of approaching and colliding in rough
+wind and water.  
+  
+ _A soft yoke flexible mooring (SYMO) for yoking ships together, even in rough
+waves and most storms. The design allows each ship to ride the waves
+separately, greatly reducing the strain on the yoke, while keeping them from
+approaching or dispersing._  
+  
+Here's how I might do an experiment in offshore political mobility using off-
+the-shelf equipment or minor variations on same (this "mixed" version, as the
+Seasteaders would call it, is not terribly original to me, except for
+including a workable mooring technology):  
+  
+(1) Get a few dozen yacht owners to participate as volunteers. ("Yacht" here
+just refers to any seaworthy boat capable of mooring to other such craft and
+to larger platforms with SYMOs).  
+  
+(2) Set up a system of two or more privately owned offshore anchored moorings:
+tough cable moorings such as those used by large ships in the oil industry (eg
+FPSOs).  
+  
+(3) Attach a small old cruise ship or retrofitted oil platform to each
+anchored mooring. These should be large enough to have most of the
+infrastructure a small cruise ship would have, and be able to provide basic
+services to the yachts.  
+  
+(4) Yachts moor to the larger ship or platform using SYMOs. For oil platforms
+the SYMOs may have to be heavily modified. Yachts might also moor to each
+other using SYMOs, but some of the yachts should also be anchor-moored to the
+ocean floor, unless they don't mind the community drifting.  
+  
+(5) Yacht owners choose which of the two or more communities they will join.  
+  
+(6) The cruise ships or platforms that form the core of these communities
+compete to provide various services, amenities, and political systems.  
+  
+(7) Yacht owners can either be independently wealthy, or they can make a
+living by providing services to nearby fishing fleets, fish processors,
+offshore oil platforms, etc., or by providing temporary quarters for workers
+of same.  
+  
+(8) When a storm comes that may be too much for the small SYMOs to withstand,
+everybody gets on yachts and disperses until the storm blows over.  
+  
+These communities would look a bit like this offshore floating dock in a
+sheltered bay near Lund, British Columbia -- but much farther offshore,
+larger, more robust, and more politically independent.  
+  
+ _If you see this coming, scram._  
+  
+There will be big differences between these salty communities and modern
+towns. If the local court or zoning board or captain-of-captains won't approve
+improvements to your yacht, or your desire to set up a gambling house or a
+stinky fish processing plant, just move your house to another seastead
+community that will tolerate it. (I suspect fish processors will retain their
+own separate communities). Low exit costs bring freedom.  
+  
+One kind of public nuisance that these seasteads may be in special danger of
+running into is what I call a _provocative externality_ , meaning that besides
+or instead of being ethically dubious or causing direct harm to the community,
+they may cause danger to fellow community members by provoking a country to
+attack the seastead: drug smuggling, money laundering, polygamy, being a haven
+for terrorists, and so on are examples of activities that could, whether
+rightly or wrongly, provoke attack. Since many of these activities might also
+be quite lucrative, the political issues of whether to ban them may cause
+great tensions. Vulnerability to attack by traditional countries limits the
+degree of substantive liberty seasteads can achieve -- they will not be able
+to achieve a perfectly voluntary society within even the substantive law, much
+less within procedural law, which I now turn to.  
+  
+The political and legal designs for Seasteads need even more work than the
+engineering designs. It is not enough to just say that all law be based on
+contract and thus all will be fine. One must rather tackle crucial issues such
+as legal procedure. As I have written elsewhere, in response to a claim that
+Seastead government will not be based on coercion:  
+
+> No coercion? In these Seasteads, who does the law enforcement, and who or
+what gives them the right to commit law enforcement acts that are physically
+equivalent to torts and crimes? What distinguishes arrest from assault and
+battery, imprisonment from kidnapping, legal distraint of goods from theft, or
+a legal search from trespass? I think you will find that these societies will
+have to deal with the very same problems of coercion and procedure as our own
+governments. Calling a legal document that defines and allocates rights to
+commit these coercive acts a "contract" instead of a "constitution" may be the
+Rothbard-correct way to do things, but it doesn't actually go very far towards
+solving the hard problems of living together in a world where people are often
+coercive.
+
+It is even more important for the political and legal designs than it is for
+the engineering designs to take an off-the-shelf approach. Pick a country and
+subdivisions thereof, either a current or a well-document historical politican
+and legal system (for example the U.S. and a particular state, county, and
+town), and use its constitution, statutes, and court precedents as basic legal
+precedents, which can then be modified by local courts (in a common-law
+manner) and other local political authorities. If the U.S. is used as a model,
+I have suggested some basic changes to make its constitution less subject to
+the growth of government power. Low exit costs will also greatly help. These
+kinds of macro-political issues will mostly, however, be well beyond the scope
+of Seasteading unless or until they reach a time when they are large and
+mature mobile cities. The first ones will, as with cruise ships today,
+probably just be based on the "captain is king" model that has long dominated
+sea law. Friedman has even taken to calling himself "Captain Patri". Perhaps
+seasteads will revive the old paradigm of political property rights. I wish
+these projects the best of luck.
+

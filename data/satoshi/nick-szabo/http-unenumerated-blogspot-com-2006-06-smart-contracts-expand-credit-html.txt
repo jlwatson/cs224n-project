@@ -1,0 +1,42 @@
+Way back in 1994 I wrote the following (the "keys" here were envisioned as
+digital codes acting as car keys):  
+
+> If a loan was taken out to buy that car, and the owner failed to make
+payments, the smart contract could automatically invoke a lien, which returns
+control of the car keys to the bank. This smart lien might be much cheaper and
+more effective than a repo man.
+
+I've since used this as one of the key examples of smart contracts, in
+particular smart contracts that help enforce security interests (collateral).
+Other kinds of smart contracts include digital rights management (for
+copyright licenses), financial cryptography (for payment systems and other
+kinds of financial contracts), price-sensitive controllers, and a wide variety
+of other possibilities. More recently, some real-world examples of the "auto-
+repo-auto" have appeared, and it is now becoming more common. Deborah Yao
+describes some more of these:  
+
+> Starter-interrupt devices are becoming a popular way for lenders to ensure
+they get paid, and consumers seem willing to accept them to get into nicer
+cars, use a smaller down payment and qualify for a lower interest rate,
+according to device manufacturers.
+
+>
+
+> ...The companies make a variation of the same device: The units are
+connected to the starter and emit a brief series of sounds or flashes of
+light, days before the payment deadline. If the customer then makes a timely
+payment, he or she can contact the dealer for a new code that will allow them
+to operate the vehicle. Some devices are remotely controlled by dealers.
+
+Note that the process is far more manual and that there is much more attention
+to the user interface than I was thinking about in 1994. It's becoming
+increasingly apparent that a good user interface is often key to good security
+(phishing is another big example of this). Contracts are ultimately
+relationships between people, so a smart contract protocol needs to go all the
+way from end to end -- from person to person. Furthermore, as long as the
+parties have access to a good legal system, making certain important steps
+manual is a good idea if it increases flexibility and safety without too
+substantially decreasing security or user friendliness.  
+  
+My thanks to Ian Grigg for pointing me to Yao's article.
+

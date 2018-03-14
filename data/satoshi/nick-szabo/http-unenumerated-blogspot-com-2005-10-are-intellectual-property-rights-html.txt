@@ -1,0 +1,55 @@
+Tom Bell and Glenn Whitman have engaged in an interesting debate over to what
+extent intellectual property rights conflict with tangible property rights,
+and to what extent intellectual property rights, like tangible property
+rights, are natural rights.  
+  
+Roughly speaking, Bell defines natural rights as those rights that would
+emerge in a "state of nature," i.e. in the absence of government law
+enforcement. Bell correctly observes that real and personal property rights
+would emerge, but argues that at least generally intellectual property rights
+would not. I think this is only partially true.  
+  
+One poster responds with the example of symbols of office or other social
+status (jewelry, seals, feathers, etc.) that exist in all civilizations and
+most neolithic and hunter-gatherer tribes. I'd add that in England, at least,
+offices themselves were property rights. Indeed, English feudal and royal
+titles have followed for at least centuries the same inheritance rules as
+those for real property, and were categorized in common law as property
+(Blackstone described this well). Furthermore, trademark emerged in the common
+law, suggesting it would also emerge in the absence of the state. Academic
+norms of anti-plagiarism are a form of IP-like rights that we can observe
+today being enforced outside of government. The Domain Name System (DNS) on
+the Internet, and the related Internet Protocol address space, were enforced
+without the formal legal recognition of rights in these areas long before the
+DNS was discovered by the government legal system. Indeed, title in tangible
+property implies a similar right to an accurate public attribution of who owns
+what rights. The common law of defamation gives a person some further rights
+in the accuracy of communications of others regarding oneself.  
+  
+Trademark, DNS, plagiarism, and defamation are rights of accuracy in labeling,
+attribution, and other descriptions related to a person. There are some
+natural rights to demand of another person's communications that they
+accurately label and attribute objects and content related to oneself in
+certain ways, such as ownership or origination.  
+  
+It's harder, though, to argue that copyright and patent have natural rights
+analogs. One has to go from a right that a content or idea (as well as
+property and self) be properly attributed to a person, to imputing to that
+person a right to exclude others from communications of that content
+(copyright) or use of that idea (patent), despite that content or idea being
+instantiated in somebody else's personal property.  
+  
+The predecessors of copyright were the rights of lords and bishops to control
+speech and writing within their domain -- a dubious origin given our First
+Amendment ideals. Copyright still conflicts with free expression. P2P networks
+originated as proposals for networks that it would be impossible for
+repressive governments to censor. It turns out, though, that censorship-free
+networks are also copyright-free networks. Copyright and censorship both rely
+on having “gatekeepers” who the government can coerce in order to control
+content. The state of nature on the Internet is copyright-free as well as
+censorship-free.  
+  
+In summary, it's much harder to justify as natural law copyrights and patents
+than legal areas like trademark and defamation that involve the accuracy
+rather than ownership of information.
+

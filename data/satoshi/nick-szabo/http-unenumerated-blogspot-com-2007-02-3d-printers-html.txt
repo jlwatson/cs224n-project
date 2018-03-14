@@ -1,0 +1,57 @@
+There are some fascinating projects out there to build 3D printers that can
+manufacture a substantial amount of their own parts -- they are partially
+self-replicating. Self-replication in itself is largely of theoretical
+interest, as the reproduction process is very slow and labor intensive. Worse,
+the resulting machines can build devices only at the lowest common denominator
+of materials that can be easily 3D printed at room temperature. For any given
+kind of part, such general-purpose machines will be easily beaten in both
+production rate and quality of parts made by specialized machines.  
+  
+Nevertheless, I find these devices quite interesting from a theoretical point
+of view. The complexity of design needed to make these machines fully self-
+replicating may give us some idea of how improbable it was for self-
+replicating life to originate.  
+  
+In a hypothetical scenario where one lacked ready access to industrial
+civilization -- after a nuclear war or in a future space industry, for example
+-- machines like these could be quite useful for bootstrapping industry with a
+bare minimum of capital equipment. For similar reasons, it's possible that
+machines like these might prove useful in some developing world areas -- and
+indeed that seems to be a big goal of these projects. Add in open source code
+made in the first world but freely available in the third, and this opens up
+the intriguing possibility of a large catalog of parts that can be freely
+downloaded and cheaply printed. Also useful for this goal is to reduce the
+cost of the remaining parts not replicated by the machine -- although even,
+for example, $100 worth of parts is more than a year's income for many people
+in the developing world, and the polymer materials that can be most usefully
+printed are also rather expensive. But ya gotta start somewhere.  
+  
+RepRap is a project to build a 3D printer that can manufacture all of its
+expensive parts. Although they call this "self-replicating", it might be
+better to think of their goal as an open-source digital smithy using plastics
+instead of iron. To achieve their goal the machine need not produce "widely-
+available [and inexpensive] bought-in parts (screws, washers, microelectronic
+chips, and the odd electric motor)." That's quite a shortcut as such parts,
+despite being cheap in first world terms, require a very widespread and
+complex infrastructure to manufacture and are rather costly by developing
+country standards. The machine also does not attempt to assemble itself --
+extensive manual assembly is presumed. RepRap makes a practical intermediate
+goal between today's 3D printers and more complete forms of self-replication
+that would, for example, include all parts of substantial weight, would self-
+assemble, or both. The project is associated with some silly economics, but
+I'm hardly complaining as long as the bad ideas result in such good projects.
+So far RepRap has succeeded in producing "a complete set of parts for the
+screw section of the extruder."  
+  
+Similar to RepRap, but apparently not quite as far along, is Tommelise.  Their
+goal is that a craftsman can build a new Tommelise using an old Tommelise and
+$100-$150 in parts plus the cost of some extra tools.  
+  
+A less ambitious project that already works -- an open source fab, but with no
+goal of making its own parts -- is the Fab@Home project. Using Fab@Home folks
+have already printed out stuff in silicone, cake icing, chocolate, and more.  
+  
+Meanwhile, in an economically attractive (but not self-replicating)
+application these guys want to print out bespoke bones based on CT or MRI
+scans.
+

@@ -1,0 +1,7 @@
+While responding to Ian Grigg's comment to my previous blog entry on _kula_ ,
+I came up with what is the most rigorous explanation for the two-collectible
+cycle that I've seen. The explanation neatly incorporates two patterns I've
+talked about in the past, namely (1) the literal circulation of collectibles
+in specific cycles to minimize non-coincidence transaction costs in a
+bilateral monopoly economy, and (2) trust minimization in institution design.
+

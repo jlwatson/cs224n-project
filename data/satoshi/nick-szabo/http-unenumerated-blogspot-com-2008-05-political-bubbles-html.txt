@@ -1,0 +1,48 @@
+In response to this Wall Street Journal article, describing a number of
+scholars developing mathematical models of market bubbles, I posted the
+following comment at Marginal Revolution which is worth reposting here:  
+
+> The scholars quoted in the original article sound like they are just
+engaging in a fancy form of technical analysis, which purports to capture in
+mathematics the psychology of the crowd, but in almost all cases turns out to
+be worthless numerology.  
+>  
+> The fancy math doesn't explain bubbles any better than [Robert] Schiller's
+simple driving analogy: there is a big event at an obscure location (let's
+call it Burning Man, out in the middle of the desert somewhere). People
+driving to the event are very uncertain of the directions. At a certain
+intersection, on average 60% of them correctly believe they must turn right
+and 40% incorrectly believe they must turn left. But they can usually reduce
+their uncertainty by observing the behavior of others, who are somewhat more
+likely to be correct than wrong, and altering their [probability estimates]
+accordingly. Normally this works, but on rare occasions it goes wrong: for
+example, if the first three cars happen to turn left, the fourth, who had
+believed with 60% confidence that right was the proper direction, will
+rationally change his mind and go left. Thus a string of bad luck can make all
+the cars start going off in the wrong direction, except for those handful of
+drivers that are strongly confident in their knowledge that one should go
+right.  
+>  
+> Where this analogy goes off the rails as public policy analysis is with the
+tacit hubris that certain academics from sufficiently elite schools are flying
+above the whole event in a helicopter and can direct traffic, if only their
+mathematical analysis is fancy enough. Rather academics and policy makers are
+in the traffic themselves, generally seeing information biased in ways similar
+to or even more extreme than the information investors see and act on. In many
+cases mispriced markets create arbitrage opportunities for truly knowledgeable
+investors, but analogs to such arbitrage opportunities, i.e. the ability to be
+rewarded for correcting actual misinformation, are much less prevalent in
+academic and political policy circles. We should thus expect political policy
+to be much more prone to biased political fads and herd-following than markets
+are. Both markets and governments may often take wrong directions, but for
+politics the inability to correct wrong directions may be endemic. Markets
+tend to correct themselves, usually in the short run and practically always in
+the long run, depending on the costs of arbitrage, but there is often no easy
+way to recognize or correct a political bubble.  
+>  
+> Thus, applying the same rational uncertainty assumptions to politics as we
+do to markets, if we give political decisionmakers the power to "pop" bubbles
+they think they recognize, they will probably tend to make genuine market
+bubbles worse, will prevent markets from sending genuine supply and demand
+signals, and will introduce other extra transaction costs.
+

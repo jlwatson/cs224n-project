@@ -1,0 +1,104 @@
+Elections create a big public choice problem. People contribute money or other
+favors to candidates in exchange for political favors. This is economically
+indistinguishable from bribery. The problem with bribery is not that people
+can buy votes -- one can buy votes in corporations, and there's nothing
+corrupt about it -- but that there is a wasteful lobbying, a spending of both
+money and time, to purchase not votes but particular political outcomes.
+Arthur contributes to Bob's election, or flies Bob around in his corporate
+jet, or runs some "independent" ads or news stories favorable to Bob, and Bob
+sends some special pork barrel goodies Arthur's way, or gives him a special
+dispensation from a regulation that will hurt his competitors, or gets him a
+government job. Some of the more overt forms of this election-phase bribery
+can be banned or minimized by law, but for every overt form there are a dozen
+or more subtle or novel forms that cannot effectively be regulated.  
+  
+Here in the U.S. the notorious McCain-Feingold law is an attempt to curb this
+problem. It is notorious because it does so by restricting free speech. In
+particular, it restricts who can spend how much on what kinds of speech
+running up to an election. Inevitably, it and similar laws are both full of
+loopholes and contrary to the spirit, if not the letter, of our First
+Amendment.  
+  
+There is a far better solution that does not have significant loopholes and
+does not regulate any speech: make elections unpredictable. If would-be
+purchasers of political favors cannot predict who will win, or even who might
+win with substantial probability, they cannot purchase any favors prior to an
+election. A perfectly unpredictable election would be bribe-free.  
+  
+ _The Grand Council Chamber in Venice_  
+  
+We can't make elections perfectly unpredictable, but we can get pretty close.
+There are historical and even contemporary precedents. For example, we choose
+jurors by lot from a pool much larger than the twelve jurors selected. This
+prevents wealthy plaintiffs, defendants, or governments from buying jurors
+through the selection process. (After selection, there are a number of legal
+and physical sequestering mechanisms that can be used to isolate a jury from
+contact with favor purchasers. As for political office, this article deals
+only with bribery during the selection process).  
+  
+In ancient Athens, not only juries but many office-holders were selected by
+lot. But the most intriguing unpredictable election process was probably that
+of the medieval Venetian Republic. This republic helped turn a secure island
+into Europe's wealthiest trading empire. In Venice, many political offices
+were selected by a repeated cycle of lottery, vote, .... lottery, vote. The
+final lottery and vote, at least, were held one after the other in the same
+room, giving favor purchasers no time or privacy to do their business. The
+leading office in Venice, the Doge, was selected by a Great Council of about
+2,000 members from those members, through a process that can be diagrammed as
+follows:  
+
+> 2,000 --> L30 --> L9 --> E40 --> L12 --> E25 --> L9 --> E45 --> 11L --> E41
+--> ED
+
+Scott Gordon describes this process as follows:  
+
+> L refers here to selection by lot; E to selection by election [voting]. In
+the Great Council, by the drawing of balls from an urn, 30 members of the
+Council were selected; a further drawing reduced these to 9 who met to elect
+40 men. This 40 was reduced by lot to 12 who proceeded to elect 25, and so on
+until the final election selected 41 nominators, who submitted their choice to
+the Great Council [i.e. made the final vote for Doge].
+
+The process is loosely similar to the confusion/defusion cycles of encryption
+or the repeated mixing phases used for securely anonymous Internet
+communications. The Venetians alternated a randomizing step with a debate-and-
+voting step. It's not clear what, if any, function was served by the
+particular number choices or some of the other detailed structure. Each
+elector presumably had a substantial but fixed number of votes, so that there
+would exist a top 40, 25, 45, or 41 of vote getters despite being only 9, 12,
+9, or 11 electors respectively.  
+  
+I suggest the following leaner structure. A modern congressional election, for
+example, might look like this:  
+
+> 600,000 voters / 100 candidates --> E23 --> L7 --> E19 --> L11 --> E17 -->
+L7 --> E19 --> EM
+
+Thus the top 23 vote-getters (by the 600,000 voters) are selected, from whom 7
+are chosen by lot. These lucky candidates, who now serve as electors, then
+elect from among all the candidates except themselves 19 electors, who are
+whittled down by lot to 11. These elect 17 electors from the candidates except
+themselves, who are whittled down by lot to 7. These final seven then elect 19
+final electors except themselves, who proceed to elect the Representative from
+among all the candidates except themselves.  
+  
+This should probably be done online at a scheduled time, if an online election
+can be made secure, rather than trying to get all the elector/candidates to
+meet physically at one or more scheduled times. The last two steps at least
+need to proceed quickly enough that no deals can be done between or during
+them. With reliable connections and good user interface design it should go
+quite fast. The preceeding election steps should usually include time and
+communications channels for debate and research, but not enough time to forge
+the social relationships often necessary for reliable favor purchase.  
+  
+I've used prime numbers based on a possibly superstitious analogy to the use
+of prime numbers in cryptography or by cicadas, i.e. on the hunch that prime
+numbers will make each step less predictable than with factorable numbers. The
+process of signing up to be a candidate must be very easy, so that we can get
+large numbers of people signing up to run in even small elections. The fact
+that they double as both electors and candidates who might get elected to
+office increases the motivation to become an elector/candidate. A further
+benefit is that electors, themselves elected, can prevent a demagogue from
+being chosen, while the election cycles make it less likely than in a pure
+lottery for a whacko or incompetent to be chosen.
+

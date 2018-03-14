@@ -1,0 +1,200 @@
+Unable to otherwise explain today's high commodity prices, Frank Veneroso and
+others fear we are in a commodity bubble. Exhibit A is the recent vast
+increase in the use of commodity derivatives[*]:  
+  
+  
+  
+Here's how Veneroso observes the unprecedented state of our commodity markets:  
+
+> Though the six-fold increase in such positions over a few brief years is
+dramatic , it is the magnitude of these positions that is most alarming...It
+is hard to know what to make of this data. But it is noteworthy that several
+years ago, at the then prevailing lower commodity prices, the entire above
+ground stock of all commodity inventories was only in the hundreds of billions
+of dollars. Even if only a fraction of the increase in global commodity
+derivative aggregates in recent years corresponds to a net long position of
+investors or speculators, implying speculative and investment positions of a
+“few trillions of dollars,” it would appear that this increased demand for
+commodity derivative positions has overwhelmed what have been relatively small
+markets...  
+>  
+> No wonder, then, that this cycle’s bull market in commodity prices has gone
+higher in inflation-adjusted terms [i.e. in terms of the CPI and PPI -- a poor
+near-term measure of inflation, see below] and for longer than in all prior
+uninterrupted half-decade cycles in the past.
+
+I agree with Veneroso that the recent commodities boom has a strong causal
+link to the recent rise in the amount and variety of commodity derivatives.
+But I couldn't disagree with him more about the role of inflation. Prices, and
+especially wages, react very slowly to changes in money supply, so that the
+CPI and PPI are _trailing_ indicators. The leading indicators are increases in
+money supply in excess to increased demand for money and the associated (if
+disproportionate) increases in commodity prices.  
+  
+_M3, an estimate of the supply of dollars (including a reconstructed estimate
+for recent years). M3 is increasing at the highest rate since the 1970s, as
+are to a lesser extent the supplies of euros and other major currencies,
+resulting in a commodity boom not seen since the 1970s.
+Source:nowandfutures.com_  
+  
+The recent vast increase in commodity derivatives, and the resulting commodity
+boom, is a largely rational response to the vast increase in the supply,
+relative to demand, for the dollar and to a lesser extent the euro and most
+other major currencies during most of the last decade. This despite the fact
+that commodities prices have in the last year risen (at about 40%/year) much
+faster than the growth of money supply (about 15%/yr). To see why, observe
+that one of the most useful but least talked about uses of derivatives is
+their ability to simulate the economic behavior (primarily risk and return) of
+one kind of asset based on contracts for another kind of asset or performed in
+another legal environment. The classic example is Eurodollars. But let's take
+a general scenario:  
+  
+Alice wants to promise Bob to transfer asset X. But the risks associated with
+Bob holding asset X on his balance sheet, or Alice holding liability X on her
+balance sheet, until actual transfer of the asset, are too high, or the
+transaction costs of actually transfering X from Alice to Bob are too high, or
+both.  
+  
+(1) Solution for risks of holding asset X on books: derivatives. Alice has
+both assets and liabilities on her books. These have individual and net risks
+just like an investment portfolio. If Alice has the same amount of assets and
+liabilities all denominated in the same currency, her portfolio is balanced.
+But if, for example, she imports from Europe (thus creating liabilities in
+euros) and sells in the U.S. (creating assets in dollars), her portfolio
+becomes strongly subject to risk of dollar devaluation against the euro. If a
+new asset or liability creates such unbalanced risk, it can be hedged with
+derivatives.  
+  
+(2) Solution for transaction cost of transferring asset X from Alice to Bob:
+use derivatives to create a synthetic asset. Construct from derivatives and
+asset Y a synthetic asset that economically behaves like asset X. These
+separate derivatives and asset Y that form the synthetic all can be transfered
+with low transaction costs, thus forming an asset economically equivalent to
+asset X but that, unlike X, can be transferred from Alice to Bob at low cost.  
+  
+The reason these uses of derivatives are seldom talked about is that the main
+cause of problem (1) is the instability of government currencies that it is
+legally necessary (for a variety of reasons) for contracts to be denominated
+in. The cause of problem (2) is usually a legal barrier to a particular
+transaction -- a tax, exchange control, risk caused by regulation, or risk of
+confiscation in Bob's jurisdiction are four examples. People who route around
+the law tend to do so quietly, explaining their acts by euphemism, even if as
+here the new route is perfectly legal and is made necessary by deep flaws in
+the law or the way the law is executed.  
+  
+There are often, in other words, huge discrepencies between the contract terms
+required or incentivized by law and the most economically efficient contract
+terms. Partly this is due to political stupidity, and partly to the inevitable
+profound imperfection of any body of rules.  
+  
+(3) A third function of derivatives is simply as a store of value: a way to
+diversify or hedge inflation risk in an investment portfolio that otherwise
+contains either (a) debt denominated in a potentially inflating currency, (b)
+equity in companies with assets consisting mainly of debts denominated in a
+potentially inflating currency, or (c) both.  
+  
+In performing functions (1) and (2), derivatives usually substitute for or
+augment currencies as a medium of exchange. For (3) they substitute for or
+augment the monetary function of a store of value. Most derivatives, in other
+words, perform largely _monetary_ functions. They augment or substitute for a
+flawed method of payment or a flawed store of value.  
+  
+ _Gold prices in dollars (and, not pictured here, the dollar prices of many
+other commonly traded commodities) roughly follow changes in the global
+monetary base of dollars. Source:nowandfutures.com_  
+  
+In a climate where one or more commonly used currencies are inflating (and by
+"inflation" I simply mean rise in money supply without concurrent rise in
+demand for that currency, not the CPI or any particular and usually trailing
+measure of inflation), derivatives, if they can be analyzed and traded at low
+cost, are very much in demand. Furthermore, if all of the currencies
+practically available for contractual payment terms are inflating, these
+derivatives will come to be increasingly based, not on currency-denominated
+debt, but on commodities, especially commodities for which supply and demand
+are relatively inelastic in the short and medium terms.  
+  
+Why is it rational, rather than reflecting a bubble, for the recent rise in
+commodity prices to outpace the recent rise in money supply? The rise in
+commodity prices reflects the increase not just in supply of dollars per unit
+of commodity, but greatly increased demand for a commodity _as money_ , i.e.
+for the monetary functions it serves either directly or indirectly via
+derivatives, on top of the relatively steady demand for consumption. As I have
+argued elsewhere, this increase is broad-based: all commodities that can be
+traded with low transaction costs on modern markets, and that exhibit short-
+and medium-term inelasticity of supply and consumption demand, are useful for
+and are being used as reserves for the new derivative currencies. Where
+computerized analysis lowers mental transaction costs, as with modern
+derivatives, it pays to diversify one's books, portfolios, and hedges among
+multiple currencies.  
+  
+Of course, the traditional use of commodities futures and derivatives by
+commodity producers and consumers to hedge the assets and liabilities of the
+commodity sales and purchases inherent in their business continues. But these
+don't account for the vast majority of commodity derivatives use in recent
+years.  
+  
+Before modern computers, networks, and software engineering, the cost of such
+derivatives was usually prohibitive. In the last period of monetary inflation
+and the resulting commodity boom, the 1970s, derivatives were available to few
+and only the very simplest hedges or synthetic assets could be understood, and
+even then very imperfectly. Today derivatives, and their use in very complex
+hedges and synthetic assets, are much better understood by most of their
+users, thanks to computerized game tree analysis, and are available to many.
+They can be designed, simulated, and traded electronically with very low
+transaction costs. Computerized derivatives are smart contracts that lower
+mental transaction costs. So much so, that they've created a vast new world of
+contractual relationships completely impossible with the brain alone.  
+  
+Speaking perhaps a bit metaphorically, we are witnessing the rise of new and
+privately issued fractional reserve currencies. They need not and effectively
+cannot legally be called "money" by their "issuers", nor can they effectively
+be used directly in most contracts for payments. But they can be used
+indirectly to hedge payment terms or investments denominated in flawed, that
+is in inflating or otherwise unstable, government currencies in which normal
+contracts and instruments are generally denominated. The results are synthetic
+"currencies" that, in their economic behavior, may be almost indistinguishable
+from a tradtional commodity-backed and privately issued fractional reserve
+currency.  
+  
+No wonder the Federal Reserve and other central banks are moving hard to usurp
+jurisdiction over derivatives (per, for example, the recently announced
+Paulsen plan here in the U.S. to consolidate a variety of financial regulation
+under the Federal Reserve). To effectively regulate derivatives, for better or
+worse, the Fed will have to understand them first. But they do not have this
+knowledge. Indeed no human brain holds this knowledge. The knowledge needed to
+understand the dizzying variety of derivatives exists mainly in the form of
+computer simulations.  
+  
+Derivatives, the money of the digital era, perform monetary functions in
+competition with the Federal Reserve's dollars, an increasingly primitive
+holdover of the paper era. By regulating derivatives the Federal Reserve
+regulates its competition. This creates a profound conflict of interest. It's
+like putting Rust Belt executives in charge of Silicon Valley. Such regulation
+may cause, not the popping of a commodity bubble, but the destruction of a
+nascent economic order made necessary by the prediliction of the Federal
+Reserve and other central banks to inflate their fiat currencies. Whether
+ignorance or conflict of interest will play the greater role in the
+destruction of the new currencies, or whether one will cancel the other out
+leaving the derivatives markets in relative freedom, remains to be seen.  
+  
+[Obligatory Wikipedia links: Eurodollars, elasticity]  
+  
+[H/T: I learned of Venero's paper from Byrne Hobart]  
+  
+[Here's a prior explanation of mine giving a broader overview of why commodity
+prices reflect demand for their monetary functions as well as for their
+consumption, but not explaining the role of derivatives].  
+  
+[*] These numbers are a bit stale -- it would be great to see to what extent
+this growth has continued. If any reader has data on commodity derivative use
+through 2007, please let me know.  
+  
+[UPDATE: here is more straightforward article that gets the basic facts right:
+production up, inventories up, consumption down, prices up -- inexplicable if
+consumption is the only major source of demand -- but gets the explanation
+wrong, replacing the rational and efficient use of commodity derivatives as
+money that I have described here with the typical speculations about
+"speculation" resulting in a "bubble"].  
+  
+[Ad: I am now providing consulting services.]
+

@@ -1,0 +1,71 @@
+I have run some Monte Carlo simulations of hypothetical oil prices implied by
+long-term inflation expectations. Based on the Hotelling model of a
+nonrenewable resource, modified to account for inflation expectations,
+described here, inflation expectations are assumed to contemplate only the
+next 50 years, with a 1%/year discount rate. Oil in each year is assumed to be
+1% less valuable to producers than in the preceeding year due to
+considerations of producer's time preferences, substitution, and less than
+perfectly secure property rights. Based on a random walk of inflation
+expectations (in some cases biased upward to show what happens in an era of
+increasing inflation expectations, in some cases downward to show happier
+times of declining inflation expectations), this simulation computes the net
+present value of the sale of a barrel of oil in 50 years based on the expected
+inflation over those years minus the discount rate of 1%. Note that these are
+not predictions I believe _will_ happen, they are all explanations of what has
+happened or scenarios of what might happen.  
+  
+The most startling and important thing you'll notice in these charts is that
+oil prices are an exponential function of long-run inflation expectations. Put
+another way, oil prices swing at a rate that is an exponential function of
+changes in these inflation expectations. The reason is quite straightforward
+-- inflation, like an interest rate, compounds. With inflation the value of
+oil in the ground nominally grows in value at the rate of inflation,
+discounted (in this model at 1%) for the factors indicated above. Thus in this
+model when inflation expectations are 1% or below, oil trades simply based on
+supply/demand fundamentals and expectations about these fundamentals, which in
+this model are assumed constant. Note that we assumd the discount rate (based
+on time preferences, substitability, property rights security, etc.) should be
+higher than 1%, that would only shift the exponential curve to the right, it
+wouldn't change its shape.  
+  
+Precious metals generally move in the same way as oil in response to changing
+inflation expectations, but minerals that can be more readily substituted for
+than oil will probably not as quickly move to extreme prices. So this model
+and these simulations are just as useful for precious metals as they are for
+oil, and are somewhat less useful but still explain most of the price
+movements of most other minerals.  
+  
+Here is a scenario similar to what we've recently experienced, with a possible
+further spike due to a small further increase in long-term inflation
+expectations, with such expectations then subsiding back to near today's
+value. The simulation starts out with inflations expectations at 1% (assumed
+to correspond to $10/barrel oil), then the expectations move to as high as
+7.5%, which gives us $330/barrel oil:  
+  
+  
+  
+  
+Here is a more extreme scenario of what might occur during a possible U.S.
+federal default discussed in my previous post. At these extremes, prices of
+coal, natural gas, ethanol, and other near-substitutes for oil have to keep up
+with oil, and even the capital costs of more indirect substitutes (e.g.
+nuclear and alternative electricity) have to lose some of their stickiness and
+keep up more with oil, otherwise oil will be substituted for and prices won't
+reach these extremes. My model does not properly account for increased
+substitability as oil prices increase, which is correct over the long run
+(inflation eventually reaches all goods and services) but incorrect over the
+shorter run (because oil prices are much less sticky than most other energy
+prices). As a result these models probably overstate oil prices at the higher
+inflation expectation values. Precious metals don't have the same problem, so
+hedging against the most extreme possibilities is better done with precious
+metals than with oil or other commodities.  
+  
+  
+  
+  
+Let's finish with a cheerier scenario, where oil prices start at $130/barrel
+(roughly what they recently have been) and then inflation expectations
+subside. I consider this scenario and the first scenario about equally likely,
+and both of these more probable than the extreme second scenario:  
+  
+

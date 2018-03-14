@@ -1,0 +1,146 @@
+I've just read a very compelling theory of the origin of life. This pegs my
+"that explains so many things!" meter in a very big way. Alkaline vents -- the
+tame cousins of black smokers -- were common underneath earth's early oceans,
+but were chemically different than today. They were a chemical engineer's
+utopia: high temperatures and pressures, iron-sulfur mineral catalysts, a
+substantial proton gradient (alkaline vent water to soda-water-like ocean) and
+vast amounts of surface area formed by microbubbles. A new theory posits that
+Peter Mitchell's revolutionary discovery, proton-gradient manufacture of ATP,
+"the energy currency of life", was the original energy source of life, and
+that early evolution from primordial nucleic acids to the common ancestors of
+archaea, bacteria, and ourselves occurred in these sea-vent microbubbles. A
+proton gradient across a membrane simply means that one side is more acidic
+(it contains more naked protons) and the other side is more alkaline (it
+contains more water molecules missing a proton, called ~~"hydroxyl radicals"~~
+hydroxide ions).  
+  
+Because of Mitchell's discovery we now know that all known life uses membranes
+with proton gradients across them to convert energy into ATP molecules.
+Wherever the energy comes from -- from light, from carbohydrates stolen from
+other organisms (i.e. eating food), wherever -- in every living thing it gets
+converted into a proton gradient that then is tapped to manufacture ATP. In
+higher animals ATP is made from a proton gradient that is in turn made from
+"burning" blood sugar with oxygen, and this ATP powers our muscles and brains.
+In plants ATP is central to photosynthesis: light striking chlorophyll
+generates a proton gradient, and that proton gradient is used to manufacture
+ATP, which in turn is used to make sugars and other plant carbohydrates. In
+all life ATP powers the energy-using chemical reactions needed to make
+proteins, DNA, and RNA, the complex chemicals of life. (For biochemists
+reading this, relax, this is a summary: I've necessarily left out a very large
+number of complex steps, many still not fully understood).  
+  
+The new theory of the origin of life recognizes that proton gradients existed
+on a massive scale in alkaline vents. The primordial, carbon-dioxide-rich
+oceans were acidic like Coca-Cola: they contained too many protons. These
+soda-water oceans were out of balance with the alkaline vent water, which
+contained water molecules with protons missing (hydroxide ions). Protons
+streamed across this gradient, with the protons from the soda-water ocean
+filling up the proton-deficient hydroxide ions to create normal water
+molecules. This stream of protons was a massive energy source that could be
+tapped to drive vast numbers of energy-consuming chemical reactions. Large
+amounts and varieties of chemicals were made on the vast surface areas of the
+microbubbles, eventually leading to the immensely complex chemicals and
+reaction pathways (metabolisms) that became life.  
+  
+When, much later, plants evolved, they pulled almost all of the carbon dioxide
+out of the air and oceans, converting it into hydrocarbons and oxygen. Then
+animals evolved that could breath the oxygen, "burning" it with carbohydrates
+from eating the plants. Yet these very different energy sources get converted
+by plants and animals alike into the same thing -- proton gradients across
+membranes which are used to make ATP, the energy currency of life.  
+  
+Ironically, we humans by burning fossil fuels are putting a small fraction of
+this ancient carbon dioxide which plants removed from the air and oceans back
+into the air, where it not only may be causing a bit of global warming, but is
+also dissolving back into the oceans and turning them a bit more acidic -- a
+tiny step back in the direction of the primordial conditions in which carbon
+dioxide concentrations were vastly higher than our puny modern levels, making
+the origins of life possible.  
+  
+The theory's ten-step recipe for life:
+
+> 1\. Water percolated down into newly formed rock under the seafloor, where
+it reacted with minerals such as olivine, producing a warm alkaline fluid rich
+in hydrogen, sulphides and other chemicals - a process called
+serpentinisation.  
+>  
+> This hot fluid welled up at alkaline hydrothermal vents like those at the
+Lost City, a vent system discovered near the Mid-Atlantic Ridge in 2000.  
+>  
+> 2\. Unlike today's seas, the early ocean was acidic and rich in dissolved
+iron. When upwelling hydrothermal fluids reacted with this primordial
+seawater, they produced carbonate rocks riddled with tiny pores and a "foam"
+of iron-sulphur bubbles.  
+>  
+> 3\. Inside the iron-sulphur bubbles, hydrogen reacted with carbon dioxide,
+forming simple organic molecules such as methane, formate and acetate. Some of
+these reactions were catalysed by the iron-sulphur minerals. Similar iron-
+sulphur catalysts are still found at the heart of many proteins today.  
+>  
+> 4\. The electrochemical gradient between the alkaline vent fluid and the
+acidic seawater leads to the spontaneous formation of acetyl phosphate and
+pyrophospate, which act just like adenosine triphosphate or ATP, the chemical
+that powers living cells.  
+>  
+> These molecules drove the formation of amino acids – the building blocks of
+proteins – and nucleotides, the building blocks for RNA and DNA.  
+>  
+> 5\. Thermal currents and diffusion within the vent pores concentrated larger
+molecules like nucleotides, driving the formation of RNA and DNA – and
+providing an ideal setting for their evolution into the world of DNA and
+proteins. Evolution got under way, with sets of molecules capable of producing
+more of themselves starting to dominate.  
+>  
+> 6\. Fatty molecules coated the iron-sulphur froth and spontaneously formed
+cell-like bubbles. Some of these bubbles would have enclosed self-replicating
+sets of molecules – the first organic cells. The earliest protocells may have
+been elusive entities, though, often dissolving and reforming as they
+circulated within the vents.  
+>  
+> 7\. The evolution of an enzyme called pyrophosphatase, which catalyses the
+production of pyrophosphate, allowed the protocells to extract more energy
+from the gradient between the alkaline vent fluid and the acidic ocean. This
+ancient enzyme is still found in many bacteria and archaea, the first two
+branches on the tree of life.  
+>  
+> 8\. Some protocells started using ATP as well as acetyl phosphate and
+pyrophosphate. The production of ATP using energy from the electrochemical
+gradient is perfected with the evolution of the enzyme ATP synthase, found
+within all life today.  
+>  
+> 9\. Protocells further from the main vent axis, where the natural
+electrochemical gradient is weaker, started to generate their own gradient by
+pumping protons across their membranes, using the energy released when carbon
+dioxide reacts with hydrogen.  
+>  
+> This reaction yields only a small amount of energy, not enough to make ATP.
+By repeating the reaction and storing the energy in the form of an
+electrochemical gradient, however, protocells "saved up" enough energy for ATP
+production.  
+>  
+> 10\. Once protocells could generate their own electrochemical gradient, they
+were no longer tied to the vents. Cells left the vents on two separate
+occasions, with one exodus giving rise to bacteria and the other to archaea.
+
+More here.  
+  
+_Dendritic carbonate growths on the Lost City alkaline vent_  
+  
+Given the vast complexity of the genes and metabolism that would likely have
+existed in the common rock-bubble ancestor of archaea and bacteria, I suspect
+it will be a long time before all but the simplest of these steps are
+recreated in a lab. Still, this is by far the most compelling theory of the
+origin of life I've ever seen.  
+  
+Peter Mitchell, discoverer of the proton-gradient manufacture of ATP, was a
+fascinating character: instead of entering the "publish or perish" and "clique
+review" rat-race of government-funded science, he dropped out of mainstream
+scientific culture and set up his own charitable company (nonprofit in U.S.
+lingo), Glyn Research Ltd. His discoveries were compelling enough to win over
+the early "he's a wingnut" skeptics and are now the centerpiece of our
+understanding of biological energetics. My essay "The Trouble With Science"
+suggests why this kind of independence is good for science. Here's more about
+Mitchell's theory of proton-powered life called chemiosmosis. The ten-step
+process above is the theory of William Martin and Michael Russell, and is an
+extension of Gunter Wachterhauser's iron-sulfur world theory.
+

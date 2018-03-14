@@ -1,0 +1,39 @@
+Parts of the trend towards smart contracts are advances in vending machines.
+Indeed, a vending machine is a very ancient kind of smart contract, supposedly
+going all the way back to coin-operated holy water dispensers in Ptolemaic
+Egypt.  
+  
+Touch screens allow some newer vending machines to present a user interface
+like that of a web site or catalog, and newer robotic mechanisms allow the
+goods to be dispensed more carefully (and thus allow a wider variety of
+products to be dispensed). If you haven't yet used one of these newer machines
+here's a good video:  
+  
+  
+  
+It's important that the machine be as fair as possible to avoid either the
+vendor or the customer being cheated. But it's tricky. "[T]o prevent the thing
+snagging and you getting ripped off," Motorola's machine is designed so that
+"your card is only charged when the sensors detect you removing it from the
+bin."  
+  
+There's a flower-vending machine where you can either buy fresh flowers from
+the machine itself or order flowers sent somewhere.  
+  
+There's a machine that loans soccer balls. The user interface is your cell
+phone instead of on the machine itself. The balls are tagged with RFIDs, a
+primitive form of proplet, so that the machine can tell when you've stolen a
+ball (or at least when you've removed it out of the allowed area of use)
+rather than returned it. The machine also keeps a social register of soccer
+players to help you find somebody nearby to play with. This is moving us far
+from the traditional vending machine and towards a far wider variety of
+automated transactions heretofore enforced by contract or property law rather
+than computer protocol.  
+  
+Japan, as a low-crime and gadget-loving country, fields machines selling a
+wide variety of products and services. There's a refrigerated locker where you
+can store your groceries and continue shopping and a machine where farmers can
+put in money and polish their rice. Some machines take 10,000 yen notes (about
+$80). Some parking machines place bars under or in front of the car that
+prevent the car from being removed from the spot until the fee is paid.
+

@@ -1,0 +1,128 @@
+Two of the most important characteristics of legal procedure are local
+coercion and nondeterminism. I've written plenty about coercion recently, so
+here I'll put forward some thoughts about its nondeterminism.  
+  
+A deterministic process is one in which, for any state of the world -- a state
+being a theoretical description of everything that might change the future --
+there is only one next state. The omniscient Laplace's daemon could in
+principle predict everything about the future if the universe were
+deterministic. In a nondeterministic process, there can be more than one
+future state, and not even Laplace's daemon can know for sure, and may not
+know at all, which one will happen. We can model simple processes as "state
+machines": in the present the process is in one state, in the next instant in
+the future the process may have transitioned to another state, and so on.  
+  
+Here's a picture of a deterministic process -- one with only one possible
+future:  
+  
+  
+
+  
+Here's a picture of a nondeterministic process:  
+  
+  
+
+  
+
+  
+
+  
+  
+If as in the picture above there are more than two possible future states,
+this can also be modeled as a sequence of binary events:  
+  
+  
+
+  
+
+  
+  
+An event can be natural or a human act. If it's a human act, the decision to
+act often can or should be based on good estimates of in which state(s) the
+world is or was in. In legal procedure, generally an arrest should only be
+made based on an estimate that the person arrested in fact committed a
+specific crime, for example.  
+  
+If causally related nondeterministic processes repeat themselves often enough,
+we can develop a probabilistic model of them. Physicists have developed
+probability density models for very small-scale phenomena in quantum
+mechanics, for example.  
+  
+Practical nondeterminism stems from at least four sources: (1) some of the
+physical world is inherently nondeterministic, (2) even where deterministic in
+principle, the configuration of physical states in the world is vastly more
+complex than we can completely describe -- nobody and no computer comes
+anywhere close to resembling Laplace's demon, (3) people are far, far more
+complex than we can mutually comprehend -- especially if you get more than a
+Dunbar number of us together, and (4) the words and phrases we communicate
+with are often ambiguous.  
+  
+Most of the nondeterminism in legal procedure stems from questions of who did
+what when and where, and the legal consequences that should ensue based on
+codes and judicial opinions written in ambiguous language. Law summarizes this
+uncertainty with a number of qualitative probabilities often called "burdens
+of proof". The following list is sort of, but not necessarily (as they come
+from different legal domains and are not necessarily comparable), in order of
+lesser to greater burden of proof:  
+
+  
+
+  * Colorability  
+
+  * Air of Reality  
+
+  * Reasonable suspicion  
+
+  * Prima facie case  
+
+  * Probable cause  
+
+  * Preponderance of the evidence  
+
+  * Clear and convincing evidence  
+
+  * Beyond reasonable doubt  
+
+  * (To reverse a jury verdict) No reasonable jury could have reached the verdict  
+
+  
+These label the probabilities -- not in the sense of numbers between 0 and 1,
+but in the sense of kinds of evidence and degrees of convincing argument --
+required for various decisions of legal procedure to be made: for a search
+warrant to issue, for an arrest to be made, for property to be confiscated,
+for a legal motion to be accepted or denied, for liability to accrue in a
+civil trial, for a sentence of guilty in a criminal trial, for decisions about
+jurisdiction, and so on.  
+  
+It's useful to look at these, not merely as classical probabilities, but in
+the style of quantum physics, as a superposition of states. When a
+nondeterministic event -- or a deterministic event for which we lack important
+knowledge -- has happened in the past, we can treat it as a superposition of
+all the possible events that might have happened. When a person or persons
+undertakes a procedural act -- arrests a person, issues a verdict, and so on
+-- under law they should be doing so based on a judgment, to some degree of
+certainty, that one particular set of facts occurred that justify the act. We
+can thus see a criminal defendant, for example, as in the state "guilty or not
+guilty" until a jury "collapses" this probability distribution to a verdict
+(which collapse, however, unlike quantum mechanics, can sometimes be reversed
+by an appeals court if deemed erroneous). A suspect is in the state "beyond
+reasonable suspicion" or "not beyond reasonable suspicion" until a police
+officer acts, for example to pull over your car on the highway, in a way that
+requires reasonable suspicion. In principle, at least, this decision too shoul
+dbe reversible (for example, if the officer pulled over your car without
+reasonable suspicion and noticed an open beer bottle, that evidence could be
+thrown out of court based on the lack of reasonable suspicion in the original
+stop).  
+  
+Legal procedure needs to control nondeterminism so that people can operate in
+an environment of reasonably reliable legal rights. Think, for example, about
+how inefficient the economy would be if most property was in imminent danger
+of being taken from one owner and given to another due to frequent decisions
+reversing old court cases, or how full of worry our lives would be if we could
+be taken off the street and put in jail at random. Thus there is, for example,
+a strong presumption in English-law countries that a jury's decision is final:
+and this effected by putting the burden of proof on the court reversing the
+decision high: "no reasonable jury could have reached the verdict", a burden
+of proof in a criminal case much higher than the jury's own "beyond reasonable
+doubt."
+

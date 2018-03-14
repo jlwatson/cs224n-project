@@ -1,0 +1,8 @@
+ComputerWorld has a good article on what data they did and did not find on
+hotel card keys from various U.S. chains. They generically claim that some
+European and older U.S. card key systems put personal information on hotel
+card keys, which could leave guests vulnerable to ID theft or other privacy
+violations. The article's author, Robert L. Mitchell, concludes that current
+card keys used at major U.S. hotel and motel chains are OK, although in some
+cases they found data which they were unable to decode. Via Emergent Chaos.
+

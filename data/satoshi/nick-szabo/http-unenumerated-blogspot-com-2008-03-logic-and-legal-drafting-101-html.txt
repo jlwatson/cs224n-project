@@ -1,0 +1,23 @@
+In common English, "or" and "and" are often ambiguous. "Or" can mean either
+inclusive or exclusive or, among other things. "And" often means set union,
+which might correspond to either inclusive or exclusive "or" or logical "and."
+For example, "choose from a box containing X and Y" might mean "choose X or Y"
+(inclusive), "choose X or Y" (exclusive), or "choose X and Y" -- depending on
+whether you get to choose once, once or twice, or you must make two choices.
+There are any number of other ambiguities that arise when trying to deduce the
+logic, if any, behind many plain English uses of "and" and "or."  
+  
+Nevertheless, it's not hard for a legal drafter to make the logic of a legal
+document clear. This should be Legal Drafting 101, a class which should be
+required in all law schools: use "X or Y, but not both" for exclusive or, "X
+or Y, or both" for inclusive or, "both X and Y" for logical and. It would
+probably save billions of dollars and many erroneous decisions per year if
+lawyers followed these three simple drafting tips. For that matter, technical
+writers and any other writers trying to make logical relationships clear might
+benefit from this advice.  
+  
+Link here for a hilarious thread of some of America's smartest lawyers trying
+to decipher a Supreme Court opinion and decide whether it breaks one of De
+Morgan's Laws -- not (A or B) = not A and not B (where the "or" is inclusive).
+It may depend on what the meaning of "or" is.
+

@@ -1,0 +1,110 @@
+The non-delegation doctrine is often believed by legal professionals to have
+been invented by the U.S. Supreme Court in some time in the late nineteenth
+century. Furthermore, the popular theory goes, the non-delegation doctrine was
+only enforced by the Court very briefly in a failed attempt to stop the New
+Deal which broadly delegated economic lawmaking authority to executive and
+"independent" agencies.  
+  
+In fact, the non-delegation doctrine was well understood by the Founders and
+extensively debated in early Congresses. Proponents of the non-delegation
+doctrine observed that Article I put "[a]ll legislative powers herein granted"
+in the hands of Congress, and thus none of it in the executive branch. Thus,
+they argued, all important rules should be made by the people's
+representatives rather than by poorly accountable executive branch employees.
+James Madison in particular was a proponent of a very strong (by modern
+standards) version of the non-delegation doctrine. Madison and his colleagues
+used the doctrine to argue that several Congressional proposals were
+unconstitutional and thereby defeat the measures in Congress.  
+  
+In the Post Office debate I have chronicled, Madison argued that Congress
+could not delegate to the United States Post Office the ability to define main
+post office locations and the broadly stated origins and destinations of the
+major post roads. He admitted, however, that at some level of detail Congress
+could constitutionally give discretion to the Post Office to define particular
+local routes. How far up, in the fractal structure of postal routes, the Post
+Office could constitutionally be delegated such discretion remained unclear.
+The outcome of this particular debate was that broad grants of power to
+generally define offices and routes were unconstitutional, but legislation
+defining the broad interstate and intrastate routes between major towns and
+cities, and leaving further detail to the Post Office, was fine.  
+  
+The non-delegation doctrine has remained a slippery doctrine ever since, and
+since the New Deal has fallen into disuse. We thus now have very broad
+enabling legislation such as that of the Environment Protection Agency, which
+grants the agency broad lawmaking authority over "pollutants," including the
+authority to make rules regarding "any air pollutant from any class or classes
+of new motor vehicle...[which] may reasonably be anticipated to endanger the
+public welfare."  
+  
+Thus, argue the plaintiff states and environmental groups in _Massachusetts v.
+EPA, _ the EPA has the authority to regulate carbon dioxide levels, even
+though carbon dioxide is not particularly mentioned in the legislation: given
+the scientific evidence that carbon dioxide causes global warming, carbon
+dioxide is clearly a "pollutant" that "may reasonably be anticipated to
+endanger the public welfare." They go on to argue that the EPA further has the
+legal duty under this legislation to regulate carbon dioxide levels. Even
+though the Bush Administration has decided that the EPA will not start
+regulating carbon dioxide emissions, these states and environmental groups are
+suing for a court order to force the EPA to regulate vehicle carbon dioxide
+emissions.  
+  
+President Bush's EPA disagrees. It argues (in part by invoking non-delegation
+doctrine precedents) that this broad language did not grant broad powers over
+emissions of a ubiquitous molecule that is a necessarily substantial part of
+life itself. If the harm of carbon dioxide emissions is admitted, literal
+interpretation of the EPA's enabling statute, would, if it weren't for the
+above limitation to motor vehicles (and presumably similar limitations to
+power plants and other industrial activities for similar phrases elsewhere in
+the stattute) give the EPA power to regulate not only power-plant and car
+emissions but everything from forest and camp fires to the very air we and our
+animal friends breathe out of our lungs. Our bodies after all "burn" food
+calories and the oxygen we breathe in, producing carbon dioxide that we
+breathe out.  
+  
+Without a non-delegation doctrine, (or alternatively without narrowly
+interpreting the broad language to exclude such a ubiquitous part of our
+bodies and the air), a vast amount of lawmaking power woould accrue to the
+EPA, upon recognition that carbon dioxide is causing somebody, or somebody's
+property, some harm, without any further initiative by the people or its
+representatives. Surely Congress did not intend to grant the EPA such broad
+powers, despite the broad language, the EPA argues (due to the industry-
+friendly Bush Administration, since it's opposing its own bureaucratic turf
+interests). The EPA is thus essentially arguing that grants of power should be
+interpreted narrowly: a principle of least authority should be applied.
+Madison would have added that even if this is what Congress had intended,
+Congress is not allowed to delegate such broad lawmaking powers to a non-
+elected body, just as it could not delegate the broad decisions on where to
+locate main post offices and major postal routes to the Post Office. Such a
+vast new area of lawmaking power must be initiated only by the people's
+representatives, not by unelected bureaucrats.  
+  
+It's not clear whether the Supreme Court, if it decides to hear the appeal in
+_Massachusetts v. EPA_ , will pay much attention to Madison's non-delegation
+doctrine. The car industry's brief (intervening on the side of Bush's EPA)
+dwells on a related phenomenon: given the broad grants of power in modern
+federal statutes, the regulatory powers of agencies often overlap, and it is
+this concurrent and thus conflicting lawmaking jurisdiction, rather than grant
+of lawmaking powers generally, that is improper. Thus, the interventors argue
+that regulation of carbon dioxide is better classified as regulation of fuel
+efficiency than as regulation of a pollutant. Thus, it is under the
+jurisdiction of another regulatory agency, not under the EPA.  
+  
+Furthermore, the states and enviromental groups may lack standing for failing
+to demonstrate that global warming harms them in particular. As a scientific
+matter, much of the recent average global warming is highly likely to be
+related to rising carbon dioxide levels; a jury could find this as an
+unreviewable (i.e. not clearly in error) matter of fact. But contentions made
+about global warming as actually causing particular kinds of harm (such as the
+idea that it is causing more severe storms or bad crop yields in some areas)
+are highly speculative and probably cannot be reasonably proven in court.
+Thus, plaintiffs hoping to force the EPA to regulate will probably fail to
+demonstrate that carbon dioxide is causing them particular harm, and thus will
+probably fail to establish standing. Both the standing issue and the "no
+conflicting delegation" version of the non-delegation doctrine may thus
+prevent this case from reaching the traditional non-delegation doctrine issue.
+Nevertheless, the proposed massive expansion of the EPA into carbon dioxide
+regulation, without any Congressional act specifying that the EPA should
+regulate this ubiquitous molecule, but only harm-causing "pollutants"
+generally, is a very good example of the kind of thing that Madison was
+worried about and, for a time, successfully opposed.
+

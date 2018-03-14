@@ -1,0 +1,70 @@
+There's been a lot of rhetoric about how human genes are only 2% (give or take
+a wide margin -- there are many ways to count it) different from chimpanzees.
+Despite all our fancy culture, biologically we're just another mammal, nothing
+special, according to this comforting and generous-sounding gem of relativism.
+Just, however, as in a computer some bits are more significant than others,
+some genetic differences are far more significant than others. So I've never
+been much convinced by the "small difference" argument to stop, despite the
+inevitable frowns at my supposed provincialism, believing that humans are,
+biologically as well as culturally, rather strange and wonderful as far as
+animals go.  
+  
+When you think about it, from several points of view, apes are already a bit
+strange for mammals, and we are a quite strange kind of ape. Our cerebral
+cortex is three times as big as a chimp's, but that is hardly the most
+qualitative difference between ourselves and other apes. We are bipedal --
+quite a rarity in mammals. Unlike almost all mammals and any near relative we
+are naked. We have vocal chords and speak grammatical language full of
+metaphor. We have something close to monogamy, again rare for mammals, and
+many of us seem to instinctively collect decorative objects \-- AFAIK a habit
+shared with no other mammals but only a few birds. Then of course there are
+hands and technology -- with which we've done unprecedented things like strip
+other mammals of their fur so as to don it ourselves and keep our own
+otherwise preposterously exposed bodies warm. The facial evidence has always
+suggested that some rather improbable and important things happened during our
+evolution that didn't happen with other mammals.  
+  
+Some genetic evidence for this human uniqueness has just been published. In
+particular, a very interesting RNA gene called HAR1F that operates during
+fetal development, and has been remarkably stable among almost all the other
+land vertebrates for the last 300 million years, has radically changed in the
+last 5 to 7 million years since our line split off from the chimps'.  
+
+> The difference between chickens and chimps - which are separated by 310
+million years of evolution - is just two mutations out of a total DNA sequence
+of 118 "letters" of the genetic code. Yet the difference between chimps and
+humans - separated by 6 million years - is 18 mutations in the same DNA
+region.
+
+I don't expect this to be the last revelation of improbable and fundamental
+genetic changes that occurred between chimps and humans.  
+  
+I'm sure this will suggest to some intelligent intervention. There's already a
+big group of late night radio fans who think aliens intervened in human
+evolution, and it's also a good bet that religious "intelligent design" folks
+will use this finding as fodder. To me, it doesn't matter much how improbable
+we are, because we wouldn't be thinking about these things in the first place
+if it hadn't happened. In any case, the small number of chemical changes that
+these researchers have found in the HAR1F gene are not, just by counting them,
+improbable. Their improbability can only be deduced from the fact that
+anything similar occurred so rarely among other land vertebrates. But you
+can't deduce from that fact that it's so improbable that it's a puzzle why it
+occurred at all.  
+
+The high improbability of our own evolution may actually make the alien-
+tinkering hypothesis less likely because it makes aliens less likely. If the
+evolution of intelligence is highly improbable this would substantially lower
+the factor f(i) in the Drake Equation, helping to explain the Fermi Paradox.
+
+Another point to consider is that evolution often doesn't follow neat
+statistical distributions. Rather it exhibits leptokurtism, wherein one
+improbable changes often makes other otherwise improbable changes more likely
+to occur. Once one improbable change occured, functional synergy and the
+exploration of uncharted evolutionary territory made the others more likely to
+follow. The leading candidates for the first improbable change that triggered
+the others are bipedalism, monogamy, and nakedness, not vocal chords or brain
+size increase, which are known from the fossils to have occured much later
+than at least bipedalism. Thus I conclude that the HAR1F changes, most likely
+implicated in brain development, were probably a late set of changes in human
+evolution made possible by some earlier improbable genetic changes.
+

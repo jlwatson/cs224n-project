@@ -1,0 +1,39 @@
+Another interesting protocol is cryptographic timestamping. The purpose is to
+prove that a particular piece of content (i.e. some array of bits) existed at
+a particular period of time. The basic idea goes back to the anagram
+publication technique that Robert Hooke, Galileo, and some other early
+scientists used to prove that they discovered certain things long before they
+published them. When Hooke, for example, discovered his law of elasticity, he
+published the gobbledygook letters "ceiiinosssttuv." Later, when he published
+his law of elasticity, he published "ut tensio sic vis" (as the extension, so
+with the force). The earlier published anagram proved that he had discovered
+this law long before he published it.  
+  
+The modern protocol uses cryptographic hash functions instead of anagrams. Any
+set of bits (digital content, a network event, whatever) is passed through the
+hash function, turning into into a unique random-looking string of bits. Those
+bits are then published to multiple timestamp servers on the Internet. The
+timestamp servers create a chain of hashes. Using the chain of published
+hashes, it is easy to later prove that (1) the hash was published before one
+event and after another event, thus proving the time of publication, and (2)
+that the hash uniquely corresponds to a particular content.  
+  
+Note that the content of the file does not need to be published until proof is
+needed. Thus, for example, one could digitally timestamp a secret digital
+inventor's notebook in order to prove later that the invention existed at that
+time. (Might be quite useful under the American first-to-invent system).  
+  
+Indeed, using multiparty secure computation or the related protocols called
+zero-knowledge proofs, one can even make a later proof without publishing the
+content. For example, if Bob received a secret encrypted e-mail message from
+Alice, Alice and Bob could prove to the world that Alice sent a message at
+18:42:39 and Bob received it at 18:43:05 without revealing the actual contents
+of the message. In a confidential audit of Alice's books based on securely
+timestamped transactions between Alice and Bob and Alice and Charles,
+performed using secure multiparty computation, Alice can prove to the auditor
+that her books balance based on real transactions with Bob and Charles,
+without revealing in unencrypted form to the auditor either the transactions
+or the books. Such is the magical reality of cryptography!  
+  
+Here are some links to papers and other references on secure timestamping.
+

@@ -1,0 +1,122 @@
+Mencius Moldbug and Robin Hanson are debating Robin's intriguing idea of
+"futarchy", which has attracted many fans. The basic idea of futarchy is "when
+a betting market clearly estimates that a proposed policy would increase
+expected national welfare, that proposal becomes law."  
+  
+Robin and Mencius both make some great points in this debate -- for example,
+Mencius observes that GDP and similar estimates of "national welfare" are poor
+criteria for decision-making, analogous to a corporation making decisions to
+maximize revenue instead of profits. GDP in the United States, for example,
+rose dramatically during World War II, but its standard of living was probably
+significantly lower for most people than in the Great Depression due to
+rationing, death, and other traumas of war.  
+  
+But both Mencius and Robin have misconstrued or vaguely glossed over two of
+the biggest problems with zero-sum decision markets, especially when applied
+to government decisions. First an observation: all prediction markets are
+decision markets unless the resulting prediction is so useless that nobody
+ever makes a decision based on it or some government somehow bans all possible
+kinds of decisions based on those markets. The distinction Robin and Mencius
+make between the two serves to obfuscate those issues that are problems with
+real decision markets rather than with theoretical or play prediction markets.
+Two of the biggest problems are:  
+  
+1\. The problem of "morons' money", deemed by Mencius to be the money of some
+less-informed fraction of players who are disincentivized to play the zero-sum
+prediction game, actually means the money of _anybody_ with information worse
+than the best player's information. Since it's a zero-sum game, and much less
+entertaining than sports betting, any money that is stupider than the average
+money has a disincentive to play -- in sharp contrast to normal positive-sum
+markets. But when the less-informed half of the players leave the market, we
+have a new half of the market that has a disincentive to play, and so on.
+There's only one person left for whom it would be rational to play, if there
+were any market left. Prediction markets can work in an experiment only
+because students of the professor or fans of the idea feel they have a duty to
+play, or want to signal to fans that they like the idea, or because there are
+a few people who, like the much larger population of sports bettors, find it
+genuinely entertaining and thus worth wasting some time and/or money on. Robin
+I believe has tacitly recognized this problem in his proposals to goose these
+markets with subsidies. But how big subsidies are needed? It's a high-risk
+market, so you need to guarantee a high rate of positive return to the average
+player to compensate for the risk if you want good information entering the
+market.  
+  
+2\. Moral hazard: As I stated, prediction markets are also decision markets.
+We're right now going through major economic problems that stem from neglect
+of moral hazard. Selling securities, insurance, or betting without the
+investors/bettors or their agents or regulators exercising due diligence and
+control creates pathological incentives for people to do things like, as we've
+seen in the mortgage market, give cheap loans to bad credit risks because
+there were a bunch of number-crunchers with woefully incomplete models buying
+or insuring these loans who didn't understanding that most kinds of markets
+_create additional risk_ by creating moral hazard, that this moral hazard must
+be well controlled if the market is to work, and that controlling moral hazard
+is usually far from straightforward.  
+  
+In these betting markets, which are decision markets, people inside and
+outside government will make their own decisions based on the market. Coercive
+decisions will have an especially pathological effect: they turn the zero-sum
+market into an overall negative-sum game. For example, a market predicting the
+death of someone can, as Tim May long ago observed, readily be used as an
+assassination market. That's why, for example, PAM, a since-abandoned effort
+by the U.S. Department of Defense to try out Robin's ideas for prediction
+markets, had a market for predicting the death of Yasser Arafat but not of
+George W. Bush. Since these are markets for government decisions, the
+decisions it drives will, like assassinations, be primarily coercive in
+nature, for example to wage war on country X or to tax one group of people in
+order to subsidize another. If the decisions resulting from such a market were
+voluntary, you could just go onto a voluntary market to satisfy your needs
+instead of bothering with deciding that government must make some decision and
+then betting on its outcome. Furthermore, Mencius, although waxing entirely
+too rude behind his pseudonymous mask, is probably quite right that these
+markets will reflect the demand for desired decisions far more than a "supply"
+of information about how to best make that decision: per (1.), there is little
+to no incentive to supply such information without huge subsidies to give the
+markets an overall positive rate of return comparable to other high-risk
+markets.  
+  
+For example the market for "if the U.S. gives $20 billion to GM the U.S. GDP
+will rise by 1.1% or more [instead of the expected consensus by some group of
+economists of 1.0%]" will be dominated by GM, its unions, its dealers and
+suppliers, and so forth goosing it to a "probably true" prediction, not by
+people betting on the extremely uncertain, practically lost in the random
+noise, outcome of the proposition. If GM thinks it can sway the odds of a
+decision in its favor by 5% by, increasingly as the time for decision
+approaches, investing up to nearly $1 billion in the market, it will do so. GM
+has far more to gain by the gift of other people's money than arbitragers
+making risky bets with their own money have to gain from arbitraging the
+market back down to whatever they believe to be the true odds of the GDP
+rising 1.1%. If GM is banned directly from participating in the market, there
+are numerous other parties with similar stakes in the outcome and they can't
+all be banned. GM and its allies also have much to gain by lobbying the
+government to set up this kind of market for direct subsidies instead of
+futarchic markets for more generic decisions you might find more useful, such
+as a "remove the President if the GDP doesn't rise 1.1% or more" market.
+Futarchy thus becomes little more than an auction for government favors, like
+the time the Praetorian Guard auctioned off the emperorship to the highest
+bidder.  
+  
+It would be interesting to try straightforward government-by-the-highest-
+bidder. We'd probably discover why historians have equated this kind of
+process with corruption, but it would be well worth the suffering of some
+hapless residents in some small county somewhere to try the experiment and
+learn from it. It would of course be interesting to try out futarchy in a
+similarly real but small scale, restricting the players as well as the victims
+of the market to our guinea pig jurisdiction since there are no big GM-subsidy
+stakes at play.  
+  
+Of course, some would argue that we are living in this kind of experiment
+anyway, just under a blizzard of euphemisms instead of a straightforward
+honest auction. Others would argue that democratic voters bring no more
+information to governmental decisions than "moron money" would in these
+markets. I have no ready refutations for these arguments, but they don't prove
+futarchy is better than either what we have now or other possible alternative
+reforms.  
+  
+In summary, fans of prediction markets in general, and futarchy in particular,
+need to actually specify how to deal with moral hazard, as insurance companies
+and their regulators have, rather than mysterious hand-waving about the
+supposed "several ways to deal with it", as well as to acknowledge the need to
+subsidize these markets and figure out how to fairly distribute these
+endowments.
+

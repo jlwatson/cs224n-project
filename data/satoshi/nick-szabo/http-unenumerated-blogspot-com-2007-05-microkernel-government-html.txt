@@ -1,0 +1,86 @@
+Here are some considerations that went into the design of Juristopia. The
+overall goal of Juristopia is to improve the most important functions of
+government (especially defense and the abatement of public nuisances) while
+preventing the corruption, oppression, war, genocide, and other abuses that
+have so often come with police powers and taxation. Those evils have been
+particularly prone to occur when those powers are bundled into a locus of
+sovereignty, a la the personal totalitarianism of the Justinian Code, Bodin,
+and Hobbes or the parliamentary totalitarianism of Bagehot. These traditions
+of legal procedure, assuming political relationships are a matter of
+delegation rather than of property, have given us almost all of the worst in
+Western history: the Caesars, the Tsars, Napoleon, the Kaisers, the communist
+dictators, Mussolini, Franco, and Hitler among others -- based on the
+profoundly false and destructive assumption, derived from the legal procedure
+of the Roman Empire, that there must be "one person" who is "responsible" for
+all politics and law -- a person or (for Bagehot) small organization sitting
+at the top of a vast pyramid of principal-agent, usually boss-employee,
+relationships.  
+  
+Although it discards totalitarian political structure and legal procedure, our
+proposed form of government is based on historically proven legal mechanisms.
+With the clarity of legal procedure it avoids the vague nonsense that often
+passes for political philosophy. Much of the political structure of Juristopia
+is based on highly evolved common law mechanisms such as property and
+contract, but these are used in the same basic manner as in the common law,
+rather than as misleading analogies or mere labels. Nor is there any hand-
+waving about how "the market" will magically produce efficient law. An
+efficient market is an outcome, not a cause, of good law. Some kinds of legal
+competition are good and some are pathological: Juristopia encourages the
+former and strongly discourages the latter.  
+  
+Juristopia borrows from a number of historical political and legal systems,
+ranging from the modern constitutional administrative state to the monarcho-
+franchise system of late medieval England. Important design themes of
+Juristopia include separation and decentralization of powers. Its central
+design theme is the replacement of most delegation relationships (i.e.
+principle-agent or boss-employee) in politics with property and peer contract
+relationships. In its radical unbundling of power it satisfies many of the
+ideals of green libertarianism, minarchism and even anarcho-capitalism, yet it
+retains and even enhances the valuable functionality of modern government,
+such as environmental protection and defense. It strongly encourages the
+healthy legal competition that occurs before any dispute has arisen, such as
+choice of law and choice of forum, but severely discourages the unhealthy
+forum shopping that occurs after an injury has already taken place. It thus
+provides both default jurisdictions and the ability of parties to opt out of
+them, for future disputes between themselves, by contract.  
+  
+The main innovations of Juristopia are (1) to revive a kind of jurisdiction
+that was once a strong bulwark against totalitarianism, namely jurisdictions
+held as property rather than by delegation, and (2) to combine these with the
+recently more common bulwarks against totalitarianism, especially separation
+of powers and a Bill of Rights defining limits on the exercise of franchise
+powers against individuals.  
+  
+The result might be called, to borrow some computer science lingo, a
+microkernel government. A microkernel in a computer is a small program that
+contains only the most essential functions needed to manage a large number of
+other programs called "servers" that are conceptually independent of each
+other. Similarly, our governmental microkernel provides only the miniminum
+procedural functionality needed to handle franchises, a wide variety of which
+in turn handle the substantive law. Many of the advantages listed by Wikipedia
+for microkernel programs point up analogous advantages of microkernel
+government:  
+  
+* "security: it is more secure as more operations are done in user mode than in kernel mode" -- similarly, the failure of one governmental function is much less likely to spill over into other functions or to cause general political failure. And since a small franchise requires fewer powers than a large government, any abuses of its powers are likely to be far less severe.  
+  
+* "reliability: a simpler kernel design and functionality typically results in a more reliable operating system" -- similarly, the compartmentalization produced by property rather than delegation relationships increases the reliability of each function.  
+  
+* "flexibility: new features can be added and unnecessary ones can be removed. This makes it suitable for both large and small systems" -- similarly, to add or remove a governmental function requires merely defining and funding a new franchise, or for a jury to defund it.  
+  
+* "portability: most of the processor-specific code is in the microkernel, which makes it easier to port the kernel to a new platform" -- similarly, our new form of government can be applied in a wide variety of contexts -- as a new commercial jurisdiction, as the basis for an online game, or to augment or replace a traditional government.  
+  
+As a final note, although decentralization is a key feature, this
+decentralization is generally one of subject matter rather than territory.
+Territory is far less important in Juristopia than it is in most of today's
+governments. Its federalism and localism takes the form of unbundling
+jurisdiction by subject matter rather than by territory. It is expected that
+franchises will operate over large territories and even globally. The physical
+boundaries of its jurisdiction will depend on its function and won't
+necessarily bear any relationship to the boundaries of other franchises.
+Indeed, Juristopia goes much farther than most forms of government in
+unbundling territory from government, thereby reducing the legal transaction
+costs of operating in multiple territories and increasing the healthy forms of
+legal competition.  
+  
+(BTW, please let me know which spelling you prefer: :-)
+

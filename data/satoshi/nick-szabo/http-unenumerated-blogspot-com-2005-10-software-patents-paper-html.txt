@@ -1,0 +1,11 @@
+In my previous entry I mentioned the software patents paper I wrote a few
+months ago, and I have now put it online. In this paper I describe how
+software came to be patentable in the United States despite the Supreme
+Court's holdings that "mathematical algorithms" are unpatentable.  
+  
+I now reiterate the recommendation I made in the paper: the Supreme Court
+should reverse the Federal Circuit's holding in Metabolite based on the
+subject matter limitation in 35 U.S.C. 101. It should analyze subject matter
+patentability based on the Neilson test as applied in Parker v. Flook and
+clarified in the paper.
+

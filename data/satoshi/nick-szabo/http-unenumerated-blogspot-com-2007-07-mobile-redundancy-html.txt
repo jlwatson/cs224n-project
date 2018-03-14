@@ -1,0 +1,11 @@
+Orbital Express has demonstrated a number of interesting techniques of great
+long-term importance, such as the automated refueling of spacecraft. (Here is
+the biggest long-term reason why automated and on-orbit assembly and refueling
+are important). But the mission also demonstrated the feasibility of an idea
+that is probably also of great but nearer-term importance, which I call mobile
+redundancy. The idea is that if one has a constellation of standard
+satellites, redundancy can be provided with mobile spare parts rather than by
+building on-board redunancy into each satellite as is done now. This could
+result in a large overall savings in weight launched per year of useful
+satellite lifetime.
+

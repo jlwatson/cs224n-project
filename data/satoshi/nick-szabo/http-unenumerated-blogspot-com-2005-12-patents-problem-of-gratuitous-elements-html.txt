@@ -1,0 +1,50 @@
+Alas, from what I've seen so far of the LabCorp v. Metabolite briefs, they
+don't hit on the biggest problem in this area, namely the problem of
+gratuitous elements.  
+  
+I have written about how software became patentable in the United States. In a
+nutshell, the forbidden category of algorithms became patentable because the
+trivial combination of (novel algorithhm + prior art patentable subject
+matter) was held by the Federal Circuit to be patentable subject matter. Thus,
+a good patent drafter could simply added a broad prior art element such as "a
+device with memory" to an algorithm to make it patentable. (All digital
+computers are devices with memory). Adding the gratuitous element did not add
+to the novelty or non-obviousness of the invention, but instead served to make
+the claim look like patentable subject matter.  
+  
+In LabCorp v. Metabolite, the claim has the pattern (novel scientific
+discovery + prior art assay test). LabCorp's brief argues that the claim
+covers a "law of nature" and is thus unpatentable. But their main argument,
+following dicta in Diehr, that the claim covers all practical uses of the
+scientific discovery, is false. Scientists and doctors are still free to
+discuss the scientific discovery and use it in ways that don't involve the
+assay test. This severely cripples science and engineering involving the
+discovery without a license, but it doesn't 100% eliminate it as defendant
+Metabolite claims. The problem is that this supposed holding of Diehr combined
+with the use of gratuitous elements makes the subject matter restrictions of
+35 U.S.C. 101 an effective nullity. Having failed to understand the problem of
+gratuitous elements, Metabolite is left without a good argument and the United
+States Patent system is left without any effective restrictions on what kinds
+of subject matter may be patented.  
+  
+The problem of gratuitous elements is not confined to subject matter
+patentability. They also occur in damage calculations. It is now common for
+patent drafters to add gratuitous elements to patent claims to make them cover
+larger markets. An example, given by W. David Westergard, is that an inventor
+thinks of a new hinge for a door. The patent drafter then drafts the claim
+(novel hinge + prior art door). The jury is thus fooled into thinking that the
+patentee should be awarded damages for the lost profits on doors instead of
+just the lost profits on hinges. Indeed, Jeffrey G. Sheldon in How To Write a
+Patent Application, the bible of patent drafting, recommends this strategy,
+giving the example of claiming a toaster when all that has been invented is
+the toaster thermostat. "When negotiating a license or arguing damages before
+a jury, it would be better to work from a high royalty base that includes the
+entire toaster oven."  
+  
+This problem of gratuitous elements used to inflate patent damage awards is
+particularly severe in modern electronic devices that can contain hundreds of
+patented parts or software. It is one of the big motivations behind the damage
+reform provision in the 2005 Patent Act, which hopefully will be revived and
+enacted (with some recommended changes, which I will post in the future) in
+2006.
+

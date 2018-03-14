@@ -1,0 +1,114 @@
+In modern commodity markets one can exchange money for commodities at almost
+zero transaction costs. These markets thus reflect not just the supply and
+demand of the commodity, but also the supply and demand of the currency they
+are priced in.  
+  
+Because they combine liquidity with short- and medium-term supply
+inelasticity, mineral commodities are a good way to hedge a falling currency.
+When the supply of money increases or is expected to increase, whether because
+of lower nominal or real interest rates, because the bank that issues the
+currency is buying government treasury bonds or (like John Law of Mississippi
+Bubble infamy) mortgage-backed securities[*], or for any other reason, a
+disproportionate amount of the expected or surprise increase in money supply
+is soaked up by commodities. Indeed the commodities with the most liquid
+markets and inelastic supply, such as oil and gold, tend to move in lock-step
+with each other. Such price movement is strong evidence for the movement being
+primarily a phenomenon of changing money supply or demand rather than of
+changing supply or demand for particular commodities. If oil prices were
+rising primarily due to rising industrial demand for oil, or primarily because
+oil was getting more expensive technologically to produce (e.g. "peak oil"
+theory), we'd expect them to move quite differently than gold, which is
+demanded for primarily non-industrial reasons and has a vastly greater
+inventory/production ratio on the supply side than oil. That's not what we see
+-- we see oil and gold moving together, and indeed the price of oil in terms
+of gold and silver has been practically flat in the recent commodity boom.
+This is almost entirely due to expected or actual increases in the supplies of
+the currencies they are traded in (and especially recently in the weak dollar)
+rather than to "real" factors.  
+  
+This inflation only slowly percolates into price rises in other goods and
+services, which tend to be far more rigid than commodities. Wages are
+particularly rigid. Because the U.S. Federal Reserve and most other central
+banks regulate their money supplies based on trailing indicators of
+inflation(e.g. consumer price indices) rather than leading indicators
+(commodity prices), it is no surprise that their decisions tend to produce
+boom-and-bust cycles in commodities, and that to a lesser and more delayed
+extent they cause both general inflation and recessions. No uncommon demand
+from China or the like is needed to explain the recent commodity boom, just as
+no such rise in demand or long-term fall in supply was needed to explain the
+very similar commodity boom in the 1970s. But since most people judge supply
+and demand of a commodity by nominal price, both in the 1970s and now we get a
+lot of irrational hysteria about "running out", "peak oil", how our energy
+industries and consumption are "unsustainable", etc. I'll believe that when
+oil per barrel doubles or more with respect to gold and silver. When they move
+together, we're just being fooled by monetary instability, and most of the
+current disproportionate increase in investment in energy supplies and
+conservation, whether traditional or renewable, is malinvestment in response
+to highly distorted nominal price signals, as is the accompanying political
+bubble of "energy security", conservation enforced through idiotic micro-
+regulations (e.g. banning traditional light bulbs), and so on.  
+  
+Another way of putting this is that, when currencies become unreliable as a
+store of value, commodities take on part of that monetary role. Both oil and
+gold increase in value by performing this monetary function better than the
+currency against which they are being traded, better than credit instruments
+denominated in that currency, and even better, in the short term, than stocks
+of companies that do business primarily in that currency. The joint movements
+in oil and gold reflect their value, relative to the currency they are priced
+in, performing the monetary function of a store of value. Global supplies and
+industrial demands for minerals are far less volatile than the change in their
+value in this monetary role. It's the logical emergence of money from barter,
+but this emergence goes on every day that liquid commodities act as a better
+store of value than the currency in which they are priced. Contrariwise, as
+the currency becomes a better store of value than the commodity, these
+commodities move back down towards just being commodities valued only for
+their consumption. Thus their exaggerated moves, both upward and downward, in
+reaction to changing expectations of future increases or decreases in money
+supply.  
+  
+Due to their exaggerated moves and the relative rigidity of most non-commodity
+prices, commodities themselves are an imperfect store of value. They react far
+more than the general level of prices to both increases and decreases in money
+supply, or changing expectations of same. If the Fed stops playing John Law
+and desists from buying bad mortgages, if others besides the Fed soak up all
+the new Treasuries produced by large federal budget deficits, ifcounterparty
+risk in credit markets subsides, the Fed can raise rates, sell securities and
+retire the money, and otherwise take steps to lower the money supply and
+stanch inflation. In such a case, commodities will react disproportionately on
+the downside, as they did in the 1980s. If the Federal Reserve can't do these
+things, dollars and dollar-denominated securities will continue to decline and
+people will increasingly turn to commodities to protect their nest eggs. All
+the ads I see and hear for gold these days suggests the peak of a commodity
+bubble is near, but on the other hand credit markets may worsen due to the
+continued crashing of the previous bubble (the housing/mortgage bubble),
+federal deficits may continue to increase, and the Fed may thus buy even more
+securities, making commodities even more attractive. I'm thus afraid that I
+have no buy or sell recommendations for you, dear readers. :-)  
+  
+[This comment is based on a comment I recently made at the Marginal Revolution
+blog].  
+  
+* [Obligatory Wikipedia links: John Law, Mississippi Bubble, BearStearns bailout]  
+  
+[UPDATE: reader Byrne Hobarth has linked to this excellent analysis of the
+commodities market. This study debunks the theories that trends in supply or
+consumption demand, very steady over the last century, have greatly changed
+over the last decade. In particular, increased demand for many commodities
+such as copper in China has been offset by slows in growth or declines in
+demand in Europe and the U.S.  
+  
+The studies' thesis is that the commodity runup is largely just a bubble. The
+study shows the spectacular rise in commodity derivatives. These represent far
+more contractual liability or asset than the underlying commodities. Treating
+commodities as money, this to me looks like a new emergent form of fractional
+reserve banking, but reconstructed in the investment rather than the banking
+sector. These derivatives, on this view, act essentially as private fractional
+reserve currencies, backed by a variety of commodities. The report views all
+this as evidence of a bubble. It points out we haven't yet seen the consumer
+inflation of the previous commodity bull. I emphasize _yet_. Consumer prices
+are a _trailing_ indicator, and I believe the commodity markets are more
+rational in anticipating and reacting to money supply increases than they were
+in the 1970s thanks to the dominance of derivatives. The development of these
+new kinds of currencies, though prone to the risks and errors of novelty, are
+largely rational.]
+

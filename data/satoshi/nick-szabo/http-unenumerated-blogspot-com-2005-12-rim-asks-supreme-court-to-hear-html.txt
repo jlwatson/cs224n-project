@@ -1,0 +1,63 @@
+Research In Motion, Ltd. of Canada, which lost a very big (both in terms of
+dollars and legal precedent) case to NTP, Inc., over NTP's patent for a
+distributed e-mail system, has now asked the United States Supreme Court to
+hear the case.  
+  
+The big legal issue is how to determine patent infringement when distributed
+systems (for example, Internet protocols) span borders.  
+  
+Specifically, the issue under United States patent law is whether a system
+claim (or method claim) of a United States patent can be infringed when some
+features of the working system are located outside United States territory,
+but most the system elements or method steps are located within the United
+States, as are users. In this case a part of the system (and at least one of
+the steps of the method) corresponds to RIM's relay located in Canada; the
+other elements or steps (BlackBerries and the operations performed on them)
+and the users at issue are located within the United States. Another issue is
+whether RIM's infringement was direct or contributory infringement. A third
+issue is whether any international law is implicated.  
+  
+If only some elements or steps need to be in a country to infringe a patent in
+that country, the operator of a patented protocol spanning two or more
+countries might be sued for infringing the same patent in two or more
+countries. There is a grave danger that the patent holder could recover far
+more damages than it would otherwise be entitled to. To avoid this, the
+international law principle of comity might have to be invoked to determine
+which country has jurisdiction. On the other hand, if all the elements or
+steps must be in a single country in order to infringe a patent, this leaves a
+loophole whereby makers of distributed systems can ignore patents as long as
+some of the features are located in different countries.  
+  
+When the Federal Circuit, which has jurisdiction over patent appeals in U.S.
+patent infringement cases, first heard the case it said that the system claim
+was indeed directly infringed. It then reheard the case and decided that the
+method claim was not infringed. Their opinion was based on precedent from two
+older cases. The first case held that a system claim for a navigation system
+used in international waters was infringed because it was controlled from the
+United States. The second case held that a manufacturing process claim was not
+infringed if one of the steps was performed in Japan.  
+  
+As a result of the dubious analogy of these two precedents (there are no
+binding cases more on-point) the Federal Circuit has somewhat illogically
+distinguished between a claim for a distributed algorithm and the same claim
+restyled as a distributed system. My own opinion is that, until a treaty is
+signed to say otherwise, all the elements and steps should have to be within
+the United States in order to infringe a United States patent. This leaves a
+loophole in patent law, but that's better than the injustices and
+international law issues that are raised by courts reaching across borders to
+find infringement in remote Internet servers. Furthermore, if what RIM did is
+considered infringement it should classified as contributory not direct
+infringement. RIM's customers may be "using" the patent "within the United
+States," but RIM itself is not. RIM would however be contributing to the
+infringement by providing the BlackBerries and running their e-mail relay and
+thus would still be liable. In other circumstances with no contributory
+infningement, however, it would be a grave injustice to find direct
+infringement in the United States because one was simply operating one element
+or step of the United States patent overseas.  
+  
+The case before the Supreme Couret is now denoted Research In Motion, Ltd. v.
+NTP, Inc., Supreme Court No. 05-763, opinion below, NTP, Inc. v. Research In
+Motion, Ltd., 418 F.3d 1282 (Fed. Cir. 2005).  
+  
+Read more information on this case here.
+

@@ -1,0 +1,126 @@
+(This is an edited version of comments I made on Catallarchy, posted here for
+my readers)  
+  
+The Takings Clause reads, "…nor shall private property be taken for public
+use, without just compensation." This has always been interpreted by courts to
+forbid taking for anything other than a "public use," compensated or
+otherwise. One can summarize the reasons for this interpretation as follows:  
+  
+(1) It’s the common-sense way to interpret the clause in light of the rest of
+the Constitution (e.g. in light of the rest of the 5th Amendment, by the
+doctrine of enumerated powers, by the 9th and 10th Amendments, by the
+interpretation rule of smaller to greater, etc.)  
+  
+(2) Precedent: the Supreme Court has always interpreted it that way. The big
+dispute is not over this, but over what "public use" means. Alas, the
+preposterously broad _Kelo_ definition of "public use" makes the complement
+category "private use" almost a nullity.  
+  
+I’d add that forbidding of takings for private use reflects what English
+common law and state practice (interpreting similar provisions in state
+constitutions) was at the time of ratification. The framers simply took it for
+granted, thus the poor wording.  
+  
+(The framers realized such dangers of misinterpretation generally, however,
+which is why we have the 9th and 10th Amendments: to prevent construing of
+poorly worded clauses against individual rights).  
+  
+There are also good policy reasons to forbid takings for private use, such as
+the public choice waste that arises when B lobbies officials to take A’s land
+for B’s use.  
+  
+Which brings us to why _Kelo_ wasn't even close to an accurate opinion about
+the law. The "public use" in the 5th Amendment probably referred to Hale’s
+"public interest" doctrine, which when the 5th Amendment was ratified meant
+only functions involving either coercion or monopoly – for example a police
+station or courthouse, or the equivalent of taking a toll on the only bridge
+across a river. A franchise was, to quote a modern movie, a business that
+could legally make "an offer you can't refuse." It was as a result closely
+regulated under common law. The most common requirements were that it had to
+be open to the general public, that the service be well maintained, and that
+it was restricted to charging only "reasonable" tolls.  
+  
+It is thus unconstitutional to take private property for the use of any
+competitive enterprise (even if it’s run by government). There are almost
+surely also Due Process Clause restrictions to taking property, even for a
+coercive function or a monopoly, when that involves "taking from A to give to
+B" (to paraphrase Sir Edward Coke in the 17th century and Justice Samuel Chase
+in _Calder v. Bull_ ), and to take property such as a house or communications
+device used to exercise a fundamental right, as I describe here. But U.S.
+courts don’t recognize those rights either.  
+  
+Around the time of the ratification of the U.S constitution, state
+constitutions that specified language like the U.S. constitution, and
+generally under common law, forbad takings (compensated or not) for
+non-"public use." There are two somewhat different issues here, since there
+were two different interpretations of what was forbidden as not "public use."
+The first forbad a taking from A to give to B rather than to a government. The
+second (and I believe correct) approach forbad taking for the use of a
+competitive enterprise, i.e. an enterprise that did not under the old common
+law require a special patent-like property right called a "franchise." A
+franchise was required, per Hale, for a natural monopoly which charged a
+"toll." A franchise could also be a privately owned court or police force
+(these were common in England, and there were some private courts in some U.S.
+colonies, but these had largely disappeared in the U.S. by the time of the
+ratification). A franchise was required by common law to be open to the public
+and charge a "reasonable" toll, unlike a competitive enterprise which could
+charge the market rate.  
+  
+On the first interpretation(whether private property could be taken from A and
+given to B), the following claims in early Supreme Court majority opinions are
+a bit exagerated, but generally correct:
+
+> "...a law that takes property from A. and gives it to B: It is against call
+reason and justice, for a people to entrust a Legislature with SUCH powers;
+and, therefore, it cannot be presumed that they have done it. The genius, the
+nature, and the spirit, of our State Governments, amount to a prohibition of
+such acts of legislation." Calder v. Bull, 3 U.S. 386, 388 (1798)
+
+> "We know of no case, in which a legislative act to transfer the property of
+A. to B. without his consent, has ever been held a constitutional exercise of
+legislative power in any state in the union. On the contrary, it has been
+constantly resisted as inconsistent with just principles, by every judicial
+tribunal in which it has been attempted to be enforced.... The counsel for the
+plaintiffs have themselves admitted that they cannot contend for any such
+doctrine." Wilkinson v. Leland, 27 U.S. 627, 658 (1829)
+
+On the second interpretation(whether private property could be taken for a
+competitive enterprise instead of a franchise) the evidence is more concrete,
+but misunderstood, since hardly anybody understands franchise law these days.
+Justice Thomas' dissent in _Kelo_ [with my comments in brackets] gives a good
+overview of the case law at the time:
+
+> States employed the eminent domain power to provide quintessentially public
+goods, such as public roads, toll roads, ferries, canals, railroads, and
+public parks [all of these were, if privately held, franchises under common
+law -- NS]. Though use of the eminent domain power was sparse at the time of
+the founding, many States did have so-called Mill Acts, which authorized the
+owners of grist mills operated by water power to flood upstream lands with the
+payment of compensation to the upstream landowner. Those early grist mills
+“were regu­lated by law and compelled to serve the public for a stipu­lated
+toll and in regular order,” and therefore were actu­ally used by the
+public.They were common carriers— quasi-public entities. [These were toll-
+taking franchises -- NS] These were “public uses” in the fullest sense of the
+word, because the public could legally use and benefit from them equally. See
+Public Use Limi­tations 903 (common-carrier status traditionally afforded to
+“private beneficiaries of a state franchise or another form of state monopoly,
+or to companies that operated inconditions of natural monopoly”).
+
+Thomas cites many state cases where full public access was required, or else
+the taking prohibited. This however is an incomplete distinction: public
+access was merely required of a franchise by the common law, but there were
+other common requirements, such as the "reasonable toll" requirement, and
+these requirements didn't define a franchise. A franchise was defined per Hale
+as a business that its "customers" could not avoid using: either a coercive
+process, as tax farming or operating a private court, or a natural monopoly,
+i.e. an unavoidable service that charged a toll.
+
+> To be sure, some early state legislatures tested the limits of their state-
+law eminent domain power. Some States enacted statutes allowing the taking of
+property for the purpose of building private roads [franchises were privately
+owned, so this is no exception to the rule -- NS]. These statutes were mixed;
+some required the pri­vate landowner to keep the road open to the public, and
+others did not. Later in the 19th century, moreover, the Mill Acts were
+employed to grant rights to private manufacturing plants, in additionto grist
+mills that had common-carrier duties. [citations omitted]
+

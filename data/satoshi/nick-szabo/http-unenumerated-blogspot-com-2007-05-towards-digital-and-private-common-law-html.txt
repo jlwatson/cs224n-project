@@ -1,0 +1,108 @@
+There is a problem in what name to give the topic of this post. Perhaps the
+best name is "digital private law," but this might invoke in the mind of the
+reader laws passed by politicians to regulate private computers, and that is
+practically the opposite of the meaning intended. Instead, our topic is
+digital code that augments or even replaces the functions of traditional
+private law: contracts, property, torts, etc. -- i.e. almost any law that is
+traditionally settled in a private lawsuit rather than by a criminal
+prosecution. Since most of the inspiration so far has come from the English
+legal tradition, it might also be called "digital common law." Or we might
+simply call it "smart law" in parallel with coinages like "smart weapons" and
+"smart contracts." Or "law in a box" or "law on your lap." Mark Miller has
+captured the spirit, with perhaps some utopian exaggeration, with his slogan,
+"computer security is the future of law." Lawrence Lessig has colorfully
+called such digital code "west coast code" (drafted by hackers in Silicon
+Valley and Seattle) in contrast to "east coast code" (drafted by lawyers in
+Washington, D.C.) This short-shrifts the many talented east coast computer
+programmers and west coast lawyers, not to mention all overseas lawyers and
+programmers. But it helps to clarify my topic by noting that it corresponds to
+Lessig's "west coast code."  
+  
+Digital private law is also private law in the sense that contracts, property
+deeds, wills, and so on are private law. In contrast to statutes, regulations,
+and judicial precedents, they are drafted by private persons rather than
+politicians or government bureaucrats. Of course, governments could also draft
+digital code for private use (either voluntary or compulsory), but in the
+absence of a strong need for a trusted third party to enforce the rules --
+which digital security codes can greatly reduce -- there will be much less
+need for this than there is for governments to operate courts, police forces,
+armed forces and the like to enforce traditional law and beat up on plenty of
+innocent people in the process. Digital private law replaces, where
+appropriate, the threat of violence, and both the flexibility and
+corruptibility of human judgment, with the utterly peaceful and predictable --
+but at times naive, adhesive, strict, and harsh -- operation of digital code.  
+  
+Digital private law, smart contracts, and the like are metaphors (using
+traditional legal code as a model for digital code), but they are also much
+more than metaphors -- such code can augment and increasingly, in some cases,
+will come to replace traditional legal code. They take the form of network
+protocols inspired by legal metaphors and implementing some of the functions
+that law has or could serve.  
+  
+Smart contracts allow a new freedom of contract that is no longer possible, if
+it ever was, with traditional law. Secure property titles will allow more
+secure and more fine-grained recording and transfer of property rights, while
+RFIDs are enhancing and proplets will further enhance the protection of those
+rights. In general, digital security protocols, especially advanced
+cryptography, allow radically enhanced or utterly new kinds of security that
+were impossible and unthinkable, and indeed seem quite magical, from the
+perspective of traditional law and paper security. The raw power of computer
+to crunch numbers, combined with artful new ways to draw preferences from
+users and represent them digitally, may also overcome the mental transaction
+cost barrier to very complex terms and very fine-grained transactions, opening
+up a potentially large new economic space now crudely occupied by resource
+allocation algorithms.  
+  
+Besides digital security and user interface design, the theory of digital
+private law involves much economics, not coincidentally of the law-and-
+economics kind -- ideas drawn from this area such as transaction costs, value
+measurement costs, the low-cost avoider, and so on loom large in thinking
+about these protocols.  
+  
+I have thought of and sketched many digital protocols which demonstrate some
+of these new possibilities. Often I have taken protocols from advanced
+cryptography that were naively described in narrow terms (e.g. "digital cash")
+and described them in their full potential generality as substitutes for
+traditional commercial forms (e.g. "digital bearer instruments"). Sometimes I
+have described some utterly new possibilities (e.g. confidential auditing).
+Here are some of the highlights, roughly categorized by the area of law the
+protocols draw inspiration from -- which also contain the functions of law
+they intend to serve:  
+  
+Property law  
+"Secure Property Titles with Owner Authority"  
+"Proplets"  
+  
+Contract Law  
+"The Idea of Smart Contracts"  
+"Smart Contracts Reduce Mental Transaction Costs"  
+"Smart Contracts Expand Credit Opportunities"  
+"From Vending Machines to Smart Contracts"  
+"Scarce Objects and Market Translators"  
+  
+Banking and Payment Systems  
+"Contracts with Bearer"  
+"Bit Gold"  
+"Micropayments Redux"  
+"Combine Tipping with Aggregators"  
+  
+Tort law  
+"Robot Law"  
+  
+Corporate Law  
+"Confidential Auditing"  
+"Patterns of Integrity"  
+  
+I've also written on some general theoretical considerations:  
+"Security and the Burden of Lawsuit" \-- how computer security augments and
+interacts with traditional law  
+"Wet Code and Dry" \-- On the strong distinctions, as well as similarities,
+between traditional legal code and digital code  
+"Things as Authorities" \-- Digital private law will inherent the often
+authoritative nature of technology in human relationships  
+"Multiparty Secure Computation" \-- a very powerful and general protocol that
+can provide radically new privacy functions enabling confidential bid
+auctions, confidential auditing, etc.  
+  
+Even all this is just the tip of the iceberg.
+

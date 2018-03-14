@@ -1,0 +1,202 @@
+Here is a modified excerpt from A Measure of Sacrifice:  
+  
+Mechanical clocks, bell towers, and sandglasses, a combination invented in
+13th century Italy, provided the world’s first fair and fungible measure of
+sacrifice. So many of the things we sacrifice for are not fungible, but we can
+arrange our affairs around the measurement of the sacrifice rather than its
+results. Merchants and workers alike used the new precision of clock time to
+prove, brag, and complain about their sacrifices.  
+  
+In a letter from a fourteenth-century Italian merchant to his wife, Francesco
+di Marco Ganti invokes the new hours tell her of the sacrifices he is making:
+“tonight, in the twenty-third hour, I was called to the college,” and, “I
+don’t have any time, it is the twenty-first hour and I have had nothing to eat
+or drink.” [4] Like many cell phone callers today, he wants to reassure her
+that he is spending the evening working, not wenching.  
+  
+A major application of clocks was to schedule meeting times. Being a city
+official was an expected sacrifice as well as a source of political power. To
+measure the sacrifice, as well as to coordinate more tightly meeting times,
+the modern clocks of the fourteenth century came in handy. Some regulations of
+civic meetings of this period point up that that measuring the sacrifice was
+important, regardless of the variable output of the meetings. In Nuremburg,
+the Commission of Five “had to observe the sworn minimum meeting time of four
+“or” (hours) per day, regardless of whether or not they had a corresponding
+workload. They were also obliged to supervise their own compliance by means of
+a sandglass.[4]  
+As commerce grew, more quantities needed their value to be measured, leading
+to more complications and more opportunities for fraud. Measurement disputes
+become too frequent when measuring too many quantities.  
+  
+Measuring something that actually indicates value is difficult. Measuring
+something that indicates value and immune to spoofing is very difficult. Labor
+markets did not come easily but are the result of a long evolution in how we
+measure value.  
+  
+Most workers in the modern economy earn money based on a time rate -- the
+hour, the day, the week, or the month. In agricultural societies slavery,
+serfdom, and piece rates were more common than time-rate wages. Time measures
+input rather than output. Our most common economic relationship, employment,
+arranges our affairs around the measurement of the sacrifice rather than its
+results.  
+  
+To create anything of value requires some sacrifice. To successfully contract
+we must measure value. Since we can’t, absent a perfect exchange market,
+directly measure the economic value of something, we may be able to estimate
+it indirectly by measuring something else. This something else anchors the
+performance – it gives the performer an incentive to optimize the measured
+value. Which measures are the most appropriate anchors of performance?
+Starting in Europe by the 13th century, that measure was increasingly a
+measure of the sacrifice needed to create the desired economic value.  
+  
+Actual opportunity costs are very hard to measure, but at least for labor we
+have a good proxy measure[14] of the opportunities lost by working -- time.
+This is why paying somebody per hour (or per month while noticing how often a
+worker is around the office) is so very common. It's far cheapr to measure
+time, thus estimating the worker's opportunity costs, than actual value of
+output.  
+  
+Time as a proxy measure for worker value is hardly automatic – labor is not
+value. A bad artist can spend years doodling, or a worker can dig a hole where
+nobody wants a hole. Arbitrary amounts of time could be spent on activities
+that do not have value for anybody except, perhaps, the worker himself. To
+improve the productivity of the time rate contract required two breakthroughs:
+the first, creating the conditions under which sacrifice is a better estimate
+of value than piece rate or other measurement alternatives, and second, the
+ability to measure, with accuracy and integrity, the sacrifice.  
+  
+Three of the main alternatives to time-rate wages are eliminating worker
+choice (i.e., serfdom and slavery), commodity market exchange, and piece
+rates. When eliminating choice, masters and lords imposed high exit costs,
+often in the form of severe punishments for escape, shirking, or embezzlement.
+Serfs were usually required to produce a particular quantity of a good (where
+the good can be measured, as it often can in agriculture) to be expropriated
+by the lord or master. Serfs kept for their personal use (not for legal trade)
+either a percentage or the marginal output, i.e. the output above and beyond
+what they owed, by custom or coercion, to their lord.  
+  
+Where quantity was not a good measure of value, close observation and control
+were kept over the laborer, and the main motivator was harsh punishments for
+failure. High exit costs also provided the lord with a longer-term
+relationship, thus over time the serf or slave might develop a strong
+reputation for trustworthiness with the lord. The undesirability of servitude,
+from the point of view of the laborer at least, is obvious. Serfs and slaves
+faced brutal work conditions, floggings, starvation, very short life spans,
+and the inability to escape no matter how bad conditions got.  
+  
+Piece rates measure directly some attribute of a good or service that is
+important to its value – its quantity, weight, volume, or the like -- and then
+fix a price for it. Guild regulations which fixed prices often amounted to
+creating piece rates. Piece rates seem the ideal alternative for liberating
+workers, but they suffer for two reasons. First, the outputs of labor depend
+not only on effort, skills, etc. (things under control of the employee), but
+things out of control of the employee. The employee wants something like
+insurance against these vagaries of the work environment. The employer, who
+has more wealth and knowledge of market conditions, takes on these risks in
+exchange for profit.  
+  
+In an unregulated commodity market, buyers can reject or negotiate downwards
+the price of poor quality goods. Sellers can negotiate upwards or decline to
+sell. With piece rate contracts, on the other hand, there is a fixed payment
+for a unit of output. Thus second main drawback to piece rates is that they
+motivate the worker to put out more quantity at the expense of quality. This
+can be devastating. The tendency of communist countries to pay piece rates,
+rather than hourly rates, is one reason that, while the Soviet bloc’s quantity
+(and thus the most straightforward measurements of economic growth) was able
+to keep up with the West, quality did not (thus the contrast, for example,
+between the notoriously ugly and unreliable Trabant of East Germany and the
+BMWs, Mercedes, Audi and Volkswagens of West Germany).  
+  
+Thus with the time-rate wage the employee is insured against vagaries of
+production beyond his control, including selling price fluctuations (in the
+case of a market exchange), or variation in the price or availability of
+factors of production (in the case of both market exchange or piece rates).
+The employer takes on these risks, while at the same time through promotion,
+raises, demotions, wage cuts or firing retaining incentives for quality
+employee output.  
+  
+Besides lacking implicit insurance for the employee, another limit to market
+purchase of each worker’s output is that it can be made prohibitively costly
+by relationship-specific investments. These investments occur when workers
+engage in interdependent production -- as the workers learn the equipment or
+adapt to each other. Relationship-specific investments can also occur between
+firms, for example building a cannon foundry next to an iron mine. These
+investments, when combine with the inability to write long-term contracts that
+account for all eventualities, motivate firms to integrate. Dealing with
+unspecified eventualities then becomes the right of the single owner. This
+incentive to integrate is opposed by the diseconomies of scale in a
+bureaucracy, caused by the distribution of knowledge, which market exchange
+handles much better [13]. An in-depth discussion of economic tradeoffs that
+produce observed distributions of firm sizes in a market, i.e. the number of
+workers involved in an employment relationship instead of selling their wares
+directly or working for smaller firms, has been discussed in [11,12]  
+  
+The main alternative to market exchange of output, piece rate, or coerced
+labor (serfdom or slavery) consists of the employers paying by sacrifice -- by
+some measure of the desirable things the employee foregoes to pursue the
+employer’s objectives. An hour spent at work is an hour not spent partying,
+playing with the children, etc. For labor, this “opportunity cost” is most
+easily denominated in time – a day spent working for the employer is a day not
+spent doing things the employee would, if not for the pay, desire to do. [1,9]  
+  
+Time doesn’t specify costs such as effort and danger. These have to be taken
+into account by an employee or his union when evaluating a job offer. Worker
+choice, through the ability to switch jobs at much lower costs than with
+serfdom, allows this crucial quality control to occur.  
+  
+It’s usually hard to specify customer preferences, or quality, in a production
+contract. It’s easy to specify sacrifice, if we can measure it. Time is
+immediately observed; quality is eventually observed. With employment via a
+time-wage, the costly giving up of other opportunities, measured in time, can
+be directly motivated (via daily or hourly wages), while quality is motivated
+in a delayed, discontinuous manner (by firing if employers and/or peers judge
+that quality of the work is too often bad). Third parties, say the guy who
+owned the shop across the street, could observe the workers arriving and
+leaving, and tell when they did so by the time. Common synchronization greatly
+reduced the opportunities for fraud involving that most basic contractual
+promise, the promise of time.  
+  
+Once pay for time is in place, the basic incentives are in place – the
+employee is, verifiably, on the job for a specific portion of the day – so he
+might as well work. He might as well do the work, both quantity and quality,
+that the employer requires. With incentives more closely aligned by the
+calendar and the city bells measuring the opportunity costs of employment, to
+be compensated by the employer, the employer can focus observations on
+verifying the specific quantity and qualities desired, and the employee (to
+gain raises and avoid getting fired) focuses on satisfying them. So with the
+time-wage contract, perfected by northern and western Europeans in the late
+Middle Ages, we have two levels of the protocol in this relationship: (1) the
+employee trades away other opportunities to commit his time to the employer –
+this time is measured and compensated, (2) the employer is motivated, by
+(positively) opportunities for promotions and wage rate hikes and (negatively)
+by the threat of firing, to use that time, otherwise worthless to both
+employer and employee, to achieve the quantity and/or quality goals desired by
+the employer.[1]  
+  
+ **References:**  
+  
+[1] A good discussion of time-wage vs. piece-rate vs. other kinds of
+employment contracts can be found in McMillan, Games, Strategies, and
+Managers, Oxford University Press 1992  
+  
+[4] My main source for clocks and their impact is Dohrn-van Rossum, History of
+the Hour – Clocks and Modern Temporal Orders, University of Chicago Press,
+1996.  
+  
+[9] The original sources for much of the time rate contract discussion is
+Seiler, Eric (1984) “Piece rate vs. Time Rate: The Effect of Incentives on
+Earnings”, Review of Economics and Statistics 66: 363-76 and Ehrenberg, Ronald
+G., editor (1990) “Do Compensation Policies Matter?”, Special Issue of
+Indsturial and Labor Relations Review 43: 3-S-273-S  
+  
+[11] Coase, R.H., The Firm, the Market and the Law, University of Chicago
+Press 1988  
+  
+[12] Williamson, Oliver, The Economic Institutions of Capitalism, Free Press
+1985  
+  
+[13] Hayek, Friedrich, "The Use of Knowledge In Society"  
+  
+[14] The insight that we measure value via proxy measures is due to Yoram
+Barzel.
+

@@ -1,0 +1,66 @@
+I've noticed that there are strong parallels between accounting and two
+important areas of mathematics -- the elementary algebra and the calculus. I
+suspect these reflect the origins of algebra in accounting and origins of some
+of the basic concepts behind the calculus in accounting. Readily available
+references to the history of accounting and mathematics may be too scant to
+prove it, but I think the parallels are quite suggestive.  
+  
+A basic parallel between accounting and algebra is the balance metaphor. The
+origin of this metaphor was almost surely the balance scale, an ancient
+commercial tool for measuring the weight of precious metals and other
+commodities. Standard weights would be added or removed from the scale until
+balance with the commodity to be weighed was achieved.  
+  
+Starting with the "accounting equation," **assets = liabilities + equity,**
+the strategy of accounting as with algebra is to achieve numerical balance by
+filling in missing quantities. As far back as the Sumerians the need for
+balance in accounting was widely understood, but it was expressed either in
+purely verbal or purely ledger form rather than with an algebraic
+notation.(Simarily, logic was expressed in standard language rather than with
+its own abstract symbolic notation until Gottleib Frege in the 19th century).
+Furthermore, examples of algebraic work left by the Sumerians, Babylonians,
+and Indians, and indeed up to the time of Fibonacci and Pacioli, typically
+involved accounting problems.  
+  
+Calculus largely has its origins in the study of change and how a dynamic view
+of the world relates to a static view of the world. Newton called calculus the
+study of "fluxions," or units of change. (This is a more descriptive label for
+the field than "calculus" which simply means "calculating stone" and has been
+used to refer to a wide variety of areas of mathematics and logic). Long
+before Newton, the relationship between the static and the dynamic was
+probably first conceptualized as the relationship between the balance sheet
+and the income statement. The balance sheet, which can be summarized as  
+  
+ **assets = liabilities + equity**  
+  
+is the "integral" of the income statement which can be summarized as  
+  
+ **revenues = expenses + net income**  
+ ****  
+(in other words, the income statement is the "derivative" of the balance
+sheet: the change in the balance sheet over a specific period of time).  
+  
+Earlier civilizations had only mapped large scales of time to a spatial
+visualization in the form of a calendar. Diaries and accounting ledgers
+ordered by time also crudely map time into space. The sundial mapped time into
+space, but in a distorted manner. Medieval Europeans with the invention of the
+mechanical clock and of musical notation including rhythm expanded and
+systematized the mapping of time to a spatial visualization with consistent
+units. William of Occam and other Scholastics visualized time as a spatial
+dimension and other phenomena (including temperature, distance, and moral
+qualities) as orthogonal dimensions to be graphed against time. Occam then
+used methods of Archimedes to calculate absolute quantities from the area
+under such curves, but we awaited Newton and Leibniz, building on the
+analytical geometry of DesCartes, which systematically related algebraic
+equations to spatial curves, to create a systematic calculus. Earlier in
+India, the algebra and much of the differential calculus were also developed
+within or alongside a rich business culture in which bookeeping using "Arabic"
+numerals (also invented in Inda) was also widespread. I conclude that the
+conceptual apparatus behind much traditional mathematics originated in
+commercial accounting techniques.  
+  
+A big exception to this is geometry. Geometry developed primarily from the
+need to define property rights in the largest form of wealth from the
+neolithic until quite recently, namely farmland, but that is another blog post
+for another day.
+

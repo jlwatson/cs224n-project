@@ -1,0 +1,145 @@
+Alex Tabarrok writes another of his excellent (but far too infrequent) posts,
+this time about the problem of global warming and the relative merits of delay
+versus immediate action:  
+  
+
+> Suppose...that we are uncertain about which environment we are in but the
+_uncertainty will resolve over time_. In this case, there is a strong argument
+for delay. The argument comes from option pricing theory applied to real
+options. A potential decision is like an option, making the decision is like
+exercising the option. Uncertainty raises the value of any option which means
+that the more uncertainty the more we should hold on to the option, i.e. not
+exercise or delay our decision.
+
+I agree wholeheartedly, except to stress that the typical problem is not the
+binary problem of full delay vs. immediate full action, but one of _how much_
+and what sorts of things to do in this decade versus future decades. In that
+sense, for global warming it seems to me none too early to set up political
+agreements and markets we will need to incentivize greenhouse gas reductions.
+Not to immediately and radically cut down emissions of greenhouse gases -- far
+from it -- but to learn about, experiment with, and debug the institutions we
+will need to reduce greenhouse emissions without creating even greater
+political and economic threats. Once these are debugged, but not until then,
+cutting greenhouse emissions will have a far lower cost than if we panic and
+soon start naively building large international bureaucracies.  
+  
+We already know how to use markets to reduce pollution with minimal cost to
+industry (and minimal economic impact generally). We now need to learn how to
+apply these lessons on and international level while avoiding the very real
+threat of the corruption and catastrophic decay of essential industries that
+comes from establishing new governmental institutions to radically alter their
+behavior.  
+  
+There are tons of theories about politics and economics, practically all of
+them highly oversimplified nonsense. No single person knows more than a
+miniscule fraction of the knowledge needed to solve global warming. Political
+debate over technological solutions will get us nowhere. We won't learn much
+more about creating incentives to reduce greenhouse gases except by creating
+them and seeing how they work. As with any social experiment, we should start
+small and with what we already know works well in analogous contexts -- i.e.
+what we already know about getting the biggest pollution reductions at the
+smallest costs.  
+  
+The costs of the markets -- especially the target auction (and expected
+exchange) prices of carbon dioxide pollution units -- should thus start out
+small. In that sense, the European approach under the Kyoto Protocol (the
+European Union Emission Trading Scheme ) provides a good model even though it
+has been criticized for costing industry almost nothing so far, and
+correspondingly producing little carbon dioxide reduction so far. So what? We
+have to learn to crawl before we can learn to walk. The goal, certain fanatic
+"greens" notwithstanding, is to figure out how to reduce carbon dioxide
+emissions, not to punish industry or return to pre-industrial economies. Once
+people and organizations get used to a simple set of incentives, they can be
+tightened in the future in response to the actual course of global warming, in
+response to what we learn about global warming, and above all in what we learn
+from our responses to global warming.  
+  
+We already know markets -- and perhaps also carefully designed carbon taxes,
+but as opposed to micro-regulation and getting the law involved in choosing
+particular technological solutions -- markets can radically reduce specific
+pollutants if they specific mitigation decisions are left to market
+participants rather than dictated by government. And we might learn certain
+mitigation strategies (perhaps this one, for example) that turn out to be
+superior to radical carbon dioxide reductions.  
+  
+  
+Let's set up and debug the basics now -- and nothing is more basic to this
+problem than international forums, agreements, and exchange(s) that include
+_all_ countries that will be major sources of greenhouse gases over the next
+century. These institutions must be designed (and this won't be easy!) for
+minimal transaction costs -- in particular for minimal rent-seeking and
+minimal corruption. Until we've set up and debugged such a system, it could be
+far more catastrophic than the projected changes in the weather to impose
+large costs and create large bureacracies funded by premature "solutions" to
+the global warming problem.  
+  
+As the accompanying illustrations show, a domestic United States programming
+that left all decisions beyond the most basic and general of market rules to
+the market participants -- and thus left the specific decisions to those with
+the most knowledge, here the electric utility companies, and minimized the
+threat of the rise of a corrupt bureaucracy -- was able to radically reduce
+sulfur dioxide and nitrous oxides (acid rain causing) pollution. So much so
+that few remember that acid rain in the 1970s and 80s was a scare almost as
+big global warming is today. Scientists plausibly argued that our forests were
+in imminent danger of demise. By experimenting with, learning about, and then
+exploiting the right institutions, that major pollution threat was, after
+methodically working through the initial learning curve, rapidly mitigated.  
+  
+Global warming is an even bigger challenge than acid rain -- especially its
+international nature which demands the participation of all major countries --
+but we now have the acid rain experience and others to learn from. We don't
+have to start from scratch and we don't need to implement a crash program. We
+can start with what worked quite well in the similar case of acid rain and
+experiment until we have figured out in reality -- not merely in shallow
+political rhetoric -- what will work well for the mitigation of global
+warming.  
+  
+Furthermore, it probably will pay to not impose the big costs until we've
+learned far more about the scientific nature of the problems (note the plural)
+and benefits (yes, there are also benefits, and also plural) of the major
+greenhouse gases, and until the various industries have learned how to
+efficiently address the wide variety and vast number of unique problems for
+industry that the general task of reducing carbon dioxide output raises. It's
+important to note, however, that the scientific uncertainty, while still
+substantial, is nevertheless far smaller than the uncertainties of political
+and economic institutions and their costs.  
+  
+To put it succinctly -- we should not impose costs faster than industry can
+adapt to them, and we should not develop international institutions faster
+than we can debug them: otherwise the "solutions" could be far worse than the
+disease.  
+  
+  
+Another application of Tabarrok's theory: "the" space program. (Just the fact
+that people use "the" to refer to what are, or at least should be, a wide
+variety of efforts, as in almost any other general area of human endeavor,
+should give us the first big hint that something is very wrong with "it"). For
+global warming we may be letting our fears outstrip reality; in "the" space
+program we have let our hopes outstrip reality. Much of what NASA has done
+over its nearly fifty year history, for example, would have been far more
+effective and self-sustaining if done several decades later, in a very
+different way, on a smaller scale, on a much lower budget, and for practical
+reasons, such as commercial or military reasons, rather than as ephemeral
+political fancies. The best space development strategy is often to just to
+wait and learn -- wait until we've developed better technology and wait until
+we've learned more about what's available up there. Our children will be able
+to do it far more effectively than we. I understand that such waiting is
+excrutiatingly painful to die-hard space fans like myself, but all the more
+reason to beware of deluding ourselves into acting too soon.  
+  
+In both the global warming and space program activist camps you hear a lot of
+rot about how "all we need" is "the political will." Utter nonsense. Mostly
+what we need to do is wait and experiment and learn. When the time is ripe the
+will is straightforward.  
+  
+_A million-yuan giraffe, brought back to China from East Africa by a Zheng He
+flotilla in 1414 (click to enlarge). Like NASA's billion-dollar moon rocks,
+these were not the most cost-efficient scientific acquisitions, but the
+Emperor's ships (and NASA's rockets) were bigger and grander than anybody
+else's! In the same year as the entry of this giraffe into China, on the other
+side of the planet, the Portuguese using a far humbler but more practical
+fleet took the strategic choke-point of Ceuta from the Muslims.Who would you
+guess conquered the world's sea trade routes soon thereafter -- tiny Portugal
+with their tiny ships and practical goals, or vast China with their vast ocean
+liners engaging in endeavours of glory?_
+

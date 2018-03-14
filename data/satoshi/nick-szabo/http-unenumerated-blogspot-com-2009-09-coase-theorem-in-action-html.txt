@@ -1,0 +1,117 @@
+  
+  
+A nice illustration of the major flaw I have described in the Coase Theorem.
+Much of what is valuable in the above link I actually wrote in the comments
+and will now foreground with some minor edits:  
+
+> A music store is next door to a doctor's office. The music store would
+prefer (if the office of a rich doctor who wants quiet for his patients did
+not exist next door) to let its customers test its electric guitars at volume
+VM1 > 0. The doctor prefers it to be quieter (VD < VM1). Coase theory assumes
+that the only possible choices are within the range {VM1, VD}, i.e. any volume
+of electric guitar testing in between or including these two preferences. In
+the absence of transaction costs and given only this range, one can indeed
+conclude that the music store and the doctor will bargain to an efficient
+outcome. But these aren't the only choices. The music store can, at additional
+cost to itself C, turn up the volume nobs on its amplifiers and play the music
+at volume VM2 > VM1. If the doctor is willing to pay the music store P1 to
+change the volume from VM1 to VD, and P2 > P1 + C to turn the volume down from
+VM2 to VD, the music store has an incentive to play the music at volume VM2
+instead of VM1, or to threaten same, in order to extract for itself a greater
+benefit from the situation.  
+>  
+> In other words, the same physical effect that produced the externality gives
+rise to an opportunity and incentive to play a negative-sum game. Here it
+changes the music store's prefered volume in the absence of a rich doctor next
+door from VM1, to VM2 > VM1, due to the opportunity to extort extra payments
+from the doctor by creating an even less bearable din, for which the doctor is
+willing to pay even more to avoid. The music store is willing to incur an
+extra cost C to itself in order to extract the greater payment P2 from the
+doctor. For the overall game the payment P2 is a wash and C makes it negative-
+sum. (In the music store example, cost C comes from the music store chasing
+away some of its own customers, albeit at a slower rate than it chases away
+the doctor's customers, by testing its guitars more noisly than it would
+prefer in the absence of the doctor).  
+>  
+> If, as in reality, there are transaction costs causing bargains to sometimes
+not be reached, the outcome is even worse, as noise VM2 is costlier, perhaps
+far more costlier, to the doctor's practice than VM1: such outcomes are often
+far worse outcome under transaction costs than the range of possible outcomes
+that Coaseians contemplate.  
+>  
+> Of course, more generally in the absence of proper prior legal allocations
+of rights the doctor and music store could threaten each other in other ways:
+the doctor could threaten to poison the guitar frets, the music store could
+call in the mob on the doctor, etc.  
+>  
+> (Furthermore, even with tort law preventing these other negative-sum games
+the music store has an incentive to falsely "reveal" preference VM2 instead of
+VM1 to the doctor and to the judge -- a common problem that good tort law
+usually, but hardly with perfection, tackles).  
+>  
+> The example of the music store and its amplifier volume shows that the
+externality itself contains potential or actual coercion -- the same physical
+effect that causes the externality often makes negative-sum games possible,
+and in the absence of any prior legal limits on the externality, opportunities
+and incentives for coercive negative-sum games are inherent in the externality
+-- so that analyses of such externalities with the Coase Theorem, which
+assumes such games don't exist, will often lead to misleading or false
+conclusions.  
+>  
+> The game being played here by the music store is negative-sum for the same
+reason a tax is, firstly because the music store's coercion distorts the
+behavior of the doctor and his patients. Assuming the doctor is helpless to
+stop the noise without making the payoff (e.g. we artificially assume he can't
+order a mob hit on the music store, or poison its customers, or emit any other
+such "extreme" externality to avenge or deter the music store's excess
+externality) he will go golfing more, and see fewer patients, if he is paying
+P2 to the store instead of P1. Fewer patients will be healed, a net loss of
+welfare. Since we assume the music store is rational, it will demand only the
+Laffer-maximum amount of extortion, but Laffer-maximum taxes still have plenty
+of distoritve effects that produce inefficiencies compared to the no-taxation
+case. Secondly, the behavior of the music store is also distorted because it
+has excess profits to spend. It will invest its extra money in opening new
+music stores and concert halls next to other doctor's offices, nursing homes,
+and similar because that is a lucrative source of profit, and so other
+activities that would prefer quiet will be distorted in turn. It is often
+unreasonable to assume that Coaseian payees are spending their extra money
+efficiently. Interestingly, Gary Becker assumed the Coaseian payor's behavior
+was not distorted and that the Coaseian payee was spending its extra profits
+efficiently, and used this Coaseian reasoning to argue that governments
+themselves are efficient outcomes of Coaseian bargaining. Becker's argument is
+wrong for the same reason that [anarcho-capitalist David] Friedman's
+[Coaseian] argument is wrong for legal protection agencies: it doesn't account
+for the economic distortions caused by coercion.  
+>  
+> To see where these negative-sum games lead, let's take the case of roving
+loudspeakers. Pickup trucks drive through the city, parking in front of every
+business in turn and demanding large payments to take their noise elsewhere.
+The optimal extortion for the extortors in this case is nearly 100% of all
+business wealth in the city (again assuming the victims are defenseless),
+because if extortor A doesn't extort any remaining wealth extortor B will be
+happy to come in and take it. The economy is so distorted that practically
+nothing gets produced or distributed and the city's economy collapses. This is
+the "roving bandit" case studied by Mancur Olson. Where two stores are next to
+each other and neither can move constitute "stationary bandits", as do gangs
+or governments with "monopolies of coercion" over fixed territories. As the
+roving loudspeakers case illustrates, rational stationary bandits collect a
+far lower percent of their victims' profits in taxes than do roving bandits.
+(But stationary bandits with the much lower rate than 100% end up collecting a
+far higher absolute amount -- recall the Laffer curve) . If on the other hand
+we assume the victims are not defenseless, we have negative-sum games like
+hawk/dove, negative tit-for-tat, etc. which again are paradigmatically very
+different from voluntary Coaseian bargains.  
+>  
+> We can measure the effectiveness of an excess (or coercive) externality for
+extracting super-Coasiean payoffs by how great a harm the externality can
+produce for the least cost to the emitter. The ubiquity of technology that is
+very effective in producing the greatest harm for the least cost, i.e.
+weapons, in our world should be a very good clue that our world is not
+Coaseian. Music volume, spark emission, and so on beyond the "preferred" level
+Coaseians falsely assume to be maximal are logically weapons. Their harm/cost
+ratio is lower than guns, tanks, bombers, missiles, flamethrowers, herbicides,
+and so on, but they have an advantage in being physically hard to distinguish
+from merely Coaseian externalities, which would come in handy in a world where
+judges and other lawmakers actually based law on the Coase theorem (the good
+news is that they mostly don't).
+

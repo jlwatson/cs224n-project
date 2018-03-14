@@ -1,0 +1,17 @@
+In "The Playdough Protocols" I described how ancient Sumerians used tamper
+evidence both in the form of physical seals and in the form of tamper evident
+numbers, in particular checksums. These are forerunners both of modern plastic
+sealing (used for evidence bags, in banking to store and transport cash and
+other valuables, to protect food from tampering, and so on) and modern
+cryptographic hash functions, whereby one can detect whether digital content
+has been altered.  
+  
+Daniel Nagy has uncovered a more particular connection between ancient
+auditing techniques and modern cryptography. He writes how Chinese merchants,
+at least as far back as the 3rd century A.D., used remainders of division by
+prime numbers instead of checksums to ensure that nothing had been stolen from
+storage or cargo. The security of the Chinese system was based on what we
+still call the Chinese Remainder Theorem. The theorem is also used in some
+modern cryptographic systems based on the difficulty of factoring, and in
+particular the RSA scheme for decryption and digital signatures.
+

@@ -1,0 +1,95 @@
+When we hear the word "authority" we often think of people who have set
+themselves up in positions of power and on whom we have become dependent. But
+there is another kind of authority, often more reliable and trustworthy, that
+can be provided by things. These are physical standards, security devices,
+automata, and other objects by which we coordinate our interactions with
+fellow humans, especially with strangers who might not otherwise be
+trustworthy. These technologies are crucial to our modern civilization and its
+ability to make dealings with strangers more secure and reliable.  
+  
+Authoritative automata often come in the form of what (on a computer) Mark
+Miller has dubbed an admonition system. An admonition system reminds a person
+of a plan or of a legal or ethical obligation. A clock, for example, can
+remind a person of a scheduled meeting, and a cash register communicates an
+obligation to pay.  
+  
+With some extra security a device may also provide a strong affordance that
+requires the person to act purposefully to use it or to avoid using it, and
+may also gather evidence of such use or avoidance, as with tamper evidence. A
+locked door, for example, reminds a person about whether they have consent to
+enter, makes accidental entry effectively impossible, and often requires those
+who enter anyway to leave behind evidence of lock picking or forcible entry.  
+  
+Some technologies create standards that we all come to follow, as in standard
+weights and measures. Old unforgeably costly standards, such as those of
+shells used in hunter-gatherer and Neolithic cultures and the gold standard
+used up to modern times, enabled the emergence of money to replace barter and
+other costly and inconvenient in-kind transactions. Physical standards provide
+objective, verifiable, and repeatable interactions with our physical
+environment and with each other.  
+  
+When new kinds of authoritative automata are proposed, the robotic response of
+Hello Kitty people is that they are inflexible and impersonal and thus not to
+be trusted. The Roman playwright Plautus made fun of early complainer of this
+kind, a bum objecting to one of the earliest authoritative devices, the
+sundial:  
+
+> The gods confound the man who first found out  
+> How to distinguish the hours. Confound him too,  
+> Who in this place set up a sundial,  
+> To cut and hack my days so wretchedly  
+> Into small pieces! When I was a boy,  
+> My belly was my sundial -- only surer,  
+> Truer, and more exact than any of them.  
+> This dial told me when 'twas the proper time  
+> To go to dinner, when I ought to eat;  
+> But nowadays, why even when I have,  
+> I can't fall to unless the sun gives leave.  
+> The town's so full of these confounded dials!
+
+But history teaches that it is the many people who act strategically against
+strangers who are not to be trusted. It is human preferences, not machines,
+that are unpredictable and incomparable, as well they should be. For
+coordinating our interactions with strangers, impartial automata are often
+crucial.  
+To what extent will computer algorithms come to serve as authorities? We've
+already seen one algorithm that has been in use for centuries: the adding
+algorithm in adding machines and cash registers. Some other authoritative
+algorithms have become crucial parts of the following:  
+  
+(1) All the various protocols network applications use to talk to each other,
+such the web browser protocol you are probably using right now,  
+  
+(2) The system that distributes domain names (the name of a web site found in
+an URL) and translate them to Internet protocol (IP) addresses -- albeit, not
+the ability to register domain names in the first place, which is still
+largely manual,  
+  
+(3) Ranking algorithms such as Google page rank (for relevance based on a
+particular text search) and popularity ranking algorithms such as those used
+by Digg, Reddit, and the like,  
+  
+(4) Payment systems, such as credit card processing and PayPal,  
+  
+(5) Time distribution networks and protocols,  
+  
+(6) The Global Positioning System (GPS) for determining location based on the
+time it takes radio signals to travel from a orbiting satellites, and  
+  
+(7) A wide variety of other algorithms that many of us rely on to coordinate
+our activities.  
+  
+Algorithms give us the potential of moving beyond the weak and reactive
+security of most physical devices to strong and often preventative security.
+Technologies such as digital signatures and mulitparty private computation may
+be used to implement things like unalterable audit trails, smart contracts,
+secure and owner-controlled property title registries, and so on. Bit gold, or
+property titles to unforgeably costly bits, might be possible. These automata
+will rely more on distribution and protocol security and less on trusted third
+parties than traditional authorities. There is a strong argument to be made
+that algorithmic authorities should be open source.  
+  
+We've just scratched the surface of what secure authorities we can establish
+over computer networks. Such authorities will make it far easier for 6 billion
+plus strangers to interact with each other securely and reliably.
+

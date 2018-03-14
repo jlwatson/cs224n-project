@@ -1,0 +1,33 @@
+  
+  
+Research In Motion, Ltd. of Canada, the maker of the BlackBerry, has settled
+with NTP over its patent lawsuit for $612.5 million. Hopefully unlike the
+previous settlement this one will stick so that Americans can use our
+BlackBerries clear of these clouds.  
+  
+There were many interesting issues in this case, including cross-border
+infringement. Two other interesting parts of this case were the court's
+refusal to order an injunction and the U.S. Patent and Trademark Office
+(PTO)'s re-examination of NTP's patents. Any settlement would almost surely
+have been far higher if the injunction had gone through and if the PTO had not
+started rejecting NTP's patent claims. The importance of the "CrackBerry" to a
+wide variety of business and government operations could have worked greatly
+in NTP's favor, since the cost of shutting down BlackBerries in the United
+States could have cost RIM billions, but it also helped convince many
+politicians, who pressured the USPTO and perhaps the judge, that there was no
+way to shut down the network without disrupting some emergency services in the
+U.S.  
+  
+It will be interesting if we learn to what extent RIM's stated ability to
+quickly replace its software to avoid NTP's patents, in the event that the
+court did order a shutdown of the United States part of the network, was
+reality or a bluff. This was again a double-edged argument as on the one hand
+RIM hoped to convince NTP an injunction would not cost it billions, but on the
+other hand it might have convinced the judge that a shutdown would not cause
+the feared disruptions.  
+  
+The strategic landscape regarding this settlement was as a result of all these
+factors, and more, quite interesting. As I am fascinated by civil procedure
+and settlement strategy, I will probably be posting more about the strategy in
+this case in the near future.
+

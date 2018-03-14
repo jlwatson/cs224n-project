@@ -1,0 +1,67 @@
+
+
+#### Beyond Oil
+
+The first installment of this series looked at the most highly developed
+offshore extraction industry, offshore oil. A wide variety of minerals besides
+oil are extracted on land. As technology improves, and as commodity prices
+remain high, more minerals are being extracted from beneath the sea. The first
+major offshore mineral beyond oil, starting in the mid 1990s, was diamond.
+More recently, there has been substantial exploration, research, and
+investment towards the development of seafloor massive sulfide (SMS) deposits,
+which include gold, copper, and several other valuable metals in high
+concentrations. Today we look at mining diamonds from the sea.  
+
+#### Diamond
+
+ _De Beers' mining ship for their first South African marine diamond mine_
+
+The first major area after oil was opened up by remotely operated vehicles
+(ROVs) in the 1990s -- marine diamond mining. The current center of this
+activity is Namibia, with offshore reserves estimated at more than 1.5 billion
+carats. The companies mining or planning to mine the Namibian sea floor with
+ROVs include Nambed (a partnership between the government and DeBeers, and the
+largest Namibian diamond mining company), Namco (which has been mining an
+estimated 3 million carats since discovering its subsea field in 1996),
+Diamond Fields Intl. (which expects to mine 40,000 carats a year from the sea
+floor), and Afri-Can (another big concession holder which is currently
+exploring its concessions and hopes to ramp up to large-scale undersea
+operations). Afri-Can has been operating a ship and crawler (ROV) that vacuums
+up 50 tons per hour gravel from a sea floor 90 to 120 meters below the surface
+and process the gravel for the diamonds. They found 7.2 carats of diamond per
+100 cubic meters of gravel, which means the field is probably viable and
+further sampling is in order.  
+  
+DeBeers is also investing in a diamond mine in the seas off South Africa. A
+retrofitted ship will be used featuring a gravel processing planet capable of
+sorting diamonds from 250 tons of gravel per hour. It is hoped the ship will
+produce 240,000 carats a year when fully operational.  
+  
+The ship will engage in  
+  
+
+> horizontal mining, utilising an underwater vehicle mounted on twin
+Caterpillar tracks and equipped with an anterior suction system...The
+crawler's suction systems are equipped with water jets to loosen seabed
+sediments and sorting bars to filter out oversize boulders. The crawler is
+fitted with highly accurate acoustic seabed navigation and imaging systems. On
+board the vessel will be a treatment plant consisting of a primary screening
+and dewatering plant, a comminution mill sector followed by a dense media
+separation plant and finally a diamond recovery plant.
+
+In other words, a ROV will vacuum diamond-rich gravel off the sea floor,
+making a gravel slurry which is then piped to the ship, where it is then
+sifted for the diamonds. This is similar to the idea of pumping oil from the
+sea floor onto a FPSO \-- a ship which sits over the wells and processes the
+oil, separates out the water, stores it, and offloads it onto visting oil
+tankers. However with marine diamond mining, instead of a fixed subsea tree
+capping and valving a pressurized oil field, a mobile ROV vacuums up a gravel
+slurry to be pumped through hoses to the ship.  
+  
+By contrast to this horizontal marine mining, vertical mining "uses a 6 to 7
+meter diameter drill head to cut into the seabed and suck up the diamond
+bearing material from the sea bed."  
+  
+Coming soon: some new startup companies plan to mine extinct black smokers for
+copper, gold, and other valuable metals.
+

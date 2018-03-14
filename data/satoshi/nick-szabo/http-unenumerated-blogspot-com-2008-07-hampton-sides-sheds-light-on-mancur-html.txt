@@ -1,0 +1,137 @@
+Hampton Sides' book _Blood and Thunder_ is a detailed and colorful account of
+the Western frontier in the United States around the mid-19th century, mostly
+from the Mexican War to the Civil War. It is half biography of the trapper,
+guide, and soldier Kit Carson, who participated in a wide variety of
+interesting and important events, and half general history, mostly of what is
+now the Southwestern U.S. and much of that in New Mexico, where Navajo,
+Apache, Pueblo, Mexicans, and Americans collided. There is also some coverage
+of the prior history and prehistory of the Mexicans and "Indian" (aboriginal
+American) tribes in the area. Sides seems to have no theoretical axe to grind,
+and indeed doesn't try to explain events in terms of political or economic
+theories, but rather simply relates a large number of incidents in unabashed
+detail, letting readers draw whatever theories, if any, the reader might wish
+to draw. Nevertheless Sides' account of the old U.S. frontier does shed quite
+a bit of light on a number of theoretical topics I have discussed here.  
+  
+Most of the book involves interactions between Indian tribes, often nomadic,
+and agricultural-based Mexican and Anglo-Saxon cultures. The Navajo, for
+example, were nomadic herders that also profited from stealing, usually
+livestock, from nearby Pueblo, Mexican, and later United States ranches. In
+his account of prehistory Sides relates how, a few hundred years before
+Columbus, the spectacular pueblos (apartment buildings) of the Anasazi farm-
+based civilization in the Chaco Canyon were abandoned just as the Navajo were
+migrating into Anasazi territory from the north. Sides invokes as the main
+reason the popular ecological theory: that the Anasazi declined due to
+depleting nearby resources such as soils and forests, and suggests the Navajo
+as a contributing reason.  
+  
+I think this gets it backwards. The Navajo entry at the same time the
+Anasazi's pueblos were abandoned is no coincidence, it is the main cause.
+Faced by a militarily superior group of roving bandits, the Anasazi's
+agricultural property was no longer secure. The Anasazi, ruled by stationary
+bandits, were conquered by the Navajo, nomadic herders and hunters. Further
+evidence that Mancur Olson's bandit theory, rather than ecological theory,
+explains the abandonment of their civilization in the Chaco Canyon is that the
+Anasazi culture didn't disappear, it declined and moved. Their descendants are
+the Pueblo Indians, and they dispersed to build a pueblos at the fringes of
+the Navajo territory. ("Anasazi", incidentally, is a Navajo term meaning
+"ancestors of our enemies"). Accelerated depletion of resources is a symptom
+of insecure property rights: where property is insecure people act (with
+respect to natural resources rather than with respect to fellow humans) as
+roving bandits, whereas secure property owners extract their resources like
+stationary bandits, i.e. at a much lower and far more sustainable rate.  
+  
+Per Olson the Navajo, being roving bandits (with respect to both people and
+fixed resources) would have had a far higher Laffer maximum extortion rate and
+thus were not able to accumulate wealth to support a level of civilization
+nearly as high as the Anasazi under stationary bandits had supported. The
+Pueblo Indians and later the Mexicans who bordered the Navajos and other
+roving bandit cultures were able to support agriculture, but were far poorer
+than other most other fully agricultural regions of the time due to the costs
+of Navajo and Apache raids. The fall of the Anasazi was hardly the first time
+roving bandits had conquered stationary bandits causing a massive decline in
+wealth and civilization: it is a common pattern throughout history.  
+  
+(Incidentally, the Laffer maximum for banditry from a sedentary neighbor,
+where there are a few but not many competing bandits, is probably somewhere in
+between the maxima for fully roving and fully stationary bandits: Sides
+recounts how the Navajo would not steal _every_ animal from their Pueblo or
+Mexican neighbors during raids, but made sure to leave them enough breeding
+stock to rebuild their herds).  
+  
+There are a large number of people who, following David Friedman, use the
+Coase Theorem as if it applied to the coercive bargaining that occurs in an
+anarchy. Sides' relentless accounts of attacks and reprisals put a lie to this
+Coaseian analysis of anarchy. The Navajo came as close, perhaps, to anarchy
+has any recorded culture has ever come. They had, for example, no sovereign
+leaders with which to make binding treaties. When American generals tried to
+make treaties with individuals they thought were Navajo chiefs, they would
+find that said "chiefs" could not actually enforce treaty terms, at least not
+beyond their own small band. Thus promises, for example, by Navajo "chiefs" to
+stop animal-stealing raids turned out to be unenforceable, because these
+"chiefs" could not actually punish young men in the many other Navajo bands
+for their raiding. (Even with sovereign governments there is still a tension
+between limiting the scope of sovereign power, e.g. by a doctrine of
+enumerated powers or by federalism, and giving the federal government complete
+"freedom of treaty", i.e. the ability to enter treaties on any subject, or at
+least in suppression of any kind of coercion, that they can actually enforce
+against their citizens and residents).  
+  
+Coercion in all the forms one can imagine, and many that one would rather not
+try to imagine, was endemic to life among the native American tribes and to
+relations between those tribes and encroaching civilizations of the Mexicans
+and later Americans. Raids involving theft (especially of livestock), looting,
+kidnapping, rape, murder, war, massacre, torture, extortion, mutilation of the
+living and the dead, and many other, shall we say, non-Coaseian interactions
+were a normal part of the external relationships between the Indian tribes and
+between the encroaching civilizations and those tribes. "Counting coup", that
+is keeping track of wrongs that needed to be avenged, was standard among the
+Indian cultures and became standard among people like Kit Carson who dealt
+with them. Another interesting phenomenon is that the tit-for-tat cycle of
+violence between tribes was often based on group blame: rather than solving
+the (usually insurmountable) problem of identifying and punishing the
+particular perpetrators, missions of vengeance would usually target relatives,
+fellow tribe members, or even broader groups that happened to be convenient.
+Sometimes Indians aggrieved by a white attack would even take revenge on
+whites generally, for example the next group of white emigrants to come down
+the Santa Fe Trail, and this far too often happened in the reverse direction
+as well. Sometimes individual blame morphed into group blame when a tribe to
+which an alleged perpetrator was thought to belong failed to arrest and
+surrender the accused. This circumstance was especially used by American
+armies to justify invasion, massacre, and ethnic cleansing of tribes that
+refused to surrender or punish (often because they had no sovereign power to
+capture or punish) their thieves, kidnappers, and murderers. The role such
+group blame plays in contemporary politics is left as an exercise for the
+reader.  
+  
+Mancur Olson's explanations fit Sides' detailed accounts of life in an anarchy
+far better than the the Coaseians'. The trajectories of the Anasazi, Navajo,
+Pueblo, Mexicans, and Americans are classic cases of interactions between
+stationary and roving bandits. The Laffer maximum extortion of the stationary
+bandit is far lower than the combined Laffer maxima of the roving bandits.
+Most kinds of farms can operate economically only if those stealing from the
+farm are stationary rather than roving.  
+  
+Finally, Sides gives a sad account of the utopian social engineering that led
+to America's Indian reservation system. Bosque Redondo (the Round Forest) is a
+tragic example of this: an idealistic general of New England upbringing, a
+forerunner is spirit at least of the Bellamies, rounded up the Navajos,
+marched them off to a promising-looking but empty stretch of the Pecos River
+and tried to teach them sedentary agriculture. The general's overall reason
+for for conducting this experiment was not inaccurate: in Olson's terms, the
+Navajo would give up their roving banditry only if converted into (or put
+under the thumb of) stationary bandits. But just as the Navajos did not learn
+to live like Anasazi, but instead displaced the Anasazi culture with their
+own, so they could not readily learn to live like Mexicans or Americans, or
+even like Pueblo Indians. For example, for religious reasons they stubbornly
+refused to live in pueblos (apartment buildings) and these had to be
+abandoned. Worse, the project had most of the trappings of utopia we would
+later see in the Soviet Union: forced concentration and mass movement of
+peoples, communal farms, and military-style central planning. The communal
+property and military command structure under which the Navajo were subjected
+utterly failed to replicate the property rights and other crucial aspects of
+legal systems under which Mexicans and Americans had successfully conducted
+their agriculture. The Bosque Redondo experiment was a miserable and deadly
+failure. Stationary bandits can also destroy rather than allow the building of
+civilization if their policies are sufficiently pathological.
+

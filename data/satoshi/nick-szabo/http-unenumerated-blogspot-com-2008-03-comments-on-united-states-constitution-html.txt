@@ -1,0 +1,185 @@
+This is the first of a series of comments on the United States Constitution,
+with some riffs thrown in about U.S. history generally.  
+  
+We start on the eve of the American Revolution. England had colonized a wide
+variety of places on the globe under three general models: proprietary,
+corporate, and royal. All three occured on the East Coast of North America in
+the original thirteen colonies that became the United States.  
+  
+Royal colonies were technically part of the royal administrative hierarchy,
+but they were the least common type. The most common type was the corporate.
+Corporations ranged from Church organizations (like abbeys) to municipalities
+("boroughs") to, most important for our purposes, the colonial corporations.
+The East India Company, one of the first joint stock companies, is the most
+famous and powerful example of a colonial corporation, but most other English
+colonies and a number of the American colonies were also granted in this form.
+Proprietary colonies were modelled after Counties Palatine: counties that
+were, except for a handful of narrow "extraordinary writs", immune from the
+jurisdiction of King and Parliament.  
+  
+Unlike modern economic corporations, both corporate and proprietary colonies
+were granted political property rights. These are rights to exercise coercive
+police powers: to collect taxes, to make and enforce certain kinds of laws.
+Traditional political property rights, called franchises, were narrow grants
+to exercise very particular kinds of police powers. The grants to colonial
+corporations were often much broader and vaguer, granting rights of
+"government" or "internal police" while reserving "the rights of Englishmen"
+to colonists. Furthermore, the distance of their operation from the Crown and
+Parliament, and absentee colonial governors often lent colonists a free hand
+in governing, which they tended to do through legislatures elected by owners
+of real property. Although under long English legal precedent corporate
+charters, and especially charterted political powers, are to be interpreted
+narrowly, the broad wording of many of the colonial charters made this hard to
+do.  
+  
+Some colonies (such as Virginia and the Carolinas) lost their corporate or
+proprietary status through _quo warranto_ forfeiture proceedings and became
+royal colonies. Others through _quo warranto_ had their charters reissued in
+new forms. In both cases, governors usually came to be appointed by the Crown
+and local legislatures gained broad powers of lawmaking on the subject of the
+"internal police." But, as long as the charters were considered political
+property rights, no entity was sovereign -- neither the Crown, nor Parliament,
+nor the legislatures could exercise political power at will, but had to
+respect the political property rights; i.e. had to operate according to the
+colonial charter.  
+  
+The Romanist worldview is an ancient and pernicious one, and its reassertion
+in the 18th century in English politics led among many other things to the
+American Revolution. The Romanist view dates back to the Roman Empire, and
+came to the modern world via the Code of the Empereror Justinian. This Code
+was revived in the West by the new law schools (later universities) of the
+12th century and became the standard law taught at Continental medieval
+universities. England's universities, by contrast, did not teach the standard
+English law (common law) until the middle of the 18th century. Instead, the
+standard English legal education occurred at the Inns of Court, and taught a
+legal and political structure radically different to Justinian's, one
+unintelligible to the typical university legal scholar or political
+philosopher. Even though real law by that time differed widely from the
+Justinian Code, the Code has exerted an influence that slowly caused, first
+Continental, and then worldwide, political philosophy and then law to coverge
+on its model. The Napoleonic Code and most other modern European codes are
+modelled after Justinian's.  
+  
+From the Justinian Code we get two totalitarian superstitions: first, that
+there must be a locus of power, a "sovereign", somewhere in any political
+system. In Justinian's Empire, this locus was the emperor himself, whose word
+was law. From this philosophy came the view of the sovereign king or dictator
+espoused by Bodin and Hobbes. In this model the king is the "head" and the
+rest of the "body politic" is controlled by the king, just as our brains
+control our bodies. Under Rosseau and Bentham, this locus was switched to "the
+people" or to, in practice, a parliament that supposedly represented "the
+people." Under the extreme sovereigntist view, separation of powers,
+federalism, and political property rights are all an illusion -- all power is
+just a revocable delegation from a supreme locus of sovereignty.  
+  
+Actual English law and political structure were very different. Under this
+law, royal power was actually divided among the King, the King's counselors,
+Parliament, and justices. None of these entities was the "locus" of power but
+all played crucial roles. Furthermore, much of this power had been granted to
+other entities -- nobles, lords proprietor, municipal and colonial and church
+corporations, guilds, and so on -- in the form of largely irrevocable
+political property rights. Under the sovereigntist view, taught in
+universities, all such property grants were merely revocable delegations. But
+under the actual common law, taught to the actual lawyers and judges of the
+time in the Inns of Court (institutions completely independent of
+universities, and thus largely uninfected by Roman Law), these delegations
+were property rights forfeitable back to the grantor -- and the original
+grantor was the Crown -- only under extreme breach of grant conditions under a
+_quo warranto_ proceeding.  
+  
+The substantive law of Justinian's Code is quite valuable, containing a purely
+economic view of property championed by, among others, Adam Smith, and giving
+rise to our efficient modern capitalist economies. But its procedural law is
+utterly totalitarian and helped give rise, first to the totalitarian Kings and
+Czars, then to Napoleon, and then to the communist and fascist dictators of
+the 20th century. The English legal world largely avoided this fate, but the
+freedoms of its peoples have been undermined by its own creeping Romanism in
+the form of legislative sovereignty. The political philosophies and "political
+science" of universities have always been dominated by the sovereigntist
+paradigm, which pits sovereign government versus "anarchy" as our only
+political alternatives. When the Inns of Court gave way to universities in
+teaching English law, English legal philosophy and political structure too
+became increasingly Romanist.  
+  
+Of the legal claims made by the American Revolutionists, the strongest and
+most credible was their argument that the novel assertions of parliamentary
+sovereignty under Lord North violated the colonial charters. But by that time
+American colonists, too, were under the spell of Rosseau's doctrine of
+legislative sovereignty. Samuel Adams reported on the eve of the Revolution,
+trying to square the circle, that is to reconcile the supposed "supreme power"
+(sovereignty) of Parliament with the political property rights granted by the
+charters:  
+
+> [Governor Hutchinson arguing on behalf of Parliament] although ... there
+must be one supreme authority [Parliament] ... , this constitution
+[Massachusett's colonial charter] will admit of subordinate powers, with
+legislative and executive authority, greater or less, according to local and
+other circumstances." "This is very true," the council [per Samuel Adams]
+replied, "and implies that the legislative and executive authority granted to
+the subordinate powers, should extend and operate, as far as the grant allows;
+and that, if it does not exceed the limits prescribed to it, and no forfeiture
+be incurred, the supreme power has no rightful authority to take away or
+diminish it, or to substitute its own acts, in cases wherein the acts of the
+subordinate power can, according to its constitution, operate. To suppose the
+contrary, is to suppose, that it has no property in the privileges granted to
+it; for, _if it holds them at the will of the supreme power, ... it can have
+no property in them...._ But, as in fact, the two powers are not incompatible,
+and do subsist together, each restraining its acts to their constitutional
+objects, can we not from hence, see how the supreme power may supervise,
+regulate, and make general laws for the kingdom, without interfering with the
+privileges of the subordinate powers within it? [emphasis added]
+
+  
+Since the sovereignty of Parliament was unacceptable to the colonists ("no
+taxation without representation"), and centuries of Romanist propaganda had by
+then extinguished almost all knowledge and recognition of political property
+rights beyond the Inns of Court, distribution of powers survived in the United
+States in only two forms: federalism (the nesting of larger and smaller
+territories, each with separate jurisdictions) and separation of powers (per
+Montisque, the separation between executive, judicial, and legislative
+powers). "Sovereignty" still had to be located somewhere. At first, during the
+Articles of Confederation period, colonies were dubbed "States" and declared
+by many to be sovereign. But even under the Articles of Confederation this was
+a fiction -- the Congress, not the States, sent diplomats abroad, and the
+"States" had delegated military authority to a confederate army led General
+Washington. As we shall see, the United States Constitution would render any
+talk of state sovereignty completely a matter of fiction, and it rivalled
+another fiction that would dominate in the long run -- that it was not any
+real entity, but a romantic fiction called "The People" that were sovereign.
+Using this fiction, the nature of the United States Constitution as a
+fictional grant of political property rights can be elucidated. Here is the
+preface to the Constitution, not legally binding, but illuminating of its
+nature:  
+
+> We the People of the United States, in Order to form a more perfect Union,
+establish Justice, insure domestic Tranquility, provide for the common
+defence, promote the general Welfare, and secure the Blessings of Liberty to
+ourselves and our Posterity, do ordain and establish this Constitution for the
+United States of America.
+
+  
+The Constitution proceeds to list a number of legally binding Articles, just
+as in a corporate charter. "We the People" was in fact a small cabal of
+delegates sent from state legislatures, who had only authority to amend the
+Articles of Confederation, not to unilaterally rewrite the rules under which
+said Articles could be amended such that they effectively scrapped them and
+started over. But with concepts like "We the People" blazing across the mental
+sky, who needs legal propriety?  
+  
+Nevertheless, this nice fiction allowed the United States to avoid creating a
+real locus of sovereignty by creating a fictional sovereignty to satisfy the
+Romanists. Sovereignty, under this doctrine, is vested in "We The People."
+Some of this political power is granted, charter-like, to the United States
+federal government. The rest is granted (per the 10th Amendment) "to the
+States, or to the people, respectively" -- that is to each State and to
+individuals. In reality, political power is distributed amongst the federal
+government, states, counties, and munipalities, with a variety of enumerated
+and unenumerated rights that these governments may not infringe being retained
+by private persons. Meanwhile, though, political property rights, which had
+been central to the colonial charters on which the United States Constitution
+was modelled, had been forgotten here, and indeed in England outside of the
+Inns of Court and the now-obscure passage on franchises in Blackstone's
+_Commentaries_. The three main safeguards against totalitarianism in the
+United States would be federalism, separation of powers, and the Bill of
+Rights.
+

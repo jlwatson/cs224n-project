@@ -1,0 +1,150 @@
+"Political power comes out of the barrel of a gun," Mao Zedong infamously
+said. This was true in the civil wars Mao fought and was too often true in the
+lawless way he oppressed his people. It is generally true in the anarchy of
+international relations, and would be true for individuals if they lived
+without law. People of practically all political stripes agree that the
+problem of force is one of the most important political problems, and I
+suspect most would agree with me that it is the most important problem. It is
+also the central problem addressed by the law.  
+  
+We can start to understand both law and politics by understanding a bit of the
+highly evolved common law in a situation that lies close to anarchy: the
+obligatory gunfight in the old Western movies. With my habitual lawyerly habit
+of "issue spotting," I've noticed how the good guys in these old Westerns
+almost always, if often barely, follow the common law of self-defense. The
+white hat waits until the villain reaches for and grabs his gun -- showing
+intent to shoot -- before he grabs his. This heroic habit illustrates one of
+the great summaries of the substance of the common law -- namely "thou shalt
+not initiate force" -- or, in a more peaceful setting, fraud. If one had to
+summarize the substantive parts of the common law into one sentence, that
+would be it -- "thou shalt not initiate force or fraud."  
+  
+This is not to say that one can logically deduce all important parts of law or
+politics from such a principle -- a common mistake of ideologists. One can no
+more deduce the content of the law from simple principles than one can deduce
+the specific sequence of an animal's genetic code from any few simple rules.
+Both, in mathematical terms, have an irreducible Kolmogorov complexity and any
+of these kinds of summaries are quite lossy. But it does turn out that almost
+all of the substantive common law operates in close proximity to that
+libertarian principle.  
+  
+There are some other good ways to summarize the common law. "The right to be
+left alone" is a good brief description of our rights under criminal, tort,
+and property law -- in other words these are generally systems of negative
+rights rather than of positive rights to compel another person's affirmative
+effort. Since we often don't really want to be left alone we also have
+contract law, which generally operates according to the principle of "keep
+your promises", inheritance law, "respect a dying man's wishes, and if you
+don't know them he meant to leave his wealth to his family," and so on.  
+  
+Back to our movie: let's say we come into the theater just as our hero is
+firing his gun. He has already drawn his gun while the villain is still
+bumbling around. Our hero shoots first and our villain crumples to the ground.
+If we didn't know this was an old Western, where the hero always draws faster
+despite drawing second, a reasonable guess would be that our killer was able
+to shoot first because he drew first, and is thus a murderer.  
+  
+Only in full context do we see the initiation of force and a response to it.
+In isolation, the response to force is _often_ indistinguishable from the
+initiation of force. We often can't know for sure whether an act of coercion
+is an unlawful initiation of force or a lawful response to it until we've seen
+the entire film (and in modern Hollywood, not even then, though I digress).
+Or, to change metaphors and introduce a bit legalese, we often don't have
+_probable cause_ to believe someone has initiated force until we've assembled
+some pieces of the puzzle. Learning to some even greater degree -- _clear and
+convincing evidence_ in some private cases and _beyond a reasonable doubt_ in
+criminal cases -- who initiated force requires even more pieces.  
+  
+Furthermore, to achieve justice -- to deter, to exact retribution, to make
+whole the victim, or to heal the sick criminal, whichever one or more of these
+we take to be the goal of justice -- we must almost always respond to force
+with force. Taken in isolation that response will itself look like an
+initiation of force. Furthermore, to gather the evidence we need in most cases
+to achieve sufficient high levels of confidence -- whether balance of the
+probabilities, clear and convincing evidence, or beyond a reasonable doubt --
+we often have to initiate force with third parties -- to compel them to hand
+over goods, to let us search their property, or to testify. If politics could
+be deduced this might be called the Central Theorem of Politics -- _we can't
+properly respond to a global initiation of force without local initiations of
+force_.  
+  
+Again keeping in mind that we are leaving out many important exceptions and
+details, we might summarize good legal procedure -- and more abstractly, the
+way a good political system should respond to force -- as follows:  
+  
+(1) An initiation of force might have occurred  
+  
+(2) Learn enough, without responding with force of our own, until we have
+probable cause to believe an initiation of force has occurred.  
+  
+(3) Respond with our own force in order to arrest the persons, valuables, and
+evidence involved, and engage in the trial(s) and other procedures necessary
+to convince those most highly knowledgeable about the case, and if it is
+important enough the world generally, that an initiation of force indeed
+occurred.  
+  
+(I'm neglecting, of course, the controversial issue of preventing force by
+initiating force -- in the international context by invading Iraq to prevent
+supposed weapons of mass destruction, in the individual context by capturing a
+terrorist before they've actually committed an act of terror. This is
+dangerous territory that goes beyond the general responsive workings of legal
+procedure, and will be hopefully a topic I address another day).  
+  
+In Hollywood our hero has a quick eye and thereby instantly achieves probable
+cause that our villain has reached for his gun and is threatening to fire. In
+reality, the evidence is usually far more dispersed and we must be far more
+careful, lest our supposed response to force actually be an initiation of
+force.  
+  
+Since force is the central problem of politics, a political system, whether
+proposed or real, that cannot distinguish an initiation of force from a proper
+response to force -- that cannot distinguish an arrest of a person from a
+kidnapping, an arrest of goods from theft, and so on -- is worth less than the
+paper it's written on. And if it merely waves its hands and invokes the magic
+of "the government" or "the market" to solve all such problems, it is
+extremely lame -- and quite at odds with how our highly evolved common law
+legal procedures actually work. The common law does not, as the law of self-
+defense suggests, necessarily require "the government" for a legally forceful
+response to force. But neither, as we shall now see, do its legal procedures
+operate in any way resembling the laws of economics in a voluntary market.  
+  
+Recall our Central Theorem of Politics -- _we can't properly respond to a
+global initiation of force without a local initiation of force_. We could
+deduce, if law could be deduced, that legal procedure thus might be full of
+local initiations of force -- and in fact it is. Legal procedure, in sharp
+contrast to good substantive law, does not involve merely negative rights "to
+be left alone," but in addition is full of positive rights. It is full of
+procedures for interfering with persons and property, both with the defendant
+who might have initiated force and with some third parties who are not accused
+of initiating force. The right to sue, for example -- necessary for the
+enforcement of any private substantive right -- is a bundle of positive rights
+that usually includes the right to compel a jury to sit and the right to
+compel witnesses as well as a right to compel the the alleged initiator in
+various ways. Proper response to the initiation of force would be extremely
+and quite unreasonably hobbled without these coercive mechanisms, these
+positive rights of legal procedure. And unless the disputing parties have
+arranged things ahead of time, the exercise of jurisdiction by our "responder
+to force," the court, is involuntary for at least one of them. Often the
+responder has to be backed by some kind of police force, or an extreme cases
+even an army, if justice is to be achieved. It is preventing the abuse of all
+this power -- including figuring out ways to minimize the power without overly
+reducing our ability to resond to force -- that is the central problem of
+politics.  
+  
+Ideological purists can whine all they want about the supposed injustices of
+the coercion inherent in legal procedure, but "thou shalt not initiate force"
+is merely a useful summary of the _substantive_ common law and in no way
+provides a useful summary of the _procedural_ common law, much less a
+principle for its operation. The job of legal procedure -- and of good
+politics generally -- is to respond to initiation of force with its own local
+initiations of force in order to achieve justice: to punish the initiator of
+force and to provide restitution to his victim. Whatever form this response
+might take -- whether a nation-state making war or enforcing law through its
+courts, or parties who have previously agreed resolving their dispute through
+a private court, or a shopping mall security guard arresting a shoplifter, or
+our quick-draw Western hero -- whatever form response to force may take, it is
+crucial that law carefully defines the proper ways for making such responeses
+and that we put limits on these methods to prevent abuses. It's also crucial
+to realize that any princples by which we might do so will tend to be very
+different than those of the substantive law being enforced.
+

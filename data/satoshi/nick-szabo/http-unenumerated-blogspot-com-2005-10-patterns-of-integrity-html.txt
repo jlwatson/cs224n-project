@@ -1,0 +1,12 @@
+One of my main interests is the history of institutions, and in particular the
+patterns that recur in successful institutions. These organizational
+structures and security mechanisms allow naturally suspicious strangers to
+interact with integrity.  
+  
+These patterns include tamper evidence, shared time, unforgeable costliness,
+separation of duties, the principle of least authority, risk sharing, and
+learning from our ancestors, among many others. These patterns have been
+useful for centuries, and (I can report after having spent many years working
+in the computer network security field) continue to be useful in the Internet
+era.
+

@@ -1,0 +1,190 @@
+Here's an edited excerpt from my old essay "Measuring Value":  
+  
+Tax collection is the most efficient department of government. Its efficiency
+rivals that of many private sector institutions.  
+
+From the point of view of many taxpayers this is an incredible claim, given
+that tax collectors take money we ourselves know how to spend quite well,
+thank you, and often spend it on amazingly wasteful activities. And the rules
+by which they take it often seem quite arbitrary. Tax rules are usually
+complex but nevertheless fail to let us account for many events important to
+the earning of our incomes that differentiate us from other taxpayers.  
+
+How the money gets spent is quite outside the scope of my claim that tax
+collectors are uncommonly efficient. It is the collection process itself that
+is the subject of that claim, and the tax collection rules. This essay will
+demonstrate the efficiency of tax collector's rules by two arguments:  
+
+(1) First, we will show why tax collectors have an incentive to be efficient
+(and what "efficiency" means in this context)
+
+(2) Second, we will explore the problem of creating tax rules, and see how the
+difficulty of measuring value rears its ugly head. Tax rules solve the value
+measurement problem through brilliant, often very non-obvious solutions
+similar to solutions developed in the private and legal sectors. Often (as,
+for example, with accounting) tax collectors share solutions used to measure
+value in private relationships (such as the absentee investor-management
+relationship in joint stock corporations). It is in making these very
+difficult and unintuitive trade-offs, and then executing them in a series of
+queries, audits, and collection actions, that tax collectors efficiently
+optimize their revenue, even if the results seem quite wasteful to the
+taxpayer.  
+
+The tax collector's incentives are aligned with the other branches of their
+government in a task that benefits all associated with the government, namely
+the collection of their revenue. No organization of any type collects more
+revenue with fewer expenditures than tax collection agencies. Of course, they
+have the advantage of coercion, but they must overcome measurement problems
+that are often the same as other users of accounting systems, such as owners
+of large companies. It is not surprising, then, that tax collectors have
+sometimes pioneered value measurement techniques, and often have been the
+first to bring them into large scale use.  
+
+Like other kinds of auditors, the tax collector's measurement problem is
+tougher than it looks. Investment manager Terry Coxon has described it
+well[1]. Bad measures or inaccurate measurements allow some industries to
+understate their income, while forcing others to pay taxes on income they
+haven't really earned. Coxon describes the result: the industries that are
+hurt tend to shrink. The industries that benefit pay fewer taxes than could be
+extracted. In both cases, less revenue is generated for the tax man than he
+might be able to get with better rules.  
+
+This is an application of the Laffer curve to the fortunes of specific
+industries. On this curve, developed by the brilliant economist Arthur Laffer,
+as the tax rate increases, the amount of revenue increases, but at an
+increasingly slower rate than the tax rate, due to increased avoidance,
+evasion, and most of all disincentive to engage in the taxed activity. At a
+certain rate due to these reasons tax revenues are optimized. Hiking the tax
+rate beyond the Laffer optimum results in lower rather than higher revenues
+for the government. Ironically, the Laffer curve was used by advocates for
+lower taxes, even though it is a theory of tax collection optimum to
+government revenue, not a theory of tax collection optimal to social welfare
+or individual preference satisfaction.  
+
+On a larger scale, the Laffer curve may be the most important economic law of
+political history. Adams[2] uses it to explain the rise and fall of empires.
+The most successful governments have been implicitly guided by their own
+incentives – both their short-term desire for revenue and their long-term
+success against other governments -- to optimize their revenues according to
+the Laffer Curve. Governments that overburdened their taxpayers, such as the
+Soviet Union and later Roman Empire, ended up on the dust-heap of history,
+while governments that collected below the optimum were often conquered by
+their better-funded neighbors. Democratic governments may maintain high tax
+revenues over historical time by more peaceful means than conquering
+underfunded states. They are the first states in history with tax revenues so
+high relative to external threats that they have the luxury of spending most
+of the money in non-military areas. Their tax regimes have operated closer to
+the Laffer optimum than those of most previous kinds of governments.
+(Alternatively, this luxury may be made possible by the efficiency of nuclear
+weapons in deterring attack rather than the increased incentives of
+democracies to optimize to tax collection).  
+
+When we apply the Laffer curve to examining the relative impact of tax rules
+on various industries, we conclude that the desire to optimize tax revenues
+causes tax collectors to want to accurately measure the income or wealth being
+taxed. Measuring value is crucial to determining the taxpayer's incentives to
+avoid or evade the tax or opt out of the taxed activity. For their part,
+taxpayers can and do spoof these measurements in various ways. Most tax
+shelter schemes, for example, are based on the taxpayer minimizing reported
+value while optimizing actual, private value. Tax collection involves a
+measurement game with unaligned incentives, similar to but even more severe
+than measurement games between owner and employee, investor and management,
+store and shopper, and plaintiff-defendant (or judge-guilty party).  
+
+As with accounting rules, legal damage rules, or contractual terms, the choice
+of tax rules involves trading off complexity (or, more generally, the costs of
+measurement) for more accurate measures of value. And worst of all, as with
+the other rule-making problems, rule choices ultimately ground out on
+subjective measures of value. Thus a vast number of cases are left where the
+tax code is unfair or can be avoided. Since tax collectors are not mind
+readers, tax rules and judgments must substitute for actual subjective values
+its judgments of what the “reasonable” or “average” person's preferences would
+be in the situation. Coxon provides the following example. Imagine that we
+wanted to optimize the personal income tax rules to measure income as
+accurately as possible. We might start reasoning along these lines:  
+
+ __
+
+> ... look a little closer and you find that an individual incurs costs and
+expenses in earning a salary. He has to pay for transportation to and from
+work. He may spend money on clothes he wouldn't otherwise buy and on lunches
+that would cost less at home. And he may have spent thousands of dollars
+acquiring the skills and knowledge he uses in this work.  
+>  
+>  Ideal, precise rules for measuring his income would, somehow, take all
+these and other costs into account. The rules would deduct the cost of
+commuting (unless he enjoys traveling about town early in the morning and
+later in the afternoon). They would deduct the cost of the clothes he wouldn't
+otherwise pay (to the extent it exceeds the cost of the clothes he would buy
+anyway). They would deduct the difference between the cost of eating lunch at
+work and the cost of lunch at home (unless he would eat lunch out anyway). And
+each year these ideal rules would deduct a portion of the cost of his
+education (unless he didn't learn anything useful in school or had enough fun
+to offset the cost).  
+>  
+> [Because there are limits to complexity, and] because tax agents can't read
+minds, the government gives them arbitrary rules to follow: no deductions are
+allowed for commuting expenses, for clothing that is suitable for wearing
+outside of work, for lunches that aren't part of the “business entertainment”
+or for the cost of acquiring the skills a job requires (although you can
+deduct the cost of improving your skills).
+
+The resulting rules often seem arbitrary, but they are not. They are trade-
+offs, often non-obvious but brilliant, between the costs of measuring more
+value with greater accuracy and extra revenue extracted thereby. However, the
+value measurement problem is hardly unique to tax collection. It is endemic
+when assessing damages in contract and tort law, and when devising fines
+punishments in administrative and criminal law. Many private sector rules
+found in contracts, accounting, and other institutions also have the quality
+that they use highly non-obvious measures of value that turn out, upon close
+examination, to be brilliant solutions to seemingly intractable problems of
+mind-reading and the unacceptable complexity of covering all cases or
+contingencies. Such measurement problems occur in every kind of economic
+system or relationship. The best solutions civilization has developed to solve
+them are in most institutions brilliant but highly imperfect. There is vast
+room for improvement, but failed large-scale experiments in attempts to
+improve these measures can be devastating.  
+
+The Laffer curve and measurement costs can also be used to analyze the
+relative benefits of various tax collection schemes to government. Prior to
+the industrial revolution, for example, the income tax was infeasible. Most
+taxes were on the prices of commodities sold, or on various ad-hoc measures of
+wealth such as the frontage of one's house. (This measurement game resulted in
+the very tall and deep but narrow houses that can still be found in some
+European cities such as Amsterdam. The stairs are so narrow that even normal
+furniture has to be hauled up to the upper story and then through a window
+with a small crane, itself a common feature on these houses).  
+  
+  
+ _Taxes distorted the economy of the Netherlands -- quite literally. Here are
+some houses in Amsterdam built in the 17th and 18th centuries, and a typical
+narrow staircase. Furniture and other large objects must be hauled up by the
+small cranes seen above the top-story windows._  
+
+Prior to the industrial revolution, incomes were often a very private matter.
+However, starting in England in the early nineteenth century, large firms grew
+to an increasing proportion of the economy. Broadly speaking, large firms and
+joint-stock companies were made possible by two phases of accounting advances.
+The first phase, double-entry bookkeeping, was developed for the trading banks
+and "super companies" of early fourteenth century Italy. The second phase were
+accounting and reporting techniques developed for the larger joint stock
+companies of the Netherlands and England, starting with the India companies in
+the seventeenth century.  
+
+Accounting allowed manager-owners to keep track of employees and (in the
+second phase) for non-management owners to keep track of managers. These
+accounting techniques, along with the rise of literacy and numeracy among the
+workers, provided a new way for tax collectors to measure value. Once these
+larger companies came to handle a sufficient fraction of an jurisdiction's
+value of transactions, it was rational for governments to take advantage of
+their measurement techniques, and they did so -- the result being the most
+lucrative tax scheme ever, the income tax.  
+  
+
+#### References
+
+  
+[1] Adams, Charles, For Good and Evil: The Impact of Taxes on Civilization  
+  
+[2] Coxon, T., 1996 Keep What You Earn, Times Business/Random House
+

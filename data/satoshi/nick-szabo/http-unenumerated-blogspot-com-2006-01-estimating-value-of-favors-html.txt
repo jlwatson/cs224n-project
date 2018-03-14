@@ -1,0 +1,89 @@
+  
+Ian Grigg's post on Bill Monk reminded me that I had written the following
+(excerpts from Measuring Value, with a few edits):  
+  
+The value measurement problem is very broad. It comes into play in any system
+of exchange -- reciprocation of favors, barter, money, credit, employment, or
+purchase in a market. It is important in extortion, taxation, tribute, and the
+setting of judicial penalties. It is even important in reciprocal altruism in
+animals. Consider monkeys exchanging favors -- say pieces of fruit for back
+scratches. Mutual grooming can remove ticks and fleas that an individual can't
+see or reach. But just how much grooming versus how many pieces of fruit
+constitutes a reciprocation that both sides will consider to be "fair," or in
+other words not a defection? Is twenty minutes of back-scratching worth one
+piece of fruit or two? And how big a piece? And just how long is twenty
+minutes anyway? In some cases this is relatively easy to solve, as with the
+delayed barter of blood for blood in vampire bats. These bats can come home
+from a hunting mission either overstuffed or starving. Overstuffed bats can
+regurgitate blood to feed hungry ones. The grateful recipient can remember the
+favor an return it in a future hunting trip when the tables might be turned.
+And indeed, some degree of reciprocal trade takes place between vampire bats,
+even among non-kin.  
+  
+Even this simple case of trading blood for blood, is, however, far more
+complicated then it seems. Just how do the bats estimate the value of blood
+they have received? Do they estimate the value of a favor by weight, by bulk,
+by taste, by its ability to satiate hunger, or other variables? Just the same,
+measurement complications arise even in the simple monkey exchange of "you
+scratch my back and I'll scratch yours".  
+  
+For the vast majority of potential exchanges, the measurement problem is
+intractable for animals. Even more than the easier problem of remembering
+faces and matching them to favors, the ability of both parties to agree with
+sufficient accuracy on an estimate of the value of a favor in the first place
+is probably the main barrier to reciprocal altruism among animals.  
+  
+It is also likely the most important barrier to exchange among humans. Many
+kinds of exchange, probably many more than most economists perceive, are
+rendered infeasible by the inability of one or both parties to the exchange to
+estimate its value. For most of human history, most kinds of markets that are
+possible today were not then feasible, in large part due to the inability of
+potential market participants to measure value: to estimate the value of the
+transaction to themselves and then use these estimates to discover and agree
+on a common objective measurement. Measurement of value was and is also
+important to the development of many economic institutions related to markets.
+Accounting was crucial to the development of large companies and modern
+systems of taxation.  
+  
+The process of determining the value of a product from observations is
+necessarily incomplete and costly. For example, a shopper can see that an
+apple is shiny red. This has some correlation to its tastiness (the quality a
+typical shopper actually wants from an apple), but it's hardly perfect. The
+apple's appearance is not a complete indicator -- an apple sometimes has a
+rotten spot down inside even if the surface is perfectly shiny and red. Yoram
+Barzel calls an indirect measure of value -- for example the shininess,
+redness, or weight of the apple -- a _proxy measure_. In fact, all measures of
+value, besides prices in an ideal market, are proxy measures -- real value is
+subjective and largely tacit.  
+  
+Such observations also come at a cost. It may take some time to sort through
+apples to find the shiniest and reddest ones, and meanwhile the shopper
+bruises the other apples. It costs the vendor to put on a fake shiny gloss of
+wax, and it costs the shopper because he may be fooled by the wax, and because
+he has to eat wax with his apple. Sometimes these measurement costs comes
+about just from the imperfection of honest communication. In other cases, such
+as waxing the apple, the cost occurs because rationally self-interested
+parties play games with the observable.  
+  
+Measures are critical components of institutions-- such as auctions,
+contracts, accounting systems, legal damage rules, tax rules, etc. -- that
+align incentives between parties who, prior to participating in the
+institution, have incompatible incentives. We can divide the measurement
+problem into two components -- the first, choosing the phenomena and units
+that will be measured, and second, measuring those attributes in a way that
+minimizes spoofing of the measure between parties whose incentives with
+respect to the value are misaligned.  
+  
+Cost can usually be measured far more objectively than value. As a result, the
+most common proxy measures are various kinds of costs. Examples include:  
+  
+(a) paying for employment in terms of time worked, rather than by quantity
+produced (piece rates) or other possible measures. Time measures sacrifice,
+i.e. the cost of opportunities foregone by the employee.  
+  
+(b) most numbers recorded and reported by accountants for assets are costs
+rather than market prices expected to be recovered by the sale of assets.  
+  
+(c) non-fiat money and collectibles obtain their value primarily from their
+scarcity, i.e. their cost of replacement.
+

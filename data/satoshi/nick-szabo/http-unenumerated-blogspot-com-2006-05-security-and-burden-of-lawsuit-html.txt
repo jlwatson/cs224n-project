@@ -1,0 +1,42 @@
+The need to sue can be an expensive burden. A plaintiff often needs to go
+through a very long and expensive legal process, the results of which may be
+little or nothing due to the insolvency of the party sued.  
+  
+Because of this problem, large chunks of commercial law and practice -- and
+especially the areas of mortgages involving real property, secured
+transactions involving goods, and negotiable instruments -- deal with
+allocating the burden of lawsuit. Generally, the burden of lawsuit over a
+transaction should be shifted to the partie(s) who are more likely to breach
+the legal obligations created by the transaction, or more likely to become
+insolvent, or both.  
+  
+Creditors often use collateral to shift the burden of lawsuit to debtors.
+Instead of having to sue to get their money, creditors simply repossess the
+collateral, shifting the burden of lawsuit to the debtor. Creditors sometimes
+also use a surety (e.g. a co-signer) to reduce the burden of lawsuit by adding
+a target who is more solvent.  
+  
+Another way creditors shift at most of the burden of lawsuit is by having the
+debtor sign a promissory note. The creditor can then sell the note to a third
+party who is entitled to collect the note as a holder in due course, free of
+most defenses to payment on the original contract. Freedom from most defenses
+(such as fraud, failure to perform, etc.) to the original transaction makes
+the debt owed by the debtor to the holder in due course very clear-cut, thus
+greatly lowering the burden of lawsuit for the new creditor. The original
+creditor benefited because it could sell this unburdened debt at a higher
+price than a debt burdened by legal problems with the original transaction. If
+the original creditor breached a contract with the debtor (for example by
+failing to deliver promised goods), the burden of lawsuit is now on the debtor
+to sue the original creditor: the debtor must pay the note regardless. (In the
+United States, there are some recent consumer protection exceptions to this
+general rule). If the debtor fails to pay the note, this is a very
+straightforward lawsuit compared to the usual breach of contract, and thus
+likely to be settled at little cost. Thus, the promissory note has shifted
+most of the burden of lawsuit from the creditor to the debtor.  
+  
+At a more basic level, the burden of lawsuit is shifted by shifting actual
+control as well as legal possession over objects of value. "Possession is 9/10
+of the law." To this end, security technology and in particular smart
+contracts will likely become very useful devices for shifting the burden of
+lawsuit in commercial transactions.
+

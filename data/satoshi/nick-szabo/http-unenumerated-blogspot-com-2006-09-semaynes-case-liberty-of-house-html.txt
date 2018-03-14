@@ -1,0 +1,69 @@
+ _Semayne's Case,_ an opinion of the English King's Bench in 1604, is a very
+important case expressing the long-standing "knock and announce" rule when law
+enforcement searches a residence. This rule was formally recognized to be an
+important part of the U.S. Fourth Amendment in _Wilson v. Arkansas_ (U.S.
+1995). I've posted the entire opinion online and linked to it below.
+_Semayne's Case_ is where the popular phrase "a man's home is his castle"
+comes from, but there's a lot more to it than that.  
+  
+I was going to write a blog post about the interesting conflict that is going
+to arise between no-knock searches (which, despite _Wilson,_ are increasingly
+being conducted by increasingly militant and culturally distant law
+enforcement) and the recent "stand your ground" statutes in at least ten U.S.
+states and at least one European jurisdiction. Several other American and
+European states are discussing such legislation. These statutes generally
+provide a full defense to murder if the victim is an illegal entrant into an
+occupied residence (or even in some states an occupied car), or in some states
+if the occupant reasonably believes that deadly force is necessary to prevent
+the commission of a forcible felony within the house, including common
+burglary.  
+  
+It turns out I don't need to say much, because Sir Edward Coke has already
+done it for me in _Semayne's Case._ The special expectation of safety within
+and right to defend a residence and its occupants -- what Coke called the
+"liberty ... of a house" -- justifies both a kill-the-burglar rule for
+residents and a knock-and-announce rule for law enforcement.  
+  
+So forget the exclusion of evidence in such a search (per _Hudson v.
+Michigan_) -- there is now in at least a few states a much stronger incentive
+for police to behave with respect for household safety and security. Police
+need to enter a house legally, including announcing themselves per _Semayne's
+Case_ and _Wilson v. Arkansas,_ or they are, I argue, legally and m.orally put
+in jeopardy of their lives in a "stand your ground" state.  
+  
+It's important to observe that Coke speaks of the "liberty ... of a house" and
+the of thhue of whether the house is "a liberty." In Coke's time "liberty" was
+a synonym for a franchise -- a privately held jurisdiction. Indeed, the kill-
+the-burglar rule is a weaker version of _infangthief,_ the franchise right to
+hang a thief caught red-handed on one's own land. _Infangthief_ and other
+liberties were special property rights that had to be granted by one's lord
+and ultimately by the king, or alternatively by prescription (i.e. long-
+standing use that creates ownership under property law). Per Coke, liberty of
+the house automatically attaches to any occupied residence as an inalienable
+prescriptive right. It provides more protection against execution of process
+in a private lawsuit than against execution of process for for a criminal case
+(here referred to as process for the King). In either case, the official must
+knock and announce. The highly evolved procedural law of franchises is central
+to Coke's opinion. Coke analogizes the liberty of a house to a weak form of
+liberty where the king's writs run but where private officials execute them,
+i.e. a liberty "with return of writs." Coke notes that, while the owner of
+such a liberty (or an official of it, called here a bailiff) normally has
+authority to use force against trespassers, this does not give the liberty
+owner authority to use force against legally executed process where the
+liberty owner himself is a defendant: "a liberty is always for the benefit of
+a stranger to the action" not for the defendant. Thus, when process is
+performed legally against a resident, it can be executed forcefully into and
+within a residence despite liberty of the house which otherwise allows the
+resident a full lethal defense against forceful intrusion. To allow the
+resident to distinguish the two cases is one of the main reasons for the
+knock-and-announce rule.  
+  
+Under some of the new "stand your ground" laws the modern equivalent of Coke's
+liberty of the house now attaches to your car as well, so that you can legally
+defend yourself against carjackers with deadly force.  
+  
+My thanks to Professor Renee Lettow Lerner for her insights on stand-your-
+ground statutes and legal history generally.  
+  
+Without further ado, _Semayne's Case._
+

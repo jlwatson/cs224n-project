@@ -1,0 +1,60 @@
+From Secure Property Titles with Owner Authority:  
+
+> In all cases of property rights there is a defined space, whether a
+namespace or physical space, and the task is to agree on simple attributes of
+or rights to control subdivisions of that space. In some cases a name or other
+symbol corresponds to a person or object owned or controlled by that person.
+For example, Internet users must agree on which domain name corresponds to
+which web site operator. In other cases we are simply concerned with control
+over a subdivision of the space. With real estate we must agree on who owns
+various rights (to occupy the surface, to mine the minerals under, etc.) to a
+piece of land. With radio spectrum we must agree on who owns what range of
+frequencies and in what physical space (or transmitting power as an easily
+observed approximation of physical space used).  
+>  
+> ...all such [multiparty problems of] control over the semantics of symbols,
+to be made and respected across trust boundaries, are problems of agreeing on
+and maintaining property rights...  
+>  
+> ...New advances in replicated database technology will give us the ability
+to securely maintain and transfer ownership for a wide variety of kinds of
+property, including not only land but chattels, securities, names, and
+addresses. This technology will give us public records which can "survive a
+nuclear war", along the lines of the original design goal of the Internet.
+While thugs can still take physical property by force, the continued existence
+of correct ownership records will remain a thorn in the side of usurping
+claimants...  
+>  
+> The ideal title database would have the following properties:  
+>  
+> (1) Current owner Alice should be able transfer her title to only a single
+relying counterparty (similar to the "double spending" problem in digital
+cash)  
+>  
+> (2) Servers should not be able to forge transfers  
+>  
+> (3) Servers should not be able to block transfers to or from politically
+incorrect parties.  
+>  
+> ...Using these results [of Byzantine quorum systems] it looks like we can
+approach our ideal title database as follows:  
+>  
+> (1) Alice signs the title and Bob's public key, and sends this message to
+2f+1 servers, committing her to transfer title to Bob. Bob checks at least
+2f+1 servers before relying on Alice's transfer.  
+>  
+> (2) No collusion of servers can forge Alice's signature (we achieve at least
+this property ideally!)  
+>  
+> (3) A conspiracy of >=(1/4)n servers can block a transfer. Alice's recourse
+is to use some other channels to broadcast her intention, demonstrating that
+the registry did not follow her wishes, and hoping the alternative channels
+are more reliable. Bob only has similar recourse if he signed a document with
+Alice demonstrating their intentions to transfer title from Alice to Bob. The
+most basic recourse is a correct subset of servers which exits the property
+club and establishes a new one, then advertises its correctness (and proves
+the incorrectness of its rival group) as described above.
+
+  
+More here.
+

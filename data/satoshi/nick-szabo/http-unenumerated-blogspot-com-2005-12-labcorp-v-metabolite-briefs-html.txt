@@ -1,0 +1,6 @@
+Dennis Crouch has a good review of and links to the petitioner's brief and
+several amicus brief in LabCorp v. Metabolite. This case may impact the
+patentability of software and business methods. I have described in a paper
+how software came to be patentable in the United States, when our Supreme
+Court has held "mathematical algorithms" to be unpatentable subject matter.
+

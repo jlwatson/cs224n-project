@@ -1,0 +1,152 @@
+In the comments section of yet another economics professor's blog, Devin
+Finbarr makes some excellent observations regarding the collectible nature of
+most investment assets, starting with this nice classification:  
+
+> There are only three types of goods in an economy:  
+> 1) goods providing direct utility ( a car, tv, chocolate )  
+> 2) collectibles ( a baseball card, diamonds, gold )  
+> 3) flows ( stocks, bonds )
+
+The demand for every investment asset -- stocks, housing, commodities, etc. --
+is a function of some combination of these factors. In housing all three
+demand factors are at work. Every asset that is not just a fixed monetary cash
+flow has a collectible premium that reflects, when rational, inflation
+expectations. (n.b. this is technical nomenclature that can have a slightly
+different meaning than the normal use of the words -- for example I, and
+presumably Devin, classify the enjoyment one can get from collecting baseball
+cards or wearing gold jewelry as part of their "utility" rather than their
+"collectible" nature, the latter being purely a matter of the asset's
+perceived or actual function as a store of value or medium of exchange).  
+  
+It is often very difficult to guess what the factors of demand coming from
+direct consumption utility are (for example, is the sunny yet cool California
+coast and the wealthy and smart neighbors it attracts worth paying five times
+as much or is the coastal California price premium, as Devin suggests,
+primarily a collectible premium?). Sometimes it's also difficult to estimate
+cash flow. Thus it's often hard to estimate the collectible premium. Also,
+since the collectible (or inflation expectations) premium is little
+recognized, a wide variety of bogus explanations are often used to explain
+price movements that are actually due to changing inflation expectations: the
+most popular being dubious theories of changes in supply (e.g. "peak oil") or
+consumption demand, since demand for assets as inflation hedges is very under-
+recognized. Also common are theories that impute price changes due to changes
+in inflation expectations to purely irrational psychology, "technical", or
+"trend" factors based on the history of the price itself. (The history of
+housing prices from 1940 to 2005 made houses look like a lucrative and low-
+risk investment, for example).  
+  
+Devin describes inflation expectations as causing a hunt for stores of value
+in which packs of investors irrationally change their focus from one market to
+another, causes bubbles and bursts. Since the collectible premium is often so
+hard to estimate, and is so little recognized, and so many investors do
+despite those warnings you hear invest based solely on past price history, I
+don't substantially disagree with this:  
+
+> A stock market is in disequilibrium when people start trading stocks as
+collectibles rather than as flows. In other words, instead of buying a stock
+based on the hope of generating a return via dividends, they start buying a
+stock in order to sell it to someone else ( price appreciation)....  
+>  
+> When the government dilutes the money supply, people start searching for a
+replacement collectible to serve as a store of value. People end up buying
+stocks not based on dividend yields, but in order to trade for later at a
+higher dollar price. People buy houses not based on direct utility or as an
+alternative to paying rent, but in order to sell for later at a higher price.
+These goods start trading as collectibles, and thus are subject to the whims
+of the herd.
+
+In short, if long-term inflation expectations were zero, the prices of
+housing, stocks, commodities, etc. could be estimated from demand deriving
+solely from their cash flow plus consumption demand -- there would be no
+collectible premium. But since asset prices come with a difficult to estimate
+and fluctuating inflation expectations premium, this makes it far harder to
+judge whether an asset is over- or under-priced, leading to greater over- and
+under-pricing, i.e. seemingly irrational asset booms and busts.  
+  
+A couple of caveats:  
+  
+(1) It's important to observe in the context of stocks that their cash flows
+can come from share buybacks and takeovers as well as dividends, so even with
+zero inflation expectations people would rationally invest partly for expected
+price rises in addition to dividends.  
+  
+(2) There are a number of other sources of high uncertainty in asset markets,
+e.g. uncertainty over credit conditions, so that bubbles and bursts would not
+completely go away with zero inflation expectations. However the contribution
+of changing inflation expectations has, I believe, been the largest factor in
+most asset price movements since the 1970s.  
+  
+Bubbles and bursts are based on high degrees of uncertainty about the future
+far more than on genuine mass irrationality. Of course, things like the
+Internet bubble seem quite irrational in hindsight, but if you keep in mind
+what was going on in the late 1990s -- a huge increase in subjective value due
+to new (to the vast majority of investors) Internet services such as e-mail,
+Web, search engines, and on-line price quotes -- it was not, without
+hindsight, terribly irrational to suppose that most of this value would be
+monetized as profit for the innovating companies. It turned out to be mostly
+unmonetized -- instead we got most of the foregoing plus shared music,
+Wikipedia, blogs, and other things of great value for almost free -- so that
+the Internet bubble collapsed and seems irrational in hindsight.  
+  
+Bubbles and bursts due to uncertainty over technological innovation will
+undoubtedly occur again, but the greatest ongoing source of uncertainty in our
+markets is not regarding technology and monetization of innovation, but rather
+uncertainties about currencies, credit, globalization, and related political
+factors, out of which the uncertainty over currencies is usually the greatest.  
+  
+My takes on last summer's commodity hysteria as it was happening can be found
+via here.  
+  
+Devin has put these theories to good use:
+
+> since inflation helps build the bubble, even a small amount of deflation can
+cause rapid price collapses. The fall in price will be much greater than the
+fall in dividends. Late last summer I was looking at numbers, and noticed that
+real estate, equities, oil, and gold had all been down for two months
+straight. The only thing those goods have in common is the currency they are
+priced in. So I said, “Holy deflation, Batman!” and sold half of the index
+funds that I owned.
+
+I congratulate Devin and I do like the strategy suggested here, i.e. arbitrage
+between asset markets with irrationally different collectible premiums. This
+strategy does, however, assume that one can estimate the price derived from
+just supply and cash flow plus consumption demand, at least enough to be able
+to determine that there is a substantial collectible premium.  
+  
+That said, I'd add (perhaps disagreeing with Devin) that in the large collapse
+in commodities since last summer, decreased expectations for future industrial
+consumption (due to rising expectations of a long-term worldwide recession)
+and probably a change in the rationality of the collectible premium of
+commodities were also major factors alongside the decrease in inflation
+expectations. Thus gold did not fall nearly as much as the industrial
+commodities. (It's also possible that this reflects some sort of security
+premium in a crisis of gold over other commodities, but despite all the gold
+coin ads to this effect I'm skeptical about that being a large factor). Of
+course, a change in consumption expectations will also tend to make stocks go
+down, due to the more direct cause of decreased profits leading to decreased
+cash flows from dividends etc. Commodities markets reflected informed
+expectations about future inflation and consumption more quickly than stocks,
+giving Devin his signal.  
+  
+Gold and commodities prices have a good long-term correlation across business
+cycles. Industrial mineral prices do tend to vary more than gold within a
+business cycle due to changes in consumption expectation. (Of course these are
+not really predictable "cycles", but unpredictable effects of things like
+credit conditions, but "business cycle" is the unfortunate standard term in
+economics for this variation in overall credit and consumption). Another
+example of the collectible premium arbitrage strategy is to look at the
+oil/gold price ratio. Last summer this ratio was far too high (in hindsight,
+although at the time I was skeptical that this unprecedented ratio would
+last), reflecting a very high valuation of industrial commodities as
+collectibles. Recently it has much lower, reflecting much lower valuation as
+collectibles (probably irrationally too low), as well as lowered consumption
+expectations (the business cycle). In both cases one would have profited over
+the course of entire business cycle (and even in these two cases, luckily,
+over the short run) from betting against even more extreme deviations from the
+average historical ratio (or historical trend -- it's certainly plausible that
+oil and some other industrial minerals are being depleted faster than gold, or
+that there are long-term secular difference in their demand functions, but as
+the recent oil/gold ratio collapse to 1980 levels suggests, the secular
+depletion/demand gap between oil and gold is probably quite small, and almost
+certainly less than 2% per year over the long run).
+

@@ -1,0 +1,14 @@
+Chief Justice Roberts has recused himself from _Metabolite_, so there will be
+eight justices deciding the case including Stevens. Here is the schedule:  
+  
+Laboratory Corp. of America Holdings v. Metabolite Laboratories, Inc., Supreme
+Court No. 04-607: Briefing schedule through January 2005; hearing February-
+April 2006; decision by June 2006.  
+  
+Although the case may be decided on narrower grounds, it's possible that this
+case could have profound implications for software and business method
+patents, especially if Justice Stevens' methodology in the 1978 case _Parker
+v. Flook_ is applied here. I describe a clarified version of this methodology
+in a paper on the origin of U.S. software patents I wrote earlier this year.
+Here is a brief summary of that methodology and of _Metabolite_.
+

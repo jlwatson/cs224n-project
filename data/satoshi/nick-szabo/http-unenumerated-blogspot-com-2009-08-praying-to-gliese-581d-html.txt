@@ -1,0 +1,213 @@
+COSMOS magazine of Australia is teaming up with the Australian national
+government and the Jet Propulsion Laboratory (JPL) and NASA in the United
+States to send a ream of messages gathered from the public via the JPL-run
+Deep Space Network (on which I once worked) to the nearby star system of
+Gliese 581, which includes the recently discovered extrasolar planet Gliese
+581d. The schedule is to send the messages on Friday, August 28th. According
+to COSMOS's editor, Wilson da Silva,  
+
+> Yes, it is a "stunt": the purpose is to engage the public during Science
+Week in Australia and get them thinking about the big questions: are we alone,
+is life common in the universe, how often does intelligent life arise, how big
+is space, etc etc.
+
+It will apparently also be good for COSMOS' advertising and subscription
+revenue:  
+
+> So far, it has been very successful: more than 1,000 newspapers and other
+media have published online stories all over the world, it has been featured
+on 9,000 blogs and more than 1.17 million pages of the site have been read in
+the past 10 days.
+
+I can't say whether it will hurt or harm the quests of the government agencies
+and contractors involved for more taxpayer money.  
+  
+Alas, this admitted publicity stunt gets the public thinking about "the big
+questions" in a way that is rather prejudiced about the answers. The very act
+of sending a message to a specific star suggests to our newly attracted pupils
+that there is some substantial probability of extraterrestrial intelligence
+(ETI) at the other end, when astronomers have observed over 10 billion
+galaxies and have never seen any signs of ETI. The odds of even one other ETI
+civilization in our galaxy, much less specifically around one of the two
+hundred billion stars in our galaxy, Gliese 581, are rather remote. Just how
+remote we will now explore -- then we shall take a look at the prayers to
+Gliese 581d.  
+  
+The mindset at work with the COSMOS transmission is similar to those behind
+the web calculator Drake Equations that I've seen. The Drake Equation
+supposedly brings together all the main probabilities relevant to calculating
+how many ETI we might expect to find in our galaxy: the expected number of
+habitable planets, the probability of the origin of life given a habitable
+planet, the probability of intelligence evolving given life, and so on. You
+are supposed to be able to input your own assumptions into these calculators
+and it spits out the expected number of ETI in our galaxy based on these
+assumptions. Real scientists actually observe the universe and fit their
+equations and parameters to what they see, rather than what they wish were
+true, but these "science education" sites invite the visitor to plug in what
+they wish -- unless it doesn't fit what the web site authors wish.  
+  
+From these sites we learn something very interesting, not about how science
+should be done or what it has observed, but about the hopes and wishes of
+their authors. These calculators don't allow just any numbers to be placed in
+them, but only numbers within a range defined by the authors. They don't even
+allow numbers to be placed into them that are most consistent with what
+astronomers have actually observed in the universe, i.e. the ubiquitous
+naturalness and lack of artificiality everywhere they look. Let's use as an
+example the least pathological.  
+  
+A reasonable guess, given the improbability of actually existential threats
+between the invention of printing (with the permanence it brings to
+civilization) and the end of the universe, is that most casually connected
+series of civilizations will achieve a substantially >1 billion years
+lifetime. (In other words, while many civilizations might rise and fall, and
+subsequent intelligent species might even replace prior ones, once a
+civilization achieves printing this causal chain of civilizations is unlikely
+to be permanently terminated, and will probably move beyond the home planet
+and within a few tens of millions of years spread across its home galaxy). The
+largest value this calculator allows for average civilization lifetime is 1
+billion years, but even putting in this too small value makes it impossible to
+put in at least one other value consistent with our observations. (Update:
+since I wrote this section on the Drake calculator for a private list a few
+months ago, they've updated the calculator and it now supports lifetimes up to
+5 billion years, but the other limitations remain).  
+  
+Astronomers have looked far and wide in the skies, builders and miners and
+geologists and archaeologists have dug and examined millions of places on our
+own planet, and have seen neither any alien civilization, nor even their
+remains, on or near our planet or anywhere in our galaxy. They would likely
+have long since spread across our galaxy by now, a process that would take
+only a few tens of millions of years. They would have blotted out the stars to
+keep their energy from going to waste. Our observations of other galaxies --
+with extremely few galaxies deeply moved into the infrared consistent with a
+space-faring civilization efficiently harvesting the energy of its stars --
+strongly suggest that the number of civilizations is far less than 1 per
+galaxy. The naturally rare molecules used in the artificial surfaces of these
+massive constructions would also stand out in spectra against the naturally
+common molecules in dust clouds, planetary nebulae, etc. that astronomers
+actually observe.  
+  
+But even sticking with the order of magnitude of between 0.1 and 1 per galaxy,
+this "model" does not allow the input of values consistent with both this
+order of magnitude and with what we observe about life on our own planet.  
+  
+One has to put the minimum allowed for both the fraction of habitable planets
+with life the fraction of inhabited planets that achieve intelligent life to
+achieve this order of magnitude. Based on the commonality of near-intelligence
+life on our planet the latter number is probably much higher than the minimum
+allowed value 1/10^6. Based on the extremely improbable genetic complexity of
+even the simplest known self-sufficient microbial ecosystem, the former number
+is probably much lower than 1/10^6. But the program prevents input of these
+kinds of values most consistent with our observations.  
+  
+Other Drake calculators I have looked at are far worse still in not allowing
+the most reasonable values to be placed into the Drake Equation. They are not
+teaching science -- numerology, or here we might call it Bayesiology, is not
+science -- they are selling a belief, the belief that our galaxy is filled
+with morally advanced beings that we can talk to. How are these grossly
+misleading "educational tools" and publicity stunts like COSMOS helpful in
+teaching the questions of "are we alone, is life common in the universe, how
+often does intelligent life arise, how big is space, etc."?  
+  
+ ~~COSMOS~~ _An Enid News & Eagle piece republished by COSMOS_ invokes another
+prejudiced cliche of the SETI (Search for ETI) crowd: ETI living in a heavenly
+utopia:  
+
+> Me [Human interviewer]: "... So you don’t elect leaders?  
+>  Then who keeps you safe?”  
+>  
+>  Bleem: “From what?”  
+>  
+>  Me: “From criminals, from other countries that declare  
+>  war on you.”  
+>  
+>  Bleem: “Explain criminals.”  
+>  
+>  Me: “People who steal other people’s things or hurt  
+>  them. Some even kill other people.”  
+>  
+>  Bleem: “Explain steal.”  
+>  
+>  Me: “Taking things that don’t belong to you.”  
+>  
+>  Bleem: “Explain kill.”  
+>  
+>  Me: “To terminate one’s existence.”
+
+This nonsense neatly avoids an important question Drs. Jared Diamond and David
+Brin  have raised -- if, per COSMOS' assumption that ETI is common, these
+creatures, likely far more ancient and powerful than humans, do receive our
+message and thereby discover us, may that not put humanity in severe danger?
+Instead of "shouting at the cosmos", shouldn't we put reasonable restrictions
+on the power, focus, and targets of transmissions until we learn whether and
+what kinds of threats might exist? (I realize Gliese 581 probably doesn't
+raise this issue, because being within about 20 light-years they would
+probably have already detected our oxygen spectra, our "I Love Lucy" and
+"Seinfeld" broadcasts, our nuclear tests, and much else, but the [update:
+COSMOS' own, as well as the EN&E;'s] article[s], supposedly an exercise in
+education, doesn't even raise the issue and explain this).  
+  
+By blithely ignoring this issue while it sends the messages, COSMOS again
+answers the question with extreme prejudice by assuming it is safe. They even
+have a theological justification: ETI wouldn't harm a flea, because the only
+thing these innocents can understand is their seraphic utopia. Apparently no
+living thing up there in the heavens eats any other living thing -- our ETI
+are puzzled by the very concept of "kill". Our beatific interlocutors were
+apparently created by an onmniscient and omnibenevolent god to dwell together
+in heavenly communal bliss rather than evolved through Darwinian evolution.
+Children of Australia, there's your biology lesson for the day.  
+  
+COSMOS has rejected "inappropriate" messages to Gliese 581d, but it does not
+describe what its criteria for "inappropriate" might be. How can any of us
+humans predict the reaction to any given message of a genetically completed
+unrelated creature, even assuming it exists, in a culture about which we know
+absolutely nothing? COSMOS has no basis for deciding that any stupid or
+insulting message, and there are plenty of stupid and insulting messages that
+they let through, is better than any other, besides their own particular human
+21st century Australian reactions.  
+  
+Many submitters are sending normal chatty messages, while some are quite
+properly treating the whole thing as a joke, but it is worth thinking abut how
+closely many of the messages in this "science" project resemble prayers (all
+errors in the original):  
+  
+"I hope when you recieve these messages that you will come and visit and bring
+a new age to the human race. LIVE LONG AND PROSPER."  
+  
+"All things work together for good."  
+  
+"We're live in one universe,so we just like a family.We can share our happy
+with you."  
+  
+"We are so small."  
+  
+"Please help us to stop the obesity problem that haunts our world!"  
+  
+"Please come visit us on Earth as soon as you can.We've been waiting a long
+time to see you.Don't make us wait any longer! LIVE LONG & PROSPER!!!"  
+  
+"I know we are not alone.You are watching us."  
+  
+"Don't let humans colonize habitable extrasolar planets, contact us before
+then please. Thanks for not colonizing Earth long ago and allowing humans to
+evolve."  
+  
+"Bring some peace to the earth."  
+  
+"I am told if you say something to the universe it may come true."  
+  
+"We know that we are not alone,hope to hear from you."  
+  
+"Your technologies must be advanced than humans by millons of years.let us
+share all good things and we shall be friends."  
+  
+"Hello God, are you there?"  
+  
+And that's just from the first page of messages. These interstellar tweets
+that COSMOS collected and NASA obligingly plans to send via its Deep Space
+Network to Gliese 581, the earlier "Teen Message" sent by Dr. Alexander
+Zaitsev and his team from the Evpatoria dish in the Ukraine, and the Drake
+calculators that invite you to believe that your wishes are scientifically
+true, unless they disagree with the authors', are exercises, not in science
+education, but in "educating" the public in the tenets of an often twisted
+faith.
+

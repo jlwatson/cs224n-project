@@ -1,0 +1,114 @@
+The patent world was surprised today by the news that the Supreme Court will
+hear the case Laboratory Corp. of America v. Metabolite Laboratories. The case
+involves the scientific discovery that levels of homocysteine in the blood can
+indicate a deficiency in two B vitamins. But how the Supreme Court resolves
+the case may also have substantial implications for the patentability of
+business methods and even of software. We could get at least one strong
+opinion from at least one justice (John Paul Stevens) that from the point of
+view of today's patent practice would be very radical. Such an opinion,
+described below, would imply the invalidation not only of the kind of
+scientific discovery claim in Metabolite, but also business method patents and
+almost all software patents. It is unknown whether there are enough justices
+to make this a majority opinion. The profound implications of such an opinion
+suggest that the Court may punt and decide the issue on other grounds.  
+  
+Section 101 of the U.S. patent statute (Title 35) states that patentable
+subject matter is limited to four broad categories: "process, machine,
+manufacture, or composition of matter..." This implies, presumably, that there
+other categories that cannot be patented. For example, "algorithms" and "laws
+of nature" are two areas the Supreme Court has previously stated could not be
+patented. (Why algorithms are nevertheless now routinely patented is the
+subject of a paper I wrote last year -- I will attempt to summarize below).
+The definition of what can and cannot be patented has changed over time. The
+Supreme Court typically took a narrow view, for example in the Funk Brothers
+and Flook cases. However, the most recent Supreme Court 101 subject matter
+cases, Chakrabarty and Diehr, took a broader view. Diehr led to the modern
+view that software can be patented. The Federal Circuit has tended to ignore
+the restrictive cases, allowing software to be patented and, in the 1998 State
+Street case, allowing business methods to be patented.  
+  
+Recently the United States Patent Office decided to align itself more closely
+with the Federal Circuit and loosen up its restrictions on patenting business
+methods.  But today, the United States Supreme Court surprised the patent
+world by saying that it will hear the appeal in Metabolite. In this case, the
+"inventor" discovered a law of nature, namely that elevated levels of
+homocysteine in the blood tend to indicate a deficiency in the B vitamins
+cobalamine or folate. To take advantage of this discovery, the "inventor"
+claimed (in claim #13):  
+  
+  
+  
+> 13\. A method for detecting a deficiency of cobalamin or folate in warm-
+blooded animals comprising the steps of:  
+>  
+>  assaying a body fluid for an elevated level of total homocysteine; and  
+>  
+>  correlating an elevated level of total homocysteine in said body fluid with
+a deficiency of cobalamin or folate.  
+>  
+>
+
+  
+There is nothing novel about testing the blood for levels of homocysteine. The
+only novel and non-obvious part of the claim is the scientific discovery, the
+"correlating" step. If the claim is taken "as a whole," it (and any properly
+written claim covering any subject matter) passes muster under Section 101.
+If, however, focus is put on the subset of the claim that contributes to its
+novelty and non-obviousness, that portion of the claim will fail as a
+forbideen "law of nature."  
+  
+Here is how the Supreme Court in its opinion granting the appeal expressed the
+issue:  
+  
+
+> Whether a method patent setting forth an indefinite, undescribed, and non-
+enabling step directing a party simply to “correlat[e]” test results can
+validly claim a monopoly over a basic scientific relationship used in medical
+treatment such that any doctor necessarily infringes the patent merely by
+thinking about the relationship after looking at a test result.  
+>
+
+  
+This will be the first time in over a decade that the Supreme Court has heard
+a case on this subject -- a decade that saw the end of restrictions on
+software patents (despite "algorithms" being unpatentable) and the rise of
+business method patents.  
+  
+So why can software be patented despite "algorithms" being a forbidden subject
+matter under Flook and Diehr? Because clever drafters have added gratuitous
+steps or elements so that a patent claim, interpreted "as a whole," involves
+more than just an algorithm. For example, if you discover a new algorithm, you
+can patent that algorithm running as a computer program on a "device with
+memory." The "device with memory" is a gratuitous element, in that it does
+nothing to add to the novelty or the non-obviousness of the claim. It is only
+there to turn unpatentable subject matter into patentable subject matter.  
+  
+There is an old methodology that would have prevented such clever drafting to
+get around the 101 subject matter restrictions. It comes from the old British
+Nielson case. This methodology essentially says that, for purposes of
+determining whether a claim covers patentable subject matter, you don't look
+at the "claim as a whole," (the Diehr test), but instead just look at that
+subset of the claim that is the inventive contribution. In other words, look
+at only those elements or steps that contribute to the novelty or non-
+obviousness of a claim.  
+  
+The Nielson test was followed by the Supreme Court in expressly in cases from
+O'Reilly v. Morse (yes, that Morse, the telegraph case) in the 19th century to
+Flook in 1978. Had Flook been followed, most software and business methods
+would be unpatentable in the U.S. today.  
+  
+The most rational, but also most radical, way for the Court to resolve
+Metabolite would be a return to the Neilson/Flook test. Rational, because it's
+the only proven test we have for enforcing forbidden categories of patentable
+subject matter, whether they be "laws of nature," "algorithms," or business
+methods. Radical, because it would invalidate at a stroke not only the
+Metabolite-style discovery-based claims and business method patents, but
+almost all U.S. software patents as well. Justice John Paul Stevens wrote the
+Flook opinion in 1978 and is the only justice from that era still on the
+Court. So there is a good chance that we will at least get a strong dissent
+along these lines. However, the more likely majority outcome will, if it
+overturns the patent, do so on the more narrow grounds that it involves a
+mental step ("any doctor necessarily infringes the patent merely by thinking
+about the relationship after looking at a test result") or that it fails the
+112 written description standard.
+

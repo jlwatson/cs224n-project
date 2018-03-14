@@ -1,0 +1,31 @@
+"Technological neutrality" is a hot topic in government surveillance law. It
+posits that new technologies (such as WiFi and cryptography) that enhance
+privacy should be required, by law, to be altered in order to provide
+governments the same amount of ability to spy on private conversations as they
+had with previous technology. The argument is that we must decrease our legal
+rights in order to hold constant governments' abilities to spy on us.  
+  
+A big assumption lies in choosing the technological baseline of surveillance.
+Usually this is, conveniently for governments, chosen to correspond to some
+high-water mark of surveillance, for example the copper era when phone
+exchanges were centralized and wiretaps required only splicing together copper
+cables.  
+  
+The most accurate baseline, however, is the baseline abilities of surveillance
+that our laws, especially our Constitutional laws, were designed for. In the
+United States, the Fourth Amendment was designed for a world in which
+governments had no ability to wiretap. If a government wanted to spy on your
+conversation they had to do it the same way they can still do now -- by
+following you around and listening in person (or at least in the next room).
+On very rare occasions, you might write a letter and the government might open
+your mail, for which "paper" the Fourth Amendment required a search warrant
+based on swearing under oath that there was probable cause to suspect a crime
+related to that mail.  
+  
+In short, the "technological neutrality" argument, if applied correctly, leads
+to the opposite conclusion reached by its proponents. Rather than reacting to
+privacy technologies by reducing further our legal rights, instead we should
+be expanding our legal privacy rights and encouraging privacy technologies
+until we return to the baseline of government surveillance abilities for which
+the Fourth Amendment and similar protections were designed.
+

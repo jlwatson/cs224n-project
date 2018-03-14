@@ -1,0 +1,109 @@
+Today the concept of personal jurisdiction -- the freedom of a government to
+take action against a particular person for the purposes of enforcing a law --
+is largely based around the idea that a "sovereign state" has personal
+jurisdiction over the persons and activities within its territory. But in many
+times and places this has not been so. Under the system of political property
+rights in most of medieval Western Europe, for example, the kings had their
+political property rights, and the lords had theirs. Both were governed by the
+same basic laws of property, including laws of right (title), trespass, and
+inheritance. The result was a sophisticated system of jurisdiction based on
+property rights rather than sovereign rule.  
+  
+Both kings and lords had an incentive to respect each other's political and
+economic property. This is illustrated by a speech that Shakespeare puts into
+the mouth of Duke of York in _Richard II_ , when King Richard is threatening
+to (under somewhat dubious legal arguments) confiscate the exiled Duke of
+Hereford's estates and franchises (i.e. both his economic and political
+property rights). Indeed, a major theme of the tragedy is that since the king
+failed to respect political property rights, his own end up being overturned.
+Note that "royalties" and "franchises" are synonyms used for political
+property rights -- they are the same kinds of property rights as the king
+himself holds, and alliterative redundant pairs like (e.g. "royalties and
+rights") were common in legal language as well as in Shakespeare:  
+
+>  
+> O my liege,  
+> Pardon me, if you please; if not, I, pleased  
+> Not to be pardon'd, am content withal.  
+> Seek you to seize and gripe into your hands  
+> The royalties and rights of banish'd Hereford?  
+> ....  
+> Take Hereford's rights away, and take from Time  
+> His charters and his customary rights;  
+> Let not to-morrow then ensue to-day;  
+> Be not thyself; for how art thou a king  
+> But by fair sequence and succession?
+
+  
+The king's own rights to his realm are, in other words, based on the same
+property law as the jurisdictions of the dukes, burghers, and other franchise
+owners. Abrogate the law for others and it could easily be abrogated for the
+king. But the long era of political property rights would end with the coming
+of republicansim and democracy because Parliament and other legislatures do
+not share this coincidence of interests. Only the dawn of an independent court
+saved economic property rights in England and America -- but it was
+insufficient to save political property rights, especially those of
+jurisdiction which the "sovereign" courts seized for themselves.  
+  
+The late medieval English case of _Upton v. Le Mazerer_ provides a great
+illustration of personal jurisdiction based on political property rights
+rather than sovereignty. To get the most out of the following you should have
+a basic idea what a life estate and reversion are. The basic issue of the case
+is whether the the tenant holds property of the lord as a "sokeman" tenant (in
+which case the lord has jurisdiction) or whether the lord had granted the
+tenant a release from jurisdiction, making the tenant a "frank" tenant which
+meant the king had jurisdiction. The meanings of all these will become clearer
+as you read through the following description of the case, taken from my paper
+"Jurisdiction as Property."  
+  
+Our cast has several players:  
+  
+(1) Lord Hugh, ancestor of the current lord.  
+  
+(2) Hugh, a tenant of the Lord Hugh. As the curtain opens on the facts of the
+case, Hugh is a sokeman tenant of Hugh the lord, and thus Hugh the lord starts
+with personal jurisdiction over Hugh the tenant.  
+  
+(3) The current lord, heir of Lord Hugh.  
+  
+(4) The current tenant, heir of Hugh the tenant.  
+  
+
+> In Upton v. Le Mazerer a “writ of right according to the custom of the
+manor,” a dispute over lands of the manor, was removed...from the manorial
+court because the tenant party claimed to hold in frank-fee rather than as a
+sokeman of the lord of the manor. If this was the case the king, not the lord
+of the manor had personal jurisdiction over the tenant.  
+>  
+> The agreed facts were that Hugh, ancestor of the current lord, had granted
+to Hugh, a sokeman tenant (i.e. a tenant then under the jurisdiction of Hugh
+the lord), the same lands that Hugh already held of his lord, but in “frank,”
+thus releasing Hugh the tenant from the lord’s to the king’s jurisdiction. The
+current tenant, a successor to the tenant Hugh, claimed the grant was frank-
+fee, i.e. [in the king's jurisdiction] “for all time”, while the current lord,
+an heir to Hugh the lord, agreed that it was a grant of freedom from the
+lord’s jurisdiction but argued that the grant was only for “a term of life.”
+The current lord, heir of Hugh the lord, argued that “we are claiming these
+tenements as ancient demesne from the seisin of [our] ancestor, which is
+higher in time than this deed” In modern terms, the lord of the manor was
+claiming that the tenant now held only the reversion of the life estate, which
+was just the original sokeman fee held of the lord of the manor, and thus that
+the lord of the manor had regained jurisdiction over the tenant. The outcome
+of the case thus hinged on whether the grant adding to the tenancy freedom
+from the lord’s jurisdiction was for a term of life or a perpetual fee. The
+outcome of this factual issue was not reported, but the reporter observed that
+“if it be found that Hugh [the tenant] had fee, the original writ, which
+remained in the lord’s court, would abate...[a]nd if it be found that he only
+had for a term of life, then the parties shall go back to the lord’s court,
+and plead with regard to the original etc.” The personal jurisdiction of each
+court was entirely contingent on the outcome of the property issue: as one
+Scrope (either a justice favorable to the lord, or one of the lord’s
+barristers) observed, “[t]he scope of the averment is only to determine
+whether the tenements ought to be tried here or sent back to the lord’s
+court.” The reporter also noted main property law issue on which jurisdiction
+hinged: “[w]hen a man recovers tenements from his ancestor’s seisin, he shall
+recover the tenements in the state wherein his ancestors held them, and all
+deeds made in the meantime between the ancestor’s recovery and the seisin will
+be defeated by this recovery.”  
+>
+

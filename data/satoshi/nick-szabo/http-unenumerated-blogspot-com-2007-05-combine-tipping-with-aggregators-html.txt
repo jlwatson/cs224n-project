@@ -1,0 +1,55 @@
+TipIt proposes to include a content aggregation feature showing the best-
+tipped pieces of content, since a tip is more credible than your typical
+content vote on an aggregator like digg or reddit. This suggests to me an even
+bigger idea: to provide similar incentives for Internet tipping as we have for
+tipping at a dinner out -- to make it an expected social practice -- combine
+tipping with content aggregators like reddit or digg or socializing services
+like facebook with features as described below.  
+  
+With content we don't know how much it's worth until we've already consumed it
+(a classic measurement problem). A tip would solve this problem, but a tip is
+a social thing and requires more than just a payment.  
+  
+If I were doing TipIt I'd change the design in four ways. First, I'd add
+generosity signal features that inform one's friends or fellow tippers as well
+as the tipee about the tip. This could be in the form of aggregator "karma"
+points that name and ranks the most generous tippers. This would be like the
+"karma" points which people who add content to a social aggregator compete
+for, but it signals far more -- it signals that one is a generous tipper as
+well as a generous contributor of reccomendations. There are a variety of
+other ways (home or facebook pages, e-mail, etc.) that generosity signals
+might similarly be sent within a social circle.  
+  
+Secondly, I'd add it to an existing aggregator rather than starting a whole
+new service from scratch.  
+  
+Third, I'd add some extra security (cryptography, natch :-)  
+  
+Fourth, I wouldn't try to aggregate "microtips." I think these will have the
+same kinds of problems that micropayments have. Instead, I'd make the tips
+nice round numbers in increments of 50 cents or a dollar. That makes it simple
+for people to keep track of their own tips and their friend's tips.  
+  
+So here's how it might work:  
+  
+Your client software (perhaps just a web page script) pays the tip (using an
+already existing system like PayPal) to the content provider, perhaps via the
+aggregator, and publishes a cryptographic proof that you made the tip. The
+aggregator verifies the proof (if it's not the payment intermediary it does
+this by cross-checking with the tipee), registers the vote, and shows that you
+made the tip. This signals to others both that the content is appreciated,
+that you are a generous tipper (thus transporting the social incentive to tip
+from dining out to the Internet), that you have good taste, and that you put
+your money where your digg vote is.  
+  
+Optionally, it could publish a bit of HTML code on the tipper's own blog or
+home page, that links to the aggregator and shows how much a person has
+tipped. It could send out e-mails to the tipper's friends recommending the
+content and, along the way, informing the friends of the generosity of the
+tip.  
+  
+If content tipping on the Internet will work at all -- and given the
+measurement problem of content it would be very nice if it would work - I
+think it's much more likely to work well if done in a social fashion like
+this.
+

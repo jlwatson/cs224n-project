@@ -1,0 +1,76 @@
+The pigeonhole principle sounds trivial but is profound. It says that you
+can't fit **n** pigeons into fewer than **n** holes without cramming at least
+two pigeons into one of the holes. It says that somebody must lose in a game
+of musical chairs. In fancier mathematese, which you can safely skip if it
+sounds like gibberish, the pigeonhole principle says that there is no
+bijective (or 1-to-1 and onto) mapping (or function) between a set S and any
+proper subset of S, or for that matter any set smaller than S. [*]  
+  
+The pigeonhole principle readily proves that there are people in Ohio with the
+same number of hairs on their head, that you can't eliminate the possibility
+of hash collisions when the set of possible input data is larger than the
+possible outputs, that if there are at least two people in a room then there
+must be at least two people in that room with the same number of cousins in
+the room, and that a lossless data compression algorithm must always make some
+files _longer._ This is just the tip of the iceberg of what the pigeonhole
+principle can help prove.  
+  
+First let's prove that if there are **n** people in the room, where **n** is
+at least two, then there must be at least two (but not necessarily **n** )
+people in that room with the same number of cousins (of the same degree or
+less) in the room. In mathematese (which you can again ignore if you wish)
+being a "cousin" a symmetric relationship (if I'm your cousin then you're
+mine) and non-reflexive (I'm not my own cousin). The proof actually works for
+any such relationship: twins separated at birth, members of the opposite sex,
+and so on. Here it is, another proof by contradiction:  
+  
+(1) Assume that each person in the room has a different number of cousins in
+the room;  
+  
+(2) Putting the pigeons in their holes, one person must have no cousins, and
+another one cousin, and so on; the **n** th person must have **n-1** cousins.
+That fills up all the holes with no doubly-stuffed holes, right?  
+  
+(3) Yes, but if the **n** th person is a cousin with every other person in the
+room, then there can be nobody in the room with no cousins, so sequence (2) is
+an impossible contradiction, proving that in fact statement (1) is false:
+there must be at least two pigeons in the same hole, i.e. at least two people
+with the same number of cousins in the room.  
+  
+Next let's prove (again by contradiction) that any lossless compression
+algorithm must make some file larger:  
+  
+(1) Since it's a compression algorithm, by definition at least one file will
+be made shorter. Call the shortest such file **F** of size **m** which
+compresses to size **n** (i.e. **n** < **m** );  
+  
+(2) furthermore assume no file will be made longer;  
+  
+(3) thus every file of size **n** or less is incompressible;  
+  
+(4) since no files are made longer, thus there must be at least **2^n +** 1
+****files that compress to size **n** or less: all files of size **n** or less
+plus file **F;**  
+  
+(5) but we can't fit **2^n +** 1 pigeons into **2^n** holes without putting
+two pigeons in one of the holes: in other words, at least two files must
+compress to the same output file, which is lossy compression;  
+  
+(6) thus assumption (2) is false: if the compression is lossless some file
+must be made longer.  
+  
+Lossless compression nevertheless can be quite effective because data is
+usually far from uniformly distributed among the **2^n** possibilities. The
+most common patterns are given the shortest codes, resulting in overall
+compression in almost all real files that aren't already compressed,
+encrypted, or otherwise random.  
+  
+The proofs on hairs and hash collisions are left as exercises for the student.
+(Don't you hate when math textbooks say that?)  
+  
+ _An old pigeon farm, back when people actually ate these nasty critters.
+Presumably all the pigeons fit into all the holes._  
+  
+[*] Update: this holds for finite sets; the technicalities are a bit different
+for infinite sets. See comments.
+

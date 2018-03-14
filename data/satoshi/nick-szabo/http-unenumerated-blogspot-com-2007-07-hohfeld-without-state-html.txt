@@ -1,0 +1,125 @@
+Words like "rights," "freedoms", "liberties", "duties", and so on describe
+crucial ideas but are often used ambiguously in politics and the law. Lawyer
+Wesley Hohfeld early in the twentieth century in the United States developed a
+classification and technical terminology for these ideas that goes far towards
+eliminating much of this ambiguity.  
+  
+First Hohfeld defined these ideas as relationships between persons. Second, he
+organized them into binary opposites and correlatives. Here are the binary
+opposites -- you either have them or you don't:  
+  
+right/no-right  
+freedom/duty  
+  
+(I'm substituting "freedom" where Hohfield and his followers have used
+"privilege" , "liberty", or even worse "permission" -- for reasons that should
+become apparent below). With respect to a given subject matter and under a
+given set of laws governing that subject matter, you either have a right or no
+right, never both. And you either have a freedom from duty or a duty, never
+both.  
+  
+The most crucial aspect of this terminology is that these ideas are also
+related as correlatives -- the existence of one implies the existence of the
+other. Thus  
+  
+right of A => duty of (at least) B  
+freedom of A => no-right of any other  
+  
+Hohfeld's terminology is often described (e.g. by the legal scholars Corbin
+and Singer) in terms of "the state" that whose enforcement actions create
+rights (and thus duties) and whose lack of enforcement action creates
+"privileges" or "permssions". Regular readers of the blog will see at least
+one problem with this approach, but does Hohfeld terminology make sense
+independently of "the state"?  
+  
+Not only do these terms make sense without "the state", they make even more
+sense without "the state" and even make sense independently of the existence
+of anything like a state. Stateless scenarios help to illuminate the meanings
+of Hohfeld's terms, and getting rid of "the state" will shed light on analysis
+of the origins of rights. For example, by distinguishing a "right" from a
+"freedom", I will create a much clearer description of John Locke's theory of
+a "social compact" which highlights some of its strengths and weaknesses. This
+generalization of Hohfeld terminology also allows us to apply it to real world
+situations involving conflicting jurisdictions and laws rather than the
+mythological monolithic state.  
+  
+Let's start with a Mr. Robinson Crusoe stranded alone on his tropical island.
+Crusoe is able to do anything he likes without legal or other coercive
+restriction, or indeed without a negative response by another person of any
+kind -- he has perfect freedom. But he can't sue or otherwise punish anybody,
+so he has, in Hohfeldian terms, no rights. Robinson Crusoe expemplfies the
+correlatives "freedom" and "no right".  
+  
+Now let's strand a Mr. Geoffrey Dalrymple on the island with Mr. Crusoe. In a
+state of pure amorality and lawlessness (which is to be sure purely
+theoretical and in practice would not last for long), there are no rights of
+any kind. Crusoe has no duties and thus perfect freedom to do anything (kill
+Dalrymple, steal his food, and so on), and correlatively Dalrymple has no
+rights. Dalrymple for his part has no duties and thus perfect freedom, and and
+Crusoe has no rights.  
+  
+Do we require a state to introduce rights into this situation? In fact we
+don't even need the introduction of a third party. To introduce rights and
+duties into this situation, Crusoe and Dalrymple merely need to enter into an
+agreement, a la Locke. This agreement could be as informal as a common
+cultural understanding or as formal as carving words on stone. Let's say
+Crusoe agrees not to commit a tort (battery, theft, etc.) against Dalrymple
+and Dalrymple agrees to not commit a tort against Crusoe. Crusoe now has
+rights (defined by tort law as he understands it, unless stated explicitly)
+against Dalrymple and Dalrymple now has tort rights (defind by tort law as he
+understands it, unless stated explicitly) against Crusoe. Crusoe correlatively
+has duties towards Dalrymple, and vice versa, and both correspondingly have
+their freedoms reduced. They have traded some freedoms for some rights. (This
+is a much clearer way of saying, in the older terminology in which "freedom",
+"rights", and so on were overlapping and often indistinct concepts, that
+people have traded away some rights in order to preserve other rights).  
+  
+Of course the consequences of a right -- in particular the remedy available
+for the breach of a right -- is hardly the same as in a mature legal system
+with courts, police, etc. If one of Crusoe's rights is breached, for example
+by Dalrymple stealing his food, his only remedy is to take an action himself
+-- for example, steal back some food. Crusoe and Dalrymple would be wise to
+specify such remedies in their agreement. We can see how a third party, or
+even better courts and police, would help enforce such a remedy, but they, and
+much less "the state", are not necessary for the basic Hohfeldian ideas of
+right and duty to arise.  
+  
+Corbin, in describing Hohfeldian terms, invoked "a giant" as a metaphor for
+"the state." It's easy to see that if a wise giant lived on the island it
+would be profitable for Crusoe and Dalrymple to agree to use that giant to
+hear their cases and enforce the remedy they had agreed upon. This corresponds
+to the "choice of forum" clause found in many modern contracts. But let's say
+there were two wise giants on the island, Giganticus and Gargantua. This
+multiplicity of giants would certainly confuse Corbin's (and Singer's)
+explanations of Hohfeld, but is in fact readily explicable in Hohfeldian and
+choice-of-forum terms. There are often great advantages to division of labor.
+Crusoe and Dalrymple could thus agree to divide up the subject matters of
+their agreement. They might, for example, choose Giganticus to adjudicate and
+enforce tort and property law, and Gargantua to adjudicate and enforce
+contract law (include this meta-contract).  
+  
+Alternatively, if Giganticus is strong and Gargantua is wise, they might agree
+that Gargantua should decide the cases regarding any subject matter (i.e. act
+as a judiciary) and Giganticus should enforce them (i.e. act as an executive).
+As another alternative , the giants could agree on the division of subject
+matter jurisdiction betweem them, or divide between them adjudication and
+enforcement, and force their agreement on Crusoe and Dalrymple.  
+  
+Each of these scenarios is a plausible one. None involve "the state", but each
+involve rights and correlative duties as well as freedoms and correlative lack
+of rights. The probability that the giants would enforce their own brand of
+law, rather than just enforcing whatever Crusoe and Dalrymple agree to, casts
+some doubt on Locke and other "social contract" theorists as providing an
+actual history rather than an ideal of the formation of legal systems or
+states. More likely is the model of Mancur Olson, in which "stationary
+bandits" out-competed "roving bandits" in the coercively competitive business
+of collecting taxes and thereby formed states (and, I'd add, formed other
+kinds of political property rights as well). All fodder for future posts.  
+  
+Ref: Hohfeld, W. N. Fundamental Legal Conceptions as Applied in Judicial
+Reasoning, ed. by W.W. Cook (1919); reprint, New Haven, CT: Yale University
+Press, (1964).  
+  
+UPDATE: I have clarified my recasting of Locke's analysis and corrected a typo
+pointed out by a commentor.
+

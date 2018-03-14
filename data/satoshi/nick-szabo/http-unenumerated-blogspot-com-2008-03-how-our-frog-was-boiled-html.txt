@@ -1,0 +1,138 @@
+Libertarians have long observed with regret the radical expansion of the power
+of the United States federal government over its original scope under the
+Constitution of 1789. Lovers of freedom tend to blame two chief culprits for
+this expansion: President Abraham Lincoln, who instigated our Civil War, and
+President Franklin Delano Roosevelt with his New Deal. And indeed, these
+Presidents did instigate some noxious precedents: Abraham Lincoln the draft
+and income tax, FDR the advocacy of positive substantive rights and the birth
+of practically unlimited regulatory power of federal government. Some cite
+villains from the Progressive Era, such as Theodore Roosevelt and Woodrow
+Wilson.  
+  
+However, these theories oversimplify U.S. history to the point where the real
+and fixable sources of our loss of freedom cannot be identified. They make it
+sound like if we could simply go back in history and remove a handful of
+powerful villains, or avoid a handful of crises, then we would be living in a
+much freer society today. That is very far from the reality.  
+  
+The consequences of even Lincoln and FDR were not unmixed. Lincoln damaged
+some freedoms, but he also greatly increased freedom by ending slavery. The
+Civil War Amendments, especially the 14th Amendment, eventually led to a great
+increase in the enforcement of unenumerated rights (hence the name of this
+blog!) and the Bill of Rights against the states (and, for reasons I relate
+here, hence also against the federal government). Among the leading countries
+in the middle of the evil 20th century, the United States despite FDR was the
+most free. FDR destroyed the threat of fascism and appointed most of the
+Justices who ended forced and unequal segregation by race. One can easily
+argue, especially in the case of FDR, that the curses outweighed the
+blessings, but one cannot seriously portray even these powerful Presidents as
+unmixed enemies of freedom. It's great fun, and may be morally imperative, to
+blaspheme these great gods in the pantheon of government worship, but
+criticisms of these particular actors don't get us to the core of why, in the
+face of a Constitution that outline a strictly enumerated set of powers, the
+adherents of that religion were able burst far beyond those bounds and render
+them nugatory.  
+  
+The expansion of power of the U.S. federal government was not primarily due to
+villians, crises, or revolutions, but far more resembled the proverbial
+boiling frog: it mostly happened by small and obscure steps that were not
+widely noted by lovers of freedom at the time, and have seldom been noted by
+us since. The slow rot of Constitutional protections against federal power
+stemmed from subtle but endemic flaws in the original frame of our federal
+government, the rise of an economy where large numbers of people earned income
+from auditable corporations (making the income tax, the most lucrative tax in
+history, practical), and the disappearance of frontiers of free land to which
+the overtaxed or overregulated could flee. This article focuses primarily on
+the first, the clearest and most fixable cause, the procedural flaws in our
+Constitution.  
+  
+The U.S. Constitution lists a number of enumerated powers, beyond which
+Congress was granted no power to legislate. In other words, the U.S. Congress
+was supposed to have a small, close-ended list of powers, and this is still
+recognized by the Supreme Court as theoretically true today. If this had
+remained true in practice, as well as legal theory, the U.S. federal
+government would be a radically libertarian entity today. That it is no longer
+practically true, is, more than any other factor, due to the long series of
+usurpations of power by Congress under the Commerce Clause, which in its words
+gives the Congress the power to regulate “commerce among the States.” At the
+time, this power was thought to be limited to power to regulate the transport
+of goods and persons across State boundaries, and indeed in the first century
+of the Constitution it was largely in practical fact so limited. (There are a
+number of other causes, such as the 16th Amendment of 1913 legalizing the
+income tax, but the Commerce Clause is the way in which Congress has most
+expanded its power to regulated, and an extremely vast expansion it has been).  
+  
+It’s fairly obvious why Congress, by itself, has not and would not seriously
+let any kind of Constitutional text limit its own power. Less obvious is why
+the Supreme Court, which has the final word on interpreting Congressional
+power to legislate under the Constitution, would allow Congress to so greatly
+expand its powers. But that is just what it did, by many slow and incremental
+steps.  
+  
+Under Chief Justice Marshall, there were a number of cases restricting the
+power of States to regulate what Marshall argued was interstate commerce, and
+thus under federal jurisdiction. In immediate effect these were libertarian
+decisions, since they overturned often burdensome State laws. The Marshall
+Court, and the Story Court that followed it, refused to find, even once, any
+limits on the federal Commerce Clause power. Although it was generally agreed
+that “commerce among the States” was limited to the transport of goods and
+persons across state lines, Marshall refused to define it in this manner, or
+indeed define any clear outer limited to the Commerce power. Indeed, in dicta
+(sentences in a legal opinion that are not legally binding, because they are
+not logically necessary for reaching the verdict), Marshall suggested that any
+activity that “effects” such transport might be regulated. Although Marshall’s
+nationalist ideology set the tone, overturning state laws and ignoring federal
+laws, this pattern of limiting state usurpations but ignoring federal
+usurpations was largely continued by future courts, for reasons of bias or
+conflicts of interest caused by court selection and structure which I describe
+here.  
+  
+Although there were a handful of cases limiting the Commerce Clause in very
+narrow and specific ways at the end of the 19th century, the _Swift v. U.S._
+case in 1905 greatly expanded the Clause’s scope to cover manufacturing, not
+just the transport of goods or persons across State borders, on the theory
+that the manufactured goods would end up in interstate commerce. This was part
+of the so-called “Progressive” movement, the rise of the modern religion of
+"the government", an omnipotent deity called upon by the national press to
+solve any major problem deemed to be national in scope. This era saw the
+greatest expansions of federal power in U.S. history, including its basic
+tools of financial power, the Federal Reserve system and the 16th Amendment in
+1913 legalizing the income tax. During this era, in which states also greatly
+expanded their powers, the Supreme Court was again far more active at limiting
+the states than limiting federal power. The “Progressive Era” was a very broad
+and general ideological movement, and most of it cannot be pinned on any
+particular politician. Drivers of the movement included the steam press and
+news wire agencies, which promulgated a national view (that vague godlike
+phrase, “the government”, came to refer to the federal rather than state
+government during this era). Under this new media system information transfer
+became dominated by the press releases of powerful governments and
+corporations. The spread of government-mandated education, again inculcating a
+very nationalist view, in the latter half of the 19th century also played a
+large role. The end of free arable land on the Western frontier and the rise
+of the auditable corporation also played crucial roles in facilitating much
+greater levels of taxation. During this era, except for a handful of minor
+victories, the federal courts did not prevent Congress and the President under
+the impetus of this movement from usurping vast powers not granted them under
+the original meaning of the Constitution.  
+  
+After this, the New Deal simply delivered the _coup de grace_. In _Wickard v.
+Fillburn_ , the Court proved it had no desire to limit the federal government
+in any serious way, using Marshall’s “effects” dicta to justify its holding
+that growing wheat on your own small farm for your own consumption is
+“commerce among the States." Quite recently, the Supreme Court reconfirmed
+this absurdity: growing marijuana in your house is also “commerce among the
+States.” And thus the frog has been boiled. To this day our amphibian does not
+realize that it has already been cooked. The idea that the U.S. Supreme Court,
+given this long history of precedents, and the same kinds of selectional and
+operational biases it has always operated under, will ever seriously limit
+federal power again, just because that is what the Constitution says it must
+do, is far-fetched. Our courts as currently structured will only protect
+certain narrow rights of persons under the Bill of Rights from otherwise
+omnipotent governments. The idea that “We the People” will somehow elect a
+Congress or President that will voluntarily waive their own powers is even
+more absurd. Libertarians are playing a game with a very stacked deck, and
+that deck is stacked by the Constitution itself, the very same Constitution
+that in its original meaning was, substantively, radically libertarian, but
+that included procedural incentives for Congress and the Courts to slowly
+aggrandize federal powers.
+

@@ -1,0 +1,44 @@
+I recently found a delightful new book, The Origins of Value: The Financial
+Innovations That Created Modern Capital Markets, edited by Goetzmann and
+Rouwenhorst. Besides the wonderful pictures (it doubles as coffee-table book),
+it contains a variety of articles on the precursors and antecedents of modern
+trade in stocks, debt, and financial instruments. Each article is (co-)written
+by different noted authorities in the history of financial markets.  
+  
+Just some of the highlights: tallies, chirographs, Chinese paper money (a kind
+of sad history paralleling the 20th century experience with government
+currencies), the Roman publicani, Fibonacci on present value, securitization
+of government debt in Venice and Genoa, the Dutch East India Company (VOC --
+the first corporation whose stock was widely traded), a silly defense of John
+Law (making some noteworthy economic observations justifies coercing and
+defrauding millions?), and a perpetuity that financed a 17th-century Dutch
+dike and is still being paid today.  
+  
+The book is biased towards finding antecedents of surface phenomena of modern
+capital markets, and thus is narrower than a good history of economic
+institutions would be. The importance of the legal idea of a corporation as a
+"person" is briefly noted, for example, but the many tricky legal issues this
+raises that must be solved before such an institution can become widely
+viable, the shortcomings of Roman law in this regard (despite the publicani,
+which are so poorly recorded in the historical record we lack many important
+details on their legal structure and operations) are not raised. Nor are
+contributions to corporate law of the Catholic Church, municipalities, and
+guilds in the Middle Ages (not to mention Western law schools, which first
+appeared then), long before Dutch East India Company, mentioned. Indeed, most
+of the important legal issues that must be solved to make modern capital
+markets possible are just not addressed, despite the vast documentary record
+of legal codes and decisions from Babylon, Rome, medieval Europe, and other
+places where such legal breakthroughs were made. Some important issues of
+trust and security are raised or at least hinted at, but are usually not
+explored in detail. The crucial role of accounting is given short shrift.
+There is not a lot of economic theory and it doesn't go much beyond standard
+financial economics, which may not provide a very good model many of the
+ancient, high transaction cost eras discussed.  
+  
+These, however, are just grumbles about how reality always falls far short of
+the ideals one can envision. After all, the subtitle says "...Financial
+Innovations...", not accounting or legal or in general institutional
+innovations that made modern capital markets possible. And I don't know of any
+single book out there that explores so many episodes of ancient, medieval, and
+renaissance financial history in such a detailed and colorful way.
+

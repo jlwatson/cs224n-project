@@ -1,0 +1,34 @@
+Ed Felten redubs smart contracts, at least for the purposes of tying, "PRM"
+(Property Rights Management). A traditional example of tying is the razors-
+and-blades strategy: a company sells you a razor at a loss and recoups the
+profit on the blades. This marketing strategy is also popular with printers
+and cartridges. To prevent consumers from buying off-brand cartridges and
+thereby foiling the marketing strategy, some printer manufacturers have
+embedded a cryptographic protocol whereby the printer authenticates the
+cartridge as containing the private key of the manufacturer. Extrapolating
+from this example, Felton complains about looming restrictions on our use of
+everyday items if "PRM" becomes a reality. Tyler Cowen rebuts Felten's
+complaints with respect to tying on economic grounds, pointing out that where
+manufacturers have an incentive to tie, it generally increases the welfare of
+consumers as a whole as well as manufacturers.  
+  
+While I am a proponent of most kinds of smart contracts, I'm also quite
+sympathetic to the freedom-to-tinker movement. I generally oppose legislation
+like DMCA that artificially protects insecure smart contracts. And consumers
+should be empowered to choose their smart contracts wisely. I support open
+source protocols so that somebody neutral has read the smart fine print. Smart
+contract protocols, like legal contracts, should be in the public domain.  
+  
+As a commentor to Felten's post pointed out, manufacturers usually don't have
+contractual privity with consumers, unless you order direct. Through smart
+contracts, manufacturers may gain some digital privity with the end user.  
+  
+At least in the context of the United States legal system, it's fair for
+manufacturers to restrict how consumers can use their products, since,
+breaching privity, U.S. courts at least have already decided that
+manufacturers are strictly liable for unsafe products, often even when the
+consumers misuse them. Thus manufacturers go to great lengths to make products
+"idiot proof" and also, alas, "tinker proof." Since Felton wants the freedom
+to tinker, he should oppose strict product liability. At least, people who
+tinker and get hurt should not be able to sue the manufactuer.
+
