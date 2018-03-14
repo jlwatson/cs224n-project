@@ -1,0 +1,45 @@
+It would be nice for those little miners to burst out as they needed
+too!
+
+Yes, longer the blocksize, the less overhead in bytes and process time per
+transaction.  So of course, a big user (big miner) with more transactions,
+wider bandwidth, and possibly a slightly better (faster) equipment would
+want a longer block size.  After all, he's also paying more for his bigger 
+bandwidth to his carrier.  He needs to fill the width. But a little user
+in the same town with narrower bandwidth and slower equipment can 
+also be able to get on-line mit above node signaling.  The entire 
+nodes in the cloud have the same critical real-time info all the time,
+ instantaneously.  As in Shinkansen hi speed bullet concept as formulated
+originally by the JNR, back 50+ yrs ago, which is to separate high speed,
+high priority passenger train track, not to be shared by the slow moving
+freight trains, Bitcoin if not already, must construct independent high
+speed signaling network with short message size (blocksize) away
+from message blocks.  I don't mean virtual channel as in the ISDN's D channel
+on the same copper wire but totally separate wire or fiber.
+
+What's the cost of this separate, standard gauge (not narrow gauge), 
+shortest route (no going around mountains but tunnel
+thru them), hi-speed train track for the Bitcoin signaling?
+
+With that independent hi-speed wide track signalling network,
+who cares about the blocksize limit?  It's all in the carrier's
+and CPE capacity.  But wait, if the signaling messages are short,
+you won't need that big bandwidth and therefore, expense.
+______________
+*I think too many of our TV viewers are brain washed to have
+ Cable carriers making them think that a cable TV is a necessary
+ utility, in par with his electricity, gas, or even vital water.  Why 
+ But pay $88/mo cable when I can watch skywave TV programs
+ of great interest without getting frustrated with cable's every 3
+ minute drug ads as many of the cable addicts put up with?  I 
+ won't.  The cable addicts in reality are PAYING to watch the 
+ strings of 5 or even 7 drug ads before they're allowed to watch 
+ only 3 minutes of their favorite program.  Dat's stoiped@#$!!!  
+ But hey, what about me internet connection w/o the cable?  Oh, 
+well, depends on your internet usage.  In my case, I get free TV 
+(airwave Aunt Anna TV) and can have the great 128Kbps email 
+connection (ISDN) for my meager need of 440bps transmitter
+(that xmits with Roman n' Russian fingers dato girls love).
+
+Ciao, Ich Danke Ihnen, я люблю вас, 発現終わり.
+Bye, I thank you, I love you, ...

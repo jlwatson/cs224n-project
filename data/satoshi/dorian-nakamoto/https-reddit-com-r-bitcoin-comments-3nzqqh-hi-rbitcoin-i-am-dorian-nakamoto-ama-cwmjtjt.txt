@@ -1,0 +1,77 @@
+The Bitcoin block building must conform to the standard protocol and block building/disassembling too but need to be processed more for encryption.  It'll 
+take more time and process power of the CPU(s).  Parallel processing of a single
+block of message by the multi-node is possible.  Say give the same long block of
+10 Mbytes to 3 nearest or 3 available nodes to divide the calculation task or
+even feed them 1/3 of the block ea. and have the 1st or 4th node 
+to gather the results and make decisions.  This of course requires 
+coordination protocol amongst these nodes, which is an overhead.  
+I don't know how this is done in Bitcoin servers/nodes.
+
+One of the Bitcoin founder's credos is to serve the poor little guys 
+too from the expensive centralized giant bankers for his 
+transactions and that credo should also apply to the big corporate type of 
+miners too.  We can serve both types of users regardless of 
+the blocksize.  See below.
+
+For the little miners vs. the big corporate miners problem...
+The blocksize can be increased and yet, can allow the little users
+participate.
+
+  Monopolization by a big blocksize user can be controlled by the
+  network nodes identifying the user's address and keeping track 
+  of their bandwidth usage over a determined sample time.  
+
+If the network bandwidth capacity is available with no other than
+the big user at say midnight, let him use up the bandwidth until
+someone else knocks the door.  All the network nodes will be notified
+about the big user's address while he is streaming continuous large 
+blocks.  And, when someone else knocks the door of a node in the 
+cloud (network), it can send a reject notice back to 
+the big user thru the cloud when he reached the negotiated limit.
+It doesn't matter if the big user has many nodes pumping in 
+continuous stream of big blocksize simultaneously from many 
+entrances (nodes) within the cloud.  All the network nodes are
+notified to reject further pumping from the identified big user. 
+Thus, the block size is of no concern to allow the little guy in.
+Hmmm, how about this big user uses multi IDs?
+As a user of internet, I sure want to burst at times with my cheapo 
+connection!  I use ISDN 2B+D channel at 128Kbps (that's bits, not bytes/sec
+ and I actually get just a bit less than 128K due to the D channel) - aka
+DSL on my copper.   I'm like that little Bitcoin miner just sitting there
+ wondering when or rather whether his transmission request if not 
+actual transmission had been completed.  In the business AM hours
+of like 815AM to 9AM, my browser comes up very slow.  The little guy
+(me) with a narrow BW if I was a miner will loose my next batch of
+customers in Bitcoin against all those companies and businesses 
+around my town all booting up and starting internet transactions 
+at the same time.  Ok,Ok, are you saying this little kid shouldn't be
+in this beeswax?  
+
+Yes, don't laugh, I'm happy I switched back from Charter cable at $60/mo
+to $22/mo ISDN.  I can't justify to stay with the cable carrier when 
+the lease was about to end earlier this yr and the cable carrier jacked
+up the fee from $30 to $60/m.  Hey carrier, why can't u chk up 
+on my actual band width usage?  UC, I can't type fast enough to 
+do the emails though i can type 50 - 60 wpm.
+That's like 55 bytes x 8bits/byte = 440 bits/sec!!!  Even my DSL 
+bandwidth at 128Kbps is way too waste of BW.  The em is my main 
+usage so why pay for Charter's 60Mbps?  No, I don't want cable TV.  I just 
+use an old fashion sky wave to watch all the free 
+programs (a hand full of channels) which turn out 2B the only ones 
+I want 2C*.  Yes, an occasional youtube viewing stumbles n' gets 
+blurry on the DSL.  On the other hand, even during the email 
+session, if I want to attach 3M bytes of hi resolution photos on my 
+em text, at times, it's so slow to watch the progress bar that I 
+want an ability to burst out.  Or like the utube, I want at times,
+burst in for movie viewing for like say 12 minutes show.
+
+Frame Relay was one of the protocols that can be negotiated to
+be assigned for a short burst, in/out over the contracted bandwidth.
+
+So my stance on the Bitcoin blocksize is it can be of any length, as
+long as the network has the capacity.  And yes, it should and
+can allow the little miners to get in against the big users regardless
+of the blocksize or the little guy's slow CPE or his slow number 
+crunching server.
+
+Continued to nxt thrd
