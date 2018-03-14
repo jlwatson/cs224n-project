@@ -1,0 +1,3 @@
+Yes, the DoS threat is the big problem. I believe their response is "miners need to have DoS protection anyway..."
+
+I think the 'weak blocks' approach (have miners publish "I almost solved the proof of work puzzle" blocks) has all the benefits without the increased DoS risk.

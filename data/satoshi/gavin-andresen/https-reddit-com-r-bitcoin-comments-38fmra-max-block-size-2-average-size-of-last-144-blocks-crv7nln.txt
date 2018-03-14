@@ -1,0 +1,1 @@
+Has monero ever had enough transaction volume to see if it works in practice? Block explorer I looked at showed nothing but 1-2 transaction blocks.

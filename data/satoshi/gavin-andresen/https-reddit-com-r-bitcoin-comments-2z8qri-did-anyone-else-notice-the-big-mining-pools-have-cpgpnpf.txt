@@ -1,0 +1,5 @@
+Maybe related: it is economically rational to NOT use all of your hashing power to mine for yourself, but to use some of it to attack big pools:
+
+http://arxiv.org/abs/1402.1718 or http://arxiv.org/abs/1411.7099
+
+That would fit the rise in "other" hashing power (keep your hashing private so you can't be attacked) and the decline of the biggest pools-- have the biggest pools had an unexplained increase of 'bad luck' since they've been declining?

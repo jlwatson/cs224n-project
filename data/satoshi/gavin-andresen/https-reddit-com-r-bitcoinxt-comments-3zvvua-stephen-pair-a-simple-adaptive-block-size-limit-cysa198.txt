@@ -1,0 +1,2 @@
+I'm working on closer-to-theoretically-optimal propagation (looking at which state-if-the-art gossip algorithms might make sense for Bitcoin).
+

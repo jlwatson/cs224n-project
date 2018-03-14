@@ -1,0 +1,3 @@
+We're at 400k average blocks, so you're going to be over 10minutes per block before we saturate at 1MB blocks.
+
+So no matter what happens you'll soon need a software and/or hardware upgrade to keep up.

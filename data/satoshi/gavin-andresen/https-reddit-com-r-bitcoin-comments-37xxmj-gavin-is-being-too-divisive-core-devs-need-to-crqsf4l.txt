@@ -1,0 +1,33 @@
+Greg, are you getting my emails? I sent this last night:
+
+Reddit comment:
+
+"I've made alternative proposals. You've in turns ignored them, or recently I find not responded on the list while hitting me with adhomenem on a comments closed blog. It doesn't exactly make for a great working relationship, but I'm trying."
+
+Ignored them?
+
+I spent an afternoon working up a spreadsheet to get a feel for how your quadratic adjustment algorithm would actually work.
+
+I asked, specifically, for you to dig down into the idea of a hard cap, and got no response.
+
+My last two or three emails to you have got no response (I understand you're busy, I sympathize, I know startups are hard).
+
+As for ad-hominem attacks:  the only time I've mentioned you on the gavinandresen.ninja blog is to link to a post you made on Reddit explaining your position. If there really is an ad-hominem attack, link please so I can fix it-- I do NOT want to attack you.
+
+As for sitting silent while other people credit me for other people's work: please feel free to ping me if that happens, I'll be happy to set the record straight.
+
+
+------------
+
+I was happy to see your four-point proposal buried in reddit comments.  Want to discuss privately or on bitcoin-dev or somewhere else?
+
+If privately:
+
+I completely agree that the size should be replaced by a cost that bundles up UTXO-set impact and sigops.
+
+Do you have a link to the dynamic maximum cost target algorithm you're thinking of? Since I think a size increase needs to be scheduled NOW, I need something that can actually be turned into a pull request.
+
+RE: agreeing on metrics for decentralization "to inform decision making" : ok.... so propose some metrics. I don't think we should delay scheduling a block size increase until we have consensus on what metrics matter, we'll just get more analysis paralysis.
+
+RE: no controversial hard-forks:  do you mean no hard forks unless there are no Mirceau Popescue's screaming? I think that is impossible; at the very least we'll have /r/buttcoin sockpuppets and altcoin developers who want to see bitcoin fail screaming.
+

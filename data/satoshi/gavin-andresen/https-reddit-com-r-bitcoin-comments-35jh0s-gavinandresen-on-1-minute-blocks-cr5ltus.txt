@@ -1,0 +1,17 @@
+Copy/pasted from #bitcoin IRC:
+
+Jeepers creepers, I can’t have a half-baked opinion on ANYTHING anymore, can I?
+
+I do think 1-minute blocks would pass a cost/benefit analysis; benefits would be less variance in confirmations-for-whatever-level-of-security (e.g. wait 60 1-minute confirmations has much lower variance than wait 6 10-minute confirmations).
+
+I think it would probably encourage mining decentralization. Easier to solo mine if you’re competing for 1.25 BTC 1-minute block instead of a 12.5 BTC 10-minute block.
+
+… that might not be true, would have to run the numbers for disadvantage due to higher orphan rates....
+
+I have no opinion on whether or not the adjust-difficulty-every-2-weeks should be changed if the block time was changed, but that’s something else to think about.
+
+Disadvantage is that SPV nodes would have to download more headers, but that’s not a huge disadvantage and I think the benefits of an SPV node finding out about a re-org / double-spend quicker probably outweigh them.
+
+One minute is not fast enough for real-time payments, so that’s neither an advantage or disadvantage.
+
+Whether or not to change the 10-minute block time is a separate issue (with its own pros and cons) from whether or not the max block size should change. Status-quo with a faster block time would be 100K max blocks, each with one-tenth the current mining reward.

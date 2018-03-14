@@ -1,0 +1,5 @@
+In my heart of hearts I still believe that going back to "no hard-coded maximum block size" would work out just fine.
+
+But I might be wrong, and I agree that a reasonable, manual size is safer... so here we are.
+
+

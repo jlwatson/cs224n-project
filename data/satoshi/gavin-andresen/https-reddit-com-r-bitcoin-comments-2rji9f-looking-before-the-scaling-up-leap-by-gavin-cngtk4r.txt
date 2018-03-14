@@ -1,0 +1,9 @@
+You know what version of block validation rules the miners are following because they put a version number in all the blocks they create (everybody is creating block.version=2 blocks right now).
+
+The rules for a new block.version will be:
+
++ Nodes that understand the new version produce blocks with the new version number.
++ Until a supermajority of nodes are producing block.version=3 blocks, all blocks (version=2 and version=3) follow the old rules. Everybody can validate everything.
++ When more than 50 of the last 100 blocks are version=3, the reference implementation complains with the message: "Warning: This version is obsolete, upgrade required!"
++ When more than (say) 80% of the last 1,000 blocks are version=3, nodes that understand the version=3 rules refuse to build on version=2 blocks and validate under the version=3 rules (e.g. allow bigger-than-1MB-blocks).
+

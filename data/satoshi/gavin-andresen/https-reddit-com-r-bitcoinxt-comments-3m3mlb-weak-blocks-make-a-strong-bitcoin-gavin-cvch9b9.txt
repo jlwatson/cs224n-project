@@ -1,0 +1,1 @@
+Validation is cheap, assuming transaction signatures have already been checked (they will be) and the UTXO set fits in memory (my new phone will have 128GB, I'm pretty sure miners will be able to fit the UTXO in memory).

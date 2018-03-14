@@ -1,0 +1,7 @@
+Those two statement reconcile perfectly.
+
+With a 95% threshold, you could rent a bit over 5% of hashpower and veto a change.  That's bad.
+
+There's a good argument that even 75% is too high, because somebody could rent a bit over 25% hashpower to veto a change.
+
+As for personal attacks: yeah, I'm human, I had a grumpy Monday, and I decided to rant. That's what Reddit is for, right?

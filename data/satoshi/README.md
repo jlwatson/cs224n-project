@@ -2,7 +2,7 @@ Gavin Andresen
 - [x] http://gavinandresen.ninja/feed
 - [x] http://feeds.feedburner.com/Gavinthink
 - [x] https://bitcointalk.org/index.php?action=profile;u=224
-- [ ] https://www.reddit.com/user/gavinandresen
+- [x] https://www.reddit.com/user/gavinandresen
 - [ ] https://twitter.com/gavinandresen
 
 Roger Ver

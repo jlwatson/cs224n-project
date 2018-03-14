@@ -1,0 +1,5 @@
+Ok, let me ask another way: How is RBF any better than the transaction fee estimation code that is already in 0.10 (and the improved estimation code that I hope will be in 0.11) ?
+
+Going to all the work of signing a transaction (which in this age of hardware and multisig wallets is substantial) only to be told half an hour or two days later "please sign again with a higher fee, your transaction didn't confirm" is a terrible user experience.
+
+Especially because if everybody actually does that (as opposed to just quitting Bitcoin in disgust because it has a terrible user experience) you end up in exactly the same spot-- too many transactions to confirm, so you have to sign with an EVEN HIGHER transaction fee.....

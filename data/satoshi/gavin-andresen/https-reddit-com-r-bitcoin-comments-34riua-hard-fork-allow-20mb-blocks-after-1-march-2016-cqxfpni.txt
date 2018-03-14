@@ -1,0 +1,3 @@
+actually, it does change the protocol size....
+
+.... But yes, it is intended as 'it is time to discuss this now.' I will be writing a series of blog posts in the coming week or two responding to objections I've heard.

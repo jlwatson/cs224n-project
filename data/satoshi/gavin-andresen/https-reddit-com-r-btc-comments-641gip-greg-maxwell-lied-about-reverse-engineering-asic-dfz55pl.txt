@@ -1,0 +1,5 @@
+Yes.
+
+Please stop with the personal attacks, it doesn't do anybody any good. And please drop "taking commit access away from Gavin was the crime of the century" -- I should have given up commit access when I stopped regularly contributing, and should have written up a clear policy document on what the process is for deciding who has commit access before stepping down as lead.
+
+Hindsight is always 20/20 and all that....

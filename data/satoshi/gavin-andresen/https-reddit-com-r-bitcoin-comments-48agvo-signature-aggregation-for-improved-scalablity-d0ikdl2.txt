@@ -1,0 +1,9 @@
+Don't know why /u/nullc talks about performance of BLS being a problem: 8,000 signatures per second is more than three orders of magnitude greater than current transaction volume.
+
+With a couple more orders of magnitude with signature validation caching (because transactions trickle in constantly but blocks are found on average only every 600 seconds).
+
+Immaturity of pairing crypto implementations is a pretty good reason not to go for BLS, but it looks like there are implementations in C and Java that have been around for years (doesn't mean they've been well reviewed, of course).
+
+The ability for MINERS to combine all the signatures is really appealing.  One 20-byte signature that works to validate all the transactions in entire block would be a really awesome bandwidth savings.
+
+PS: funny to see the communication chain on this one: Joe Bonneau mentioned BLS to me at Financial Crypto last week, I mentioned it to Adam Back (because Adam has been talking about Shnorr as a way of saving space per-individual-multisig-transaction), and then Adam talked to Greg...

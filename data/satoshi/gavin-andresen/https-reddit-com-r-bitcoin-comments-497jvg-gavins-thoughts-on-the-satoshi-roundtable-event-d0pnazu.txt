@@ -1,0 +1,7 @@
+Sure.
+
+The limit makes transaction confirmation less reliable, because miners don't have the choice to include more high-fee transactions (they can't when blocks are full-- either because miners get unlucky and don't find blocks as quickly as normal or because somebody decides to broadcast a lot of higher-fee transactions as either an attack or just because they have a lot of transactions that they want confirmed).
+
+Businesses and their customers want reliable transactions, and are willing to pay for more reliability. If they can't do that by attaching a higher fee, they will do that by paying a miner directly for some guaranteed space in blocks (or, like BTCC, will be in integrated miner/exchange platform).
+
+Give ALL miners the opportunity to compete for transactions and the flexibility to include more high-fee transactions when the instantaneous demand is high and there is less pressure to centralize.

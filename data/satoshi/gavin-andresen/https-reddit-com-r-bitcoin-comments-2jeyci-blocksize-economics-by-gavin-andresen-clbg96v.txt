@@ -1,0 +1,3 @@
+> Doesn't that mean that a miner could spam the network with a large block of dust, with zero ramifications?
+
+No. If the transactions are truly dust, then they won't be in the other miners' memory pools, and the rogue miner will have to transmit all that transaction data along with the new block, making their bloated block more likely to be orphaned.

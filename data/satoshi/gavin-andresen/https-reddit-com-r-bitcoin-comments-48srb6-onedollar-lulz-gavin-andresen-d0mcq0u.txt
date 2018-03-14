@@ -1,0 +1,5 @@
+There are people running around saying "Security Mindset!" while having zero clue what real-world security entails.
+
+Security is not a boolean-- it is not "is this secure / is this not secure." The cost to mount an attack matters, as does the cost of alternate attacks that can accomplish the same goal. And the damage done by the attack matters a lot.
+
+Designing around a worse case scenario is hopeless. It certainly didn't stop Satoshi; the only reason we have Bitcoin is he made reasonable assumptions about people's incentives and designed a system that does NOT assume a worst-case scenario but assumes that people respond rationally to incentives most of the time.

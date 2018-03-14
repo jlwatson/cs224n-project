@@ -1,0 +1,5 @@
+Huh?
+
+You need to go look at how gossip networks work; on average, you will download about the same amount of data that you upload.
+
+See http://tinyurl.com/qdzwuu9 for some theoretical work on the optimal lower bound.

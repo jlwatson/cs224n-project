@@ -1,0 +1,7 @@
+> It is still (and will always be) the case that a full node operator needs to download 100% of the blockchain data.
+
+... if the full node operator is unwilling to trust anything besides the genesis hash and proof of work.
+
+If a full node operator is willing to trust it's peers a teeny-tiny bit, AND segwitness transactions become the norm, then it seems to me probabalistic checking of a UTXO set directly fetched from a peer and cross-checked using fraud proofs would avoid fetching the entire chain history.
+
+Do you have a better plan, or do you think we should just stick with one megabyte transaction data forever?

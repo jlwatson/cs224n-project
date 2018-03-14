@@ -1,0 +1,17 @@
+Yes, IF the old 1mb chain survived without a difficulty reset hard fork...
+
+... and IF speculators managed to pump up the price of that less-functional, less-secure chain so it was more financially attractive to mine...
+
+... and IF the financial reward to mine on that chain was high enough for long enough to overcome cost of coinbase transactions on the big chain that they would never get to spend (because the 1mb chain difficulty catches up and passes the >1mb chain)...
+
+... THEN there is an easy, already-in-the-code way to stay on the >1mb chain: just call invalidateblock with the hash of one of the 1mb chain blocks.
+
+------------
+
+All of that said: there has always been worries about 'what if somebody causes a really huge chain re-org'  -- e.g. they spend five or ten million dollars to produce 144 empty blocks faster than the network and then cause chaos by unconfirming a day's worth of transactions.
+
+I think if that happened (extremely unlikely, in my opinion) everybody would just invalidateblock the big re-org and go about their business, and then agree that big re-orgs due to 'surprise' chains are simply unacceptable.
+
+And yes, that does contradict the technical definition of 'bitcoin' I proposed a little while ago. Modifying that definition to have a notion of '.... and doesn't invalidate settled transaction history' is probably the right approach, but 'settled transaction history' is a pretty fuzzy concept.
+
+

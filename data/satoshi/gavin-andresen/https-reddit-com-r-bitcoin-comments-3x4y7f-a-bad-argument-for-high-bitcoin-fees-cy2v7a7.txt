@@ -1,0 +1,4 @@
+Would it help if I wrote a blog post describing how segregated witness, fraud proofs, and protocol upgrades would let full nodes, including miners, trade off validation or bandwidth costs for a minuscule reduction in trustlessness?
+
+Or is your mind made up that it is impossible?
+

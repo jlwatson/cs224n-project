@@ -1,0 +1,1 @@
+Comes from computer network protocols-- an ACK packet acknowledges that a message was received and was good.

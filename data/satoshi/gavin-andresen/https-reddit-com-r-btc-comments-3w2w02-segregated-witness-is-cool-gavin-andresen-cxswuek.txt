@@ -1,0 +1,1 @@
+I think we should do both, raise the block size limit AND deploy segregated witness as soon as (safely) possible.

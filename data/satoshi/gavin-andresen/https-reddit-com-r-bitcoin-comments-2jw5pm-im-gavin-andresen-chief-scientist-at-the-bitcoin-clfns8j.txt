@@ -1,0 +1,3 @@
+Yes, I think we do.
+
+There is still at least a month or two of work before I'd be willing to write a patch to increase the maximum block size, and then probably a month or two more of arguing. So early next year at the earliest before even starting the hard-fork process (which must roll out to miners-- they will control when the fork actually happens).

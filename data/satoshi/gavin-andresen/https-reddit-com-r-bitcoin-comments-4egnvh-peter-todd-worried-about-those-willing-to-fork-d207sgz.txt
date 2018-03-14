@@ -1,0 +1,10 @@
+I'll quote myself from THAT VERY SAME ARTICLE:
+
+"If the number of transactions waiting gets large enough, the end result will be an over-saturated network, busy doing nothing productive. I don’t think that is likely– it is more likely people just stop using Bitcoin because transaction confirmation becomes increasingly unreliable."
+
+Fewer people using Bitcoin is a Very Bad Thing, and I still believe it is urgent. Unfortunately, there probably will be no "oh my god, it is completely broken" moment where people wake up and realize that the irrational fear of the centralization boogey-man has stopped Bitcoin from growing and some less crippled alternative takes over as the "crypto-reserve-currency."
+
+Maybe once the Core developers are done adding thousands of lines of code to support the new features they want they'll get serious about on-chain scaling, but, frankly, I've lost faith in their ability to make wise engineering decisions. They are piling on layers of technical debt with increasingly complicated solutions to problems that have simple solutions (see the discussions around what the Core wallet would have to do to support replace-by-fee for a good example).
+
+And as for calling Peter Todd Chicken Little: there's probably a better analogy. What's a good name for somebody who makes mountains out of mole-hills, or who invents a Rube Goldberg contraption to brush their teeth because they're afraid their hand might fall asleep while brushing?
+

@@ -1,0 +1,3 @@
+Pieter is awesome, and yes, he hates the politicizing of technical decisions.
+
+But 'why is 4MB for segwitness ok, but a straight-up 4MB blocksize increase not ok, when our current performance bottleneck is block relay' is a valid question.

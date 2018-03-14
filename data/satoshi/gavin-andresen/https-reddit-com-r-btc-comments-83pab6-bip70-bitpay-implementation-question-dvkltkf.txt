@@ -1,0 +1,5 @@
+One of the primary motivations for bip70 was to prevent msn-in-the-middle attacks, where an attacker replaces a bitcoin address during a copy/paste (or in an email or text message).
+
+Those were purely theoretical attacks when we wrote the BIP, but I’ve seen at least 2-3 stories of bitcoin-stealing man-in-the-middle malware over the last year or so. Even multisig won’t protect you if an attacker manages to show you their bitcoin address instead of wherever you really want to pay.
+
+So security is absolutely a reason to adopt it. Convenience and reliability are the other reasons.

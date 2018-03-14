@@ -1,0 +1,1 @@
+Ok, three things then: see if median length of time in utxo set has changed much over the last year or two.

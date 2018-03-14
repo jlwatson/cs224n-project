@@ -1,0 +1,3 @@
+Start at the edge, and work your way in.
+
+Play with the RPC interface, write some code that plays with stuff in -regtest or -testnet mode.  (and see my answer here about writing regression tests to start contributing)

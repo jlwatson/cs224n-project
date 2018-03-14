@@ -1,0 +1,14 @@
+No, it is not possible.
+
+Well, it is not possible unless you are the issuer of both the token and the national currency.
+
+Here is why it is not possible:
+
+Start with a token that is supposed to be pegged to $1 per token.
+
+Lets say there's a huge demand for the token, so a trillion tokens are issued at $1 a piece.
+
+Then, for whatever reason ("animal spirits" maybe), there is a huge demand for dollars instead of tokens. Who pays $1trillion to maintain the peg?
+
+
+There are all sorts of complicated financial schemes involving futures contracts or derivatives that, in my humble opinion, just confuse the issue. The fundamental questions are: who is making money by issuing the tokens? And what are the risks of buying or holding the tokens?

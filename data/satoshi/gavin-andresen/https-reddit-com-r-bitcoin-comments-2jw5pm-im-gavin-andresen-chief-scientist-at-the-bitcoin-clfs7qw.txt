@@ -1,0 +1,3 @@
+In hindsight, it was too early to standardize on a 3D graphics format. All the big 3D content creation systems had their own way of doing things, and too much would get lost in translation if VRML was used as a universal interchange format.
+
+I haven't been paying attention to the 3D graphics world, I don't know if that is still true or not.

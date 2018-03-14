@@ -1,0 +1,3 @@
+Starting at 16MiB as of 1 Jan 2015, increasing 40% a year, and it'll be twenty (or more) by the time the hard fork rolls out.
+
+That DOES NOT MEAN that miners will suddenly start producing 20MB blocks; I expect (and will encourage them) to be conservative in increasing the size of blocks they produce.

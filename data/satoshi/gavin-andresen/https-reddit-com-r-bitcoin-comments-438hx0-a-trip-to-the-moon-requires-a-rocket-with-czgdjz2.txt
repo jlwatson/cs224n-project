@@ -1,0 +1,3 @@
+Growing by layers is one way to go, but it is risky-- if you fail at any layer, you fail.
+
+I think it is much safer to grow like a garden. Some seeds fail, but others succeed, and the fittest grow and reproduce.

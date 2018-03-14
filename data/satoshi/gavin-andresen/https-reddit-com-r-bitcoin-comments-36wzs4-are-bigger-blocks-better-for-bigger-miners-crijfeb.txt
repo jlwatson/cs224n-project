@@ -1,0 +1,3 @@
+The topology for that test was the two 30% miners each connected to three of the 10% miners (not the same three), and the four 10% miners completely connected to each other.
+
+It is easy to create config files with as many miners and whatever connectivity you want to test, so you should see what happens when mining power and network connectivity follows a power law distribution....

@@ -1,0 +1,9 @@
+There was a secret meeting on Jekyll Island, a significant amount of cash changed hands, and then I gave them push access to the github repo.
+
+
+
+No, really the process is "do lots of great work while not pissing anybody off too much and the existing people with push access might notice and ask if you'll help pulling changes."
+
+If I recall correctly (and I almost certainly don't), I asked Jeff and Wladimir to help out. And then we asked Pieter and Gregory (and Mike Hearn, who said no because was too busy with bitcoinj).
+
+If you see somebody doing great work who is calm and steady and communicates well and has a thick skin feel free to email any of us and suggest we ask them to help out, too.

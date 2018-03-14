@@ -1,0 +1,8 @@
+Nodes crashing because their mempools fill up doesn't count as 'unreliable' ?
+
+And fees are already rising; see, for example, https://github.com/bitcoin/bitcoin/pull/6793
+
+The other Core devs are deciding to address the symptoms of the problem (see the loooong github discussions about how to fix too-big memory pools); I'm still hoping one of these months they'll decide to start to address the root cause, which is a maximum block size that smaller than the average web page size.
+
+
+

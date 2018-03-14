@@ -1,0 +1,3 @@
+i am being cautious and allowing slack; 20MB was about half last years's typical fast broadband connection, 8MB is even more cautious, and the double-every-two years is below long term cpu/storage/bandwidth price/performance trends.
+
+I wonder what block size the Facebook 3G internet drones that were announced today would support....

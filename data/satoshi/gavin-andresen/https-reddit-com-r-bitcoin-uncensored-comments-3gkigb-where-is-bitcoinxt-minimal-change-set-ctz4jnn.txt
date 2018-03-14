@@ -1,0 +1,5 @@
+The only_bigblocks branch of the bitcoinxt github repo has just the commits that implement BIP100-- it is based on the 0.11 Core release.
+
+I stopped trying to keep a set of patches current with respect to Core HEAD, there are too many changes to consensus code right now.
+
+If I was paranoid I would think that is a subtle DoS attack by the Freicoin developers to try to slow down Bitcoin development (I don't believe that, but the constant stream of code movement makes it tough to get substantial changes done).

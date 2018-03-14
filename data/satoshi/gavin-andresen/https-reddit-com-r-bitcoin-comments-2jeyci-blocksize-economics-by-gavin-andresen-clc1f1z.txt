@@ -1,0 +1,5 @@
+There are two solutions proposed:
+
+1. Child-pays-for-parent (merchant can respend low-fee transactions with a higher-fee transaction to cover the cost of all). Luke DashJr has a patch implementing this that hasn't been pulled because it is hard to prove that it does not open up CPU exhaustion denial of service attacks.
+
+2. A payment protocol extension letting merchants offer to pay the fees for their customer (price shown to customer is 1,000 bits, they pay 1,000 bits, merchant swallows the transaction fee and only gets 995 bits).

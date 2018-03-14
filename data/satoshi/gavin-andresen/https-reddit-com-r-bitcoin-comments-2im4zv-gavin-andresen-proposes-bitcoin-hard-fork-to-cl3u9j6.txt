@@ -1,0 +1,3 @@
+Quoting myself: "There are other ideas for how to make Bitcoin scale, and whenever practical I like to choose “all of the above” for how to solve a problem, because nobody is smart enough to choose The One True Solution every time. So I won’t be surprised or disappointed if development wanders off this roadmap in a different direction."
+
+So, yes, go for it-- implement off-chain solutions, too.

@@ -1,0 +1,9 @@
+A full node knows consensus is broken when they see a lot of hashpower continuing to work on a chain that they consider invalid.
+
+The reference implementation already has checks for that, and will warn you something bad is happening (even if it is on the most-work, winning chain).
+
+30 different branches is silly, the incentives to be consensus-compatible with the most work chain are incredibly strong.
+
+libconsensus is a fine idea, although the software engineering towards getting a libconsensus has been really bad, in my humble opinion. In hindsight, I think starting a separate libconsensus project that could evolve and mature on its own separate from Bitcoin Core would have been the better approach. I don't think Jorge is the right person to lead a libconsensus effort-- I don't think he's ever shipped a C or C++ API/library before (at least, I don't see anything on [his resume](https://www.linkedin.com/in/jorgetimon) that would lead me to hire him to tackle that task).
+
+The libconsensus changes have been extremely disruptive to day-to-day pull requests, and have made working on Core a lot more painful than it should be.

@@ -1,0 +1,4 @@
+Most developers are terrible at creating tools/applications that non-devs can use.
+
+There are exceptions, but much better for designers and usability experts and end-users to tell the developers what the technology needs to be able to do, rather than the developers deciding how end-users *should* be using the technology.
+

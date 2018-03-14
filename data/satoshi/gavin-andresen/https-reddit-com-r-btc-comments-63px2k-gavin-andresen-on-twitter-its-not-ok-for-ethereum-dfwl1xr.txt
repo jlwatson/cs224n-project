@@ -1,0 +1,7 @@
+If 30% of hashpower was ASICBoost and 70% not and the 30%'s blocks are trivially distinguishable, seems pretty clear to me the 70% would have a pretty good incentive to orphan the minority instead of paying to license ASICBoost.
+
+Making the blocks produced in a certain way identifiable is clearly a strike against fungibility.
+
+Maybe that is ok because 'we hate patents' -- I DO dislike patents, I suspect they slow down innovation (but might be wrong about that). But it seems to me that is a discussion that should be tackled head-on.
+
+I brought up ASICBoost-friendly segwit because if ASICBoost IS the reason segwit hasn't activated (I'm not convinced yet), modifying segwit seems like the easiest solution (as I've said all along, I like segwit).

@@ -1,0 +1,1 @@
+If you read the article as advice to miners ("don't be dumb and produce big blocks unless transaction fees cover the increased risk of losing a block race") then it makes sense.

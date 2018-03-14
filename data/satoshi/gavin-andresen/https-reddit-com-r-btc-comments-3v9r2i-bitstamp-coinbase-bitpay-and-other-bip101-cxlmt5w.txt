@@ -1,0 +1,3 @@
+Startups, even well-funded startups, cannot afford a million dollar bounty. If you imagine bitcoin companies are making mad profitz, you imagine wrong-- startups are encouraged by their investors to reinvest all their income and more into growing the business.
+
+But I like the idea of a bounty, and somebody (Tom Harding maybe) pointed out an interesting way of giving it out: create and sign a transaction larger than 1 megabyte that pays the bounty as miner fee, then publish it and wait.

@@ -1,0 +1,3 @@
+Sounds like a challenge. If somebody can get sanity-checking of 8MB blocks running in less than 40ms, would you support raising the cap?
+
+(is the merkle-building code parallelized? Building binary trees should be a nicely parallelizable process and multicore is a standard feature of modern CPUs...)

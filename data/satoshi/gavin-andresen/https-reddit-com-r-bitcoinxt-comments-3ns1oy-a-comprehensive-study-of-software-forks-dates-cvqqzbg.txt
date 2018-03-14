@@ -1,0 +1,3 @@
+Also relevant: http://www.techrepublic.com/article/why-you-should-fork-your-next-open-source-project/
+
+Developers tend to get very upset when projects fork; research and experience shows they shouldn't.

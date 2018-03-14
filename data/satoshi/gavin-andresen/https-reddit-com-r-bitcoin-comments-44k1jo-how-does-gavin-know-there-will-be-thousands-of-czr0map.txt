@@ -1,0 +1,3 @@
+I absolutely do not condone running 'fake' nodes of any kind. Don't do that.
+
+Running real full nodes to make sure there are enough connection slots for SPV wallets is a good idea.

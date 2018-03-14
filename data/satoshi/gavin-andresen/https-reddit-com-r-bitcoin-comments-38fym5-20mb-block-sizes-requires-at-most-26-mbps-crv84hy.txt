@@ -1,0 +1,3 @@
+if you have a crappy low-bandwidth connection then you will relay approximately zero blocks, because your neighbors will have already told your other neighbors about the block when your crappy connection is still busy downloading it.
+
+Can you stop with the FUD? It chews up my time to respond to ridiculous scenarios like this.

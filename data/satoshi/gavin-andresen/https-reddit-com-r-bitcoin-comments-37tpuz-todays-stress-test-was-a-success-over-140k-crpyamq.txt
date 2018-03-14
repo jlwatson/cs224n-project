@@ -1,0 +1,3 @@
+No, I mean "average" -- why are bigger blocks "gaming the system" but empty blocks aren't?
+
+Median gives 51% of hashpower absolute control. Average means anybody who is producing blocks, regardless of hash rate, gets to influence it.

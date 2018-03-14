@@ -1,0 +1,3 @@
+Kind of, but not really. I'm mostly worried in the same way I'm worried about the stuff described in Phil Plaith's "Death from the Skies!" book.
+
+I think we could do more to make 51% attacks even less likely, but don't have any concrete proposals right now.

@@ -1,0 +1,3 @@
+It is exactly wrong to claim that the survival of Coinbase might depend on not getting stuck at the current block size limit. Coinbase is big enough to code around the issues.
+
+The little startups trying to use the bitcoin blockchain are the ones that won't survive -- or won't get started at all.

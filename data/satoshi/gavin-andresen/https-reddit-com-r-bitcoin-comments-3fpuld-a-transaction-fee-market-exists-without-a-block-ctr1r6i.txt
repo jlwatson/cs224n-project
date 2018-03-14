@@ -1,0 +1,5 @@
+Yes, bandwidth and latency ("well connected") matter at any block size, and when transaction fees matter miners that can broadcast bigger blocks faster will have an advantage over miners that can't.
+
+I don't see the connection between that and "miners can get an advantage by purposely creating slow-to-propagate blocks."
+
+Or, to be more precise: if miners want to try to gain an unfair advantage, their best strategy is selfish mining with fast-to-propagate blocks.  Nobody has shown an effective strategy where creating a purposely-slow-to-propagate block (as opposed to just "bigger block == more fees") gives any advantage.

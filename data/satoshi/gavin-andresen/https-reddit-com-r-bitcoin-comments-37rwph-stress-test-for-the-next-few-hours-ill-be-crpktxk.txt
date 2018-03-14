@@ -1,0 +1,24 @@
+731kb == 750,000 bytes, which is the default "soft limit" for bitcoind.
+
+Sizes since this started are interesting:
+
+    for i in {358594..358608}; do src/bitcoin-cli getblock $(src/bitcoin-cli getblockhash $i) | grep -i size; done
+    "size" : 749030,
+    "size" : 450929,
+    "size" : 749182,
+    "size" : 749174,
+    "size" : 999800,
+    "size" : 749048,
+    "size" : 749149,
+    "size" : 749141,
+    "size" : 749202,
+    "size" : 999974,
+    "size" : 903483,
+    "size" : 749075,
+    "size" : 749150,
+    "size" : 749209,
+    "size" : 749194,
+
+... so eleven miners running with default 750K block size. Two at max 1 megabyte block. Eligius at a 900K block (but eligius has an... interesting.. transaction selection policy).  And one miner produce a 450K block.
+
+That is more miners producing default-sized blocks than I would have predicted, it will be interesting to see if that changes as memory pools drain.

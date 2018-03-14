@@ -1,0 +1,7 @@
+It would be even more destructive to mine an eleven-block-long empty chain, then wait until the slow chain gets 9 blocks until announcing it to the network.
+
+Or keep them guessing; choose a chain length at random, from 1 to some secret N, and orphan that many blocks at a time. Allow a couple normal blocks, then do it again.
+
+It would be impossible for exchanges to know how many confirmations were safe for deposits and would be a nightmare for their withdrawal accounting.
+
+I'm not even sure this kind of thing should be considered immoral-- majority hashpower acting selfishly for their own economic benefit (both short and long term) is the basic incentive structure that makes Bitcoin work.

@@ -1,0 +1,7 @@
+Bandwidth has been growing at 50% a year. Yes, even home internet bandwidth (streaming videos are very popular and drive demand for more bandwidth).
+
+CPU at 60% a year.
+
+Memory and disk even faster than that.
+
+When those trends eventually slow down or stop then the maximum block size rules can be adjusted (it would be a "soft-forking" change if the limits are lowered). But I don't think anybody knows when that will happen. I do know that people have been incorrectly predicting the end of Moore's Law for decades....

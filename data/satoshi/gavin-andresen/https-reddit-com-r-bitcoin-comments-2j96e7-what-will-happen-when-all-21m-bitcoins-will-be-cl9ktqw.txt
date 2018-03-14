@@ -1,0 +1,5 @@
+Transaction fees.
+
+Or maybe big merchants or exchanges that have an interest in keeping the ledger up to date will mine themselves.
+
+Or maybe they'll band together to fund assurance contracts (see https://bitcointalk.org/index.php?topic=157141.0;all ) to support mining.

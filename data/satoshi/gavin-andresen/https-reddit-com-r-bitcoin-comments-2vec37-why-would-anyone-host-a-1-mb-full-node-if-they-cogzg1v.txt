@@ -1,0 +1,3 @@
+We already validate using multiple threads. And CPU power is scaling up even faster than bandwidth; we will have dozens of processors with built-in support for SHA256 to make validation much faster.
+
+Database access won't be an issue, unless there is a non-linear increase in the size of the UTXO (unspent transaction output) database. We don't need the whole chain to validate, just the UTXO. And I don't see any reason why the UTXO would explode super-linearly with more growth (if it does, same issues would happen with 1mb blocks).

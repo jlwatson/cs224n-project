@@ -1,0 +1,3 @@
+Lastpass keeps a local cache of your login data so you can login offline: https://lastpass.com/support.php?cmd=showfaq&id=2775
+
+See that faq article for how to turn it off, but don’t fool yourself: if the bad guys get into your machine, they can get all your passwords just by logging keystrokes and LastPass auto-fills whether or not offline LastPass login is turned on or off. And they will get the 2fa codes when you type them in, too (and can hijack your login sessions).

@@ -1,0 +1,6 @@
+Zcash is much more censorship resistant.
+
+E.g. Zcash miners cannot censor transactions they don't like because sender, receiver, and amount are all opaque to the miner.
+
+I suppose you could argue bitcoin is better because it has more nodes, so taking the entire system down is harder. But that is a negligible advantage past a couple hundred nodes in a few dozen legal jurisdictions.
+

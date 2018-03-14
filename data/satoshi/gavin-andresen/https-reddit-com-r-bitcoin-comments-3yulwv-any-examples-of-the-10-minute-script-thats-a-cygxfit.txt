@@ -1,0 +1,1 @@
+Most of the time is hashing to create 'signature hashes', not ECDSA verification. So libsecp256k1 doesn't help.

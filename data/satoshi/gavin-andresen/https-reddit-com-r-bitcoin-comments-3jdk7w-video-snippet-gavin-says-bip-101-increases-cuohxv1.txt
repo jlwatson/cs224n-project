@@ -1,0 +1,1 @@
+No, new blocks with timestamps too far in the future (or too far in the past) are invalid.

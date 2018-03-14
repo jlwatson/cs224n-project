@@ -1,0 +1,1 @@
+I don't recommend core as a wallet for most users because its disadvantages (no multisig, no foolproof backup via HD seed, extra bandwidth and disk space usage) far outweigh the benefits you list.

@@ -1,0 +1,7 @@
+A 20mb limit would be safe.
+
+A 20mb block would be dangerous for the miner producing it, but safe for everybody else... which means we wouldn't see 20mb blocks produced until the network protocol was upgraded to make block propagation quick.
+
+So, again, safe.
+
+I think everybody besides maybe Peter Todd has given up on the idea that miners are either evil or stupid and would try to attack the network somehow with big or expensive-to-validate blocks, which seemed to be the worry a few months ago.

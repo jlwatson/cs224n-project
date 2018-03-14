@@ -1,0 +1,2 @@
+Go for it. Code it up, just remember you have to use fixed-point math that is absolutely positively immune to overflow or rounding issues, because this is consensus-critical code.
+

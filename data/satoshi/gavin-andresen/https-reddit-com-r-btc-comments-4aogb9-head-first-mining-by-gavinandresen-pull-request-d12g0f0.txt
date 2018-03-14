@@ -1,0 +1,7 @@
+The self-adapting limit works really nicely with head-first mining.
+
+If blocks take a long time to validate and propagate across the network, more empty blocks are created.
+
+More empty blocks created drives down the self-adapting limit, meaning miners CANNOT create bigger blocks.
+
+If network conditions or CPU validation or software improves, fewer empty blocks are created, allowing miners to create bigger blocks...

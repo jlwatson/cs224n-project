@@ -1,0 +1,7 @@
+I'm about to get on an airplane to London...
+... but two points:
+
+1) Apply the same reasoning to a 1MB block-- is there any reason to think that a 1MB block is the perfect size that will result in a secure network?
+
+2) Their model is too simplistic, assuming that the people most interested in having a secure network (bitcoin-accepting merchants) are not mining themselves to make sure they have a secure network.
+

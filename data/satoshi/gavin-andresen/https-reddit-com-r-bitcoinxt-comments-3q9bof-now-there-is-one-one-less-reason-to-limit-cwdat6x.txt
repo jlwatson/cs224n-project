@@ -1,0 +1,9 @@
+Title of this post is wrong-- I didn't halve the block transmission time.
+
+I was benchmarking relaying empty blocks across the Internet, had dug down into timing each message in the process, and noticed there was an extra communications round-trip introduced by the 'headers-first' work.
+
+Greg immediately realized that round-trip can be eliminated by using TCP_NODELAY.
+
+The moral to the story: we need better benchmarking, especially of the networking code, to make sure that changes meant to improve performance (like headers-first) don't accidentally make something slower. Ideally automated benchmarks would be run against every pull request, with warnings if anything got significantly slower.
+
+If anybody has implemented or used a tool or library that could simulate the network stack in enough detail to catch this subtle bug, I'd love to hear about it.

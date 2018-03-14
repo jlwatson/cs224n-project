@@ -1,0 +1,5 @@
+Eleven!  That's my favorite number!
+
+So... have any bad things have happened because there are only 11 or so NNTP providers that can process all the NNTP groups? Are the providers cooperating or being forced to censor messages? I'm honestly asking, I haven't actually used NNTP in many years.
+
+I'm not saying we should aim for having just eleven fully-validating Bitcoin nodes-- I think that is a couple of orders of magnitude too small. But I think looking at the real-world experience of other technologies is important to keep from wandering off into "but what if" land.

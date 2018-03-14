@@ -1,0 +1,5 @@
+I'll double-check today, but there should be no change for SPV clients (I don't THINK they use "sendheaders" to get block headers-- if they do, I can think of a couple simple things that could be done).
+
+However, the 'rip off SPV clients who are accepting 2-confirm txs' attack is very expensive and extremely unlikely to be practical. 'A security mindset' run amok, in my humble opinion.
+
+I could be convinced I'm wrong-- could you work through the economics of the attack?  (Attacker spends $x and has a y% chance of getting $z...)

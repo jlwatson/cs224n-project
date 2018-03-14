@@ -1,0 +1,7 @@
+Uhh... that depends.
+
+If the deposit key(s) are uniquely assigned to you, and the holder isn't doing a CoinJoin-like thing and combining withdrawals from multiple users into a single transaction...
+
+... then withdrawal transactions will be valid on both branches (assuming one of the branches of the fork doesn't do something like change the transaction format).  The withdrawal would be valid on both branches, so you'd have access on both.
+
+HOWEVER:  the incentives are insanely strong for there to be Just One Surviving Branch. Miners aren't idiots, when picking which branch to extend they WILL (and do) pick the most-work branch.

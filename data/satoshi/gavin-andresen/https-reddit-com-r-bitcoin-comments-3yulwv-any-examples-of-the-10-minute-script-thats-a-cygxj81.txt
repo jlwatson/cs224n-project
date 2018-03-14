@@ -1,0 +1,3 @@
+If you want a ten minute head start, you can just not announce the block for ten minutes.
+
+That is also known as selfish mining, and it only makes sense if you have a lot of hash power and are willing to mine at a loss for a few weeks until difficulty adjusts to the much higher orphan rate selfish mining creates.

@@ -1,0 +1,3 @@
+Yes, the mempool backing up regularly will drive a healthy fee market.
+
+That will happen naturally just because of the natural variations in how quickly or slowly blocks are found.

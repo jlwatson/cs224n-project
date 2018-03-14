@@ -1,0 +1,5 @@
+Why no segwit ACKs ?
+
+I talked with another dev a while ago who estimated a couple of weeks of a couple of hours a day to review segwit (most of us find it impossible to do code review for more than a couple of hours).
+
+I'd be curious to hear from potential reviewers-- any other reasons you haven't reviewed segwit? Lack of good code review is a chronic problem, any ideas for fixing it?

@@ -1,0 +1,2 @@
+Libsecp256k1 is awesome. I don't know enough deep crypto to comment on confidential transactions (or compact confidential transactions which are claimed to be even spiffier).
+

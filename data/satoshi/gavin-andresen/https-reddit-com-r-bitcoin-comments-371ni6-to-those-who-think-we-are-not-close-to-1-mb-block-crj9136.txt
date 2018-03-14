@@ -1,0 +1,1 @@
+have you done any calculations to figure out how much it costs the network to process a transaction? Or why 1cent?

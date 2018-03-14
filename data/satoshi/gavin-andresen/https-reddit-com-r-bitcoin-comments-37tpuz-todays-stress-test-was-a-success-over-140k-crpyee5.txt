@@ -1,0 +1,3 @@
+I was graphing past the end of the stress test; graph updated with 26 blocks, which, according to when my node's memory pool drained, is when things got back to approximately normal.
+
+18 of 26 miners producing default-sized blocks (70%), 5 producing small blocks (20%), and 3 producing max-sized blocks (10%).

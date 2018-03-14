@@ -1,0 +1,3 @@
+No, one (important) little bit is faster and uses a lot less memory.
+
+It is important because it is the code that gets run when a computer gets a new block full of transactions, and it has to be run before the computer will tell other computers about the new block.

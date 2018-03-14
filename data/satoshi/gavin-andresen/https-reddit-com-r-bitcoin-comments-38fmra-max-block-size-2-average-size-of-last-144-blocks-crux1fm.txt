@@ -1,0 +1,3 @@
+Median means if you are in lower 49% you have zero influence. Average gives everybody influence.
+
+Imagine 73 blocks of 1.1MB and 71 empty blocks (maybe some miners are desperately trying to lower max size). Median would be 1.1, average is a much better measure of collective desire.

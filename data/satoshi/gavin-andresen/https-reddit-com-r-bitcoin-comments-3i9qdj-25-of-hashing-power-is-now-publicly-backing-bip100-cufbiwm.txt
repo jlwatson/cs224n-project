@@ -1,0 +1,13 @@
+From an email I sent yesterday:
+
+"I think that's the thing that bothers me most about this whole thing-- I said I was stepping aside as lead of Core to focus on bigger, cross-implementation issues. And I did, spending a lot of time talking to people and writing and then coding up a compromise that I thought could reach broad consensus (not just among developers-- there are lots of people who want NO block size limit at all).
+
+And then all that hard work is dismissed and it is 'well, Gavin hasn't even really submitted much code lately....' "
+
+-------------
+
+That said, I'm proud of the code I've contributed lately -- for example, the RollingBloomFilter class that other people have picked up and are using for various optimizations (I implemented it to optimize memory usage).
+
+And the accurate sigop/sighash counting code will almost certainly be used by *whatever* max-block-size-increase proposal eventually gets consensus.
+
+And before all of that, I was working hard on testing infrastructure; I'm happy to see people extend the Python-based qa/rpc-tests (and REALLY happy about the work the Chain Code Labs folks have done to take that to another level).

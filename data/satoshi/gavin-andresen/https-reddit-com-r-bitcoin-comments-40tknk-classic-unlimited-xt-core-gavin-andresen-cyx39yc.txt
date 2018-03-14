@@ -1,0 +1,11 @@
+What happened to "Satoshi didn't get everything right, and we've learned a lot since then" ?
+
+If I recall correctly, the first pull request from me was to implement the test network.
+
+I created the data-driven consensus-level tests for Script which other implementations use (and contribute back to when they find edge cases) to make sure they are consensus-compatible.
+
+And I created the qa/rpc-tests integration test framework, which, I'm happy to say, has been extended to test consensus between different implementations (including different versions of Core).
+
+Satoshi was absolutely correct-- back then we didn't have the resources (people, testing infrastructure, understanding of the issues) to contemplate multiple, compatible implementations.
+
+Today we do.

@@ -1,0 +1,6 @@
+It is down to 4.5 seconds:
+  http://bitcoinstats.com/network/propagation/2013/11/23
+
+The real question is how quickly do blocks get to 50% of hashing power, and I don't think we have good numbers on that. Many miners are connected to Matt Corallo's "fast relay network" (and if they aren't, they should be) which propagates blocks much faster than stock bitcoind.
+
+There are a couple of full-scale simulation networks just getting up and running, so we'll soon have a much better way of testing optimizations, bug fixes to the networking code (and bigger blocks). I haven't yet written the "We shouldn't schedule a block size increase because we haven't tested enough..." blog post; I'll talk more about why I think it is safe (and wise) to schedule the hard fork now as opposed to six months or a year from now.

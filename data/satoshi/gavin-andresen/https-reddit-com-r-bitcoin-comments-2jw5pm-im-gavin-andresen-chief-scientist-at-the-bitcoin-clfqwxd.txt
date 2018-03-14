@@ -1,0 +1,1 @@
+That is what OP_RETURN is for, go for it!

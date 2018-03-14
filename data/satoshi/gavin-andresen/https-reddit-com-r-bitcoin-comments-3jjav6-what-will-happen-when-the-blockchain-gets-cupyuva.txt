@@ -1,0 +1,3 @@
+Sure: http://blog.bitcoinfoundation.org/a-scalability-roadmap/
+
+That's out of date (several things on the roadmap are already implemented, and work on UTXO commitments has stopped), but it's a clear plan.

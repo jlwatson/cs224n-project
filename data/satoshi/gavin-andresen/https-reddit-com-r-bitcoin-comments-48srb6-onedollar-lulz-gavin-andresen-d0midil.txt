@@ -1,0 +1,3 @@
+You can't phase out non-segwit transactions entirely, people lock up money in pre-signed old-style transactions (very secure cold-storage schemes use pre-signed transactions created completely off-line and held, possibly for years, before broadcasting on the network).  Phasing them out entirely would be equivalent to confiscating their money if they have lost or destroyed the private keys that signed those transactions.
+
+I completely agree with moving towards a single combined block limit -- and think we should start talking about making that a dynamic ("flexcap") limit in a future hard-fork.

@@ -1,0 +1,1 @@
+if you run into a bug, a dev may ask you to run Core to see if the bug is in the XT-only code or if it is a big in the common code.

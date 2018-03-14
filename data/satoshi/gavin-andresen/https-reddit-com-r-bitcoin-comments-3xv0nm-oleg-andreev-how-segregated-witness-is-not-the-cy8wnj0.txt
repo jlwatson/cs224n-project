@@ -1,0 +1,6 @@
+You haven't been paying attention.
+
+Lots of miners have optimized their orphan rates by mining an empty block on just the 80-byte block header, so block size is irrelevant.
+
+That is not ideal, but it does little harm and it is a smart thing to do until a better solution like 'weak blocks' is implemented.
+

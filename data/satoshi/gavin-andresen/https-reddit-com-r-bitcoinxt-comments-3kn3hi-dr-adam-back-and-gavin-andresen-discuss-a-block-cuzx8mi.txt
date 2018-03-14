@@ -1,0 +1,4 @@
+The same thing that happens with other projects run by engineers-- they worry way too much about some obscure, unlikely-to-happen technical problem that matches their interests and ignore problems their customers are having RIGHT NOW.
+
+You see it with engineers at startups who spend three years building infrastructure that can handle Facebook-level volume ('better be ready just in case')... and then they never ship and their money runs out.
+

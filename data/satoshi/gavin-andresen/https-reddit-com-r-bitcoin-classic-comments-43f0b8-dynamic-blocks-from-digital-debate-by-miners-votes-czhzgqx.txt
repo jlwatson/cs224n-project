@@ -1,0 +1,10 @@
+I like simple.
+
+So my favorite idea is a variation of the dynamic limit proposed by Stephen Pair of Bitpay: limit is double the average cost over the last difficulty adjustment period.
+
+Miners control that by simply deciding how large to make their blocks (or what minimum fee they want to set).
+
+Empty blocks created because full broadcast or validation takes too long impose a natural limit-- if blocks  get too expensive, empty blocks get built on top, driving down the limit.
+
+Blocks would, on average, by definition, be half full-- which is a good number because it means people who care to get their transactions confirmed quickly will have to outbid people who don't care.
+

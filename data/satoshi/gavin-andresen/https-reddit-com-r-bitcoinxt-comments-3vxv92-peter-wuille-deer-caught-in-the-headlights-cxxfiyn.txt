@@ -1,0 +1,10 @@
+Our difference of opinion is ENTIRELY on what to worry about in the next two days to a year.
+
+I completely agree with your long-term roadmap-- the future is really bright!
+
+Apparently, in spite of ample evidence, you STILL don't agree that the biggest thing to worry about right now is transactions becoming unreliable and vulnerable to nuisance spam attacks, users becoming disgusted, and innovators deciding to stay away from a dysfunctional project that can't even agree to a simple capacity increase.
+
+Or, in other words, I believe those very short-term problems are critical-- utxo growth is NOT a critical problem right now.
+
+I expect now that mining pools are wasting time trying to figure out why their payout are taking hours or days to confirm we'll see the mining community decide maybe it is ok to run a fork of Core that raises the limit ASAP.
+

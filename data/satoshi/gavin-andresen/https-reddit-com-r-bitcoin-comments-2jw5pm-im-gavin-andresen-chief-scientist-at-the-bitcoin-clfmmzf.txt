@@ -1,0 +1,6 @@
+It would be enforced the same way banning any activity a government doesn't like is enforced, with fines and jail sentences for anybody found doing the thing they don't like.
+
+They would probably start by making it very difficult to exchange Bitcoin for the national currency via banks.
+
+Unencrypted Bitcoin traffic would be pretty easy to block at the ISP level, but it is also pretty easy to tunnel it through Tor, which is harder to block. But talk to the Tor folks about that, they know a whole lot more about blocking internet protocols than I do.
+

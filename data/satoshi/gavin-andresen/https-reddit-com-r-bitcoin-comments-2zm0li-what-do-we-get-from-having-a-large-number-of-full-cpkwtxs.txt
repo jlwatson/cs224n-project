@@ -1,0 +1,6 @@
+You are right-- We're OK as long as SPV clients and new full nodes can easily find eight peers with open incoming connection slots.
+
+The only time that was a worry was during a period of rapid growth before the code had UPNP support to open up a firewall port for incoming connections.
+
+More is theoretically better to fight Sybil attacks.... But Sybil attacks against Bitcoin clients are 'meh' -- attacker can keep you disconnected from the network and/or can keep your transactions from being broadcast but that's it (they are a much bigger potential problem for miners, but miners have stable long-lived connections).
+

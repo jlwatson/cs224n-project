@@ -1,0 +1,5 @@
+Miners, merchants and exchanges will be warned well in advance of the possibility of a bigger block. The reference implementation automatically warns you if it sees a majority of up-version blocks being produced.
+
+And a few months before the fork was scheduled alert messages would go out to old versions.
+
+Most wallet users won't have to do anything, because most wallet users are not downloading the whole blockchain.

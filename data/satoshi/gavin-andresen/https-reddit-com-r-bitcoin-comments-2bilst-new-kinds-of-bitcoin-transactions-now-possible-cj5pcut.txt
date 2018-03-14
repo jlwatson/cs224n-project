@@ -1,0 +1,3 @@
+Changes to 'IsStandard' rules take several months to roll out-- nodes have to upgrade to allow the new transaction types to be relayed and then mined.
+
+But yes, assuming the commit is not reverted and assuming people upgrade, in a few months wallets and other services can start using lots of interesting new transaction types.

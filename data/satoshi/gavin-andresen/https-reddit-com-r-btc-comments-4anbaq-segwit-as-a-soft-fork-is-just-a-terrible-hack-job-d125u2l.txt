@@ -1,0 +1,11 @@
+What is the simpler solution for malleability?
+
+If we were building Bitcoin from scratch, there are certainly simpler solutions (just don't include the scriptSig when calculating transaction ids, except for coinbase transactions).
+
+But compatibility with existing wallets and old transactions is critical-- we can't tell everybody "Everybody needs to upgrade everything on the Eleventh-- be sure to upgrade your software and any firmware in hardware wallets (or replace them if they can't be upgrade), we're going to change the way transactions are done."
+
+When I say I think segwit would be better as a hard-fork, I just mean that it would be cleaner to make the witness merkle root part of the merkle root that is in the block header (instead of stuffing it into an OP_RETURN output of the coinbase transaction).
+
+The anyone-can-spend trick is a great way of getting existing wallet compatibility, and I think getting that compatibility is well worth the extra engineering complexity.
+
+(segwit as a scaling solution is another kettle of fish)

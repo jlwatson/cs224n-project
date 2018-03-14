@@ -1,0 +1,5 @@
+Yes; my point is miners have more of an incentive to help make a particular currency successful.
+
+Miners have to guess what the price for whatever they are mining will do in the future (and guess what competitors will do) to decide whether to invest in research/development/facilities/chips/power contracts/etc. R&D and chips tend to be currency-specific.
+
+If the price of the currency rises more than they forecast, they profit. If not they might go bankrupt.

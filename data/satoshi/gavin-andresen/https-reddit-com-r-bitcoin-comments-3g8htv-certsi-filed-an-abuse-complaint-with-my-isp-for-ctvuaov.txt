@@ -1,0 +1,3 @@
+Tell your ISP it is a false positive-- the DNS query is to find peers on the bitcoin peer-to-peer network, it is not the fast flux not.
+
+I got the same report from Chunkhost, and they were understanding.

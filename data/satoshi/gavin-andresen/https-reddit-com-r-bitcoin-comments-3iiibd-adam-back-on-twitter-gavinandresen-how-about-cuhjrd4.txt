@@ -1,0 +1,5 @@
+The simulation is for the "attack" scenario of a rogue miner intentionally creating slow-to-propagate blocks to try to attack other miners.
+
+Propagation to the edges of the network doesn't matter (miners are very well connected).
+
+And common case is instant propagation, because almost all transactions have already been propagated and the bulk of validation (e.g. signature checking) has already been done.

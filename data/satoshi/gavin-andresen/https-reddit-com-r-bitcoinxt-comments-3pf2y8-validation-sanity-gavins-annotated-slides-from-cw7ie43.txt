@@ -1,0 +1,1 @@
+I should have been more specific in the notes: utxo growth is bound by the max blocksize, because even a block contains just 1 transaction that has nothing but new outputs, the utxo size would increase by some small multiple of the size of the block.

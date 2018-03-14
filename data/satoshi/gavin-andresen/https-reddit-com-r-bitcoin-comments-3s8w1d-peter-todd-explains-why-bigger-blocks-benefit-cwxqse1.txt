@@ -1,0 +1,7 @@
+... so to solve the problem we should decrease the block size?  Or do you have some other solution in mind?
+
+I propose that "we" make propagating big blocks as fast as small blocks. See my latest blog post for why I believe we should "design ahead" in the protocol: http://gavinandresen.ninja/designing-for-success
+
+If you'd like to help, there is plenty to do. Participate in the -testnet tests that jtoomim is running, or help test Mike's "thin blocks" patch.
+
+If you're not willing to help, the phrase "lead, follow, or get out of the way" comes to mind....

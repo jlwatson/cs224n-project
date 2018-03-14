@@ -1,0 +1,5 @@
+But a new signature type is exactly what segwit does-- see BIP143.
+
+And you don't have to stuff things into P2SH, you can use the payment protocol to request payment directly to a segwit transaction where there is just either 21 or 33 bytes in the scriptPubKey -- just the hash of the public key.
+
+I'm still not seeing your simpler solution for malleability.  Maybe if you wrote a patch....

@@ -1,0 +1,1 @@
+Bitcoin-Qt has always let you spend your own unconfirmed change. That is perfectly safe, unless you export your private keys to another wallet that might try to spend at the same time.

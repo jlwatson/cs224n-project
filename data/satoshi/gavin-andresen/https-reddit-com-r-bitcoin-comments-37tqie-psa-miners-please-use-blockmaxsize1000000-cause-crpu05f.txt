@@ -1,0 +1,3 @@
+Larger blocks will not push out smaller miners.
+  http://gavinandresen.ninja/are-bigger-blocks-better-for-bigger-miners
+

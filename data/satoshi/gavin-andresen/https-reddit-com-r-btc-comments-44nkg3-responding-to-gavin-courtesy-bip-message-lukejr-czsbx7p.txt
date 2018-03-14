@@ -1,0 +1,5 @@
+That response baffled me, too.
+
+Nothing stops somebody from trying this attack right now; you don't need a hard fork to try to Sybil attack and then feed somebody a fake chain.
+
+It's stupid to try, you will fail...

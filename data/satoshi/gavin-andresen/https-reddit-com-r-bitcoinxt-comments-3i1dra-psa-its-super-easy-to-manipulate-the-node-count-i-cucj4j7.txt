@@ -1,0 +1,1 @@
+Don't do this, we will just have to waste time writing code to detect and ban pseudo nodes.

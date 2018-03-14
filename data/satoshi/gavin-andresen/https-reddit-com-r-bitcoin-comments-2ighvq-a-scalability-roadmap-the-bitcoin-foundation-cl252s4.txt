@@ -1,0 +1,3 @@
+I'm proposing that we aim for the "Bitcoin Hobbyist running a full node at home dedicating 50% of his bandwidth to Bitcoin" -- do you agree that is a reasonable target? If not, what is?
+
+If we can get rough consensus on that, then we can work backwards towards a reasonable maximum block size.

@@ -1,0 +1,3 @@
+yes, the space set aside in blocks for high priority txns under default miming ruled weakens this attack.
+
+And the transaction fee estimation code in the latest release does, too.

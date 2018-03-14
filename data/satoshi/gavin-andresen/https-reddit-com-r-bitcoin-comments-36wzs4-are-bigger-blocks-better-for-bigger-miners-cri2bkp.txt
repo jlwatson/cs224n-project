@@ -1,0 +1,1 @@
+ASICs hash just the 80-byte block header; doesn't matter how many transactions are in the block (the block header contains a 'merkle root' that you can think of as all the transaction data smushed together in a secure way into just 32 bytes).

@@ -1,0 +1,3 @@
+1) A good place to start for Bitcoin Core: fork it on github and make sure you can compile/debug/etc. Learn how the RPC interface works. Then dive in and pick a RPC call and write some regression tests for it in Python (see https://github.com/bitcoin/bitcoin/tree/master/qa/rpc-tests ).
+
+2) Contribute to highly visible open source projects! I've heard that startups go down the list of contributors on github projects to look for people to recruit.....

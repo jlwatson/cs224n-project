@@ -1,0 +1,5 @@
+... so an attacking peer tells me "here's the last chunk of a valid 4 terabyte block" (along with a merkle proof for that chunk and valid proof-of-work).
+
+And then it gives you the previous chunk, and so on. You can't count tx chaining until you're given the first chunks.  You'd have to require chunks get served in order (limiting parallelism opportunities) and assume that the attacker didn't have enough entries in the UTXO set they could chain to run you out of memory.
+
+It is certainly much simpler to have a reasonable-but-large maximum block size, so we CAN, for example, parallelize download of parts of blocks from multiple peers.

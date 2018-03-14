@@ -1,0 +1,3 @@
+... you also ignore the bit where I say:
+
+"I'm confident that we will have 20MB blocks propagating across the network more quickly than 1MB blocks propagate today, eliminating even that small 0.3% advantage."

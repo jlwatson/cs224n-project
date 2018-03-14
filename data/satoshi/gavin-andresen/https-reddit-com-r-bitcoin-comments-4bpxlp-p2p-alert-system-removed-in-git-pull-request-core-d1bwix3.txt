@@ -1,0 +1,10 @@
+The system handles changing the alert key just fine, if you assume alerts are very rare events (they are):
+
+                // Small DoS penalty so peers that send us lots of                                                                        
+                // duplicate/expired/invalid-signature/whatever alerts                                                                    
+                // eventually get banned.                                                                                                 
+                // This isn't a Misbehaving(100) (immediate ban) because the                                                              
+                // peer might be an older or different implementation with                                                                
+                // a different signature key, etc.                                                                                        
+                Misbehaving(pfrom->GetId(), 10);
+ 

@@ -1,0 +1,3 @@
+Agreed, lines of code removed is a much better metric.
+
+-- gavinandresen 484 commits / 64,087++ / 76,317-- ;-)

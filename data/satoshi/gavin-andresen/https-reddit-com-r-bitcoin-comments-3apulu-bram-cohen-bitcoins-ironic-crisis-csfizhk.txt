@@ -1,0 +1,8 @@
+I've averaged about two pull requests per month since January:
+https://github.com/bitcoin/bitcoin/pulls?utf8=%E2%9C%93&q=is%3Apr+author%3Agavinandresen+
+
+... but yes, finding a new salary source for me and Cory and Wladimir chewed up a good bit of time. Code review and testing is the current bottleneck for Core development, so number of pull requests isn't a good measure of productivity.
+
+Another big chunk of time was spent testing 20MB and 200MB blocks, trying to get consensus privately to do something to raise the block size, and then, when those conversations went nowhere (Pieter and Greg got really busy with sidechains work), pushing the block size issue publicly.
+
+I WISH I had more time to work on IBLTs...

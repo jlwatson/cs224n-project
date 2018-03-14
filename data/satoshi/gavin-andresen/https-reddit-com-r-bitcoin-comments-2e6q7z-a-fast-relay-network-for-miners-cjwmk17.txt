@@ -1,0 +1,3 @@
+Yes, this goes from new block announcements being O(nbytes) to O(nbytes/25) -- which is a fantastic more-than-order-of-magnitude speedup, but is still O(n).
+
+My latest thinking is that to scale up many more orders of magnitude putting the IBLT idea on top of Matt's solution will be the best way to go.

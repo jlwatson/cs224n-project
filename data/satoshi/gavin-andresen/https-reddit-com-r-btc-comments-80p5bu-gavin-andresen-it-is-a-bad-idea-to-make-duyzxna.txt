@@ -1,0 +1,2 @@
+It would be simpler to extend BIP70 to let the merchant specify "I'm happy to pay a 0.000X BCH transaction fee" and then have the customer's wallet do the right thing  (e.g. if the merchant lists the item for 1BCH, 1BCH comes out of the customer's wallet, and the merchant is happy to receive 1BCH-tx_fee -- they pay the fee).
+

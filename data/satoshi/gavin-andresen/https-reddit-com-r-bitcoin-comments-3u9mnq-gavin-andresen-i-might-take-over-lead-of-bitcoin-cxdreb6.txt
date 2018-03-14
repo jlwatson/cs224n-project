@@ -1,0 +1,5 @@
+I said BIP101 was the only proposal with well-tested code people can download and run.
+
+Pseudo-code or untested patches that ignore the O(n^2) SIGHASH_ALL vulnerability don't fit my 'ready to go' criteria.
+
+Anyway, I really and truly hope consensus emerges from Hong Kong; that would be the least disruptive path forward.

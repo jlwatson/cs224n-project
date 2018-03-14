@@ -1,0 +1,3 @@
+Wanna bet?
+
+There is not yet consensus on exactly how and when to increase max block size, but there is strong consensus it must rise.

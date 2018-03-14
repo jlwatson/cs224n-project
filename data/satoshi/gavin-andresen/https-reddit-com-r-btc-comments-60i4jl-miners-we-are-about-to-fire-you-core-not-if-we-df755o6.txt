@@ -1,0 +1,17 @@
+E.g. https://mobile.twitter.com/btcdrak/status/843914877542567937 where they assume 'the Bitcoin chain' is the 1mb branch.
+
+They don't get to decide what 'the Bitcoin chain' is.
+
+Hashpower follows price. Price is determined by scarcity and perceived current (and discounted future) value; speculators/investors/users set the price.
+
+It is a complex system, though: hashpower can influence perceived future value of a branch of the chain they don't like by credibly threatening to destroy its utility. The only workable response is to counter-threaten to switch POW.
+
+It would be much better for everybody if Core would agree to some compromise, but they either cannot or will not. They are left with trying to convince speculators/investors/users 'stick with Core because we are the most awesome development team in the world (we even find bugs in compilers!)'
+
+They ARE very good (not perfect) at finding bugs and have a rigorous QA process. I'm going to be immodest and take some credit for that-- my first significant contribution to Satoshi was code that implemented the testnet. I wrote the initial versions of the unit testing framework and rpc-based integration testing framework. And if you check the git comment history I bet I said 'how should I test this' or 'how was this tested' more than anybody else.
+
+But having bug-free code is pointless if your code doesn't solve important real-world problems. I hate to pick on Pieter, he is an awesome coder and a fantastic person... but just today he proposed a new and improved Bitcoin address scheme that I'm sure is incredibly solid and technically better than base57.
+
+It is a good example of a super-smart team working on whatever strikes their fancy instead of working on the highest priority problems. Don't believe me? Read some weekly meeting summaries, and see how much discussion there is of priorities, problems users or companies or miners are having, etc.
+
+

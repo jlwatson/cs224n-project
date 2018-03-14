@@ -1,0 +1,1 @@
+Pieter and Gregory are hyper-competent programmers. Libsecp256k1 is a fantastic piece of code, MUCH better in every dimension than the OpenSSL code it replaces.

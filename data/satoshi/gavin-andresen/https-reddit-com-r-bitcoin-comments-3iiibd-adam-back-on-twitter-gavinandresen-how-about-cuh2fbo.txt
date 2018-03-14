@@ -1,0 +1,9 @@
+you mean like this:
+http://gavintech.blogspot.com/2015/01/twenty-megabytes-testing-results.html
+
+And this:
+http://gavinandresen.ninja/are-bigger-blocks-better-for-bigger-miners
+
+And this:
+https://github.com/bitcoinxt/bitcoinxt/blob/master/qa/rpc-tests/bigblocks.py
+

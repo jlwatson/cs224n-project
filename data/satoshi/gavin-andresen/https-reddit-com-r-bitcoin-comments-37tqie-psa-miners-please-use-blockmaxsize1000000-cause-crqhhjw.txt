@@ -1,0 +1,3 @@
+If a large pool creates a slow-to-propagate block all they accomplish is increasing their own orphan rate. 
+
+That actually INCREASES the profits of the other miners.

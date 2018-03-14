@@ -1,0 +1,7 @@
+Peter Todd is a very large part of the "Bitcoin Core moves forward too slowly" problem.
+
+He needs to realize that changes to Core are not life-and-death; we can, and do, correct small mistakes.
+
+And he needs to realize that just because he has over-riding priorities (DECENTRALIZATION AT ANY AND ALL COSTS!!!!!!!), the wider Bitcoin community might not set priorities exactly the way he wants. Consensus requires compromise, and as far as I've seen he is never willing to compromise.
+
+And Kyle: if you want a feature in Core, then begging and pleading for it to get done is not the way to make sure it gets done. Do it yourself, or hire somebody to do it (just make sure they've worked on open source projects before so they know that it takes a lot of work AFTER writing the code is done to get consensus that a change is safe enough, and generally useful enough, to be included).

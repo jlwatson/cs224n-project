@@ -1,0 +1,4 @@
+It'd be fine with me if there was an additional rule of something like "blocks may not be any larger than X% larger than the average size of the last Y blocks" to avoid "shocks."
+
+I just like things to be as simple as possible, because complexity is the enemy of security. And I don't see any way the sudden announcement of a much larger block would "shock" the network --
+peeking at the front page of blockchain.info right now, I see largest block of 730K and smallest nearly three times smaller at 268K.

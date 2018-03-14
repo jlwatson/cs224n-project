@@ -1,0 +1,6 @@
+Mining is a competitive business: it will ALWAYS be tough for miners, regardless of the maximum block size.
+
+"If it was easy, everybody would do it" <-- ... and then the difficulty increases and makes it hard for everybody again....
+
+
+If you are worried that miners will have to invest a lot of money in infrastructure to support larger blocks, I think that worry is unjustified. If I was proposing gigabyte blocks then that would be a reasonable worry, but the costs of supporting 20megabyte maximum-sized-blocks are very modest.

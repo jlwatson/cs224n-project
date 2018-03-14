@@ -1,0 +1,11 @@
+RE: jtoomim's tests:
+
+I started with the assumption that EITHER miners are not idiots, and won't create blocks that orphan themselves because they take a long time to validate/propagate (if they are idiots, they'll go out of business).
+
+OR that if there is an advantage to making blocks take a long time to propagate, that same advantage can be had by simply selfish mining (unless you make absurd assumptions that miners can control the network topology of other miners).
+
+Block size limit != block size miners choose, and bitcoind can handle much, much larger blocks.
+
+As for the email thread:  it is the one that started with "I think we're hurting bitcoin because the lack of a scaling plan is causing a huge amount of uncertainty" and ended with me asking for help with simulation/testing/etc (zero response, I guess you were too busy with BlockStream stuff). 
+
+BUT: all that's in the past. What's the current plan for the hard fork that's on Core's road map?

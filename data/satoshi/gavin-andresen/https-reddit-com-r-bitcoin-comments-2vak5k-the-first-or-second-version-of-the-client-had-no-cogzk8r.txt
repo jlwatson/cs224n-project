@@ -1,0 +1,3 @@
+you are confusing the size of blocks with the maximum possible size they are allowed to be.
+
+I am proposing raising the max allowed size. The actual size will, indeed, rise or fall incrementally as transaction volume changes and miners decide what block size they think makes sense.

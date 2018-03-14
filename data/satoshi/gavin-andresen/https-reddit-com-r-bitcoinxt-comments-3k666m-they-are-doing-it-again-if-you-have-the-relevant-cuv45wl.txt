@@ -1,0 +1,5 @@
+if the vision is every Bitcoin full node also becomes a Lightning node ... Then doesn't that just mean higher bandwidth and CPU and security requirements for everybody ?
+
+And if the vision is not every full node is a lightning node... how is that not more centralized?
+
+Don't get me wrong, I think the Lightning network might be a fantastic idea for instant payments (if they solve the routing problem in a sufficiently robust and decentralized way). I just don't see how it is better for decentralization.

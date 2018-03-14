@@ -1,0 +1,3 @@
+Because the p2p networking code isn't robust enough to call it "1.0" (it is an accreted set of hacks to mitigate DoS/Sybil attacks; it should keep track of resources used by each peer, and prioritize work so no peer can overwhelm CPU or bandwidth or disk usage).
+
+And because the wallet code needs work to match best practices (use keys derived from a master seed, do NOT rely on BerkeleyDB).

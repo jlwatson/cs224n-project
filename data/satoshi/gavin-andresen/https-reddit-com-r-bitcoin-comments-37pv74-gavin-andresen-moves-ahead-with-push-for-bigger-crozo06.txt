@@ -1,0 +1,3 @@
+Yes, I stepped back from day-to-day work on Core exactly so I could work on bigger-picture issues like scalability-- doing things like talking to big merchants/exchanges, testing bigger blocks, writing a series of blog posts responding to objects, etc etc etc.
+
+It is impossible to do everything; Greg, I think you've been trying to do too many things, and I wish you'd either trust my judgement on this a little more or spend the time to present a coherent alternative that we could all get behind (or tear apart or both).

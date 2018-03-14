@@ -1,0 +1,2 @@
+Headers-first is Pieter Wuille's work. It speeds up initial chain download times, but doesn't make block propagation faster.
+

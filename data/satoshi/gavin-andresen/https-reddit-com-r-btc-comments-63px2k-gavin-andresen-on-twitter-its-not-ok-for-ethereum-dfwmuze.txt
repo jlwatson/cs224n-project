@@ -1,0 +1,1 @@
+I haven't taken the time to look at any other proposals; segwit does the job well and is extremely well studied so I'm just not motivated to think hard about other proposals.

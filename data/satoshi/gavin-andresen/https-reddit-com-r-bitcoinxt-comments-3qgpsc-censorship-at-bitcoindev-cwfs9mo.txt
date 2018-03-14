@@ -1,0 +1,14 @@
+Reject message:
+
+The moderator gave the
+following reason for rejecting your request:
+
+"Hi,
+
+moderation policy should be discussed on bitcoin-discuss. The Mike
+Hearn post got through by mistake, but has been forwarded to -discuss.
+There's a thread about it there including a reply from Rusty, see
+http://lists.linuxfoundation.org/pipermail/bitcoin-discuss/2015-October/thread.html
+
+
+Thanks"

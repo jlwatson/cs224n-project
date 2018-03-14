@@ -1,0 +1,5 @@
+For lots of questions, it might not be a problem-- for example, I bet you'd get valid results from 'Blue is the prettiest color' because I doubt people who use deep cold storage have different color preferences than people who don't.
+
+There might be differences on accessibility of coins or willingness to tie up coins for the length of the vote for the block limit issue, though. The big HODL'ers might be under-represented, for example-- and might be more or less conservative about proposed changes like raising the blocksize limit.
+
+Or active traders who move their coins in and out of exchanges might want to raise the limit but won't tie up their working capital in a vote.

@@ -1,0 +1,10 @@
+Kinda mostly reasonable... but why is https://github.com/saracen in the list? That's a handle I don't recognize.
+
+The tricky bit is somebody like gmaxwell, who doesn't write a lot of code but does a LOT of code review and contributes in lots of other ways.
+
+The other tricky bit is we've had other "pay for github activity" tools, and
+
+a) they are not a significant source of funds for developers
+b) it is really easy to incentivize bad behavior (like making lots of trivial changes)
+
+I'm all for experiments for how to reward people doing good work, but I'm not optimistic that ANY radically decentralized model can replace the tried-and-true models for funding open source developers.

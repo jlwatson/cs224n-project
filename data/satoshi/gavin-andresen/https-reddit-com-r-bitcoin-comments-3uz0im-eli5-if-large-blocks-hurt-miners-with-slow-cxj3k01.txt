@@ -1,0 +1,5 @@
+Greg, can you please start to focus on SOLUTIONS?
+
+The Bitfury analysis assumes no optimization of the p2p protocol AT ALL-- not even running with a lower -max connections to decrease bandwidth.
+
+Your constant negativity is not helping make progress, which is sad because there is awesome progress being made all the time by you and Pieter and other contributors.

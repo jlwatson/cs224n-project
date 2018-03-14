@@ -1,0 +1,3 @@
+limiting max transaction size keeps it O(n)-- which is why my increase block size pull request limits txn size to 100k (current IsStandard size).
+
+I need to remember to write another BIP for that when I'm back from vacation...

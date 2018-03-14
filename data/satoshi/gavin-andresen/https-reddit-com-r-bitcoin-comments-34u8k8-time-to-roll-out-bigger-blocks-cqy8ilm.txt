@@ -1,0 +1,5 @@
+Somebody else pointed that out, I added:
+
+“Any change that requires a hard fork will open up Pandora’s Box and destroy the confidence people have in the stability of Bitcoin; if the one megabyte maximum block size limit can be changed, why not the total number of bitcoins issued?”
+
+I should probably add an item about who, exactly will need to upgrade. Most wallets are SPV, and they will NOT have to upgrade (they never download full blocks, and don't know or care whether their transactions are confirmed in 1MB or 20MB blocks).

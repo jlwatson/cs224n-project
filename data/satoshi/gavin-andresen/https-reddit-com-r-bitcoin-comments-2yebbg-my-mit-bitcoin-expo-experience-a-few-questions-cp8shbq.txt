@@ -1,0 +1,1 @@
+No, you are just wrong. If exchanges or merchants or full-node-running users reject their chain, then the bitcoins they produce are worthless, no matter how much hash power they have.

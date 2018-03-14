@@ -1,0 +1,6 @@
+> I get this is the "Blockchain Primer" from Gavin, but I don't see any of his floated proposals being discussed specifically. (Specific blocksize percentage increases, etc..) Is there a reason they were left out?
+
+Because I want to get rough consensus on the fundamentals before discussing specifics, and because anything I post on the blog people misinterpret as "Gavin is saying this is the way it MUST be done."
+
+e.g. see Mr. Todd's immediate attack because I mention that assurance contracts "may" be a way of funding blockchain security in the future.
+

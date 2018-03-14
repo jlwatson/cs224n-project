@@ -1,0 +1,4 @@
+Our policy is to not release binaries until they have been reproduced by at least three people.
+
+We're at two right now (Wladimir and myself), Official Announcements won't happen until we have at least one more gitian-builder.
+

@@ -1,0 +1,4 @@
+Yes, see this graph for what happened the last couple of consensus rule changes:
+ http://bitcoin.sipa.be/ver-50k.png
+
+Hash power moved from 75% to 100% very quickly (within 3 weeks with block version 2 to 3, and about a week for block version 3 to 4).

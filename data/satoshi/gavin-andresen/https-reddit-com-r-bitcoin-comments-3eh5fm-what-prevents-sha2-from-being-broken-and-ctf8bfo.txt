@@ -1,0 +1,4 @@
+You have to break DOUBLE-sha256, which is much harder.
+
+If Bitcoin used MD5, a very broken hash function, in all the places it uses SHA256...  it would be secure (because the attacks against MD5 are prevented if you hash everything through MD5 twice).
+

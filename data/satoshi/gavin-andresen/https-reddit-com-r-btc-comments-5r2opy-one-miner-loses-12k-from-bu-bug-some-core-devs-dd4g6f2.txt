@@ -1,0 +1,5 @@
+I agree, Bitcoin CAN scale.
+
+But it isn't.
+
+I still think it eventually will (either via a hard fork or via a needlessly complicated 'extension block' soft fork), but I think there is a risk people will get fed up and move to another chain before that happens.

@@ -1,0 +1,3 @@
+O(1) size:  validating a block will ALWAYS be O(n) CPU time, because you have to check all transactions.
+
+(well, unless you relax the not-going-to-trust-anybody-else-at-all constraint, in which case there might be a scheme where peers validate different chunks of a block and share summary results).

@@ -1,0 +1,1 @@
+No, no hardfork necessary to get rid of that limit, just an upgrade to the network protocol (or dropping support for the old ‘block’ message for any/all of the much more efficient block propagation protocols).

@@ -1,0 +1,7 @@
+The absentee miners getting forked off problem wouldn't have been solved if P2SH used a NOP; both DUP HASH160 EQUAL  and   NOP1 DUP HASH160 EQUAL  were non-standard.
+
+The problem was triggered by an IsStandard() script that SPENT an invalid-under-new-rules P2SH input.
+
+My life would've been easier if P2SH outputs were one byte bigger, too.
+
+As for more complex handling: I think if we had used a NOP we'd have another source of malleability -- which opcode used to push the 20-byte hash. Making it "must be exactly 23 bytes" was the right decision; adding a NOP that meant "kinda sorta do the OP_EVAL thing" would open up all sorts of cans of worms.

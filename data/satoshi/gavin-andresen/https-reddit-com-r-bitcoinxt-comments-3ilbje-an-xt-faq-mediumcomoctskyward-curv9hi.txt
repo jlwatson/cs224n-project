@@ -1,0 +1,3 @@
+He might be thinking of miners telling each other what they are hashing as soon as they start hashing, then just announcing coin base and nonce if they find a block.
+
+That moves the bottleneck from new block announcement to bandwidth needed to keep up with transaction and 'this is the block I'm working on' announcements.

@@ -1,0 +1,7 @@
+Thanks! I agree, I think we can learn a lot from BGP.
+
+This incident is interesting: http://www.datacenterknowledge.com/archives/2014/08/13/bgp-routing-table-size-limit-blamed-for-tuesdays-website-outages/
+
+... disruption caused by old hardware not being able to handle growth in a protocol that didn't set a limit... 
+
+I assume the fix was to upgrade the hardware, and not impose an arbitrary limit? Any network engineers know what happened?

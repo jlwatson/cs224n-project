@@ -1,0 +1,5 @@
+The data I'm working from:  testing with my 3-year-old Mac, assuming a "pretty good" broadband Internet connection (300GB per month data cap), and assuming only half the bandwidth is used for Bitcoin.
+
+And going with historical estimates of growth in bandwidth, storage and CPU (bandwidth is the bottleneck, growing 50% per year).
+
+I'm happy to implement another method of implementing the fork-- picking a block number or date N months out would be just fine. I think it still makes sense to ask miners to produce block.version=4 blocks, because that will trigger automatic warnings asking people to upgrade.

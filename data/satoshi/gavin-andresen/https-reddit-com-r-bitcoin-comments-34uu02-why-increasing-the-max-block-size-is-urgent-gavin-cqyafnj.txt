@@ -1,0 +1,3 @@
+How would RBF help?
+
+If all wallets just re-broadcast with higher fees, then you just end up with lots of network bandwidth usage from rebroadcasts and lots of transactions still waiting (all with higher fees).

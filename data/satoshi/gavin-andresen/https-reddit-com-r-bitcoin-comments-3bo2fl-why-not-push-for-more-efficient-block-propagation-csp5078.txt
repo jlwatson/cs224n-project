@@ -1,0 +1,3 @@
+I don't understand the question. "Larger pools not faster" <-- not faster at what?  Announcing bigger blocks?
+
+No, there is no reason why a larger pool would be able to announce new blocks faster than a smaller pool.

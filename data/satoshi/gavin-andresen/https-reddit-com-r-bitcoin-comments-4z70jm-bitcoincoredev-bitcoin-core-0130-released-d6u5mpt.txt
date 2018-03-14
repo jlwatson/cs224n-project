@@ -1,0 +1,9 @@
+Restricting the block size to 1mb is doing two things:
+
+1. Pushing companies and people to other chains. Bitcoin is at serious risk of becoming the MySpace of cryptocurrency because it is failing to scale.
+
+2. Pushing people to centralized exchanges and wallets, because as fees rise it is cheaper to transact off-chain and it centralized off-chain solutions are much, much, much easier than decentralized solutions like Lightning.
+
+Again, how do 'we' decide what is reasonable? Maybe somebody should appoint a Maximum Block Size Committee?
+
+The market (aka the community) should be allowed to determine the maximum block size. Any other way of deciding (including letting developers who happened to get involved years ago decide) is against the Zen of Bitcoin.

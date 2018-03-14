@@ -1,0 +1,2 @@
+The losing branch will have close to zero value and hash rate very quickly.
+

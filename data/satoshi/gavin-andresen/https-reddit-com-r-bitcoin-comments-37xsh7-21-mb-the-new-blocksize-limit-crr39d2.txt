@@ -1,0 +1,3 @@
+I could make the same argument for why we shouldn't stay with 1MB blocks:
+
+There are a lot of optimizations that can make huge blocks almost as quick to download as small blocks. But there is no reason to do them if we're stuck with a 1MB maximum block size-- why bother implementing a fancy Invertible Bloom Lookup Table solution for forward-error-correcting-coding of blocks if that only makes sense if much larger blocks are allowed?

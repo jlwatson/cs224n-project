@@ -1,0 +1,4 @@
+Warning: half-baked thoughts:
+  https://gist.github.com/gavinandresen/e20c3b5a1d4b97f79ac2
+
+If you start implementing any of this, let me know so I don't re-invent any wheels.

@@ -1,0 +1,1 @@
+Use importwallet, which had a simple ascii format and let's you specify a time/date

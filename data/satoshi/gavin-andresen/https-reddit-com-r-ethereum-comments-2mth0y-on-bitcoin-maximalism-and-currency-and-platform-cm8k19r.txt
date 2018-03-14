@@ -1,0 +1,7 @@
+> The only way that can possibly happen with global-scale transaction volume at low cost is if the only full nodes are run by Google and Amazon
+
+Umm, quoting myself:  "After 12 years of bandwidth growth that becomes 56 billion transactions per day on my home network connection — enough for every single person in the world to make five or six bitcoin transactions every single day. It is hard to imagine that not being enough; according the the Boston Federal Reserve, the average US consumer makes just over two payments per day."
+
+I'm ancient; first computer I ever owned was a Commodore 64, with 65,536 bytes of memory and a 300 bits per second modem.
+
+We've come a long way since then, and despite constant predictions that we'll hit a wall, very smart people keep innovating. I think you're making a mistake if you think you need to compromise the "anybody can transact with anybody with no middle-man" because you're afraid the network won't scale.

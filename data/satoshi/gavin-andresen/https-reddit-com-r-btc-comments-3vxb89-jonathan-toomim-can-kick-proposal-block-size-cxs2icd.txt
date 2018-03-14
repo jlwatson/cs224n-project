@@ -1,0 +1,11 @@
+There will be a blog post with my thoughts on segregated witness tomorrow.
+
+In general, I think designing for success, and setting limits "as high as possible while still being safe" is the right approach.  See http://gavinandresen.ninja/designing-for-success
+
+All of the AWESOME work people are doing to fix the block propagation issues (and more... I'm a reviewer for papers submitted to the bitcoin workshop at the financial crypto conference in February, there is lots of great academic research happening) makes me more confident than ever that the practical issues limiting scale will be fixed. It is dumb to set limits, or live with limits, that:
+
+a) can be fixed
+b) won't cause systemic problems even if they're not fixed
+
+The BIP101 limits are set to make sure that there would be no systemic problems even if the limits are hit with the current, horribly inefficient code, and the testnet testing showed there would be no SYSTEMIC problems (there could certainly be problems for miners on the wrong side of a slow or flaky network link, but as Jonathan points out changing where you build and announce your new blocks makes that problem go away-- it isn't a SYSTEMIC issue).
+

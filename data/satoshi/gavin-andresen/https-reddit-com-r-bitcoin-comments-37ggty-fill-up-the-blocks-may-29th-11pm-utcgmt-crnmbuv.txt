@@ -1,0 +1,3 @@
+Interesting idea.
+
+I was just writing some code that creates histograms of block sizes over time, to get a feeling for what miners are doing, today, with respect to block size.

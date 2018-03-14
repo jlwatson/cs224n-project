@@ -1,0 +1,7 @@
+You're probably right.
+
+If that is the future, Bitcoin will survive, it will just be needlessly complicated and some people will lose money due to wallet implementation bugs.
+
+Just like some people have lost money due to old wallets not implementing dynamic fee estimation.
+
+But the wallet developers will get the blame, not the Core developers, so I guess that's OK?

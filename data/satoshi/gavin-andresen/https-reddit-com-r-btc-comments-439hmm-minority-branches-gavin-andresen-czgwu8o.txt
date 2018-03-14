@@ -1,0 +1,6 @@
+Yes-- a key difference is transactions valid on the clamcoin chain are NOT valid on the Bitcoin/litecoin/dogecoin chains (and vice-versa).
+
+Another is big bit/lite/doge holders are not necessarily big clam holders-- if you had 1,000 btc in one address, you have 4.something clams. If you held it in 10,000 addresses, you have 40,000 clams. The economics are really weird (I bet a big exchange could crash the price of clams if they dug out a backup of their hot wallet  from May 2014).
+
+The economics of two Bitcoin branches would be different-- the biggest holders would have the power to crash the price of the minority branch by selling to anybody dumb enough to buy.
+

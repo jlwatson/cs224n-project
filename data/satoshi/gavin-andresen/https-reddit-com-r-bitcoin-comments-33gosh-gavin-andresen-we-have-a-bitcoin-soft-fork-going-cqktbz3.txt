@@ -1,0 +1,3 @@
+The block.version=2 to block.version=3 soft fork for BIP66 https://github.com/bitcoin/bips/blob/master/bip-0066.mediawiki . Pieter is graphing adoption: http://bitcoin.sipa.be/ver-10k.png
+
+RE: people could lose money: how would people lose money if the maximum block size was increased? Are you talking about miners that refuse to upgrade?

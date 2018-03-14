@@ -1,0 +1,8 @@
+That is an Underpants Gnomes attack:
+
+1. Majority of miners produce a 100+ block long chain with bogus million-dollar output.
+2. Miners send million dollar transaction to unsuspecting Classic mode who happens to be catching up with chain.
+3. ?????
+4. Profit!!!
+ 
+If I recall correctly, every node on the network starts warning something fishy is going on at step 2 ('invalid more work chain detected')....,

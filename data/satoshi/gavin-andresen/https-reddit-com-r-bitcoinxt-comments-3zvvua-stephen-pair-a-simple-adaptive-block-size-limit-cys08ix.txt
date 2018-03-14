@@ -1,0 +1,5 @@
+2 is probably about right, based on peak versus typical transaction volume on other financial networks.
+
+If it turns out to be too small... then it can be changed in a future hard fork.
+
+I think this is one consensus rule that only needs to be enforced by the miners, and can imagine non-miners just accepting any size block with valid proof of work. I know I personally won't care (I do care about the 21million limit, double spends in the chain, and that miners are properly validating transaction signatures...)

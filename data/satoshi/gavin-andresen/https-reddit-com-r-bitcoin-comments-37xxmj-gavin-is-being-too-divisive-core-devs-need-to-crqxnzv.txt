@@ -1,0 +1,6 @@
+http://gavinandresen.ninja/does-more-transactions-necessarily-mean-more-centralized
+
+I'll quote myself:
+
+I agree with Jameson Lopp’s conclusion on the cause of the decline in full nodes– that it is “a direct result of the rise of web based wallets and SPV (Simplified Payment Verification) wallet clients, which are easier to use than heavyweight wallets that must maintain a local copy of the blockchain.” Give the typical user three experiences: a SPV wallet, a full node processing one megabyte blocks, and a full node processing twenty megabyte blocks, and they will choose SPV every time.
+

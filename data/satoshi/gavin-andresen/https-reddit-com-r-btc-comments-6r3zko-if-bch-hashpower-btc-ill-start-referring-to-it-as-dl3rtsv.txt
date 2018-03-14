@@ -1,0 +1,3 @@
+It is easy to shut somebody out: make it a policy that all code must be reviewed by one of the active contributors.
+
+Then the active contributors just practice benign neglect and don't bother reviewing code from somebody they dislike. Plausible deniability is 'seems like nobody cares about that pull request, closing for lack of interest.'

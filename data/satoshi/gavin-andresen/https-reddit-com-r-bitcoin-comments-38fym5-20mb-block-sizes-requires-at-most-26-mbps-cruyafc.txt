@@ -1,0 +1,1 @@
+(And you're also assuming new blocks will be announced the inefficient way they are today, which is a bad assumption. I will implement more efficient new block announcement protocol unless sipa or somebody else beats me to it).

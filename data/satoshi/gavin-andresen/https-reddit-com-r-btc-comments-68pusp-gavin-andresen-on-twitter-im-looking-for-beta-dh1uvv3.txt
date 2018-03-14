@@ -1,0 +1,5 @@
+Hashing before submitting means missing detecting if your "random" bytestream is even one byte out of sync with an identical "random" bytestream. The duplicate detection works with 16-byte chunks of the byte array, and complains if it detects overlap (e.g. maybe two machines started with identical entropy, but one of them happened to service an https connection just after startup which consumed 32 bytes of the /dev/urandom stream....).
+
+Hashing public keys and submitting the hash is a good idea. Although if that extra hashing (versus just submitting the public key bytes) adds any significant security then your public key algorithm is very broken.
+
+PS: https://rest.randomsanity.org/ is working.

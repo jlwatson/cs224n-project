@@ -1,0 +1,5 @@
+No-- lots of people choose to trust others to hold their coins, or split trust (with multisig-locked coins). Or they put them in inaccessible cold storage.
+
+So lots of coin holders would be left out.
+
+And there are major 'stakeholders' who have invested a lot who's stake is not in the form of coins-- miners being the most obvious example (startups being another).

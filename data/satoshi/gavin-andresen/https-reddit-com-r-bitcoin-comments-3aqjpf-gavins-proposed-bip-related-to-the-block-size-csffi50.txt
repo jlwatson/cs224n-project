@@ -1,0 +1,3 @@
+The sky will not fall if the block size stays at 1MB-- there will just be a lot of disgruntled users pissed off that their transactions don't confirm as fast as they expect and they have to pay more than they expect.
+
+If the block size must be raised eventually (and basically everyone agrees it must be raised at some point) then I think it is best to do it now, when there is time for thorough testing and a careful, planned rollout. And before there are a lot of unhappy users telling their friends how their money got stuck in the Bitcoin network.

@@ -1,0 +1,1 @@
+How many transactions per second can the computer you're using right now verify?

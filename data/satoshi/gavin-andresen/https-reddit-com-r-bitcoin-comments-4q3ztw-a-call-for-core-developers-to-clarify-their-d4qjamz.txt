@@ -1,0 +1,5 @@
+Happy to join consensus, tired of banging my head against a brick wall.
+
+So as soon as Core comes out with (or even starts to discuss) a reasonable proposal, I'll help promote it.
+
+So far, I've seen nothing but 'wait for the Lightning silver bullet-- until then, Schnorr and segwit will be plenty good enough, we know because we're Developers, we write code!'

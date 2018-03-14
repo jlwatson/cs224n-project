@@ -1,0 +1,3 @@
+internet bandwidth has been growing at a rate of 50% per year; doubling every two years is about 40% growth per year, so the idea is to stay under the growth trend.
+
+Rusty did some good research on US home internet bandwidth trends over the last decade or so that shows much lower growth-- I think we're about to see an explosion of bandwidth to the home, because the financial crisis is over and big companies are investing in infrastructure again. And people LOVE streaming video....

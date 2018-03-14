@@ -1,0 +1,3 @@
+Yes, but they do have to own the coins first to double-spend-steal.
+
+If they are a majority of hashpower, though, they're creating thousands of coins per day so that shouldn't be a problem for them.

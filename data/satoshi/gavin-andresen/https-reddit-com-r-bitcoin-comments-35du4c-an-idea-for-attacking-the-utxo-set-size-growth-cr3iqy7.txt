@@ -1,0 +1,1 @@
+Interesting idea. You should write a patch (with tests) and see how much it saves in practice.

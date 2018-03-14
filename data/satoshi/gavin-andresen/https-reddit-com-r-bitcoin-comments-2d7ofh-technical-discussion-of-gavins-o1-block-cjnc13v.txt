@@ -1,0 +1,11 @@
+I think we might be talking past each other on github, I'll try here, maybe other people can chime in and help explain to you why you're wrong.
+
+So: imagine there is a block race with your just-forward-the-header scheme.
+
+Miners A and B send out their headers, which race through the network with O(1) speed.
+
+Miner C gets both those messages at about the same time. What happens?
+
+The answer: nothing happens, because Miner C can't start building on top of either of those blocks until they know which transactions they spend.
+
+So Miner C tries to pull the transaction data for both of those competing blocks, and we're back O(n): whichever is smaller is more likely to have propagated through the network to get to miner C first.

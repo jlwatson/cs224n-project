@@ -1,0 +1,3 @@
+No, the plan was for miners and businesses to run full nodes, with most people running SPV nodes.
+
+I've never understood the full node fetish; there are hand-wavy arguments that we need everybody to run a full node 'for security' or 'in case of government crackdown' but as long as we have a dozen or three full nodes in a dozen or three countries the network will be nice and secure and robust from a number-of-full-nodes perspective.

@@ -1,0 +1,8 @@
+But when I'm composing an email I have no idea whether or not it will be rejected as "too big" by whatever SMTP server handles delivery.
+
+And yet... email seems to work just fine.
+
+That is very similar to miners composing blocks and then hoping the "consensus server" that is the rest of the network accepts them.
+
+Not exactly the same, but similar. And before you read more into that: yes, it is reasonable for a protocol to be designed so that miners don't have to do much guessing...
+

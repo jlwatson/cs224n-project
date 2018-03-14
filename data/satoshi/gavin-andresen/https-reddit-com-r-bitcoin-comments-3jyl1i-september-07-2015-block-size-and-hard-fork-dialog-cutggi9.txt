@@ -1,0 +1,3 @@
+If they want a head start (and they have enough hash power) they can try to selfish mine; you don't need bigger blocks.
+
+If/when fees become more important, miners who are able to propagate bigger blocks faster would get a small advantage.... except that isn't true even today because miners connect to Matt's fast relay network so even huge blocks propagate very quickly.

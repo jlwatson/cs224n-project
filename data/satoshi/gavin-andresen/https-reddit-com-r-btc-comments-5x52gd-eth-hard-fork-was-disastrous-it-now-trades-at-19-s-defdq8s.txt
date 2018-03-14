@@ -1,0 +1,11 @@
+I was tempted to write a "What should Bitcoin learn from the Ethereum forks" ...
+
+... but it would fall on deaf ears (many people are stubborn about not changing their opinions even when presented with facts that don't support their opinions). And I'd have to do a bunch of grunt work to figure out ETH market cap on key dates (before the DAO hack, when forks were announced and went into effect, etc).
+
+I've said it before: ETH tanked when the DAO imploded and people realized that wouldn't be the "killer app" that took ETH to the moon.
+
+The ETC split was an absolute worst case-- you had perhaps the most controversial change possible (roll back the ledger to reverse history) combined with the cheapest possible opportunity costs for anybody who wanted to keep the old chain going (ethereum's constant mining difficulty retargeting made it cheap to keep the old chain going).
+
+Even after all the insanity and multiple "oops, gotta fork" events, it seems likely ETH will surpass its all-time high price (in dollars) this year.  (has it already passed its all-time high in market cap?)
+
+The idea that an obviously necessary fix to the number one problem facing Bitcoin is too controversial to move forward is crazy.

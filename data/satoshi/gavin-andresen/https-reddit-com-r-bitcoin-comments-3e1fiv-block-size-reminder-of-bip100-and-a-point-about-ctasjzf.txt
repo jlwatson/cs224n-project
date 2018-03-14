@@ -1,0 +1,1 @@
+The BIP101 patch changes it. It is harder to change with a voting scheme like BIP100, but not crazy-hard.

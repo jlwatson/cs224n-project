@@ -1,0 +1,9 @@
+I use Bitcoin for big purchases whenever I can, and charitable donations.
+
+Day-to-day little transactions I still use credit cards and cash. I expect that will change when the big point-of-sale-systems start supporting Bitcoin.
+
+Change 3 aspects of Bitcoin...
+
+1. Have transactions refer to previous outputs by a hash that omits the scriptSig.
+2. Use Schnorr signatures instead of ECDSA
+3. Go back in time and have the Bitcoin-Qt wallet use hierarchical deterministic keys.

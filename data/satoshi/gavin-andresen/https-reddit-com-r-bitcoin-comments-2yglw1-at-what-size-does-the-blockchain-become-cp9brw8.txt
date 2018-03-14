@@ -1,0 +1,3 @@
+My 2-year old Mac can verify about 1,100 transactions per second, and my home Internet connection could handle about 400 megabytes of transactions per ten minutes.
+
+I have started benchmarking international latency and bandwidth, and it looks like THAT will be the limiting factor, not bandwidth or cpu to your home.

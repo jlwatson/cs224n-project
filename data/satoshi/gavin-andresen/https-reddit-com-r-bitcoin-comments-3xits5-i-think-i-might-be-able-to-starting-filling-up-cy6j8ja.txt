@@ -1,0 +1,5 @@
+Have you talked to anybody who runs a poker site?
+
+I implemented and deployed a just-for-fun multi person online poker system; your tech would have been nice, although we probably wouldn't have used it. Much simpler to have a central server, especially since players need a way of finding each other and since leader-boards were a big feature.
+
+I believe the biggest problem in real-money poker is players collaborating with each other outside the game. Three players cooperating at a table can pretty easily take down a fourth. The big poker sites try to detect odd betting patterns that indicate unfair collaboration and will ban players that cheat; you won't disrupt them unless you have a solution to that problem.

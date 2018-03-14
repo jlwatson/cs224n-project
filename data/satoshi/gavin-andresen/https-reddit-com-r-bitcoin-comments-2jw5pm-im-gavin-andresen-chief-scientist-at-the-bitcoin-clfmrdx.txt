@@ -1,0 +1,3 @@
+I don't think cryptography is the weak link right now, so I don't think a cryptographic expert is the right place to spend money.
+
+Bitcoin's failures haven't been cryptographic, they've been either old-fashioned fraud or plain old computer security failures.

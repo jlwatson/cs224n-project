@@ -1,0 +1,13 @@
+Lets do some back-of-the-envelope math and see how much data we could save:
+
+Transactions inputs are 32-byte (256-bit) previous transaction id plus a 4-byte index to the output of that transaction being spent.
+
+The 32-byte txid could be compressed to be however many bytes uniquely identify the previous transaction in the UTXO set -- lets say 4 bytes on average.  Squish the number of bytes and the transaction output index into another byte, and you can probably cut inputs to 5 bytes instead of 32.  Yay!  One-sixth the size!
+
+Except... the biggest part of transaction inputs are the full public keys and signatures, which, if I recall correctly, are 33+72 bytes.
+
+So the savings for each input is  (32+33+72) versus (5+33+72) -- or a 20% reduction in size for the inputs (actual savings for the entire transaction will be less, there will be another 50 or so bytes for at least one output, transaction version, input sequence numbers, locktime, etc etc etc).
+
+There are much better ways of compressing the transaction data in new block messages (see Matt Corallo's fast relay network code, which replaces transaction data with short indexes that are "that transaction I sent you N 'tx' messages ago").
+
+This could work to compress the original 'tx' messages, but I think much bigger gains are possible by optimizing out 'inv' messages by being clever about how transaction data is relayed across the network.  See http://gavintech.blogspot.com/2015/09/how-efficient-is-bitcoins-gossip.html for some half-baked thoughts.

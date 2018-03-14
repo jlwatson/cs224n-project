@@ -1,0 +1,9 @@
+http://rusty.ozlabs.org/?p=551 is a better analysis, but I think we're overdue for a major jump in to-the-home bandwidth (fiber rollout is slowly happening).
+
+So.... Long-term high-end bandwidth has been about 50% growth.
+
+BIP101 is 40%
+
+Average connection speed over the last 8 years is 30%
+
+Aiming between the short and long term trends seems reasonable to me. Better to aim a little high, because it is much easier to lower a limit, if needed, than to raise it.

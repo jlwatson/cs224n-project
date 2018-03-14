@@ -1,0 +1,6 @@
+If it is in miners' best interest to produce smaller blocks, then they will do that.
+
+You seem to be confusing MAXIMUM block size with minimum block size.
+
+Increasing the 1MB maximum gives miners more freedom/choice, not less.
+

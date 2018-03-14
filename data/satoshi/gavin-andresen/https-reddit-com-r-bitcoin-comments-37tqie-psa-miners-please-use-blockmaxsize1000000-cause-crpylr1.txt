@@ -1,0 +1,5 @@
+Maybe I should amend the blog post or write a follow-up...
+
+0.3% was the WORST I could get, creating the absolute worst network topology possible and assuming that the miners being attacked are idiots (that they are also producing big blocks that take a long time to propagate).
+
+"What if you are a miner several hops away from all the rest of the miners" :  Grab my code and simulate it yourself (the config files are simple text files). I'm not going to bother, because if a miner is stupid enough to not arrange to be directly or almost-directly connected to most of the other miners (preferably via Matt Corallo's fast relay network) then they deserve to go out of business.

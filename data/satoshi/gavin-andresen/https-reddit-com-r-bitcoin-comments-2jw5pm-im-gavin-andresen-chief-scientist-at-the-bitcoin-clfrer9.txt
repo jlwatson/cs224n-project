@@ -1,0 +1,5 @@
+I think once the mining sprint-to-11-nanometer race is over mining will be a commodity.
+
+And I don't think it will be economies of scale that take over, I think it'll get more distributed.
+
+After all, there should be economies of scale for CPU power, too, shouldn't there? Why do we all run our own computers instead of just connecting to CPUs in some big data center somewhere?

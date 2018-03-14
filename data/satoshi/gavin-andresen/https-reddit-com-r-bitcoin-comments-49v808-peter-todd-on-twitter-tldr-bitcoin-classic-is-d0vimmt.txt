@@ -1,0 +1,4 @@
+....except your node will complain at you if your clock differs from the network-adjusted time by too much.
+
+And the 51% miners would have to be orphaning the 49% miners that are producing valid time stamps. So orphan rates shoot up and confirmation times double.
+

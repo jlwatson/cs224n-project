@@ -1,0 +1,3 @@
+I like segwit.
+
+I'd like it a little more if the witness data was a branch of block.merkleroot (and not shoved into the coinbase tx) and would like it a LOT more if it didn't introduce yet another transaction-rate-limiting magic number.

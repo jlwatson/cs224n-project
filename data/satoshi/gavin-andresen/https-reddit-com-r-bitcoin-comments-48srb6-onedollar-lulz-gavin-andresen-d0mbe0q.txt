@@ -1,0 +1,9 @@
+Why would the price crash if you unleashed an expensive-to-validate-block on the network?
+
+Worst case is it no transactions confirm for longer than usual.
+
+But that happens all the time-- I doubt anybody would even notice.
+
+Maybe if you did it repeatedly... but there are much more effective uses of that $10,000-every-ten-minutes.  Like use it to jam up the artificially-size-limited network with high-fee-paying transactions, as is apparently happening right now.
+
+

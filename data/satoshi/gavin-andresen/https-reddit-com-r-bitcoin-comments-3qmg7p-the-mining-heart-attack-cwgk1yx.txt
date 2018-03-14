@@ -1,0 +1,7 @@
+We have a few more block halvings to see if this is actually a problem.
+
+I think big companies that rely on the network will mine themselves, at zero or temporarily-negative profit so their business doesn't fail.
+
+And who knows, maybe by then there will be a rock-solid distributed consensus algorithm that can replace mining proof-of-work. Once POW has distributed essentially all the coins, IF there is a technically sound alternative, why not switch?
+
+But that's a debate to have 20 years from now.

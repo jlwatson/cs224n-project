@@ -1,0 +1,5 @@
+The BIP101 code I wrote puts limits on transactions, too-- not size limits, limits on signature checking. The main network IsStandard 100k size check remains (but remember no IsStandard on test net).
+
+I have been trying for months to get the other blocksize BIP writers to collaborate on a second BIP just on those limits, because ANY blocksize increase has to deal with the issue.
+
+To answer the question of can you have a 16,000-input transaction: yes, if you use SIGHASH_ANYONECANPAY so it doesn't trigger the SIGHASH limits of XT. 

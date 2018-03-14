@@ -1,0 +1,3 @@
+We know about what fraction of hashing power runs with the default 750K limit on blocksize (50-60%) and what the rest are deciding to do with respect to blocksize when there are plenty of fee-paying transactions waiting to get into a block:
+
+http://bitcoincore.org/~gavin/sizes_358594.html (graph requires javascript)

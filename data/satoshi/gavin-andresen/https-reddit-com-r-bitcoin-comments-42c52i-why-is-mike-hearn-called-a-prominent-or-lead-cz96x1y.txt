@@ -1,0 +1,4 @@
+Because he implemented bitcoinj, which many more people are using to Bitcoin than Bitcoin Core.
+
+Don't conflate 'Bitcoin' with one particular piece of software.
+

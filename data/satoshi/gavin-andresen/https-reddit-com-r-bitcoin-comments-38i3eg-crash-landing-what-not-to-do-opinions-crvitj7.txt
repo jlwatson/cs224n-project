@@ -1,0 +1,1 @@
+if you try to spam zero (or very-low) fee transactions most of them will be ignored and not get into anybody's memory pool.

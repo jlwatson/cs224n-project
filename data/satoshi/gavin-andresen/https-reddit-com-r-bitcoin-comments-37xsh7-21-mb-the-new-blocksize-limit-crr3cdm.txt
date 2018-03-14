@@ -1,0 +1,1 @@
+Because you keep misleading repeating that a bigger block size will mean increased block propagation and therefore more mining centralization, and because people keep saying "what about people mining with raspberry pi's in Greenland?"

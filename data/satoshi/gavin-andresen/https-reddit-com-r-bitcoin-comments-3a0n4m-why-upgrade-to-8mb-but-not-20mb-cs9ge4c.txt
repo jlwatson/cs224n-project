@@ -1,0 +1,6 @@
+It is symmetric, so if 60% of mining is in China, and blocks propagate fast inside China, then THEY have a small advantage.
+
+Unless one of them connects to the fast relay network, which is about 100 times more efficient.
+
+Or most of them put block announcing nodes on both sides of the firewall, pre-send the blocks they are working on through the firewall, and just send the winning nonce and coinbase when they find a block.
+

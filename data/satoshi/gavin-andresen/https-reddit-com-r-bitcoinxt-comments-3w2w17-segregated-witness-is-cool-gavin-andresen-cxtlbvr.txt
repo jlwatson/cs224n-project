@@ -1,0 +1,3 @@
+Yes, Adam Back tried to convince me that was a good idea in January at the financial crypto conference in Puerto Rico (I think he called them 'extension blocks').
+
+It is just an even more complicated and disruptive way of not solving any of the contentious issues, like how big are extension blocks allowed to be, and who gets to decide.....

@@ -1,0 +1,3 @@
+My concern is that a solution won't get consensus before we bump into the 1MB block size. That won't be a disaster, but I think it could hurt Bitcoin's reputation as a low-transaction-fee way to transfer value around the world.
+
+RE: contributing: more code review and testing is always welcome!

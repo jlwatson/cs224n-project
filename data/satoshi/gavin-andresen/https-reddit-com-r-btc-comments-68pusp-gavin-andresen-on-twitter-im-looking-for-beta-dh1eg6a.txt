@@ -1,0 +1,5 @@
+Just yesterday in bitcoin-core chat you were discussing exactly one of the problems that this service solves:
+
+http://bitcoinstats.com/irc/bitcoin-core-dev/logs/2017/05/01#l1493625397.0
+
+You continue to amaze me with your incredibly narrow view of security. You consistently fail to see the bigger picture, and seem to be unable to conceive of the notion that some failure modes (e.g. restoring a VM from a snapshot and getting the same stream of 'random' bytes from /dev/urandom you got yesterday) are MUCH MUCH MUCH more likely than some theoretical attack that just ain't gonna happen in practice.

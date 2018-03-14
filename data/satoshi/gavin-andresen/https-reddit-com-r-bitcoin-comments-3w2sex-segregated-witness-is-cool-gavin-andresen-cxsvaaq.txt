@@ -1,0 +1,5 @@
+It should be almost exactly the same amount of data (overhead could be as small as one extra hash-- the fraud proof data can be computed by any fully validating node, so no need to broadcast that).
+
+I didn't realize at first the fraud proof data didn't need to be broadcast, so I think I made a comment here that bandwidth would increase.
+
+I haven't had time to review the code yet; Pieter's presentation in Hong Kong was the first I'd heard details on the plan to get it into bitcoin main net.

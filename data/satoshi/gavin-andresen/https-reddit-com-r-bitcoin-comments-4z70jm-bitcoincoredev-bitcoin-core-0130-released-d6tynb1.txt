@@ -1,0 +1,5 @@
+2Mbps divided by 8 bits per byte time average 600 second block time equals 150 megabytes.
+
+Divide by ... I dunno, ten? ... for extra safety margin and you can download 15megabyte blocks no problem.
+
+If you are solo mining, just produce tiny blocks and they'll upload plenty fast.

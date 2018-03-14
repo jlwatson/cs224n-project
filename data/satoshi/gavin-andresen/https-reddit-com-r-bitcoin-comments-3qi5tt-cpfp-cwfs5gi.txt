@@ -1,0 +1,3 @@
+No, it usually doesn't work. Sometimes because if the child doesn't have enough fee to get relayed to miners, broadcasting the parent won't help (it won't be relayed or mined because the child is forgotten).
+
+And the rest of the time because almost no miners implement cpfp code.

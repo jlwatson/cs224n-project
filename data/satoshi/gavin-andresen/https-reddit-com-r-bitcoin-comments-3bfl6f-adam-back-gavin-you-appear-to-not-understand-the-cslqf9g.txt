@@ -1,0 +1,9 @@
+My response:
+
+If I don't see how switching from using the thousands of fully-validating bitcoin nodes to (tens? hundreds?) of Lightning Network hubs is better in terms of decentralization (or security, in terms of Sybil/DoS attacks), then I doubt other people do, either. You need to do a better job of explaining it.
+
+But even if you could convince me that it WAS better from a security/decentralization point of view:
+
+a) Lightning Network is nothing but a whitepaper right now. We are a long way from a practical implementation supported by even one wallet.
+
+b) The Lightning Network paper itself says bigger blocks will be needed even if (especially if!) Lightning is wildly successful.

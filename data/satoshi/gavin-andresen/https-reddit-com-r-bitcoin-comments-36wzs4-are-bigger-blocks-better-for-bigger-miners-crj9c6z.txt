@@ -1,0 +1,1 @@
+a bigger max block size puts more control in the hands of the miners (since you can always create smaller blocks if that is in your best interest).

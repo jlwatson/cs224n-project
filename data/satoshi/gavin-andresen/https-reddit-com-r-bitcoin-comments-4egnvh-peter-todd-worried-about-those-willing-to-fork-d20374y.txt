@@ -1,0 +1,11 @@
+Peter Todd is wrong, as usual.  I usually don't bother explaining all the ways he is wrong, but I'll make an exception while I wait for a compile to finish:
+
+"we end up with two different economically relevant currencies"    Debunked here:  http://gavinandresen.ninja/minority-branches
+
+RE: renting hashing power to "force a fork" :  That is the way Bitcoin consensus works.  Majority hashpower wins, unless they try to force through a change that is rejected by majority economic power (exchanges, merchants, users).  The block size limit is a change that the economic majority has been SCREAMING FOR for a long time.
+
+“It behooves us to make sure that any hard fork triggers in a scenario where it is very unlikely for any of this to happen . . . Triggering at 75 percent hashing power is not that scenario.”
+
+75% plus a 28-day grace period is extremely safe.  Even Mr. Chicken Little Todd says in that same interview that there is only a 5% chance of anything going wrong (and I think he is overestimating that risk by an order of magnitude or two).
+
+The risks of even more people deciding that Bitcoin is a failed experiment that cannot scale is much greater.

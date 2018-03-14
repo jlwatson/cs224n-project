@@ -1,0 +1,17 @@
+RE: resistance to censorship:
+
+I'll quote myself from this thread on bitcointalk: https://bitcointalk.org/index.php?topic=813324.msg9146609#msg9146609
+
+> RE: what happens with Tor:
+> 
+> Run a full node (or better, several full nodes) that is connected to the network directly-- not via Tor.
+> 
+> But to keep your transactions private, you broadcast them through a Tor-connected SPV (not full) node. If you are mining, broadcast new blocks the same way.
+> 
+> That gives you fully-validating-node security plus transaction/block privacy. You could run both the full node and the SPV-Tor-connected node on a machine at home; to the rest of the network your home IP address would look like a relay node that never generated any transactions or blocks.
+> 
+> If you live in a country where even just connecting to the Bitcoin network is illegal (or would draw unwelcome attention to yourself), then you'd need to pay for a server somewhere else and administer it via Tor.
+
+RE: assurance contracts not working:
+
+okey dokey. Please don't continue to muddle the maximum blocksize issue with whether or not transaction fees will be sufficient to secure the network in the future. They are mostly orthogonal issues that should be discussed separately.

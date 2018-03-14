@@ -1,0 +1,5 @@
+I dismissed his analysis after "First, I only looked at blocks found after approximately 10 minutes, to avoid the time variance from influencing the result."
+
+My wife is an actual scientist, and if she decided to throw out bunch of data because it influenced her results... umm... she would never, ever get a paper through peer review.
+
+See http://hashingit.com/analysis/34-bitcoin-traffic-bulletin for a good analysis.

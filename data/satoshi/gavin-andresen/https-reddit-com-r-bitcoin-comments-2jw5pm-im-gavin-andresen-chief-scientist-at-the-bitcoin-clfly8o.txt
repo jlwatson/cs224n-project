@@ -1,0 +1,3 @@
+We need regulatory clarity, ease of use, and no-single-point-of-failure security.
+
+I think we're very close on all of those things.

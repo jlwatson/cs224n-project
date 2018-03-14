@@ -1,0 +1,1 @@
+that's correct. Note that the each node in the network will select a different random transaction to evict when the mempool is full, so unless you are spamming transactions or sending very low-fee transactions that take a very long time to confirm, the only effect is your transaction may take a little longer to get included in a block.

@@ -1,0 +1,1 @@
+Too many transactions to fit into 1MB blocks and you'll see transactions never confirming and transaction fees required to go into blocks rise.

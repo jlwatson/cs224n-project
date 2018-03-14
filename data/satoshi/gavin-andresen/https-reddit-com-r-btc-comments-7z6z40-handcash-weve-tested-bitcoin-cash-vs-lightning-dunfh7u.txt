@@ -1,0 +1,5 @@
+I don’t think anybody knows how long the average channel will stay open. Will there be a lot of churn in hubs as people decide (for whatever reason) to stop running a hub and cash out locked up funds?
+
+Will security vulnerabilities in popular Linux distributions result in hubs closing channels as attackers drain them?
+
+Will everybody use highly centralized but highly reliable (24/7 sysadmin behind the hub) ‘up forever’ hubs?

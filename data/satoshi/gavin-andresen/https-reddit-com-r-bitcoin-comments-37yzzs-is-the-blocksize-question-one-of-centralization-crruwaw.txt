@@ -1,0 +1,3 @@
+Fewer people are running full nodes with 1MB blocks now. Did you read my blog post where I say:
+
+"Give the typical user three experiences: a SPV wallet, a full node processing one megabyte blocks, and a full node processing twenty megabyte blocks, and they will choose SPV every time."

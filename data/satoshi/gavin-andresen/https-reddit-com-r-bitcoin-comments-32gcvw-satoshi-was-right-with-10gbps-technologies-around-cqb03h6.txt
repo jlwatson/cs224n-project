@@ -1,0 +1,3 @@
+Marginal-fee transactions ALREADY compete to get into a block, even at the current average block size of about 300kbytes. See http://core2.bitcoincore.org/smartfee/fee_graph.html for a nice graph (uses JavaScript to draw the graph).
+
+Why do you think that would stop being true with a larger maximum block size?

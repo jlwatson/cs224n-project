@@ -1,0 +1,1 @@
+Interesting question... the total size of the UTXO wouldn't change, but memory pools wouldn't get as big as they do now (wouldn't have an hours' worth of transactions waiting in mempools if miners were unlucky in finding blocks), so the UTXO working set should be smaller.

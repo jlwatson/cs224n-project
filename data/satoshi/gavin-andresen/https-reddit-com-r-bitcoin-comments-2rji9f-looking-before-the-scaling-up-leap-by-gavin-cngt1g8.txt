@@ -1,0 +1,1 @@
+https://github.com/bitcoin/bitcoin/blob/0.10/src/main.cpp#L2627

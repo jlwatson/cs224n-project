@@ -1,0 +1,7 @@
+It is possible to create very large transactions that take a very long time (a couple of minutes) of CPU time to validate.
+
+Ordinary users can't get those transactions relayed across the network or mined into blocks, because transactions larger than 100,000 bytes are rejected by the network. So this isn't a critical problem.
+
+However, a "rogue miner" can produce a one megabyte block with a one megabyte transaction that takes a long time to validate. One miner already did, accidentally (block 364,422 -- we know it was an accident because if they were really trying to produce a slow-to-validate block they could have made it even slower).
+
+If nothing was done as we move to 2mb blocks, the problem gets four times worse. To make sure the problem doesn't get any worse, a new rule is added (and code written) to limit the amount of work done to validate a block.

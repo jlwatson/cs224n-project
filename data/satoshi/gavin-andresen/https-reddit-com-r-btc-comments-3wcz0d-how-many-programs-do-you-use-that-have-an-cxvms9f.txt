@@ -1,0 +1,3 @@
+It is a protocol.
+
+How many protocols do you use that have an arbitrary tiny limit that requires regular upgrading? I can't think of any off the top of my head....

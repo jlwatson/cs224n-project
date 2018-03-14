@@ -1,0 +1,8 @@
+Validate their own transactions?
+
+Or validate ALL transactions?
+
+I think it would be fine if only ten or twenty thousand people or companies in half the countries in the world were able to validate ALL transactions ALL the time. Bitcoin would have to be a couple orders of magnitude more popular to get there, though. Dedicate half your connection to Bitcoin and it should be able to handle 8meg block no sweat.
+
+What threat model are you worried about where tens of thousands of people fully validating would be insufficient?
+

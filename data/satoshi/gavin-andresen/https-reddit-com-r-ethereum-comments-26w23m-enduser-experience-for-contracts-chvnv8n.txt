@@ -1,0 +1,5 @@
+So the trust model is:
+
+You trust the curators of the Dapp Store to vet the dapps? Or, I suppose, contracts can be vetted by anybody capable of decompiling the bytecode of the contract on the ethereum blockchain and understanding it (do you imagine third-party Dapp auditing services?).
+
+Are you worried about subtle bugs in not-perfectly-written-contracts being exploited, or malicious contract writers purposely inserting subtle behavior in the contract code that might not be caught by auditors and can be exploited?

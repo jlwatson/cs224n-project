@@ -1,0 +1,3 @@
+It restricts max transaction size to 100,000 bytes (consensus rule, not just IsStandard), which fixes the vulnerability.
+
+I need to write a separate BIP for that change... it's on my TODO list...

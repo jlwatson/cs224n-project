@@ -1,0 +1,8 @@
+You are confusing "block size limit" with "how big are blocks."
+
+A 20MB limit would be perfectly safe-- if the network cannot handle 20MB blocks (and it can't right now) then miners won't produce 20MB blocks.
+
+You will hear complicated arguments about "accidental selfish mining" and "advantages for larger miners" but they are just FUD -- ordinary selfish mining is a much better attack than "produce an expensive-to-validate-block and pray most people are not doing something smarter than single-threaded validation."
+
+I have been listening very carefully to what they've been saying, have responded to every criticism raised, and have asked if I'm missing anything.  See http://gavinandresen.ninja/time-to-roll-out-bigger-blocks for links.
+

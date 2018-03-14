@@ -1,0 +1,3 @@
+My 'no' in that thread was 'no, you misunderstand what Wlad merged, he merged headers-first downloading, not headers-first mining.'
+
+The headers-first-downloading code did make writing the mining code easier, though.

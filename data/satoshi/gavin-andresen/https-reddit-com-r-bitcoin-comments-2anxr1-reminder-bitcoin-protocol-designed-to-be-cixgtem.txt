@@ -1,0 +1,1 @@
+Yes, it is, see Andrew Poelstra's explanation of how: https://download.wpsoftware.net/bitcoin/pos.pdf

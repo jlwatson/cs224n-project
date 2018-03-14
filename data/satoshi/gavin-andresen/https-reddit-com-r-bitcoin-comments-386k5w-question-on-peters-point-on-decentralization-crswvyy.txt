@@ -1,0 +1,3 @@
+That effect is completely insignificant until the block reward gets a lot smaller.
+
+And we will have very fast new block announcement code in place well before then.

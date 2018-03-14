@@ -1,0 +1,3 @@
+The code I wrote for BIP101 includes limits on validation, so it is impossible to create a block that takes a lot of time to validate.
+
+Please stop spreading FUD, it doesn't help the debate.

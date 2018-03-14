@@ -1,0 +1,1 @@
+Great results-- and those are single core numbers. If necessary, the structure of an IBLT should make it pretty easy to parallelize construction to take advantage of multicore CPUs.

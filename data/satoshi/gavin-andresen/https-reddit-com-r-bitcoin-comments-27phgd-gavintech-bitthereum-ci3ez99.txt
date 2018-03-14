@@ -1,0 +1,5 @@
+M-of-N for Bitcoin means M can collude to steal ANYBODYS/EVERYBODYS coins.
+
+The worst case is completely catastrophic.
+
+M-of-N for contracts only risks the value of funds secured by all M. A failure is not completely catastrophic, and recovery is clear (never,ever trust those M oracles again).

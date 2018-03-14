@@ -1,0 +1,3 @@
+No, new block announcements become O(1) (constant-sized) given some what-I-hope-are-reasonable assumptions about miner transaction selection policies being consistent (e.g. assuming that miners are rational and would prefer to put higher-fee-paying transactions in their blocks than lower-fee-paying).
+
+The network as a whole is still O(n) because you're still transmitting every transaction across the network, but we can scale a long way before that becomes a problem.

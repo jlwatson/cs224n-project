@@ -1,0 +1,7 @@
+If you are running a block-creating-for-mining node, you must upgrade in either case.
+
+If you are running a full node, it will start complaining at you that you must upgrade in either case (at least, the Core code will complain at you once it sees enough blocks with a version number it doesn't understand).  Yes, you can ignore the warnings if this is done as a soft fork, but if you decide to do that you significantly decrease your security against double-spending.
+
+If you are using an SPV or electrum or web wallet (vast majority of users), this particular hard fork (increasing merkle depth and/or increasing max block size) is the same as a soft fork -- no effect.
+
+So I disagree that there is any significant advantage in terms of ecosystem disruption for this particular hard fork change.

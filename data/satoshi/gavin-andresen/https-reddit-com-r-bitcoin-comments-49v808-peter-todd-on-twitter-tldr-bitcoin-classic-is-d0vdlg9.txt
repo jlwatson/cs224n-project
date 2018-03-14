@@ -1,0 +1,5 @@
+The attacker has to have more than 51% of hashpower, or their chain with the bogus transaction will have less work than the real chain, which your Classic node will get from another peer.
+
+If you're imagining a Sybil attack where a low-hash-rate attacker prevents you from seeing the real chain.... That is detected by code that notices blocks aren't being produced about every 10 minutes, and you are alerted something is wrong.
+
+This is an extremely low-risk change with big benefits for people who need to catch up with the chain.
