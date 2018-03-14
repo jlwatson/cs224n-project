@@ -1,0 +1,138 @@
+
+
+Nick Szabo's Papers and Concise Tutorials Copyright (c) 1999 by Nick Szabo  
+permission to redistribute without alteration hereby granted
+
+Cryptographers too often abuse statistical tests, leading to a potentially
+large number of security holes in today's ciphers. (Fortunately, most ciphers
+are also engineered to be secure despite partial failures when using strong
+key lengths, so a few statistical flaws may not be of concern for most
+practical applications when strong key lengths are used). Abuse of statistical
+tests is most obvious in the design of random number generators (both RNGs and
+PRNGs) but also can occur when statistical tests are relied on too heavily to
+judge the quality of intermediate stages and output in hash functions and
+ciphers.
+
+The needs of cryptography are fundamentally different from those of natural
+science, simulation, or games. Cryptographers are not merely deducing a giving
+pattern but face an active opponent who can devote more intellectual and far
+more computational resources than the cryptographer. Cryptography thus
+requires a very different mathematics -- a fundamentally different idea of
+"randomness". Researchers with passive, natural subjects, or game writers with
+players who are not sophisticated cheaters, can often get away with frequency
+probability and its corollary, Shannon (non-computational) information theory.
+A dynamic computational opponent requires algorithmic information theory for
+rigorous analysis. Unfortunately, the standard tests used by cryptographers
+are based on frequency statistics. They merely count bits rather than
+exploring the wide variety of predictable processes that might lie behind a
+sequence. They can't positively determine whether two of the most basic
+cryptographic techniques, diffusion and confusion, have succeeded in rendering
+output maximally chaotic (that is, the most unpredictable given imperfect
+knowledge of the input). The most lucrative places to look for holes in
+today's ciphers and random number generators quite likely lie in areas where
+these statistical tests have been relied on too heavily.
+
+The first most elementary fact of computational statistics, which any but a
+snake oil cryptographer should understand, is that there is no such thing as a
+feasible all purpose statistical test. It is sometimes implied that tests like
+FIPS-140 or MUST can fill this role or that their imperfections are slight.
+However they fail to find any regularity in the even simplest of completely
+predictable sequences, like the following:
+
+    
+    
+    (1) pi
+    (2) Champernowne's number (0.12345678901011121314151617181920...)
+    
+
+One can show that in Champernowne's number each digit of the base, and each
+block of digits of any length, occurs with equal asymptotic frequency. This is
+also believed to be true for pi -- it has never failed a frequency based
+statistical test for randomness. Pi is a number which commonly shows up in
+physical measurements and calculations.
+
+Not only can statistical tests not distinguish between an RNG and a PRNG; they
+cannot even feasibly distinguish between a secure PRNG and many insecure ones
+(like the algorithms for pi and Champernowne's number). Likewise, they cannot
+detect a wide variety of predictable natural or natural-seeming processes
+which would render a "real" or "true" random number source insecure.
+
+One can define, if not successfully run, an actual universal test for any
+preparation process simulable by a Turing machine: search the space of all
+possible possible ways the string could have been prepared on a Turing
+machine, i.e. all the possible programs shorter than the string. (The lengths
+of programs specified in different Turing complete languages are equivalent up
+to a constant).
+
+The entropy (Kolmogorov complexity) of the string is the length of the
+shortest program (to within that constant). It's not too hard to see that that
+(a) this search procedure is uncomputable, and (b) there is no more
+"universal" statistical test possible on a Turing machine (i.e., the test
+defined above really is universal for Turing machines).
+
+One could restrict the search to programs polynomially bounded in time and
+space, so that the test is computable, but then one would still expend at
+least as much effort to generate random numbers as the cryptanalyst would need
+to break them.
+
+The standard reference on algorithmic information theory is Li and Vitanyi,
+_An Introduction to Kolmogorov Complexity and its Applications_.
+
+Since there are so many different definitions of "randomness", most of them
+used for purposes other than cryptography, we should focus on our actual
+concrete goal: to generate a sequence _unpredictable_ to attackers. Unless our
+definition of cryptographic randomness encompasses all kinds of
+predictability, it is far from universal for our purposes. This is no mere
+philosophical point. Cryptanalysts put can far more effort and mathematics
+into rendering "random" sequences predictable than do most natural scientists
+or players of Doom.
+
+In discussing his statistical test MUST, Ueli Maurer points out that his test
+is only useful if you know you have a real random bitstream generator. He's
+quite correct: we have to deduce from the process itself to what extent the
+bitstream it produces is "real" random. We cannot positively demonstrate this
+via any feasible external test on the sequence. This requirement renders such
+tests far less useful than many seem to think: once we have made this
+deduction, we gain nothing from a Maurer test except to catch most (but hardly
+all, and possibly not the most important) innocent mistakes in the deduction
+or implementation. Nevertheless, tests like Maurer's are being widely abused
+to judge positively the security of ciphers and random number generators,
+probably leading to many security flaws which may go undetected until they are
+widely deployed.
+
+For RNGs, the alternative to statistical tests is make the design public and
+judge by the design itself:
+
+(1) Examine the source process itself: to what extent is the process chaotic,
+so that unobserved bits cannot be predicted from initial conditions and
+plausible observations? Is the output sequence itself inaccessible to the
+attacker? Assume the attacker can make most plausible observations and assume
+the low end of the resulting rough entropy estimate. (This step is art not
+science).
+
+(2) Mix multiple sources and distill the bits, so that the resulting bits are
+with high probability unpredictable by attackers, even if the source bits are
+unpredictable only with low probability.
+
+The distillation process of creating reliably unpredictable bits from
+unreliably unpredictable bits can be formally analyzed to positively
+demonstrate improvement in entropy per bit. The actual sources usually cannot
+be so analyzed, and the resulting sequence provably cannot be so analyzed in
+feasible time from its content. Thus it pays to be very conservative in
+deducing the entropy of source processes and fault tolerant in combining a
+variety of such sources to produce a "true" random sequence.
+
+A similar paradigm shift needs to occur in cipher design itself, from counting
+the frequency of bits to deducing the amount of chaos, via diffusion and
+confusion, introduced into a data stream of which the attackers has
+substantial but not total knowledge. This knowledge should be modeled as
+complete knowledge of various subsets of the data, not as if the attacker were
+a cloud of gas, with a certain probability of knowing any particular bit.
+
+In such ways we can design RNGs, PRNGs, and ciphers to do their jobs against
+active, intelligent, knowledgeable, and computationally powerful opponents
+rather than applying the weak methods of traditional statistics used for
+finding regularity in more tractable phenomena.
+
+Nick Szabo's Papers and Concise Tutorials
+

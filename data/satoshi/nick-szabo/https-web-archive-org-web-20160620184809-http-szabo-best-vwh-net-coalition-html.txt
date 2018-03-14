@@ -1,0 +1,93 @@
+Nick Szabo's Papers and Concise Tutorials Copyright (c) 1998, 2001 by Nick
+Szabo  
+permission to redistribute without alteration hereby granted
+
+N parties, comprising the set U ("universe"), want to engage in a protocol.
+They may want to reach agreement on the transfer of property titles,
+settlement of replicated books, distribution of credit reports and virus
+lists, or similar updates to replicated data. They may want to engage in a
+private multiparty computation for the purposes of confidential negotiations
+or auditing. These parties can form coalitions to gang up on each other. The
+set of possible coalitions is just the set of all subsets of U, C = 2^U.
+
+This essay focuses on thresholds of parties, sometimes called "voting". It is
+important to note that these are only meant to enhance the integrity of a
+_single atomic step or run_ of the protocol. Practical systems, such as  Mojo
+Nation, combine a majority or super-majority within a particular run with
+_failure detection_ and _choice_ by clients of servers between runs. So we can
+add back all the reputation systems, auditing, and so on that add robustness
+in the long term to distributed systems. The majorities or super-majorities
+within an invocation create a very good short-term robustness that is missing
+from current systems like Freenet and Mojo Nation. (It 's only party missing
+from Mojo, which has a 4-of-8 voting scheme but this has not been shown to be
+Byzantine resilient up to 4-of-8).
+
+The protocol designer needs to draw from C a set of allowed ("good")
+coalitions GC. Any set of parties in GC is a coalition sufficient to
+successfully complete the protocol. Also draw from C set disjoint from GC of
+disallowed ("bad") coalitions BC which cannot be allowed the opportunity to
+disrupt the protocol. If GC union BC = C then we say that the partition is
+unambiguous. Also, the sets in GC are the complements of the sets in BC, and
+vice versa.
+
+To produce a secure protocol, these coalitions need to meet certain criteria.
+Particularly interesting is the quorum system, a set of good coalitions, every
+member of which intersects in at least one party. Each good coalition (quorum)
+can act on behalf of the system to complete the protocol. Intersection
+facilitates consistency across quorums. If an operation occurs in two quorums,
+then at least one party observes both. Indeed, a fault-tolerant or secure
+quorum system intersects in a set containing sufficiently many parties to
+guarantee correctness. See, for example, the masking and dissemination quorum
+systems used by Malkhi & Reiter [MR97] to design a replicated database secure
+against malicious faults by bad coalitions. Secure replication is important
+for property titles[S98], transaction settlement in replicated books, mint
+issued and spent lists, credit reporting and virus lists[S96], and similar
+applications.
+
+Where the parties' preferences and payoffs can be numerically characterized,
+cooperative game theory[M91] provides a potential tool for quorum system
+design. Good coalitions should have no incentive to violate the protocol; bad
+coalitions with such an incentive can be tolerated. Secure protocol design
+would thus be combined with game theory to produce results stronger than those
+achievable by either model alone. Caveat: incentive models are much weaker
+than the Byzantine attack model cryptographers are accustomed to. The
+different cooperative game models make various oversimplifying assumptions
+about behavior. It is advisable that good coalitions be incentive compatible
+under a wide variety of game models and in light of practical informal
+considerations.
+
+[BW98], following the trail blazed by among others [HM97] and [NW96], have
+shown that if any single party can be trusted with correctness, then a quorum
+system is necessary and sufficient for the privacy of inputs to a multiparty
+computation[S97] against resource unbounded adversaries. Classical analysis of
+multiparty computation concluded that a threshold of more than half of the
+parties is necessary and sufficient for private computation. This is just a
+special case of BW98 result. Any threshold system whose threshold exceeds N/2
+is also a quorum system -- there are only N parties, so two coalitions of size
+>N/2 must contain at least one party in common, thus forming a quorum system.
+Certain interesting quorum systems are possible that are not majority
+thresholds.
+
+The classical analysis also concluded that a majority threshold is necessary
+and sufficient for _correct_ multiparty computation, i.e. secure against
+active malicious faults in minorities with polynomial amounts of resources. A
+two-thirds majority is necessary against resource unbounded adversaries. I am
+aware of no correctness result as yet for quorum systems in multiparty
+computation. Threshold correctness results for multiparty computation and
+quorum correctness results for secure replication suggest the possibility of,
+and an approach to, a quorum correctness result for multiparty computations.
+
+    
+    
+    References: The full older version of this article BW98  D. Beaver and A. Wool, "Quorum-based Secure Multi-Party Computation"
+    also in Eurocrypt '98 HM97 M. Hirt and U. Maurer, "Complete characterization
+    of adversaries tolerable in secure multi-party computation",
+    16th ACM PODC M91 R. Myerson, _Game Theory: Analysis of Conflict_ MR97  D. Maklhi & M. Reiter, "Byzantine Quorum Systems", also in 21st ACM STOC. NW96 M. Naor and A. Wool, "Access control and signatures
+    via quorum secret sharing", 3rd ACM Conf. on Computer and
+    Communications Security S96  On secure credit reporting, virus list distribution, etc. S97  A gentle introduction to multiparty computation and its potential applications S98  Secure property titles
+    
+
+Please send your comments to
+
+Nick Szabo's Papers and Concise Tutorials
+

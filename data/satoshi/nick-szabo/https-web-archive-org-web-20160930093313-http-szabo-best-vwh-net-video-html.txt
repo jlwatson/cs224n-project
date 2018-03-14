@@ -1,0 +1,192 @@
+Copyright (c) 1998 by Nick Szabo  
+permission to redistribute without alteration hereby granted
+
+### Introduction
+
+Qualities important to contracting, such as understanding, agreement, and
+commitment, are often better communicated nonverbally than via writing.
+Violation of an emphatic and well articulated promise is and should be
+considered much more egregious than violation of an offhand comment taken as a
+promise, or violation of an unread or misunderstood term of a written
+contract. Written contracts cannot capture such distinctions, and thus the law
+developed for written contracts has not taken them into account.
+
+The law has treated the written contract as a special social relationship.
+What is the special nature of a written versus an oral contract? Written
+contracts evolved out of oral contracts as a better way to memorize certain
+aspects of the oral agreement, the words. This is quite superior to the
+memories of principles or witnesses.
+
+Witnesses are even worse when it comes to nonverbal communications. Unless
+they are very good actors, they must first tranlate the nonverbal into a
+verbal description -- a very lossy process indeed.
+
+So nonverbal communications, rich in contractually relevant information but
+unreliable in the the era of witness memory, was deemphasized further in the
+paper era. Now for the first time we have the ability to record all external
+aspects of a contractual agreement.
+
+This will not happen overnight. The law needs to develop an art of
+interpreting audio and video, just as it developed an art of interpreting
+text. We need to develop an art of drafting multimedia contracts just as we
+developed an art of written contracts. And we need to be learn to develop
+"video literacy" skills, and distinguish between people of high skill (such as
+actors) and low skills.
+
+### The Promise of Multimedia
+
+Distinguishing innocent mistake from fraud is a problem common to law and
+governance. A proposed behavior the promisor is clear about and committed to
+is, absent fraud, much more reliable than behavior the promisor has only vague
+knowledge of or lukewarm commitment to. The emphasis, intention, and knowledge
+indicated by a visual account thus give the adjudicator much better
+information with which to disambiguate error from fraud. Video also vividly
+freshens the memory of the principles as to their state of mind and
+possibility of misunderstanding, so that the issue need not be taken to a
+third party. Video contracts may thus serve to greatly reduce the transaction
+costs associated with negotiating, committing to, and performing on
+agreements.
+
+Practical experiment to try: next time you buy a used car, insist on
+videotaping the claims and promises! (It may help to call ahead of time and
+sign an agreement that you can't publish the tape -- even then it will likely
+be a rare gem to find a sales rep who will agree to this!)
+
+Two examples of political videotape well known in the U.S. illustrate my
+point. The first, George Bush's infamous "read my lips -- no new taxes!"
+promise. Bush's emphatic assertion convinced voters the first time, and doomed
+him the second time when he had violated this promise. The fact that Bush
+committed fraud, rather than merely made a mistake, was clear enough for even
+the distant scattered electorate to see.
+
+A more recent example (this is only meant to illustrate my point, not take a
+position, so please don't turn this into a Clinton scandal flame war!) is Bill
+Clinton's wagging his finger and declaiming, "I did not have sex with that
+woman!" Some are now embarrassed to have relied on this promise that the
+scandal would soon be debunked. As with Bush it clearly demonstrates an
+intentional falsehood rather than mere mistake or misunderstanding. It is this
+piece of videotape, more than the detailed sexual descriptions or legal
+technicalities of Starr's report, that form the main popular case against
+Clinton.
+
+Non-commercial relationships may also be improved. Consider, for example, the
+emotions and intentions involved in a marriage commitment: much easier to
+capture on high quality video/audio than on paper. New forms of public and
+private marriage ceremony, adapted for visual and aural capture of emotion,
+intention, understanding, and commitment, may greatly improve the process of
+resolving marital dispute. A "video prenup" ceremony performed in private, or
+among a few close witnesses, may bridge the gap between cold prenuptial
+agreements and marriage ceremonies full of warmth but empty of concrete
+commitments.
+
+### Recovering the Meeting of the Minds
+
+In written contract law, every term in a written contract is usually
+enforceable. Parties are charged with understanding the meaning of these terms
+before agreeing to them.
+
+The reality, which videotaping would starkly reveal, is that lay people don't
+read most of the contracts drafted by lawyers, any more than most Windows
+users edit the Registry. To deal with the fact that such written contracts
+usually do not actually constitute a meeting of the minds, we have a host of
+regulatory restrictions on enforceability, often under the rubric of "consumer
+protection" or "labor relations". In this context "consumers", "labor", etc.
+denote lay people who sign laywer drafted contracts. The paper law has
+developed all these "epicycles" to deal with the fact there is so often little
+actual meeting of the minds.
+
+One unfortunate consequence of such regulation is that it further encourages
+laymen to sign contracts they don't read or understand, confident that the
+fine print doesn't give away their firstborn child, or a thousand other
+possible horrors. Thus regulation has caused contract law and practice to move
+further away from the idea that there must be a meeting of the minds.
+
+Instead of all these regulations, a more general but perhaps too radical
+approach would have considered lay people, when unassisted by their own
+lawyers and signing contracts drafted by other lawyers, to be "wards of the
+court" for the purposes of enforcing such contracts. The assymetry here
+between a lawyer and a layman is very similar to the assymetry between an
+adult agreeing to a contract with a child, or that between a C++/Registry
+hacker and a Windows user.
+
+We can now take a less radical approach and integrate video as a contractual
+medium co-equal to text to record whether, among other things, the layman
+actually understands the contract he is signing. Lawyers would then be forced
+to draft user-friendly contracts. This would follow the route blazed by Greg
+Burch's splendid example of seamen as wards of the court. Instead of lumping
+people into starkly unequal classes like "wards of the court", or ruthlessly
+enforcing terms a supposedly equal party didn't understand, the amount of
+assymetry involved in each particular contract becomes recorded on video and
+thus part of the contract itself.
+
+### A Phosphorecent Bright Line
+
+The "bright line" defining the scope of the contract even more important in
+the digital era, as we move from boundaries defined by pieces of paper to
+boundaries defined by computer user interfaces and the scope of data
+encompassed by a digital committment protocol. The interface must be user-
+friendly and should unambiguously correspond with the committed data.
+
+Where we may disagree is over whether the medium should be limited to text. I
+argue that audio and video clips of clear, well-defined extent, agreed and
+committed to at the same time as the text, should constitute an enforceable
+element of the contract co-equal to text.
+
+If the outcome of contract disputes becomes less predictable, people will use
+contracts less oftne. We must develop the arts of drafting and interpreting
+multimedia contracts with this in mind. For example, the different media
+should reinforce and disambiguate each other, rather than contradict, just as
+one part of a contract's text should not contradict another.
+
+"Drafting" using recordings of the parties, would become the art of developing
+informal protocols between these parties, such as those examining the
+interaction between the parties and the text. For example, a series of
+questions and answers between parties would both test their understanding and
+help clarify misunderstood aspects of the contract. The mere video record of a
+party reading a contract could serve a function much like the little ____
+initial boxes put beside important sections in a contract. Except that the
+recording, including recording the eye movements of the party, is much more
+comprehensive than the little boxes.
+
+### Caveats
+
+Video survelleince puts privacy in grave jeopardy. Video reordings should be
+known, selective, and ceremonial rather than hidden, ubiquitous, and of raw
+life.
+
+There is great potential for ambiguity in high bandwidth, in-person social
+interaction. This could gravely impact the enforceability of video contracts
+based on such interaction. Much of the ambiguity may stem from our poor memory
+of such events, as well as from the immature state of audio and video
+interpretation and composition skills for legal purposes. I suspect the wealth
+of new information far outweighs potential intractable ambiguities.
+
+### Conclusion
+
+Understanding, agreement, and commitment, are often better communicated
+nonverbally than via writing. Thus video contracts can serve to greatly reduce
+the transaction costs associated with negotiating, committing to, and
+performing on agreements. In combination with ceremonies such as question and
+answer, video leaves recorded evidence of understanding. Verifying the extent
+of understanding may allow a Kuhnian paradigm shift, collapsing the
+"epicycles" of law developed to work around the fact that complex written
+contracts, drafted by lawyers, no longer constitute a meeting of the minds
+with a layman. In short, video adds an unprecedented new medium and will take
+its place co-equal to text in the drafting and interpretation of contracts.
+
+In summary, I propose that video will come to augment, and sometimes even
+replace, the use of written contracts. The oral agreement, the handshake, and
+other indicators of agreement and commitment can be captured in a medium now
+as reliable as paper. With upcoming technologies, the recording, organization,
+and retrieval of video records will be more user friendly than a typical
+written contract. Video records of raw or ceremonial negotiations and
+commitment can communicate to principles and adjudicators readily recognizable
+and valuable information about the meeting of minds. Video will thus play an
+important role in smart contracts, and should take its place in the legal
+system beside written contracts.
+
+### Acknowledgements
+
+My thanks to Gregory Burch, J.D. for his many useful comments and examples.
+Nick Szabo's Papers and Concise Tutorials
+

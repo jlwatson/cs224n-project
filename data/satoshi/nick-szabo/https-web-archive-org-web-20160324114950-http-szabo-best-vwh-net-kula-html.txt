@@ -1,0 +1,81 @@
+Nick Szabo's Papers and Concise Tutorials Copyright (c) 2005 by Nick Szabo  
+(Some of the following previously appeared as a sidebar in Shelling Out -- The
+Origins of Money and on the author's blog, Unenumerated).
+
+Abstract: _A variety of vague cultural explanations have been proposed for the
+unique Melanesian trading instituion, the _kula_ ring. Landa[L94] proposed an
+explanation based on credit risk and gossip. This working paper provides a
+rigorous explanation based on the author 's theory of collectibles and
+specific cycles of circulation as detailed in Shelling Out -- The Origins of
+Money and using minimal trust assumptions. _
+
+Just off the cost of New Guinea, Melanesians evolved (over thousands, and
+perhaps even tens of thousands, of years) a unique commercial institution
+known as the "kula ring" for the collectibles that circulated within it. The
+unforgeably scarce kula collectibles doubled as "high power" money and
+mnemonic for stories and gossip. Many of the goods traded, mostly agricultural
+products, were available in different seasons, and so could not be traded in
+kind. Kula collectibles solved this double-coincidence problem as an
+unforgeabaly costly, wearable (for security), and circulated (literally!)
+money. Necklaces circulated clockwise, and armshells counter-clockwise, in a
+very regular pattern. By solving the double-coincidence problem an armshell or
+necklace would prove more valuable than its cost after only a few trades, but
+could circulate for decades. Gossip and stories about prior owners of the
+collectibles may have provided information about upstream credit and liquidity
+[L94]. In other Neolithic cultures collectibles, usually shells, circulated in
+a less regular pattern but had similar purposes and attributes.
+
+Why do the kula collectibles circulate in a specific cycle? Why does the cycle
+traverse the ring of islands? And why are there not just one but two
+counterrotating cycles? The author for the first time (as far as the author is
+aware) provides a rigorous answer to these puzzles.
+
+The proximate reasons why two kinds of collectibles circulated in opposite
+directions were transaction norms and religious taboos shared by the traders.
+The ultimate reasons (i.e. functional reasons why the institution evolved this
+way) may be explained as follows:
+
+Collectibles often literally circulated in specific cycles that avoid sinks.
+This amortized the cost of the collectible across more trades. Why? The
+function of collectibles is to lower transaction costs such as non-coincidence
+of needs or events. A transaction network uses collectibles more efficiently
+if it increases the ratio of velocity to current value. Since velocity was
+very low and the value of transactions (trades, marriages, inheritences, etc.)
+could be high, this was a big problem in neolithic transaction networks. Some
+collectibles had a velocity of once per generation, i.e. they were just family
+heirlooms!
+
+The network uses collectibles more efficiently with more members, so we'd
+expect the circulation to expand beyond bilateral cycles into cycles around
+the entire regular transaction chain.
+
+Now that we've explained why a collectible cycle would be expected to arise in
+the first place, on to the key puzzle: why to counter-rotating collectible
+cycles rather than a single cycle around the island chain?
+
+We can model the kula ring abstractly as a cyclical island chain of N islands,
+such that each island trades only with its immediate neighbors. These islands
+vary in their volume of trade. This can be model in the limit as N-1 islands
+of normal trade and an Nth island that trades nothing (other than, possibly,
+collectibles).
+
+For illustration, take N=5. We thus have island chain  ABCDE, where boats can
+travel no farther than their neighbors and island C is self-sufficient (or
+just very small) and doesn't want to trade goods regularly, but AB, DE, and EA
+trade regularly. C breaks the collectible cycle (greatly decreasing the
+efficiecy of collectibles for the other islands) unless it acts as a conduit.
+Simply taking collectibles from D and shipping them to B (and pocketing some
+profit of course) to complete a one-collectible cycle requires acts of faith.
+With two opposite circulating collectibles, C simply engages in bilateral
+trades with both B and D to complete both cycles. Thus, two counter-rotating
+cycles allow for full circulation with minimal trust assumptions.
+
+### References
+
+[1] Landa, Janet, _Trust, Ethnicity, and Identity: Beyond the New
+Institutional Economics of Ethnic Trading Networks, Contract Law, and Gift-
+Exchange_ , The University of Michigan Press, second edition, 1998.
+
+Comments and criticisms to  
+Nick Szabo's Papers and Concise Tutorials
+

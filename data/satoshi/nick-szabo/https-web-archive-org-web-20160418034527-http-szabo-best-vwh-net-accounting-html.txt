@@ -1,0 +1,147 @@
+
+
+Nick Szabo's papers and concise tutorials Copyright (c) 1997 by Nick Szabo  
+permission to redistribute without alteration hereby  granted
+
+Outside of the financial cryptography community, and long predating it, there
+is a deep tradition of protocols used in the course of performing contracts.
+These protocols consist of a flow of forms ("data flow", canonically displayed
+in data flow diagrams), along with checks and procedures called "controls".
+Controls serve many of the same functions as cryptographic protocols:
+integrity, authorization, and so on. This article uses "control protocols" or
+simply "controls" to refer to this combination of data flow and controls.
+
+Control protocols, and the professions of auditing and accounting [ 2 ] based
+on them, play a critical but ill-analyzed role in our economy. Economists lump
+them, along with other costs of negotiating and ensuring the performance of
+contracts, under their catch-all rubric of "transaction costs". But without
+controls, large corporations and the economies of scale they create would not
+be possible. Controls allow a quarrelsome species ill-suited to organizations
+larger than small tribes to work together on vast projects like manufacturing
+jumbo jets and running hospitals. These control protocols are the result of
+many centuries of business experience and have a long future ahead of them,
+but the digital revolution will soon cause these paper-era techniques to be
+dramatically augmented by, and eventually integrated into, smart contracts.
+
+Controls enable auditing of contract performances, allowing more precise
+inference of the behavior of an agent. Auditing is costly, so it is undertaken
+by random sampling. Economists study the substitutability between the
+probability of verifying a breach and the magnitude of legal fines, where
+physical enforcement is used. Conceivably, one could substitute increasingly
+high penalties for increasingly rarer and less expensive auditing. However,
+this is not robust to real-world conditions of imperfect information.
+
+Since controls primarily address the implicit contracts between employees and
+employer, there is little mapping from contract to control. A secondary
+function of controls to to monitor contracts with other organizations. Here
+there is some mapping, but it is confounded by the integration of the two
+functions in most controls. Rather than based on contractual terms, controls
+are typically based on managerial authorization.
+
+Controls are typically based around amounts of money and quantities of goods.
+A canonical control is double entry bookkeeping, where two books are kept, and
+there must be arithmetic reconciliation between the books. To conceal an
+irregularity, necessary to omit from both sides, or to record entries
+offsetting the irregularity.
+
+Notice that there is a problem distinguishing error from fraud. This problem
+crops up in many areas in both auditing and smart contracts.
+
+To illustrate, here are two common control techniques:
+
+Imprest: this is a family of controls involving the receipt or disbursement of
+bearer certificates (usually notes and coins). One example is the protocol
+used at most movie theaters. Entry is segregated from payment by introducing
+tickets and establishing two employee roles, the ticket seller in a booth, and
+the ticket stub salesman at the entrance. Periodically, a bookkeeper
+reconciles the number of tickets with the total paid. Discrepancy again
+indicates fraud or error.
+
+Customer audit: Techniques to get the customer to generate initial
+documentation of a transaction. For example, pricing goods at $.99 forces the
+employee to open the cash register to make change, generating a receipt.
+
+A complete control protocol typically features the generation of initial
+documentation, segregation of duties, and arithmetic reconciliation of
+quantities of goods, standard service events, and money.
+
+Of these, the segregation of duties deserves special comment.
+
+It has long been recognized that an intermediary is more trustworthy when it
+is distributed. In a large business, transactions are divided up so that no
+single person can commit fraud. Segregation of duties is an instance of the
+principle of required conspiracy. For example, the functions of
+warehouse/delivery, sales, and receipt of payments are each performed by
+different parties, with a policy that each party reports every transaction to
+a fourth function, accounting. Any singular reported activity (e.g., delivery
+without receipt of payment) indicates potential fraud (e.g., a delivery was
+made to a customer and the payment pocketed instead of being put into the
+corporate treasury). Segregation of duties is the auditor's favorite tool.
+Where it is absent the auditor cries "foul", just as a good engineer would
+react to a single point of failure. Many cryptographic systems have rightfully
+gone down to commercial failure because they ground down to trust in a single
+entity rather than segregating functions so as to require conspiracy.
+
+There are least three significant differences between the scope and emphasis
+of smart contracts and controls. Controls are paper-era protocols designed
+around static forms, place little emphasis on confidentiality, and are based
+on management authorizations rather than one-to-one relationships.
+
+Smart contracts can be based on a wide variety of interactive protocols and
+user interfaces, and can be involved in a wide variety of kinds of contractual
+performance. Control protocols, developed in the era of paper, are based on
+static forms passed as messages and processed in tables and spreadsheets.
+Controls focus on money and counts of standardized goods and service events,
+easily recorded by numbers and manipulated by arithmetic, while mostly
+ignoring other kinds or aspects of contractual performance. Checksums on
+numbers, the basis of reconciliation, are crude and forgeable compared to
+cryptographic hashes. Electronic Data Interchange (EDI) keeps these static
+forms and maintains reliance on controls. It uses cryptographic hashes for
+nothing more sophisticated than integrity checks on individual messages.
+
+Controls place little emphasis on confidentiality, at least in the modern
+accounting literature. The emphasis on confidentiality in paper-era protocols
+is lacking because violation of often implicit confidences, via replication of
+data, was much more difficult with paper. Furthermore, technologies for
+protecting confidentiality while auditing were not feasible. Businesses
+traditionally trusted accounting firms with confidences, a trust that has
+eroded over the last century, and will erode still further as accounting firms
+start taking advantage of the vast amounts of inside and marketing information
+they are collecting from their customers' databases during audits. Using
+paper-based protocols in a digital world, there are few effective controls
+against the auditors themselves. Post-unforgeable transaction logs and
+multiparty secure computation indicate the possibility of cryptographic
+protocols to implement less relavatory but more effective auditing trails and
+controls; their use may be able to ameliorate the growing problems with data
+mining and breach of confidentiality.
+
+Auditors place quite a bit of trust in management to authorize transactions in
+a secure and productive manner. Objecting to this dual trust in management and
+distrust of employees inherent in the accounting tradition, there has been a
+trend in the last two decades towards a loosening of controls as a part of
+hierarchy flattening and empowerment of professional employees. Unfortunately,
+loose controls have led to several recent scandals in the banking and
+investment trade. The most recent view is that there must be a learned
+tradeoff between controls and empowerment.
+
+These traditional protocols have a long future ahead of them, for the
+deceptively simple reason that they have a long past. They are highly evolved,
+hundreds of years old (double-entry bookkeeping, for example, predates the
+Renaissance). Smart contracts will incorporate many techniques and strategies
+from control protocols, such as generation of an initial record, segregation
+of duties, and reconciliation. It will not be long, however, before smart
+contracts start augmenting and transforming traditional business procedures,
+making a wide variety of new business structures possible and in the long run
+replacing traditional controls.
+
+2\. George H. Bodnar and William S. Hopwood, 1987.Accounting Information
+Systems. 3rd ed. Boston: Allyn and Bacon.
+
+(Derived from  "Formalizing and Securing Relationships on Public Networks" ,
+by Nick Szabo)
+
+There is also a  formal language  useful in accounting for derivatives and
+other sophsticated contracts. Please send your comments to
+
+Nick Szabo's papers and concise tutorials
+

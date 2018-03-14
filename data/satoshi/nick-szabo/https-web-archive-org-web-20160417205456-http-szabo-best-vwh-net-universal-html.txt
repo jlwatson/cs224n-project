@@ -1,0 +1,59 @@
+
+
+Nick Szabo's Papers and Concise Tutorials Copyright (c) 1998 by Nick Szabo  
+permission to redistribute without alteration hereby granted
+
+There is no universal security architecture. Rather, there are a wide variety
+of human relationships, (often formalized as contracts), and the security
+system used should reflect the relationship desired by its participants.
+
+Take for instance access control lists (ACLs) with delegation, found in Unix
+and Windows NT. This system of resource permissions is often mistaken for some
+kind of universal security architecture. But it facilitates only a certain
+narrow class of relationships: specifically, principle-agent relationships
+where the principle trusts the agent with some or all of a small number of
+comprehensive and abusable functions of the resource subset delegated, but is
+able to revoke that trust upon detecting abuse. In turn, the agent trusts the
+principle to not revoke maliciously, and with his privacy. We end up with a
+kind of feudal hierarchy, where the lords have a "resource escrow" ability to
+monitor and revoke use to their lieges, and King Root can monitor and revoke
+everybody. Despite my anachronistic language, such delegation has plenty of
+application in today's corporate world. But ACLs are nowhere close to being
+comprehensive of the variety of human relationships.
+
+An anonymous bearer resource ticket secures only relationships where the user
+can be proactively prevented from abusing the resource (for example, by
+selling a conserved supply of limited use tickets). Such models cover a
+different proper subset of human relationships; again they are not close to
+being comprehensive.
+
+All such architectures also have great implications for privacy. Some require
+true-name tracking (if an abuse is to be legally deterred or access is to be
+permanently revoked), some require only pseudonymous tracking (to revoke
+access with cost imposed via security deposit or reputation), and some can be
+anonymous (where abuse can be prevented proactively). There is no architecture
+which both protects privacy and guards against abuse in all kinds of
+relationships.
+
+The issue of privacy comes down to, how highly do you value privacy versus
+other desired features of your relationship?
+
+The tradeoffs between abuse prevention and privacy are a fertile ground for
+cryptographic research. For example, can efficient subsets of multiparty
+computation be implemented to give revocable ticket users or ACL delegates
+greater privacy while still preventing, deterring, or limiting resource abuse?
+
+The first job of a security architect is to describe which kinds of
+relationships are and are not being secured. If such a specification has not
+been made then the architecture should be presumed to be insecure. The "are
+not" part is essential. Any claims to or implications of universal security
+should be treated as snake oil.
+
+To sum up, the nature of the relationship must determine the security used.
+Sweeping statements about "all resource owners want such-and-such" are quite
+unwarranted.
+
+Please send your comments to
+
+Nick Szabo's Papers and Concise Tutorials
+

@@ -1,0 +1,351 @@
+Nick Szabo's Papers and Concise Tutorials Copyright (c) 2007 by Nick Szabo  
+
+### Part I
+
+The first part of this essay discusses the first and largest underseas
+extraction activity, offshore oil and gas, and especially the more recent
+activity in deep water oil. First, however, there is currently a fasionable
+topic, the discussion of which will help put deep water oil in perspective:
+namely the nonsense about "peak oil" \-- the theory that worldwide oil
+production has or will soon peak and that we thus inevitably face a future of
+higher oil prices.
+
+_Layout of the Total Girassol field, off the shore of Angola in 1,400 meters
+of water, showing the FPSO ship, risers, flow lines, and subsea trees (well
+caps and valves on the sea floor)._
+
+### Why peak oil is nonsense
+
+There are any number of reasons why peak oil is nonsense, such as tar sands
+and coal gasification. Perhaps the most overlooked, however, is that up until
+now oil companies have focused on land and shallow seas, which are relatively
+easy to explore. But there is no reason to expect that oil, which was largely
+produced by oceans in the first place (especially by the precipitation of dead
+plankton), is any more scarce underneath our eon's oceans as it is under our
+lands. Oceans cover over two-thirds of our planet's surface, and most of that
+is deep water (defined in this series as ocean floor 1,000 meters or more
+below the surface). A very large fraction of the oil on our planet remains to
+be discovered in deep water. Given a reasonable property rights regime
+enforced by major developed world powers, this (along with the vast tar sands
+in Canada) means not only copious future oil, but that this oil can mostly
+come from politically stable areas.
+
+_The FPSO, riser towers and flow lines in Total 's Girassol field off of
+Angola._
+
+Some perspective, even some purely theoretical perspective, is in order. If we
+look at the problem at the scale of the solar system, we find that
+hydrocarbons are remarkably common -- Titan has clouds and lakes of ethane and
+methane, for example, and there are trillions of tonnes of hydrocarbons, at
+least, to be found on comets and in the atmospheres and moons of the gas giant
+planets. What is far more scarce in the solar system is free oxygen. If there
+will ever be a "peak" in the inputs to hydrocarbon combustion in the solar
+system it will be in free oxygen -- which as a natural occurence is extremely
+rare beyond Earth's atmosphere, and is rather expensive to make artificially.
+
+_A deep sea "robot hand" on a ROV (Remotely Operated Vehicle) more often than
+not ends in an attachment specific for the job. Here, a subsea hydraulic
+grinder and a wire brush. _
+
+What's even more scarce, however, are habitable planets that keep a proper
+balance between greenhouse gases and sunlight. Venus had a runaway greenhouse,
+partly from being closer to the sun and partly because of increased carbon
+dioxide in its atmosphere which acts like an inulating blanket, preventing
+heat from radiating away quickly enough. The result is that Venus' surface
+temperature is over 400 C (that's over 750 fahrenheit), hotter than the
+surface of Mercury. On Mars most of its atmosphere escaped, due to its low
+gravity, and its water, and eventually even much of its remaining carbon
+dioxide, froze, again partly due the greater distance from the sun and partly
+due the low level of greenhouse gases in its generally thin atmosphere.
+
+_Hydraulic subsea bandsaw. Great for cutting pipes as shown here._
+
+So far, the Earth has been "just right", but the currently rapidly rising
+amount of carbon dioxide and methane in our atmosphere, largely from the
+hydrocarbons industries, is moving our planet in the direction of Venus.
+Nothing as extreme as Venus is in our foreseeable future, but neither will
+becoming even a little bit more like Venus be very pleasant for most of us.
+The real barrier to maintaining our hydrocarbon-powered economy is thus not
+"peak oil", but emissions of carbon dioxide and methane with the resulting
+global warming. That peak oil is nonsense makes global warming even more
+important problem to solve, at least in the long term. We won't avoid it by
+oil naturally becoming too expensive; instead we must realize that our
+atmosphere is a scarce resource and make property out of it, as we did with
+"acid rain."
+
+This series isn't mainly about oil or the atmosphere, however; it is about the
+technology (and perhaps some of the politics and law) about extracting
+minerals generally from the deep sea. Oil is the first deep sea mineral to be
+extracted from the sea on a large scale. The rest of this article fill look at
+some of the technology used to recover offshore oil, especially in deep water.
+Future posts in this series will look at mining other minerals off the ocean
+floor.
+
+_Painting of the deepwater (1,350 meters) subsea trees at the Total Girassol
+field. They 're not really this close together._
+
+### FPSOs
+
+Once the wells have been dug, the main piece of surface equipment that remains
+on the scene, especially in deep water fields where pipelines to the seashore
+are not effective, is the Floating Production, Storage, and Offloading (FPSO)
+platform. The FPSO is usually an oil tanker that has been retrofitted with
+special equipment, which often injects water into wells, pumps the resulting
+oil from the sea floor, performs some processing on the oil (such as removing
+seawater and gases that have come out with the oil), stores it, and then
+offloads it to oil tankers, which ship it to market for refining into gasoline
+and other products. The FPSO substitutes far from shore and in deep water for
+pipes going directly to shore (the preferred technique for shallows wells
+close to a politically friendly shoreline).
+
+Many billions of dollars typically are invested in developing a single deep
+water oil field, with hundreds of millions spent on the FPSO alone. According
+to Wikipedia, the world's largest FPSO is operated by Exxon Mobil near Total's
+deep water field off Angola: "The world's largest FPSO is the _Kizomba A_ ,
+with a storage capacity of 2.2 million barrels. Built at a cost of over US$800
+million by Hyundai Heavy Industries in Ulsan, Korea, it is operated by Esso
+Exploration Angola (ExxonMobil). Located in 1200 meters (3,940 ft) of water at
+Deepwater block 15,200 statute miles (320 km) offshore in the Atlantic Ocean
+from Angola, West Africa, it weighs 81,000 tonnes and is 285 meters long, 63
+meters wide, and 32 meters high ((935 ft by 207 ft by 105 ft)."
+
+### ROVs
+
+Today's ROVs (Remotely Operated Vehicles) go far beyond the little treasure-
+recovery sub you may have seen in "Titanic." There are ROVs for exploration,
+rescue, and a wide variety of other undersea activities. Most interesting are
+the wide variety of ROVs used for excavation -- for dredging channels, for
+trenching, laying, and burying pipe, and for maintaining the growing variety
+of undersea equipment. Due to ocean-crossing cables and deep sea oil fields,
+it is now common for ROVs to conduct their work in thousands of meters of
+water, far beyond the practical range of divers.
+
+_A grab excavator ROV._
+
+It should be noted that in contrast to space vehciles, where teleprogramming
+via general commands is the norm, and often involves long time delays between
+the commands being sent and the results being known to the spacecraft's
+operators, with undersea operations real-time interaction is the norm. Due to
+operator fatigue and the costs of maintaining workers on offshore platforms,
+research is being done on fully automating certain undersea tasks, but the
+current state of the art remains a human closely in the loop. The costs of
+maintaining workers on platforms is vastly lower than the cost of maintaining
+an astronaut in space, so the problem of fully automating undersea operations
+is correspondingly less important. Nevertheless, many important automation
+problems, such as the simplification of operations, have had to be solved in
+order to make it possible for ROVs to replace divers at all.
+
+_A ROV for digging trenches, used when laying undersea cable or pipe._
+
+Another important consideration is that ROVs depend on their tethers to
+deliver not only instructions but power. An untethered robot lacks power to
+perform many required operations, especially excavation. At sea as long as the
+tether is delivering power it might as well deliver real-time interactive
+instructions and sensor data, i.e. teleoperation as well.
+
+Trenching and other high-power ROVs are usually referred to as "work class."
+There are over 400 collectively worth more than $1.5 billion in operation
+today and their numbers are increasingly rapidly.
+
+_Tankers are big, but storms can be bigger._
+
+### Harsh Conditions
+
+Besides deep water and the peril of storms anywhere at sea, many offshore
+fields operate under other kinds of harsh conditions. The White Rose and Sea
+Rose fields of Newfoundland start by excavating "glory holes" dug down into
+the sea floor to protect the seafloor against icebergs which can project all
+the way to the fairly shallow sea floor. Inside these holes the oil outflow
+and fluid injection holes themselves are dug and capped with subsea trees
+(valves). The drill platform, FPSO, and some of the other equipment has been
+reinforced to protect against icebergs.
+
+In future installments, I 'll look at diamond mining and the startups that
+plan to mine the oceans for copper, gold, and other minerals.
+
+### Part II
+
+#### Beyond Oil
+
+The first installment of this series looked at the most highly developed
+offshore extraction industry, offshore oil. A wide variety of minerals besides
+oil are extracted on land. As technology improves, and as commodity prices
+remain high, more minerals are being extracted from beneath the sea. The first
+major offshore mineral beyond oil, starting in the mid 1990s, was diamond.
+More recently, there has been substantial exploration, research, and
+investment towards the development of seafloor massive sulfide (SMS) deposits,
+which include gold, copper, and several other valuable metals in high
+concentrations. Today we look at mining diamonds from the sea.
+
+#### Diamond
+
+_De Beers ' mining ship for their first South African marine diamond mine_
+
+The first major area after oil was opened up by remotely operated vehicles
+(ROVs) in the 1990s -- marine diamond mining. The current center of this
+activity is Namibia, with offshore reserves estimated at more than 1.5 billion
+carats. The companies mining or planning to mine the Namibian sea floor with
+ROVs include Nambed (a partnership between the government and DeBeers, and the
+largest Namibian diamond mining company), Namco (which has been mining an
+estimated 3 million carats since discovering its subsea field in 1996),
+Diamond Fields Intl. (which expects to mine 40,000 carats a year from the sea
+floor), and Afri-Can (another big concession holder which is currently
+exploring its concessions and hopes to ramp up to large-scale undersea
+operations). Afri-Can has been operating a ship and crawler (ROV) that vacuums
+up 50 tons per hour gravel from a sea floor 90 to 120 meters below the surface
+and process the gravel for the diamonds. They found 7.2 carats of diamond per
+100 cubic meters of gravel, which means the field is probably viable and
+further sampling is in order.
+
+DeBeers is also investing in a diamond mine in the seas off South Africa. A
+retrofitted ship will be used featuring a gravel processing planet capable of
+sorting diamonds from 250 tons of gravel per hour. It is hoped the ship will
+produce 240,000 carats a year when fully operational.
+
+The ship will engage in
+
+> horizontal mining, utilising an underwater vehicle mounted on twin
+Caterpillar tracks and equipped with an anterior suction system...The
+crawler's suction systems are equipped with water jets to loosen seabed
+sediments and sorting bars to filter out oversize boulders. The crawler is
+fitted with highly accurate acoustic seabed navigation and imaging systems. On
+board the vessel will be a treatment plant consisting of a primary screening
+and dewatering plant, a comminution mill sector followed by a dense media
+separation plant and finally a diamond recovery plant.
+
+In other words, a ROV will vacuum diamond-rich gravel off the sea floor,
+making a gravel slurry which is then piped to the ship, where it is then
+sifted for the diamonds. This is similar to the idea of pumping oil from the
+sea floor onto a FPSO \-- a ship which sits over the wells and processes the
+oil, separates out the water, stores it, and offloads it onto visting oil
+tankers. However with marine diamond mining, instead of a fixed subsea tree
+capping and valving a pressurized oil field, a mobile ROV vacuums up a gravel
+slurry to be pumped through hoses to the ship.
+
+By contrast to this horizontal marine mining, vertical mining "uses a 6 to 7
+meter diameter drill head to cut into the seabed and suck up the diamond
+bearing material from the sea bed."
+
+Coming soon: some new startup companies plan to mine extinct black smokers for
+copper, gold, and other valuable metals.
+
+### Part III
+
+In the first two parts of this series I described undersea oil and diamond
+mining operations. In addition at least two startup companies, Neptune
+Minerals and Nautilus Minerals, are moving into mining the seafloor for
+metals. They're planning to dig into extinct black smokers for copper, and
+possibly also zinc, gold, silver, and other minerals. David Heydon, CEO of
+Nauilus Minerals, says of the remarkably high quality of the ores, "we havent
+seen these types of mineral deposits since the beginning of modern mining."
+
+Nautilus and Neptune don't plan to mine live black smokers, which would be
+dangerous (black smokers are hot springs with temperatures well above 200
+centigrade, although not boiling because at high pressure) and environmentally
+questionable (live black smokers team with exotic chemosynthetic life).
+Rather, they plan to mine the probably far greater number of extinct and
+lifeless black smokers that populate the oceans.
+
+_Nautilus paydirt: Cutting of an extinct black smoker at 1,600 meters._
+
+Geologist Steven Scott, a longtime advocate of sea mining, describes the
+geology of seafloor massive sulfides (SMS's). "These deposits are essentially
+metalliferous mud formed from hot, dense brines." They form within and around
+black smokers, the famous deep-sea vents discovered in 1979. Black smokers
+deposit "sinter-like mounds and chimneys of metal sulfides, oxides, silica and
+sulfates. Veins, disseminations and stockworks of relatively low metal grade
+impregnate the underlying lavas."
+
+Curiously, we may already be mining black smokers: billion-year-old, long-
+extinct black smokers whose remains now lie on dry land.  "The [current live
+black smoker] deposits have similarities to so-called volcanogenic massive
+sulfide ores being mined on land in Canada and elsewhere and which formed in
+ancient oceans as much as 2700 million years ago. Elements of potential
+commercial interest in both the modern and ancient deposits are copper, zinc,
+lead, silver, gold and barium. About 150 seafloor sites are known, most of
+which lie between 1500 and 3500 meters water depth."
+
+####
+
+_Neptune paydirt, topside._
+
+Both Neptune and Nautilus recently performed assays of several promising
+extinct smokers. Nautilus ' assay was performed by two methods: a drill based
+on a ship (but dropped through 1600 meters of water) and a remotely operated
+vehicle (ROV) that took cutting samples. Here are at least some of the
+results. Heydon observes that "with 97% of the ocean floor yet to be
+extensively explored, it is likely that numerous deposits remain
+undiscovered."
+
+Here is more from Steven Scott.
+
+#### Business Plans
+
+Nautilus estimates that it could cost as much as $300 million to ramp up to
+full-scale mining. Its plans include a $120 million specialized mining ship,
+the _Jules Verne_. This ship is similar to the FPSO used for deep sea oil, but
+will separate ore from sludge and water rather than oil from water. A large
+ROV, based on the trencher ROV used to lay pipes in the deep sea oil industry,
+but adding a large rotating drum scraper like those used in coal mining, will
+scrape the smokers creating sludge which will be pumped up to the _Jules
+Verne_ and processed. Since the most expensive FPSOs can cost upwards of $800
+million, the $120 million is a relative bargain. Indeed, the basic
+mothership/ROV setup is taken straight from the deep sea oil industry FPSO/ROV
+methodology.
+
+> Nautilus will contribute $120 million to develop undersea tools, including
+pumps, pipes and two subsea crawler-miners. It will also partner with a group
+of engineering companies with expertise in drilling and geophysics. If _Jules
+Verne_ is in place by 2009, it could stay at the Papua New Guinea site until
+2014, before moving on to exploit other deposits. Nautilus estimates that it
+will be able to mine 6000 tonnes a day from its target site.
+
+>
+
+> Although there are technological hurdles to be overcome, ...  'the
+technology already exists; it just hasn't been integrated in this way. One
+beauty of the sea floor model is that a floating equipment production chain is
+our one main investment. Once we have the chain we can easily bring it up and
+redeploy it to another area.'
+
+(More on Nautilus' plans here).
+
+_Nautilus ' ROV with cutting arm to take samples._
+
+Like many start-ups, Nautilus has a speculative and risky business plan, but
+the payoff could be vast:
+
+> [Nautilus] doesn't expect to reach first-scale production until 2009.
+There's no comparable traditional mining business model, since many of the
+individual deposits underwater are too small to be economically viable if they
+were on land. But because offshore drilling operations can move, whereas mines
+on land are stuck, the combined value of deposits in a wider area makes the
+operation worthwhile.
+
+>
+
+> ... The worth of the oil, gas and minerals in the world's oceans is
+estimated to be in the trillions of dollars. If Mr. Heydon's estimates are
+correct, deep sea mining could have the potential to supply the world's
+growing demand for gold, copper and silver, among other metals. The resulting
+revenue could be in the billions of dollars for deep sea mining companies, of
+which only two currently exist.
+
+>
+
+> ... Disputes over who owns what in the ocean have been a fact of global
+politics for decades. For reasons of security, potential resources and
+sometimes just pride, countries are constantly claiming control over new
+chunks of underwater property. As an indicator of just how rare it is to be
+able to mine hassle-free in the ocean, the exploration licence Papua New
+Guinea granted Nautilus was a world first.
+
+More here.  See also here. Note: Earlier versions of portions of this article
+previously appeared on the author's blog, Unenumerated and on comments the
+author has made on various blogs.
+
+### References
+
+Comments and criticisms to  
+Nick Szabo's Papers and Concise Tutorials
+

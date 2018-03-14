@@ -1,0 +1,125 @@
+
+
+Nick Szabo's Papers and Concise Tutorials Copyright (c) 2001 by Nick Szabo  
+permission to redistribute without alteration hereby granted The ideas of
+"absolute compression" has on a Turing machine the same meaning as the idea of
+"truly random numbers", and for the same reason. The assumption of randomness
+used in proving that one-time pads and other protocols are "unconditionally"
+secure is very similar to the assumption that a string is "absolutely
+compressed". The problem is that determining the absolute entropy of a string,
+as well as t he equivalent problem of determining whether it is "real random",
+is both uncomputable and language-dependent.
+
+Empirically, it seems likely that generating truly random numbers is much more
+practical than absolute compression. If one has access to certain well-
+observed physical phenomena, one can make highly confident, if still
+mathematically unproven, assumptions of "true randomness", but said phenomena
+don't help with absolute compression.
+
+If we restrict ourselves to Turing machines, we can do something *close* to
+absolute compression and tests of true randomness -- but not quite. And *very*
+slow. From a better physical source there is still the problem that if we
+can't sufficiently test them, how can we be so confident they are random
+anyway? Such assumptions are based on the extensive and various, but
+imperfect, statistical tests physicists have done (has anybody tried
+cryptanalyzing radioactive decay? :-)
+
+We can come close to testing for true randomness and and doing absolute
+compression on a Turing machine. For example, here is an algorithm that, for
+sufficiently long but finite number of steps t, will *probably* give you the
+absolute compression (I believe the probability converges on a number related
+to Chaitin's "Omega" halting probability as t grows, but don't quote me --
+this would make an interesting research topic).
+
+    
+    
+    probably_absolute_compress(data,t) {
+    for all binary programs smaller than data { run program until it halts or it has run for time t if (output of program == data AND length(program) < length(shortest_program)) { shortest_program = program }
+    }
+    print "the data: ", data
+    print "the (probably) absolute compression of the data", shortest_program
+    return shortest_program
+    }
+    
+
+(We have to makes some reasonable assumption about what the binary programming
+language is -- see below).
+
+We can then use our probably-absolute compression algorithm as a statstical
+test of randomness as follows:
+
+    
+    
+    probably_true_random_test(data,t) { if length(probably_absolute_compress(data,t)) = length(data) then print "data is probably random" else print "pattern found, data is not random"
+    }
+    
+
+We can't *prove* that we've found the absolute compression. However, I bet we
+can get a good idea of the *probability* that we've found the absolute
+compression by examining this algorithm in terms of the algorithmic
+probability of the data and Chaitin's halting probability.
+
+Nor is the above algorithm efficient. Similarly, you can't prove that you've
+found truly random numbers, nor is it efficient to generate such numbers on a
+Turing machine. (Pseudorandom numbers are another story, and numbers derived
+from non-Turing physical sources are another story).
+
+We can distill probably-true-random numbers from data of sufficient entropy as
+follows:
+
+    
+    
+    probably_true_random_distill(data,t) { return probably_absolute_compress(seed,t)
+    }
+    
+
+For cryptographic applications there are two important ideas, one-wayness and
+expanding rather than contracting the seed, that are not captured here.
+Probably_true_random_distill is more like the idea of hashing an imperfect
+entropy source to get the "core" entropy one believes exists in it. Only
+probably_true_random_distill far more reliable, as one can actually formally
+analyze the probability of having generated truly random numbers. It is, alas,
+much slower than hashing. :-(
+
+Back to the theoretical point about whether there is such a thing as
+"absolute" entropy or compression. The  Kolmogorov complexity (the smallest
+program that, when run, produce the decompressed data) is clearly defined and
+fully general for Turing machines. If we could determine the Kolmogorov
+complexity we wouldn't need to invoke any probability distribution to
+determine the absolute minimum possible entropy of any data to be compressed
+on a Turning machine.
+
+It is, alas, uncomputable. To find the Kolmogorov complexity we could simply
+search through the space of all programs smaller than the data. But due to the
+halting problem we cannot always be certain that there does not exist a
+smaller program that, run for a sufficiently long period of time, will produce
+the decompressed data. When we can't prove that there is no smaller program
+than the data which generates the data, we also can't prove that there is not
+a pattern hidden in the data which makes it less than "truly random". The
+finite version of this search process, in the program
+probably_perfect_compression, circumvents the halting problem by arbitrarily
+halting programs that have already run for t steps.
+
+Also, since the length of the program depends on what language it's written
+in, absolute Kolmogorov complexity is good only for analyzing growth rates.
+The choice of language adds a constant length to the program. We'd have to
+look at probably_perfect_compression in this context to see if the choice of
+binary language is a reasonable one or if other languages would give better
+compressions on the data we are likely to encounter.
+
+One consequence is that one-time pads themselves have a big problem when we
+assume "truly random" numbers. This assumption is, in terms of the provability
+of security, no weaker or stronger than than an assumption of "perfect
+compression". (Which assumption is more practical is a different question --
+as per above, if one has access to certain well-observed physical phenomena,
+one can make highly confident, if still mathematically unproven, assumptions
+of "true randomness", but said phenomena don't help with perfect compression).
+Similar problems occur in other designs for cryptographic protocols in which
+statistical tests are abused.
+
+### References
+
+Szabo, Nick An Introduction to Algorithmic Information Theory
+
+Nick Szabo's Papers and Concise Tutorials
+

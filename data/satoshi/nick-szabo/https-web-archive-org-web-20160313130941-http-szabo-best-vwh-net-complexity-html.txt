@@ -1,0 +1,99 @@
+
+
+Copyright (c) 1994, 1997 by Nick Szabo  
+permission to redistribute without alteration hereby  granted
+
+Is complexity valuable or costly? Can we measure the complexity of an object?
+
+Counting the number of unique bits needed to describe an object starts down
+the right path, but we need to go further. A hot gas  "contains", or requires
+to be described, a large number of unique bits, just as does the DNA of a
+California condor. The concept of _logical depth_, which measures the amount
+of computation needed to produce the bit pattern (to discriminate it from
+other possible bit patterns), comes closer to measuring value. The hot gas is
+logically shallow because the process that creates it doesn't discriminate
+between the possible configurations of "bits", and it's trivial to create such
+another such pattern in that class. The California condor DNA is logically
+deep because evolution has over several million years has discriminated it
+from its nearest non-endangered relative and a vast number of failed bird
+configurations.
+
+Another way to say this is that the condor is _functionally improbable_. Most
+configurations of genes end up in a gooey mess. Only a vanishingly small
+fraction of random genes specifying large animals (assuming development gets
+even that far) specify animals that can fly. Dawkins in _Climbing Mount
+Improbable_ describes how natural selection produces improbable functionality.
+
+Uniqueness can now be factored back in. A cow by itself is as logically deep
+as a condor (perhaps a little deeper if we consider intelligent breeding
+superior to natural selection), but one cow among a billion contains far fewer
+unique deep bits because its DNA patterns are copied across the billion other
+cows with much higher probability than the condor's across the handful of
+other condors.
+
+Logically deep objects tend to be valuable because they tend to be reusable: a
+part evolved, designed, or computed for one use is more likely to be useful
+for something else. But there are plenty of exceptions. The last California
+condor costs much more than the 1 billionth cow to replace, but if want
+something immediately useful, such as a meal or a jacket, the cow is far more
+handy.
+
+Thus logical depth in some cases correlates to value, but what it measures
+objectively is _cost_. To call something valuable just because it is expensive
+is to fall into a trap similar to Marx's labor theory of value.
+
+In the case of tools, all other things being equal they are more valuable if
+they are simpler, if they contain _fewer_ bits. Simpler tools are less
+expensive to design, make, and/or use. A knife requires more information in
+our brains to use as effectively as a gun, therefore it's less valuable for
+the user (all other things being equal). A valuable tool is usually both as
+function and as simple as possible. Computation (evolution, learning, design
+effort, etc.) is needed both to create a structure deeply adapted to its
+environment or desired use, and to find the simplest form for that
+functionality. This happens both in the the process of designing a tool and
+using it. In both cases funtionality vs. simplicity is a fundamental tradeoff.
+Objects on which a great deal of evolution/design/computational effort have
+been spent to obtain functionality and simplicity are logically deep.
+
+The MacIntosh user interface shows that it often pays to move complexity out
+of the mind of the user and into the mind of the designer -- up to a point.
+Better still is to drive complexity into the "mind" of the software itself,
+for example moving the complexity of program language translation and
+optimization out of the mind of the programmer and into the compiler. A main
+goal of evolutionary design software is to reduce the complexity that needs to
+be specified by the human engineer while greatly increasing the amount of
+functionality (and concommitant complexity) that can be designed into the
+product.
+
+A simple scientific theory is also more valuable than a complex one that
+explains the same data -- both because it is more likely to be true, and
+because it is easier to understand and communicate.
+
+A formal proof of Occam's Razor and the formula 1 - c1^(|p|-|x|+c2) that gives
+the probability of the regularity/predictive power of a model p to explain
+data x, can be found in Li & Vitanyi, _An Introduction to Kolmogorov
+Complexity_, Springer & Verlag 1993, along with computationally formal
+measures of logical depth, information content, and much else. Recommended for
+those who like mathemetical challenge, and looking up references in the
+library when Li & Vitanyi condense entire papers into a single sentence or
+formula! For an easier overview see my introduction to algorithmic information
+theory.
+
+Dani Eder has observed that scientific data from new instruments and frontiers
+tends to be more valauble than old repetitive scientific data. Old data have
+already been gleaned for their information content. To create new, unique
+theories we need new, unique information: more bits of precision, different
+wavelengths, different phenomenon, etc.
+
+Formalizations of information content, design cost, and scientific induction
+relate intimately to our interest in evolutionary design. We can measure cost,
+and in some cases value, by determining the logical depth of an object. In
+evoluntarionary design we might use Kolmogorov complexity theory to trade off
+the simplicity, error, and computational costs of our simulations, measure the
+effects of fitness and selection functions, choose design primitives, and to
+generalize and predict the consequences of these choices. Much promise lies in
+uniting the new formal theories of general induction with evolutionary search
+techniques.
+
+Please send your comments to
+

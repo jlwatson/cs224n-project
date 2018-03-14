@@ -1,0 +1,71 @@
+Copyright (c) 1998 by Nick Szabo  
+permission to redistribute without alteration hereby granted
+
+The Brehon law of Ireland lasted from pre-Roman times until the 1600's. Our
+primary interest is in the relatively isolated era preceeding the Viking
+invasions.
+
+The Brehons were travelling judges and lawyers who had undergone extensive
+training. Like ancient Germanic law, a tort-like system of fines replaced
+criminal law, and the entire legal system was, relative to continental and
+modern legal systems, decentralized and competitive both in terms of both
+adjudication and enforcement. "Kings" were often more powerful than other
+persons both in their ability to hire Brehons and their ability to enforce
+Brehon edicts (or defy them). The law also recognized different classes of law
+based on property ownership -- the most commonly applied class of law being
+the "Fenechas", the law of the free tillers. However, the system did not have
+a legislative nor executive branch. The system was very much intermingled with
+sacred ritual.
+
+I will briefly discuss some interesting aspects of the commercial law.
+Contracts ("cor") were based on "mutual understanding, mutual agreement,
+mutual consent, and surety given". Mutual agreement required "nothing
+hidden...no malicious intent...no coercion". Surety came in three forms:
+
+    
+    
+    (1) Naidn: Oath pledging one's honor (reputation)
+    (2) Aitire: Oath pledging one's freedom
+    (3) Rath: Surety given by a third party of types (1) or (2)
+    
+
+Presumably most monetary damages were based on an underlying type (2) pledge,
+the potential to lose one's personal freedom (i.e. exposure to legal physical
+force), although "face" in one's tauth (extended family to four generations)
+plaid such a large role that it probably also incentivized obeying a fine.
+
+For Aitire a particular third party, with a good reputation as an enforcer,
+was agreed to by the principles. Rather than being assumed any time
+significant mutual business promises were made (as in English and Continental
+law), the ability to invoke physical enforcement was an optional part of the
+contract and had to be an explicit part of the agreement to have force of law.
+This may have greatly reduced invocation of and dependence on physical force
+to incentivize remedy, which may be more efficient in a decentralized and
+competitive law system.
+
+I also found a wonderful bankruptcy procedure. The idea of a "withe-tie"
+corresponds loosely to my idea of a "smart lien". The "withe-tie" is some kind
+of visible band tied around the debtors' tools. Also "if a Bard or physician
+is the debtor immobilize his horse whip for both ride their circuits". Since
+this is largely symbolic, the debtor is on honor to not remove the withe-tie,
+and thus to do no work, until the debt is paid.
+
+In my version, taking advantage of computer controlled machinery (most capital
+equipment now takes this form), a "smart withe-tie" could literally shut down
+the machinery. However, I find the law as described too harsh. I would let the
+debtor operate the machinery. My protocol would rather enforce that any
+revenues gained via the activity should go to the creditor first; if any
+revenues beyond the most essential costs are instead retained by the debtor
+then the machinery is turned off. In my interpretation a withe-tie would not
+have shut down the tool but rather indicated that the tool was dedicated to
+the sole purpose of paying off the creditor.
+
+My hi-tech "withe-tie" is something of a departure from my discussion of
+Brehon law proper, but you can see why I have found the Brehon law system to
+be a valuable source for constructing the law of the coming digital millenium.
+
+My thanks to Eileen O'Connor, J.D. for introducing me to this wonderful
+resource.
+
+Please send your comments to
+

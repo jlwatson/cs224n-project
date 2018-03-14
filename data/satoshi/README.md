@@ -23,6 +23,7 @@ Jed McCaleb
 
 Nick Szabo
 - [x] https://unenumerated.blogspot.com/feeds/posts/default
+- [x] https://web.archive.org/web/20160930093313/http://szabo.best.vwh.net/
 - [ ] https://twitter.com/NickSzabo4
 
 Dorian Nakamoto
