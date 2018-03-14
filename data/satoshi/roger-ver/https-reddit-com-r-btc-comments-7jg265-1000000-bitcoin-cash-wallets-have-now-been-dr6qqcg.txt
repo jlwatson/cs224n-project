@@ -1,0 +1,1 @@
+yes, on the confirmation screen where it says "slide to send"  if you tap the Fee box it will let you adjust the amount, but only when sending BTC.  For BCH the fee amount is locked at something super low like what used to work on BTC in the past.

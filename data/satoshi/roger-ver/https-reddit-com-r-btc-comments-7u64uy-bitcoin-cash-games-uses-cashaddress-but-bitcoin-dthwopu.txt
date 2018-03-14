@@ -1,0 +1,2 @@
+Are you using the latest version of our app? [v4.3.1](https://wallet.bitcoin.com/)
+I just tried it right now and it works fine for me.

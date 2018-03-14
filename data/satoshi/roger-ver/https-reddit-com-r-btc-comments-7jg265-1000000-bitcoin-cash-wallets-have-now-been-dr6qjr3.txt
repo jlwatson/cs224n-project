@@ -1,0 +1,1 @@
+It already has this ability.  On the send screen just tap on the BCH symbol,  and it changes to BTC,  tap it again and it will change to USD or whatever your local currency is. 

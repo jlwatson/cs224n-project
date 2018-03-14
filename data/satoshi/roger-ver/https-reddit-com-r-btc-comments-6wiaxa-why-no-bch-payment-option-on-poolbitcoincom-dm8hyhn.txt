@@ -1,0 +1,1 @@
+This has been on our to do list from day one,  but adding Bitcoin Cash support to our [wallet](https://www.bitcoin.com/choose-your-wallet/bitcoin-com-wallet) that already has hundreds of thousands of users has taken a higher priority.  After that is done,  we will add Bitcoin Cash Payment support for our cloud mining contracts.

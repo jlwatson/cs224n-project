@@ -1,0 +1,1 @@
+Zero confirmation transactions used to be safe enough to accept instantly most of the time until Core intentionally broke that too.

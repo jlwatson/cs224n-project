@@ -1,0 +1,1 @@
+Legacy Bitcoin used to have safe zero-confirmation transactions too until Blockstream and Core intentionally destroyed it.

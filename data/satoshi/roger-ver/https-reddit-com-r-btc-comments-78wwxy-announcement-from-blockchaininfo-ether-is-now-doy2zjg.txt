@@ -1,0 +1,1 @@
+They never would’ve integrated Ethereum at all if not for Bitcoin’s network congestion due to the block size limit.

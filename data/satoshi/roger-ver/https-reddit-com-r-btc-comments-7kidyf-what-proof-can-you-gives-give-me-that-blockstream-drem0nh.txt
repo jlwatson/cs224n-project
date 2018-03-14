@@ -1,0 +1,1 @@
+Read the [Bitcoin White Paper](https://www.bitcoin.com/guides/bitcoin-white-paper-beginner-guide) and ask yourself if that is what Blockstream / Core are building. 

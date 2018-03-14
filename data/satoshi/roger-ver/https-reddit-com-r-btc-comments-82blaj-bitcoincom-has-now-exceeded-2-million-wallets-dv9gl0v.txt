@@ -1,0 +1,1 @@
+We've been considering hiding it all together in a future version.  Advanced users could still activate it in the settings.

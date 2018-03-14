@@ -1,0 +1,1 @@
+The next revision will create both BTC and BCH wallets automatically, but they will both use the same seed, so the addresses will be usable interchangeably. 

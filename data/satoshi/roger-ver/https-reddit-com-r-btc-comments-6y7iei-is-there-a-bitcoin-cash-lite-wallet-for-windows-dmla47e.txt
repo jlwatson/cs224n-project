@@ -1,0 +1,1 @@
+Bitcoin.com has a windows version as well: https://github.com/Bitcoin-com/Wallet/releases

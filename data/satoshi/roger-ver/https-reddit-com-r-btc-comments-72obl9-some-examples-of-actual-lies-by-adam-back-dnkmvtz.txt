@@ -1,0 +1,1 @@
+By the definition given in the Bitcoin White Paper,  a segwit transaction is not a Bitcoin transaction,  A Bitcoin Cash transaction is.  It is clear which one should use the Bitcoin Name.

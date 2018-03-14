@@ -1,0 +1,9 @@
+* The"vulnerability" they are reporting is that if your entire device is compromised by hackers, your funds might be stolen.
+That doesn’t seem to be news worthy to me.  
+
+* We are always looking to improve the security and usability of our wallet, but the "vulnerability" reported above isn't one with our wallet.  It is primarily a complaint that your operating system is hackable if you install malware on your device.
+
+* Bitcoin.com wallet user’s funds are already secure.  Over a billion dollars worth of funds are currently stored with the Bitcoin.com wallet across nearly 2,000,000 wallets.
+If there was a major security vulnerability with our open source wallet,  those billion dollars worth of funds would have already been stolen.  
+
+* This appears just to be a hit piece from a group who is launching their own competing closed source wallet.

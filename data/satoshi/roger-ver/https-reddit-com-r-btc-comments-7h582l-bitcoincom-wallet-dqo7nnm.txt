@@ -1,0 +1,2 @@
+This seems to be a problem with Shapeshift using "bitcoin cash:1addresshere"  when it should be "bitcoincash:1addresshere"
+(There shouldn't be a space there)  Maybe /u/evoorhees can get it fixed asap.

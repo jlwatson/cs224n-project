@@ -7,7 +7,7 @@ Gavin Andresen
 
 Roger Ver
 - [x] https://bitcointalk.org/index.php?action=profile;u=10310
-- [ ] https://www.reddit.com/user/MemoryDealers/
+- [x] https://www.reddit.com/user/MemoryDealers/
 - [ ] https://twitter.com/rogerkver
 
 Hal Finney

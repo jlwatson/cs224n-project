@@ -1,0 +1,2 @@
+Keonne, I'm really shocked that you have so little understanding of Bitcoin.  
+If I had sent the funds from 20 different addresses,  or 20 inputs from one single address, the fees would have been the same.   The Blockchain Merchant app you helped to create is now basically unusable due to the high fees caused by Core's intentional full block policy. 

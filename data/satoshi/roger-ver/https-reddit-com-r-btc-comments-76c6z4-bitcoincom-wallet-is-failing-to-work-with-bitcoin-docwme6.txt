@@ -1,0 +1,2 @@
+Choose the "import wallet" button rather than "new personal wallet" if you are importing the seed from an existing Bitcoin.com wallet.
+[Imgur](https://i.imgur.com/D4vnnmH.jpg)

@@ -1,0 +1,1 @@
+Wow,  what a neat story.  My biggest concern at the moment is that your old wallet didn't pay a high enough fee and your transaction will be stuck due to Blockstream's intentional full block policy.  Can you check and see what the fee you paid per byte was?

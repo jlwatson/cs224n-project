@@ -1,0 +1,5 @@
+It is being discussed by email now.
+It looks like it will be:
+
+* If there is a 1x / 2x fork, each side gets all of their preferred version of the coins.
+* If there is no fork, everyone gets back all of their coins.

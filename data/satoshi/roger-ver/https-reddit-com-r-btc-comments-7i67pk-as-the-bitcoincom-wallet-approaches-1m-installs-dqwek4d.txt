@@ -1,0 +1,2 @@
+For the bluetooth stuff,  maybe later.
+If you really want to, you can already install a copy of our [open source backend software](https://github.com/bitcoin-com/bitcore-wallet-service),  and then point your existing Bitcoin.com wallet software to your own node via the wallet service url setting,  and have your node connected however you want.  This is a bit of work for the normal user though.

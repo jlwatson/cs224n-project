@@ -1,0 +1,1 @@
+We will likely be increasing the base reward this week to something dynamic to track network fees automatically.

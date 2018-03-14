@@ -1,0 +1,1 @@
+Go into advanced settings and enable your wallet to spend unconfirmed funds.  That should fix your problem.

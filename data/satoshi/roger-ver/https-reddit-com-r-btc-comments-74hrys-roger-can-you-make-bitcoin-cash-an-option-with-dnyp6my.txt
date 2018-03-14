@@ -1,0 +1,1 @@
+We do do development on this app, and in a forthcoming version it will likely automatically create a Bitcoin Segwit Wallet, and a Bitcoin Cash wallet.

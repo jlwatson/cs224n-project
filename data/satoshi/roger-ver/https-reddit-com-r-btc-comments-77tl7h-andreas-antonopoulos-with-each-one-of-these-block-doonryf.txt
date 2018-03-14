@@ -1,0 +1,1 @@
+To say that Bitcoin doesn't scale infinitely doesn't mean that it doesn't have the ability to scale a whole whole lot on chain.  

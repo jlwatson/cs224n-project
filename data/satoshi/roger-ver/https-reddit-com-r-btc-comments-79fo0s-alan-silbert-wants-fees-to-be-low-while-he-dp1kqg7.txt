@@ -1,0 +1,1 @@
+To not know just how often transactions get stuck due to the 1MB limit, Alan must not use Bitcoin very often.

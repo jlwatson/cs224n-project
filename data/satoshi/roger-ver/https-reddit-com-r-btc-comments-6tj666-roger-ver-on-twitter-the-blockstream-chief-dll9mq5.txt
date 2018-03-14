@@ -1,0 +1,6 @@
+I think the next steps are:
+
+* 1. Full Bitcoin Cash support by the [Bitcoin.com Wallet](https://www.bitcoin.com/choose-your-wallet/bitcoin-com-wallet).  (Support coming very soon)
+* 2. Mining profitability being similar.  (This will happen after about 600 more blocks)
+
+After those two things happen,  it will become much easier for whales to feel safe about pushing the price / mining profitability around a bit.

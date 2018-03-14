@@ -1,0 +1,1 @@
+This wasn't a simulator.  It is the actual app already compiled for OSX.

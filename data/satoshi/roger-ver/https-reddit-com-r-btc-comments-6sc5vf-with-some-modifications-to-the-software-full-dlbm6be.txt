@@ -1,0 +1,1 @@
+Actually we can make zero confirmation transactions safe again.  Blockstream undermined that aspect of Bitcoin too.
