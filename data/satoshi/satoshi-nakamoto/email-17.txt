@@ -1,5 +1,3 @@
-
-
 I've been working on a new electronic cash system that's fully
 peer-to-peer, with no trusted third party.
 
@@ -37,11 +35,3 @@ were gone.
 
 Full paper at:
 http://www.bitcoin.org/bitcoin.pdf
-
-Satoshi Nakamoto
-
----------------------------------------------------------------------
-The Cryptography Mailing List
-Unsubscribe by sending "unsubscribe cryptography" to [EMAIL PROTECTED]
-
-

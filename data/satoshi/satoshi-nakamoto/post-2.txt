@@ -1,11 +1,1 @@
-
-
-Quote from: Hal on December 11, 2010, 08:08:45 PM
-
-I'd like to hear some specific criticisms of the code. To me it looks like an
-impressive job, although I'd wish for more comments. Now I've mostly studied
-the init, main, script and a bit of net modules. This is some powerful
-machinery.  
-
 That means a lot coming from you, Hal. Thanks.
-
