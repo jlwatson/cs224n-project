@@ -1,6 +1,8 @@
 import numpy as np
-import matplotlib.pyplot as plt
 import itertools
+import hashlib
+
+import matplotlib.pyplot as plt
 
 def plot_confusion_matrix(cm, classes,
                           normalize=False,
@@ -33,3 +35,13 @@ def plot_confusion_matrix(cm, classes,
     plt.tight_layout()
     plt.ylabel('True label')
     plt.xlabel('Predicted label')
+
+def get_split(string, test_split = 0.1, validation_split = 0.1):
+    string_hash = hashlib.md5(string.encode('utf-8')).digest()
+    prob = int.from_bytes(string_hash[:2], byteorder='big') / 2**16
+    if prob < test_split:
+        return 'test'
+    elif prob > 1 - validation_split:
+        return 'val'
+    else:
+        return 'train'

@@ -1,18 +1,2 @@
-
-
-Quote from: da2ce7 on December 11, 2010, 05:49:22 AM
-
-direct to IP address transfers seems like a obvious surface area to attack.  
-
 If you ever find anyone who turned it on. It's disabled by default.  
-  
-
-Quote from: witchspace on December 11, 2010, 09:59:40 AM
-
-There is no way to be absolutely sure that there are no buffer overflow
-attacks. Although it would help to implement the client in a language that
-doesn't have buffer overflows because it checks array indices (Python, Java,
-C#, ...).  
-
-It's all STL. There are almost no buffers.  
-
+It's all STL. There are almost no buffers.
