@@ -1,0 +1,20 @@
+Truly Stealthy PGP
+6 Mar 94
+Revised 7 Mar 95
+
+(A "Truly Stealthy" PGP would be one whose binary output is indistinguishable from noise. PGP stripped of its message headers and length bytes comes close to this objective, except that the high order byte of its encrypted session key would have a non-uniform distribution (more info about "Stealth PGP" here). Eric Hughes proposed that session keys be chosen in such a way that this was prevented. Here is an algorithm which would work.)
+
+Let L be a power of 256 above the modulus n. For security let it be the next power of 256 above n*(2^64) (e.g. as an MP number, L is 1 followed as many 0's as the size of n plus 8 bytes). Let t be the integer part of L/n, so that L = n*t + s with s in [0,n). Call the PGP IDEA session key SK, and the encrypted version of that m = SK^e. Now do these steps:
+
+    Pick a random SK in [0,n).
+    2) RSA-encrypt it to form m = SK^e mod n.
+    3) Choose a random k in [0,t].
+    4) Calculate the "stegged" encrypted key as M = m + k*n. This will be uniform in [0,(t+1)*n) if m is uniform in [0,n), which I think it is.
+    5) if M is not in [0,L) (i.e. if M >= L) then fail. The chances of this happening are less than 1 in 2^64, effectively zero.
+    6) Otherwise store M as a raw binary number taking log base 256 of L bytes.
+
+The idea is that once we get M uniform in [0,(t+1)*n) we can make it uniform in [0,L) by failing on those candidates which were too high. This will only happen if k=t and m>=s, and since t>2^64 the chances of this are infinitisimal.
+
+To recover m, simply take the first log base 256 of L bytes (which is known to the recipient if he knows it is for him) as M, and compute m = M mod n.
+
+Using this algorithm with the current Stealth PGP would produce a "truly stealthy" version which I think would be indistinguishable from random bytes without access to the receiver's private key.

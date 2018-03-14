@@ -12,7 +12,10 @@ Roger Ver
 
 Hal Finney
 - [x] https://bitcointalk.org/index.php?action=profile;u=2436
-- [ ] http://nakamotoinstitute.org/finney/
+- [x] https://web.archive.org/web/20140403012916/finney.org/~hal/
+- [x] http://nakamotoinstitute.org/finney/
+- [ ] Cypherpunks Mailing List
+- [ ] https://twitter.com/halfin
 
 Jed McCaleb
 - [x] https://bitcointalk.org/index.php?action=profile;u=5322
