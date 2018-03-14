@@ -1,0 +1,3 @@
+High value, coins-haven't-moved in a while transactions would still go through because most miners still set aside space for 'high priority' transactions.
+
+If an attack did happen, it would be trivial for some of the big pools to switch temporarily to blocks sorted just by priority, which would make the attack almost completely ineffective.

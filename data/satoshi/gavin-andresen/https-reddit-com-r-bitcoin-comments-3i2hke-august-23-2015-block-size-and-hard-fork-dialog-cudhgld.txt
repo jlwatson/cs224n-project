@@ -1,0 +1,1 @@
+what CPU and memory characteristics are non-linear with block size? I tested 200mb blocks to verify linear behavior.

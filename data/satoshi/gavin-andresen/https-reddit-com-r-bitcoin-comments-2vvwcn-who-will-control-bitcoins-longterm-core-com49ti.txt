@@ -1,0 +1,3 @@
+Whoever does the best job convincing merchants, consumers, exchanges and miners to run their software.
+
+I expect sooner or later that will NOT be the Bitcoin Core reference implementation, and that is OK.

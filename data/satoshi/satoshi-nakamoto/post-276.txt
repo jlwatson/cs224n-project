@@ -1,0 +1,2 @@
+Please do these tests on the test network. That's what it's for.  Thanks.
+

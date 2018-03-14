@@ -1,0 +1,9 @@
+I don't believe a 20MB max size will increase centralization to any significant degree.
+
+See http://gavinandresen.ninja/does-more-transactions-necessarily-mean-more-centralized
+
+and http://gavinandresen.ninja/are-bigger-blocks-better-for-bigger-miners
+
+And I think we will have a lot LESS centralization of payments via services like Coinbase (or hubs in some future StrawPay/Lightning network) if the bitcoin network can directly handle more payment volume.
+
+The centralization trade-offs seems very clear to me, and I think the "big blocks mean more centralized" arguments are either just wrong or are exaggerated or ignore the tradeoff with payment centralization (I think that is a lot more important for privacy and censorship resistance).

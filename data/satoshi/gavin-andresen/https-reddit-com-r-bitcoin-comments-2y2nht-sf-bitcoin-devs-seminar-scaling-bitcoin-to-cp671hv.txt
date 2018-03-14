@@ -1,0 +1,1 @@
+Good idea. You should code it up and measure CPU/bandwidth usage to see if it is practical.

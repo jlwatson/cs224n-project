@@ -1,0 +1,11 @@
+Let's see...  8GB every 10 minutes is:
+
+...13Mbps. It's got gigabit ethernet (1,000Mbps) so that should work just fine.
+
+...about 30,000 transactions per second. I'd have to benchmark the Quad-Core ARM, and I don't know how fast the Quad-Core GPU would be at signature verification (somebody would need to write GPU signature verification code). My guess is together they could validate a few thousand transactions per second.
+
+You'll definitely need a faster CPU (or one with more cores) to fully validate 8GB blocks.
+
+You'll also need more fast-ish memory for storing the unspent transaction outputs set-- 64GB almost certainly won't be enough. But in 20 years we'll be measuring memory chip capacity in terabytes.
+
+ And, of course, if you want to store the entire block chain you'd need to hook up a hard drive (you could run pruned, of course, with a few hundred GB of storage).

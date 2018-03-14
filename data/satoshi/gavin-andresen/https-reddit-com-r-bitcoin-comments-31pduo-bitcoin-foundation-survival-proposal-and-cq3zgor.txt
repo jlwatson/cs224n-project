@@ -1,0 +1,1 @@
+Foundation paid me $150k per year until November, when it was cut to $125. Cost to the Foundation was higher than that because of employer-paid payroll taxes and group health insurance, of course. And yes, the tech dev number is... uhhh... 4.5 people's salary plus miscellaneous tech expenses for running the Foundation (server, CloudFlare protection, etc).

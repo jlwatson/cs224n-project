@@ -1,0 +1,9 @@
+If you are signing on a device that is connected to the Internet, and the attacker can replace the ECDSA signing software you are using (or whoever created the software is evil), then they can just send the private keys directly (or simply change the transaction so you pay the attacker the contents of your wallet).
+
+The secret backdoor attack is only useful if the attacker is targeting off-line signing of transactions.
+
+In that case, the attacker would have had to compromise the software or hardware of the off-line device when it was first set up.
+
+Follow kinoshitajona's advice to mitigate the risk, and if you are really paranoid use multisignature transactions with signatures generated on completely different software/hardware "stacks." That you got from trustworthy sources, not from a USB stick you found lying on your driveway....
+ 
+

@@ -1,0 +1,1 @@
+yes,  under the advanced options breadwallet will let you send the Bitcoin Cash to another wallet.  Of course I recommend using the [Bitcoin.com Wallet](https://www.bitcoin.com/choose-your-wallet/bitcoin-com-wallet) for Bitcoin Cash.

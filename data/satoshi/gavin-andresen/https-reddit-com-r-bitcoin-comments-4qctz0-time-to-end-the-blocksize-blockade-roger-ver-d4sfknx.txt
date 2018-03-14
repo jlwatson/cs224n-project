@@ -1,0 +1,3 @@
+Would it help if I wrote a blog post explaining how a supply quota hurts producers more than consumers?
+
+That is, how the block size limit and higher fees economically harms miners more than transaction creators, and REDUCED overall network security?

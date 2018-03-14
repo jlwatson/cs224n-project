@@ -1,0 +1,3 @@
+Push them with a range of fees if you can.
+
+That will give more data about the fee policies miners are actually running.

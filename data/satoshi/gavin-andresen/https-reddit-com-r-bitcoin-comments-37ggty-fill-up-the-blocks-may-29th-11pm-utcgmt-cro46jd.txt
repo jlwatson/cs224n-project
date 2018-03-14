@@ -1,0 +1,3 @@
+That attack has been discussed a bunch of times before; it is a good reason to implement a dynamic block size (attacker just ends up wasting a lot of money).
+
+The space many miners set aside for high-priority-any-fee transactions mitigates it, because an attacker will quickly run out of high-priority transactions so they can't completely crowd out all transactions.

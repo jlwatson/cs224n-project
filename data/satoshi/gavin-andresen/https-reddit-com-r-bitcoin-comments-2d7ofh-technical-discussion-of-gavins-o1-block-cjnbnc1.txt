@@ -1,0 +1,1 @@
+That falls out from sorting by largest-fee-paid-first and transmitting the total size (in bytes) of transactions the miner decided to include (higher-fee-paying transactions push out the 1Sochi spam).

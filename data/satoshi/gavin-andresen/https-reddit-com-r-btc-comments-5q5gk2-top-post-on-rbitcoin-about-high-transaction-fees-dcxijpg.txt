@@ -1,0 +1,3 @@
+Running a network near 100% capacity is irresponsible engineering.
+
+If I was CTO of a company and my network engineer explained how it is a good thing customers can't use our network at random times because it will teach them to be patient or force them to write software to deal with it... I would fire them.

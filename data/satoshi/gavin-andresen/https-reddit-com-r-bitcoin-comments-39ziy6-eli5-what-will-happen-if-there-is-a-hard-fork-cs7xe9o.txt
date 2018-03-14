@@ -1,0 +1,13 @@
+didnt you get this email I sent you this past weekend?
+
+So...
+
+... maybe there's a misunderstanding on what I'm actually working on. I'm coding a hard-fork that will only fork:
+
++ After March 1, 2016
++ If 75% of hashing power is producing up-version blocks
++ AND after some brave miner decides to actually produce a >1MB block.
+
+It will be very difficult for *anybody* to lose money. Even if we assume that some stubborn minority of miners decides not to upgrade (in spite of Bitcoin Core warning them first that the chain consists mostly of blocks with up-version version number, and then warning them that there is an alternative invalid higher-work chain), those miners will be the only people who will lose money. Ordinary, SVP-using users will follow the longest chain, and since at least 75% of hashing power will be on the bigger-block chain, there is no chance of them losing money. The big-block-rejecting-chain will very, very quickly be left behind and ignored.
+
+There will NOT be two active chains, that is just FUD. Anybody running old code will have to willfully ignore the warnings to upgrade to stay on the old chain, and the incentives are so strong to follow the majority I can't imagine the 1MB chain persisting for any significant length of time.

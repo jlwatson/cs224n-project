@@ -1,0 +1,9 @@
+Designing for success means setting limits high enough so that smart engineers and academics have room to innovate to solve problems as they come up.  Or "don't paint yourself into a corner"
+
+I am not, and have never claimed to be, the smartest engineer or the most talented programmer. I am old enough, and lucky enough, to have worked with dozens of people smarter than me, and am continually impressed with the calibre of people working on Bitcoin and the amazing solutions they come up with. Greg's road map should make anybody who can understand the implications of things like "fraud proofs and partial validation" excited that Bitcoin has a very bright long-term future.
+
+Lately, when I'm not distracted by reporters asking if Dorian Craig Szabo is satoshi or not, or catching up on the latest arguments in the Great Block Size Limit Debate, I've been reading a lot of academic work on gossip protocols and learning about network simulation tools and thinking about how to go about actually putting some of the academic work into practice (after seeing if somebody has actually already done that).
+
+All that may turn out to be wasted effort-- a brilliant engineer or academic might be two days away from announcing a fantastically scalable, efficient, private, robust, decentralized, DoS-proof solution that we can just pick up and use.
+
+That's OK, I'm learning a lot of stuff I didn't know before, and that makes me almost as happy as applying what I've learned to solve some tricky problem.

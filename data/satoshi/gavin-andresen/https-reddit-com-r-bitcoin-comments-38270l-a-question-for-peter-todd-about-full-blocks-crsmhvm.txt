@@ -1,0 +1,3 @@
+Yes, a multisig hosted wallet may be more secure than Bitcoin Core running on a malware-infested PC.
+
+The wide range of wallets available (including hardware wallets) is a success story, even if it is sometimes painful when popular wallets fail in spectacular ways.

@@ -1,0 +1,5 @@
+I think a lot.
+
+I think that a payment network that support more transactions is more valuable than one that supports fewer. And I believe that miners will be rewarded more for securing a more valuable network rather than a less valuable one.
+
+I find it implausible that the opposite would be true-- that they would get paid more for securing a network with less transaction volume.

@@ -1,0 +1,3 @@
+Some of the developers don't want on-chain scaling any time soon. They are saying and doing anything to prevent what everybody agrees is a simple safe short-term fix to the problems we are seeing start right now.
+
+It would be lovely if they each explained why-- I have heard several different reasons, none of which make sense from a cost-benefit analysis point of view.

@@ -1,0 +1,1 @@
+I'll have to double-check, but I'm pretty sure SPV clients don't send the 'sendheaders' message, so they won't know about blocks until they're fully validated.

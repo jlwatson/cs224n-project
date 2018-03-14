@@ -1,0 +1,1 @@
+Actually 15 times as fast per confirmation would be a bit more accurate.  [Source](https://blockchain.info/charts/avg-confirmation-time?timespan=30days&daysAverageString=7)

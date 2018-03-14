@@ -1,0 +1,1 @@
+OP_CHECKSEQUENCEVERIFY could be used to create a set of child transactions of a >1mb parent tx that can only be redeemed x-number of blocks after the parent.

@@ -1,0 +1,7 @@
+That is why wallets don't let you send dust of spammy feeless transactions.
+
+The question is, are wallets ready for ordinary reasonable-fee-paying transactions taking a long time to confirm (or never confirming)?
+
+I was worried about this for Bitcoin Core, so I implemented the first version of the fee estimation code (it has since been improved by Mike Hearn and Alex Morcos).
+
+But most people aren't running the Bitcoin Core wallet, because SPV wallets or web-hosted wallets are more convenient and/or more secure.

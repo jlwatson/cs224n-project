@@ -1,0 +1,3 @@
+Excellent use of multisig and the payment protocol.
+
+I'll try to find time to comment on the draft BIP....

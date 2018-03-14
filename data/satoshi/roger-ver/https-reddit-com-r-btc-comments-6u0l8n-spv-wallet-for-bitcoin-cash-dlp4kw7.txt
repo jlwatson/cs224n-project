@@ -1,0 +1,2 @@
+It is not a web wallet.  It is a fork of Copay, and the user always maintains control of their private keys. 
+Get it today at: https://www.bitcoin.com/choose-your-wallet/bitcoin-com-wallet

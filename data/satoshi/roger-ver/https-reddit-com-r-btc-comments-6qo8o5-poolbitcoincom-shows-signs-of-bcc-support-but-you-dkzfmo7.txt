@@ -1,0 +1,2 @@
+If you point your miners to stratum.bcc.pool.bitcoin.com:3333 you'll mine the legacy chain for now. 
+As soon as the BCC hard fork happens, you'll automatically be mining on the BCC fork.

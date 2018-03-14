@@ -1,0 +1,1 @@
+You can switch back and forth with your own hash rate, but it is only possible to mine one at a time.

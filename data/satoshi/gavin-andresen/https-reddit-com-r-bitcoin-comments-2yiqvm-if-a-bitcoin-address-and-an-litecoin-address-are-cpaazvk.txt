@@ -1,0 +1,3 @@
+They forgot to change the P2SH prefix byte for litecoin?
+
+That's not good, it means a copy/paste error could lock up BTC or LTC in a way that is very difficult or impossible to spend.

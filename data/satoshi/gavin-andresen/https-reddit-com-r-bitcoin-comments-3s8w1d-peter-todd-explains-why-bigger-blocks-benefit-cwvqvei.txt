@@ -1,0 +1,8 @@
+So if you're worried about selfish mining, then we need techniques to mitigate selfish mining attacks.
+
+I've been having an email conversation with Ittay and Gun about that... I think a protocol that pre-publishes 'weak' blocks might accomplish that, because when you're finding POW you're committing to real-time timestamps in the block headers.
+
+If you start selfish mining, then you have to stop pre-announcing intermediate work (weak blocks) that are more than one block ahead of the network's idea of the chain tip. And when it comes time to announce your 'surprise, I'm ahead' secret chain to the rest of the network, your peers have evidence (in the form of timestamps on the blocks you announce and the LACK of any intermediate weak blocks) that you're cheating.
+
+What your peers can safely DO with that evidence is something that needs a lot more careful thought....
+

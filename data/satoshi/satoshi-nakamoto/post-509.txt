@@ -1,0 +1,5 @@
+Where it says "# blocks" in the status column I'm changing it to say "#
+confirmations". That might be clearer.  
+  
+If you doubleclick on the transaction you get a little more information.
+

@@ -1,0 +1,1 @@
+It doesn't count both wallets separately though, so it should be an accurate number with the exception of however many people didn't install the update from a month ago.

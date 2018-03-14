@@ -1,0 +1,1 @@
+You can absolutely run BIP101 with the data caps. Until the networking code is optimized you will just have to set some options to minimize bandwidth use. Current Bitcoin Core defaults assume first-world bandwidth, not Comcast-monopoly-we-don't-care-about-our-customers bandwidth.

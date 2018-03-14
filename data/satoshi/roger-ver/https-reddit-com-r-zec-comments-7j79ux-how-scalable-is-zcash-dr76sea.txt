@@ -1,0 +1,1 @@
+Zcash already has far more transactional throughput capacity than Bitcoin Core,  and that was one of the main motivating factors that led me to invest in it.

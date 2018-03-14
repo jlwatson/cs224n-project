@@ -1,0 +1,1 @@
+I have never claimed to understand the tangle. I've never tried to understand it, I'm not an expert on consensus algorithms. I do listen to what the experts say, though, and both the consensus-algorithm-experts and the cryptographers are not saying nice things about iota.

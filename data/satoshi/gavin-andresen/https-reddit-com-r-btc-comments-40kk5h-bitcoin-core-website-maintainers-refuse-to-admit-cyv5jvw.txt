@@ -1,0 +1,3 @@
+I originally purchased the bitcoincore.{com,org} domains using a grant from the Bitcoin Foundation.
+
+Wladimir asked me to transfer control of the DNS records to him, which I did yesterday (he's leader of the Bitcoin Core implementation now, not me).

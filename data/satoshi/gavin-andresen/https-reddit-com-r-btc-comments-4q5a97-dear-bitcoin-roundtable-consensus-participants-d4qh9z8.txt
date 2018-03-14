@@ -1,0 +1,3 @@
+No, actually. The economics say the miners will pay most of the '1mb tax' -- there are lots of substitutes available to Bitcoin transaction creators, but miners can't do anything profitable with their hardware besides mine Bitcoin (there is ~zero demand for other SHA256 coins).
+
+So the supply side (miners) pay.

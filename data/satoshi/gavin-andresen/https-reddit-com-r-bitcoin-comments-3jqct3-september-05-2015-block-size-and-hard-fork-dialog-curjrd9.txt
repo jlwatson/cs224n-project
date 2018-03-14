@@ -1,0 +1,3 @@
+No, BIP100 votes are in the blockchain, so it won't have any more difficulty coming to a consensus.  If you have an up-to-date blockchain, you have all the information you need to calculate the maximum block size for the next block.
+
+I agree with you on the rest of your points.

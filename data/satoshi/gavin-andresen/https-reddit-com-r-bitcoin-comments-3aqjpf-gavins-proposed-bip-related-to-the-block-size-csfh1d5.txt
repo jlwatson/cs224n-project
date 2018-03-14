@@ -1,0 +1,3 @@
+His test is a good example where 8 connections are WORSE than 1, though (his orphan rate would be much better with just one connection).
+
+Maybe it is time for a version of the Core code that is optimized for at-home users on low-bandwidth DSL connections, or maybe just shipping a bitcoin.conf file that has settings tweaked for low-bandwidth-connection environments would be good enough.

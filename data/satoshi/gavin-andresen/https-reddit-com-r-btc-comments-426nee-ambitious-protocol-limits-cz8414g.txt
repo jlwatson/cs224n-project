@@ -1,0 +1,3 @@
+Ok... what successful protocol is more apples-to-apples?
+
+How about NNTP servers, where messages are passed around between servers all over the world?

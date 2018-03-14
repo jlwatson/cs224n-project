@@ -1,0 +1,1 @@
+I think it will get more formal over time, evolving towards something like the IETF model for RFCs.

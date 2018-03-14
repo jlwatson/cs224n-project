@@ -1,0 +1,3 @@
+Because implementation is simpler if block size is a pure function of the 80-byte block header, which contains a timestamp but not a block height (calculating height requires you have the full chain of previous blocks or the coinbase transaction).
+
+Simpler is better in consensus-critical code.

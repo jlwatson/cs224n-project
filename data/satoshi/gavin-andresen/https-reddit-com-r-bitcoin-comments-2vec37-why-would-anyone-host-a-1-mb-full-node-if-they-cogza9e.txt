@@ -1,0 +1,1 @@
+yes, with IBLT's transaction data only needs to be broadcast once, when the transactions are announced, so new block announcements are tiny.

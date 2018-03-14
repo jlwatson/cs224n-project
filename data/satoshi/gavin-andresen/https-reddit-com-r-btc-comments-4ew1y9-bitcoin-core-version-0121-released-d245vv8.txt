@@ -1,0 +1,11 @@
+SOV == Store of Value.
+
+I disagree with cypherdoc: I think a money that evolves is a great store of value, as long as the evolution is done carefully so that people storing value are unaffected.
+
+I disagree with the order in which Core is rolling out these BIPs -- they're prioritizing features that will make implementing the lightning network easier.
+
+Ideally, something like CHECKSEQUENCEVERIFY/CHECKLOCKTIMEVERIFY would be part of a Script redesign. Every time you see a new VERIFY opcode, it is technical debt-- it would be technically cleaner and more powerful if there were generic PUSH_TRANSACTION_INFO and PUSH_BLOCK_INFO opcodes and CHECKSEQUENCEVERIFY (and all sorts of other powerful stuff) was built out of those more generic concepts.
+
+Reasonable people can disagree about whether it is worth having CHECKSEQUENCEVERIFY now, as a feature that will have to be supported forever (assuming it activates).  It is not a HUGE amount of code, and it enables more than just Lightning, so getting it sooner rather than tackling a complete Script rewrite is probably the right thing to do.
+
+But fixing transaction confirmation reliability (aka INCREASE THE FRICKING BLOCK SIZE LIMIT ALREADY) should be a much higher priority.

@@ -1,0 +1,4 @@
+"Minimize to the tray instead of the taskbar" & "Minimize to the tray on
+close" must not be implemented yet on the Mac. We should grey them out in the
+next version.  
+

@@ -1,0 +1,3 @@
+Protocol improvements will make new block propagation almost completely independent of block size.
+
+And the economies of scale for bigger miners argument is silly; their CPU/bandwidth costs are trivial compared to their other costs.

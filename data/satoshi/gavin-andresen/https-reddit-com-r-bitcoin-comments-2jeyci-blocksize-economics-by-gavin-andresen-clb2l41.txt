@@ -1,0 +1,7 @@
+How much does it cost the network to store an unspent transaction output forever?
+
+(there's a bitcointalk forum thread that does a back-of-the-envelope estimate, but I'm too lazy to go search for it right now).
+
+Or better: what is the cost of storing a UTXO versus the cost of broadcasting/validating/storing a spend?
+
+Some costs are so small they are not worth charging for.

@@ -1,0 +1,5 @@
+Renting mining power is a bad idea-- it is much too easy for the company you're renting from to practice 'fractional mining' or to be a straight-up Ponzi scheme.
+
+If you want to spend money to get BIP101 adopted, then just pledge to send coins to the address(es) in any BIP101 block's coinbase transaction.
+
+Hmm.. If only there was some decentralized crowd funding platform that would let you do that sort of thing....

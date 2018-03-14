@@ -1,0 +1,9 @@
+Thanks for starting the discussion, sandball!
+
+RE: why canonical ordering: as others have commented, IBLTs just give you the set of transactions. The order of transactions in the block data affects the merkle root and block hash, so a canonical ordering is needed.
+
+RE: 8-byte values having unreasonable overhead: mmm, maybe. I suspect we might be able to optimize away the IBLT checksum (because keys are 48 bits of hash of the transaction data) but I'd have to spend more time playing with IBLTs and thinking about that kind of micro-optimization.
+
+RE: but what if a miner has a mempool very different from everybody else, or wants to include transactions nobody else would?  Then they'll have to transmit a bigger IBLT than everybody else (or, past some threshold, just resort to sending the whole block).
+
+I think that is a feature, not a bug; the incentive is to go with the majority of hashing power, but it is not all-or-nothing: miners that want to set their own policy can compare their blocks against standard-selection-policy blocks and be sure to create an IBLT large enough to encode the differences.

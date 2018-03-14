@@ -1,0 +1,3 @@
+No, they require kilobytes of output and detect subtle bias.
+
+The service needs just 64 bytes and detects catastrophic failure (like identical entropy on freshly booted VMs).

@@ -1,0 +1,11 @@
+It wasn't an arithmetic error, I should have counted bandwidth twice for relayed traffice because that's how your ISP counts (if you get 1MB then relay to your peers it counts as 2MB towards your bandwidth cap).
+
+But I had also doubled all the numbers assuming that there would be ZERO changes to the P2P protocol, and transactions would be relayed twice across the network (once when they're broadcast, once as part of a 'block' message).
+
+There is work underway (or already deployed-- see Mat Corallo's fast relay network) to fix the second, and since ALL of the discussion has been about 20MB versus 1MB, and since a hard fork that would actually allow bigger blocks is a long time away, and since transaction volume would have to scale up to make it worth miners' whiles to actually PRODUCE larger blocks...
+
+I decided to stick with the 20MB proposal.
+
+I've said REPEATEDLY that I'm completely open to specific-enough-we-can-write-code counterproposals.
+
+If Mr. Chief Scientist of ViaCoin wants to propose starting at 10MB, okey dokey (but I'd prefer 11MB, eleven is my favorite number).

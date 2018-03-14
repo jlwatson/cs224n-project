@@ -1,0 +1,5 @@
+Lets try using Laszlo's irc.lfnet.org instead of freenode.  Here's RC2, that's
+the only change in it:  
+  
+(see below for download links)  
+

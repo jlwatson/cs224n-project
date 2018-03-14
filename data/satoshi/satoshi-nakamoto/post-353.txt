@@ -1,0 +1,6 @@
+More directly, this:  
+http://bitcointalk.org/index.php?topic=246.0  
+  
+I will be posting release candidate of 0.3.1 with this fix shortly. Please try
+that and let me know if it fixes the problem.
+

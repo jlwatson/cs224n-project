@@ -1,0 +1,3 @@
+Nice! I like the design, seems simple enough to work.
+
+You should experiment with using unspent bitcoins to  "buy" space in the DHT (e.g. you get to store 11 megabytes in the DHT as long as you keep an 11 BTC output unspent... where it really isn't eleven but some clever market-based mechanism where people bid unspent coins for the right to take up space in the DHT).

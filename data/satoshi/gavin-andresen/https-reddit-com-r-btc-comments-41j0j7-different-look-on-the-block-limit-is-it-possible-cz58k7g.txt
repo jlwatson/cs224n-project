@@ -1,0 +1,5 @@
+137 blocks?
+
+Can you write up what you did in a little more detail and post it somewhere more public/permanent, like a github gist?
+
+And are you willing to publish the code you used (maybe on github, too)?

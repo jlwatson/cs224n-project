@@ -1,0 +1,5 @@
+It can easily scale at least two, maybe three, orders of magnitude on-chain with today's typical computer and broadband internet connection.
+
+That takes us from probably a couple million people using bitcoin to maybe a billion.
+
+Don't confuse measurements of today's code with what is possible. There has been almost no effort put into on-chain scaling (yes, libsecp256k1 is awesome, but signature validation isn't the scaling bottleneck), because the active core devs are more excited by complicated shiny new technology like lightning and segregated witness (which are also both potentially awesome).

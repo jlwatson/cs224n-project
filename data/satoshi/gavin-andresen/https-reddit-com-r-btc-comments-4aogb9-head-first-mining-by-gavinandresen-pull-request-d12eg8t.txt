@@ -1,0 +1,3 @@
+Yes, it is semi-tested alpha code. That is why it is in the 'develop' branch.
+
+It will become fully-tested production code after more review and testing.

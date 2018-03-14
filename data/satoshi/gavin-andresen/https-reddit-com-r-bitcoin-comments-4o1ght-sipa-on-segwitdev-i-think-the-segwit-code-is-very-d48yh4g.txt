@@ -1,0 +1,14 @@
+Can we please stop exaggerating and taking sides and over-reacting?
+
+The libsecp256k1 code is almost certainly the most reviewed and tested code (more fantastic work from sipa), much more extensively reviewed than segwit.
+
+Constructive reactions to my original post would be comments like "segwit is big, it is unreasonable to expect ACKs for the entire thing, I worked on the FooBar open source project and we found that reviewing in pieces with the lead developer making sure everything was covered by at least two code reviews worked well."
+
+Or:
+
+"Yeah, in my experience the only way to get code reviews it to pay reviewers for thorough, complete reviews."
+
+Or:
+
+"There's an awesome ReviewOMatic tool that my company used to keep track of what code has been reviewed and what hasn't, Core should use that."
+

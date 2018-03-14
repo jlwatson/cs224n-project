@@ -1,0 +1,5 @@
+I think in a year or so after the current influx of investment starts producing results it will be safe to stop saying "Bitcoin is an experiment."
+
+Block sizes are already dynamic-- miners decide how large to make the blocks. If you mean maximum block size: I haven't heard a dynamic proposal that fixes the problem that people are worried about.
+
+No, there is no canary clause for Bitcoin.

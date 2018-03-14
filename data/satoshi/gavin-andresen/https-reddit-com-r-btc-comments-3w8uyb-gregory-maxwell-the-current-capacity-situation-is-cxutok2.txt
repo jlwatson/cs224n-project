@@ -1,0 +1,4 @@
+Yes, and there is a real danger of a negative feedback loop-- transactions fail to confirm, some people leave, price falls, hash power drops, more transactions fail to confirm......
+
+I THINK the miners would be rational enough to break the cycle, but it could get really ugly pretty fast.
+

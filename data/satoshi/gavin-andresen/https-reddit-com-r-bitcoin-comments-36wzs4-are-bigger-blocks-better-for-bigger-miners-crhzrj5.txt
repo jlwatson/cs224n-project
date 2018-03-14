@@ -1,0 +1,12 @@
+I simulated two 30% miners and four 10% miner, all producing blocks that take 20 seconds to validate.
+
+The 30% miners end up each getting 0.15% extra, at the cost of the 10% miners.
+
+If the 10% miners decide to produce 1-second-to-validate blocks, though, then the tables are turned and the little miners have a slight advantage:
+
+    $ ./mining_simulator --config m.cfg --runs 200
+    Simulating 2016 blocks, default latency 1secs, with 6 miners over 200 runs
+    Configuration: Two 30% miners, four 10% miners
+    Orphan rate: 1.431%
+    Miner hashrate shares (%): 30 30 10 10 10 10
+    Miner block shares (%): 29.77 29.98 10.07 10.06 10.05 10.08

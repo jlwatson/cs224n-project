@@ -1,0 +1,8 @@
+I don't see how that changes the analysis in the blog post, which is making two major claims:
+
+1. Transaction fees would not drop to zero, no matter the block size.
+2. Block size has little to do with whether or not the future 0-subsidy Bitcoin will have enough fees to secure the chain.
+
+Assuming that people don't work around the 10 minute artificial limit (I think they will, there are at least two approaches that should work, but lets assume they won't): that means less demand for transactions, which, indeed, should mean lower fees.
+
+Again, I don't think that changes the analysis at all, it just adds yet another influence on the demand for Bitcoin transactions.

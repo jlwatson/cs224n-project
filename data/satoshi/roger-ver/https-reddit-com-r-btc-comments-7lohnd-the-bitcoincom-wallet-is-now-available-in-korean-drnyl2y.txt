@@ -1,0 +1,2 @@
+I suspect it is because the ledger wallet prefixes the address with bitcoin: rather than bitcoincash:
+Try copying the address into https://explorer.bitcoin.com/ and scanning it from there.

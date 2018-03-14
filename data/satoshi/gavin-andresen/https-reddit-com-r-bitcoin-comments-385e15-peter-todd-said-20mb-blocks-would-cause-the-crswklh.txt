@@ -1,0 +1,1 @@
+yes-- they will connect to the fast relay network or keep blocks small until other new block announcement optimizations are implemented.

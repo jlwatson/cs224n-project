@@ -1,0 +1,3 @@
+It seems clear from the BIP you would like to also block the overt use. You even have a section discussing how (I did read it before tweeting).
+
+I haven't thought about it very hard... but it seems to me it would be pretty easy to make an ASICBoost-friendly version of segwit-as-hard-fork (just add an extra couple layers in the merkle root in the block header, and make one of the top leaves an extra-extranonce that miners can tweak however they like).

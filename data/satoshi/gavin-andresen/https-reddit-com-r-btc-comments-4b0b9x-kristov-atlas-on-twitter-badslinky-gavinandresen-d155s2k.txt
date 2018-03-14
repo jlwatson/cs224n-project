@@ -1,0 +1,16 @@
+From a private email conversation to a Core developer about head-first mining:
+
+The attack you describe is ludicrous. Silly. Not worth thinking about for more than eleven minutes.
+
+The attack is:
+
+Miner creates invalid block that takes a long time to (more than 30 seconds) to validate, and contains payment to SPV-running target accepting 2-confirm payments.
+Network starts hashing on invalid block, and about 5% of the time will mine an empty block in that 30 seconds.
+SPV client sees two confirmations, sends attacker something valuable.
+
+Cost of the attack: bitcoin price * mining reward / 5% success rate == $200,000 at today's prices.
+
+Really?  Seriously?  Somebody or several somebodies running SPV with 2 confirmations with no legal recourse will send an attacker more than $200,000 worth of stuff is in your attack model?
+
+
+

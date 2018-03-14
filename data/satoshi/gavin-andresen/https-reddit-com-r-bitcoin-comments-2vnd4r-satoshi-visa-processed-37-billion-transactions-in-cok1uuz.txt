@@ -1,0 +1,1 @@
+no; a Merkle branch to a root hash in a block header is just as secure for proof of existence.

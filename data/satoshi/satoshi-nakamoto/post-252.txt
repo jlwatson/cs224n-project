@@ -1,0 +1,4 @@
+SVN is updated with version 0.3.6.  
+  
+Uploading Windows build of 0.3.6 to Sourceforge now, then will rebuild linux.
+

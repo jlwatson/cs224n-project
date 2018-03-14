@@ -1,0 +1,1 @@
+Bitcoin-XT implements BIP 101 : at least an 8MB limit after 75% miner support and a two-week grace period, doubling every two years  for twenty years on a completely predictable schedule.

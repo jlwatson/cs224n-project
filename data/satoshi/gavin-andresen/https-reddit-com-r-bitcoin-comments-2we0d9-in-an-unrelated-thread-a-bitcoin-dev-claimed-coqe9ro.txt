@@ -1,0 +1,3 @@
+I think keeping track of some statistics about the behavior of your peers and dropping peers that are acting "weird" (and banning them if they insist on reconnecting) is a great idea.
+
+"patches welcome"

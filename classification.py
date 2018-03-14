@@ -19,17 +19,13 @@ data = []
 for line in open('data/shakespeare/sample.data').readlines()[1:]:
     data.append(ast.literal_eval(line))
 
-
 tokenizer = Tokenizer()
 texts = [d[0] for d in data]
 tokenizer.fit_on_texts(texts)
 x = tokenizer.texts_to_sequences(texts)
 
-y_vals = [d[1] for d in data]
-y = np.zeros((len(y_vals), len(set(y_vals))))
-for i, v in enumerate(y_vals):
-    y[i, v] = 1.0
-
+# TODO: fix terrible hack for shakespeare's id
+y = [0 if d[1] == 0 else 1 for d in data]
 vocab_size = len(tokenizer.word_docs) + 1 # somehow getting an extra val in there
 
 split = int(0.2*len(data))
@@ -44,7 +40,7 @@ print('Build model...')
 model = Sequential()
 model.add(Embedding(vocab_size, EMBEDDING_DIM))
 model.add(LSTM(EMBEDDING_DIM, dropout=0.2, recurrent_dropout=0.2))
-model.add(Dense(3, activation='sigmoid'))
+model.add(Dense(1, activation='sigmoid'))
 
 model.compile(loss='binary_crossentropy',
               optimizer='adam',
@@ -55,7 +51,11 @@ model.fit(x_train, y_train,
           batch_size=BATCH_SIZE,
           epochs=15,
           validation_split=0.2)
-score, acc = model.evaluate(x_test, y_test,
+
+if args.test_unknown:
+
+else:
+    score, acc = model.evaluate(x_test, y_test,
                             batch_size=BATCH_SIZE)
-print('Test score:', score)
-print('Test accuracy:', acc)
+    print('Test score:', score)
+    print('Test accuracy:', acc)

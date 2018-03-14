@@ -1,0 +1,3 @@
+Pieter and Wlad (and some of the other devs who signed the road map) seem to be completely unwilling to accept any hard fork.
+
+So proposing Yet Another BIP would be pointless.

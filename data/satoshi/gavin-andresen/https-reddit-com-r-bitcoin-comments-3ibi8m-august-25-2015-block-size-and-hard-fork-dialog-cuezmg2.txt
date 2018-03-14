@@ -1,0 +1,5 @@
+Fun fact: the average web page in 2015 is two megabytes big.
+
+So if you browse more than one page a minute, your computer is downloading more data than the initial 8MB max limit of BIP101.
+
+Reference: http://www.soasta.com/blog/page-bloat-average-web-page-2-mb/

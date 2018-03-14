@@ -1,0 +1,1 @@
+I'd agree with that, although I think double-sha256 will be plenty good enough until long after I'm dead.

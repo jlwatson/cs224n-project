@@ -1,0 +1,7 @@
+Interesting idea!
+
+bitcoind's memory pool already keeps track of when (at what time) a transaction entered the pool.
+
+Probably the best thing to do would be for the IBLT to have a "time created" timestamp, and when peers reconstruct they ignore mempool transactions they received after that timestamp.
+
+

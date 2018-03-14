@@ -1,0 +1,4 @@
+The simplification is intentional.  There will only be more than one
+thash[7]=0 in one out of 134,217,728 cases.  It only makes it 0.0000007%
+slower.  
+

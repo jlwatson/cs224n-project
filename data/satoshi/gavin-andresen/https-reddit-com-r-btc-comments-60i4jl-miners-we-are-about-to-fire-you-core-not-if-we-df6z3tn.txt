@@ -1,0 +1,5 @@
+I get accused of insufficient "adversarial thinking" when I express the opinion that certain attacks are extremely unlikely and economically senseless...
+
+... and then get accused of being a meanie if I talk about attacks that are pretty darn likely and might make sense economically.
+
+I am amused by certain core devs (and others) who refer to the 1mb-constrained branch as "our chain."  Bitcoin doesn't belong to them, it doesn't belong to me, it is a consensus system grounded in the math of proof-of-work.

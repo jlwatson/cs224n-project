@@ -1,0 +1,3 @@
+How is that any different from bribing all the miners by sending a lot of fee-paying transactions?
+
+And what is the attacker trying to accomplish?

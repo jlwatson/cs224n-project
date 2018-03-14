@@ -1,0 +1,10 @@
+Plusses:
+
+Lamport signatures are implemented via hashing.
+
+Minuses:
+
+Bitcoin ASIC hardware is insanely tuned to do the double-SHA256-hash of the 80-byte block header. Tweaking it to do Lamport signatures is probably a lot harder than we non-hardware-designers think (I doubt it'd be a firmware upgrade, but might be wrong, I'm not a hardware guy).
+
+As other people point out: variance.
+

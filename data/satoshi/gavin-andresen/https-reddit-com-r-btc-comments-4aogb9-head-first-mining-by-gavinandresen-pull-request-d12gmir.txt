@@ -1,0 +1,9 @@
+If there is no hard-coded block size limit...
+
+... then empty blocks from head-first mining have zero effect on the capacity of the network to handle transactions.
+
+One way to think of it is any transactions that don't make it into an empty block will just end up in the next non-empty block.
+
+Another way to think of it is to think about what miners would do INSTEAD of mining an empty block. Their only rational choice is to turn off their mining hardware until they get and validate the full block, then mine a normal block.  Obviously if their mining equipment is turned off a block can't be found... so transactions will just have to wait around until the full block.
+
+Exactly the same outcome as if the miners mine empty blocks.

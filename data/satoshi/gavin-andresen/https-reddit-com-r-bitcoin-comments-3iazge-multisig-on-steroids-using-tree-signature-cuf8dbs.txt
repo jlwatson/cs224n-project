@@ -1,0 +1,6 @@
+There can be many bitcoin client implementations and many implementations of the consensus code.
+
+There may be implementation bugs in those many codebases that cause them to lose consensus with the rest of the network-- and we've seen several variations of that even with a SINGLE codebase. Bitcoin Core versions prior to 0.7 could self-fork, even if running on identical hardware.
+Versions prior to BIP66 roll out could fork on 32-bit versus 64-bit machines.
+
+The bugs get fixed, and blockchain consensus marches on. I call Core the "reference implementation" and not "The One True Implementation" ....

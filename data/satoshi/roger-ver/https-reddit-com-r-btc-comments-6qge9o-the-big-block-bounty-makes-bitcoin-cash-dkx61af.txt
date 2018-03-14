@@ -1,0 +1,1 @@
+Maybe the transaction can be resigned to be valid on BCC as well?

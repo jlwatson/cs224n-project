@@ -1,0 +1,4 @@
+Did it print anything to the console? Are you sure you didn't run "bitcoind"?  
+  
+Try version 0.3.7.
+

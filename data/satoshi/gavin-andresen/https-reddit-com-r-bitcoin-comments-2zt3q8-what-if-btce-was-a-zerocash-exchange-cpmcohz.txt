@@ -1,0 +1,9 @@
+It seems to me the pattern is:
+
+Places with either weak or over-controlling governments have lots of grey/black market activity for ordinary, everyday business.
+
+But in rich countries the only big businesses that operate in the grey/black market are illegal businesses. And there seems to be a limit to how large an illegal business can get (or how long it can stay in business) before it falls apart because it gets infiltrated by law enforcement.
+
+Small businesses might also operate with two sets of books (one to show the taxman), but once they get big enough that becomes impossible (too much risk if your bookkeeper is not you or your spouse).
+
+I don't think Bitcoin or ZeroCash will change that pattern.

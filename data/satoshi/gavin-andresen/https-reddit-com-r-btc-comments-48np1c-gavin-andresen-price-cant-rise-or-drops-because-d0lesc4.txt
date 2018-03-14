@@ -1,0 +1,3 @@
+Sure. One perverse unintended consequence is the big transaction creators/receivers will just make private deals with the big miners to guarantee their transactions get priority so a spammer cannot outbid them on a whim.
+
+Reliability is something they are willing to pay for, but if a spammer can just outbid you at any time by flooding transactions and filling up the next eleven blocks you need a solution other than 'just pay a higher fee.'

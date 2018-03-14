@@ -1,0 +1,1 @@
+You misunderstand, I think. Old transactions would continue to work as they always did.

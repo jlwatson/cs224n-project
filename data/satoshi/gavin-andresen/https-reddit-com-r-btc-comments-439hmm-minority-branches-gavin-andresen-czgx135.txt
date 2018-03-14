@@ -1,0 +1,5 @@
+"We hate hardforks, we're gonna stick with 1mb"
+
+"Wait, no, we're gonna hardfork to (reset difficulty and/or change POW and/or start with a clean ledger so replay-across-branches attacks are not possible)"
+
+My comment would be: good luck with that....

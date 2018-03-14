@@ -1,0 +1,3 @@
+You'd save some code if the witness Merkle tree was a branch of the Merkle tree in the block header instead of putting it in the coinbase transaction.
+
+Putting it in the coinbase transaction is a layering violation and clearly a hack. It might be the right thing to do for soft-fork compatibility, but you have to admit it would be cleaner as a hard fork that increased the depth of the Merkle tree in the block header.

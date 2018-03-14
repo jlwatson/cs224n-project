@@ -1,0 +1,1 @@
+Pieter and Greg are both brilliant, and this is exactly the type of thing that is perfect for deploying and testing on a sidechain before rolling into Bitcoin-proper.

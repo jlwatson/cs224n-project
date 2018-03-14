@@ -1,0 +1,3 @@
+Theymos already said this... ECDSA does not support encrypting messages. Only
+digital signatures.  
+

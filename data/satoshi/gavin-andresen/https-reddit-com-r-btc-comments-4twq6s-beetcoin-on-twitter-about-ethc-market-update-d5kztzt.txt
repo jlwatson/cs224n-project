@@ -1,0 +1,3 @@
+Did you do anything to prevent transaction replay attacks?
+
+The unreliability of the exchange plus the risk or hassle of replay attacks is a good hypothesis for zero trades.

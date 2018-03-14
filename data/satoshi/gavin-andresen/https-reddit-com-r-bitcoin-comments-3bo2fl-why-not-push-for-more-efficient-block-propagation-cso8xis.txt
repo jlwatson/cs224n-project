@@ -1,0 +1,10 @@
+Miners won't create blocks that propagate slowly-- they lose if they do.
+
+And a hard fork should be scheduled long in advance... So the right order of events is:
+
+1. Schedule hard fork
+2. While hard fork is rolling out, continue working on optimizing block propagation (and everything else).
+
+If (2) takes longer than we think, no worries-- miners will not create big blocks unless they propagate efficiently.
+
+All of the 'miners will attack by creating big block that propagate slowly' is just not true-- latency/bandwidth matter, but block size just doesn't.

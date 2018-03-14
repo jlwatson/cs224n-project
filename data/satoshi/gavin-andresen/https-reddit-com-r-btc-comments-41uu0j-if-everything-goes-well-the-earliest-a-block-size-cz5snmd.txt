@@ -1,0 +1,5 @@
+No, it doesn't reduce transaction size.
+
+Smallest possible transaction is something like 150 bytes (one-input one-output single signature using just OP_CHECKSIG).  Makes that segwit and you add another  20 bytes (30 bytes if you want or need extra crypto security).
+
+Those extra on-the-wire bytes could be optimized away, but BIP144 doesn't do that-- it would make the network message handling code significantly more complicated.

@@ -1,0 +1,3 @@
+The Foundation has in the past-- it helped fund CoinPunk development (which was merged into DarkWallet, if I've got my wallet-developers straight).
+
+But the Foundation doesn't have the money to responsibly fund a couple more developers to work on a privacy-preserving wallet. Great software engineers are expensive....

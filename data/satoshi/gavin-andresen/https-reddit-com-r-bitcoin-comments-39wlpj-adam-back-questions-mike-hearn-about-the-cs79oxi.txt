@@ -1,0 +1,3 @@
+I've largely stayed out of the discussion of Jeff's proposal because I don't want to add to the noise. As I said in IRC, I'd be happy with something like Jeff's proposal if it can get consensus from Adam/Greg/Pieter/Wladimir.
+
+I completely agree with Jeff on:  "Let the free market decide the long term shape of bitcoin’s transaction fee market, level of security and level of decentralization."

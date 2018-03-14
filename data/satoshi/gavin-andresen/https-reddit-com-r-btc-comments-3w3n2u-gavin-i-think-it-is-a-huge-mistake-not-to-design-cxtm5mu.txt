@@ -1,0 +1,5 @@
+The title of the blog post is pretty clear, I think.
+
+And a big part of effective communication is to respect the reader's time and attention. Laundry lists with no explanation just waste the reader's time; the first draft of this post started to explain what fraud proofs are and some of the awesome things you can do with them, but it was way too long and didn't respect the reader's attention.
+
+Or, in other words, it was turning into a wall of tl;dr text that nobody would read.

@@ -1,0 +1,7 @@
+It IS as simple as changing a 1 to a 2 for a lot of software. It is only more complicated for consensus-critical software (mining pools and solo miners or sophisticated merchants that care about low-number-of-confirmation transactions).
+
+It is even simpler for most wallet software, which requires zero changes (they don't care about the block size).
+
+Greg is great at poking holes and finding edge cases, and that's an awesome skill that I highly respect.
+
+But it is terrible for building community or finding common ground for compromise where reasonable people can politely disagree about risks, benefits, and priorities.

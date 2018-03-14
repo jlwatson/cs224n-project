@@ -1,0 +1,3 @@
+Yes, that is what I'm saying.
+
+Elsewhere on twitter, I said that I believe this scenario is unlikely. But it is a much greater risk (with MUCH MUCH greater potential harmful impact) than the risks of the simple fix, which is to just increase the block size limit so miners have the OPTION to include more transactions and relieve congestion.

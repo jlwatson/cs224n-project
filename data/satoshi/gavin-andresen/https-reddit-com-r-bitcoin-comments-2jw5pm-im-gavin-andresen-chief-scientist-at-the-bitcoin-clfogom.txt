@@ -1,0 +1,5 @@
+I haven't looked at Darkwallet's code.
+
+I'm 95% confident that everything would be OK and nicely decentralized even with an infinite maximum block size.
+
+But that's not good enough, so I'm not proposing that.

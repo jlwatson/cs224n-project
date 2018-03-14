@@ -1,0 +1,2 @@
+It is an actual wallet where you control the private keys yourself.  
+[Try it today.] (https://www.bitcoin.com/choose-your-wallet/bitcoin-com-wallet)

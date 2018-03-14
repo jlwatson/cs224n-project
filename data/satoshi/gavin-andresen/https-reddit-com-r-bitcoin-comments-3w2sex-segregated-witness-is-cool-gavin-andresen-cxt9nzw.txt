@@ -1,0 +1,5 @@
+Have you looked at how long it took to finish bikeshedding and then roll out the checklocktimeverify soft fork?
+
+Segregated witness is likely to take at least as long.  And then AFTER the network supports it, wallets need to start producing segregated witness transaction.
+
+My blog post talks about all of that, and that is why SW is NOT a "short term solution" for blocks filling up unless you think "short term" is a year or more from now.

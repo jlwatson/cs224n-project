@@ -1,0 +1,5 @@
+Excellent comment, excellent video.
+
+Since demand for Bitcoin transactions is much more elastic than supply (easy to use another altcoin or fiat, miners don't have many alternative uses for their mining equipment), economics says the miners will pay more of the cost of the block size quota tax.
+
+And we all suffer the deadweight loss....

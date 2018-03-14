@@ -1,0 +1,6 @@
+Yes, approximately nobody will mine on the 1MB chain. Why would you, if your coins would be rejected by all of the big merchants and exchanges?
+
+That doesn't mean all blocks will be bigger than 1MB, it just means that a miner that refuses to build on a bigger-than-1MB-block is being an idiot.
+
+I don't think we have many idiot miners, making a profit at solo mining or running a mining pool is not easy.
+

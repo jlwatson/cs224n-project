@@ -1,0 +1,6 @@
+I have no idea how mobbr calculates contributions (and am not going to take the time to find out).
+
+I hope it is not lines of code, because if it is I suppose I'd owe mobbr.  My all-time stats for lines of code added / removed from Bitcoin Core is:
+
+   62,915++ / 76,186--
+

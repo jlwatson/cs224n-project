@@ -1,0 +1,3 @@
+qa/rpc-tests/smartfees.py breaks up coinbase transactions and generates lots of transactions, it could be adapted.
+
+Some of the other rpc-tests do similar things, there should be plenty of useful code there....

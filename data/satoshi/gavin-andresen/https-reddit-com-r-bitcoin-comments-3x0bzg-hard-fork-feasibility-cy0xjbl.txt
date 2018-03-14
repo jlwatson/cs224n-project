@@ -1,0 +1,1 @@
+It is feasible today, and gets easier as time goes on and we create better test cases. Try running btcd for a while, there are already good, interoperable implementations of the protocol.

@@ -1,0 +1,5 @@
+One could design a hardfork that was incompatible with old transactions.
+
+But that would be a really bad idea, not just because of timelocked transactions, but because you would obsolete hardware wallets and every single transaction-generating piece of software.
+
+I will argue really loudly against any hardfork that made 'non-attack' old transactions invalid.  (I think it would be fine to obsolete old transactions designed only to cause problems or that use edge-case behavior like SIGHASH_SINGLE weirdness).

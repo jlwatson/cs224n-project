@@ -1,0 +1,6 @@
+the effect is very small unless your connection is REALLY crappy. And it is trivial to fix-- just put your block assembly and broadcast code on the other side of the crappy connection.
+
+Or connect to Matt's relay network.
+
+And the effect will go away completely when block announcements are optimized.
+

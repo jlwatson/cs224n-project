@@ -1,0 +1,1 @@
+Headers must have valid proof-of-work, so creating a 'fake' header is just as expensive as creating a real block.

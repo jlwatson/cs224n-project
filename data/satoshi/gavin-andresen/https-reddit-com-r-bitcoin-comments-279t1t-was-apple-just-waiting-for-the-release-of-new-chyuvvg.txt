@@ -1,0 +1,1 @@
+Security is NOT all-or-nothing. Fingerprint plus PIN is much better than  PIN (or pass phrase) alone.

@@ -1,0 +1,10 @@
+Misc bugfixes in rev 130:  
+  
+fix -datadir with relative path  
+autostart is now off by default except on windows  
+fix occasional "vector iterator not dereferencable" assertion when compiled
+with msvc  
+fix readlink compile warning on linux build  
+use sys/param.h and BSD define instead of __BSD__  
+-paytxfee switch, e.g. -paytxfee=0.01
+

@@ -1,0 +1,1 @@
+The other party can steal your funds if you are not there to monitor the channel,  or if the blocks are full and you can't close out your channel in time.

@@ -1,0 +1,3 @@
+There's a chicken-and-egg: we don't need IBLT until the block size is larger than 1MB (Matt's fast block relayer works great with 1MB or smaller blocks).
+
+I haven't done the math yet, but we probably don't absolutely need IBLTs until we get 40MB blocks...

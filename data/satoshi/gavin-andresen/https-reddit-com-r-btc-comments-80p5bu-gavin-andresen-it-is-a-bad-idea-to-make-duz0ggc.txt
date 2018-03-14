@@ -1,0 +1,3 @@
+A constant-time bubble sort might be better for security-critical code (if a small number of things are being sorted).
+
+But I was thinking of constant-time algorithms when I wrote "usually" -- sometimes a more complex algorithm is the right choice, even if it means more likelihood of bugs or more work to review.

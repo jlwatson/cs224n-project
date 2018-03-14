@@ -1,0 +1,15 @@
+People keep on saying that, but it is simply not true.
+
+It is O(m*n) for the entire network, where m is the number of nodes and n is the number of transactions.
+
+It is O(n) for each of the m nodes in the network.
+
+And that is as optimal as possible, BY DEFINITION, for "full nodes" (because "full node" means fully-validating, trusting absolutely nobody else to validate transactions for you).
+
+All of the "bigger blocks mean more centralization" are worried about 'm' getting smaller. That's a fine thing to worry about, but, in my opinion, should not be the #1 priority right now.
+
+And if it really was the #1 priority and a problem that needed fixing right away, lowering the block size would NOT be the right way to solve it.
+
+All of the hair-on-fire OMG CENTRALIZATION!!! drives me nuts. Yes, bigger blocks may lower 'm'.  But even if bigger blocks made 'm' 50% smaller (very unlikely, in my opinion), that would have a tiny effect on security or centralization.
+
+If there is a good argument for how it would have a MAJOR effect on either security or centralization I haven't seen it.

@@ -1,0 +1,5 @@
+So.... what do you mean by "core dev" ?  Anybody who has ever contributed a patch to any bitcoin-related project?  Anybody who has ever contributed a patch to the reference implementation?
+
+When I say 'core dev' (and I'm trying not to say it, but still slip sometimes) I mean one of the five people who are able to pull code into the reference implementation github repository.
+
+RE: removing developers: pull requests are judged on the quality of the code. We don't care if the person submitting the code is a saint or a sinner (although playing nice makes it more likely you'll get other people to help test and review your pull requests, which is a big part of getting code accepted).

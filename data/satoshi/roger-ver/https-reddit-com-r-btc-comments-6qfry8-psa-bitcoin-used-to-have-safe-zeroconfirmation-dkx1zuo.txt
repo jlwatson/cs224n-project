@@ -1,0 +1,1 @@
+Unconfirmed transaction are not as safe as confirmed ones,  but previously they were safe enough for just about everything.  I think Jeff and I agree.

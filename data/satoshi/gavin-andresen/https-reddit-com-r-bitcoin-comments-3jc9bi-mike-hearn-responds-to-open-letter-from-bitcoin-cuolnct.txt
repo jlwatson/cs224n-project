@@ -1,0 +1,5 @@
+If by "desired levels of usage" you mean "infinite usage", then okey dokey, there is some level of transaction volume that even Google and it's datacenters would not be able to handle.
+
+But if you mean "capable of handling the current level of worldwide electronic payment volume" then I must strongly disagree. We certainly CAN scale up that far and remain at least as decentralized as we are today.
+
+If you don't think it can be done, again, okey dokey. I'd just ask: do you always assume problems are impossible if you, personally, can't figure out how to solve them?

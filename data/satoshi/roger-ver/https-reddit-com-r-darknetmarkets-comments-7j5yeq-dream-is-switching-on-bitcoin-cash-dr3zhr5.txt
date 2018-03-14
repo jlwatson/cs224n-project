@@ -1,0 +1,1 @@
+Monero is much harder for developers to work with.

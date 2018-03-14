@@ -1,0 +1,7 @@
+I disagree that we'll learn nothing: we'll be able to figure out what policies miners are using for transaction selection and maximum block size.
+
+We'll see how many miners run with the default 750K "soft" block size, how many are willing to produce 1MB blocks, how many produce very small blocks no matter how many transactions are waiting.
+
+We'll also see how prepared wallets are, and how much people complain if their transactions take a long time to confirm.
+
+I'm not actively promoting this experiment (I'm tempted to tweet about it, but I won't), but I will certainly be looking at what happens, and I hope you do, too.

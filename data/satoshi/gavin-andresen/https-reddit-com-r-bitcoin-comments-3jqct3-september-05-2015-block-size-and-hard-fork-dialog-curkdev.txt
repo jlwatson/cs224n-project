@@ -1,0 +1,7 @@
+SWAG ? Silly Worthless Average Guess ?
+
+8MB is no problem for anybody running a node in a data center-- e.g. ChunkHost will rent you a 2GB RAM  / 1 CPU cores / 6TB Transfer/month for just $9 per month / 30GB SSD storage (you'll have to run with a pruned chain). 
+
+Note: if you're operating a node that stores or handles other people's bitcoins you should NOT be running a VPS-- you need a secure dedicated server. Any secure dedicated server can easily handle 8MB blocks (and will have hundreds or thousands of gigabytes of disk space, so can easily store the entire chain, too).
+
+If you're operating a node from home, CPU and disk won't be a problem even if you want to store the entire blockchain. Bandwidth might. The easy fix is to limit the number of connections you make (run with -maxconnections=16, for example); there's also work happening to Bitcoin Core to let you limit how much bandwidth is used.

@@ -1,0 +1,9 @@
+I hope Greg continues to make awesome contributions to Bitcoin.
+
+Please stop with the conspiracy-mongering; I think there are really two big areas of disagreement:
+
+1) Whether or not is is OK to "design ahead" (I think it is important to plan for success if setting artificial limits; see http://gavinandresen.ninja/designing-for-success ).
+
+2) Whether the short-term benefits of more on-chain transactions outweigh the risks of either short-term node centralization or possible long-term mining centralization.  I think the benefits CLEARLY outweigh the risks, at least at the maximum block sizes being proposed -- mostly because I can clearly see how those risks will be minimized with software improvements and technological growth.
+
+Reasonable people can disagree, no foul motives needed.

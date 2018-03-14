@@ -1,0 +1,4 @@
+it might be time to fork into two projects: one that targets the needs of companies, and another that targets geeky I-wanna-run-a-full-node users.
+
+Their needs are different (eg companies will want easy deployment and management of multiple nodes, integration with enterprise databases and monitoring systems, etc. Users want friendly ui's and for it to run on their six-year-old 32-bit laptop).
+

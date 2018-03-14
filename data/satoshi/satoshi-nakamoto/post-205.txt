@@ -1,0 +1,3 @@
+SVN rev 128: disable SSE2 on 32-bit. This may only disable it for MSVC and
+GCC.  Other compilers might have different 64-bit defines.
+

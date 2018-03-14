@@ -1,0 +1,9 @@
+Uhh, this isn't correct:
+
+"While Segwit is complex and introduces many changes, it is still about the same number of lines of code as the Bitcoin Classic implementation of the 2 Mb hard fork because that implementation still needs additional changes to mitigate the problems with quadratic hashing."
+
+Segwit was a little more than 2,000 lines of last I checked.
+
+BIP109 is significantly simpler; most of it's lines-of-code count is for the pseudo-versionbits implementation (and tests) for a smooth upgrade.
+
+If you are not mining and you are not accepting bitcoin payments of more than a couple thousand dollars every ten minutes, then your BIP109 implementation can quite literally be just changing MAX_BLOCK_SIZE from 1,000,000 to 2,000,000.

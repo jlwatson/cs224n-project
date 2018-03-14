@@ -1,0 +1,10 @@
+Yes, multiple layer2s.
+
+But also multiple layer1s.  Why pick segwit as "The One True Short-Term Answer" ?  Why not segwit AND a hard fork ?  A hard fork is needed sooner or later.
+
+And multiple development teams with different experiences, priorities, etc.  Groupthink is a real thing.
+
+RE: getting back to IBLT/weak-block/gossip network stuff:  I have a feeling that's not going to happen, because there needs to be a conversation about how to avoid this unpleasantness when we get to the "lets do a flexcap (or something) plus cleanup hard fork" item on the longer-term roadmap.
+
+That conversation will be easier if we can avoid inflammatory rhetoric like "packing everybody in a clown car."
+

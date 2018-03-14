@@ -1,0 +1,3 @@
+But thirty seconds to propagate across the network *is* an 'actual constraint.'
+
+Arguably better than the limits chosen for BIP101-- the 30-second constraint will automatically grow as CPUs or networks or software gets better, no need to predict the future.

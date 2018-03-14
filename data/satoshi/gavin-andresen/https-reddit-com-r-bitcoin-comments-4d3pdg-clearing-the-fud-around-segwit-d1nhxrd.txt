@@ -1,0 +1,1 @@
+Witness data is transmitted with transactions, in upgraded 'tx' or 'block' messages.  See BIP 144 https://github.com/bitcoin/bips/blob/master/bip-0144.mediawiki

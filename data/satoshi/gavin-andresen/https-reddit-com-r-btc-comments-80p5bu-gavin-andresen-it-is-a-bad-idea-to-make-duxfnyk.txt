@@ -1,0 +1,3 @@
+I think it should be a new transaction version, not an op code. And I think using satoshis to represent tokens is a hack.
+
+Maybe the benefits of rolling it out quickly outweigh the costs; I suppose that depends on whether you think projects will jump on the chance to use the BCH chain instead of just going with ethereum (which is more flexible and is already available). Reasonable people can disagree about that.

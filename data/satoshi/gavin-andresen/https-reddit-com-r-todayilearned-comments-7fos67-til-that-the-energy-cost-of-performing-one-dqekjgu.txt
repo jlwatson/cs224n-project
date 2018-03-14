@@ -1,0 +1,6 @@
+You are making the classic error economists call ‘confusing stock with flow’.
+
+Bitcoin miners are competing to create the initial stock of 21million coins, using lots of electricity. Just like gold miners spend lots of energy digging and refining gold.
+
+But once created, transaction costs (the ‘flow’) could be tiny— the same fraction of a bitcoin (or gold coin) can be traded over and over again without paying the initial cost that went in to its creation.
+

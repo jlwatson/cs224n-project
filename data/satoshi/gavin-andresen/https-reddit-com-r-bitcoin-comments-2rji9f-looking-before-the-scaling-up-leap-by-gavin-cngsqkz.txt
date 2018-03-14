@@ -1,0 +1,3 @@
+If you create a version=3 block that doesn't follow the version=3 rules it is simply rejected by the rest of the network. No need for trust.
+
+And the version number is part of the block header that is hashed to create the proof of work, so it can't be changed without redoing proof of work...

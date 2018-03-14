@@ -1,0 +1,5 @@
+You mean me?
+
+I may have got it wrong, I haven't fully reviewed sipa's code yet (I did correct an error in the blog post today after looking at the code: I'd mis-remembered, I thought a 1-byte scriptsig was the minimum, but empty scriptsigs are perfectly legal and would be used to redeem segwitness outputs).
+
+I think the 'up to 4x' that the Blockstream folks like to quote are assuming all signature-heavy multisig redemptions... But I should carve out some time and read the code....

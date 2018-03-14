@@ -1,0 +1,2 @@
+Jeff Garzik has a nice post about that:
+  http://garzikrants.blogspot.com/2014/02/how-to-support-bitcoin-core-development.html

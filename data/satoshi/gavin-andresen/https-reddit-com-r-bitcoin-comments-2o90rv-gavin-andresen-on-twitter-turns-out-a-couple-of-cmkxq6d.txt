@@ -1,0 +1,5 @@
+It turns out the most profitable strategy for miners is to solo mine or mine in a pool with a trusted group of people some of the time, but the rest of the time participate anonymously in a big, anybody-is-allowed-to-join pool -- but withhold "winning shares" (when you get lucky and solve a block for the pool).
+
+The reason that is the most profitable strategy is because you still get paid for all the non-winning shares, and since the big mining pool solves fewer blocks, difficulty does not rise as much so you make more money with your solo mining (or trusted pool), too.
+
+Ittay argues this will be positive for Bitcoin-- it will make pools get smaller as big solo miners decide they will mine on their own instead of joining a pool that might be suffering from a withholding attack.

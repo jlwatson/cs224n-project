@@ -1,0 +1,5 @@
+Excellent point!
+
+... although I suspect the heaviest transaction creators are also die-hard Bitcoin supporters who won't be the first to leave, so that "reverse network effect" might not decrease transaction volume as much as we might think.
+
+ALL of this is speculation, nobody really knows what will happen. That's why I agree with something Jeff Garzik has been saying for a while:  running up against the 1MB block size limit is a major change to Bitcoin economics.

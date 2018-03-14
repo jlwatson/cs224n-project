@@ -1,0 +1,5 @@
+Yes, we should do both. Segregated witness won't magically make the very-short-term new block propagation concerns of miners go away. 
+
+There also still needs to be a block size hard fork to fix the very broken signature-counting limits we have right now (see the recent "max sigop" attacks).
+
+

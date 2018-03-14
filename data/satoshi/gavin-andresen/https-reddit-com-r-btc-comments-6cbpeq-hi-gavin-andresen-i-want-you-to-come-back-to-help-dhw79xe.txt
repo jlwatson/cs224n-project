@@ -1,0 +1,5 @@
+wtf-- it's over https, which is a secure channel.
+
+And it is open source running on AppEngine. I'd be happy to give you the "download code" Google Cloud permission if you don't trust me (I think that works with Go code, I'll have to try it and see).
+
+Negative people like you are destroying Bitcoin.

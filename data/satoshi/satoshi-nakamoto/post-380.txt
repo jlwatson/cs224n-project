@@ -1,0 +1,5 @@
+(reverted to rc2)  
+  
+Links removed, 0.3 is now released, so go to http://www.bitcoin.org to
+download it.  
+

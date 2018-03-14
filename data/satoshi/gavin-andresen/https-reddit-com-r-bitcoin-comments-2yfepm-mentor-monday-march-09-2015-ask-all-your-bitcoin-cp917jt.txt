@@ -1,0 +1,3 @@
+Mining with a 'compromised' hash function is not a problem, for all reasonable definitions of 'compromised'-- so there would be no reason to change.
+
+Bitcoin uses double-SHA256 for other things, and we would probably change those to use another hash function. I say 'probably' because if we replaced all SHA256 in Bitcoin with the old, weak, compromised MD5 algorithm, Bitcoin would still be secure today against all known MD5 attacks (because Bitcoin tends to hash everything twice).

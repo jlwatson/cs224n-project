@@ -1,0 +1,6 @@
+What do you mean by "smaller miner" ?  Less hashpower?
+
+Again, YES, CONNECTIVITY MATTERS. What does that have to do with "smaller miner" ???
+
+Unless you're making the "big miners have economies of scale that let them afford better network connections" argument.  In which case I'll point out the economies of scale for other parts of the mining operation (e.g. buying electricity at bulk rates) VASTLY overwhelm any possible network connection costs.  Yes, even through the Chinese firewall...
+

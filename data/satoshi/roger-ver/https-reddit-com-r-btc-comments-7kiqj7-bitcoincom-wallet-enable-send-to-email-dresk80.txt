@@ -1,0 +1,1 @@
+I love the idea. Any idea on how this could work in a "safe enough" manner?

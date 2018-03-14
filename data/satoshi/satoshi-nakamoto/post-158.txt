@@ -1,0 +1,11 @@
+
+
+Quote from: Vasiliev on August 16, 2010, 03:17:07 AM
+
+try -march=amdfam10  
+
+That works.  
+  
+That's strange... are we sure that's the same thing? tcatm, try amdfam10 and
+make sure you get the same speed measurement.
+

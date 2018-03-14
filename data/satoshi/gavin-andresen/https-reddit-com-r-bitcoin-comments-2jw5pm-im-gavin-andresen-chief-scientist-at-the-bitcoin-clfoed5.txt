@@ -1,0 +1,1 @@
+RE: the protocol itself: maybe. I'm not a privacy expert, so I'll rely on people who are to put forward proposals to improve privacy. Right now, there are several not-yet-implemented-ideas to improve privacy that don't require any protocol changes.

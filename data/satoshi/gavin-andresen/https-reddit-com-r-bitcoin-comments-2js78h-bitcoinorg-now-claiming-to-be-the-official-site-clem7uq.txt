@@ -1,0 +1,1 @@
+If that site description comes from bitcoin.org (I have no idea where site descriptions come from), then submit a pull request to change it: https://github.com/bitcoin/bitcoin.org

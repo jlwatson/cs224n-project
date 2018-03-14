@@ -1,0 +1,3 @@
+Nobody will sync from the genesis block; you'll sync 80-byte block headers, get the UTXO set as of some recent block from one or more trusted sources, check the UTXO hash against some other trusted source or sources (maybe find it in a block in the blockchain), and start from there.
+
+Exactly how to do that all that has been argued about for a long time; when 'bootstrap.dat' gets too big to download in a reasonable amount of time maybe it will even get implemented.....

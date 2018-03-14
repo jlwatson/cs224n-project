@@ -1,0 +1,17 @@
+If you want to play that game, ETH price has gone x13.5 since I said that.
+
+"Bitcoin becomes the Friendster of cryptocurrencies" is the risk.
+
+Here's how I predict the heads-in-the-sand narrative will go over the next 5-10 years if Bitcoin continues to fail to scale:
+
+"Yes, BTC is losing market share, but that's OK because it is still bigger than everybody else."
+
+"Yes, BTC is no longer #1 in market cap, but that's OK because its price is highest."
+
+"Yes, BTC no longer has highest price, but that's OK because its price is higher than it has ever been."
+
+"Yes, BTC price is falling but that's OK because it has the most experienced developers who have been keeping the network secure the longest and they're working on Really Cool Stuff."
+
+"OK, BTC is in a bit of a slump, but at least it is not the PayPal of cryptocurrency!"
+
+Note that I said "If Bitcoin continues to fail to scale" and also note that I am not expressing an opinion on HOW it should scale (segwit, blocksize increase, or extension blocks).

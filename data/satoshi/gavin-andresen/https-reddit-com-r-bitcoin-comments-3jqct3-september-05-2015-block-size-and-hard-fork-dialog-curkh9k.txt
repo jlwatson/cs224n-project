@@ -1,0 +1,1 @@
+... I should have mentioned: mining pool operators fit into the "handles other people's money" category, so they should be on a secure dedicated server. If you've invested a lot of money in mining hardware and are solo mining, you should also invest in a secure dedicated server.

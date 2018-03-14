@@ -1,0 +1,8 @@
+https://github.com/bitcoin/bitcoin/tree/master/src/test/data  : is implementation-independent test data
+
+Also see "comptool" and "mininode" in https://github.com/bitcoin/bitcoin/tree/master/qa/rpc-tests
+
+...which can be used to test different implementations.
+
+Or the grand-daddy of cross-implementation-consensus testing, Matt Corallo's bitcoinj/Java-based tester (I don't know the latest version so I'm not going to give a URL).
+

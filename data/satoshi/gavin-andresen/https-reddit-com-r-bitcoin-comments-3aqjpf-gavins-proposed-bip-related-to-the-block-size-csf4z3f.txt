@@ -1,0 +1,8 @@
+I did reply to Pieter:
+
+"But doesn't Matt's fast relay network (and the work I believe we're both planning on doing in the near future to further optimize block propagation) make both of our simulations irrelevant in the long-run?
+
+Or, even simpler, why couldn't the little miners just run their
+block-assembling-and-announcing code on the other high-bandwidth-side of the bandwidth bottleneck?"
+
+... but I guess he got busy with other things because he didn't answer.

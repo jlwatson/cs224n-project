@@ -1,0 +1,3 @@
+2MB was an extreme compromise to try to avoid  sporadic congestion and unreliability.
+
+That ship has sailed, the damage has been done. Time for Bitcoin Unlimited or something else that solves the issue permanently.

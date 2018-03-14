@@ -1,0 +1,5 @@
+Suggestion:
+
+Express fees in dollars per average (size) transaction.
+
+89 satoshis per byte doesn't compute for me, and I know what satoshis and bytes are.

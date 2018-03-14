@@ -1,0 +1,6 @@
+Laszlo figured out that enabling some more optimisation increased performance
+about 20%, so 0.3 hashes 20% faster than 0.2.0, but I assume he used that in
+his own build.  
+  
+30khash increase to what total rate? (to figure the % increase)
+

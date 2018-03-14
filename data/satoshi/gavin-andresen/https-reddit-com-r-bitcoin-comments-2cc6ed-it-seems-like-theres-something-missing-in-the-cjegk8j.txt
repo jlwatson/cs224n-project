@@ -1,0 +1,7 @@
+When Bitcoin was a baby, it was important for everybody to run a node, so people behind firewalls could easily find somebody to connect with.
+
+That is much less important today, because most people have decided the convenience of a wallet like Electrum or blockchain or coinbase is worth the decrease in security/privacy.
+
+Miners and merchants and wallet services and a small fraction of super-security-conscious people are more than enough for a robust, stable network; I don't think we need more incentives to run full nodes.
+
+Well-tested patches that make it less onerous to run a full node are still welcome, of course!

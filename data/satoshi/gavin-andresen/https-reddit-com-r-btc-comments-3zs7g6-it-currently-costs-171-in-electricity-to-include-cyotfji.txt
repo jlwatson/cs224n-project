@@ -1,0 +1,10 @@
+No no no no no....  (you just poked one of my pet peeves)
+
+Economists call this "confusing stock and a flow".
+
+It IS confusing, because the mining reward consists of new-bitcoin-creation (25 btc: the stock being created) plus fees (maybe 0.1 btc-- a flow, nothing is created, fees flow to miners and then get spent to maybe be used as fees, again and again).
+
+It's just wrong to take the 25 bitcoin stock that is being created and divide by transactions-- which are a flow (there's no limit to the number of transactions or the total fees that will be paid over time). It makes no sense as a measurement.
+
+A physicist would call it an error in dimensional analysis...
+

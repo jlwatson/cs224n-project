@@ -1,0 +1,3 @@
+Yes, and coming up with a 'cost metric' was the plan after the Montreal meeting.
+
+Are you technical? Do you have some time? If you do, I could use some help doing some benchmarking and research and Blockchain analysis related to coming up with a good validation cost metric....

@@ -1,0 +1,5 @@
+what advantage? If you create a slow-to-validate block all you accomplish is increasing your orphan rate.
+
+If you are thinking of any sort of selfish mining strategy, then the best thing to do is create fast-to-validate blocks but don't announce them right away.
+
+I think Peter Todd still claims some advantage if you can manage to connect to some particular percentage of hash rate, but simulations (mine or Pieter Wuille's) show that isn't true. Latency and bandwidth matter (if you are mining you definitely want a low-latency high-bandwidth connection), but they matter at any block size.

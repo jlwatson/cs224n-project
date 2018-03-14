@@ -1,0 +1,8 @@
+The Tor project has stats. E.g. see:
+  https://metrics.torproject.org/torperf.html?graph=torperf&start=2014-11-12&end=2015-02-10&source=all&filesize=5mb
+
+... which implies it would take anywhere from 40 seconds to two minutes to download 20MB.
+
+So WITHOUT ANY OPTIMIZATIONS AT ALL, that is too slow to mine-- you'll have a high orphan rate if it takes 1 or 2 minutes for you to find out about a new 20MB block. Although if the entire network was forced to work through Tor that wouldn't matter, since everybody would have higher orphan rates.
+
+Once block propagation is optimized not to retransmit all transaction data, the orphan problem goes away, and yes, should be perfectly reasonable to run a full node in the Tor network.

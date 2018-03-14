@@ -1,0 +1,1 @@
+RPC is exactly the same as Core (v0.11).

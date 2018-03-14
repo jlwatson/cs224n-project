@@ -1,0 +1,1 @@
+My proposed solution isn't vulnerable to manipulation by miners, and is designed specifically so that anybody with a reasonably good computer and internet connection can support the full network transaction volume.

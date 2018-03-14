@@ -1,0 +1,12 @@
+As people have said in the comments, rolling out a change to the maximum block size takes months.
+
+We're already hitting the limit sometimes when miners get unlucky and don't find many blocks; that will just get increasingly worse, and fees will rise.
+
+That's not a disaster-- Bitcoin will survive. But it means it is less expensive for an attacker to drive up fees unpredictably (wait until the memory pool is backed up because miners have been unlucky, then send a few megabytes of higher-than-average-fee transactions).
+
+It means fees are higher for users than they should be, but miners will get less overall revenue from fees (because there are fewer transactions than there should be), so the network will be a little less secure. In economic terms, artificially limiting the block size results in deadweight losses for both miners and users.
+
+It means lower-value transactions are not economical to do on the blockchain, so they're driven to more centralized off-chain solutions (like trusted wallets or, eventually, Lightning hubs).
+
+All of the above make me think that scaling up by increasing the maximum block size is urgent, and why it has been at the top of my priority list since January.
+

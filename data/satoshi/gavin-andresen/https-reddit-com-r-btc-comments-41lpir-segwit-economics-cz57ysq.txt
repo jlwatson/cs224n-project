@@ -1,0 +1,5 @@
+I will 'scream bloody murder' if anybody ever seriously suggests obsoleting old coins.
+
+There are easy hard forks (like raising the block limit) and then there are really hard hard forks (like changing the POW or deciding that every transaction shall be coin-joined-by-the-miner ring-signature-based).
+
+Really hard hard forks should never happen, they would be much too disruptive. Any benefits would clearly be outweighed by the costs/risks.

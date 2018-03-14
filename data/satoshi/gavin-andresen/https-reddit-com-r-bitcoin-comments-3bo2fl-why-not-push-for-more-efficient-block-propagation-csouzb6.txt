@@ -1,0 +1,6 @@
+If you assume that larger pools have better bandwidth and connectivity, then yes, eventually, in several years, when the block subsidy is smaller and fees are important, there will be an incentive to join a pool capable of producing bigger blocks.
+
+However, "bigger pools can afford better connectivity/bandwidth" is just an economies-of-scale argument. With the block sizes we're talking about the cost of sufficient bandwidth is small enough even a small pool should be able to afford it.
+
+There are much larger economies-of-scale factors that might tend to make bigger pools more attractive; a big pool might be able to give better customer support or be able to afford a fancier website or have enough staff to keep 24/7 uptime or a gazillion other things that will cost a LOT more than the $50/month hosting costs to keep two or three full nodes up and running...
+

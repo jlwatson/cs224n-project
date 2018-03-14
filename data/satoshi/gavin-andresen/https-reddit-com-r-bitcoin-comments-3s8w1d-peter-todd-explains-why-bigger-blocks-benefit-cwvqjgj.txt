@@ -1,0 +1,7 @@
+Sigh.
+
+Do you agree that there would be ~no problem if everybody outside the GFW started doing what the miners inside the GFW are doing (SPV mining on top of block headers)?
+
+If you agree with that, then the problem is SPV mining, NOT the size of blocks.
+
+And the solution is to get blocks propagating as quickly as block headers (which Matt's relay network accomplishes, and which can be improved with even smarter block propagation techniques).

@@ -1,0 +1,5 @@
+It is easy to create a 1.x mb transaction that doesn't trigger the SIGHASH_ALL quadratic hashing problem.
+
+Either give it a zillion outputs, and/or sign most of the inputs with another of the SIGHASH_ modes.
+
+Crowdsourcing a > 1mb tx to motivate miners would be a great project (spreading out the reward to several blocks is a great idea).

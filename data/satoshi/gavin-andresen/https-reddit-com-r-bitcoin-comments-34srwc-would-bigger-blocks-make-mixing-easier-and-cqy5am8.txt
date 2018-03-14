@@ -1,0 +1,3 @@
+Bigger blocks will mean it is less expensive to mix, because average transaction fee will be lower. So you'll spend less to mix, or mix more thoroughly for the same budget.
+
+Total transaction fees will be higher, though (just like Toyota making more profits than Lamborghini, even though average price of a Lamborghini is higher).

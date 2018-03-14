@@ -1,0 +1,1 @@
+Bitcoind supports batch rpc, so you could also bundle up all the getrawtransation calls into one round-trip (but parsing the raw to data yourself will be faster).

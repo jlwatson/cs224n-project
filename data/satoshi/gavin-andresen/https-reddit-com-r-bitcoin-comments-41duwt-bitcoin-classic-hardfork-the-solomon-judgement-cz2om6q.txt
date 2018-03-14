@@ -1,0 +1,3 @@
+Can you be more specific about how a hard fork supported by at least 75% of hashpower, most users, and all of the major exchanges will 'wreck Bitcoin?'
+
+I'll be writing a blog post in the next day or so about the incentives for consensus, and want to make sure I address whatever failure scenario is in your hear.

@@ -1,0 +1,7 @@
+Here is what I said to somebody else in a private message:
+
+What I want to do for Classic: get development started on the right foot. Creating crappy or insecure releases or a crappy development culture will kill it.
+
+I don't want to end up lead maintainer.
+
+And... that's about it.  Start it out right, hope it gets humming, then get back to researching gossip network protocols (or whatever).

@@ -1,0 +1,2 @@
+And block propagation will get optimized so new blocks are just a nonce, coinbase txn and forward-error-coded list of transactions that is very small.
+

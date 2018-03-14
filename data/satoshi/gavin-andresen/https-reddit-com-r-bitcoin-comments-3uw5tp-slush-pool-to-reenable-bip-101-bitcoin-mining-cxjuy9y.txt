@@ -1,0 +1,14 @@
+"you can't start building a block until you receive..."
+
+There is plenty of time to receive the blocks that miners are working on, while they are working on them. The current p2p protocol doesn't do that, but a future protocol could.
+
+... and now you'll say "but attacker doesn't have to!"
+
+... and I'll say "attacker must have high hash rate AND control new block propagation (e.g. if lots of hashpower SPV mines on top of the block header assuming the block is valid until they can download/validate then attack goes away) to gain advantage"
+
+... and you'll bring up some other objection I've addressed before.
+
+----
+
+PS: It would be very helpful if you would take the time to write a blog post laying out exactly what you are arguing, and what you propose should be done to support more transactions on the network.
+

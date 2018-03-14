@@ -1,0 +1,3 @@
+If there is a better way (where 'better' is some impossible-to-pin-down combination of efficiency, convenience, security, etc-- everything that goes into a user's utility function) then transaction traffic will migrate naturally.
+
+Developers should try hard to avoid top-down decision making on what tradeoffs users make.

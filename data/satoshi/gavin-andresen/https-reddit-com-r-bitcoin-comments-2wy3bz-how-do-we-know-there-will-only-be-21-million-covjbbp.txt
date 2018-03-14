@@ -1,0 +1,5 @@
+"They've convinced the developers and the owners of the largest exchanges to go along with this."
+
+I can't speak for the big exchanges, but the current developers would be absolutely, positively against this.
+
+See https://en.bitcoin.it/wiki/Prohibited_changes for some other things we would be absolutely, positively, 100% against changing.

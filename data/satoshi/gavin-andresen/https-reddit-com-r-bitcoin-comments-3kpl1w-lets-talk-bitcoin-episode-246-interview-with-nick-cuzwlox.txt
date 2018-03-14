@@ -1,0 +1,1 @@
+so if I write code that makes 8MB blocks propagate as fast as 0.2MB blocks you'll support increasing the cap?

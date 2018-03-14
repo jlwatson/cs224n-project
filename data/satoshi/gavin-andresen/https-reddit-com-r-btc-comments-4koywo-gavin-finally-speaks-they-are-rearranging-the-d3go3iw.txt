@@ -1,0 +1,7 @@
+I was thinking of using the 'fiddling while Rome burns' metaphor instead.
+
+There isn't a really good 'do something massively complicated and less likely to work instead of something simple that will almost certainly work to fix the big problem' metaphor.
+
+Lots of changes is bad; I'm very proud that if you look at my github stats, I've removed more code from Core than I've added. Complexity is the enemy of security, and Core continues to be 'developers developing for developers' -- working on nifty new stuff that nobody is asking for.
+
+And it is really sad that me saying that is taken as a personal attack against the hard-working developers. I think they are working on the wrong things, and the fact they react to that opinion by attacking me is exactly why I , and many others, don't want to work with them any more.

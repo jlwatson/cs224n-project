@@ -1,0 +1,5 @@
+No, by itself segwit does not 'optimize' transactions; it just hides part of the transaction data from old, un-upgraded full nodes so it doesn't count towards the 1mb limit.
+
+That hiding costs ... uhhh... about twenty extra bytes per transaction sent over the network versus the smallest possible old-style transaction (but about the same number of over-the-wire bytes as the Bitcoin-address transactions wallets create today).
+
+There are transaction size optimizations being talked about, but they aren't part of segwit (or, at least, aren't being proposed as part of segwit yet-- they would add more code and need a LOT of review and testing).

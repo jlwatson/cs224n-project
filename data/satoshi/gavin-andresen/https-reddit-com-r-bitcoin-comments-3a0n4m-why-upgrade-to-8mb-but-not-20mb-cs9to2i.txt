@@ -1,0 +1,9 @@
+If the advantages of mining in China (cheap electricity, labor, facilities costs) outweigh the disadvantages (slower block propagation that cannot be solved by writing code or moving around where they do things) then mining in China will happen.
+
+If not, then mining will not happen in China.
+
+Or, to put it another way: connectivity is one of the (many) variables that go into the profitability-of-mining equation. It is great that equation has lots of variables, because that means there are likely to be multiple places in the world where mining is equally profitable (maybe electricity is a little more expensive but internet connectivity is better in one place, and vice-versa in another place).
+
+I have described two different ways for miners with a 5Mbps connection and 0.1% packet loss to overcome that disadvantage (connect to Matt's relay network and have 1/100th the bandwith requirement or run full nodes on both sides of the bad connection and pre-send the blocks being worked on or otherwise arrange for them to know what blocks will be worked on).
+
+You seem lack imagination when it comes to the clever ways people find to work around real-world limitations like "I have bad Internet connectivity to the rest of the world."

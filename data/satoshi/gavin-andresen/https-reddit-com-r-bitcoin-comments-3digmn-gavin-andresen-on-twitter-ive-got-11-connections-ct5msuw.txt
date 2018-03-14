@@ -1,0 +1,3 @@
+Up to twelve now...  (it's been running since yesterday, but it's on an IP address that is new to the network so I expect it will take a while to get close to the bitnodes -maxconnections setting).
+
+And yes, I was excited: Elevenses!

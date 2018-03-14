@@ -1,0 +1,5 @@
+What?
+
+This IS the consensus part of Bitcoin...
+
+... but if consensus isn't possible, then it will come down to what version of code people (merchants and exchanges and miners and anybody running a full node) choose to run.

@@ -1,0 +1,4 @@
+Don't be ridiculous, what was done initially CERTAINLY matters. The 21million coin limit is the most obvious example of an arbitrary decision that must not be changed.
+
+Scaling up to handle very large transaction volumes is a promise that needs to be kept, and there is no reason (beside what I think is irrational FUD) not to.
+

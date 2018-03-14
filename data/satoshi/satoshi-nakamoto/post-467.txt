@@ -1,0 +1,4 @@
+If you GPL stuff, I have to avoid using it. Nothing against GPL per-se, but
+Bitcoin is an MIT license project. Anything GPL please clearly mark it as
+such.
+

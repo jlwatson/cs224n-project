@@ -1,0 +1,9 @@
+Adam's 'extension block' proposal is a non-starter because it would require EVERY SINGLE wallet implementation to go through a very complicated upgrade.
+
+ANY proposal that requires all of the various wallets to do anything that requires significant coding or, worse, significant changes to the way coins must be handled that will almost certainly be exposed to users-- like transferring them between the bitcoin blockchain and some 'extension block') isn't going to fly.
+
+As for his other suggestion on a 100% consensus hard-fork: that would be lovely. But all of my attempts at compromise have run into "this isn't a problem that needs solving now, it will be controversial, lets just wait."
+
+I think "lets just wait until it is a problem" is irresponsible. Consensus-critical code needs time for testing, review, rollout, etc.
+
+So I'm starting the process; we'll have 9 months for the testing/review/rollout process, and maybe we'll even reach 95% consensus before the earliest possible date I'm coding into the fork (March 1, 2016).

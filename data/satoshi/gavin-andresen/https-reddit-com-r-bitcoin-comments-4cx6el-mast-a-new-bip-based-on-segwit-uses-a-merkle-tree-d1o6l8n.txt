@@ -1,0 +1,6 @@
+What kind of huge programs?
+
+3-of-2000 multisig is given as an example, but that isn't a very practical example. 1,001-of-2000 would be interesting, but is not possible with MAST.
+
+MAST is technically nifty, but should be part of a larger 'Script 2.0' redesign unless there is a really compelling use case.
+

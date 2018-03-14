@@ -1,0 +1,5 @@
+Iota inspired the tweet.
+
+But I do think segwit and lightning (and replace by fee and child-pays-for-parent) are unnecessarily complex, either for developers who have to implement or understand them or for ordinary people who are expected to use them.
+
+That doesn’t mean they’ll fail; the world is full of extremely successful, stupidly complex stuff, like, oh, I dunno, the US presidential election system.

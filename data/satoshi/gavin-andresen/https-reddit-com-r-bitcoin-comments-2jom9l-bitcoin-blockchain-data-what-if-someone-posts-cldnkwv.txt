@@ -1,0 +1,5 @@
+Someone already did. Nothing much happened.
+
+You might as well ask: what if I set my web browser's user agent to some illegal information and then visit a bunch of websites? I can bring the whole internet down because server logs all over the world will be illegal!!!!!! 
+
+Yeah, no, doesn't work that way. The legal system learned 'don't feed the trolls' long ago.

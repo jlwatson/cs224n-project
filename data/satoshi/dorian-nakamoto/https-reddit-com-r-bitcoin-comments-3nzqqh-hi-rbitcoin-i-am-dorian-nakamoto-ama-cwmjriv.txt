@@ -1,0 +1,94 @@
+Dear etmetm n' others with similar question about the blocksize,  
+
+For thanking you all here, I would like to entertain you thus -
+
+My knowledge of Bitcoin is of infinitesimal so my write here may 
+not apply.  I cannot answer you specifically on how much the max. 
+blocksize (which to me is just a message byte size) should be 
+increased exactly to 1Meg or even if it should be increased at all.
+It all depends on the Customer Premise Equipment (CPE), his 
+network bandwidth he's paying, his carrier's network capacity and
+the totality of the bandwidth being used at any moment the 
+customer needs to transmit/receive.  What I can tell you is:
+
+1.  As a carrier of a network, it is most important to fill the network 
+     bandwidth as much as possible at all times.  It spells revenue.
+
+     After all, as a carrier, it spent millions of $$ to lay the
+     fiber cables (as Sprint did or had spent $$ to leased the cables 
+     from Ma Bell) and paying for them every mo.  On the other 
+     hand ...
+
+2.  From the carrier user's perspective (carrier's customer), he
+     wants to pay the minimum network cost and equipment per his 
+     capacity/requirement.  (See my current carrier switch, from 
+     Charter Spectrum 60Mbps cable to ExtremeDSL's ISDN below)
+
+Those were the lessons I've learned as I worked as a Network Systems
+Design Engineer for an European telecom carrier, attached
+to its sales team.  And, you don't want to over sell the bandwidth 
+too far beyond their average use either (see my carrier swap below 
+as a network user).  The big enterprising customers do not want to 
+pay extra bandwidth (neither am I as a tiny user) and lease/buy 
+high performing equipment in excess (i don't buy iPad but would 
+like 2 buy we2Pad with my GF instead).  On top of that, the 
+potential customer usually is courting another price from another 
+carrier!  This threat also holds true for Bitcoin as well.  There are 
+other players.  Bitcoin must 'sell' much of the bandwidth capacity 
+or capability at lowest price and widest extent possible.  Yet, the 
+quality of safety and reliability must be 2nd to none without the
+centralization.  Centralization is expensive and slow.  Coming back 
+to selling our network service for our carrier sales team, I had to 
+map out their existing 'private' network, protocols, the user's 
+current average bandwidth use for ea. of their branches, including 
+his HQ; and write both the technical and financial proposals.  The 
+tech portion of the proposal included for ea. node (his branch) the 
+bandwidth allocation, appropriate protocol, and network equipment 
+to implement these.
+
+The financial proposal consisted of the cost for these and return on 
+their investment figure based on their current revenue associated 
+with the network, current network cost, and perhaps, their growth 
+potential.   If the customer insists on keeping his current 
+(outdated?) CPE, we needed to note that earlier or convince him to
+lease our more suitable equipment in the financial proposal.
+
+The duration of the contract is usually 3 yrs.  So, Bitcoin core may 
+also need to think about this cycle time of it's own sect.  Phew!
+
+It was my credo to give at least 2 but no more than 3 proposals to 
+beat our competition.
+
+For the Bitcoin core team, the team may need to be aware of the 
+various telecom carriers' capacities and their network extent
+to the targeted customer base.   Not all the locations on this earth
+have advanced fiber network and fast CPEs let alone their fast 
+number crunching servers.  But what about the return on
+the investment (financial and labor of development)?
+Or for the little guys in big financial cities and also where large 
+data centers are located?  Well, the EZest suggestion from me 
+would be to tell the little guys to move out of those areas.  Move 
+far away from Google data centers, Facebook, Microsoft, Amazon, 
+Las Vegas, Chicago (US telecom and transportation hub), Dublin, 
+... Go where the network is available but the capacity is not full.
+
+Now, coming down from the network system level to network
+component level.  I've later worked with a team of network 
+equipment developers to test and measure throughput of 
+voice-data-video routers and switches, including big telephone voice 
+switches to come up with better products.  We've pumped
+overwhelming amount of dummy messages to multiple channels 
+at hi rates to bring down the devices.  We also evaluated our 
+equipment vs. the competitions'.  The characterization of the 
+equipment and the throughput are pretty much equal amongst the 
+makers, including ours.  That makes sense.  The IC components 
+and the CPU chips (hardware) are commodities and that the 
+software though written by the different teams (companies) need 
+to do the same thing to interface with the chips (the primitive software),
+implement the standard protocols, and construct/disassemble the 
+message block with header and trailer.  A rudimentary error checking 
+of the block is performed just B4 sending or upon receiving the block for 
+acceptance/rejection of the message.  A long block message
+received can be broken down to a manageable packet size as well.  
+
+Continues to next thread

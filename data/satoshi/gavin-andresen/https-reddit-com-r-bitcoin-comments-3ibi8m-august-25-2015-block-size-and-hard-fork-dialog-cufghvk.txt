@@ -1,0 +1,3 @@
+Mike Hearn has dictatorial control over one implementation of the Bitcoin consensus protocol.
+
+If you don't like it, use another implementation. I've just started playing with https://github.com/btcsuite/btcd (because I want to run some more large block tests, and they've already implemented most of what I want to do: https://blog.conformal.com/btcsim-simulating-the-rise-of-bitcoin/ ).

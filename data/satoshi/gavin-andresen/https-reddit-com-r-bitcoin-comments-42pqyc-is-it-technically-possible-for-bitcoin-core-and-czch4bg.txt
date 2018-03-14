@@ -1,0 +1,7 @@
+Old clients absolutely will know and care about the more-work chain, and will complain about it until they are upgraded to understand the higher block size limit. Proof-of-work is visible in the block headers, and headers-first downloading of branches of the chain means clients are fully aware of more-work branches before the perform full validation and discover a block is bigger than they think is legal.
+
+Somebody could release a new client that looked for and then purposely ignored the higher-limit branch of the chain... But nobody sane would run it.
+
+The incentives to go with the stronger branch of the fork (where 'stronger' is a complicated combination of hash power and number of businesses and users on that branch) are very, very strong.
+
+To answer the original poster's question: no, there is no reasonable scenario where we end up with two persistent branches of the Bitcoin block chain.

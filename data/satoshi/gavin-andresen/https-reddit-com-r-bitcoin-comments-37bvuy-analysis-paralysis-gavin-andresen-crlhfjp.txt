@@ -1,0 +1,5 @@
+Two points:
+
+1. BIPs are supposed to be descriptive (here is what I did...) not proscriptive (here is what I think everybody should do).
+
+2. Even if I thought a proscriptive BIP was the right thing to do, there is no chance a BIP about this would get consensus, so there is no value in proposing a BIP.

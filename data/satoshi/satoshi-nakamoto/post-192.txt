@@ -1,0 +1,2 @@
+Fixed in SVN rev 130.
+

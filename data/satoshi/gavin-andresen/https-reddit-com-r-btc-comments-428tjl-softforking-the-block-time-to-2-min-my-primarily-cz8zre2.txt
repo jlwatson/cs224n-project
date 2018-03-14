@@ -1,0 +1,5 @@
+There must be an Occam's Razor for software engineering... I guess the closest thing we have is secure coding practice number four:
+
+"Keep it simple. Keep the design as simple and small as possible. Complex designs increase the likelihood that errors will be made in their implementation, configuration, and use. Additionally, the effort required to achieve an appropriate level of assurance increases dramatically as security mechanisms become more complex."
+
+https://www.securecoding.cert.org/confluence/display/seccode/Top+10+Secure+Coding+Practices

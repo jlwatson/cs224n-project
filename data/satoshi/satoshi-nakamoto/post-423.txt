@@ -1,0 +1,4 @@
+3) Nothing, if sending by bitcoin address  
+5) It is decentralised. After you have connected to the network the first
+time, you no longer need IRC.
+

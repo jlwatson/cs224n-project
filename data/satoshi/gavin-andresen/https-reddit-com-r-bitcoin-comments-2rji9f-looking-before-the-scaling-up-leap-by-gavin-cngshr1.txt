@@ -1,0 +1,3 @@
+Yes, see my megablocks branch in my repo:   https://github.com/gavinandresen/bitcoin-git/tree/megablocks
+
+'make gen_megablocks' in the src/ directory might work (but your C++ compiler has to support 'auto').

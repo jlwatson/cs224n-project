@@ -1,0 +1,2 @@
+Is that attack economically feasible? Or will the attacking miner pay more in to tx fees than they gain in making competitors blocks take longer to propogate?
+

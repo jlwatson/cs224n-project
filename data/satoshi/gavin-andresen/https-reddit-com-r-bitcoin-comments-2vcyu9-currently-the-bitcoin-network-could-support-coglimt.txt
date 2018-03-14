@@ -1,0 +1,3 @@
+Off-chain transactions will take some pressure off while network bandwidth scales up to 'everybody can make a dozen transactions per day,' at the cost of inconvenience and increased centralization.
+
+Right now, the problem is convincing people Bitcoin is a good way to pay for things-- and convince them to earn bitcoin directly. I believe having a clear plan for the future will help reassure people, and increasing the max block size is the simplest, easiest to test and least disruptive way of accomplishing that.

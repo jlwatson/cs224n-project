@@ -1,0 +1,5 @@
+Mining is a zero-sum game-- you are competing for a fixed reward.
+
+Don't play zero-sum games unless you have some advantage over the other players.
+
+I see absolutely no way cloud hashing could give you any such advantage.

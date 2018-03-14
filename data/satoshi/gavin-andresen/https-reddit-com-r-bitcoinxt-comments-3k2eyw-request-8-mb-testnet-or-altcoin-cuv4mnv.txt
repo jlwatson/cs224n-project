@@ -1,0 +1,3 @@
+yep, although there might be some anti-BIP101 miners who will try to build a longer chain and orphan BIP101 blocks on testnet. A coordinated use of the invalidateblock RPC method (use a -blocknotify script to keep your node on the bip101 chain) would defeat that.
+
+More testing is good, go for it!

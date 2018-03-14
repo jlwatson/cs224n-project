@@ -1,0 +1,1 @@
+Hmm? Current thinking is that hashing (like SHA256) is quantum-computing-resistant, so there'd be no issue.

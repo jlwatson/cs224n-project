@@ -1,0 +1,3 @@
+The network was orders of magnitude smaller back then.
+
+These days, the network is an 800-pound gorilla that is extremely robust. The days of another implementation being a menace are long gone.

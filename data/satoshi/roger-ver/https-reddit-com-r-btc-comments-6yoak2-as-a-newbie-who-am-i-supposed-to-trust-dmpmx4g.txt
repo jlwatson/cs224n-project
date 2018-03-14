@@ -1,0 +1,1 @@
+Bitcoin and Bitcoin cash isn't opposed to second layers.  It is just that second layers are not supposed to be the main layer.  In fact,  Bitcoin Cash is MUCH better at supporting second layers due to having a bigger block size.

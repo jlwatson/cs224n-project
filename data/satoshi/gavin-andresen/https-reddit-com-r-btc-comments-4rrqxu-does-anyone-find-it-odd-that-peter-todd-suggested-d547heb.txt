@@ -1,0 +1,11 @@
+Yes, he suggested transactions voting at the Satoshi Roundtable in Florida.
+
+It makes sense to have the people using the network vote on improvements.
+
+But... there are a whole 'nother set of 'hodlers' who almost never move their coins who might want to have a vote, too.
+
+And then there are the miners who have sunk costs into equipment and power contracts and who will bear most of the burden of any change.
+
+And startups who might not not be generating a lot of transactions but have sunk time and money and have a stake in Bitcoin's success.
+
+All of these are 'stakeholders' that should have a voice (and ideally a vote, but I have no idea how to do that) in the technical direction of Bitcoin.

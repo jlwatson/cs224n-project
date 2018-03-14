@@ -1,0 +1,7 @@
+Great! I need to know two things:
+
+How long do unspent transaction outputs remain unspent? The answer to that is in the blockchain-- I'd like to know the median number of blocks and also see a histogram.
+
+I also need to know how much it costs to buy or rent a gigabyte of memory for a month today.
+
+Those two together give a good metric for utxo cost.

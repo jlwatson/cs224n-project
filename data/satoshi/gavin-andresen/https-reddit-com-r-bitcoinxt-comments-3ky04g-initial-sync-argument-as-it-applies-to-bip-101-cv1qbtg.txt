@@ -1,0 +1,5 @@
+Patrick needs to get over 'you must fully validate every single transaction since the genesis block or you are not a True Scotsman' attitude.
+
+There are lots of ways to bootstrap faster if you are willing to take on a little teeny-tiny risk that (on the order of 'struck by lightning while hopping on one foot'), at worst, might make you think you got paid when you didn't.
+
+'We' should implement one for XT...,

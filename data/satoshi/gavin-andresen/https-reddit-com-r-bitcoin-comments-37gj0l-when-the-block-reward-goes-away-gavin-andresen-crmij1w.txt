@@ -1,0 +1,3 @@
+I'm almost done.
+
+I've done this as separate posts so they are easy to link to in arguments; "but what about UTXO growth" --> respond with a link to the UTXO post.... "but what about twenty years from now when..." --> link to the when the block reward goes away post...

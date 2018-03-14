@@ -1,0 +1,15 @@
+It is my favorite, too.
+
+BIP101's limits were set with "I think the bottleneck will be bandwidth to people's homes" in mind, and the goal was to address people's concerns that all validation would end up in data centers.
+
+I also assumed that miners would understand the difference between a protocol limit and the actual size of blocks produced.
+
+I was wrong.  The physical bottleneck on the network today is not bandwidth to people's homes, it is the Great Firewall of China. BIP101 would still be fine as a protocol limit... except Peter Todd and others have managed to put enough fear into the miners of some aint-never-gonna-happen-because-nobody-makes-money "attack scenario" to make them reject a protocol limit higher than whatever the current (crappy) network protocol can support.
+
+A simple dynamic limit like Stephen proposes is easy to explain, makes it easy for the miners to see that they have ultimate control over the size (as they always have) and takes control away from the developers.
+
+
+
+Unfortunately, at least one developer believes it is really important to make miners pay something to make blocks bigger, and has been working on a much more complicated scheme ("flexcap"). I have seen no evidence that developer is ever willing to compromise on anything, and he has a track record of working on complicated solutions to simple problems (he's the founder of the freicoin altcoin, which uses demurrage (complicated) instead of monetary inflation (simple) to make people's money less valuable over time).
+
+Since the criteria for getting a consensus change seems to be "everybody actively contributing code has to agree" -- I am pessimistic about this or any other hard-forking proposal getting accepted by the Bitcoin Core implementation any time soon.

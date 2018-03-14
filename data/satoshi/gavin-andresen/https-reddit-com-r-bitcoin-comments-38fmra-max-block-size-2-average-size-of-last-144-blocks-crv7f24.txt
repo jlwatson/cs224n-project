@@ -1,0 +1,3 @@
+a) that is economically identical to just paying fees
+
+b) there are faster, cheaper ways to discourage people from running full nodes. Like hire a botnet to DDoS full nodes. Or just rent a bunch of servers if you want to pull off a Sybil attack. Sending a bunch of transactions hoping to up the block size hoping THAT will drive nodes off the network is not an attack I would worry about.

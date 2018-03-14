@@ -1,0 +1,5 @@
+Really good discussion.
+
+I wish Christian had mentioned that a miner would be stupid to create a block that took a long time to propagate to other miners-- he made the mistake of confounding the max block size with the size miners are actually willing to produce.
+
+(and yes, yes, non-economically-rational attacker with lots of hashpower could mine huge blocks to try to disrupt the network... except a non-economically-rational miners with lots of hashpower has lots of ways of disrupting the network, and in general a non-economically-rational attacker would be better off spending their money on other attacks... the kinds of non-economically-rational nuisance attacks we DO see, like DDoS attacks against nodes)

@@ -1,0 +1,3 @@
+I reviewed the specs and gave feedback (that resulted in improvements in the BIPs).
+
+I haven't done a code review for two reasons: because I think other technical work should be a much higher priority (malleability isn't a critical problem), and because I've decided life is too short to spend time working with unpleasant people (and in my opinion Core had several very unpleasant people contributing these days).

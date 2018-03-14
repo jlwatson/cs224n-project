@@ -1,0 +1,3 @@
+Why do you assume that? I directly address that in the blog post:
+
+> ...it is possible we would see blocks full of tiny-fee million dollar transactions, because Gringotts Bank will take the Bank of Elbonia to court if they double-spend some large value inter-bank-settlement transaction

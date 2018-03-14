@@ -1,0 +1,8 @@
+If the limit is dynamic based on what miners have been willing to validate in the recent past then price cancels out because it is the same on both sides of the equation.
+
+E.g. If the limit was: 
+  Cost(block) <= Cost(recent blocks)*11
+
+... If you think of coin price as part of the Cost function, divide both sides by coin price and it disappears.
+
+A dynamic limit based on what miners have been willing to validate is my preferred long-term solution.

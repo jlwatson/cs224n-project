@@ -1,0 +1,3 @@
+Yes... I apologize if I came across snarky.
+
+Maybe we should have an Obfuscated Soft Fork contest in the spirit of the Obfuscated C contest, I can see the geeky appeal of crazy schemes for tricking nodes that think they're validating the chain.

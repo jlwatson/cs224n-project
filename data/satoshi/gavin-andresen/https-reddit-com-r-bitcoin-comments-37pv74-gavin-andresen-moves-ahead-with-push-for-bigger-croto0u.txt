@@ -1,0 +1,4 @@
+> Set yourself up as a miner, and mine 2 MB blocks non-stop
+
+Ummm, no, that won't work. EVERYBODY will reject 2MB blocks until either a hard-fork switchover date or a soft-fork "supermajority of blocks have a version number that indicates support for bigger blocks."
+

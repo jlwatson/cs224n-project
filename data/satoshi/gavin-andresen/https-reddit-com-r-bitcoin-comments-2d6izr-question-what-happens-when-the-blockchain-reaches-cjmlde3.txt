@@ -1,0 +1,5 @@
+Almost everybody will prune old, spent transactions and only keep a subset of the whole blockchain. You would keep the bits relevant to transactions related to your wallet.
+
+Big merchants and services will probably just store the whole thing. A few thousand terabytes of data isn't a big expense for a moderate-sized company even today.
+
+Nobody will download the whole chain; you just need block headers and the current unspent transaction output set to start. Easy-peasy.

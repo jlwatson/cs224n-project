@@ -1,0 +1,11 @@
+"
+Bitcoin Roundtable Consensus
+
+On February 21st, 2016, in Hong Kong’s Cyberport, representatives from the bitcoin industry and members of the development community have agreed on the following points:
+...,,
+SegWit is expected to be released in April 2016.
+The code for the hard-fork will therefore be available by July 2016.
+If there is strong community support, the hard-fork activation will likely happen around July 2017."
+
+https://medium.com/@bitcoinroundtable/bitcoin-roundtable-consensus-266d475a61ff#.58d6vncsv
+

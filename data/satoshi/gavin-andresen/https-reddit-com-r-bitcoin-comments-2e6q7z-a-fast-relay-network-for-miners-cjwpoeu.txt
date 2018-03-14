@@ -1,0 +1,1 @@
+It isn't even either/or : miners are free to use it, to connect directly to each other, and to connect to the p2p network as they always did (and I would guess miners will do all three of those today; if another relay network starts up, then they'll connect to it, too).

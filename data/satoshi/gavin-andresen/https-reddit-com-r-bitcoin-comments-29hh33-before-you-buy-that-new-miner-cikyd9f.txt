@@ -1,0 +1,7 @@
+Mining is a zero-sum game.
+
+Unless you have some innate advantage you should not play zer-sum games. In the case of mining, my advice would be not to play unless you have early access to more efficient hardware or cheap/free electricity.
+
+The only other reason I could see to mine would be if you want to speculate on the value of Bitcoin going up, and are living somewhere where you can pay for mining hardware (and electricity) but cannot work for or buy bitcoins directly.
+
+The same reasoning applies if you are mining for alt-coins; yes, it is possible you get lucky and buy the right hardware at the right time and mine the right coin. But that's not likely, unless you have some special knowledge or hardware or talent.

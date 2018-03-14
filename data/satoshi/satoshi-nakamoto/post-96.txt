@@ -1,0 +1,5 @@
+The fix is in SVN rev 151.  
+  
+You will be able to send your stuck 0.01 (actually 0.01000010) when you next
+upgrade.  
+

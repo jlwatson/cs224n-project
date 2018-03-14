@@ -1,0 +1,1 @@
+Because Blockstream and Bitcoin Core wanted full blocks and high fees.  Those things kill layer two technologies like colored coins.

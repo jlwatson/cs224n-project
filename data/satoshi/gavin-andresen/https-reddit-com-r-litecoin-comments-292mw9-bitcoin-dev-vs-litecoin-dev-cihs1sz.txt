@@ -1,0 +1,3 @@
+Warren is great, and has ported stuff to Litecoin for early testing.
+
+But what started -in-Litecoin changes are you thinking of?

@@ -1,0 +1,5 @@
+It is not either-or.
+
+We have enough developers to work on both on-chain and off-chain solutions, but some developers have convinced themselves on-chain scaling will lead to 'only Google can process transactions.'
+
+That is just plain silly, but people believe all sorts of silly things (like the sun revolves around the earth....).

@@ -1,0 +1,5 @@
+That trades off increased bandwidth (to resend the UTXO) for storage.
+
+And bandwidth is generally more expensive than storage.
+
+Since it doesn't require a fork... go for it! Write a patch, test it, measure bandwidth and storage use before and after...

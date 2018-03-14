@@ -1,0 +1,5 @@
+It will be anti-censorship-- because if you want to go against the standard, neutral policy of "choose highest fee or priority transactions" you'll need to generate a bigger IBLT.
+
+I'm sure somebody will make a "slippery slope" argument that the opposite could happen; if an Evil Government convinced 50+% of hashing power to switch to some other standard non-neutral policy then the incentives go the other way.
+
+To which I'd say: okey dokey, good luck with convincing miners to go against their economic self-interest to support some particular centralized organization's goals....

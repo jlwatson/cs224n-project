@@ -1,0 +1,7 @@
+Don't send bytes you're going to use for something else. Random generators produce an infinite stream of bytes, so that isn't a problem.
+
+If you use a REALLY bad RNG then 64 bytes of output might be enough to predict future output.
+
+Don't use a really bad RNG.
+
+See https://gist.github.com/gavinandresen/5c6366b75ea9048d0f9447ec63f33a77 for my thought on whether trying to detect people using non-crypto-secure RNGS is worthwhile.

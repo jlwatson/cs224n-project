@@ -1,0 +1,1 @@
+Sure,  just import your wallet seed into a BCH wallet, or you can use this tool as well: https://blog.bitpay.com/bitcoin-cash-recovery/

@@ -1,0 +1,64 @@
+I didn't have time yesterday, but here's the email conversation:
+
+**Me:**
+
+Interesting.  How do we decide what "T" should be ?
+
+My knee-jerk reaction: I bet a much simpler rule would work, like:
+
+    max block size = 2 * average size of last 144 blocks.
+
+That would keep the network at about 50% utilization, which is enough to keep transaction fees falling from to zero just due to people having a time preference for having transactions confirmed in the next 1/2/3 blocks (see http://hashingit.com/analysis/34-bitcoin-traffic-bulletin ).
+
+I think this simple equation is very misleading:
+    Bigger blocks -> Harder to run a node -> Less nodes -> More centralization
+
+People are mostly choosing to run SPV nodes or web-based wallets because:
+
+    Fully validating -> Less convenience -> Less nodes -> More centralization
+
+Node count on the network started dropping as soon as good SPV wallets were available, I doubt the block size will have any significant effect.
+
+Also: Greg's proposal:
+  http://sourceforge.net/p/bitcoin/mailman/message/34100485/
+
+**Meni's reply:**
+
+Hi Gavin,
+
+ (1a). I don't believe in having a block limit calculated automatically based on past blocks. Because it really doesn't put a limit at all. Suppose I wanted to spam the network. Now there is a limit of 1MB/block so I create 1MB/block of junk. If I keep this up the rule will update the size to 2MB/block, and then I spam with 2MB/block. Then 4MB, ad infinitum. The effects of increasing demand for legitimate transaction is similar. There's no real limit and no real market for fees.
+
+ b. I'll clarify again my goal here is not to solve the problem of what the optimal block limit is - that's a separate problem. I want to prevent a scenario where a wrong block limit creates catastrophic failure. With a soft cap, any parameter choice creates a range of legitimate block sizes.
+
+You could set now T = 3MB, and if in the future we see that tx fees are too high and there are enough blocks, increase it.
+
+ (2). I have described one causal path. Of course SPV is a stronger causal path but it's also completely irrelevant, because SPV clients are already here and we don't want them to go away. They are a given. Block size, however, is something we can influence; and the primary drawback of bigger blocks is, as I described, the smaller number of nodes.
+
+You can argue that the effect is insignificant - but it is still the case that
+Many people currently do believe the effect is significant, and
+This argument will be easier to discuss once we don't have to worry about crash landing.
+
+ (3). Thanks, I'll try to examine Greg's proposal in more detail.
+
+**My reply**
+
+Who are "you" ?
+
+Are you a miner or an end-user?
+
+If you are a miner, then you can produce maximum-sized blocks and influence the average size based on your share of hash rate. But miners who want to keep blocks small have equal influence.
+
+If you are an end-user, how do you afford transaction fees to spam the network?
+
+----------------------
+
+If you are arguing that transaction fees may not give miners enough reward to secure the network in the future, I wrote about that here:
+   http://gavinandresen.ninja/block-size-and-miner-fees-again
+and here:
+   https://blog.bitcoinfoundation.org/blocksize-economics/
+
+And re: "there is no real limit and no real market for fees" :  see
+  http://gavinandresen.ninja/the-myth-of-not-full-blocks
+
+There IS a market for fees, even now, because there is demand for "I want my transaction to confirm in the next block or three."
+

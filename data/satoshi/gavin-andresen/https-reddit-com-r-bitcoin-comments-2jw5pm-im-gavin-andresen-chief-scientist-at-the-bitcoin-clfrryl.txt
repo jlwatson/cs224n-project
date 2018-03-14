@@ -1,0 +1,5 @@
+I think at the micro level it is fragile. A bug or vulnerability in the reference implementation could bring down the network for a little while.
+
+At the macro level I think it is very robust; bugs get fixed.
+
+And it is getting more robust all the time as there are more people able to fix the bugs, more implementations, etc....

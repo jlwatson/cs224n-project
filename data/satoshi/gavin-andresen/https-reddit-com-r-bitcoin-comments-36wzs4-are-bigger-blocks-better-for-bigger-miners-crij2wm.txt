@@ -1,0 +1,5 @@
+The 0.3% is worst-case EXTRA profit for a single miner dominating the network.
+
+That 0.3% comes from all the other miners, ASSUMING they are also shooting themselves in the foot and producing slow-to-propagate blocks.
+
+So: the worst-case profit loss for a smaller miner will be an even smaller fraction of a percent (e.g. if there are ten little miners, each would lose on average 0.03%). And in the short term, while transaction fees don't matter, smaller miners can just produce small, fast-to-validate blocks and negate even that tiny disadvantage.

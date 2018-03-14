@@ -1,0 +1,1 @@
+We have also been considering releasing a full SPV wallet as well.

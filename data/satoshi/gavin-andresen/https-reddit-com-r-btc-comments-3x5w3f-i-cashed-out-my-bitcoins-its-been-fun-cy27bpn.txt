@@ -1,0 +1,5 @@
+When I'm not being asked by reporters if Dorian Craig Szabo is really Satoshi or getting distracted by the block limit debate....
+
+... I'm researching gossip algorithms and trying to make some progress on how to measure different possible solutions to propagating information (blocks and transactions) across the network.
+
+I have been very distracted lately, though.

@@ -1,0 +1,3 @@
+Some miners are very talkative, some secretive.
+
+But it is always better to measure than to ask; even if you assume nobody will lie on purpose, people often make mistakes so the answers you get are likely to be wrong ("oh, you mean I'll NEVER produce 1MB blocks? I could've sworn I set -maxblocksize, let me check... oh, yeah, misspelled it....").

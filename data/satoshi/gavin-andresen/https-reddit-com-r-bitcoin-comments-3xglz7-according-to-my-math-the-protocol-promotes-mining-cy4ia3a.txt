@@ -1,0 +1,3 @@
+I guarantee that a large enough decrease in the block size limit would make Bitcoin fail.
+
+I believe the 1MB limit is severely limiting growth and investment right now, and that fearmongers like you who claim possible failure at a higher limit while never, ever quantifying safety or working on ways to mitigate risk are bad for Bitcoin.

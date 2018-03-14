@@ -1,0 +1,5 @@
+Miners have already taken care of much of the problem themselves by mining empty blocks as soon as they see a valid 80-byte block header.
+
+I think most developers "can't see the forest because they're down in the trees" -- there is, and will continue to be (if not limited by arbitrary protocol limits) innovation happening at every level in the ecosystem.
+
+Some developers believe that all innovations to solve scaling or centralization problems must be invented by them or must be implemented before allowing growth. Show me another thriving system with that attitude and I'll reconsider my belief that the best path to success is to let smart people innovate.

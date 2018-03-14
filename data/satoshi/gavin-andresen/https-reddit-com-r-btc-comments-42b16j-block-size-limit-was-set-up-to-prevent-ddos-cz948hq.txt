@@ -1,0 +1,1 @@
+Yes, transaction fees are just conveniently packaged POW.

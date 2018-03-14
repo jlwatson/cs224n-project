@@ -1,0 +1,24 @@
+I'm away from IRC... but hoisting from there:
+
+---------
+shesek:  that "you don't need the whole history, just get the utxos from random peers, and if they lie to you, its okay - you'll just see the transaction doesn't get confirmed" has circular logic
+
+for other nodes to know that the transaction isn't valid, they must hold their own valid copy of the history. if everyone [or large parts of the network] behave in the manner he's describing, bitcoin would be utterly broken
+
+you'll have nodes that have no way to know which transactions are valid and should be relayed/mined, other than trusting other nodes to do so (and, again, not being able to validate they're behaving correctly)
+
+also, his "this is the same behavior we already have today due to the possibility of double spend" argument seems nonsensical
+
+and the two explanations he's giving for why people claim bitcoin scales as O(n^2) are explanations that i never saw before anywhere... the explanation that is being commonly used (which originated from adam, I believe) is referenced only at the very end
+
+am I missing something completely obvious? this makes no sense to me
+
+--------
+
+Sure, if EVERYBODY in the entire network bootstraps the UTXO set from an attacker, everything falls apart.
+
+That isn't going to happen.
+
+If the goal is more full nodes on the network for more robustness/security, then it seems to me the practical thing to do is to make it easier to get a full node up and running. If that means starting with SPV-level security and improving from there, that's a reasonable tradeoff.
+
+Yes, it would be even better if there were UTXO commitments in the blockchain. But "better is better" and if the pain of initial chain download is keeping more people from running fully-validating nodes then why not implement something simple until some more complex-but-perfect solution is found?

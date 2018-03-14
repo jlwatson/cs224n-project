@@ -1,0 +1,1 @@
+The first restaurants to accept Bitcoin in all of Japan are now accepting BCH.  Bitflyer, Coincheck, and the other merchant processors will be adding BCH support soon as well since BTC is unusable for payments thanks to Core's intentional full block high fee policy.

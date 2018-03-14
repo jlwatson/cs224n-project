@@ -1,0 +1,7 @@
+You are obviously just here to cause trouble with this thread.  The wallet seed is already completely segregated from every other app on your device.  If you don't like the way our open source app works, or think it is unsecure then:
+
+* 1. Don't use our open source wallet.
+* 2. Submit a pull request to fix this non issue. 
+* 3. Use this "vulnerability" to steal the billion plus dollars stored in Bitcoin.com wallets.
+
+Otherwise you are just wasting everyone's time.

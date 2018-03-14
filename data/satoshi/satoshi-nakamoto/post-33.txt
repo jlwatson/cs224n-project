@@ -1,0 +1,3 @@
+A revised version of getwork is now in the official client, but the miners
+need to be updated a little to use it.  
+

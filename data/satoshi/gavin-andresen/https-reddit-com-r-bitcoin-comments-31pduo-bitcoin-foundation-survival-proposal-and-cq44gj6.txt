@@ -1,0 +1,5 @@
+What?
+
+You're confusing talk about a certification program for software (maybe something like "this wallet's source code has been examined by somebody trustworthy, as has the process for producing the binary from source, and has been certified not to email your private keys to the company") with "certified developers."
+
+Olivier, it is OK not to know what is going on, but it is not OK to assume that you DO know and then spread false information.

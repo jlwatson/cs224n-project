@@ -1,0 +1,5 @@
+By 'contributing node' you mean solo miner/mining pool?
+
+Yes, if you are solo mining on a crappy DSL connection you should create small blocks....
+
+Happily, you can-- nobody will force you to make big blocks.

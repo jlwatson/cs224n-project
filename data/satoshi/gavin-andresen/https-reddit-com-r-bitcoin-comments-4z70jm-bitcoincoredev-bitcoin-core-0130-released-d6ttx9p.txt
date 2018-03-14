@@ -1,0 +1,3 @@
+Why do you say the network cannot handle larger blocks?
+
+Everybody who had studied the network agrees that it CAN handle larger blocks just fine. Is there a whitepaper  somewhere written by somebody who has actually studied the network I am not aware of?

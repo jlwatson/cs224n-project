@@ -1,0 +1,9 @@
+All the data in LastPass (your usernames and passwords) are bundled up and encrypted with your master password before getting sent to the LastPass servers.
+
+The two-factor code means even if somebody got or guessed your LastPass username and password they can’t get that data from the LastPass servers.
+
+BUT: if they have already compromised your machine, 2fa doesn’t help; the attacker can get the encrypted data from your machine. If the attacker managed to get admin/root on your machine then inserting themselves into the networking code to get the encrypted blob of password data is pretty easy. As is getting your master password when you type it in.
+
+That is why turning off ‘offline’ mode doesn’t significantly increase your security; you have to dream up a really weird, unlikely scenario (“what if the attacker already knew my master password, compromises my machine when LastPass isn’t active, gets the data from my last LastPass session, and then doesn’t stay on the machine....”) for it to make any difference.
+
+2fa on LastPass is awesome, I use it. But I also have 2fa turned on for any security-critical services, like gmail.

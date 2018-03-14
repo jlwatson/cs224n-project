@@ -1,0 +1,7 @@
+There are hard forks, then there are REALLY HARD forks.
+
+Any change that requires ever single transaction-creating piece of software to upgrade all at once would be a REALLY HARD fork.
+
+And if I consider the risks and benefits of doing that... The only scenario that makes sense is some critical security flaw that can't be fixed in some other, more compatible way.
+
+Otherwise, there is too big a risk a lot of people would lose access to their bitcoins because they were locked up in hardware wallets incapable of creating spiffy, new, technical-debt-free transactions.

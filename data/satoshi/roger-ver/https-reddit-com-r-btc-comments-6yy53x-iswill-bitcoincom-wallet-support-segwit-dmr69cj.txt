@@ -1,0 +1,1 @@
+Per the NYA, we will support the Segwit 2X chain with our existing infrastructure, but all of our new products are being built upon Bitcoin Cash.  So to answer your question,  no.

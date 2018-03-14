@@ -1,0 +1,7 @@
+You're wrong in two different ways:
+
+1) Current p2p message size limit is 2MB (it was changed a couple releases ago).
+
+2) My implementation of BIP101 keeps the limit for all messages except for 'block' -- those messages are limited to whatever the current maximum block size possible is (given current time and network rules about how accurate clocks must be).
+
+Please, this debate is noisy enough, don't spread misinformation.

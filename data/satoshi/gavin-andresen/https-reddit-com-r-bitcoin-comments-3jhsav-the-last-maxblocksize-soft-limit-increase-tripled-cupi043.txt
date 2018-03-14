@@ -1,0 +1,19 @@
+Re-orging with larger than 1MB blocks DOES work, I ran those tests last December:
+  https://github.com/gavinandresen/bitcoin-git/blob/megablocks/megablocks_notes.txt
+
+Re-org test results, short re-org, ~20MB blocks
+-----------------------------------------------
+/usr/bin/time -l memory usage:
+
+674,136,064  maximum resident set size  (node that performs the re-org)
+297,807,872  maximum resident set size  (other node)
+
+Total time for re-org: 17 seconds
+
+Re-org test results, 100-block-long re-org, ~20MB blocks
+---------------------------------------------------
+
+1,436,880,896  maximum resident set size (node that performs re-org)
+  377,962,496  maximum resident set size (other node)
+
+Total time for re-org: 4,516 seconds

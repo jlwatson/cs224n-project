@@ -1,0 +1,5 @@
+The conclusion is that poorly-connected miners suffer at the expense of well-connected miners? What happens if 'F' is directly connected to 'A'?  Are you assuming that 'A' can somehow control network topology?
+
+It is interesting that it is 'B' and 'C' in your simulation (the big-block-miner's peers) who profit the most. If your simulation is correct, it seems like it is a disincentive for 'A' to try this attack.
+
+And when you say 'A' stops doing work after relaying a big block... that's odd. Does the simulation change if it keeps doing work while its huge block is propagating?

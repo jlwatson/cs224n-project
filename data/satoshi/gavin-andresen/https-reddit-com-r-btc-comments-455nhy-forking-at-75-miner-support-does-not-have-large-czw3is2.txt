@@ -1,0 +1,3 @@
+Miners are not idiots.
+
+If the switchover percentage stalls at 75% during the grace period (it won't, if the past is any guide it will be at 99% within about a week) then they can just continue to create smaller blocks  (set -blockmaxsize) until the switchover percentage is overwhelming.

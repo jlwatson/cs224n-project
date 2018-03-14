@@ -1,0 +1,9 @@
+I'm happy to tweak the parameters. The code I'm writing regression tests for right now is:
+
+* 8MB max block size  (chinese miners were unhappy with 20 for not-entirely-clear reasons)
+* Earliest fork date 11 Jan 2016 (miners and others want sooner rather than later)
+* Activation when 750 of last 1,000 blocks are up-version (version 0x20000004 to be compatible with sipa's new versioning bits scheme)
+* 2 week 'grace period' after 75% threshold reached before first >1MB block allowed to be mined
+* 8MB cap doubles every two years (so 16MB in 2018, etc:  unless there is a soft fork before then because 16MB is too much)
+
+The code for all that is starting to get right on the edge of "too complicated for consensus," but the individual pieces are all straightforward. I'll write a BIP when I'm done with the code, and, as I've said repeatedly, I'm not stuck to any particular set of parameters.

@@ -1,0 +1,7 @@
+You need to do some research, Patrick.
+
+The NSA was involved with the SHA hash function design, but were NOT involved in RIPEMD.
+
+So it is more likely the design Blockstream is proposing is backdoored.
+
+HOWEVER: neither is likely at all, and you are just being an annoying troll. Grow up.

@@ -1,0 +1,20 @@
+Nope.  It is actually faster.  Current protocol:
+
+*   A send 'header' to B
+*   B replies with 'getdata' to A
+*   A sends 'block' to B
+*   B validate, and then send 'header' to C
+*   C replies with 'getdata' to B
+*   B sends 'block' to C
+
+With head-first:
+
+*    A sends 'header' to B
+*    B replies with 'getdata' to A
+*    B sends 'header' to C
+*    C replies with 'getdata' to B
+*    A sends 'block' to B
+*    B validates then sends 'block' to C
+
+The getdata/block requests are overlapped, so block data propagates a little faster.
+

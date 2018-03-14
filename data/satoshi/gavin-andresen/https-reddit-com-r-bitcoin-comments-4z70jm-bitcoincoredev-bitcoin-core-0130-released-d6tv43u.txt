@@ -1,0 +1,3 @@
+Do you still have a really slow DSL connection? You're not trying to run a fully-validating miner over it, are you?
+
+I would dig up the research from Cornell and Bitfury on what the network could support LAST YEAR, but I'm typing on my phone.

@@ -1,0 +1,10 @@
+O(1) block propagation doesn't require a fork of any kind, it is just communication optimization.
+
+It will almost certainly be implemented first as a separate peer-to-peer communication mechanism, with "gateway" nodes relaying blocks and transactions between the O(1) propagation network and the inefficient p2p network we have now.
+
+At least, that is how I'm planning on implementing it, as soon as I'm sure there is a consensus on how to raise the block size (implementing O(1) block propagation will be a waste of time if we never have larger blocks).
+
+(I don't think sidechains just for more transaction volume will work; I don't think they have a big enough advantage over completely centralized solutions like "Lets just clear all transactions through Coinbase and BitPay" to get adopted).
+
+
+RE: your alt hardfork being painful: is there a post-mortem somewhere I can read to learn from what you done did?

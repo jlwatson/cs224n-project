@@ -1,0 +1,3 @@
+I never said it was a mountain. You did, however, claim the soft fork version was fewer lines of code, which is certainly not true for this part of the code.
+
+You are also ignoring the extra complexity in other parts of the code or future code that will need access to the coinbase transaction instead of just (for example) the block header and Merkle paths to the transaction and witness.

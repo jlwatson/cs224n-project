@@ -1,0 +1,3 @@
+But those papers were written before compact blocks (or thin blocks) were implemented.
+
+We have a fundamental difference of opinion on what purpose PROTOCOL limits serve, and I'm still looking for a good example of a successful Internet protocol that imposes a tight upper bound based on current hardware or software technology.

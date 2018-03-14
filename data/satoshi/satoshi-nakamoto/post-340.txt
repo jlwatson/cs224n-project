@@ -1,0 +1,8 @@
+That's surprising that we've never heard of that before now.  
+  
+Maybe you're the first person to ever run it on Vista  
+  
+I have to guess it has something to do with your display color depth
+selection. e.g. 8-bit, 16-bit, 24-bit, 32-bit, what is it? Do you have a weird
+video card, display setup or running it on a tablet or mobile or something?
+

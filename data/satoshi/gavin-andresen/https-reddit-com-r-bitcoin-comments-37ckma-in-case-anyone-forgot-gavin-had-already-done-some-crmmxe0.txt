@@ -1,0 +1,11 @@
+Up to block 300,000. Here's one of the READMEs I created for myself for one of the test chains:
+
+    Main bitcoin blockchain, up to block 300,000
+
+    All transactions EXCEPT cf263594859fcf1ebb80d8ca659b283c1503ff7359d14129bdb541a2003b74a0 (from block 299,900) and its descendants.
+
+    gen_megablocks -n=50 -d=/Users/gavin/mb/chain_50_1 -datadir=/Users/gavin/goodchain -to=300000 -skiptx=cf263594859fcf1ebb80d8ca659b283c1503ff7359d14129bdb541a2003b74a0
+    cp /Users/gavin/mb/chain_50_1/coinbasetx.dat    /Users/gavin/mb/chain_50_1/regtest/coinbasetx.dat
+    bitcoind $(for a in /Users/gavin/mb/chain_50_1/blk*.dat; do echo -n "-loadblock=$a "; done) -datadir=/Users/gavin/mb/chain_50_1 -daemon
+
+The test chain combined 50 main-net blocks into one megablock (since we're running about 400K average per block, that gives about 20MB blocks).

@@ -1,0 +1,1 @@
+The transaction wasn't stuck,  I was just pointing out the high fee required to make sure it didn't actually become stuck.

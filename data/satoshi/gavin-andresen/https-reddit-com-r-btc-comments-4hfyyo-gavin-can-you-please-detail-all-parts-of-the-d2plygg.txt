@@ -1,0 +1,7 @@
+Craig signed a message that I chose ("Gavin's favorite number is eleven. CSW" if I recall correctly) using the private key from block number 1.
+
+That signature was copied on to a clean usb stick I brought with me to London, and then validated on a brand-new laptop with a freshly downloaded copy of electrum.
+
+I was not allowed to keep the message or laptop (fear it would leak before Official Announcement).
+
+I don't have an explanation for the funky OpenSSL procedure in his blog post.

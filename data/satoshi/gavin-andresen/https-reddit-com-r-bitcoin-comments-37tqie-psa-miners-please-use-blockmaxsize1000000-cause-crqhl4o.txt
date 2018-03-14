@@ -1,0 +1,1 @@
+biconnect 1 2  connects nodes one and two, so blocks flow from 1 to 2 (and from 2 to 1-- that is why 'bi', I might implement a single-direction connect if there is a plausible attack scenario where it might help).

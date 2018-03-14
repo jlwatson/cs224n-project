@@ -1,0 +1,7 @@
+I think I followed you right up to "If blockspace were unlimited..."
+
+One of the main points of the blog post is that blockchain security and maximum block size may have very little to do with each other. Increasing/decreasing/keeping-the-same maximum block size won't solve the Tragedy of the Commons how do we secure the blockchain problem.
+
+The first statement does is *not* saying there is a relationship between fees and people's desire for a functioning network. It just says that fees will not drop to zero, assuming economically rational miners and non-zero desire for people to make Bitcoin transactions.
+
+That says nothing about whether or not those fees would be enough to secure the network.

@@ -1,0 +1,3 @@
+Why do you think waiting a year will make any significant difference for software that is unmaintained garbage with nodes stored in a close or who don't have a dev to deal with upgrades any more?
+
+And isn't it better if such poorly maintained software breaks sooner rather than later?

@@ -1,0 +1,3 @@
+So you agree that miners should be allowed to set the optimum block size to try to maximize their profits?
+
+That is exactly what Bitcoin Unlimited does. It is not 'bitcoin infinity immediately'

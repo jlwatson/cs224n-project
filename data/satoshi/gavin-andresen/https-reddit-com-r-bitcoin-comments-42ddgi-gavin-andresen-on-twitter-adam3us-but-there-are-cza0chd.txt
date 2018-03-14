@@ -1,0 +1,1 @@
+Segwit will give you a choice between 80 bit and 128 bit security. 80 bit gives more scalability, 128-bit will give more security for applications where collision attacks might be an issue (like setting up a payment channel).

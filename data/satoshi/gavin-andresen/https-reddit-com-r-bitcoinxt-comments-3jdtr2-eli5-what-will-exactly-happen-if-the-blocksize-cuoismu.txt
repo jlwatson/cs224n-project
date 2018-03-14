@@ -1,0 +1,7 @@
+Even that attack almost certainly wouldn't work in practice, because mining pools don't drop everything they're doing (stop hashing) to validate a new block.
+
+Many of them start mining an empty block on top of the not-yet-fully-validated block, so the naughty miner wouldn't get any head-start on finding the next block.
+
+And the ones that don't do that are likely to find a new block built on a normal-sized block before they're done validating the enormous block, so the naughty miner risks losing a block race.
+
+PS: it wouldn't be terribly hard to see what would happen with current Core code if the network allowed blocks that took (say) 600 seconds to validate. Hack the code so that blocks with version=11 take 600 seconds to validate, then run a few nodes in -regtest mode, with one producing version=11 blocks and the other producing version=3 blocks (there's already an undocumented regtest-only -blockversion= command-line switch). To really simulate what would happen on the real network, you'd need to run some mining pool software, too...

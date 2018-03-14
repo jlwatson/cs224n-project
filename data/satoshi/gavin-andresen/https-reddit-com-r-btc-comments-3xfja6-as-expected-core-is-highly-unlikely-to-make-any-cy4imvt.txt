@@ -1,0 +1,4 @@
+Here is how other open source projects do it:
+http://randyfay.com/content/how-do-open-source-communities-govern-themselves
+
+There is not one right way to govern a software project-- yet another reason people should start running and contributing to other implementations of the Bitcoin protocol.

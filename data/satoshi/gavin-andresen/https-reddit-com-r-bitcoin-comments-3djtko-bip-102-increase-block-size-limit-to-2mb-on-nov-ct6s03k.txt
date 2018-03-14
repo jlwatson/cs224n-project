@@ -1,0 +1,3 @@
+yep.
+
+And if trends don't continue it is easy for miners to create smaller blocks, either individually or collectively as a soft fork consensus change.

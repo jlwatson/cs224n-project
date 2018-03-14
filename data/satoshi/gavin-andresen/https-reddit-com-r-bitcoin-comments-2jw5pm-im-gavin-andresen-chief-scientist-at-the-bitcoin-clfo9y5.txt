@@ -1,0 +1,5 @@
+See https://www.youtube.com/watch?v=ZC-E9LVjzJo for my thoughts on alternative implementations.
+
+The Foundation has already indirectly supported those projects-- I (and others) spent a lot of time last year creating testing infrastructure that is re-used across implementations.
+
+Supporting more directly is a question of financial resources and priorities; right now, the Foundation doesn't have the financial resources to do more.

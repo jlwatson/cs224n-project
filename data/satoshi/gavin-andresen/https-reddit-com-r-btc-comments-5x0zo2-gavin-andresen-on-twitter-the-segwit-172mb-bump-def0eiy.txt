@@ -1,0 +1,7 @@
+False dichotomy.
+
+The best way to get censorship resistance is to move to censorship-proof transactions (ala Zcash).
+
+The second best way is to have sufficiently decentralized mining-- miners all over the world, in lots of different legal jurisdictions.
+
+Neither of those things have a whole lot to do with the block size, although giving miners the ability to maximize their revenue (by only accepting whatever level of fees they think is optimal, balancing their costs, the block reward, and the benefits of a higher bitcoin price that come with increased adoption from low-fee use cases) makes the second more likely.

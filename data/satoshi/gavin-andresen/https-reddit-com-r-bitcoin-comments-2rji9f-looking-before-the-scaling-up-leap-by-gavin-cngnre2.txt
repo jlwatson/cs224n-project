@@ -1,0 +1,5 @@
+That is what I will propose: allow bigger block once a supermajority of blocks created are version=3
+
+(And start rejecting blocks that are version=2)
+
+We already went through that once, transitioning from block version 1 to 2. The transition should be smoother, because Bicoin Core now warns that you probably need to upgrade if it notices a lot of 'up-version' blocks in the blockchain.

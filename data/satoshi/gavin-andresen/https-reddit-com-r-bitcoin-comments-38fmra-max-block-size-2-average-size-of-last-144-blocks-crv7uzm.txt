@@ -1,0 +1,1 @@
+6 blocks are found in 10 minutes pretty regularly. When that happens, mempools are emptied out and small blocks are created. 144 is large enough to smooth out the randomness of block-finding.

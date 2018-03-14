@@ -1,0 +1,5 @@
+I was aware it was running on the Alpha sidechain.
+
+The trick of interpreting a PUSHDATA *stuff*  scriptPubKey as a segwitness-enabled transaction is the part I wasn't aware of before, and that is what gives the smooth upgrade path for wallets. And that's really cool.
+
+(I'm not aware if elements alpha does that, but I'd guess it doesn't, since it's not necessary because segwitness is built in to that chain from the start)

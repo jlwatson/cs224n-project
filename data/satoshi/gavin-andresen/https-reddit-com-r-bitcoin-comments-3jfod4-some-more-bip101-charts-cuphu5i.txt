@@ -1,0 +1,3 @@
+Unclear where average transaction size will be in a year or three-- Gregory and Pieter at Blockstream are doing fantastic work on more efficient, more powerful signature schemes -- see https://blockstream.com/2015/08/24/treesignatures/ ... but they're also working on more confidential transactions : https://people.xiph.org/~greg/confidential_values.txt whose proofs are bigger than normal signatures.
+
+My guess is average transaction size will grow for a couple years, then start shrinking when that work gets deployed. Then maybe grow again if confidential transactions take off....

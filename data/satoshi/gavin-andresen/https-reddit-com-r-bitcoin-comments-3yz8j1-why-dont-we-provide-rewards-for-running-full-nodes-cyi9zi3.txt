@@ -1,0 +1,4 @@
+... Poor wording on my part. A couple hundred to a couple thousand full nodes spread across the world is plenty to be robust end secure (a dozen or three in each country).
+
+Supporting SPV nodes is another reason for lots of nodes, but I haven't done the math to figure out how many SPV nodes one full node can easily support.
+

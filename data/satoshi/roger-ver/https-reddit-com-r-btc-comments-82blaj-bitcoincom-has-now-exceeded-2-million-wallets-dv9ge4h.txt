@@ -1,0 +1,1 @@
+Also,  the ticker is not double counting BTC and BCH wallets.

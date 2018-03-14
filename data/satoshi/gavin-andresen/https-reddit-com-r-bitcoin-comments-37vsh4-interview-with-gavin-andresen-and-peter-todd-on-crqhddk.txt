@@ -1,0 +1,3 @@
+i believe keeping 1mb max blocks will increase centralization-- we will see more services like Coinbase that just update entries in their centralized database. We might see hub&spoke payment networks, where the hubs are the centralization point.
+
+We have a gloriously decentralized p2p network; we should scale it up, that is the simplest engineering solution and gives the most decentralization.

@@ -1,0 +1,7 @@
+A transaction with witness data will be a dozen or so bytes per input bigger than an equivalent without, so bandwidth will be... uhhh... maybe 5 or 10% greater during new block relay.
+
+I love segwitness and think it should be rolled out-- the benefits outweigh the costs.
+
+But any solution that relies on both a consensus rule change and a change to wallets will take at least six months to a year to deploy, if everything goes well.
+
+I think the most conservative approach is a hard fork that increases the limit we're hitting already AND roll out segwitness, ideally as part of the same hard fork (stuffing the witness Merkle data in the coinbase will just complicate the consensus-critical implementation for no good reason).

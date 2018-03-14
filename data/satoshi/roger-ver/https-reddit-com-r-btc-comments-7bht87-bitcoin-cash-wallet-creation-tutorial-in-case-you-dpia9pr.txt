@@ -1,0 +1,1 @@
+The next release (that we are testing internally now) will have that fixed.   It will also automatically create a Bitcoin Cash wallet for new users upon their initial install.

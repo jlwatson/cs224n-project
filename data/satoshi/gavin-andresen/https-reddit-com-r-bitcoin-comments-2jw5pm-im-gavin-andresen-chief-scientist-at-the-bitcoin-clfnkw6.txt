@@ -1,0 +1,5 @@
+I'm excited about the possibilities.
+
+I think a lot of projects unnecessarily mix up the various services the blockchain provides, and try to make it do things it is not good at doing (like storing data). I think the best projects understand that they don't need to invent a new currency. They don't need to use the blockchain as their long-term data storage solution. And they don't need to use the p2p network as their communication mechanism.
+
+They *should* use the blockchain as the world's most secure distributed ledger.

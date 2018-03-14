@@ -1,0 +1,3 @@
+There is a huge benefit to staying compatible with SPV wallets that just check block headers.
+
+Changing the difficulty rules breaks compatiblity with all those wallets.

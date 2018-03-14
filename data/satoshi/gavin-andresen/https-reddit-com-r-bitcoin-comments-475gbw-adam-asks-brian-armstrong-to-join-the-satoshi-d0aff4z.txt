@@ -1,0 +1,13 @@
+No, that is exactly wrong.
+
+Smaller blocks can be a competitive advantage for larger companies, because they can:
+
+a) Contract with big miners or pools for guaranteed block space or "preferred" inclusion of some number of their transactions.
+
+b) Arrange once-a-day (or -hour/-week/-month) settlement with other large companies with whom their customers do a lot of transactions. E.g. Coinbase and BitPay might agree that any payment from a Coinbase customer to a BitPay merchant settles immediately off-chain, and is combined with all the other such payments into a single on-chain settling transaction.
+
+That work (which is engineering and business development and lawyers) only makes sense if the savings and improved customer experience outweigh the costs.
+
+Big, well-funded companies like Coinbase can afford it. Little companies may get squeezed out, and individuals will have an increasingly strong incentive to use a service like Coinbase's centrally managed wallet-- it will be more reliable and cost less.
+
+If Brian was running a really big, old company then maybe he would be all for keeping the block size low to drive more business his way. But he's running a startup company in Silicon Valley, and he (and his investors) understand that growing the entire Bitcoin infrastructure and ecosystem is the only rational strategy. Spending any time even thinking about putting smaller competitors out of business is a waste of time when you're a startup in a brand-new market (or a startup disrupting a huge potential market).

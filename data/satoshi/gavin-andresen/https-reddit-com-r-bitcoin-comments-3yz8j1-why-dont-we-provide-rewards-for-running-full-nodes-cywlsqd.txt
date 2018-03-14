@@ -1,0 +1,3 @@
+Open the debug console and type getpeerinfo
+
+If there are a bunch of bitcoinj peers, you should feel good-- you're helping people who don't want, or can't, connect to the network.

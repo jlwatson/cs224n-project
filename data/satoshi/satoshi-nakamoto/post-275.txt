@@ -1,0 +1,7 @@
+Please upgrade to 0.3.3! Important security improvements were made in 0.3.2
+and 0.3.3.  
+  
+New features:  
+\- Gavin Andresen's HTTP authentication to secure JSON-RPC  
+\- 5x faster initial block download, under 30 minutes
+

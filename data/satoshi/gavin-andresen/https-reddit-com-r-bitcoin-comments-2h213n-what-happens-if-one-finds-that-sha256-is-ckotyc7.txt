@@ -1,0 +1,5 @@
+Bitcoin would be safe today even if it used the broken md5 hash everywhere it uses sha256.
+
+Why? Because Bitcoin never uses single SHA256.
+
+We'd be busy moving to a not broken hash function, of course, but there would be plenty of time to switch.

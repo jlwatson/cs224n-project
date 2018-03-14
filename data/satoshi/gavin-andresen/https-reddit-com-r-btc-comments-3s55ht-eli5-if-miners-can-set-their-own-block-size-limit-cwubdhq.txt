@@ -1,0 +1,1 @@
+Because no maximum block size limit might make it possible for an "economically irrational miner" (a miner who just wants to hurt Bitcoin and is not doing what is best for themselves) to jam up the network with oversized blocks.

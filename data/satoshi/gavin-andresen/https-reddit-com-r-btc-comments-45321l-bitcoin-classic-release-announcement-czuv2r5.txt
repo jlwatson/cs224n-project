@@ -1,0 +1,1 @@
+Are you a solo miner or mining pool operator?  If you are, what software stack do you use (in addition to bitcoind)?

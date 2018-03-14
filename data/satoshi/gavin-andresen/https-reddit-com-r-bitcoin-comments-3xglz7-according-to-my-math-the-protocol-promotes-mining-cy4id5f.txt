@@ -1,0 +1,1 @@
+He is making the common error that there is some magical barrier preventing transaction creators from mining themselves if a miner or group of miners collude to try to drive up fees.

@@ -1,0 +1,3 @@
+Your transactions might have been included because they were high priority-- were you sending hundreds of dollars (or more) worth of Bitcoin that you received more than a few days ago?
+
+Feel free to implement a better data analysis algorithm, I don't claim that the current implementation is anywhere near optimal for estimating fees/priority -- just that it is better than what we have now.

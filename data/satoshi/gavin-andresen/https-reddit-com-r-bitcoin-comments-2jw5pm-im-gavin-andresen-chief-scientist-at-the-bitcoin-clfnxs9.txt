@@ -1,0 +1,5 @@
+That's a great question for somebody who has studied how other Internet protocols evolve (or not) over time.
+
+My guess is that protocol change will speed up again when some of the startups grow up a bit and have the time and resources to participate in a more formal standards-making, protocol-evolving process.
+
+And then a few years later it will slow down again.

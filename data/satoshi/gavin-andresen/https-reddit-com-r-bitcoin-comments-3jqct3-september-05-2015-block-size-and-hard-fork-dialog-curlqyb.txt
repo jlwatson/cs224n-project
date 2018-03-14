@@ -1,0 +1,6 @@
+I think it is fine if home users switch from running a full node to an SPV solution.
+
+They are already doing that, because SPV wallets are more convenient, have more features, and don't have to be connected 24 hours a day. And because home PCs are quickly being replaced by smartphones and tablets.
+
+I also think it should be POSSIBLE to run a full node from most homes. Worldwide average connection speed is 3.9 Mbit/s (see https://en.wikipedia.org/wiki/List_of_countries_by_Internet_connection_speeds ). 8 megabytes every ten minutes is 0.1 Mbit/s ... which even somebody in Venezuela or Paraguay or Bolivia with an average connection should be able to keep up with.
+

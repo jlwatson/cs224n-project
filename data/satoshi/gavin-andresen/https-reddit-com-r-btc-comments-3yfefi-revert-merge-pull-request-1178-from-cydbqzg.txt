@@ -1,0 +1,3 @@
+I don't have, and have never had, control over the Bitcoin.org DNS.
+
+So even if I were willing to revoke people's github privileges (and I'm not), they could just move the source for the website.

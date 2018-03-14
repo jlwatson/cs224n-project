@@ -1,0 +1,7 @@
+See http://rusty.ozlabs.org/?p=493
+
+My objection to those since-2008-projections is we've been in a lull with bandwidth-to-the-home growth; the global financial crisis meant governments and big telecom companies stopped investing in rolling out fiber-to-the-home.
+
+I think all signs point to a very rapid acceleration of bandwidth to the home; Google is working on it a few different ways (fiber, high-altitude wifi), Elon Musk is working on it (satellites is it?), and there is certainly demand for it (e.g. https://register.wiredwest.net/ for a hyper-local example from where I live in rural Massachusetts).
+
+If I'm wrong... then either you might eventually have to run your full nodes in a data center (but my existing, admittedly-above-average home internet connection and home computer could easily support fifty megabyte blocks), or maybe there will be consensus to soft-fork to a smaller max size.

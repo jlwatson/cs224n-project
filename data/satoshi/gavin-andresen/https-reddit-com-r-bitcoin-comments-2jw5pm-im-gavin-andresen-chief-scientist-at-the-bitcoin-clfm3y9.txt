@@ -1,0 +1,5 @@
+Bugs in "Bitcoin" ?  "Bitcoin" isn't software, it is a protocol, so that's like asking "what do you think about bugs in HTTP?"
+
+If there are serious problems with Bitcoin-the-protocol, then we'll fix them.   I'm pretty confident there are not any really serious, you-might-lose-your-bitcoins bugs in the protocol.
+
+There will always be bugs in Bitcoin implementations. The best way to mitigate those bugs is with multisignature transactions secured by two different "software stacks."

@@ -1,0 +1,1 @@
+Thanks Greg, that makes sense. I suppose it becomes an empirical question of how many pure-lightning transactions will happen before a dispute or the channels are closed.

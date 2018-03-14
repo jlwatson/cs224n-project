@@ -1,0 +1,3 @@
+No; I think miners should do whatever they think is in their best economic interest with respect to block size.
+
+I am thinking about writing a patch so miners that don't express a preference "go along with the herd" -- produce blocks that are an average size. That would replace the hardcoded 750K limit.

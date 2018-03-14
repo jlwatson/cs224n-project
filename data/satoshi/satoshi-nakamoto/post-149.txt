@@ -1,0 +1,8 @@
+There is no way for the software to automatically know if one chain is better
+than another except by the greatest proof-of-work. In the design it was
+necessary for it to switch to a longer chain no matter how far back it has to
+go.  
+  
+The only exception to that is the manual checkpoints I've added. If it weren't
+for those, it would be able to reorg all the way back to the first block.
+

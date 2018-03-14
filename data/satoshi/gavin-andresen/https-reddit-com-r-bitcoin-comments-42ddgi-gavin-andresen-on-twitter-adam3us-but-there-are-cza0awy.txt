@@ -1,0 +1,3 @@
+80-bit is the p2pkh addresses we are all using today.
+
+Unless you need to worry about collision attacks, it is plenty secure.

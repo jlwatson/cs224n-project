@@ -1,0 +1,3 @@
+More than $1 : sure, the network should be able to eventually scale up to handle every more-than-$1-transaction on the planet.
+
+Less than that: I'm not so sure, we'll probably need a solution built on top of Bitcoin (e.g. micropayment channels established in advance of a bunch of tiny transactions -- Mike Hearn and Matt Corallo have that working already).

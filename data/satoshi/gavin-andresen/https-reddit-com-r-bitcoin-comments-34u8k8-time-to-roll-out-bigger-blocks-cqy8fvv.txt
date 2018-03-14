@@ -1,0 +1,1 @@
+Bitcoin Core already detects and warns about "large work other forks".

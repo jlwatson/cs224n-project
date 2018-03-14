@@ -1,0 +1,3 @@
+It doesn't require a new address version-- you can wrap a segwit transaction output in a p2sh (p2sh is designed to be extensible in that way) so old wallets can send to new segwit-enabled wallets.
+
+That costs an extra 24 (or so) 'base' bytes, though.
