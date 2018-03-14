@@ -7,13 +7,16 @@ from keras import utils
 
 import glob
 import random
+import itertools
 
 BATCH_SIZE = 32
+MAX_SEQUENCE_LEN = 200
 CANDIDATES = ["gavin-andresen", "hal-finney", "jed-mccaleb", "nick-szabo", "roger-ver", "dorian-nakamoto"]
 
+print("======= Loading in Texts =======")
 texts = []
 texts_by_candidate = {}
-for c in CANDIDATES:
+for c in CANDIDATES + ['satoshi-nakamoto']:
     texts_by_candidate[c] = []
     for path in glob.iglob("./data/satoshi/%s/*.txt" % c, recursive=True):
         with open(path, "r", encoding="utf-8") as f:
@@ -21,30 +24,34 @@ for c in CANDIDATES:
             texts.append(text)
             texts_by_candidate[c].append(text)
 
-print("Generating vocabulary...")
+for auth, texts in texts_by_candidate.items():
+    print (auth, "has", len(texts), "texts...")
+
+print("======= Generating vocabulary =======")
 tokenizer = Tokenizer()
 tokenizer.fit_on_texts(texts)
-print(len(tokenizer.word_counts))
+print(len(tokenizer.word_counts), "words in vocab.")
 
-import itertools
-def grouper(iterable, n, fillvalue=None):
-    "Collect data into fixed-length chunks or blocks"
-    # grouper('ABCDEFG', 3, 'x') --> ABC DEF Gxx"
-    args = [iter(iterable)] * n
-    return itertools.zip_longest(*args, fillvalue=fillvalue)
+print("======= Generating Data Tuples =======")
+def chunks(iterable,size):
+    it = iter(iterable)
+    chunk = list(itertools.islice(it,size))
+    while chunk:
+        yield chunk
+        chunk = list(itertools.islice(it,size))
 
 data_tuples = []
 for i, c in enumerate(CANDIDATES):
     seqs = tokenizer.texts_to_sequences(texts_by_candidate[c])
     for seq in seqs:
-        # print(seq)
-        # print([grouper(seq, MAX_LEN)])
-        # os.exit()
-        data_tuples.append((seq, i))
+        for chunk in chunks(seq, MAX_SEQUENCE_LEN):
+            data_tuples.append((chunk, i))
+
+print (len(data_tuples), 'data tuples.')
 
 random.shuffle(data_tuples)
 
-x = sequence.pad_sequences([d[0] for d in data_tuples], maxlen=200)
+x = sequence.pad_sequences([d[0] for d in data_tuples], maxlen=MAX_SEQUENCE_LEN)
 y = utils.to_categorical([d[1] for d in data_tuples], num_classes=len(CANDIDATES))
 
 vocab_size = len(tokenizer.word_docs)
