@@ -7,11 +7,8 @@ from keras import utils
 
 import glob
 import random
-<<<<<<< HEAD
 import numpy as np
-=======
 import itertools
->>>>>>> c721fdf0e1d6c85dfc13c740ab5abc6a96640f8a
 
 BATCH_SIZE = 32
 MAX_SEQUENCE_LEN = 200
