@@ -1,0 +1,1 @@
+"trust" here just means that you trust them not to collude. You can actually know that all the nodes in your "trusted" set are dishonest but as long as they don't all collude with each other to cheat you, you are fine.

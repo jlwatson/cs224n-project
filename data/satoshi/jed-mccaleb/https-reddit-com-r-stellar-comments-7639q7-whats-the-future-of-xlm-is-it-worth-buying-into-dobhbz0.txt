@@ -1,0 +1,2 @@
+The technology is not the same. We had to write the code from scratch to make it safer/ more scalable/ and easier to use. 
+check the video: https://www.stellar.org/developers/guides/concepts/scp.html

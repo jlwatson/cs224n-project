@@ -1,0 +1,1 @@
+yeah that is basically correct. You can trade USD/USD it just isn't possible in the client yet.

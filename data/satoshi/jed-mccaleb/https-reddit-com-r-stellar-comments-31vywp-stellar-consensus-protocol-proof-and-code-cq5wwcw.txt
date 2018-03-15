@@ -1,0 +1,1 @@
+SCP is a bit different since each node broadcasts their slice. So you can make a graph of how the network is interconnected

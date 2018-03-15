@@ -1,0 +1,2 @@
+That is the old stellar code. This blog post is announcing our new code base which is completely new. 
+https://github.com/stellar/stellar-core  

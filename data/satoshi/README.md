@@ -19,7 +19,7 @@ Hal Finney
 
 Jed McCaleb
 - [x] https://bitcointalk.org/index.php?action=profile;u=5322
-- [ ] https://www.reddit.com/user/Swamp12
+- [x] https://www.reddit.com/user/Swamp12
 - [ ] https://news.ycombinator.com/user?id=swamp12
 - [ ] https://twitter.com/JedMcCaleb
 

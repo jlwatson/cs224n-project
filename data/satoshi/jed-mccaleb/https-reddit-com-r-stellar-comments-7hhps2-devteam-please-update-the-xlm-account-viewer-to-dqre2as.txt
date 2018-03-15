@@ -1,0 +1,1 @@
+I don't think we will ever do it. The idea is to keep the account-viewer super simple. But there are a few other apps that are compatible with the ledger and we are making the laboratory compatible with it so you will be able to set the inflation destination with those.

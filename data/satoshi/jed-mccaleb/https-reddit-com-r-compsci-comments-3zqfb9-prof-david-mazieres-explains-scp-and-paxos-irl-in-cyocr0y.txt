@@ -1,0 +1,1 @@
+Here is a link to the paper: https://www.stellar.org/developers/learn/concepts/scp.html

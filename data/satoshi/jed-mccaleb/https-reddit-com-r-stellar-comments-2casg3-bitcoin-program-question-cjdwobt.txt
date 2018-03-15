@@ -1,0 +1,2 @@
+This is the "official" one I guess. 
+The current plan is that you send one satoshi to some address to show that you control the bitcoin address. I'm not sure how to do it in a way that doesn't link the bitcoin and stellar addresses? We aren't going to save that information though.
