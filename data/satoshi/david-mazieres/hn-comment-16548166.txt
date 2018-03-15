@@ -1,0 +1,11 @@
+Note that in general there is no way to name a particular branch of a
+blockchain fork. In cases with a protocol change coordinated well in advance,
+a counterparty anticipating the fork could announce that their tokens on one
+branch will be useless. However, if you just have two competing mining pools
+duking it out with the same protocol, there will be no way to name the
+branches ahead of time.
+
+What's worse is that colored coins could distort the incentive structure to
+make it profitable to bribe miners, because the benefit to an attacker of
+subverting consensus could far outweigh the value of 12.5 BTC/block.
+

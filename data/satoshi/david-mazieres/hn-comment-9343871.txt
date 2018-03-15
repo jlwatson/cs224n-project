@@ -1,0 +1,4 @@
+Well for safety it's a logical AND, not an OR. But for liveness you'd most
+likely you'd have some threshold. For example, you might that at least 34 of
+the 50 are honest.
+

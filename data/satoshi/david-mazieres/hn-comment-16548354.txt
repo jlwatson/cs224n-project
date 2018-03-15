@@ -1,0 +1,13 @@
+If you are so allergic to cryptocurrency, why didn't it bother you when
+Keybase started writing their root into the Bitcoin blockchain
+(https://keybase.io/docs/server_security/merkle_root_in_bitco...)?
+
+There are obviously annoying ways in which keybase could support
+cryptocurrency, but you are making a lot of assumptions about what Keybase is
+going to do that are not based on the blog post. For example, wallets do not
+mine coins and Stellar does not support mining.
+
+Why don't you wait to see what comes out and submit a feature request if you
+don't like it, instead of flipping out about some hypothetical feature you
+won't like.
+

@@ -1,0 +1,7 @@
+Bitshares is more democratic than decentralized. Basically people vote their
+stakes to elect 100 nodes that ensure consensus, but everyone knows who the
+100 nodes are. By contrast, the FBA trust model is completely independent of
+coin holdings, and just depends on pairwise relationships between the
+validator nodes. The resulting quorum structure is unlikely to look like a
+single fully-connected group.
+
