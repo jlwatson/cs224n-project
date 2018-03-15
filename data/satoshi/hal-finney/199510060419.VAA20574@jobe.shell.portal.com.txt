@@ -1,0 +1,13 @@
+tomw@orac.engr.sgi.com (Tom Weinstein) writes:
+
+
+
+
+I may not have been clear: the certificate I was referring to was the one
+from Egghead, the one which I will use to make sure that I have a valid
+key for Egghead.  Such a certificate would of course not have my credit
+card number; it would probably have some information related to Egghead.
+My rhetorical point was that information would most plausibly be a NAME
+by which I would refer to Egghead.  I am still trying to understand how
+these proposals to take names out of the picture will apply to a
+commonplace situation like this one.

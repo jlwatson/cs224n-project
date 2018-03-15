@@ -1,0 +1,6 @@
+For those wishing to follow this debate, here is a URL for this document:
+
+<URL:http://info.internet.isi.edu/in-drafts/files/draft-ietf-pem-sigenc-03.txt>
+
+I had trouble finding it since the filename does not contain "mime" or
+"security".

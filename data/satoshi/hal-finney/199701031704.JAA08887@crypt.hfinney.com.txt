@@ -1,0 +1,6 @@
+Before you get too carried away by the capabilities of off the shelf
+character recognition, read Phil Karn's experience trying to produce
+a working DES program from the pages of Applied Cryptography.  It was
+easier than writing it himself, but it was still far from a turnkey
+operation.  This is from <URL:
+http://www.qualcomm.com/people/pkarn/export/karndecl.html >

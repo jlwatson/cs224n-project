@@ -1,0 +1,5 @@
+Another way payees could be anonymous would be to immediately spend their
+received coins, and do so anonymously.  This works for the online ecash
+system.  They simply pass the coins on without first exchanging them at
+the bank.  There would have to be something they wanted to buy that they
+could receive anonymously, though.

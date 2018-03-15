@@ -1,0 +1,18 @@
+I would be surprised if quantum computers had the capability to factor
+in polynomial time.  The special capabilities that I have seen claimed
+for quantum computers have a probabilistic component, so that, in effect,
+you can do a calculation n times faster but have only a 1/n chance of
+getting an answer.  (This is an oversimplification but gives the idea.)
+In the context of the Many-Worlds interpretation of QM, you might say
+that the various instances of the quantum computer spanning the multi-
+verse can be made to work together, but by a sort of conservation of
+information production, only a fraction of the individual universes of
+the multiverse get the answer.
+
+The one loophole that I see is that this term "quantum computer" covers a
+lot of territory.  They might sneak in some infinities in addition to adding
+the strictly quantum capabilities.  It is known that ordinary computers which
+can hold arbitrarily-large numbers (and do arithmetic on them in one time
+step) can factor in polynomial time.  If the definition of your quantum
+computer is so broad that you can squeeze in some outrageous capability like
+this, then the claim of polynomial-time factoring is more plausible.

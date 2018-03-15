@@ -1,0 +1,13 @@
+People interested in NetCash should be aware of a potentially confusing
+name re-use.  NetCash is also the name of a payment system designed by
+people associated with the Information Sciences Institute (affiliated, I
+think, with USC).  A reference is: <URL:
+ftp://PROSPERO.ISI.EDU/pub/netcheque/information/netcash-cccs93.ps.Z >
+ 
+Despite the names, neither one is cash in the cryptographic sense:
+neither uses blinding.  If you didn't want the bank to be able to create
+a database of every transaction you make, everything you spend and with
+whom, you would need to have some anonymous connection with the bank and
+exchange your netcash through that connection.  This would be cumbersome
+IMO.  Some payment system is probably better than none, but I hate to see
+the name "cash" expropriated by these non-cash systems.

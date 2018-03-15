@@ -1,0 +1,6 @@
+Bill Stewart <stewarts@ix.netcom.com> writes:
+
+I can see using keys with attributes in this way, for credentials or as
+other forms of authorization.  But what about for communications privacy?
+What is the attribute that tells you that using this key will prevent
+eavesdropping?

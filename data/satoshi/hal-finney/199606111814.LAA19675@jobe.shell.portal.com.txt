@@ -1,0 +1,21 @@
+Yes, this is a good point.  It might be addressed by having the later
+parts of a multi part message not be identified with the anon ID of the
+receiver, but rather with a random message label which is revealed to the
+receiver in the first part of the message (encrypted, of course).  Then
+the database owner could not tell which message parts went together just
+by looking at the messages.  Arrival times might give this away, though,
+if all parts of a multi-part message were sent at about the same time.
+
+
+Yes, there is a tradeoff with the batch size between efficiency and
+privacy.  The multi-part message issue does seem to make the problem
+potentially worse.  Maybe it would be necessary for anonymous receivers
+to mostly receive small messages, and/or make the message granularity
+relatively large.
+
+Some of these kinds of volume- or correlation-based traffic analysis
+techniques can be countered by requesting dummy messages, ones which the
+receiver won't be able to read.  If he asks for five messages every day
+from that day's batch then it doesn't leak any information about which
+ones are for him.  Asking for a random number averaging five may work
+even better, if occasionally he really needs to read six.

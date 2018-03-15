@@ -1,0 +1,4 @@
+Sorry, my mistake: the directory is /mpj, not /pub/mpj.  Again, the site is
+csn.org.  You will have to read the file README.MPJ which tells the name
+of a "secret" directory to cd to (which changes every time).  Then look at
+pgp_tools/pgptl*.

@@ -1,0 +1,66 @@
+dlv@bwalk.dm.com (Dr.Dimitri Vulis KOTM) writes:
+
+This is a potential problem, but there are some other considerations.
+
+First, there is no particular reason why one recipient of some email from
+the remailer should know or even suspect that other people have the same
+email waiting.
+
+Then, to defend against raids like this, the material could be separately
+encrypted to each recipient.  There would be no way to know that material
+sent to one recipient matched material sent to someone else.  The raiders
+would just find a bunch of encrypted files.
+
+Of course, if it were a sting operation, with the recipients being lured
+or entrapped into requesting information they shouldn't, then the sender
+might avoid using these countermeasures.  However, there wouldn't really
+be any need to use a remailer for a sting operation like this, it could
+be done just by offering the material from an ordinary address.
+
+More generally, I think we need to keep in mind what a remailer does and
+what it doesn't do.  The essential function of the remailer is to provide
+anonymity via mixing messages.  It does not provide confidentiality of
+message contents.  That has to be taken care of by encryption.  And,
+as I wrote yesterday, it doesn't (can't) keep secret who the people are
+who send and receive anonymous mail.  All it can do is to disguise which
+particular people send and receive to each other.
+
+The same is true of a DC-net or a perfect Chaumian mixnet.  These systems
+do not disguise their particpants, or protect the confidentiality of their
+message contents; they only hide the knowledge of who is talking to whom.
+
+Having said that, I do like some aspects of this idea:
+
+
+(The "default true" is going to allow the same kinds of abuse which we
+have seen in the past.  Some remailers may be able to tolerate this, but
+as we have seen, many can't.)
+
+
+This is what I like.  It's a lot simpler than trying to keep a copy of
+the anonymous mail and deliver it later when the person asks for it.
+Just let him know that someone is trying to reach him anonymously, and
+let him enable that if he wants to be able to receive the next anonymous
+message that comes in for him.  You can load his permission message down
+with all kinds of disclaimers that say he knows he's likely to receive
+obscene, threatening and illegal material, that he doesn't mind, that
+he knows the remailer is an automated system which doesn't look at the
+contents, etc.  Not only does this give you a defense but it makes the
+person think about what he's getting into, so he will in fact be better
+prepared when something bad comes his way.
+
+Plus, having taken positive action to enable receiving anonymous mail, he
+will hopefully be more knowledgable about how to request that you stop,
+and it won't be such a big deal.  He opens the pipe, and if he gets a
+face full of sewage, he closes up the pipe right away.  You warned him.
+
+
+Key servers wouldn't be the only place to store this information.  I think
+the remailer could keep its own list, especially if it were defaulting
+to "off".  This way recipients wouldn't have to generate and submit PGP
+keys, which is more work than just sending a reply to a remailer giving
+the OK to receive anonymous mail.
+
+
+More cautious or politically vulnerable remailers might default in the
+other direction.  It would be a matter of the individual situation.

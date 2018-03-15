@@ -1,0 +1,8 @@
+lcottrell@popmail.ucsd.edu (Lance Cottrell) writes:
+
+
+
+I think this might be caused by a disagreement between the To: address in
+the message itself and whatever "To" address was passed to sendmail on
+the command line.  If you pass -t to sendmail then it won't look for a
+"To" address on the command line, at least as configured at my site.

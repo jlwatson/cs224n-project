@@ -1,0 +1,14 @@
+Yes, I think this was the idea of the original "software key escrow"
+proposal, from TIS as I recall.  The sender would encode the session key
+with a government public key but there was some trick by which the
+receiver would verify that the session key was in fact encoded correctly
+and refuse to operate if it was wrong.  So any attempt to corrupt or
+remove the LEAF would be detected if you were talking to a compliant
+receiver.
+
+That is part of why Matt Blaze's Clipper attacks were so significant,
+because they went to the heart of this requirement.  It was always clear
+that you could superencrypt with Clipper, but Matt found a way in which
+you could send a LEAF which would be accepted by a regular Clipper phone
+but which had bogus data for law enforcement.  So this defeated the
+requirement of not interoperating with rogues.

@@ -1,0 +1,11 @@
+"Rick H. Wesson" <wessorh@ar.com> writes:
+
+
+Unfortunately, I don't think perl is suitable, as it has no facilities for
+multiprecision arithmetic.  I was talking to Henry Strickland at Crypto 
+and he is working on a package that would use the scripting language tcl
+(which is a little similar to perl) and could do this stuff.  Alternatively
+you could use a public-domain package like gmp or perhaps the pgptools 
+library created by Pr0duct Cypher.  That last one has MD5 hash built in so
+it would have everything you need.  For that you would have to program in C
+or perhaps C++ though.

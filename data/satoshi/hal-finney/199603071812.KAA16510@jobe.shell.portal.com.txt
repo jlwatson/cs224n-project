@@ -1,0 +1,7 @@
+I don't think this satisfies the requirements.  Once Bob calculates H'
+and sees that it matches H, he knows that Alice likes him, but Alice
+doesn't know that he likes her.  The whole point of the protocol was to
+be fair.  Bob must only learn that Alice likes him if Alice is guaranteed
+to learn that he likes her.
+
+I have posted an alternate solution in another message.

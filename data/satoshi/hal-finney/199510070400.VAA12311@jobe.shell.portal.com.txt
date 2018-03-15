@@ -1,0 +1,4 @@
+Although I have been in effect arguing against using unsigned and
+uncertified keys, I don't think the PGP web of trust model works that
+well either.  I have an essay on this at <URL:
+http://www.portal.com/~hfinney/web_of_trust.html>.

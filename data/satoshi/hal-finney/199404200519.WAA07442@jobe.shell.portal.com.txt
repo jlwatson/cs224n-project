@@ -1,0 +1,10 @@
+Afabbro quotes someone in Finland saying, re anon.penet.fi:
+
+I wonder if this could be a concerted denial-of-service attack.  Julf's
+remailer has had the highest profile of any, and he certainly has his share
+of enemies.  Maybe somebody figured it was easy to shove a few thousand
+messages a day his way.  This makes the server slower and less convenient for
+others to use, as well as putting an extra load on the trans-Atlantic links
+just for anonymous messages.  It also could cost someone some money which
+could be blamed on Penet.  This could be an attractive strategy for an enemy
+of anonymity.

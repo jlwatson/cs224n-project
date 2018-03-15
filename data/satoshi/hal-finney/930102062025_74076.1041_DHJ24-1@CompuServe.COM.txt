@@ -1,0 +1,33 @@
+I'll just relate one story that happened to me today.  I wanted to
+try an experiment in which I would use two non-cypherpunks remailers
+to set up a chained anonymous address.  One is anon.penet.fi, which
+doesn't do any encryption, but which will allow you to specify an
+arbitrary destination address.  The other is pax.tpa.com.au, which
+does PGP decryption (but you can't encrypt the remailer destination
+address like you can with our remailers).
+
+The Pax remailer lets you send them a PGP key which it saves.  Then,
+any future messages to you are encrypted by the remailer using that
+key.  That way message contents are always protected between Pax and
+you.
+
+I wanted to send Pax a key via the Penet remailer so that Pax wouldn't
+know who I really was.  I tried this, and got a message back from
+Pax saying:
+
+Error: you didn't include a public key for us !
+So we can't assign an alias or send you our public key.
+
+But I _had_ sent them a public key.  After some head-scratching
+I figured out the answer.  My public key had started with the string:
+"-----BEGIN PGP MESSAGE-----".  But the Penet remailer strips sigs, which
+it considers to be any line starting with "--".  It thought my PGP key
+was a signature!  It had stripped it, so that Pax received only a
+blank message.
+
+I haven't thought of a way around this problem yet.
+
+Now, Edgar may take as the moral of the story that remailers should
+have smarter sig recognition.  But I take the moral to be that munging
+mail messages may cause problems when people try to use it for something
+which you didn't anticipate.

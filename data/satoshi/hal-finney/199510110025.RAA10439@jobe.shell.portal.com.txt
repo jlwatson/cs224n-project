@@ -1,0 +1,37 @@
+Michael G. Reed <reed@itd.nrl.navy.mil> writes:
+
+
+There seems to be a convergence on this approach to a hardware
+solution.  HP has been pushing for a model in which software with hooks
+for hardware encryption will be allowed to get exported.  Then you can
+plug in whatever level of encryption you are able to have in the
+form of a card token.  Traditionally NSA has opposed export of software
+with hooks but there are some indications that this method could be
+accepted eventually.
+
+Conceivably we could get to a situation where most encryption is done in
+hardware, with the big, ubiquitous software packages like Netscape and
+Word and their descendants just having hooks.  This would have some
+advantages but overall I think it would be detrimental to cypherpunk
+goals.  One of the biggest problems faced by those who want to restrict
+access to encryption is how easy it is to do.  PGP and other programs are
+virtually impossible to control.  They are easy to write and people can
+spread them around trivially.
+
+But hardware is not so simple.  If the only effective way to get
+convenient communications with your net access software became to use a
+hardware token, then it would be a lot easier to put on restrictions.  An
+underground effort to manufacture and distribute tokens would be much
+less practical than one to do the same thing for secure software.
+
+I would like to see companies which add hooks for hardware also begin
+adding hooks for software packages as well, at least in their domestic
+versions.  In the case of Windows, for example, a DLL interface to
+provide encryption functions should not be hard to add using a similar
+API as for the hardware crypto card.  Similar interfaces should be
+possible on other OS's.  Companies which do this will demonstrate their
+commitment to making good quality cryptography available to their
+customers.  A system which is "open" only to the extent that a hardware
+card can be added is not sufficient.  A truly open system will allow
+software add-ons as well.  Let's keep an eye on how this develops and let
+the companies know how we feel.

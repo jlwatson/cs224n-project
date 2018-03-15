@@ -1,0 +1,9 @@
+alt@iquest.net (Al Thompson) writes:
+
+PGP could be hacked fairly easily to do this (in fact there is a
+program around called stealth that does this to some extent), however
+in the context of this discussion we were discussing more the issue of
+checking the signature on a file.  For that we do need a hint about
+whose signature purports to be there.  PGP presently provides this in
+the form of the low-order 64 bits of the key modulus, and this provides
+problems in implementing the key database in distributed form.

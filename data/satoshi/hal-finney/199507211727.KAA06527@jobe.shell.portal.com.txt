@@ -1,0 +1,117 @@
+I agree with this general approach, but I looked into it in some detail,
+and SOCKS has a fatal flaw for my purposes: the address to connect to is
+passed as an IP 32-bit address.  That means the software on the PC
+has to do the DNS lookup.  And *that* means that the ultimate site being
+connected to is revealed.
+
+One of my goals is to protect the secrecy of the sites that a person is
+browsing.  If an in-the-clear DNS lookup is done for each site that will
+hardly be effective, even if the actual connection request is encrypted.
+An eavesdropper on the internet will be able to observe the DNS lookup
+traffic.
+
+Now SOCKS V5 is going to change this; it allows the proxy to receive the
+request as a hostname rather than an IP address.  So no DNS lookup is
+necessary by the client.  Conceivably a modified winsock such as Enzo is
+suggesting could use that protocol, although it is not really stable
+yet.
+
+Also, I don't know how easy it is to intercept winsock calls and modify
+them in this way.  So the proxy I have written works using the HTML proxy
+hook rather than the SOCKS hook.
+
+
+This sounds very good if it already is almost working.  The TCP
+connection which is opened would have to be to a server on the local
+machine, so it would be important that the software support that.  Also,
+the local SOCKS relay would of course not want its winsock calls to be
+intercepted and translated in this way, so there would need to be some
+alternative way to access "vanilla" winsock.  Can you give any
+more information on the NEC work?
+
+
+For chaining purposes you would connect to the relay on the net on the
+secure port and request a TCP connection (not a SOCKS connection) to
+the second relay in the chain at its secure port.  Then you negotiate a
+secure connection from your home PC to that second relay so that the
+traffic you send to it won't be visible to the first relay.  Once that
+is done you send a SOCKS request to that second relay to connect to the
+next machine in the chain.  So really only function (a) is needed for
+the relays on the net.
+
+The relay on the PC needs to be able to do (c), but more importantly it
+needs to be able to set up encryption chains, where every outgoing packet
+is nestedly encrypted, with the outermost encryption for the first relay
+in the chain, the next layer for the next relay, and so on.  Each relay
+decrypts and strips off one layer, then passes the remaining raw data
+through.  This way no one relay knows who is talking to whom or what they
+are saying.  The reverse happens for return packets.
+
+
+I have written a simple dummy relay for winsock and it requires a pretty
+different programming style than for Unix.  Netscape has a habit of
+firing off a bunch of requests at once, so it has to be extremely
+asynchronous.  For Windows this means you get a windows message every
+time a packet arrives and use non-blocking I/O.  In Unix this is usually
+handled by forking a new process to handle each independent connection.
+Non-blocking I/O can be used in Unix but I don't think there is a
+non-blocking connect as there is in Windows.  Maybe Windows 95 will allow
+a more Unix-style communication model, though.  Should the proxy require
+Windows 95, or will Windows 3 still be in widespread use for another
+year or two?
+
+Also IMO the requirements for the Internet relay are pretty different
+than for the Windows relay.  The Internet relay needs only to be able to
+decrypt/encrypt on the port where the request comes from while sending
+plain data the other way.  It needs a config file so the owner can
+control what kinds of outgoing TCP connections can be done.  The Windows
+one needs to be able to do nested encryption (if chains will be allowed
+eventually), to set up chains, etc.  So for these reasons I am inclined
+to think that the two relays would be separate programs.
+
+
+The Windows version would need to decrypt incoming data; you don't want
+that coming in the clear.
+
+
+The other problem with Netscape SSL is that it will only open secure
+connections to URL's marked "https://".  Similarly SHTTP has a special
+URL "shttp://".  There is no provision in either one to open a secure
+connection to "http://".  A relay proxy would allow all connections to be
+encrypted between the PC and one or more relays.
+
+I am a little unclear on the certificate situation.  As we saw with the
+PGP key servers before RSAREF PGP existed, RSA put pressure on these
+public sites which they saw as contributing to the use of infringing
+software.  Similarly having a certificate created by infringing software
+might be seen as illegal, even if RSAREF was actually used for the
+handshaking in the protocol.  Server operators are quite vulnerable to
+threatening letters from RSA.
+
+Another problem with RSAREF is that it does not allow you to exchange a
+session key using RSA encryption in a straightforward manner.  The entry
+points you have legal access to choose a random session key, PK encrypt
+it, send it, and then encrypt the message using that session key with DES
+or 3DES.  However I notice that SSLREF calls undocumented entry points
+like RSAPrivateDecrypt and RSAPublicEncrypt.  I am not sure how they are
+able to do this.  Maybe they got special permission from RSA.  I don't
+know whether the SSLEAY library would be able to do this without such
+special arrangements.
+
+
+Yes, really there is no need to make it be SSL specifically except for
+the fact that it is an explicit protocol for which libraries exist.
+
+
+
+Yes, I think the overall approach is very promising.  Perhaps my desire
+for chaining is too ambitious for a first attempt.  The transparent
+intervention of SOCKS that you describe would be very nice if that is
+available soon.
+
+One other problem is the risk taken by people running the relay servers
+on the net.  These could be used to launder connections by hacker /
+cracker types.  So probably only a limited set of outgoing ports would be
+permitted, say, 80 and 1080 which are the most common http ports.  This
+would restrict the utility of the SOCKS approach for other uses like
+secure telnet, unfortunately.

@@ -1,0 +1,5 @@
+I find that for the numbers I have tried, that (p-1)! mod p = (p-1) if
+p is prime, else it equals 0, with one exception (p=4).  So if this
+is true (probably a standard result; it sounds familiar) then it might
+actually be easier to find the factorial of a larger number mod a
+prime than a smaller one.

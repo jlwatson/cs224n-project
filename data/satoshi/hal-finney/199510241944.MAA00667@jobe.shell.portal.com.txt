@@ -1,0 +1,22 @@
+nobody@replay.com (Name Withheld by Request) writes:
+
+
+I don't believe this $250 is correct.  The only place I see such a number
+is on the application form, in the following clause:
+
+"A maintenance fee of the foreign equivalent of $10 will be imposed each
+statement period if the balance in your account falls below the foreign
+equivalent of $250 on any day of the period."
+
+This is for a "WorldCurrency Access Interest Account", which I don't
+think is what is used for ecash.  For ecash the account opening fee is
+$11 and the per-month fee is $5.  I don't see any reference to required
+account minimums.
+
+As far as the issue of coding up a payee-blinding cash system compatible
+with this ecash, I agree that it would be good to see some specs now that
+ecash is for real.  IMO Chaum has been getting a free ride based on his
+reputation, with many people assuming that anything he is associated
+with must be done right.  It is time for him to open his hand and reveal
+his protocols so that people know exactly what they are trusting their
+money to.

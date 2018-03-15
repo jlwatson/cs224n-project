@@ -1,0 +1,26 @@
+JWS writes:
+
+
+
+This seems like a good approach for a lot of cases.  You end up having
+three classes of transactions: small, medium, and large, with slightly
+different strategies for each.  For large, you do on-line checking; for
+medium, you detect double-spending after the fact and use crypto to find
+his identity; and for small you set up an account and dip into that a bit
+at a time.  I am curious about whether you are focussing more on some size range
+in your plans.
+
+One problem I still see is the small transaction where you don't tend to
+use the same provider again and again.  On the net there are a few sites
+(well, quite a few, I suppose) which are heavily used, but there are a
+lot of places I might like to just browse through.  Paying a penny per
+site isn't going to bother me much, but if I have to set up an account
+for each one ahead of time I'm probably not going to bother.  So I still
+think there are problems with the fractional-cent-per-web-site model
+which I have been hearing about.
+
+
+Is this an approach where you determine to whom you will be sending the cash,
+then make it into a "check" which can only be spent by that recipient?
+Doesn't that require the bank's (cash issuer's) help?  Or is this something
+else?

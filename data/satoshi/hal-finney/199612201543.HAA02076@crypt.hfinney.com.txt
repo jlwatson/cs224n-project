@@ -1,0 +1,34 @@
+Probably an easier way would be for the chip manufacturer to issue a
+key certificate (signature) on the chip keys.  Then it is a trivial
+matter for any software manufacturer to verify that a proferred chip
+key is legit; just check the cert.
+
+
+Hey, it's a free world, right?  Some people only run authenticated
+code from big companies; other people turn off the authentication
+bit in the CPU and can run any old thing they stumble across on the net.
+Everybody's happy.  The first group doesn't have to worry about viruses,
+or at least they have somebody to sue if they see one, and the second
+group gets to run all the freeware and PD code they can today.
+
+
+Yes, I think this is a point often missed in these discussions.  People
+say, why would I want a CPU which will limit the software I can run,
+something which will let a software maker give me a version of his
+program which will only run on my CPU and which I have no ability to
+share with others?  What's in it for me?
+
+The answer presumably is that the software manufacturer will sell software
+with such limits for much less than he will sell unlimited software.  That's
+because software piracy is such a major problem, and this way he can be
+protected against piracy from this copy of his program.  So people with
+these CPU's can buy their software a lot cheaper.
+
+Now if you only use pirated software anyway, which you get for free, then
+obviously this is not much of an incentive.  It is only for people who
+pay for their software.  But that is a significant market.
+
+Of course the big downside is that the track record of tamper resistant
+hardware has not been too strong lately!  If a system like this gets into
+widespread use and somebody finds out that shooting X-rays at the chip
+exposes its secret key, you've got a big problem.

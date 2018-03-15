@@ -1,0 +1,3 @@
+Rather than re-post them, I put a copy of my message up for ftp at the
+cypherpunks ftp site.  <URL:
+ftp://ftp.csua.berkeley.edu/pub/cypherpunks/incoming/pgppad.scr >

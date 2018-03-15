@@ -1,0 +1,17 @@
+fc@all.net (Dr. Frederick B. Cohen) writes:
+
+I had missed this in your original posting.  Here it is again:
+
+
+Chosen plaintext attacks against RSA don't work in the context of RSA
+signatures, because the input to the RSA algorithm is a hash of the
+message being signed.  You can't control the hash the way you need to to
+implement a chosen plaintext attack.  (You can't "choose" the hash.)
+
+For example, one kind of chosen plaintext attack would be to get an RSA
+signature on 2, on 3, on 5, on 7, and so on, on all the primes.  This
+would let you create an RSA signature on any number by factoring the
+number and multiplying the RSA signatures of its prime factors.  But
+there is no way to do this in practice because as RSA-based signatures
+are actually implemented only hashes are signed.  This is done exactly to
+prevent this and similar attacks.

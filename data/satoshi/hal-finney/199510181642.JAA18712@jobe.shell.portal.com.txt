@@ -1,0 +1,18 @@
+tbyfield@panix.com (t byfield) writes:
+
+
+I think a remailer which forged headers would get people even angrier
+than one which was up front about what it was doing.  Forging headers is
+really considered antisocial by a lot of people on the net.  If you could
+do it safely, you wouldn't need remailers.  Since you need them, it's not
+safe, hence the message will probably get traced back to the remailer.
+This is prima facie evidence to get an account yanked at a lot of places.
+
+
+The "human ID" thing requires a shared secret at both ends, which isn't
+generally practical between a customer and a remailer.  Also, it was
+specific to the needs of human minds; if you have a computer and a shared
+secret you do a lot better to use DES or IDEA (and let the shared secret
+be the key), and even without a shared secret you can use public key
+techniques for identification and authentication.  So I don't think the
+human ID approach would be relevant here.

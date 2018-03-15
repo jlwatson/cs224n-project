@@ -1,0 +1,9 @@
+tomw@orac.engr.sgi.com (Tom Weinstein) writes:
+
+
+The problem with this is that Bob and the bank can now collude to trace
+Alice, since he sees what she sent to the bank.  This is not as bad as in
+the forward traceability case of regular ecash, because it happens after
+Alice has completed her bank transaction, rather than before, but it
+would be better to be untraceable since that is the whole point of this
+variation.

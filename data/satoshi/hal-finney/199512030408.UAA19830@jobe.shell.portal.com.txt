@@ -1,0 +1,87 @@
+I will join the chorus of criticism:
+
+
+I don't understand this.  What is the better solution?  No other solution
+seems to be discussed by Clark.  Most of his message is devoted to
+rationalizing the inevitable changeover to key escrow, which he just
+dismissed as unacceptable.
+
+
+This isn't true!  The US government (and I believe most other Western
+governments, France excepted) does not presently provide any
+restrictions on providing products to US citizens which have strong
+cryptography.  There are serious constitutional questions about whether
+it could ever do so.  Clark's message seems to be based on the
+assumption that legal restrictions on crypto are a fait accompli.
+Nothing could be further from the case.  What makes me mad is that his
+messages seems to promote an attitude which could increase the
+likelihood of these kinds of restrictions.  If people think the battle
+is already lost, they will be less likely to fight.  IMO this is going
+to be a big, knockdown fight and the eventual outcome is far from
+certain.
+
+
+Again Clark is preaching acquiescence.  We have no say in the matter.
+Our phones can be tapped any time the FBI wants.  What is the relevance
+of this to the issue of network communications privacy?  Doesn't this
+again sound like a justification for giving up the battle before it is
+joined?  Where is his righteous indignation?  Where is the recognition
+that the right to tap communications is not granted by God but an
+accident of technology, one which can be taken away by technological
+progress as easily as it was granted?
+
+
+False!  I can open a company today in this country and take exactly that
+position, and the US government will NOT put me out of business.  What
+country is Clark living in?
+
+
+As I wrote in another context, when a question is framed in terms of
+conflicts between the rights of governments and citizens, it is based on
+a totally misguided premise.  There are no conflicts between the rights
+of governments and citizens in our country.  The only rights are those of
+citizens.  The real issue is the conflict between the rights of the
+citizens to privacy and freedom versus their right to security and
+safety.  I think we all know what Ben Franklin had to say about that.
+
+
+Again Clark attempts to anticipate the advent of a totalitarian style
+system of controls on access to cryptography in this country.  Should we
+really base our policies on the assumption that this will actually
+happen?  Will the American people stand by for such an unprecedented
+invasion of privacy?
+
+Some governments are capable of all kinds of evil restrictions on
+products.  Is Netscape committed to building in provisions so that their
+software won't access sites owned by Jews, so they can sell in Arab
+countries?  Obviously they will draw a line somewhere.  I urge them to
+consider the moral issues involved in endorsing Big Brother GAK systems
+before accepting them as just another cost of doing business.
+
+
+I am afraid that what the companies really want is global consistency.
+That way they can use one set of policies for all countries, and no one
+company can get a competitive advantage over others by producing stronger
+privacy protections, because they will be forbidden by law to do so.
+Whether the policies protect freedom and privacy or not is not really
+relevant from this view.
+
+If this is the way things develop, I predict that it will not be
+acceptable to the general public.  Netscape more than anyone has seen
+how much pressure can be brought through a public perception of weak
+software security.  Our own brute force key hacks as well as the RNG
+seed problems have well demonstrated that.  Do you think the same thing
+won't happen, only far worse, if the government tries to force weak
+software down people's throats?
+
+I understand that Jeff has stated that Netscape is actually opposed to
+GAK.  It would have been nicer to hear that from Jim Clark, in
+unequivocal terms.  The overall tone of his message, as I have pointed
+out above, is one of accommodation and compromise with government
+restrictions on the rights of free citizens to communicate securely.
+He almost seems to think that free strong crypto is already illegal.  I
+think he needs to take a good hard look around and remember that he is
+still a free citizen of the United States.  My guess is that he has
+spent too much time in the company of law enforcement people.  He had
+better start trying to understand the grass roots members of his market
+if he wants to continue to succeed.

@@ -1,0 +1,16 @@
+PGP checks specifically for the case of keys whose IDs match but the
+keys themselves differ.  It has always been obvious that keys can easily
+be synthesized with given IDs.  I added this warning in version 2.0
+about four years ago, in the keyadd code:
+
+"\n\007Warning: Key ID %s matches key ID of key already on
+key ring '%s', but the keys themselves differ.
+This is highly suspicious.  This key will not be added to ring.
+Acknowledge by pressing return: "
+
+
+As you can see, it does in fact literally ring an alarm bell - the "\007"
+above is the ASCII bell character.
+
+Disclaimer: I have not worked on PGP since version 2.0 so possibly my
+code has been changed or eliminated, but I think that is unlikely.

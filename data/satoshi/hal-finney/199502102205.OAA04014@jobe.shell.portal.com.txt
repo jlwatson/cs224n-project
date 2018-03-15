@@ -1,0 +1,24 @@
+Rick Busdiecker <rfb@lehman.com> writes:
+
+For one thing, you might want to know that you have an encrypted
+message on your hands and not just somebody's misfired GIF.  For
+another, you might want to know where the encrypted block begins and
+where it ends.  You might also want to have information about what
+kind of encoding has been done on the output of the encryption (base64,
+uuencode, leave it as pure 8-bit binary, etc.)  And you might want to
+have information about what kind of encryption was used, what key
+was used, etc., in case you are supporting multiple encryption
+formats and keys.
+
+PGP, FYI, does include most of this information in the clear, albeit some
+in binary format.
+
+This information is generally needed for the receiver to successfully
+decode and receive the message, so it does have to be in the clear.  Now,
+there may be some circumstances where this is not desired, and where you
+really do just want to hand the receiver a block of apparently random
+data, with no indications whatsoever what it is.  Then by some
+out-of-band means you have to have arranged with the receiver that he
+will know exactly what transformation to do to get back the original
+data.  For that I suppose you could just use text/plain (or something
+like application/data?), and it looks as opaque as could be desired.

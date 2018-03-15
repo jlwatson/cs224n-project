@@ -1,0 +1,52 @@
+I'm not sure about this.  Liquidity refers to the ease of conversion to
+cash.  Some kinds of information may be easily convertible, others may
+not.  Even with digital cash the relevant definition of liquidity might
+be acceptability or ease of conversion to other currencies.  Digital cash
+is easy to copy and so there will always be a risk in accepting it unless
+the bank is accessible or it is highly reputable and is known to cover
+bad (duplicate) cash.  Communications problems, whether technical or
+political, may make such access difficult.  And banks, being unable to
+collect assets by force to cover their debts, may be vulnerable to some
+kinds of failures that governments are not.
+
+
+Well, there are some more requirements.  The bank has to be in a setup
+where it cannot easily be shut down, or more specifically it does not
+experience any reasonable probability of being shut down in the near
+future.  The net links have to be reliable, as I mentioned above.
+
+The bank presumably has to convert digital money back to cash as well as
+converting in the other direction.  The question is, how do you get your
+cash to/from the bank?  Via an anonymous, private, electronic transaction?
+If you can do that, you don't need digital money; your cash is already
+electronic and private.  But if you have to send your cash the old-
+fashioned way then you are still vulnerable to the same government pressures
+you have today.
+
+
+This is the point in these kinds of discussions that I always lose track
+of things.  We are dazzled by the picture of monetary flows flashing all
+around the world.  What I am always unable to pin down is, what exactly
+prevents this kind of thing from being done today?
+
+If you want to invest in gold, you can go down to the coin store and buy
+some, right?  Or you can put your money into a gold-investing mutual fund
+and use it as a checking account.  If you want yen, or marks, you can invest
+in those.
+
+If the point is to do so secretly, why is it easier to mail your paycheck
+to the digicash bank in the Bahamas than to mail it to an existing bank
+there?
+
+
+Perhaps my problem is that my financial affairs are too limited to really
+benefit from intricate financial transactions.  Investing in a non-dollar-
+denominated mutual fund would be a major adventure for me :-).
+
+If avoiding taxes is the major goal, my problem is that by far the bulk of
+my taxes are withheld from my paycheck.  I know, Sandy or Duncan said, "What?
+You still have a paycheck?" but let's face it, most people do.
+
+It seems to me that the weak point in these bypass-the-government digicash
+schemes is the conversion between paper cash and digital cash.  That looks
+like the choke point where the government can still keep control.

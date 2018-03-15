@@ -1,0 +1,20 @@
+rah@shipwright.com (Robert Hettinga) writes:
+
+
+Well, I still don't follow this analogy.  By this reasoning virtually every
+commodity that someone is willing to buy and sell is a callable bond.  The
+local gold dealer may sell me gold coins for cash, take the cash, put it in
+the bank and collect interest, then buy my coins back from me later.  Is the
+gold a bond?  Am I "calling in my bond" when I sell the gold to him?  I don't
+get it.
+
+Re interest-bearing cash:
+
+Let's see, I'm selling spindles for $2.59 and you come up with a piece of
+ecash you bought ten years ago for $1.00, which is now worth $2.59, and I
+sell my spindle to you for it.  I deposit the cash in the bank and it's worth
+$2.59.  Now who isn't this fair to?  How is it different from you putting
+$1.00 into your interest-bearing checking account ten years ago and writing
+me a check for $2.59 today, the amount your $1.00 grew to?
+
+Sorry, I guess I'm missing a lot of your points.

@@ -1,0 +1,68 @@
+I was speaking of present conditions.  If and when proven-secure Unix
+systems start being used as remailer servers on the net then it may be
+worthwhile having a larger key.
+
+The point is that there is no advantage in strengthening an element of
+the system which is not its weakest link.  Factoring my remailer keys
+of 510 bits is not, I am sure, the easiest ways of finding the secret
+keys.
+
+
+It's not clear that this is the case, though, is it?  What is the rate of
+creation of new remailers?  It doesn't seem that high to me.  We can't
+know how quickly they are being broken, but it is just a matter of
+getting root privileges on the remailer machine.  From what I hear of the
+capabilities of experienced hacker/cracker types, it is very possible
+that remailers are being broken faster than they are being created.  Of
+course, there is no way to know.
+
+
+I meant that the home PC system would have an ongoing connection to the
+net, perhaps in the form of periodic uucp or POP connections.  By using
+batching, traffic analysis would be no easier for such a system than for
+any other.
+
+
+I am not sure what you mean by this.  My experience is that new CERT
+advisories come out every few months which represent security holes big
+enough to steal remailer keys.  The most recent one, out just a couple
+of weeks ago, is a bug in sendmail and maybe some other programs which
+could allow remote users to get root access if they have access to a
+DNS server:
+ftp://cert.org/pub/cert_advisories/CA-96.04.corrupt_info_from_servers
+
+Even if a remailer host operator is on the ball and fixes each one as
+it is announced, he still was vulnerable before the announcement was
+made.  In many cases these bugs are found by hackers who exploit them for
+bad purposes before the good guys figure out what they are doing.
+
+Suppose a reasonably large prize of several hundred or a few thousand
+dollars were offered for someone who could break in and steal the key
+of some remailer on a net-connected Unix system.  Wouldn't you agree
+that the prize would be claimed before too long?
+
+
+No, my point is that it doesn't really help to strengthen something which
+is not the weakest link in the chain.  My rationale for having a short
+key is that it more accurately reflects my estimate of the degree of
+security provided by my remailer.  Actually probably an even shorter
+length than 510 bits would be appropriate, maybe something more like 300
+or 400 bits.  Going to a 1000 bit key would probably mislead people into
+thinking that they only way an attacker could trace their message would
+be by using a zillion mips-years of computing power or something.
+
+
+Yes, I think I misstated my point here.  My real point was that large
+keys are inappropriate.  Maybe you are right that it is easier to start
+up a remailer than to break one.  On the other hand, unless you also break
+the ones you don't run, you (as a LEA) are not in a position to
+accomplish your presumed goal, which is to track criminal messages to
+their source.  So in practice I think they would try to break remailers,
+and again I am sure they will not do so by factoring keys, even for
+mine.
+
+It's also my personal impression that remailers are not mostly run by
+LEA's, just on the basis of the occasional postings I have seen by
+remailer operators here.  Frankly I doubt that remailers are enough of a
+problem to be worth the effort on the part of a LEA to run one and deal
+with all of the hassles.  But this may change in the future.

@@ -1,0 +1,35 @@
+No, this is not true.  PGP does not implement any form of trust
+delegation as you have described here.  Rather, each person must
+explicitly indicate that they trust someone as a key signer.  Without
+that individual action, snoopy and bob in the above example are useless
+to alice as key signers.
+
+What PGP does do is that if alice has indicated that she trusts jane and
+snoopy, and she needs a key for bob, she can use bob's key signed by
+snoopy and snoopy's key signed by jane to decide that she has a good key
+for bob.  Just having bob's key signed by snoopy is no good, even if
+alice trusts snoopy, because she can't be sure that she actually has
+snoopy's key.  So she needs snoopy's key signed by someone else that she
+trusts, in this case jane.
+
+
+There was considerable discussion in the design of PGP's key signatures
+on this issue, and Phil decided against trying to let people express
+publicly how much they trust others.  Among other things, he was afraid
+that people would feel compelled to lie for social reasons, leading to
+inaccurate trust estimates and weak key validations.
+
+There has been considerable discussion in the "official" Internet
+encryption working groups (PEM and its follow-ons, for example) about
+issues of trust in the context of Certificate Authorities which exist in
+a hierarchical structure and sign each others' as well as end users'
+keys.  Different CA's may have different policies about how they check
+identity, and figuring out from this how much trust to put in a key
+certificate ends up being a potentially messy problem.
+
+I also found a paper several years ago, I think by the USC/ISI
+people, about systems which would allow trust delegations in a model more
+like the web of trust.  Also some of the recent work by Matt Blaze and
+(largely independently) Ron Rivest for generalizations of key
+certificates could perhaps serve as a basis for extending trust in a web
+model.

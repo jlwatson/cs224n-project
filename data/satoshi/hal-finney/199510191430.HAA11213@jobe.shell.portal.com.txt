@@ -1,0 +1,6 @@
+lyalc@ozemail.com.au (lyal collins) writes:
+
+
+Usually, decrypt operations are needed to ISSUE certificates but not to
+verify them.  Verification is equivalent to an encrypt operation using a
+small exponent, and may be roughly about 100 times faster than a decrypt.

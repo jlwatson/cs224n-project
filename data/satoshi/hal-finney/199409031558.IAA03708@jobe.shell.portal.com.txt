@@ -1,0 +1,41 @@
+0x7CF5048D@nowhere.toad.com writes:
+
+These requirements are slightly overkill, IMO.  n does have to be prime,
+but what you really want is to have g generate a "large enough" sub-group
+of the numbers from 1 to n.  One way to achive this is to have (n-1)/2
+also be prime, in which case the order of g (the length of g^0,g^1,...,1)
+is either 1, n-1, 2, or (n-1)/2.  The odds of it being 1 or 2 are
+practically nil, so you could really use a random g since a period of
+(n-1)/2 is more than good enough.  Or, you could test g by raising it to
+the (n-1)/2 power and if the answer is 1 reject it and try another g.
+That way you get one with period n-1 which is maximal.
+
+There was a program posted here last time we discussed this (maybe four
+months ago?) which sieved for both n prime and (n-1)/2 prime.  It was
+pretty fast.
+
+One thing you can do which IMO is just as good is to choose a g with a
+considerably smaller period.  There are two known ways to solve
+discrete logs; one depends on the size of n and the other depends on
+the size of the order of g(|g|).  The second one is much weaker so if
+you choose the size of |g| to provide about as much security as the
+method based on the size of n you get something like n=512, |g|=140.
+This is used in the DSS, I believe.
+
+The advantage of this is that it is faster to exponentiate g^x in DH
+since x will be only 140 bits.
+
+So, to use this, pick a prime q of 140 bits, then find a prime n equal to
+kq+1 for some k, such that n is 512 bits.  This assures that there are
+some generators g which have a period of q.  There is an easy trick to
+find one: pick a random number a < n, and set g = a ^ ((n-1)/q).  It
+follows that g^q equals 1 (since it is a^(n-1)), and since q is prime it
+must be the order of g.
+
+As I said, you can always use the full DH, but you would be in good
+company using the small-q version.  One question is the size of q to use
+for n=1024.  I haven't seen a clear answer to that, but the general
+principle is that if solving discrete logs becomes X times harder, you
+should increase q by a factor of X^2.  So if DH is a million times harder
+for n=1024 than for n=512 (it's hard to tell with all of the O(1) factors
+in the formulas) then q should be 40 bits longer or about 180 bits.

@@ -1,0 +1,20 @@
+This provides no anonymity with respect to the bank, right?  The bank
+knows who is paying whom.  That's not very valuable IMO.  The bank is
+still a centralized place where all this transaction information exists,
+a fat target for privacy opponents.  I'd say that anonymity to the
+bank is more important than anonymity to the merchant for this reason.
+So I think you're going at this backwards.
+
+
+The big question with identity certificates is what procedures were followed
+in verifying the identity when the cert was issued.  If the CPA publishes
+some standard method, and his reputation is strong enough that people will
+trust him to follow it, then it might well be worth money to you to have
+him sign it.  This is the traditional role of the Certification Authority.
+
+
+It depends on the circumstances where you expect to use your key.  Within
+a small to medium circle of associates there may be some group members
+who sign keys and are trusted by other members of the group.  There is
+no particular reason for it to be difficult.  If you want a signature which
+will be accepted by everyone in the U.S. you have a harder problem.

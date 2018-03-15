@@ -1,0 +1,27 @@
+"Kipp E.B. Hickman" <kipp@warp.mcom.com> writes:
+
+
+
+
+What about the certification aspect?  Would servers be forced to pay
+for an RSA key certification?  This was a point I raised in my comments
+on SSL.  PEM's reliance on the RSA-based certification hierarchy has at
+least slowed its progress if not doomed it altogether.
+
+I understand that Netscape clients will embed certain Certification
+Authority keys and use them to validate signed server keys.  Does this
+also mean that only RSA-approved CA's will be allowed?  What if some CA
+in some other country not covered by RSA patents came into operation?
+Would your relationships with RSA still allow you to embed non-RSA-
+approved CA keys?  I would hope so.  RSA is both respected and mistrusted
+in the crypto community, so you wouldn't want to tie yourselves too
+closely to them.
+
+Have you heard of the "web of trust" concept implemented by PGP?
+This allows users to designate chosen individuals as trusted key signers
+and to authenticate keys on that basis.  It is non-hierarchical and
+decentralized. (There is also plenty of bad blood between RSA and PGP.)
+Will you be able to support decentralized authentication models like this?
+I hope this is something you will explore.
+
+(I have no financial interests in any of these companies or protocols!)

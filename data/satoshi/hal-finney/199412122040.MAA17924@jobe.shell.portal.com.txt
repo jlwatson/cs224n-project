@@ -1,0 +1,7 @@
+jrochkin@cs.oberlin.edu (Jonathan Rochkind) writes:
+
+
+There was some discussion here last week about remailers which don't let
+users put in "From:" lines.  This case shows a good reason not to allow
+them.  "Reply-To:" should be used to force a reply to some anonymous return
+address if you have one.  So perhaps filtering "From:" is a good idea.

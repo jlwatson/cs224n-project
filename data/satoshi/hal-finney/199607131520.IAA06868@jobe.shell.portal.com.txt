@@ -1,0 +1,13 @@
+That sounds very impressive!  The one problem I've run into with mail
+filtering software is that each message asynchronously spawns a separate
+filter process.  This can cause some conflicts with accessing disk files.
+I haven't used procmail so I don't know if it has this problem.  But if
+so you may need to be careful if there are any cases where two processes
+could be accessing the same disk files.  For example, what if two copies
+of an identical email message arrive at almost the same time, would your
+dup detection work.
+
+The other issue is the possibility of mail arriving out of order.  Looking
+for increasing timestamps may cause spurious rejection of some messages.
+On the other hand this is a difficult problem to handle in general so
+probably the current solution is OK.

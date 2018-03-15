@@ -1,0 +1,18 @@
+An interesting idea.  It reminds me of a barter system, with the similar
+problem of trying to put together a complex trade which is mutually
+acceptable.  I wonder whether it could be automated if people posted
+their holdings and what they would accept.  Then software could go into
+this database and try to put together a set of trades that will let
+someone make a purchase.  However it would seem to be very harmful to
+privacy to have to post all this information.
+
+There are some "lightweight payment" schemes out there which have the
+property that people only accept cash that is "for them".  Sometimes
+there is a broker involved who actually issues the cash on behalf of the
+merchant (the merchant trusts the broker to do this) so that customers
+need only go to a smaller number of brokers.  Then these systems can be
+based on heavier payment systems like digicash or credit cards which
+people use to open accounts with the brokers.
+
+I do like the decentralization idea, but these lightweight schemes have
+some of the same advantages.

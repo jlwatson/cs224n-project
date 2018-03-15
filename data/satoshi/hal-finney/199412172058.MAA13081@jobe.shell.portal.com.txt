@@ -1,0 +1,12 @@
+eric@remailer.net (Eric Hughes) writes:
+
+
+
+
+That's what I mean.  "Usually" they are, but that helps a snooper to
+check his guess.  Maybe it would be wise when using limited-length
+session keys to use larger encryption exponents just to confound an
+exhaustive search of the session key space.  I think it is surprising
+if there is no limitation on encryption exponent size for these
+exportable key systems, assuming that is the strategy the government is
+using.

@@ -1,0 +1,7 @@
+This was discussed here several years ago, under the name "anonymous
+message pools".  Myron Cuperman, the operator of the extropia remailer
+implemented one, although I don't know if it is still running (I
+haven't gotten any mail from it for years).  It was basically just a
+mailing list specifically for this purpose, that you would use as your
+anonymous return address.  Of course a problem is that there may not be
+enough people signed up to provide much privacy protection.

@@ -1,0 +1,11 @@
+The repool could actually be somewhat worse than this.  Wei has
+shown that if you don't send every tick then statistical information
+builds up surprisingly quickly to link senders and probable receivers,
+especially if there is a pair communicating frequently over a long period
+of time, arguably one of the main forms of usage of these nets.  So
+everyone has to send all the time at the rate of the maximum per-user
+rate accepted by the remailers (say, one packet per tick).  If this rate
+is considerably above the actual average communication rate of a given
+user then this will be much higher than O(h*M) (although granted it will
+not scale directly with U, increasing U will increase the desired packet
+rate that would satisfy, say, 90% of users).

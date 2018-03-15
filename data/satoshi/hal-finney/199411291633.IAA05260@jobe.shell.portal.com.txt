@@ -1,0 +1,8 @@
+Alex Strasheim <alex@omaha.com> writes:
+
+
+
+Just create a special key for your netcom account.  Use no pass phrase;
+using one would give a misleading sense of security IMO.  Just pass your
+mail through "pgp -saft" or equivalent and you've got it.  It is easy to
+do this from most editors.

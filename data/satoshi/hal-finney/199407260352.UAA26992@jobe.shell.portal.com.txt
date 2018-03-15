@@ -1,0 +1,10 @@
+Jonathan Rochkind <jrochkin@cs.oberlin.edu> writes:
+
+
+OK, but one of the main characteristics of electronic cash is its anonymity.
+If we don't care about serial numbers we can just use an RSA-signed message
+from the bank saying "I'm worth $1.00" as the cash (at least in an on-line
+system).  The whole reason we go through the blinding rigamorole is to make
+it so that the cash is unrecognizable after transfer.  That is why I keep
+raising the issue about recognizability.  You are probably right that most
+people wouldn't care, though.

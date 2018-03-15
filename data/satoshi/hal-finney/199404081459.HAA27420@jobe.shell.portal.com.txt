@@ -1,0 +1,10 @@
+Another way would be for people to get a *blind* signature from someone
+else saying "I am not Detweiler" (if that is all people care about).  Sup-
+pose some nym were able to exhibit such a signature from a respected list
+member, ideally one who has given out a great many such signatures.  No one
+would be able to link the nym to his True Name; all anyone would know is that
+at one time the True Name corresponding to this nym received a blinded
+signature making this assertion.
+
+This allows a nym to keep his anonymity while still responding to accusations
+like these, if he wishes.

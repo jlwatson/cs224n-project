@@ -1,0 +1,37 @@
+Quite a few misconceptions here, I'm afraid:
+
+
+w is supposed to be a "generator" of the group of integers mod m.  It does
+not have to be prime.  It is supposed to be such that the series w**0, w**1,
+w**2,...,w**m-1 does not repeat but goes through all the integers less than m.
+Testing for such w's is pretty easy if you know the factorization of m,
+involving a few arithmetic tests.
+
+
+b does not have to be prime; it is a random number less than m.
+
+
+Likewise, c does not have to be prime; it is a random number less than m.
+
+
+Carol does this, not Bob.
+
+
+Bob does this, not Carol.
+
+             ^^^^^-- generator
+
+I don't think there is a need for this.  The two sides need to agree on
+a pair but they could just pick it at the beginning.  If everyone uses
+the same m,w it would help attackers of the scheme to focus their efforts
+on these numbers.  I believe there was some discussion of using well-known
+numbers in the Digital Signature Standard (which is based on the same
+problem as DH) but I don't know what the resolution was.
+
+
+PGP does not uses DH and has no well known numbers.
+
+If you do want well known numbers, I really think it will not be that bad
+just to put them into the program.  Coming up with an algorithm to choose
+and test a generator from scratch is probably going to be larger and
+certainly going to be far slower than just hard-wiring the number in.

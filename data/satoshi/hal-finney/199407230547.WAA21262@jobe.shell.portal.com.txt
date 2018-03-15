@@ -1,0 +1,18 @@
+DAVESPARKS@delphi.com writes:
+
+
+
+I don't know how to speed this up.  Pollard rho was a cautionary tale of
+how sometimes time/space tradeoffs exist.  If the main cost of double-DES
+is in space but the time cost isn't that bad, then if there were such a
+tradeoff it could be dangerous to use it.
+
+Most of the time-space tradeoffs that I can think of for a basic MITM
+attack like this are pretty costly.  For example, instead of trying all
+the keys on both sides you could try just half the keys each time.  This
+would take only half as much space but up to four times the time.  You
+could also do some hashing to save space at the cost of false positives and
+more time.  Again, the point is not so much that double DES is weak, but
+more that if its strength is solely due to space costs that gives much
+less of a good feeling than if you had an algorithm that was strong both
+in space and in time.

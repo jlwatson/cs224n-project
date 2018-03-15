@@ -1,0 +1,6 @@
+Eric Murray, <ericm@lne.com>, writes, regarding Referer spoofing:
+
+One practical idea would be to set up the config file so that whenever
+URL X is referenced, specified URL Y is sent as the referer.  This could
+be useful for accessing web sites which won't show you information unless
+(or if) they see a certain value in the referer field.

@@ -1,0 +1,4 @@
+Perl does exist for ms-dos, and I think those scripts would probably work
+OK there.  They don't do anything exotic, just some byte reads and
+writes.  Maybe the random-number generation would need to be looked at;
+as I said, that is the one weak part.  But probably they would work OK.

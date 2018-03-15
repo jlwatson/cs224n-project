@@ -1,0 +1,19 @@
+cman@communities.com (Douglas Barnes) writes:
+
+
+I don't believe this is correct.  The $250 refers to foreign currency
+accounts and is not relevant for ecash users.  The ecash account has an
+account opening fee of $11 and a monthly fee of $5 for the low volume
+user.  That is all the minimum there is, as I read it.  You can reduce
+the per-month fee by paying more up front, but it isn't a net savings
+until you've had the account open for about two years.
+
+
+It seems that there are three places "your" money can be: in the "World
+Currency Access" account, where it is insured; in the "ecash mint", a
+separate account at the bank, where it is not insured and in fact is
+considered withdrawn (?); and in your ecash wallet on your computer disk.
+You can transfer funds back and forth between your wallet and the "mint"
+freely, but transfers are limited between the World Currency account and
+the "mint" account.  It does seem like an odd approach, but perhaps there
+are some legal reasons for doing it like this.

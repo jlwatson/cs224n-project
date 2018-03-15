@@ -1,0 +1,15 @@
+Chael> I'm
+Chael> sure there are a couple, but I agree with your point that most BBS's on
+Chael> any mail network append an identifying "tagline" or signature.  As a
+Chael> matter of fact, in many nets it is a requirement that your system append
+Chael> a tagline to all messages.  Incidentally, it is preceded often by "--"
+Chael> on a line by itself.
+
+I'd like to hear more about systems which do this.  What is the rationale
+for adding the system name at the end?  Do these networks not use
+Internet-style "From:" headers, so these automatic system-wide .sigs are
+used for the same effect?
+
+I guess there must be gateways between these bbs's and the internet,
+for this issue to arise.  It's too bad that these gateways don't convert
+the .sig info into a more conventional RFC-822 style Internet header.

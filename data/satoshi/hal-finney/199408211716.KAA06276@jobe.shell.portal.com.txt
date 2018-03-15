@@ -1,0 +1,32 @@
+rah@shipwright.com (Robert Hettinga) writes:
+
+
+
+
+
+I think Eric was referring to simple double-entry bookkeeping.  I don't
+have his original post in front of me, but I believe the suspension account
+was a liability account which represented the digital cash in circulation.
+In double-entry bookkeeping, every transaction alters two accounts so that
+the books stay in balance.  It's not unusual to make up specific accounts
+for the particular assets and liabilities of your business.
+
+
+There's something I don't understand about this "immediate and final
+clearing" business.  In an on-line cash system, the cash itself is not
+"cleared" until you send it to the bank and/or have some guarantee from the
+bank that it has not been spent before.  It seems to me that you could get
+the same benefit from a checking account if you called the bank, verified
+the funds were available, and electronically cashed the check on-line.
+
+In an off-line system, is the cash really cleared immediately?  What if it
+is double-spent?  Is the bank going to guarantee to cover all instances of
+multiple spending, in the hope or expectation that it can sue the customer
+who did it?  What if you're talking about huge sums of money, and the guy
+doesn't just double-spend but hundredfold-spends it, then vanishes to Rio?
+Are the banks going to cover that?  They don't cover bad checks, and I don't
+see how they can afford to cover bad cash.
+
+So for both on-line and off-line ecash there appear to me to be problems
+with the notion that cash has a unique advantage in providing immediate
+clearing of transactions.

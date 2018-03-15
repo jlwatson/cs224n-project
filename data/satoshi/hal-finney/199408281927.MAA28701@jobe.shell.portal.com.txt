@@ -1,0 +1,19 @@
+rah@shipwright.com (Robert Hettinga) writes:
+
+
+"Fully identified cash" is not widely discussed in the literature because
+it is (relatively) trivial, and here because it is not privacy
+protecting.  "Fully identified cash" is equivalent to a check made out to
+"cash".  All you need is a signed directive to your bank to transfer
+money from your account number such-and-such to the bearer.
+
+Such "cash" can be used on-line if the receiver sends it to the bank
+right away and gets confirmation that the money has been transferred from
+your account (that there were sufficient funds to cover the check, etc.).
+It can be used off-line if the receiver checks your ID so that he knows
+if the check bounces he can sue you or press charges.
+
+See?  You already have all the technical requirements for your fully
+identified cash by firing up PGP or RIPEM.  Just find a bank which will
+honor your signed messages.  The CommerceNet people implied that such
+payment options might be forthcoming.

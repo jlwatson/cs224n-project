@@ -1,0 +1,29 @@
+I'd like to hear more about this plan.  What kind of encryption
+instructions would be used in the ARA?  Would they be public key or
+secret key?
+
+Chaum's "Mix" paper in CACM (1981?  I don't have my refs handy) had
+a concept where at each step the remailer would encrypt the outgoing
+non-address part of the message with a DES key found in the anonymous
+address.  The user would remember all the DES keys used in the ARA
+and un-apply them in reverse order to reconstruct the original message.
+This would require some special software, I'd think, to remember the
+DES keys and unapply them (and to construct the anonymous address).
+(Actually, Chaum didn't specify DES but rather just an unspecified secret
+key system.  If PGP were used for some of this then perhaps IDEA would
+be a good choice.)
+
+This system sounded pretty complicated, and it still had the problem
+that by sending multiple messages to the same address a remailer could
+do some simple traffic analysis and break the ARA.  E.g. it would send
+5 messages to an ARA today, and discovers that it later gets 5 messages
+for user X (because it happens to be the last remailer in the ARA chain).
+Tomorrow, it sends 10 messages to that same ARA, and discovers 10 messages
+for that same user.  The next day it sends 7 messages to the ARA, and
+discovers 7 messages for that user.  Eventually it can deduce that the
+user and the ARA go together.
+
+To avoid this, Chaum calls these "one-time" ARA's and recommends that
+mixes not accept messages for the same ARA more than once.  I don't
+think this is a practical suggestion, though, since a one-time ARA is
+not useful enough.

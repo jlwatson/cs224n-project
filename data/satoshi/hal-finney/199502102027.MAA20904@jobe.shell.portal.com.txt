@@ -1,0 +1,11 @@
+Eric Hollander <hh@xcf.Berkeley.EDU> writes:
+
+
+
+
+
+
+In my remailer, I use: pgp -f < infile > outfile.  This won't add keys.
+If you capture standard error you can parse it (grep is probably good
+enough) to see whether the message was signed, encrypted, had a bad
+signature, had keys, etc.

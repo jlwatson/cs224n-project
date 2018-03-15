@@ -1,0 +1,17 @@
+This sounds like a good idea.  It was very interesting to see your
+earlier result on the impact of dummy messages on this approach.  Even a
+relatively small number of batches without dummy messages allows
+continual accumulation of incriminating information.
+
+I know that the Eurocrypt 89 proceedings had some articles on
+cryptanalyzing Chaum's mixes.  My library has an excellent crypto
+selection but is missing this volume.  Can anyone who has read this say
+whether there is anything in those papers that isn't obvious?
+
+Another interesting aspect of your analysis is the possible role of
+latency.  Earlier I had thought of latency as primarily a way of doing
+mixing, an alternative or addition to batching which mixes messages
+without holding them up quite as much.  But in terms of this in/out
+analysis latency could play a part in blurring the batch boundaries,
+adding more uncertainty and making the job of the analyst harder so he
+would need more data to establish his scores.

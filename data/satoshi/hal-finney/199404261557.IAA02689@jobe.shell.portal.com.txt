@@ -1,0 +1,9 @@
+Jim Miller
+
+Here is a program I found in the usenet archives which will do some of the
+splitting and merging features.  Note that the merge is smart in that you
+just cat the pieces together and process them.  The main feature of the prog
+is that you can reconstruct even with a few missing pieces, necessary because
+of the unreliability of remailer email.  I don't think the splitting is
+cryptographically strong, but each piece could be separately encrypted if
+desired.

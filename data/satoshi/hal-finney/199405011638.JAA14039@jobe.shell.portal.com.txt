@@ -1,0 +1,13 @@
+This was posted here:
+
+Note the three lines at Reply to:.  These prevent chaining from working
+from this remailer to my remailer.  To implement chaining, my remailer
+expects to see "::" as the first non-blank line.  Instead, it sees the
+"Reply to": as the first non-blank line.  Those three lines should be part
+of the header.  If they can't be put into the header, they should not be
+sent out at all.
+
+(Several weeks ago, I got a great many messages from the rebma remailer that
+looked the same way.  I haven't seen those in a while, so either Bill fixed
+the problem or else people have given up on trying to chain from rebma to
+my remailer.)

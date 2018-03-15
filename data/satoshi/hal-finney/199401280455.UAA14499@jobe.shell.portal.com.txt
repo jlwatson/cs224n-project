@@ -1,0 +1,5 @@
+I set up my remailer on hfinney@shell.portal.com to block the password
+address at anon.penet.fi just so nobody could set a password.  I also
+set a nickname, something like "cypherpunks anonymous remailer".  I did
+this some time ago but I think it is still active.  So you can remail
+at least from my remailer to anon.penet.fi.

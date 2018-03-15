@@ -1,0 +1,19 @@
+Rick Busdiecker <rfb@lehman.com> writes:
+
+I can see that there may be difficult cases, but I still think that
+there would be real utility in the ability to specify that a particular
+piece ofmail should be re-transmitted if it does not get delivered
+to the destination machine within a certain period of time.  As I said,
+this would help with the implementation of cryptographic protocols that
+worked via email, not to mention the many other applications.
+
+
+
+
+That's one reason I like the "enabledmail" approach.  All we have to do
+is persuade everyone to run a system which allows anyone on the network
+to get your computer to run an arbitrary program for them.  Then everything
+will be fine.  One nice thing is that enabledmail scripts can
+trigger either on delivery to the dest machine, or on being read by the
+recipient.  This gives even more flexibility in how you want to define
+a "received" message.

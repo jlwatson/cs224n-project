@@ -1,0 +1,13 @@
+I never saw the posting below here, only on sci.crypt.  It seems
+relevant to the present discussion.
+
+I did take a look at the source code to stealth pgp; it is quite simple and
+nicely done.  However it doesn't do anything special about disguising the
+encrypted session key.  It just strips off the two length bytes PGP puts
+at the front.  Not only is this revealing, it also doesn't always work.
+Apparently the program can't always reconstruct the original mpi length
+if the encrypted key's size happens to be much less than the modulus.
+It does print a warning in that case that the file won't be able to be
+de-stealth'd successfully.
+
+Stealth PGP is a nice start but it needs to be improved to be truly stealthy.

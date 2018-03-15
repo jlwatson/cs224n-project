@@ -1,0 +1,23 @@
+jamesd@netcom.com (James A. Donald) writes:
+
+
+(I have rearranged James' two paragraphs)
+
+
+There are protocols to do essentially this, although they get
+rather complicated.  It is necessary for each person in the chain
+to have some knowledge of the person he is passing the money to,
+so that he can confirm that that person is in fact revealing something
+about himself that will incriminate him if he double-spends.  If all
+parties in the transactions are totally anonymous then there is no
+hope of tracking down a double-spender.
+
+
+My reading of Chaum's paper "Transferred Cash Grows in Size" is that
+if you have a system to satisfy the 1st paragraph, it cannot also satisfy
+this.  It appears that if B, E and the bank collude, and B knows he gave
+the cash to C and E knows that he got it from D, then they can tell that
+C gave it to D.  Basically B recognizes the money E got from D, with
+the bank's help.  Although Chaum wrote as though his results applied to
+any conceivable transferrable double-spending-detecting cash system,
+it wasn't clear to me how general his results really were.

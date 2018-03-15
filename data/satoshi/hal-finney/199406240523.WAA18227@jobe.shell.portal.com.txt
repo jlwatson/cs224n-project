@@ -1,0 +1,19 @@
+Nobody writes:
+
+
+I'd like to see PGP eventually remove artifical constraints on key sizes.
+The MP package in PGP uses fixed-size buffers, but a more general approach
+using variable-sized buffers is used in other packages such as gmp.  These
+do not force you to use compiled-in limits on sizes like this.  The basic
+multi-precision integer data structure in PGP does have a limit of 64K bits
+but that is probably not worth changing.
+
+Remember that it is the owner of a long key who pays most of the price of
+using it.  He is the one who has to wait through lengthy signs and decrypts.
+The signature-checking and encryption which other people do just involve
+a few multiplications and should be pretty fast even for sizable keys.  So
+I don't see any reason PGP should take this decision out of people's hands.
+
+
+I'm still running 2.3.  I figure that when the time comes I'll hack it to
+accept 2.6 messages.

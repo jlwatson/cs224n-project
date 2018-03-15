@@ -1,0 +1,19 @@
+For the last day or two I have been getting several dozen messages
+(67 today, a similar number yesterday) similar to the following:
+
+
+The "PGP" message appears to be just an ascii-armoring of random bytes.
+
+Is this an attempt by someone to provide the "masking" remailer traffic
+we have been discussing for some time?  This is OK, but I think the volume
+is too high.
+
+What is the Do-Inject: header intended to accomplish?
+
+The message apparently is intended to provide multiple remailing addresses per
+message.  However, my remailer only does one remail address per message.
+
+Also, my remailer does not accept "Anon-To" but only "Request-Remailing-To".
+So all these messages are ending up in my mail box.
+
+Anyone want to explain these?

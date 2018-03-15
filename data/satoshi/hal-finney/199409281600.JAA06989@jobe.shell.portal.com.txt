@@ -1,0 +1,18 @@
+dwomack@runner.utsa.edu (Dave) writes:
+
+
+
+Can't they shut down the closet just as easily as they would have
+shut down your computer?
+
+This seems to be a problem with all approaches which seek to hide
+the "real remailer" A behind a "front machine" B.  They could just
+shut down B.  So sometimes people propose that they will just switch
+to a different front machine C, and R is still safe.  Then they shut
+down C.  So we switch to D, etc.  But really, couldn't B, C, D, ...
+just have been remailers themselves?  What do you really gain by
+keeping A secret?  Perhaps if the front machines are much cheaper than
+remailer machines it might make sense, but it really doesn't take
+much horsepower to run a remailer; probably the net connection is the
+expensive part, so B, C, D, etc. are going to be just as expensive as
+A.

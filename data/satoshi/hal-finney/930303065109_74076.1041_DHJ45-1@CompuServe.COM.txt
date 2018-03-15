@@ -1,0 +1,34 @@
+I got mail from a remailer operator asking how he could keep some
+information about how much his remailer was being used without keeping
+logs of the messages.  This seemed like a good feature so I have added
+it to my maildelivery file.  This is how it looks now:
+
+#
+# field                 pattern action/ string 
+#                               result  (quote included spaces)
+#
+Request-Remailing-To    ""      pipe R  "date >> LOG.REMAIL"
+Request-Remailing-To    ""      pipe A  remail.pl
+Anon-To		        ""      pipe R  "date >> LOG.REMAIL"
+Anon-To			""	pipe A  remail.pl
+Encrypted               PGP     pipe R  "date >> LOG.ENCRYPTED"
+Encrypted               PGP     pipe A  pgpmail.pl
+*                       ""      pipe ?  recurse.pl
+
+The lines which say "date >> LOG.XXX" will append one line to the
+LOG.* file each time a remailing or decryption is done.  That line
+will tell when it is done.  No other information is kept to allow
+reconstruction of who sent the message or what it was.  You can use
+"wc" to count how many lines are in the files, archive and/or delete
+them periodically, or do whatever you like.
+
+A couple of notes: When you have more than one line that matches a
+particular field/pattern (defined in the first two columns), use the
+letter R for the result code for the first ones, and A for the last.
+
+Also, be SURE you put quotes around the command string if it is more
+than one word.  Otherwise ALL of your mail will DISAPPEAR!  (I need to
+do a little work on the slocal.pl script to make it more robust about
+this. :-)
+
+If you're using slocal rather than slocal.pl this should still work.

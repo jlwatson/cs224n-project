@@ -1,0 +1,4 @@
+There have been a couple of good messages on sci.crypt, one by Colin
+Plumb and one by Thomas Jakobsen.  The latter mentioned something similar
+re key scheduling.  I hadn't noticed it.  Chalk up another apparent
+weakness.

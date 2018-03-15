@@ -1,0 +1,24 @@
+From Pr0duct Cypher:
+
+
+I think it's great that you are able to fix these things so quickly.
+It's natural that there will be a lot of shaking out in any initial
+release.
+
+
+Knuth has some discussion of this in Seminumerical Algorithms.  The term
+for numbers which have only small factors is that they are "smooth".  He
+has some formulas for what fraction of numbers are smooth based on the
+size of the largest allowed prime and the size of the numbers.  Unfortunately
+I won't have access to my copy until Tuesday.  Perhaps someone else can
+look it up.
+
+
+Clever idea.  If only it wouldn't be so slow.
+
+
+The 8192 cutoff might work.  We would have to check it out, but it
+could be that finding 1024-bit numbers in a relatively narrow range of
++/- 2^64 which are composed solely of factors in the range, say, 8192
+to 16384 would be infeasible.  I don't recall whether Knuth considers the
+problem in this form.  This would be a great save if it works.

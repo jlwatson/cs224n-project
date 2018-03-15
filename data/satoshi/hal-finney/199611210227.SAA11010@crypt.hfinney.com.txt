@@ -1,0 +1,17 @@
+I take a slightly different moral.  Baker (former NSA attorney) writes:
+
+
+What I see this as is a call to come up with architectures that will allow
+transparent phase-in of government key access (so-called "key recovery")
+technology.  The current HP proposal fits in very well with this model.
+The appear to be planning on using standard API's so that applications
+will be able to switch to using key escrow software without changing the
+applications themselves, just the OS.  Maybe there could be a transition
+period where both the old and new crypto would both be accepted, then
+after a period of time the old wouldn't work any more.
+
+As Baker goes on to say:
+
+
+This suggests to me that we need to be vigilant in watching for systems that
+will allow for easy "drop in" of key escrow.

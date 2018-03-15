@@ -1,0 +1,10 @@
+jamiel@sybase.com (Jamie Lawrence) writes:
+
+
+The real problem to be solved is this: given a set of input messages,
+and a set of output messages which represent decryptions of the input
+ones (along with perhaps a bit of extra processing), make it impossible
+to tell which output messages go with which input ones.  Clearly, if the
+messages are of widely disparate sizes, and output messages are similar
+size to input messages, that won't do.  That is where the idea of padding,
+and of standardized messages sizes, comes from.

@@ -1,0 +1,10 @@
+Andrew Brown <a.brown@nexor.co.uk> writes:
+
+
+One possibility would be to right-justify your  text,  as  a  few
+people  like  to  do,  then  to tweak the algorithm for inserting
+spaces into lines to depend on the next bits of the embedded mes-
+sage.  Generally, you have N spaces to insert into M word breaks.
+If M divides N, you don't have any choice, but otherwise you have
+N  mod  M  "leftovers"  to  distribute among M.  This would allow
+several bits per line.

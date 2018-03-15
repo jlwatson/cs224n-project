@@ -1,0 +1,29 @@
+Lance Detweiler writes:
+
+
+It's not that simple.  "Deadbeat" reported that he discovered this problem
+when he sent mail via Penet to a list member asking a question.  When that
+person replied, it exposed his anonymous ID.  There was no need to put
+identifying information in the message itself.  The mere fact that a
+particular message is being replied to gives away the true email address
+of the sender (because that is the address to which the question was
+directed).
+
+This means that if you receive mail asking an innocent question, like,
+"what is the address to subscribe to cypherpunks?", you need to be aware
+of whether that question came from the Penet remailer or one like it.  If
+so, you need to take extra care when you respond so that your anonymous
+ID is not revealed.
+
+
+I don't think so.  It seems to me that the current system makes it easy
+to accidentally expose your anonymous ID.  If more people start operating
+pseudonym-based remailers it will be that much more difficult to keep
+track of whether you want to be anonymized or not.
+
+I think technical solutions are needed along the lines suggested by Eric
+Hughes and Deadbeat.
+
+
+P.S. How about Deadbeat posting a public key?  He keeps signing his
+messages but I can't check them.

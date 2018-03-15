@@ -1,0 +1,7 @@
+There are algorithms for producing provable primes which don't take
+too long.  However they do not work to prove a given probable prime
+is actually prime, rather they generate a prime.  One was described
+by Mihailescu Preda, <zhmhd@zh014.ubs.ubs.ch>, on sci.crypt on
+December 13, 1993.  It is not clear whether this kind of algorithm is
+suitable for RSA (where the primes must be kept secret) since it could
+reduce the space of primes which are produced.

@@ -1,0 +1,6 @@
+Let's not fly off the handle.
+
+This _could_ be a very promising development.  IF source code is available,
+this would be, at last, a U.S.-legal, free version of PGP.
+
+Let's wait and see what Phil Zimmermann has to say.

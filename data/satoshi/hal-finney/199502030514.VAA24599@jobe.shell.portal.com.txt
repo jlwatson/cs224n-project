@@ -1,0 +1,6 @@
+Unfortunately, this approach is easy but doesn't really succeed in adding
+undetectable padding.  The PGP message, once the ascii armor is stripped
+away, has a byte count in it.  Anyone can de-armor the message and see
+that this byte count does not match the size of the file.  So you also
+need to bump this byte count to match the added bytes.  That's all my
+perl script does that I posted.

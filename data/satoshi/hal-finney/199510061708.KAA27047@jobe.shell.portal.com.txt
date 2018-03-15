@@ -1,0 +1,14 @@
+jbaber@mi.leeds.ac.uk writes (where I have taken the liberty of
+reformatting for 80 columns):
+
+
+Well, this is not necessarily the case.  A MITM may be signing my
+messages for me, and then putting them back the way they were before I
+am allowed to see them.  Granted, this would not be easy, and perhaps
+the difficulty of this would be great enough that you will feel
+comfortable using an unsigned key.  But if it were accomplished, then
+your messages to me would actually be insecure.  No matter how
+convinced you became of my sincerity and trustworthiness, actually our
+conversations would be overheard by a third party despite both of our
+efforts to the contrary.  Our use of encryption would be rendered
+futile.  Doesn't this bother you?

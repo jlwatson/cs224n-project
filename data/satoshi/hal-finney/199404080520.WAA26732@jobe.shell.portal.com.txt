@@ -1,0 +1,88 @@
+I believe RSA requires a notarized statement, where you have presented the
+notaries with three forms of ID.  I would imagine that notaries have some
+experience with false ID, but no doubt they can be fooled with sufficient
+effort.  Still, for the kinds of applications we are talking about here
+(chatting on the net) this is probably adequate.  For more security
+you could require a thumbprint which is compared with others on file.
+
+
+Chaum was writing more about financial relationships with creditors,
+businesses, etc.  My translation of his ideas into the cyberspace author-
+ship arena was not something he discussed directly.
+
+
+In one way it is easier than with pgp.  With pgp we are trying to guess
+whether a person is really who he says he is.  This has all sorts of real-
+world implications, and as tmp points out these are hard to verify.  With
+reputation systems what you really want to know is whether a person's
+endorsements are valuable.  Over time you can basically decide this for
+yourself, by judging whether those authors recommended by a given person
+are ones which you consider good.  Those endorsers whose opinions match
+your own would be the ones you pay the most attention to.
+
+
+With Chaum's system it should not necessarily dilute your reputation to
+use a lot of pseudonyms.  OTOH, you are right that informal reputations will
+not carry over, and in practice these will be important.
+
+
+Negative endorsements, and negative credentials in general, are difficult
+to achieve.  Chaum's paper has some discussion of these but it is
+hard to follow.
+
+The simple blinded signature model provides a pretty simple way to allow
+only one pseudonym per True Name in a given forum, if you assume there is
+some way to distinguish people in the real world.  Suppose Cypherwonks
+wanted only one person per nym.  And suppose there was an agency which
+was able to distinguish people, that is, it could tell when it had seen the
+same person twice.  Now, Cypherwonks asks this agency to give a single
+blinded signature of a type (exponent) which is unique to that list, to
+anyone who wants it, but such that nobody gets more than one.
+
+To be accepted on the Cypherwonks list, then, somebody would have to show
+a signature of this particular type, different from everyone else's.  Each
+person could only get one such token, which Chaum has called an is-a-person
+credential (again, this is a simplification of his idea, I think).
+
+Now tmp has what he wants, the ability for a list to have only one nym
+per person.  And in such a situation, negative reputations are important,
+because you only get one chance and can't start over with a new nym.
+
+
+Well, you have to trust that the agency which is verifying uniqueness of
+identity doesn't cheat.  But note that the agency does not get any great
+privacy-infringing power, as they don't have to know the True Names or
+identities of the people they are endorsing, and they don't know their
+pseudonyms (since those are blinded when they are signed).
+
+
+Chaum did, as I said, have some concept about revealing negative
+credentials, perhaps along the lines you are suggesting.  As I followed his
+ideas (which wasn't very well), you would have to submit an "I'm not a
+jerk" credential with each posting, and the only way to get another
+such token would be to get back a response from your posting saying, "OK,
+you're still not a jerk."  But if you posted some trash ("Death to
+BlackNet") then you wouldn't get back that "OK" token and you'd have lost
+your "not a jerk" token for good.  This would work best in a situation
+where there was one nym per person, otherwise he could use his other nyms
+to endorse his worthless trash.
+
+(I posted a variation on this idea a couple of weeks ago as a way of
+handling anonymous remailer complaints without breaking the anonymity of
+the remailer user.  A similar token-and-response system was used, also
+based closely on the blinded signature system in Magic Money.)
+
+
+Well, Larry, you have to realize that you caused us enormous hassle
+several months ago, so it's natural that people will be somewhat hostile.
+Other pseudonymous posters have not stirred nearly so much interest
+(with the possible exception of Xenon, who had some of your own tendencies
+to rant at length).  However, in your new incarnation I find your postings
+much more interesting.
+
+
+Chaum has some discussion about how you can go to library A and borrow a
+book, proving that you have no overdue books at libraries B, C, D, ...,
+without compromising your anonymity.  This sounds analogous to proving that
+you have no negative credentials from other cyberspace forums.  Unfortunately,
+this is a part of his paper I need to read more times to understand.

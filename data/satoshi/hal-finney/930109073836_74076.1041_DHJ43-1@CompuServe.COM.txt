@@ -1,0 +1,26 @@
+It's good to see more people working on remailers.  The cypherpunks
+remailers have been written in Perl, which facilitates experimenting
+and testing of new interfaces.  The idea might be to migrate them
+to C eventually for efficiency, but during this experimental phase
+we may want to try out new ideas, and it's easier to modify a Perl
+script than a C program.
+
+
+This is somewhat similar to the cypherpunks remailers; however, they
+accept the :: only at the beginning of the message, allow any fields to
+be put there that the user desires (not just those three), and terminate
+the block by a blank line.  Does your alternate system have some
+advantages?
+
+
+I do find the use of this string to produce rather complicated looking
+commands.  The cypherpunks remailers get the same effect by just putting
+in blocks starting with :: and separated by blank lines:
+
+::
+Anon-To: anon@anon.penet.fi
+
+::
+Anon-To: nowhere@bsu-cs.bsu.edu
+
+This looks simpler to me.

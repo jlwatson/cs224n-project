@@ -1,0 +1,68 @@
+Responding to Edgar Swank's message:
+
+
+This could easily happen soon, as news of these remailers spreads.
+There's been talk on the net about a student at an Ivy League college
+who is being investigated by the FBI for allegedly posting illegal
+images containing child pornagraphy.  Once people find out about
+anonymous remailers, especially ours with their chaining capabilities
+and encryption, they will realize that such posts can be made with
+almost total safety.  Presumably this may increase the number of
+people who would attempt it.
+
+
+My guess is that it will not be feasible to ban remailers, since it
+would be hard to draw the line between completely automated remailers,
+and simple manual forwarding of a message that someone sent you, which
+happens all the time and can hardly be made illegal.
+
+I suspect that instead the approach would be to claim that remailer
+operators are responsible for the material their remailers produce,
+regardless of its original source.  So if child porn comes out, I
+am guilty of sending child porn.  I can argue that my remailer was
+automatic and that I shouldn't be held responsible for what comes out
+of it, but my guess is that this argument will be rejected on the
+grounds of personal responsibility, and because no one forces me to
+run a remailer which sends out anything that comes in to it.
+
+Such a policy would be a plausible extension of current Internet
+policies, IMO.  RFC 822, the document which describes the format of
+Internet mail message, in session 4.4.2 discusses the "Sender:" field,
+and says, "Since the critical function served by the 'Sender' field
+is identification of the agent responsible for sending mail and
+since computer programs cannot be held accountable for their behavior,
+it is strongly recommended that when a computer program generates a
+message, the HUMAN who is responsible for that program be referenced
+as part of the 'Sender' field mailbox specification."  [Capitalization
+in the original.]  The need for a person to take responsibility for
+each piece of mail that is sent would tend to lead to the policy
+I mentioned.
+
+With such a policy in place, if enforced by law, I don't think people
+would run remailers in this country because of the legal risks.  There
+would still be the international remailers, though.
+
+
+It should be possible to chain from Pax to our remailers, getting the
+best features of both.  Pax could be the first remailer in the chain,
+stripping the sig.  The message could then go through our remailers,
+providing non-traced security, at least if you can find someone who
+does not keep logs.
+
+Anonymous posting can be done already.  Anyone can post to most newsgroups
+by sending mail to certain addresses.  One such system is at Berkeley.
+Send to, e.g., sci-crypt@ucbvax.berkeley.edu to post to sci.crypt.  There
+is another such system running in Austin, TX, I believe, but I don't
+have the corresponding net address handy.  So this capability is already
+provided by our (or anyone's) remailers.
+
+One reason I haven't looked at stripping the .sig is due to an email
+discussion I had about a month ago with Eric Hughes.  Eric strongly
+felt that message bodies should be preserved as much as possible by the
+remailers, in accordance with the general principle of Internet mail
+forwarding.  Too much mangling is done already by mail gateways,
+and adding more changes might be harmful.  Obviously, the remailers can't
+avoid doing some processing of the message body, what with the "::"
+pasting tokens and PGP decryption, but Eric felt that unnecessary
+changes should be minimized.  I know Eric is working on some new
+remailer concepts so I want to defer to him on this issue for now.

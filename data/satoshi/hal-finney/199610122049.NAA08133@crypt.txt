@@ -1,0 +1,18 @@
+I have recently gone to work for PGP, Inc.
+
+PGP 3 will support both discrete log and RSA cryptography.  It will
+interoperate with both, so that when you send a message to someone
+who has an RSA key, it will use RSA, and when you send to someone who
+has a discrete log (El Gamal/DSS) key, it will use discrete log
+algorithms.  So there is full compatibility with existing keys, while
+allowing people to move to cryptography which will be patent free
+in the U.S. after next year.
+
+A free version will be available with this functionality, with
+source code.  Existing users of PGP will hopefully find it easy
+to upgrade.
+
+I cannot say when it will be available, other than to say that the
+functionality exists for generating and using all these kinds of keys,
+and we have four programmers, including myself, working full time on
+getting this version out.

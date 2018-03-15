@@ -1,0 +1,4 @@
+I was just logging out, by typing "logout".  I accidentally placed my
+right hand on the wrong keys, offset to the right by one.  Instead of
+"logout", what appeared on my screen was ";pgpit".  Good idea!  One we
+should all take to heart. ;-)

@@ -1,0 +1,9 @@
+I realized a few minutes later that I was mistaken to write:
+
+
+Just knowing several of the first few entries in the table doesn't allow
+you to quickly reject keys because the algorithm selects entries from
+throughout the table to xor with the data stream.  So this does not
+imply that keys can be rejected quickly, nor does it suggest that the
+particular setup algorithm used is particularly weak or was chosen
+for export approval.  Sorry about the error.

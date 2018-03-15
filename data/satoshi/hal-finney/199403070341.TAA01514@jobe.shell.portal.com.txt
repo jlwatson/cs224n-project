@@ -1,0 +1,5 @@
+I notice on csn.org:/mpj there is now pgptl10d.zip, PGP Tools version
+1.0d.  However, 1.0d is not the whole PGP Tools program.  It is just an
+addendum which implements Diffie-Hellman.  Apparently pgptl10c.zip is still
+needed to give you the whole of PGP Tools.  Does anyone know of an FTP
+site which still has pgptl10c available?  Thanks -

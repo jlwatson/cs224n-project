@@ -1,0 +1,33 @@
+This would only be true for prime p, but with RSA we are dealing with
+composite moduli.  What we want is ed=1 mod phi(n), where
+phi(n)=(p-1)(q-1).  (Actually you want to use (p-1)(q-1)/gcd((p-1),(q-1)).
+I forget what that is called.)
+
+Conceptually, I gather you are setting e = 0x10001, then finding its
+multiplicative inverse d mod phi(n) (or mod p-1 in your example).  Then
+you are looking for other possible values for d.  I am a little unclear
+on what the interval would be between suitable values of d.  I think it
+would be phi(n)/gcd as above, or p-1 in your example, but I am not sure.
+
+
+I still don't follow this.  Is k claimed to be d?  Where do we verify
+that ed=1 mod (p-1)?  ed would be n1, right?  When you said "If (n1-1)/i
++ 1 is prime" did you mean "is p"?  I really don't think this whole thing
+works.
+
+Let me tell you what I tried.  I inverted e to get a correct d.  Then I
+looked at different d's to find one with lots of 0's.  This turned out
+to be useless!  The reasons is that PGP does not use d.  It uses the
+Chinese Remainder Theorem to do its exponentiation.  The two
+exponentiations it does use exponents d mod (p-1) and d mod (q-1).
+Adding multiples of phi to d does not change these values (since it is
+a multiple of both p-1 and q-1).
+
+Now one thing you could do is to use in place of d mod (p-1),
+(d mod (p-1)) + k*(p-1) where we choose k to minimize the sum of the number
+of bits and the number of 1 bits in this expression.  Unfortunately the
+PGP data structures do not store d mod (p-1), it is constructed on the
+fly when you do a decryption.  So there is no where to save a
+pre-computed optimal value for the two exponents used in the CRT
+exponentiations.  So, this was a good idea, but the implementation does
+not fit into the current structure very well.

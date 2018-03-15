@@ -1,0 +1,18 @@
+Karl Barrus <klbarrus@owlnet.rice.edu> writes a very nice set
+of examples of some of the discrete-log protocols using actual numbers.
+
+I did leave one thing out:
+
+
+
+This works, but it will be more efficient to take r mod the order of g,
+which would be n-1 in this case.  The same thing applies to all of the 
+other places where we multiply and add exponents.
+
+
+This should still be true with r = cx+w mod (n-1).
+
+I departed from the nice step-by-step description for the actual cash
+protocols because they are so complicated and I wanted to explain it as
+I went.  If Karl gets far enough to try doing that it would probably be
+worthwhile to rewrite that portion first.

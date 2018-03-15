@@ -1,0 +1,35 @@
+Jason W Solinsky <solman@MIT.EDU> writes:
+
+
+One thing I don't follow here is under what circumstances a "challenge"
+will occur.  Presumably Microsquish will not blindly accept all of
+Ingve's assurances since they are backed only by promises.  Can
+Microsquish force Ingve to go to his clients and make them produce
+certificates?  Who pays for that?  Maybe if you factor in that cost it
+won't look so bad for Charles.
+
+Also, just because Charles can't get what he wants for his certifications
+doesn't mean he is being cheated.  It's a market, after all.  You could
+just as well say that somebody else opens up a certification shop that
+sells certifications just like Charles' for less.  It's not the fault of
+the protocol that Charles' business dries up.  If the value of his
+certifications drops (as in your scenario) then his business should decrease.
+
+Last, I'd say your problem exists just as clearly without Ingve.  You
+could make a deal with Microsquish promising that you would be able to
+get certifications if asked, with some agreed-upon procedure by which
+Microsquish could demand that you produce one, with appropriate
+penalties.  In that case probably Microsquish would believe some
+percentage of people and Charles' business would again fall off.  In
+practice Ingve might be useful to help even up fluctuations but the
+problem arises just as clearly without him.
+
+You might look at it in terms of a priori vs a posteriori probabilities
+that you do in fact have the ability to gain a certification.  If
+Microsquish was inclined to believe you before (say, because you had
+demonstrated good faith in the past), then the exhibition of an actual
+certificate is less valuable to Microsquish because it adds less
+information.  So it makes sense that certificate challenges, with their
+associated costs to you and Microsquish, would occur less frequently in
+that case.  Again, it appears that the situation is simply reflecting
+market values of information.

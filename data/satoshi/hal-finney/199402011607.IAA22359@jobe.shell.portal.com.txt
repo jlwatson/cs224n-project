@@ -1,0 +1,15 @@
+Right, but the point is that you have to search for a prime q anyway;
+PGP's algorithm is basically to repeat q += 2 until you find a q which
+is prime.  It uses a sieve to speed this up a lot.  I was pointing out
+that you can basically change the 2 to a 2^24, still use a sieve, and
+find a key just about as fast.  So matching an existing key ID should not
+take much if any longer than just generating a PGP key in the first place.
+
+
+PGP actually uses a 64-bit key ID internally, only displaying the lower
+24 bits for conciseness.  It would be practically impossible to get a
+64-bit key ID collision by accident (well, almost impossible, anyway).
+However, the technique I mentioned could easily generate such collisions.
+PGP does check for the case of matching key ID and does something, but I
+forget what.  24-bit key ID matches shouldn't have any effect except for,
+as Bill says, extracting/deleting keys based on key ID.

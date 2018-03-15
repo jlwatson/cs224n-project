@@ -1,0 +1,6 @@
+Blanc Weber <blancw@microsoft.com> writes:
+
+List members who are internet connected might try doing "telnet toad.com"
+and see if they get a login prompt.  The recent list outages have correlated
+with a lack of response from toad, so I presume the machine was either down
+or off the net.

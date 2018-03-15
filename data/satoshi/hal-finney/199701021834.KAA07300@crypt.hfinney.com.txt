@@ -1,0 +1,34 @@
+I think this is an interesting theoretical discussion, although it's
+not clear whether it is actually a good idea to try implementing this.
+
+
+This requires Bob to trust the server to keep his identity secret.
+Although you _say_ that majordomo didn't associate the token with
+the userid, how does Bob know that?  Certainly majordomo did, when
+Bob subscribed, see the association between the userid and the token.
+Now he has to trust that it has been forgotten.  Even if it has, what
+about eavesdroppers on the list channel?  What about the operator on the
+machine, who is peeking at what majordomo is doing?  This mechanism will
+not provide enough anonymity for most posters.
+
+An alternative similar to what I proposed earlier is for majordomo to
+provide a blinded token, one which it doesn't see.  This would be used
+specifically for anonymous postings.  It does have the problem that it
+allows linking postings by the same pseudonymous nym - all will have the
+same token.  But maybe we want to encourage that.
+
+(The full proposal I made involved use-once tokens, just like online
+digital cash, so that there would be no linkage and it would allow
+real anonymity.)
+
+
+This unsubscribe/resubscribe issue has been mentioned before as a problem.
+I am not too concerned with it, for a few reasons.  First, it may not be
+too difficult to recognize that it is happening.  If the same user name is
+used we can prevent issuing new tokens on an unsubscribe/resubscribe cycle.
+If different user names are used but common domain names (an attack which
+many people could mount) we could recognize that with somewhat more difficulty,
+and mark those domains as special.  Most people would have trouble getting
+lots of different accounts with different domain names.  Eric Hughes maxim,
+"all crypto is economics", applies here.  We can easily make it much more
+difficult for flooding attacks to occur.

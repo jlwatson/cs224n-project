@@ -1,0 +1,33 @@
+This is truly tragic.  Julf has endured weeks of attacks and now The
+Powers That Be have managed to shut down this widely used service.
+
+In the debates we've had here about anonymous posting, we have distinguished
+two problems: volume abuse and content abuse.  Volume abuse is the use of
+the remailers to send "mail bombs", excessivelly large or numerous messages
+to an individual designed to fill his mailbox, or to similarly bombard
+newsgroups with large numbers of messages.  Most of us have agreed that
+this is a legitimate problem, and various mechanisms have been discussed
+to address this.
+
+Content abuse is more problematical; it basically refers to someone posting
+a message whose contents someone else objects to.  The traditions of
+freedom of speech and freedom of the press in the U.S. make it difficult
+to argue in favor of restrictions based on message content.
+
+Despite this, I have the impression that most of the objectionable messages
+Johan refers to actually were objected to based on their content.  It's
+not that people were bombarding newsgroups with excessive numbers of messages,
+it's that they were posting things that (some) people didn't want them to
+post.
+
+It would be useful if Johan, after he has a chance to rest up a bit from
+the recent political battles, could take the time to summarize information
+about "abusive" posts.  To what extent are the problems due to message
+contents, versus size or frequency, for example?  Are there any patterns
+that can be gleaned about what material people most object to?  In particular,
+it would be interesting to know whether there was material posted which was
+arguably illegal versus just in bad taste (in someone's opinion).
+
+This kind of information would be useful for the next time someone is
+willing to brave the net censors and start another anonymous posting
+service.

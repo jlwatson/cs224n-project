@@ -1,0 +1,11 @@
+Mental poker protocols are notorious for having sometimes subtle
+weaknesses.  I missed the posting on sci.crypt which Karl mentioned
+but his description of the protocol seems to have a flaw:
+
+
+If B in step 6 sends A message M3, which lists the 47 cards left after
+B has chosen his 5 from the 52 they started with, then A will be able
+to see which 5 B chose; those are the 5 not listed in M3.
+
+Am I missing something in the description of the protocol, or was the
+actual protocol perhaps a little different than this?

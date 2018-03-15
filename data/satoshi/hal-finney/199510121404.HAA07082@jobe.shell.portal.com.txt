@@ -1,0 +1,47 @@
+Scott Brickner <sjb@universe.digex.net> writes:
+
+
+
+This is true, but it doesn't mean that the threat can be neglected.  A
+successful MITM attack may be a matter of reading even one message and
+acting on it, if the participants don't find out until later that they
+were robbed.  In fact, they might not ever notice that they key they
+used Tuesday was different from the key they used Thursday, if they
+didn't cache the keys.  (Yes, PGP does store the keys in a local key ring
+cache but not all systems will necessarily work that way.)
+
+
+
+Obviously the MITM cannot handle (most) communications taking place
+offline.  But there may be a lot of people who don't use any of these
+offline methods to validate their keys.  These people don't go to
+academic conferences, don't read their key id's over the phone, and
+don't print them on business cards (or if they do, they don't get
+business cards from those they communicate with securely).  Maybe this
+will change, maybe it is a matter of user education, but it is still an
+extra effort which will be important to have secure communications.  I
+don't think this is widely recognized (other than in the context of the
+need for certificates and signed keys).
+
+
+Note too that Mitch is not necessarily taking any risks here even if he
+is caught.  "Mitch" could be a remotely operating program, a virus
+embedded in Alice's computer or in some link between her system and the
+outside world, which is performing these transformations and sending the
+decrypted messages out anonymously.  So even if Alice discovers the
+trickery there may be no effective way to track down the miscreant.
+
+
+
+
+or
+
+3. Mitch's MITM attack is transitory and he doesn't care if he is caught
+afterwards, he got his goodies.
+
+or
+
+4. Alice doesn't go to a lot of trouble to check her keys via offline
+means.  After all, MITM is so rare it can't happen to her.
+
+Practice safe cryptography!

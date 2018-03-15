@@ -1,0 +1,10 @@
+sameer <sameer@c2.org> writes:
+
+
+I guess the one limitation is that you would either not get the
+certificate (because the MITM kept it) or you would find out that it did
+not include your public key (if he forwarded it to you).  In either case
+the MITM would be discovered.  In the mean time he could wreak some
+havoc, though.  But he would be found out after a few days.  That's one
+of the things they need Certificate Revocation Lists for in their system,
+but I don't know if they are used.

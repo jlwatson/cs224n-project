@@ -1,0 +1,14 @@
+Actually black holes do have a defined surface area, which is basically, as
+you suggest, the area of the event horizon.  And of course this is larger
+for more massive black holes, as you say.
+
+I believe the Bekenstein bound is based on reasoning that suggests that
+if the state density of a region exceeds that bound, it will essentially
+collapse into a black hole and be inaccessible to the rest of the universe.
+The surface area in that context can be the conventionally defined area.
+
+To bring this back to crypto a bit, the point of this discussion was that
+there can be only a finite amount of processing done in finite time by
+a finite-sized machine, even when QM is taken into consideration.  Note,
+though, that this result appears to require bringing in quantum gravitation,
+a very poorly understood theory at present.

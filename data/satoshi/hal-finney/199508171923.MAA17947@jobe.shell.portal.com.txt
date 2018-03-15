@@ -1,0 +1,11 @@
+I don't see how you can sweep for more than one key at once at low cost.
+Because of the salt, every possible SSL encrypted message has to be swept
+independently.  You can't sweep for two messages' keys at once because the
+input to the MD5 is different even for the same 40-bit key.
+
+If digital cash in micro amounts became practical, people could be paid
+to let the "idle cycles" on their computers be used for this kind of
+highly parallel application.  (Some people have speculated that graphics
+rendering would be another suitable choice.)  It would be interesting to
+see what the market price of cycles became in such an environment.  That
+would give a better benchmark for the cost to break keys.

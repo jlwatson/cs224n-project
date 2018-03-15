@@ -1,0 +1,12 @@
+It is an interesting idea that the RSA actually helps with the RC4
+decryption by letting them check a key guess.
+
+This would suggest, though, that RC4 alone would not be allowed, only RC4
+plus RSA.  If they allowed RC4 alone then unlimited-length RSA would not
+seem any worse since with RC4 alone you don't get the key-checking
+feature.
+
+Also, are there restrictions on the encryption exponent?  A 1024 bit RSA
+with a small encryption exponent would be faster to check than a 512 bit
+RSA with an arbitrary 512 bit encryption exponent.  So if this were the
+reason you might think they would put some restrictions on that.

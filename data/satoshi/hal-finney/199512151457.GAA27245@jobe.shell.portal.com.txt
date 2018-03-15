@@ -1,0 +1,4 @@
+As Kocher's paper implies, the known ciphertext attack is a TIMING
+attack.  Simply accumulating known text/signature pairs as you would have
+after a "key signing party" does not help.  You must know exactly how
+much time each signature took.

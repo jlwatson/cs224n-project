@@ -1,0 +1,7 @@
+"Perry E. Metzger" <perry@imsi.com> writes:
+
+PGP of course looks up keys by strings in addition to numbers.  A widely
+accepted practice is to use <joe@foo.com> in the user ID which allows the
+lookups to be by internet address.  PGP was intended for use beyond the
+internet, such as in bbs's, fidonet, corporate networks, etc., where DNS
+style addresses may not be useful.

@@ -1,0 +1,8 @@
+Blowfish has not been broken in my opinion.  I wonder if Perry is
+thinking of MacGuffin, the block cipher by Schneier and Matt Blaze
+based on an asymmetrical Feistel network.  It was broken, and I think
+it was at Eurocrypt.
+
+Here is a message from sci.crypt a month ago where Bruce discusses the
+status of Blowfish.  A weak key attack is known against a weakened
+version, but I think the weak keys are rare.

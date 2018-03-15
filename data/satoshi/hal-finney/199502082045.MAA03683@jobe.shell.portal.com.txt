@@ -1,0 +1,25 @@
+rishab@dxm.ernet.in (Rishab Aiyer Ghosh) writes:
+
+
+
+
+Let me get straight where we are.  Rishab's concrete proposal was not an
+implementation, but rather a set of requirements.  There was no
+suggestion about any specific algorithms that would meet those
+requirements, right?  The question is whether any such algorithm could
+exist.
+
+It is hard for me to see how this could possibly work.  The message
+receiver sends this "selection key" to the intermediary, and that somehow
+pulls out the saved message, but in a form such that the intermediary
+doesn't recognize it.  And the intermediary himself can't tell exactly
+which message is produced.  But it is nevertheless exactly the message
+which was meant for this particular receiver.
+
+The thing is, the receiver does not have much more information than the
+intermediary.  At best he knows a secret key which may help decrypt the
+message in some way.  But I don't see how that can be used to pull out
+the message data since it can't be revealed to the intermediary.
+
+I can't really prove that this is impossible, but it certainly looks that
+way.

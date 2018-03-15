@@ -1,0 +1,16 @@
+This is neat.  It sounds like the plan is to provide a convenient
+mail filtering tool which provides remailer capability as a SIDE EFFECT!
+What a great way to spread remailers!
+
+Not to mention, the same tools can provide automatic encryption and
+decryption - the long-sought integration of PGP (or RIPEM, etc.) with
+mail in an easy-to-use way.
+
+I'm really looking forward to seeing more about this idea.
+
+Speaking of integrating encryption into email, does anybody here
+have access to the announced beta-test of PEM from TIS?  It would be
+interesting to see the documentation about how they've handled the
+user-interface issue.  I gather that it only works with the MH package
+but presumably they've had to face some of the problems we're talking
+about here.

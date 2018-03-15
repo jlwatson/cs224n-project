@@ -1,0 +1,40 @@
+I see two problems with this.
+
+The first is whether this mysterious black box, the entropy estimator,
+is really possible.  In practice the only way to know how much entropy
+you've gotten is to have a model for how the data is being generated,
+and to deduce from that an estimate of the entropy rate.  So the entropy
+estimator can't be a general-purpose calcluation, but it must be one
+which is specifically chosen, developed and tuned for the specific source
+of entropy you are dealing with.
+
+Given this, what is the point of filtering?  You already have a model.
+If you want to be conservative, why not just take 50% more bits than your
+model says you needed?
+
+The other problem is the functioning of this filter.  I haven't followed
+Jon's proposals closely, but at one point he was talking about
+histogramming the input and throwing out data which he had seen too
+often.  Now this is an implicit model as well - it assumes that the data
+is supposed to be uniformly distributed on a per-byte (or whatever the
+data elements are) basis.
+
+Suppose your random noise from dubious sources includes some timing
+values which vary in the range 90-110, roughly normally distributed.  You
+have good reason to believe that it actually is a normal distribution,
+and that there are 2 or 3 good bits of entropy per sample.  If you didn't
+use Jon's filter you could just collect data, hash it, and figure that
+each datum gave you this much entropy.
+
+But now if you throw Jon's filter in there, it may start throwing out all
+the values in the range 90-110.  Where are the 0-80's?, it wonders.  Where
+are the 120's and up?  There are way too many 100's here!  If the filter
+isn't smart about the data like your model is, it could end up throwing
+the whole data set out.  Your entropy counter would be spinning its
+wheels waiting for more data, and you'd think you never got enough.
+
+So I think the lesson is that there is only one way to estimate entropy,
+and that is to study your source.  I have to agree with Perry that this
+filtering concept is not the way to go.  It is a red herring that lures
+you in the direction of automatic entropy estimation, and that is really
+not safe.

@@ -1,0 +1,66 @@
+mccoy@communities.com (Jim McCoy) writes:
+
+I think part of the confusion here is the name "BlackNet".  As I envision
+the concept, BlackNet is not really an anonymous contact service, or in
+fact a network of any sort.  Rather, it is a vendor.  It buys and sells
+information.  The name, while provocative, is a bit misleading in this
+regard.  (This is just my model, and may not actually correspond with
+Tim's or anyone else's idea.  But I think it more closely matches the
+data haven concept, and in fact is more consistent with the original
+announcement.)
+
+BlackNet has a public key, and a known virtual location in the form of
+certain newsgroups that it monitors.  Anyone can initiate a
+communication interchange with BlackNet by posting a message to those
+groups, encrypted with BlackNet's key.  Presumably in that message will
+be included return address information in the form of a key and a set of
+locations that will be monitored for replies.  In this way ongoing
+conversations can be maintained between BlackNet and customers who are
+either buying or selling to it.
+
+BlackNet would not be used (as I see it) for direct communication
+between buyers and sellers of information.  How would the BlackNet
+public key fit into this model?  The existence of a specific BlackNet
+public key is part of what drives me to picture it as a vendor.
+Rather, BlackNet will buy information (plus unrestricted rights to
+disseminate that information), add it to its catalog, and then
+advertise its availability and price.
+
+
+This model pictures BlackNet differently than I do.  As I see it, once
+you sell your data to BlackNet you don't have to take any more steps.
+There may still be problems, in that you may feel that BlackNet is
+setting too high a price on the data you want to distribute.  However of
+course anyone is free to start up a competing service, if they want to
+take the risks.  BlackNet fees will in the long run be determined by
+competitive market conditions based on the costs of maintaining
+anonymity.
+
+
+This is a little different from my picture of BlackNet, as I wrote above.
+I would see BlackNet as being a particular seller of information, who
+will respond to this message.  It could have competitors like SafeHaven,
+StrongHold, InfoBase, etc., each of which will offer data for a price,
+and each of which will have its own reputation for reliability.
+
+
+Here is where BlackNet as an information middleman makes the most sense.
+Its business model includes the costs of this sort of vigilance, which
+after all can be automated.
+
+
+
+Actually we now have "virtual malls" online.  These are in their infancy
+but eventually they could become as easy to use and reliable as regular
+malls (for appropriate kinds of goods).  All that BlackNet (as I picture
+it) lacks is a WWW interface, and even that could be provided if the
+gateway server could be made immune to legal pressure and if various
+technicalities about anonymous WWW connections could be dealt with.
+
+As for reputations, if BlackNet is one of several vendors of
+information, like its competitors, they can all develop reputations of
+their own for reliability, honesty, availability, etc.  There may be
+problems if the testimonials of customers are all anonymous, but in
+some cases such methods as signed transcripts of information exchanges
+can be used by one side or the other to justify claims that the other
+side has cheated.

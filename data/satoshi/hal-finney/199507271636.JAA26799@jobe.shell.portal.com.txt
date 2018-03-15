@@ -1,0 +1,34 @@
+I believe this will work, in most blinded-ecash systems.  Another way to
+express it is you force the user to withdraw cash such that it comes into
+your wallet.
+
+There are some technical counter-measures though.  One is to have some
+secure tamper-proof hardware which enforces certain kinds of ecash
+transfers.  The above transfer would not be a legal one.  Only transfers
+which would allow various forms of traceability would be allowed.
+
+Another approach was described by Chaum in one of his papers.  I can't
+remember the details, but basically the user had to go through a
+preliminary transaction with the bank when he opened his account, to get
+a whole lot of tokens which would later be turned into ecash.  He has to
+get a lot of them because these will be for all the ecash he will use for
+a whole decade (or whatever).  Then the withdrawal protocol is one which
+turns a token into an ecash value.
+
+The result of this approach is that the blinding is in effect fixed in
+advance and there is no way to force different blinding under duress.  I
+posted more detail on this to the list sometime last year but I don't
+remember when unfortunately.
+
+Note of course that this whole traceability business only works if you
+have to identify yourself to the bank whenever you deposit the money.  If
+someone allows anonymous banknote exchange then the whole "advantage"
+goes out the window.  IMO payee anonymity will be a desired feature of
+ecash systems and I think Chaum is making a mistake claiming that it will
+not or should not exist.
+
+Another quibble is that blackmail is not a good example.  The payor
+doesn't want to blow the whistle on his blackmailer; the blackmailer is
+doing the payor a favor by giving him the option of paying money rather
+than having the damaging information revealed.  Often the payor will know
+who the blackmailer is.

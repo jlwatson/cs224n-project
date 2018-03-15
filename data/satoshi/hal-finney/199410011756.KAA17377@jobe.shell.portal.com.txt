@@ -1,0 +1,17 @@
+"Louis Cypher" writes:
+
+
+Good point.  There is a related attack which Chaum pointed out in his
+1981 CACM paper: the attacker intercepts and keeps a copy of an incoming
+message, then later re-sends it.  This one will go to the same place and
+by repeating this multiple times we can figure out where the original
+message went.
+
+
+
+If I follow this, the attack is something like, every time Alice sends
+a message Bob receives one.  Observing this happening over a period of
+time we conclude they are communicating.  Could this be defeated by
+sending dummy messages so that Alice sends exactly 10 messages every day?
+Then the fact that Bob receives messages on some day can't very well
+be associated with Alice.

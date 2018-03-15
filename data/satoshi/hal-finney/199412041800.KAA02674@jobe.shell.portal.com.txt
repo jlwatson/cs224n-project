@@ -1,0 +1,17 @@
+Mike Ingle <MIKEINGLE@delphi.com> writes:
+[Part about remailers deleted]
+
+This is very exciting!  Could you show some examples of how your code
+would be used with Perl?  Some kind of script that could work with MP
+numbers or RSA decrypt a file?  It would be very good to have a
+prototyping language like Perl with crypto addons.
+
+
+Try looking for a package called Shade using Archie.  Here is an excerpt
+from the doc file:
+
+
+As for the remailer return address idea, I would suggest looking at
+Chaum's 1981 paper from CACM which has a similar concept.  I believe it
+was posted here recently.  Instead of using shared secrets he had the
+secret key at each hop get embedded in the return address itself.

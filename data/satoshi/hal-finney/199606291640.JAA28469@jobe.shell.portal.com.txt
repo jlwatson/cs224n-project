@@ -1,0 +1,13 @@
+Wei Dai did some nice statistical analysis of this type of attack
+sometime a year or two ago.  Even with countermeasures such as you
+suggest, if they are not perfect, so some information leaks correlating
+incoming and outgoing messages, Wei showed that it was possible to
+deduce the owners of the nyms surprisingly quickly.
+
+The countermeasures do work - if you get and send exactly 50 pieces of
+4K byte email every day, no matter what, then correlations don't exist
+- but they are expensive to do perfectly.  For now we have much worse
+weaknesses; none of the current return-address systems are really safe,
+other than posting encrypted mail to newsgroups (and even that may be a
+problem if they suspect who you are and are monitoring your computer
+link to see if you download certain messages).

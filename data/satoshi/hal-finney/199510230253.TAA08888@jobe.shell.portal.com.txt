@@ -1,0 +1,17 @@
+Bryce <wilcoxb@nagina.cs.colorado.edu> writes:
+
+One proposal I have seen here is to have a "coin changer" service which
+turns the received coin in at the bank for you. Then the payer and the
+bank and the coin changer all have to collude to identify you.  However
+you have to trust the coin changer not to steal your money.  So it better
+be a pretty trustworthy organization.
+
+
+It would still be less than perfect to have all of a given nym's
+transactions known.  In an ideal electronic cash system no transactions
+are linkable if the participants don't want it.
+
+
+In such a system you don't need an "account" as such, but rather the bank
+simply allows used cash to be checked and exchanged for fresh cash via
+anonymous connections.  This would be the most privacy-protecting system.

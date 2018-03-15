@@ -1,0 +1,28 @@
+This sounds like a good idea.  The user would have to have some
+scripts to decrypt incoming anonymous-address messages using this
+pass phrase (or some sequence of pass phrases if more than one
+remailer was used for the anonymous address).
+
+
+These anonymous addresses do need a distinction between the "message
+address" (or "envelope") and the message body.  The anonymous address
+gets decrypted at each step, and the message body gets encrypted
+at each step using the scheme above.
+
+But Eric Hughes pointed out that we already have such a distinction
+in the RFC822 message headers vs body.  We should use that existing
+structure rather than try to create our own.  That means that anonymous
+addresses should be designed to fit into mail headers.  Unfortunately
+many mail agents make this difficult or inconvenient right now, but
+perhaps that is an area where we could make some improvements.
+
+In this model, we would not need message body delimiters, since mail
+already has its message body delimited distinct from its headers.
+
+If we do process the message body with encryption at each stage,
+I do have an idea which could be useful.  If the body which is
+being encrypted is already in the format of an ASCII-encoded message
+using the standard RFC822 encryption used in PGP, RIPEM and PEM,
+then rather than just encrypting it it could be de-ASCII'd, then
+encrypted, then re-ASCII'd.  This would keep it from increasing
+in size by a factor of 4/3 at each encryption step.

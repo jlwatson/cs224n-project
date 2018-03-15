@@ -1,0 +1,13 @@
+Thanks for the kind words about my participation with PGP Inc.  My comment
+was really meant more as a disclaimer, though.  Realize that I am now
+a corporate employee in the field rather than a hobbyist, so set your
+mental filters accordingly.
+
+Also, my activities right now are mostly a matter of helping with the
+finishing touches.  Hard work over the past couple of years by Colin
+Plumb and Derek Atkins has produced the bulk of the code base for PGP
+3 and the follow-on products.
+
+Still it is very exciting and gratifying for me to be working in this
+field which I love and which is so important, and I am enjoying it
+very much.

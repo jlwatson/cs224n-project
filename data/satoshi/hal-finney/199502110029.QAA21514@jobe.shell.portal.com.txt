@@ -1,0 +1,9 @@
+Matt Blaze <mab@crypto.com> writes:
+
+Could you have a distributed database where you lookup by key ID and get
+a key?  Or is there a constraint that the key distribution infrastructure has
+to be part of the DNS?
+
+I could see a set of key servers where one deals with all keys that start
+with 0x00, the next has all keys which start with 0x01, etc.  This makes
+it easy to know which server to go to in order to look up a given key ID.

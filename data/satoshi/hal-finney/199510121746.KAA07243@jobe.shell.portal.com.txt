@@ -1,0 +1,17 @@
+"baldwin" <baldwin@RSA.COM (Robert W. Baldwin)> writes:
+
+
+I'm sure that everyone will join me in a rousing Bronx cheer for RSA as
+they continue their efforts to monopolise public key cryptography.  If
+they truly have a patent on DSS this will be yet another important
+algorithm for which people have to get RSA's permission.  RSA is fast
+entering the list of such well loved institutions as the Post Office and
+the Internal Revenue Service as one of those places you can't avoid
+dealing with no matter how you try.
+
+"Ever been sued for patent infringement?
+You will!
+And the company that will stick it to you?
+RSA."
+
+Hal, the intemperate.

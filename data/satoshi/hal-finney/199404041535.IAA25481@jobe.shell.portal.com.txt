@@ -1,0 +1,61 @@
+I meant to reply to this several weeks ago, but was too busy then, so here
+are some comments now.
+
+
+This sounds like an interesting approach.  WEB is Knuth's methodology
+for creating self-documenting programming projects.  You run them through
+a filter to create the executable code, Perl in this case.  This should
+help portability and ease of support.
+
+
+These mostly sound like great features.  The virtual addresses are something
+we have needed for a long time.  The idea of keeping records of which remailers
+are responding should help with the use of the network, too.  The one problem
+with this is that it might be tempting for the users to just trust the
+remailers to choose their chain paths.  It would be much better for the user's
+own software to hook up, find out which remailers are operating, then choose
+a chain.  Ray's software will allow this, but this function could be split
+off from the remailers to a specialized server, perhaps.
+
+I'm not sure about the advantages of remailers signing and encrypting messages
+between themselves.  It seems to me that the network should work even without
+this.  Ideally we don't want the remailer network to be too centralized and
+close-knit.  It's better for them to be strangers to each other since if they
+coordinate their efforts they can defeat anonymity.
+
+
+This was one reason I suggested supporting both old-style CP and the
+extropians-style syntax ("::Anon-To").  As Ray suggests, in some cases we
+might not have message headers in the RFC822 sense.  I think it is simpler
+to think about a message which has remailer commands at the top.
+
+
+The number of sites which allow users to run socket servers is far smaller
+than the number which allow mail filters, so not many people will be able
+to use this feature.  OTOH the mail-only sites are generally of low security
+and an owned-and-operated system should be able to use this feature.  So it
+is definately a plus for those who can use it.
+
+
+This is a good feature, but it should also be available from non-socket
+remailers.  There should probably also be a "Help" command to tell how to
+use the remailer.  (A lot of people already have these features.)
+
+
+Ray had mentioned above that these user handles can also map to encrypted
+remailer strings.  This way users don't have to trust any one remailer op-
+erator to keep their identity secret.  This need for trust is one reason
+I am not enthusiastic about user#remailer1#remailer2#remailer3 as an
+address, although it is admirably concise and easy to use.  The problem is
+that it exposes the path to the first remailer in the chain.  I really feel
+that paths must use nested encryption to be of much value.  Similarly, the
+darkmodem#*#*#deepanon requires the user to really trust the first remailer
+in the chain.  Perhaps it deserves such trust, but I feel that a system which
+does not require such trust would be superior.  (Again, Ray's proposal is
+broad enough that it will allow non-trust modes of operation, as I understand
+it; my main concern is that these other options are so easy that they will
+tempt people to be lazy and slip into modes where they are vulnerable to
+unscrupulous remailer operators.)
+
+I am really looking forward to seeing Ray's software.  It sounds like a
+good package of functions.

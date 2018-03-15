@@ -1,0 +1,45 @@
+Jiri Baum <jirib@sweeney.cs.monash.edu.au> writes:
+
+
+This would work to protect Alice from certain kinds of fraud by Bob, but
+it increases the amount of data considerably, and it still does not
+resolve the main issue that Bob claims that his coin didn't unlind to
+clean data.  Who is at fault in that case?  How can this be resolved?
+
+
+Alice could give Bob bogus data, Bob could give Alice bogus data, Bob
+could claim that Alice gave him bogus data (even though it was good).
+
+
+If what she got from Bob was signed by him, she can prove that she gave him
+back a bank-signed version of that.  (He has to sign it, otherwise she
+could just exhibit two bogus numbers, one the cube of the other.)  Given
+that, your idea seems good.  Alice can prove that she did her part OK, so
+if she is able to show such a proof then Bob must be at fault.
+
+
+Yes, I think so, so there is no need for the cut and choose.
+
+
+I don't think they can.  All Bob sees is his own blinded coin, and the
+signed version of that.  The bank sees a separately blinded number which
+it signed.  Alice's blinding factor can be anything, so there is no
+linkage between them.
+
+However, the timing is a problem.  Bob knows _when_ Alice communicated
+with the bank.  So he can collude with the bank afterwards to identify
+those withdrawals which took place at that time, one of which must have
+been Alice.  This could be a problem.
+
+In regular ecash, the timing issue is potentially less serious because
+the payee can in principle have a totally anonymous relationship to the
+bank, and exchange his received coins for fresh ones.  But in this
+system doing that is more difficult.  Alice must withdraw funds rather
+than deposit them.  To do so totally anonymously she would have to
+present coins to the bank at withdrawal time equal in value to the
+amount she wanted to pay Bob.  The bank would replace these coins with
+fresh ones that it signs, which are the doubly-blinded ones which Bob
+has provided to Alice.  So this is a somewhat more roundabout
+approach.  However, if you do this, and Alice communicates with the
+bank anonymously, then both sides seem to be pretty well protected
+against collusion.

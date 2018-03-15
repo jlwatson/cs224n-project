@@ -1,0 +1,20 @@
+I get "malformed or obsolete key signature" when I try to signature-check
+this key using 2.5.  That is exactly what the readme file warned about.  PGP
+changed its signature format in 2.2 or 2.3 but retained backward compatibility.
+2.5 is no longer backwards compatible to signatures created in earlier
+versions.  Old keys with signatures have been harmed to this extent.
+
+I should add that PGP has always had a policy (one which I don't like) that
+compatibility would only be retained across two sub-versions.  In other words,
+messages and signatures created with 2.5 are only guaranteed to be usable with
+2.6 but perhaps not 2.7.  So this change might have been made anyway even with-
+out the move to RSAREF.
+
+It's also worth noting that the old signature format was a bug.  The code
+was originally supposed to be PKCS compatible (the format used in RSAREF
+and PEM) but late changes broke it; the changes had to do with endian
+conversions and the bytes ended up going out in reverse order.  This was
+not a security bug, just a compatibility problem.  This problem was discovered
+about a year later and was changed, but backwards compatibility was retained
+by having PGP check for both signature formats.  So, there has always been
+regret about the PGP 2.0 signature format and a desire to abandon it.

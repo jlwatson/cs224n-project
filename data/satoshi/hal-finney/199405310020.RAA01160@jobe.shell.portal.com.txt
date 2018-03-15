@@ -1,0 +1,46 @@
+I agree with this, which is why I don't understand why you said:
+
+
+You're jumping the gun here a little, aren't you?  There is no evidence
+yet that Chaum's current proposals are going to catch on.  The CommerceNet
+idea seemed to have more backing judging from the press releases.  And it
+did not appear to support anonymous transactions.
+
+
+I don't follow this argument.  You are suggesting that an anonymous cash
+market would be more efficient than one based on checks and credit cards?
+It would have lower transaction costs, so things would be available for lower
+prices?  Why is this?  The hypothetical discussions we've had here on "if I
+ran an anonymous bank" often talked about service charges.
+
+Your use of the term "capstone" is unclear in this context.  Are you suggesting
+that retaining privacy is more important for most people than trusting a
+seller in most transactions?  Most people would rather buy from FlyByNight
+Corp if they could stay anonymous than from Sears using their credit card?
+I don't think so.  For some people, the kind who won't use checks today and
+get by with cash and money orders, this might be true.  But I don't see
+it as being the rule.
+
+
+It seemed to me that the IMP list discussions degenerated into flame wars
+between Detweiler and cypherpunks.  Those in the middle, which included
+most subscribers, were shocked and disgusted by Detweiler's crude flaming
+and this made everyone uncomfortable about bringing up the topic of anon-
+ymity and cash.  With Detweiler on the list it was impossible to have a
+serious discussion of the matter.
+
+
+Chaum is trying to make money off his ideas.  In doing so, he is being
+guided by the invisible hand of the market to try to find those niches where
+his technologies can be most profitable.  Maybe going after the bankers is
+the wrong idea, but it is understandably tempting to prefer trying to get
+millions of dollars from a few people than a few dollars from millions of
+people.  It does sound, though, like he is trying to branch out now and
+spread his technology around.  Perhaps he will follow the lead of RSA and
+make a "ChaumREF" free implementation of his cash technology.  The Commerce-
+Net model had RSA supplying free client software while charging the vendors
+licensing fees, I believe.  Chaum may be planning a similar approach.
+
+It would be nice to see more details about what Chaum has in mind.  My
+WWW access is very weak.  Could someone summarize what is available
+at the page listed above?

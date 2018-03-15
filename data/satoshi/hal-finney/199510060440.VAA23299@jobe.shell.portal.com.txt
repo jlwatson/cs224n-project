@@ -1,0 +1,49 @@
+Bob Smart <smart@mel.dit.csiro.au> writes:
+
+
+This would be, say, a DNS lookup on www.egghead.com.
+
+
+I get it by connecting to that IP address and asking for it, or perhaps
+I have it cached or I get it from some public cache.
+
+
+I see the certificate is signed by someone I trust and it certifies that
+this key is good for connections to Egghead Software at www.egghead.com.
+
+
+
+OK, maybe this is some DNS variant that given www.egghead.com, returns a
+public key 0x12345678.
+
+
+OK, so now I do another DNS lookup on www.egghead.com to get the IP
+address.  Or maybe I even use key 0x12345678 as an alternative index to
+get that address.
+
+
+Now you've lost me.  Are you saying that the key is self-certifying,
+saying "I belong to 192.9.8.7"?  That is, it is accompanied by a
+signature issued by that key itself on this IP address?  I hate to be
+difficult, but this does not provide me with a warm feeling.  Anyone
+could have issued that key, claiming to belong to that IP address.  If
+the person who did so is able to interpose himself between me and that
+address then my messages are not secure.
+
+
+Again, I don't follow how we gain this certainty.
+
+
+This can be dealt with in the certificate context by having a
+certificated key sign a statement that the IP address is now
+such-and-such.
+
+
+I don't really care whether the name is called an attribute, a
+distinguished name, or an ooblek.  I just don't see how you're going to
+get along without it.  The fact is, we live in a world populated by
+people and companies and we use names to identify them.  I will grant
+that there are problems with uniqueness but I don't think the solution
+can be to just give up on the whole idea of names since they are so
+messy.  Pretending that keys are communicating beings is not going to
+work.

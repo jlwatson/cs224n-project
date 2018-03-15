@@ -1,0 +1,15 @@
+This is not completely correct; there is a degree of anonymity in
+DigiCash's ecash.  That is anonymity of how a person spends his money.
+Neither the bank nor the payor is in a position to learn who or where a
+particular piece of ecash comes from (assuming that anonymous
+communication means are used).
+
+This is not trivial anonymity.  IMO the greatest privacy threat posed by
+credit cards is exactly this, the tracking of spending information and
+patterns.  With credit card payments a great deal of information can be
+learned by the credit card company about what I do.  With ecash almost no
+information is learned, only the raw amounts I spend.  And if I occasionally
+make payments to myself even that is blurred.
+
+Ecash is not all that we might hope it could be but it is more than a
+myth that it allows untraceable transactions.

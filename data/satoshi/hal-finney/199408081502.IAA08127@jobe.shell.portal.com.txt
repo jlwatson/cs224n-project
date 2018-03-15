@@ -1,0 +1,11 @@
+jdd@aiki.demon.co.uk (Jim Dixon) writes:
+
+
+I could see this would come up in Jim's description.  Who exactly are these
+"empowered users"?  And how much security do the second-class citizens ac-
+tually get?  Will it work for everyone to become "empowered", or are there
+scaling problems in terms of bandwidth?
+
+It seems to me that the most sensible approach is to make message fragmen-
+tation into standard-sized packets, along with reassembly, be at the
+end user site.  This way everyone becomes a first-class citizen.

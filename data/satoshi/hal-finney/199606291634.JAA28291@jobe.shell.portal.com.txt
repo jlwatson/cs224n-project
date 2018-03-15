@@ -1,0 +1,6 @@
+Since the PGP is run on private computers, and only at mail-reading time,
+there should be no problem entering the conventional encryption
+passphrase and checking to see whether the messages decrypt.  Actually
+PGP puts a pattern at the beginning of the encrypted portion, so
+successful decryption can be checked very quickly, without much of a
+computational load.

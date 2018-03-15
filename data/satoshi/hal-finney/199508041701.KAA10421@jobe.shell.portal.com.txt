@@ -1,0 +1,31 @@
+The safe-tcl mailing list has not been active for a few months.  I think
+a lot of interest has transferred to Java.  One problem is that safe-tcl
+was oriented around email, so it lacks facilities for accessing web
+pages.
+
+I agree with Ray that the security of safe-tcl leaves something to be
+desired.  I implemented a safe-tcl mail filter which would automatically
+run incoming mail scripts which were in safe-tcl format.  This would be a
+generalization of a remailer, so that users could write scripts which
+would determine when the remailing would occur, etc.  However I ran into
+a number of problems, particularly related to persistent storage (e.g.
+disk file access).  This is a hard problem for a "safe" system to solve.
+
+One solution is to just forbid it, but beyond that you need to have rules
+about how much disk space a script can use, whether they can access each
+other's space, etc.  There are some nice applications if they can do so,
+for example the telescript model where two software agents come together
+and exchange some information.
+
+Another tricky issue is if you are going to let the script talk to the
+outside world via email or tcp connections.  How do you prevent abuse of
+this feature (sending junk email, or connecting to a web page and
+entering bogus data into a form)?  But again, without this capability the
+script is pretty much limited to drawing pretty pictures on your screen,
+which isn't very useful.
+
+Here is one message I sent to the safe-tcl list earlier this year
+describing some of these problems in a little more detail.  Note that
+there were also several bugs in the implementation which left security
+holes, things being checked in the wrong context and such.  This is
+similar to what Ray was citing.

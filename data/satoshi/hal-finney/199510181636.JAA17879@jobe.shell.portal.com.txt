@@ -1,0 +1,12 @@
+Eli Brandt <eli@UX3.SP.CS.CMU.EDU> writes:
+
+
+I think splitting the message would be OK, but then the question is who
+is responsible for reassembling it?  If there were a "reassembly
+server" which took such messages, assembled them, and forwarded them,
+then we would be right back where we started from.  If the end user is
+responsible for reassembly, then that is tantamount to voluntarily
+agreeing to receive anonymous messages, and that is no problem.  The
+complaints we get are virtually 100% from people who didn't want to
+receive such messages, or see them posted.  And of course anonymous news
+postings via shadows would also have the reassembly problem.

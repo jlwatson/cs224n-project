@@ -1,0 +1,34 @@
+Saw this on alt.wired.  They are creating electronic vouchers which you
+can use, in effect, to buy software on the net.  I have more comments
+below:
+
+
+I got the press release referred to.  The business is to provide passwords
+to unlock advanced features of software products distributed like shareware.
+You can use a crippled version of the program for free, but to get the
+advanced features you call Softlock and pay them money, then they give you
+a code which unlocks all the program's features.  Softlock takes a percentage
+of the fee and passes the rest on to the developer.
+
+This is not that new, but one thing they do have is a pre-paid voucher
+usable to purchase software password codes.  When you buy a new password to
+unlock a program you can pay electronically by MC/VISA or by voucher.  (You
+can also send checks and cash by postal mail.)
+
+Presumably these vouchers could be given as gifts, or exchanged in other
+ways.  If Softlock eventually develops a good range of useful software, this
+could lead to a grass-roots form of electronic money.  It would be backed by
+the Softlock software products, but could eventually be used to buy other
+things, because people would know that the vouchers were worth real products
+so they would accept them.  This route to backing money seems to have less
+problems with the banking laws, etc.
+
+The specific Softlock vouchers are not anonymous, I'm sure.  Anonymity would
+add a lot of overhead and complexity in working with them (see our earlier
+discussions of Chaumian cash).  But they could be a start towards a net-wide
+electronic payment system.
+
+The Softlock people are somewhat crypto aware, accepting RIPEM messages,
+which is good if you want to send your VISA card number to them.  I wonder if
+they might be interested in a more cryptographically advanced untraceable
+voucher system.

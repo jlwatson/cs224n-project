@@ -1,0 +1,29 @@
+My understanding was that everyone who tried to talk to him would get
+two aliases assigned automatically.  Karl made the problem worse by
+talking to himself from two different addresses, but you're still
+talking about a lot of aliases.
+
+
+OK, so you can set up an anonymous address which, say, goes through pax
+and then penet and then to you.  If someone replies to that address,
+they will be anonymous to you, by default; their anonymous address will
+go through penet and then pax.
+
+But if they didn't want that anonymous address, they could use one of
+their own (say, rebma to soda to themselves) first, then go to your
+address.  Now when you reply to them, I guess your message will go
+through penet, then pax, then rebma, then soda, then to them.
+
+My feeling was it would be better if they could put a Reply-To: into
+the message that just meant to go to rebma then to soda to themselves, and
+get that Reply-To: to go through the pax-to-penet chain to you.  Also,
+they would not get anonymous ID's assigned by penet and pax, ideally.
+Instead, you would reply to them using this Reply-To address and go through
+just rebma and soda to get to them.  This will be simpler and faster
+than having all messages go through the union of both communicant's
+anonymous address chains.
+
+
+I wasn't really talking about picking my own alias.  It is more a
+matter of having a straightforward way to construct an anonymous
+address that goes through the specific chain of systems that I choose.

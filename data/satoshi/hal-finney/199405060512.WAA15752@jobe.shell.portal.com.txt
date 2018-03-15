@@ -1,0 +1,19 @@
+Lady Ada writes:
+
+
+Diffie-Hellman can be quite slow as well, depending on the size
+of the exponents.  It involves calculating x**y, twice, where x
+and y are about 512 to 1024 bits.  Some variants have the exponent
+yl be smaller, around 140 bits, but if strong primes are used for
+the modulus the exponent will be large like this.  And the Chinese
+Remainder Theorem speedup used by PGP when RSA signing would not
+be applicable here.  So calculating a DH key exchange could take
+many times longer than an RSA signature by PGP.  This takes about
+fifteen seconds on my old PC; doing a DH key exchange might take a
+minute.
+
+
+It might be possible to compute the DH in the background while the
+conversation is going on, but if the computer is also compressing,
+uncompressing, encrypting and decrypting at the same time, that's
+not going to be easy.

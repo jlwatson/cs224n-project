@@ -1,0 +1,5 @@
+Would it have to be public knowledge which message havens a given
+pseudonym monitors?  Suppose I want to get mail to Pr0duct Cypher; don't
+I have to know which haven(s) to use?  If we have only a (few?) hundred
+people on each haven then this narrows down the pool of possible real
+user who are behind that pseudonym considerably.

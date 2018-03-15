@@ -1,0 +1,10 @@
+(Sorry about quoting so much, but I liked Steve Shear's succinct problem
+statement.)
+
+I don't see how authorization certificates solve this problem.  How
+would you determine if someone was qualified to receive an authorization
+certificate?  And what would you do to make them stop using the service
+if they abuse it, and to stop them from getting new authorization
+certificates?
+
+Thanks,

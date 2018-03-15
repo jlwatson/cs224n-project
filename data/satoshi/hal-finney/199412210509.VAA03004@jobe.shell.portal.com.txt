@@ -1,0 +1,8 @@
+skaplin@skypoint.com (Samuel Kaplin) writes:
+
+
+I tried out a freenet system once.  You could not create files with
+arbitrary contents.  There was a facility for setting up mail forwarding,
+but it was all done via a menu-driven system where you specified the
+email address to which your mail should be forwarded.  The system really
+did not seem to have enough flexibility for procmail.

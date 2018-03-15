@@ -1,0 +1,22 @@
+Phil Karn <karn@qualcomm.com> writes:
+
+In the Crypto 93 proceedings, there is an article by Bosselaers, Govaerts,
+and Vandewalle comparing the speed of three algorithms for modular reduction
+which is the main time-consuming step in modular exponentiation.  They
+compared the classical algorithm from Knuth, a modification to it by Barrett
+which speeds up the estimate of the first digit of the quotient, and 
+Montgomery multiplication (which is inherently modular).
+
+Montgomery was the fastest for taking 1024 bit numbers modulo 512 bit
+numbers, but not by a lot.  For exponentiation, though, where the reduction
+happens a lot, Montgomery was fastest for all but the very smallest exponents.
+512 bit exponents took  about 2.93 seconds for the classical algorithm,
+2.85 seconds for the Barrett improvement, and 2.55 seconds for Montgomery.
+The crossover point (below which Barrett is best) is exponents of about 32
+bits.
+
+So, Montgomery multiplication was best, but the percentage improvement is
+not that large.
+
+Sometimes, as I mentioned yesterday, you can restrict the size of the exponents
+without losing security (as in DSS), but it depends on the algorithm.

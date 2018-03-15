@@ -1,0 +1,62 @@
+Mike Ingle <MIKEINGLE@delphi.com> writes:
+
+
+No, I can't think of a fix, although your idea at the bottom might be
+workable in some form.
+
+
+
+You would want some confirmation that you got the key you requested.  The
+broadcasted key list could be updated to show which ones have been
+reserved already, marked with a "nonce" (a one-time use secret random
+number you sent with your request) to show who reserved them.  In this
+case you might not even need to request a specific one, just ask for one
+to be assigned to you and then look and see which one you got.  Of course
+this assumes a broadcast mechanism but perhaps this is tolerable if there
+aren't too many remailers.
+
+
+You'd have to watch out for attackers who constantly ping the pigeonhole
+address and try to see which messages leave the remailer network in a
+correlated way.
+
+
+Yes, that is a good idea.  Many of the existing remailers are also
+written in perl (calling PGP for decryption) but not much work has been
+done to improve them in this way.  I think there is recognition that the
+biggest security improvement would come with message quantizing (and not
+passing subject lines through!) and until we have that the rest is
+pretty pointless.
+
+
+I have not looked at the Shade source.  Here is the posting I made to
+cypherpunks on Krawczyk's method.  I wasn't very well organized but if
+you read through to the end you may be able to get the gist of it:
+
+
+
+
+This is true, but you said you are talking about things that can be done
+today, and today Usenet already has a pool of probably a million users.
+That is plenty of security.  The problem is if everyone starts using it
+for their replies, but that won't be more than a drop in the bucket for a
+long time.
+
+
+This is an interesting idea.  It is sort of like broadcast except you
+would be reducing the bandwidth requirements by only sending certain
+information to each user.  One way to formalize it would be to say that
+you have two datasets, D1 and D2.  These get combined into D12 = f(D1,D2)
+for some combinging function f.  Then we ask whether there is a g(D12)
+which allows reconstruction of just D1 or D2 in such a way that we can't
+tell which one it will get just from knowing f and g.  Plus, g must
+output data which is no larger than D1 or D2.
+
+In this strict form I don't think it can be done, because you could
+change D1 and see if g(D12) changed.  If it did, then it was getting D1,
+and if it didn't, it was getting D2.  However if we let g be a little
+bigger then perhaps it wouldn't be so clear.  I don't know...
+
+
+Again, users may not be willing to live with it since they have an
+alternative right now in usenet.

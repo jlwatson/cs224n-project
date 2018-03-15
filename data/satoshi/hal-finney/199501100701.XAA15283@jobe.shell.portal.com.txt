@@ -1,0 +1,31 @@
+I had suggested an idea a while back where you would try to address the
+abuse issue directly rather than charging per message.  I agree with
+Pierre that any reasonable per-message charge will not help in many forms
+of abuse, although it should address the worst spam attacks.
+
+The idea is to have a sort of digital cash token, but it is free.  The
+key is that each person just gets one of these, but they are reusable.
+After a remailer sends a message, it waits and sees if it gets any
+complaints.  If not, the token is re-blinded and made available to the
+original user via some kind of pool.  He can then send another message.
+But if he commits abuse, he doesn't get his token back.
+
+Obviously there are problems with this, the worst probably being how we
+can keep people from acquiring lots of tokens under different names.
+Perhaps you could charge some small amount for them, but require VISA
+payment, and check the names on the VISA cards.  (This doesn't hurt
+anonymity when the tokens are actually used because of the blinding.)  To
+get multiple tokens a person would have to commit some serious real world
+name trickery, a considerably higher barrier than making up a pseudonym
+on the net.
+
+Another problem is that as stated above, you could only send one
+anonymous message every day or two.  Perhaps we relax the rules and let
+people have a few of these tokens; they can then abuse the system a few
+times but each time they lose a token.
+
+A similar idea might work for the data haven problem, although I don't
+understand exactly what is intended there.  This approach is a variation on
+the "is a person" credential, which attempts to make sure that each
+person only gets one of something.  A lot of situations would benefit
+from such a credential, although some people don't like them.

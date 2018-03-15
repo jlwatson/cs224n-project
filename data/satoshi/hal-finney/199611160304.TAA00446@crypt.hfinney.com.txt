@@ -1,0 +1,14 @@
+I heard that Bruce Schneier has devised a cryptosystem based on a card
+deck for a future book by Neal Stephenson.  It is supposed to be simple
+enough for a person to use manually, but complicated enough that it can't
+be broken by computer.  Your idea of using cards as a one time pad is
+somewhat similar, maybe, although I think Bruce's was designed to be
+useful for long messages, providing computational rather than unconditional
+security.
+
+
+This is very interesting; I've never seen this algorithm before.  It
+is a nice way to turn a number into a permutation, and vice versa.
+
+
+This would be 4*4! + 2*3! + 1*2! + 1(was 3)*1! + 0*0!, or as you say:

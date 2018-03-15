@@ -1,0 +1,25 @@
+Jiri Baum <jirib@sweeney.cs.monash.edu.au> writes:
+
+
+
+
+
+Yes, this is a problem with the use of certificates to try to detect
+the MITM.  As I wrote before, there is still a way in which certs can
+be useful.  Your attack shows that you can't use true name certificates
+to confirm that there is no MITM in front of Alice.  However, you can
+use them to detect a MITM who is interposing himself between you and
+the rest of the net.  In other words, if I am Alice, I can use
+certificates to make sure that no MITM is behaving as above, altering
+my messages and signing them "Hal".
+
+What I do is to acquire a valid signature key via offline means, and use
+that to validate the keys of people I want to communicate with.  I am
+then able to send them messages securely, and ask them to confirm that my
+keys and user name do match those which appear in messages I have posted.
+The MITM is not able to know the contents of these messages which I send,
+hence he can't stop me from finding out his existence.
+
+
+IMO by itself knowing that the same person signed every one of a set of
+messages is not that useful, since anyone can sign any message.

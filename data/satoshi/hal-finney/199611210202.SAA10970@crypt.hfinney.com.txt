@@ -1,0 +1,10 @@
+As I mentioned a couple of days ago, science fiction writer David Brin
+has an argument against not only anonymity, but _privacy_ as well.
+Where cypherpunks tend to think of privacy as both beneficial and
+inevitable, Brin sees it as harmful and doomed.  He has an article in
+the December 1996 issue of Wired discussing his ideas.
+
+BTW cypherpunk Doug Barnes is also quoted several times in the long
+article in that issue by Neal Stephenson (Snow Crash, The Diamond Age)
+about the undersea cables that carry most transnational information
+traffic.

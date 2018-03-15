@@ -1,0 +1,9 @@
+Try chaining the message through multiple remailers, then to a bitbucket
+address.  One such address is "nobody@soda.berkeley.edu".  Presumably there
+are many of this type.
+
+
+Send yourself an encrypted message, chaining through a bunch of remailers.
+
+See the cypherpunks ftp archive on soda.berkeley.edu for scripts
+which will let you do these things.

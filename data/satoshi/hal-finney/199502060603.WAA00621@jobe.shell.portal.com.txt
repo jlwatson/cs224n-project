@@ -1,0 +1,44 @@
+Unfortunately, my PC's disk died several months ago so I don't have one
+right now.
+
+pgppadt.pl sets the output file name with:
+open (OUT, ">$ARGV[0].pad") || die ("Couldn't create $ARGV[0].pad\n");
+
+This doesn't work on DOS since it appends .pad to the input file name so
+it doesn't fit the 8.3 character format.
+
+The other errors you are getting are probably due to the difference
+between binary and ascii I/O mode on DOS.  I forgot about that
+in my test script.  Try this revision of pgppadt.pl, and let me know if
+it works on DOS:
+
+----------------------cut here------------------------------
+# Test program for pgppad.pl, showing how to use it.
+# Revised 2/5/95 for DOS legality
+# Usage: perl pgppadt.pl infile <bytes-to-add>
+# Output file is infile, stripped of extensions, with .pad appended.
+
+require 'pgppad.pl';
+ 
+open (IN, $ARGV[0]) || die ("Couldn't open $ARGV[0]\n");
+$outfile = $ARGV[0];
+$outfile =~ s/\..*//;
+open (OUT, ">$outfile.pad") || die ("Couldn't create $outfile.pad\n");
+binmode IN;
+binmode OUT;
+
+$padding = $ARGV[1];
+ 
+@stat = stat(IN);
+$size = $stat[7];
+print "Input file $ARGV[0] has size $size bytes\n";
+print "Output file $outfile.pad will have size ",$size+$padding," bytes\n";
+ 
+if (($code = &pgppad (IN, OUT, $size+$padding)) < 0) {
+    die ("pgppad returns code $code\n");
+}
+ 
+close (IN);
+close (OUT);
+print ("Done\n");
+----------------------cut here------------------------------

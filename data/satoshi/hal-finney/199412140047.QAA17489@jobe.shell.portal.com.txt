@@ -1,0 +1,18 @@
+"Amanda Walker" <amanda@intercon.com> writes, quoting someone from
+Netscape:
+
+
+
+
+This relates to the other part of my question, which didn't get answered:
+what is the relationship between the name found in the X.509 certificate
+and the server?  Does X.509 include an internet address like mcom.com,
+and the Netscape client checks that this matches the address of the
+server it is connecting to?  I am not very familiar with the certificate
+format but I had the impression that it used a very different naming
+scheme.
+
+Or does the client accept any valid certificate without regard to the
+connection if any between the name in the certificate and the server to
+which it is connected?  This whole area was left undefined in the SSL
+spec but will be important for interoperability.

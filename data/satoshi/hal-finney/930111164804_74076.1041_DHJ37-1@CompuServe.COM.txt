@@ -1,0 +1,15 @@
+The problem is this: when someone responds to your anonymous ID
+anon.435@pax, their mail _from_ Pax does not come from anon.435.
+Anon.435 is _your_ id.  Instead, their mail from Pax comes from their
+own anonymous ID (possibly a newly allocated one).  Then, when the
+mail goes to Penet, it sees this new "From" ID and allocates one of
+its own.
+
+The same thing happened when you sent to anon.435@pax from your
+system which already had a Pax ID.  When the mail was forwarded from
+Pax to Penet, it was not marked as coming from anon.435.  Instead,
+it was marked as coming from this already-assigned Pax ID. (I don't
+think you ever said what that already-assigned ID was.)  Penet had
+not seen that ID before, so it allocated an alias for it and sent
+back to that ID.  Penet's mail-back would _not_ go to anon.435, but
+rather to the Pax ID which it was replying to.

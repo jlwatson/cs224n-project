@@ -1,0 +1,17 @@
+When I run lynx (2.3.7 beta) to <URL:
+http://www.anonymizer.com/cgi-bin/snoop.pl >, it says:
+
+   Here's a sampling of the kind of information that a site can collect
+   on you (please wait a moment):
+ 
+ 
+     Your computer is a Unix box.
+     Your Internet browser is Lynx.
+     You are coming from jobe.shell.portal.com.
+     You just visited the Anonymizer Home Page.
+
+No user name here.
+
+Also, when I follow a mailto: link it asks me to input the email address
+I want the mail to be from!  So I don't think it is using local user name
+information, although certainly that is potentially available to it.

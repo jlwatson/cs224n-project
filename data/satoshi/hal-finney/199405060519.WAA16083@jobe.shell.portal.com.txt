@@ -1,0 +1,9 @@
+It's not the depositor who generates the coin, it's the withdrawer.
+Generally, he will be able to, in effect, "mark" the coin so that
+when it is deposited at the bank (by whomever he paid it to) the
+bank will be able to recognize that cash (because the withdrawer told
+the bank what the numbers were).
+
+However, with digital cash, it may be possible for the depositor to be
+anonymous and deposit the cash without being identified, so that even
+though the cash is recognized it does not necessarily reveal the depositor.

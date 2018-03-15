@@ -1,0 +1,1 @@
+Oops; Ed is right, of course; that should be setenv PGPPASSFD 0.

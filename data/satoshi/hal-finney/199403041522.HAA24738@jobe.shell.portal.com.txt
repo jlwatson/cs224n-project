@@ -1,0 +1,56 @@
+I would not put it like this.  Rather, if you want a temporary increase
+in security, you need to calculate, or at least assume, how much extra time
+it will take for your opponent to defeat your temporarily-secret information.
+Just saying, "oh, well this complication ought to slow him down some, heh
+hey," doesn't cut it.  Again, you need to be explicit about exactly what
+information you are keeping temporarily secret, and how long you expect it
+to be kept secret.
+
+
+
+I think this is a plausible, although less ambitious, goal.  But what's
+this about "maximizing cost"?  Where does that fit into the analysis?  This
+does not tell you whether your "maximization" has actually helped or not.
+
+Instead, if you are going to adopt this goal, this means that the test of
+your steganography is whether the opponent can extract the message.  It's
+not that your goal is to "maximize his difficulty".  It's that your goal is
+to stop him.  Again, NoStO emphasizes clear statements of your goals and
+costs.
+
+(The reason I say this is less ambitious is that if the opponent can
+determine there is a message, but not what it is, they may be able to
+bring penalties to bear on those communicating, depending on the circum-
+stances.  For example, finding a stego'd file on someone's hard disk
+might represent probable cause that illegal encryption was used, in some
+hypothetical future.)
+
+
+What key are you talking about here?  The public one?  That is not
+secret.  As you say, the opponent has access to it.  Are you assuming that
+the opponent cannot guess which public key was used?  How will you measure
+the accuracy of this assumption without statistics?
+
+
+I really don't think you have understood my essay.  The point, again, of
+avoiding StO is to make it clear what you are keeping secret, and to count
+the costs of keeping it secret.  If you are counting on keeping secret the
+recipient of the message then you have these costs:
+
+Any stego files found in the recipient's possession are broken.
+
+Stego files can be exhaustively searched against a list of public keys.
+
+If a particular group or person is targeted for surveillance his keys can
+be used against all widely-known stego channels.
+
+Further, your own test is so weak (inability to recover the actual message)
+you have not attempted to make it impossible to guess when you have
+recovered the message, even with the correct key information.  So in each
+of the cases above the authorities know when they have the message in hand.
+
+Now if you are tempted to say that this isn't true, because we could arrange
+for the message ALSO to be unrecognizable even when successfully recovered
+(so that the opponents don't know when they have recovered it) then you
+have missed the whole point.  You earlier rejected this test.  If you had
+accepted it, you wouldn't have needed your keys at all.

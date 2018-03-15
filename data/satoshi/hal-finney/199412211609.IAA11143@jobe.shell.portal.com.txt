@@ -1,0 +1,39 @@
+Bill Sommerfeld writes, quoting me:
+
+
+I read about socks last night, and while it has some nice features I
+don't know if it is suitable for a process which you want to have
+persist and be able to accept connections on an ongoing basis.  With
+socks, the ecash process would tell the socks server to open a listening
+socket on its behalf.  Then when a connection comes in from a merchant,
+it gets forwarded to the ecash process.
+
+This is the problem: the socks server probably cannot generally get
+the same port number as the ecash process.  I don't know if it even
+tries.  So you have to note the port number.  Well, you have to do this
+already because the ecash process may not get the port number it wants if
+somebody else already has it.  But, with socks you only get one incoming
+connection and then the socks server closes.  The ecash process would
+have to request another listening socket each time it got a connection.
+And each of those could have a different port number.  So this would be a
+constantly changing bit of information that you would have to keep in
+mind.
+
+If the ecash process were integrated with the web client, this would not
+be so bad, as the new port number could be supplied to the merchant
+server automatically.  But with the current implementation this would
+have to be done manually.
+
+I was thinking of a socks-like model where you could have persistent
+servers running behind a socks firewall.  The socks implementation is
+really designed for ftp transfers, where the ftp server has to make a
+connection back to the ftp client, and these are pretty transient.  For a
+persistent server you would need a more complex structure.  Probably
+there should be a persistent connection between your process and the
+socks server, separate from a listening socket that your process sets up.
+When a new connection comes in to the socks server for your machine, it
+does a connection of its own to your listening socket.  Then there could
+be multiple connections to your server active at one time.  The
+persistent connection would just be a "lifeline" so that if your server
+exited then the socks server would know to close down the proxy socket it
+holds for you.

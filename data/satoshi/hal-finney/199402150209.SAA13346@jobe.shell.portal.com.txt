@@ -1,0 +1,28 @@
+I got a lot of complaints today about copies of Tim's old "Blacknet" posting
+being sent to inappropriate groups:
+
+
+I set up a log file for "blacknet" postings, and got this:
+
+
+It seems Larry is sending this posting to lots of inappropriate groups
+using several different mail-to-news gateways.  This is a good way to
+get remailers shut down, which may be his ultimate goal.
+
+I call upon remailer operators to block incoming messages from Detweiler's
+known aliases.  Thos using the slocal-based "cypherpunks" remailer perl
+scripts can add the following lines near the front of their maildelivery
+files.
+
+# Filter Detweiler
+From ld231782@longs.lance.colostate.edu  file  ?  /dev/null
+From 	an12070@anon.penet.fi  		 file  ?  /dev/null
+From 	detweile			 file  ?  /dev/null
+
+Unless his access to the remailer network is blocked, he will be able to
+continue to abuse the system until it gets shut down.
+
+The alternative would be to block my remailer's access to all known
+mail-to-news gateways, but I am reluctant to take that step because of
+the loss of this ability for those who legitimately need it.  If his abuse
+keeps up, though, that may be the only choice left.

@@ -1,0 +1,47 @@
+What's that smell?
+
+Doesn't it seem a little... musty?  A little stale?  Something's getting
+old.  Something needs to be changed.
+
+It's your key.
+
+There are a lot of old, stale keys out there.  Moldy, dusty keys a year or
+two old.  It's time for those keys to change!
+
+The need for regular change of public keys has not been emphasized enough.
+The longer you use a key, the more likely something will happen which will
+expose your secret.  Plus, it gives attackers more incentive to try to break
+or steal your keys if they know they'll be able to decrypt messages for a long
+time once they get them.
+
+A lot of people seem to think of keys as quasi-permanent, sort of a
+voluntary version of social security numbers.  One key, cradle to grave.
+But this is not the idea at all.
+
+I was reminded of this by Graham Toal's response to Bill Stewart:
+
+
+Graham is thinking in terms of remailers which retain their keys for years.
+
+What is a good interval for key changes?  I would suggest every year or so
+makes sense, especially if infrastructure can be developed to make it easier
+to propagate key changes.  Keys should be overlapped in time, so that you make
+a new key and start using it, while continuing to support the old key for a
+time.
+
+But for remailers, I'd like to see a considerably accelerated key turnover
+schedule - maybe every month, or every week.  This would help defeat the
+kinds of attacks Graham is talking about.  And the remailers should securely
+dispose of their old keys to the extent possible.
+
+Granted, right now the difficulties of distributing keys are rather high,
+so the costs of changing keys may be large.  But as this technology becomes
+more available, key changes should be scheduled regularly.
+
+PGP has some fields for key expiration, but support for that was never
+implemented.  The idea was that you would get warned when it was time
+for you to change to a new key.  Users of old keys would be warned as well
+that they should try to find out the new key they should use.  All this
+was not done because there wasn't time.  Hopefully the feds will change their
+mind about pursuing legal sanctions against PGP developers and progress can
+be made again.

@@ -1,0 +1,10 @@
+For reference, here is that old message with an algorithm that produces an
+encrypted session key with a flat distribution over a specified number of
+bytes, along with a proof that it works.  The purpose of this is you
+could strip off the PGP header stuff and have a file which looked for all
+intents and purposes like totally random bytes, but if you knew the
+secret key then you could decrypt it just fine.
+
+(I recently took my CP archives and indexed them using Mark Zimmermann's
+(no relation to Phil, apparently) FreeText browser which lets me do
+keyword searches.  Pretty nice.)

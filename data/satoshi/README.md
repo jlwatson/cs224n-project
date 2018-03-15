@@ -14,7 +14,7 @@ Hal Finney
 - [x] https://bitcointalk.org/index.php?action=profile;u=2436
 - [x] https://web.archive.org/web/20140403012916/finney.org/~hal/
 - [x] http://nakamotoinstitute.org/finney/
-- [ ] Cypherpunks Mailing List
+- [x] Cypherpunks Mailing List - `Hal <74076.1041@CompuServe.COM>`, `Hal <hfinney@shell.portal.com>`, `Hal Finney <hal@rain.org>`
 - [ ] https://twitter.com/halfin
 
 Jed McCaleb
@@ -31,3 +31,6 @@ Dorian Nakamoto
 
 David Mazieres
 - [ ] https://news.ycombinator.com/user?id=mazieres
+
+Wei Dai
+- [ ] http://lesswrong.com/user/Wei_Dai/

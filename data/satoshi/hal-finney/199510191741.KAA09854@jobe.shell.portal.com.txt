@@ -1,0 +1,25 @@
+Andreas Bogk <andreas@artcom.de> writes:
+
+
+
+
+There is an attack here, but the text doesn't go into detail about it.
+You have to assume that (as with the current ecash implementation from
+Digicash) people have non-anonymous accounts with the bank.  If Alice
+wants to know Bob's identity she can collude with the bank to find
+out.  As Tim describes, she gives Bob some money, then quickly deposits
+the coins herself.  In effect, she intentionally double-spends (with
+the bank's permission).  When Bob makes his deposit, his coins are
+recognized as matching those which Alice double-spent.  So if Alice
+was, say, an agent involved in a government "sting", and bought bootleg
+software from Bob, his identity can in fact be learned when he deposits
+the money.
+
+Actually with the DigiCash system and in fact all of the ecash systems I
+know about, you don't have to get so fancy; Alice can simply give the
+bank a record of her transaction with Bob (the coins she sent him) and
+these will be recognized when Bob deposits them.
+
+Lucky Green has been discussing ways in which people could exchange coins
+anonymously even with DigiCash's ecash in order to provide some immunity
+from such attacks.

@@ -1,0 +1,13 @@
+Or better still, run one remailer on the machine, and use it multiple
+times in the chain.  It seems to me that one remailer on a machine is
+better than several because it will allow more mixing of messages.  If
+two messages enter a machine and later leave, it may be possible to
+distinguish them if they went to different remailers and left with
+different From: addresses (or other header fields) as a result.  If they
+had both gone to the same remailer it would be harder to tell them
+apart.
+
+I understand that there may be political reasons to have the machine
+owner and remailer operator be separate (although AFAIK the reasoning
+behind this is untested), but technically it seems better to have one
+remailer per machine based on traffic analysis issues.

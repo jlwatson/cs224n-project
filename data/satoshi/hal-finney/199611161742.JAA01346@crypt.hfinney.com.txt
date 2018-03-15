@@ -1,0 +1,10 @@
+This digital cash scheme has a big disadvantage which the authors try
+to play down.  The problem is that all spending by a particular user is
+linkable.  It can't be connected to his True Name but all of it is
+linked, in effect, to his nym.  This is bad because it allows profiling
+and dossiers to be built up about nyms with interesting spending patterns,
+which could then be used to identify which ones should be candidates
+for intensive efforts to discover their identity.
+
+Most other digital cash schemes don't allow linkability of the payor's
+activities, which is a much better approach.

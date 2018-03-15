@@ -1,0 +1,4 @@
+I don't follow this.  If you never change the modulus (which is what it
+sounds like Eric was recommending), then isn't there an even greater
+persistency?  Or is it the assumption that everyone uses the same modulus
+in that case?

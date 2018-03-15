@@ -1,0 +1,7 @@
+John Gilmore <gnu@toad.com> writes:
+
+As far as I can tell there is no charge for moving funds between your
+ecash wallet and the "mint" at the bank.  The charges are for moving
+between the "mint" and the world access account.  If you had a shop
+which was able to pay much of its expenditures in ecash it sounds like
+there would be no percentage fee to the bank.

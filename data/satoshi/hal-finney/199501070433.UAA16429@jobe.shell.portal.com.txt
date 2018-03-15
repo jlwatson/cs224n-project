@@ -1,0 +1,17 @@
+My take on the paper is that he first presents the "mix", or remailer, as
+a method of foiling traffic analysis.  Then he extends this to the
+"cascade", or chain of remailers, which does not improve traffic analysis
+resistence but as you say provides some immunity against a bad operator.
+
+
+There are other differences which may be relevant in practice.  One is
+bandwidth.  With a Chaumian cascade of N remailers you get N times the
+bandwidth used, as well as increased latency through the remailer
+network.
+
+One thing that is not often appreciated in Chaum's paper is that at least
+in his first description of the cascade, the assumption is that all users
+use the same sequence of remailers in the same order.  We OTOH usually assume
+a different model, where the different possible paths are chosen with
+some distribution and randomness.  I posted an analysis of some of the
+impacts of this difference a few months ago.

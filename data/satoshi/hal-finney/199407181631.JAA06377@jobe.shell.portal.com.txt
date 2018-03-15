@@ -1,0 +1,15 @@
+JWS writes:
+
+
+
+
+As I recall, the patent is very general.  A sends a message to B, B sends
+one back to A; this goes on for a while, then both sides feed their messages
+into a black box and, presto, out pops a suitable encryption key which is the
+same for both sides, but is such that no eavesdropper could feasibly produce
+the key.  It's been a long time since I looked at it, though.  I would welcome
+some verification.
+
+(I should also add that my comment about Shamir not undercutting his own
+financial interests was apparently incorrect if he has actually sold out his
+interest in RSA as reported.)

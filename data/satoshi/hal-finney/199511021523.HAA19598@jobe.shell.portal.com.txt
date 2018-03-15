@@ -1,0 +1,22 @@
+It's very frustrating to have to speculate so much due to the lack of
+information.  Imagine how we would react if Cybercash or Netscape had
+gone forward with what they claimed were secure protocols but had
+refused to publish them, referring simply to old papers on RSA and
+DES.  Yet Digicash gets away with this.
+
+Bill Stewart <stewarts@ix.netcom.com> writes:
+
+
+
+We presume it works basically like this, but there could be elaborations.
+In particular, I have heard (from people who claim to know) that the
+payee is normally embedded into the coin at spending time.
+
+
+
+Doing this would require the payee to be known at withdrawal time, which
+is not apparently how it works.  I would speculate that actually what
+happens is that the "basic coin" as above is encrypted, along with the
+payee identity, all under the public key of the bank.  This was the
+identity could not be stripped out by the payee or by a thief who snooped
+the transmission.

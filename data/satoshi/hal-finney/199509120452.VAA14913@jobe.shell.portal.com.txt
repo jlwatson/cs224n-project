@@ -1,0 +1,13 @@
+<URL:http://ganges.cs.tcd.ie/mepeirce/Project/Mlists/brands.html> has a
+good collection of earlier discussions on Brands' cash, as well as
+pointers to Brands' work itself.
+
+Brands' home page, <URL:http://www.cwi.nl/~brands> has a long list of
+advantages which his system has over Chaum's original cash proposals,
+mostly technical in terms of efficiency and provability.
+
+Brands' and Chaum's systems have similar anonymity properties so I don't
+see much to choose between them on political grounds.  Brands tends to
+work in the context of off-line systems with "observer" chips which
+prevent double spending.  But his protocols can be used in other payment
+environments as well.

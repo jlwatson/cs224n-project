@@ -1,0 +1,12 @@
+Tom Jennings <tomj@wps.com> writes:
+
+
+
+
+I've been receiving these, too.  It seems to be a program which has the
+same effect as a one-line shell script to add the "+legal_kludge" option
+to the command line for PGP2.6, so that it generates backwards-compatible
+messages without violating anyone's license agreements.  It's easy to
+do such a shell script in Unix.  Is there a good way in DOS to add a few
+command-line arguments in front of the ones the user has supplied?  If
+so that would seem easier (and smaller) to distribute.

@@ -1,0 +1,10 @@
+solman@mit.edu writes (quoting someone else initially):
+
+
+
+I suspect this protocol is covered by the Diffie-Hellman patent, which is
+quite broad, covering many sorts of key exchanges.  Diffie-Hellman is now
+owned by PKP, the sister company to RSA.  If so, Shamir has not undercut his
+own financial interests by this work.  (Also, this does not obsolete PK
+since it requires several exchanges before communication can occur, making
+it inappropriate for high-latency communications, such as for most email.)

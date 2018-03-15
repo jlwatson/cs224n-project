@@ -1,0 +1,78 @@
+Realistically, though, everybody is not a remailer, and there are no
+prospects of everybody becoming a remailer anytime soon, so the analyses
+of Wei and others are certainly relevant.
+
+
+Mixmaster is supposed to do splitting and, I think, padding.  I hope to
+have time to look at it soon.  It sounds very good.
+
+
+I did not see why this should be done.
+
+
+A better approach IMO is to embed the message length in the encrypted
+information (as PGP does) and pad with cryptographic random garbage
+(which PGP could be patched to do).
+
+
+Why does the remailer care where the message came from?  What difference
+does that make?  I can see the final recipient caring about the original
+sender, so a PGP sig makes sense at that level, but why at each hop?
+
+
+I don't think so.  The problem with Miron's extropy remailer is that it
+only passes through the contents of a PGP block.  For anonymous addresses
+to work, the (chained,encrypted) address must be in a PGP block which
+precedes the message body.  I don't see how any cutmarks idea would
+affect this.
+
+
+Again, why does the remailer go to all this trouble to verify a
+signature from Alice?  That sig is for Bob!  She may not even want to
+post her public key for everyone; Bob may be the only one who has it.  I
+don't understand why the remailer, which exists to hide identities, is
+going to such trouble to verify them on its own.
+
+
+Alice is the one who should encrypt the message for Bob, not the
+remailer!  Are you suggesting that she should let the remailer see the
+message contents?
+
+
+Why on earth does he care?  I really don't see what problem you are
+solving here with all this checking.
+
+
+Eve would be more likely to subpoena Chaum's secret key ring.  A public
+key ring proves nothing.
+
+
+This mostly makes sense (although as I said I prefer simply enhancing the
+crypto program to take a parameter for output pad size) but I don't see
+where all the rest of it came from.
+
+
+I believe Mixmaster provides a client mode to do this.  I prefer putting
+more functionality in the hands of the users and not relying on kindly
+old Uncle Remailer to do it for you.
+
+
+This is a commonly made suggestion, but philosophically I am opposed.  We
+got into this fix (lack of privacy) by letting people rely on others to
+do things for them.  It's time for people to take responsibility on their
+own.  The kind of thing you are suggesting provides the illusion of
+privacy.  Never trust remailer operators!
+
+
+Since the secret key d is effectively a random number from 0 to m, you
+would have to create, say, 1000 key pairs to have a good chance of
+finding a d that was as much as 10 bits shorter than m.  Then o(d) might
+be 5 bits shorter.  So you'd be done from 768+384 to 758+379 or about a
+1% reduction in time.  And it will take a while to generate 1000 keys.
+To get a 2% reduction you would have to generate 1000000 keys.  I hope
+you have a lot of time on your hands.
+
+I'm sorry to have been so negative, but this message is part of a long
+tradition advocating putting more responsibility into the remailer net.
+I strongly feel that better solutions put power into the users' hands.
+I oppose centralized solutions.

@@ -1,0 +1,15 @@
+We had some concerns here a while back that someone was trying to exploit
+such a feature to create an exponentially-growing message that would
+totally overload the remailers.  A message of the form:
+
+::
+Request-Remailing-To: <list of remailers here>
+
+::
+Request-Remailing-To: <list of remailers here>
+
+<repeat about 20 times>
+
+was sent.  If all remailers had observed and honored the multiple
+requests, there would have been uncounted trillions of messages flying
+about.  So I would caution anyone considering implementing this feature.

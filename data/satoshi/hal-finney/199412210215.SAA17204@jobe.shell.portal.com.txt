@@ -1,0 +1,15 @@
+Andrew Lowenstern <andrew_loewenstern@il.us.swissbank.com> writes:
+
+
+Yes, I think you are right.  I think you can set your proxy to
+site.org:8080 or whatever and clients will use the specified port
+number.  This is at least true of lynx, and I think they all use pretty
+much the same conventions on this.
+
+So I was mistaken in saying that you would need root privileges to set up
+your own proxy.  And I don't see that it would be much of a security
+hole in that it would be no more privileged than the user who ran it.
+Most security concerns come because httpd is running as a privileged
+process, I think.  An http redirector shouldn't be much more trouble than
+a remailer, although the user who is running it would want some assurance
+that his own files wouldn't be threatened.

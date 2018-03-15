@@ -1,0 +1,41 @@
+Bill Stewart <stewarts@ix.netcom.com> writes:
+
+
+Still, there is a problem here: how did the bank know that it _should_
+honor requests to withdraw money from bank account x if they are signed
+with a certain key?  How did it determine that that is a valid key, if it
+never had a secure channel to the person opening the account?  I think
+the answer is clearly that it cannot, that it must have had a secure
+channel.  Would a certificated key presented by Alice have been
+sufficient to create such a channel, do you think, or would a face to
+face meeting have been necessary?  (Or would an uncertificated key be
+adequate?)
+
+
+What if you are accessing the bank via a MITM?  Consider this example:
+Alice writes you a check, signed with a key (without her name) which
+has a credential from the bank saying that it will back up the check.
+But you need the bank's key to check the credential, so Alice gives it
+to you, or you get it from a public cache.  Suppose the bank's key is
+fake, and Alice is defrauding you.  How do you tell?  Wouldn't a
+certificate on the bank's key be necessary, one which ties the bank's
+name and reputation to the key?
+
+Or what if the bank really is and has always been behind a MITM?  You say
+that it is more profitable for the bank not to abscond with your money.
+What about the MITM?  He doesn't make any profits until he cheats.  He
+might well be collecting information which will allow him at some point
+to abscond very successfully.  Would you really trust a bank which was
+known to you only by a key and by a record of never having defaulted,
+knowing this was a possibility?
+
+
+Same problem as before: how does the credit card company know that the
+key it is putting on the card is really Alice's?  What if Alice discovers
+unauthorized charges because Carol was a MITM and substituted her key?
+We can't just ignore this possibility.
+
+It seems to me that a lot of protocols assume the existence of secure
+channels.  Yet the MITM attack shows that public key cryptography does
+not in and of itself provide a secure channel.  This is a problem which
+IMO should not be ignored simply because it is inconvenient.

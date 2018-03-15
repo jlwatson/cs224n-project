@@ -1,0 +1,9 @@
+If we could encrypt the list, and if we could subscribe via Julf's remailer
+or get our remailers to accept address aliases of some sort, then list
+subscribers could have "local" privacy.  Local sysops and roots would not
+be able to see our incoming mail, and would not see that we were subscribing
+to a group like "cypherpunks".
+
+My long-term goal would be to have all mail be encrypted, and all mail be
+sent via anonymous remailers (or equivalent technology), so that the content
+and routing of our messages is truly private.

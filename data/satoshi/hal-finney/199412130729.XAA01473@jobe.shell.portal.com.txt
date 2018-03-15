@@ -1,0 +1,11 @@
+It is nice to have a lot of people on the list from Netscape.
+Here is a question about SSL relating to the use of certificates:
+
+          + The issuer name must resolve to a name that is deemed
+            acceptable by the application using SSL. How the application
+            using SSL does this is outside the scope of this memo.
+
+What does Netscape actually do about this?  If I want to make a server
+which will interoperate with existing Netscape clients what kind of
+certificate do I need, and what kind of name should be in there?
+Thanks -

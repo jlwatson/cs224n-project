@@ -1,0 +1,7 @@
+We had quite a bit of discussion of Brands' technology on the list a
+couple of years ago.  Take a look at <URL:
+http://chaos.taylored.com:1000/0Z/Digital-Cash/Protocols/Brands/Brands-Cash-Notes.gz >
+which has several pages discussing discrete logs and some of the ideas
+behind Brands' protocols.  Unfortunately I am getting cut-off versions
+of these pages tonight, along with occasional failures to find a route
+to this server, so hopefully it is just the net acting up again.
