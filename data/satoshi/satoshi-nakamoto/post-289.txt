@@ -1,7 +1,5 @@
 
 
-Quote from: gavinandresen on July 22, 2010, 01:11:26 AM
-
 TODO: dialog box or debug.log warning if no rpc.user/rpc.password is set,
 explaining how to set.  
 

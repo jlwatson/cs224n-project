@@ -10,9 +10,9 @@ to connect to.
   
 The security safeguard makes it so even if someone does have more than 50% of
 the network's CPU power, they can't try to go back and redo the block chain
-before yesterday.  (if you have this update)  
+before yesterday. (if you have this update)  
   
-I'll probably put a checkpoint in each version from now on.  Once the software
+I'll probably put a checkpoint in each version from now on. Once the software
 has settled what the widely accepted block chain is, there's no point in
 leaving open the unwanted non-zero possibility of revision months later.
 

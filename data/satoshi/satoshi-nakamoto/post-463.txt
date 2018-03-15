@@ -1,3 +1,5 @@
+
+
 OK, I made a build target bitcoind that only links wxBase and does not link
 GTK. Version 0.2.7 on SVN.  
   
@@ -6,8 +8,6 @@ ui.cpp is pure UI. ui.h provides inline stubs if wxUSE_GUI=0. We only have
 four functions that interface from the node to the UI. In the bitcoind build,
 we don't link ui.o or uibase.o.  
   
-
-Quote from: sirius-m on February 25, 2010, 04:32:17 PM
 
 It started increasing right away. I'll see if valgrind can help me.  
 

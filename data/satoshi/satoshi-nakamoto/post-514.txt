@@ -3,7 +3,7 @@ since it uses 64-bit numbers in only a few places and SHA-256 is a 32-bit
 algorithm, but it may be convenient for those running a 64-bit OS. If I get a
 chance I'll try -m64 and see what the problem is.  
   
-You can run the 32-bit version on 64-bit Linux by installing ia32-libs.  (sudo
-apt-get install ia32-libs)  If we made a Debian package, it could
-automatically pull that in as a dependency.
+You can run the 32-bit version on 64-bit Linux by installing ia32-libs. (sudo
+apt-get install ia32-libs) If we made a Debian package, it could automatically
+pull that in as a dependency.
 

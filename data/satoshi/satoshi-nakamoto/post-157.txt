@@ -1,7 +1,5 @@
 
 
-Quote from: jgarzik on August 16, 2010, 03:35:28 AM
-
 Code:
 
 cpu family : 6  

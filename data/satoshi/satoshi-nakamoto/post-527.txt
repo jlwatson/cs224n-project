@@ -1,7 +1,5 @@
 
 
-Quote from: madhatter2 on December 10, 2009, 02:00:17 PM
-
 Front ends can also be ran on clients with very low cpu power such as mobile
 phones.  
 
@@ -12,8 +10,6 @@ would be easier for new users to get started if they only need to create an
 account on a website, not install software.  
   
 
-Quote
-
 The app could be pre-seeded before downloading. Pre-seeding would also cure
 the TOR+IRC problem. I know that people will want to run this system over
 I2P+TOR.  
@@ -21,8 +17,6 @@ I2P+TOR.
 Yeah, we can phase out IRC when there are enough static nodes to preprogram a
 seed list. Once you get seeded, you don't need IRC.  
   
-
-Quote
 
 Also you could pre-seed the blocks so they won't have to be downloaded upon
 initial run. (Downloading 28,000 blocks on a slower ADSL takes forever I
@@ -38,16 +32,12 @@ theory, the block download time should top out 8 months from now when Moore's
 Law will be growing faster than the block chain.  
   
 
-Quote
-
 Can you give me CVS access or something? (If not, can I send you patches?) I'd
 like to help out.  
 
 It's SVN on sourceforge. PM or e-mail me your sourceforge account and I'll
 give you access.  
   
-
-Quote
 
 I am mostly a Linux/BSD guy and I would like to lend my expertise in those
 areas.  

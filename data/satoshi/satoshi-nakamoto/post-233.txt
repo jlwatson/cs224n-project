@@ -1,7 +1,5 @@
 
 
-Quote from: sgtstein on August 03, 2010, 05:30:37 PM
-
 I have successfully built it with 4.8, 4.7 never would but with 4.8 bitcoind
 locks up whenever it dumps the initial block download to disk.  
 

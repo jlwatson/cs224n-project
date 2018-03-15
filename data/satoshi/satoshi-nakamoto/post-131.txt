@@ -4,6 +4,6 @@ you'll check the website and forum.
   
 I think if another bug like the overflow bug occurs, it's important that
 automated websites stop trading until their admins can check out what's going
-on and decide what to do.  If you decide it's a false alarm and want to take
+on and decide what to do. If you decide it's a false alarm and want to take
 your chances, you can use the "-disablesafemode" switch.
 

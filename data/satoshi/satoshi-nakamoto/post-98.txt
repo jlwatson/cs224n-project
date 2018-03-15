@@ -5,7 +5,7 @@ Were you sending by IP or by Bitcoin Address?
   
 When you sent 49.99, did it prompt you to pay a 0.01 fee?  
   
-There was a change in GetMinFee, but I can't see how it would cause this.  It
+There was a change in GetMinFee, but I can't see how it would cause this. It
 only starts to apply when a block gets huge.  
   
 The reason for the difference in block number is the number displayed was

@@ -1,15 +1,11 @@
 
 
-Quote from: Sabunir on February 16, 2010, 08:51:51 AM
-
 . Perhaps it has to do with my connection's very high latency (2000ms or more
 on average)  
 
 2 seconds of latency in both directions should reduce your generation success
 by less than 1%.  
   
-
-Quote from: Sabunir on February 16, 2010, 08:51:51 AM
 
 and/or my high packet loss (sometimes up to 10% loss)?  
 

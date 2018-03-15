@@ -1,8 +1,6 @@
 
 
-Quote from: trebronics on August 16, 2010, 01:02:35 AM
-
-Most people running clients are not reading this message thread.  So...  Silly
+Most people running clients are not reading this message thread. So... Silly
 questions:  
   
 1) How will this continue to affect version 3.8.1 (pre-catastrophe) clients

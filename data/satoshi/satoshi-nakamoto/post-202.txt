@@ -1,5 +1,5 @@
 Updated SVN. Thanks.  
   
-There's little hope of not repeatedly stumbling over that in the future.  It
+There's little hope of not repeatedly stumbling over that in the future. It
 doesn't break the compile for me.
 

@@ -1,9 +1,14 @@
+
+
+
 I mean a node only needs the pending-tx pool for the best branch it
 has.  The branch that it currently thinks is the best branch.
 That's the branch it'll be trying to make a block out of, which is
 all it needs the pool for.
 
-I think I've got the peer networking broadcast mechanism covered.
+
+
+I think I've got the peer networking broadcast mechanism covered.  
 
 Each node sends its neighbours an inventory list of hashes of the
 new blocks and transactions it has.  The neighbours request the
@@ -17,8 +22,14 @@ The inventory-request-data scheme introduces a little latency, but
 it ultimately helps speed more by keeping extra data blocks off the
 transmit queues and conserving bandwidth.
 
+
+
 I believe I've worked through all those little details over the
 last year and a half while coding it, and there were a lot of them.
 The functional details are not covered in the paper, but the
 sourcecode is coming soon.  I sent you the main files.
 (available by request at the moment, full release soon)
+
+
+
+

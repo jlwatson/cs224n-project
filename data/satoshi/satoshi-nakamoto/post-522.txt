@@ -1,7 +1,5 @@
 
 
-Quote from: madhatter2 on December 12, 2009, 06:34:21 AM
-
 I almost have the svn 0.2 compiling on Mac OS X 10.4.11/Intel (I also have a
 PPC970 machine here as well so a PPC build would be possible as well). The
 windowing is native carbon too via wxwidgets! It is FAST!  I had to create a
@@ -20,8 +18,6 @@ Considered autoconf. Autoconf is a necessity for large projects with a
 quagmire makefile, but I think we're small enough that it's more optimal
 without it. I'd rather keep the makefile simple as long as possible.  
   
-
-Quote
 
 I think that breaking bitcoin into two apps is ideal. A wxwidgets front end
 (since it is mostly all there) and a backend that binds to a control TCP

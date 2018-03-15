@@ -2,7 +2,7 @@ Version 0.3.10 patches the block 74638 overflow bug.
 http://bitcointalk.org/index.php?topic=823  
   
 The Linux version includes tcatm's 4-way SSE2 SHA-256 that makes generating
-faster on i5, i7 (with hyperthreading) and AMD CPU's.  Try the "-4way" switch
+faster on i5, i7 (with hyperthreading) and AMD CPU's. Try the "-4way" switch
 to enable it and check if it's faster for you.  
   
 Download from sourceforge:  

@@ -1,5 +1,5 @@
 The change list is basically encompassed by what's listed in the first
-message.  Everyone should upgrade to get the important security improvements.  
+message. Everyone should upgrade to get the important security improvements.  
   
 Minimizing to tray had at least 3 different glitches and bugs on Linux,
 including a crash one, so I disabled it again. You can still re-enable the

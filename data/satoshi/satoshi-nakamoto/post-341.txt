@@ -1,7 +1,5 @@
 
 
-Quote from: db on July 15, 2010, 08:39:08 PM
-
 The listreceivedbyaddress and getreceivedbyaddress commands are duplicated in
 bincoind help. (Same in 0.3.0.)  
 

@@ -1,7 +1,5 @@
 
 
-Quote from: knightmb on July 14, 2010, 07:17:43 PM
-
 So if your computer was only 1% towards solving block 68000
 
 This is a common point of confusion. There's no such thing as being 1% towards

@@ -1,7 +1,5 @@
 
 
-Quote from: bytemaster on August 05, 2010, 04:46:52 PM
-
 Right now the transaction fee address is left "blank" and the block generator
 fills it out.  
 Now you would fill it in with the address of the person you are asking to

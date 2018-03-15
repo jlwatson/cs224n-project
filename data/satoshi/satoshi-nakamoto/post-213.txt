@@ -1,7 +1,5 @@
 
 
-Quote from: impossible7 on August 06, 2010, 11:37:20 AM
-
 CRITICAL_BLOCK is a macro that contains a for loop. The assertion failure
 indicates that break has been called inside the body of the loop. The only
 break statement in this block is in line 2762. In the original source file,

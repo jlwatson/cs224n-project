@@ -1,7 +1,5 @@
 
 
-Quote from: Vasiliev on August 16, 2010, 03:17:07 AM
-
 try -march=amdfam10  
 
 That works.  

@@ -1,10 +1,13 @@
+
+
+
 Another factor that would mitigate spam if POW tokens have value:
 there would be a profit motive for people to set up massive
 quantities of fake e-mail accounts to harvest POW tokens from
 spam.  They'd essentially be reverse-spamming the spammers with
 automated mailboxes that collect their POW and don't read the
 message.  The ratio of fake mailboxes to real people could become
-too high for spam to be cost effective.
+too high for spam to be cost effective. 
 
 The process has the potential to establish the POW token's value
 in the first place, since spammers that don't have a botnet could
@@ -20,3 +23,7 @@ in order to put a spam message in the transaction's comment field.
 willing to receive, or at least the minimum that can have a
 message with it, users could set how much they're willing to get
 paid to receive spam.
+
+
+
+

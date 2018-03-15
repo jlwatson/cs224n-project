@@ -12,7 +12,7 @@ JSON-RPC, use the "-server" switch.
 bitcoin -server [switches...]  
   
 With either switch, it runs an HTTP JSON-RPC server that accepts local socket
-connections on 127.0.0.1:8332.  The port is bound to loopback and can only be
+connections on 127.0.0.1:8332. The port is bound to loopback and can only be
 accessed from the local machine, but from any account, not just the user it's
 running under.  
   
@@ -26,11 +26,11 @@ bitcoin getdifficulty
 bitcoin setgenerate true  
 bitcoin stop  
   
-It's a simple JSON-RPC client and prints the JSON result.  Look at rpc.cpp for
+It's a simple JSON-RPC client and prints the JSON result. Look at rpc.cpp for
 the list of commands.  
   
 Web apps or anything automated will normally use JSON-RPC directly, not
-command line.  There are JSON-RPC libraries for all the major languages.  In
+command line. There are JSON-RPC libraries for all the major languages. In
 script languages like PHP and Python the syntax is as natural as calling a
 local function.
 

@@ -1,6 +1,6 @@
-Please upgrade to 0.3.6 ASAP!  We fixed an implementation bug where it was
-possible that bogus transactions could be displayed as accepted.  Do not
-accept Bitcoin transactions as payment until you upgrade to version 0.3.6!  
+Please upgrade to 0.3.6 ASAP! We fixed an implementation bug where it was
+possible that bogus transactions could be displayed as accepted. Do not accept
+Bitcoin transactions as payment until you upgrade to version 0.3.6!  
   
 If you can't upgrade to 0.3.6 right away, it's best to shut down your Bitcoin
 node until you do.  

@@ -1,7 +1,5 @@
 
 
-Quote from: aidos on July 15, 2010, 12:49:11 AM
-
 Ok here is the .po file for French. While I'm at it, I noted a couple of
 issues:  
   
@@ -14,17 +12,13 @@ Settings window.
 I need to give an updated .po file.  
   
 
-Quote from: aidos on July 15, 2010, 12:49:11 AM
-
 2\. If an transaction's description in the list of transaction in the main
-window contains a diacritical character (such as "eaeç"), it's not displayed.
+window contains a diacritical character (such as "éàèç"), it's not displayed.
 I suppose the string is not being properly handled as UTF8 somewhere.  
 
 OK, this must be a problem somewhere, I'll have to take a look at it or one of
 the other devs can.  
   
-
-Quote from: aidos on July 15, 2010, 12:49:11 AM
 
 4\. About the .po file :  
 \- There are a few strings in the .po file that don't needs translation (ie:

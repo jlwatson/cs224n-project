@@ -1,7 +1,5 @@
 
 
-Quote from: theymos on June 05, 2010, 04:26:09 PM
-
 Adding transactions to the block you're working on will slow down your
 generation rate  
 

@@ -1,4 +1,4 @@
-Hurray!  We have our first language.  I uploaded it to SVN to go in with the
-0.3 release.  
+Hurray! We have our first language. I uploaded it to SVN to go in with the 0.3
+release.  
   
 

@@ -1,6 +1,6 @@
-What was this wallet used with?  An early accounts patch or git build?  
+What was this wallet used with? An early accounts patch or git build?  
   
-It's while loading the wallet.  I assume it must be in this:  
+It's while loading the wallet. I assume it must be in this:  
   
 else if (strType == "acentry")  
 {  

@@ -24,7 +24,7 @@ listreceivedbylabel
 If you decide it's a false alarm and want to take your chances, you can use
 the switch -disablesafemode to re-enable them.  
   
-This is an important safety improvement.  For a large segment of possible
+This is an important safety improvement. For a large segment of possible
 problems, this can warn everyone immediately once a problem is discovered and
 prevent them from acting on bad information.  
   

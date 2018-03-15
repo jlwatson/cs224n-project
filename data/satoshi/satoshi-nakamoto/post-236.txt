@@ -1,7 +1,7 @@
+
+
 Is it 2x fast on AMD and 1/2 fast on Intel?  
   
-
-Quote from: tcatm on July 31, 2010, 10:12:38 AM
 
 Btw. Why are you using this alignup<16> function when __attribute__ ((aligned
 (16))) will tell the compiler to align at compiletime?  

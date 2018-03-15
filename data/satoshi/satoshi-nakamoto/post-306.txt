@@ -1,7 +1,5 @@
 
 
-Quote from: NewLibertyStandard on July 17, 2010, 10:22:09 PM
-
 Version 0.3 was supposed to reduce the number of outgoing connections on non-
 port forwarded clients from 15 to 8, but I don't think it really happened. I'm
 not positive if this is the case. Correct me if I'm wrong.  

@@ -1,7 +1,5 @@
 
 
-Quote from: llama on July 01, 2010, 10:21:47 PM
-
 However, if something happened and the signatures were compromised (perhaps
 integer factorization is solved, quantum computers?), then even agreeing upon
 the last valid block would be worthless.  

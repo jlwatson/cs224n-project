@@ -1,5 +1,5 @@
 Here's an outline of the kind of escrow transaction that's possible in
-software.  This is not implemented and I probably won't have time to implement
+software. This is not implemented and I probably won't have time to implement
 it soon, but just to let you know what's possible.  
   
 The basic escrow: The buyer commits a payment to escrow. The seller receives a

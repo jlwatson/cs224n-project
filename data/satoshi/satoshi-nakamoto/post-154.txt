@@ -1,3 +1,5 @@
+
+
 That's a difficult approach.  
   
 We need to cause a reorg, which will disconnect the invalid chain.  
@@ -5,19 +7,19 @@ We need to cause a reorg, which will disconnect the invalid chain.
 This is code that will rarely ever get tested, and is fairly intricate, so
 something simple and safe is best.  
   
-Here's what I was thinking of.  (I haven't tested this yet)  It checks all the
-blocks in the main chain.  If it finds a bad one, it sets all that chain's
+Here's what I was thinking of. (I haven't tested this yet) It checks all the
+blocks in the main chain. If it finds a bad one, it sets all that chain's
 bnChainWork to 0 so it can't win best chain again, and it reduces best chain
-work to the fork level so any new block after the fork will cause a reorg.
-(It can't change pindexBest without actually doing a reorg)  
+work to the fork level so any new block after the fork will cause a reorg. (It
+can't change pindexBest without actually doing a reorg)  
   
-This isn't perfect yet.  It still needs to receive one valid block to trigger
+This isn't perfect yet. It still needs to receive one valid block to trigger
 the reorg.  
   
 It would probably be possible to initiate an AddToBlockIndex or Reorganize
-after the check, but it would require a lot more careful attention.  I
-probably should break out part of AddToBlockIndex that sets the new best
-block.  I'll probably end up doing that instead of the code below.  
+after the check, but it would require a lot more careful attention. I probably
+should break out part of AddToBlockIndex that sets the new best block. I'll
+probably end up doing that instead of the code below.  
   
 
 Code:

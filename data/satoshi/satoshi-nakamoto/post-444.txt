@@ -1,7 +1,5 @@
 
 
-Quote from: Xunie on May 14, 2010, 09:52:53 PM
-
 I suggest we disable IP transactions while the user uses a Proxy!  
 Just to be on the safe side.  
 

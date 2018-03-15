@@ -1,7 +1,5 @@
 
 
-Quote from: nelisky on August 25, 2010, 01:28:32 AM
-
 So what kind of warning do admins get from bitcoind? Is there something we can
 grep from debug.log? Or will rpc calls raise some specific error? Is there a
 way to locally force this to happen, for unittesting services?  
@@ -12,16 +10,14 @@ would be displayed on the status bar.
 The rpc methods return a json-rpc error with the error description "Safe mode:
 " followed by additional text specified by the alert.  
   
-I added the switch "-testsafemode" for you.  SVN rev 145.  
+I added the switch "-testsafemode" for you. SVN rev 145.  
   
 This stuff is very new and may still be subject to change.  
   
 
-Quote from: mizerydearia on August 25, 2010, 12:11:50 AM
-
 I just discovered http://www.bitcoin.org/wiki/doku.php?id=man_page and don't
-see any reference to -disablesafemode.  Perhaps it should be added!  Also
-others liek -4way should be added as well.  
+see any reference to -disablesafemode. Perhaps it should be added! Also others
+liek -4way should be added as well.  
 
 Many switches are intentionally undocumented, like if their functionality is
 still under construction or I haven't settled on their name yet, or just test

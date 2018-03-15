@@ -1,7 +1,5 @@
 
 
-Quote from: jgarzik on August 15, 2010, 05:46:27 PM
-
 the extended-help might have been based on my idea, but the code was somewhat
 different.  
 

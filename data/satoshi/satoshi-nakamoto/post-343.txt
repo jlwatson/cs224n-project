@@ -1,7 +1,5 @@
 
 
-Quote from: knightmb on July 15, 2010, 07:37:10 PM
-
 On Windows, the priority of the Coin Generation is still net for normal. If
 you run BitCoin in Generate Coin mode, then load up something to eat up all
 the CPU (like CPU hog for example: http://www.microtask.ca/cpuhog.html) you'll

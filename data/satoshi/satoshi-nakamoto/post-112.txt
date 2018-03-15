@@ -1,7 +1,5 @@
 
 
-Quote from: torservers on August 28, 2010, 01:00:37 PM
-
 The "About" dialog still shows 0.3.10.1 beta.  
 
 What OS? I ran the Windows and 64-bit Linux version and checked the about
@@ -9,8 +7,6 @@ dialog.
   
 The Mac version is still 0.3.10.1.  
   
-
-Quote from: pavelo on August 28, 2010, 07:36:07 AM
 
 iirc, it is possible to specify -march on a per-function basis using some gcc
 __attribute__. That way, only the function in question would be optimized, and

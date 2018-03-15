@@ -1,7 +1,5 @@
 
 
-Quote from: NewLibertyStandard on February 23, 2010, 07:04:47 PM
-
 Are generated bitcoins encrypted with whichever address is currently displayed
 in the main Bitcoin window?  
 

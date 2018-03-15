@@ -1,7 +1,5 @@
 
 
-Quote from: Olipro on July 26, 2010, 06:39:17 AM
-
 Credit to tcatm for the caching part of the SHA context - this offers
 absolutely brilliant performance. Additionally, the Intel compiler really
 comes into its own here as its parallelisation abilities give a massive

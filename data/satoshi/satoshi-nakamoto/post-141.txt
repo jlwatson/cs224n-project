@@ -1,15 +1,11 @@
 
 
-Quote from: Ground Loop on August 18, 2010, 11:14:26 PM
-
 Any non-Mac i5 love?  
 Windows i5 64-bit got slower here.  
 
-That's the first I've heard anyone say i5 was slower.  Everyone else has said
-4way was faster on i5.  Moreso with hyperthreading enabled.  
+That's the first I've heard anyone say i5 was slower. Everyone else has said
+4way was faster on i5. Moreso with hyperthreading enabled.  
   
-
-Quote from: nelisky on August 18, 2010, 11:02:25 PM
 
 And i5, at least on my macbookpro  
 

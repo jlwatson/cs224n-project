@@ -1,7 +1,5 @@
 
 
-Quote from: gavinandresen on July 23, 2010, 03:11:45 PM
-
 Question for everybody: should I add a section to the wiki page describing, in
 detail, how to do HTTP Basic authentication? PHP and Python make is really
 easy-- just use the http://user:pass@host:port/ URL syntax.  

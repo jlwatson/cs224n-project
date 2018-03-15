@@ -1,3 +1,5 @@
+
+
 It doesn't have to be such a breaking change. New nodes could accept old
 transactions for a long time until most nodes have already upgraded before
 starting to refuse transactions without PoW. Or, they could always accept old
@@ -13,8 +15,6 @@ an unlikely dropoff in blocks received is detected. Then an attacker would
 still need a substantial portion of the network's power to benefit from a DoS
 attack.  
   
-
-Quote from: gavinandresen on August 11, 2010, 04:10:56 PM
 
 Bitcoin's p2p network is subject to various kinds of denial of service
 attacks.  

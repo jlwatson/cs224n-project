@@ -1,8 +1,8 @@
+
+
 I don't understand, are you under the impression that the program sets the
 system clock? It doesn't.  
   
-
-Quote from: Cdecker on September 19, 2010, 08:14:08 PM
 
 We already have ways to synchronize (approximately) the clients, so why not
 make use of that?  

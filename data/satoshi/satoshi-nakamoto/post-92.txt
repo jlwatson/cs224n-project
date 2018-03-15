@@ -7,6 +7,6 @@ If the best library is MIT, Boost, new-BSD or public domain, then we can stop
 re-writing it.  
   
 I don't question that GPL is a good license for operating systems, especially
-since non-GPL code is allowed to interface with the OS.  For smaller projects,
+since non-GPL code is allowed to interface with the OS. For smaller projects,
 I think the fear of a closed-source takeover is overdone.  
 

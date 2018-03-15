@@ -1,4 +1,4 @@
-This is a bugfix maintenance release.  It is now uploaded to SourceForge.  Mac
+This is a bugfix maintenance release. It is now uploaded to SourceForge. Mac
 OS X didn't need any fixes so we don't really need to update it, 0.3.0 is
 still good.  
   

@@ -1,5 +1,5 @@
 I added label related functions to help with managing multiple addresses per
-user.  New or renamed functions are:  
+user. New or renamed functions are:  
 getreceivedbyaddress -- amount received on a single address  
 getreceivedbylabel -- amount received by all addresses with this label  
 listreceivedbyaddress -- list addresses and amounts they've received  
@@ -9,12 +9,12 @@ getlabel
 getaddressesbylabel  
   
 For consistency I renamed getamountreceived->getreceivedbyaddress and
-getallreceived->listreceivedbyaddress.  The old names are still there so as
-not to break existing code, but they're deprecated.  
+getallreceived->listreceivedbyaddress. The old names are still there so as not
+to break existing code, but they're deprecated.  
   
 The idea is that if you give the username whenever you call getnewaddress, you
 can get the user's total received across all their addresses using the
-"bylabel" functions.  You can freely change their address without worrying
+"bylabel" functions. You can freely change their address without worrying
 about tracking all their old addresses.  
   
 A good way to automate changing the user's receiving address: just before
@@ -33,13 +33,13 @@ getreceivedbylabel(strUsername, 1) // available balance
 If you're just getting one particular user's balance, such as in response to a
 page request by that user, use getreceivedbylabel, but if you're scanning over
 all users, it's better to use listreceivedbylabel to get the complete list and
-scan against the result.  Scanning users with getreceivedbylabel would be
+scan against the result. Scanning users with getreceivedbylabel would be
 n-squared, using listreceivedbylabel is n-log-n (or n linear).  
   
 You should only really need to scan all users if you're polling in order to
 spontaneously take action in response to money received, rather than the user
 going to a webpage, seeing their balance and telling you what to do with it.
-It's not necessary to poll very frequently.  If you require 1 confirmation,
+It's not necessary to poll very frequently. If you require 1 confirmation,
 that'll take an average of 10 minutes anyway, so there's no point in polling
 more often than every few minutes.  
   

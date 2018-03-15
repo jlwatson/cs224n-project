@@ -1,6 +1,6 @@
 I reduced max outbound connections from 15 to 8 in RC4.  
   
-15 was way more than we needed for redundancy.  8 is still plenty of
+15 was way more than we needed for redundancy. 8 is still plenty of
 redundancy.  
   
 As the nodes upgrade to this version, this will cut in half the number of

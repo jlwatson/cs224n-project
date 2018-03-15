@@ -1,12 +1,12 @@
 Starting at 67000 is _perfect_.  
   
-Yeah, at the moment you'll stop at 74638.  It should start slowly creeping up
+Yeah, at the moment you'll stop at 74638. It should start slowly creeping up
 as more nodes upgrade and generate.  
   
 Linux build links below.  
   
 The Linux version includes tcatm's 4-way SSE2 SHA-256 that makes generating
-faster on i5 and AMD CPU's.  Use the "-4way" switch to enable it and check if
+faster on i5 and AMD CPU's. Use the "-4way" switch to enable it and check if
 it's faster for you.  
   
 Download links:  

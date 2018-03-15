@@ -1,3 +1,3 @@
-Haven't had time to update the SVN yet.  Wait for 0.3.6, I'm building it now.
+Haven't had time to update the SVN yet. Wait for 0.3.6, I'm building it now.
 You can shut down your node in the meantime.
 

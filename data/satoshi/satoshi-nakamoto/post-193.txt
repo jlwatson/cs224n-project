@@ -3,11 +3,11 @@ internet. Rarer would be someone who has both that and the wired internet that
 has the outage, but if it's a big enough segment to matter, out of a million
 people there's bound to be a multi-home geek.  
   
-ISP network cuts are just your local area.  If you still have communication
+ISP network cuts are just your local area. If you still have communication
 with the rest of your area, it would probably be something like 1/1000 of the
-world or less.  Block generation in the segment would take several hours per
+world or less. Block generation in the segment would take several hours per
 block.  
   
 I favour the plan to monitor if the frequency of blocks received drops too
-slow.  That covers a large range of possibilities.
+slow. That covers a large range of possibilities.
 

@@ -1,7 +1,5 @@
 
 
-Quote from: NewLibertyStandard on May 23, 2010, 04:28:12 PM
-
 Bitcoin looks ugly in Ubuntu's new default theme. It seems that some, but not
 all of the theme settings are being picked up. The unselected file menu should
 have light text with a dark background, but it incorrectly has light text with

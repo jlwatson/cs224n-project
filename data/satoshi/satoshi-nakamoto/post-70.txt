@@ -1,7 +1,5 @@
 
 
-Quote from: ShadowOfHarbringer on October 02, 2010, 01:00:07 PM
-
 That's nice, however the automatic 4way detection is not working on my Gentoo
 AMD 64 version client.  
   

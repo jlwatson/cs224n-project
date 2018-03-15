@@ -1,5 +1,7 @@
-The order matters not to the program, but it matters to me maintaining it.  If
-it jumbles the order of the .po file then I can't diff for changes.  I have to
+
+
+The order matters not to the program, but it matters to me maintaining it. If
+it jumbles the order of the .po file then I can't diff for changes. I have to
 update all 7 translation files when I change the English text in the program,
 and it's easier when they're all in the same order.  
   
@@ -7,8 +9,6 @@ I can still put it back into normal order by making poedit rescan it.
   
 It is normal that untranslated strings are shown on top.  
   
-
-Quote from: eurekafag on October 06, 2010, 07:39:36 PM
 
 By the way, there are some similar lines that possibly may be replaced by one.
 They are very close by meaning and differs only by 1-2 words. Just a

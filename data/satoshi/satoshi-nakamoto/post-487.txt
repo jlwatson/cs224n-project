@@ -1,14 +1,10 @@
 
 
-Quote from: theymos on February 12, 2010, 08:31:52 AM
-
 Does the sending client send more BitCoins to account for the fee (so the
 recipient gets what he's expecting)?  
 
 Yes.  
   
-
-Quote from: SmokeTooMuch on February 12, 2010, 01:11:09 PM
 
 why do we even need fees ? i thougt the no-fees-feature was one of the
 advantages of bitcoin ?!  

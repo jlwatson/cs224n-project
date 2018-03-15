@@ -1,16 +1,16 @@
 That big of a difference in speed, by a factor of 4 or 6, feels like it's
 likely to be some quirky weak spot or instruction that the old chip is slow
-with.  Unless it's a touted feature of the i5 that they made SSE2 six times
+with. Unless it's a touted feature of the i5 that they made SSE2 six times
 faster.  
   
 A quick summary:  
-Xeon Quad  41% slower  
-Core 2 Duo  55% slower  
+Xeon Quad 41% slower  
+Core 2 Duo 55% slower  
 Core 2 Duo same (vess)  
-Core 2 Quad  50% slower  
-Core i5  200% faster (nelisky)  
+Core 2 Quad 50% slower  
+Core i5 200% faster (nelisky)  
 Core i5 100% faster (vess)  
-AMD Opteron  105% faster  
+AMD Opteron 105% faster  
   
 aceat64:  
 My system went from ~7100 to ~4200.  

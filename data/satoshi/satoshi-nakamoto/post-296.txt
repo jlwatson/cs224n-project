@@ -1,5 +1,5 @@
 Don't use the -server or -daemon switch or run bitcoind on a machine where you
-use a web browser.  It opens port 8332 on 127.0.0.1, the local loopback
+use a web browser. It opens port 8332 on 127.0.0.1, the local loopback
 address, and you wouldn't think that web browsers could cross-site access it,
 but it is possible.  
   

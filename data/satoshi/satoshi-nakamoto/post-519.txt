@@ -1,7 +1,5 @@
 
 
-Quote from: madhatter2 on December 15, 2009, 05:21:09 AM
-
 It is also throwing the same std::string issue on the latest version of Ubuntu
 Linux.  
 
@@ -11,8 +9,6 @@ configuring wxWidgets.
 What options did you use on the wxWidgets "configure" script? The options I
 used are in build-unix.txt.  
   
-
-Quote
 
 One question: how do I enable the debug.log? I have tried stopping bitcoin and
 touching ~/.bitcoin/debug.log and starting bitcoin again. It never seems to

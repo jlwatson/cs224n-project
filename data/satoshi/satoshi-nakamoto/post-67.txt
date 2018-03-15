@@ -9,9 +9,9 @@ diff -u old\main.cpp new\main.cpp
 bool fUseSSE2 = ((fIntel && nFamily * 10000 + nModel >= 60026) ||  
 (fAMD && nFamily * 10000 + nModel >= 160010));  
   
-+ // AMD reports a lower model number in 64-bit mode  
-+ if (fAMD && sizeof(void*) > 4 && nFamily * 10000 + nModel >= 160004)  
-+ fUseSSE2 = true;  
+\+ // AMD reports a lower model number in 64-bit mode  
+\+ if (fAMD && sizeof(void*) > 4 && nFamily * 10000 + nModel >= 160004)  
+\+ fUseSSE2 = true;  
 +  
 static bool fPrinted;  
 if (!fPrinted)  
@@ -20,17 +20,17 @@ if (!fPrinted)
   
 // Transaction fee based on block size  
 int64 nMinFee = tx.GetMinFee(nBlockSize);  
-+ //////// temporary code  
-+ if (nBlockSize < MAX_BLOCK_SIZE_GEN / 10 && GetWarnings("statusbar") == "")  
-+ {  
-+ if (nBestHeight < 91000)  
-+ nMinFee = 0;  
-+ if (nBestHeight < 100000 && nTxSize < 2000)  
-+ nMinFee = 0;  
-+ if (nBestHeight < 110000 && nBestHeight % 10 == 0)  
-+ nMinFee = 0;  
-+ }  
-+ //////// temporary code  
+\+ //////// temporary code  
+\+ if (nBlockSize < MAX_BLOCK_SIZE_GEN / 10 && GetWarnings("statusbar") == "")  
+\+ {  
+\+ if (nBestHeight < 91000)  
+\+ nMinFee = 0;  
+\+ if (nBestHeight < 100000 && nTxSize < 2000)  
+\+ nMinFee = 0;  
+\+ if (nBestHeight < 110000 && nBestHeight % 10 == 0)  
+\+ nMinFee = 0;  
+\+ }  
+\+ //////// temporary code  
   
 map<uint256, CTxIndex> mapTestPoolTmp(mapTestPool);  
 if (!tx.ConnectInputs(txdb, mapTestPoolTmp, CDiskTxPos(1,1,1), pindexPrev,

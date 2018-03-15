@@ -1,3 +1,5 @@
+
+
 The current system where every user is a network node is not the intended
 configuration for large scale. That would be like every Usenet user runs their
 own NNTP server. The design supports letting users just be users. The more
@@ -5,8 +7,6 @@ burden it is to run a node, the fewer nodes there will be. Those few nodes
 will be big server farms. The rest will be client nodes that only do
 transactions and don't generate.  
   
-
-Quote from: bytemaster on July 28, 2010, 08:59:42 PM
 
 Besides, 10 minutes is too long to verify that payment is good. It needs to be
 as fast as swiping a credit card is today.  

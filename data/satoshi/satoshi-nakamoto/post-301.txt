@@ -1,4 +1,4 @@
-I uploaded to SVN my changes to add a password to JSON-RPC.  If you're set up
+I uploaded to SVN my changes to add a password to JSON-RPC. If you're set up
 to build, please test it.  
   
 The -server switch is replaced with -rpcpw=<password>, which is also used with
@@ -12,7 +12,7 @@ sure but I think they may want to use different passwords for the two.
   
 It gives a warning if you don't set a password.  
   
-All commands now require the password as the first parameter.  It'll tell you
+All commands now require the password as the first parameter. It'll tell you
 that if you run "bitcoind help".  
   
 The central code:  
@@ -31,18 +31,18 @@ throw runtime_error("Incorrect password.");
   
 Any comments on these decisions?  
   
-1) if (strRPCPassword.size() < 15) Sleep(50);  \-- this means if it's a short
-password, it'll wait 50ms after each attempt.  This might be used as a DoS
+1) if (strRPCPassword.size() < 15) Sleep(50); -- this means if it's a short
+password, it'll wait 50ms after each attempt. This might be used as a DoS
 attack, but I figured if it's a short password, it's more important to protect
-against brute force password scan.  This may tell outsiders whether the
+against brute force password scan. This may tell outsiders whether the
 password is less than 15 characters, but less than 15 isn't all that
-noteworthy, most passwords are less than 15.  If you want to close the DoS
+noteworthy, most passwords are less than 15. If you want to close the DoS
 possibility, just use a password 15 characters or longer.  
   
-2) begin = strRequest.end();  \-- if it's a single request with multiple
-invocations, I throw away the rest if one has a bad password.  This is so you
-can't stuff it with millions of password attempts in one packet.  What do you
-think, is this the right thing to do?  (multiple invocation is probably almost
+2) begin = strRequest.end(); -- if it's a single request with multiple
+invocations, I throw away the rest if one has a bad password. This is so you
+can't stuff it with millions of password attempts in one packet. What do you
+think, is this the right thing to do? (multiple invocation is probably almost
 never used anyway)  
   
 I also fixed the two duplicated commands listed in the help:  

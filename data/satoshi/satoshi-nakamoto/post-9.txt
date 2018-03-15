@@ -2,15 +2,15 @@ Not locktime.
   
 There's a possible design for far in the future:  
   
-You intentionally write a double-spend.  You write it with the same inputs and
-outputs, but this time with a fee.  When your double-spend gets into a block,
-the first spend becomes invalid.  The payee does not really notice, because at
+You intentionally write a double-spend. You write it with the same inputs and
+outputs, but this time with a fee. When your double-spend gets into a block,
+the first spend becomes invalid. The payee does not really notice, because at
 the moment the new transaction becomes valid, the old one becomes invalid, and
 the new transaction simply takes its place.  
   
-It's easier said than implemented.  There would be a fair amount of work to
+It's easier said than implemented. There would be a fair amount of work to
 make a client that correctly writes the double-spend, manages the two versions
-in the wallet until one is chosen, handles all the corner cases.  Every
+in the wallet until one is chosen, handles all the corner cases. Every
 assumption in the existing code is that you're not trying to write double-
 spends.  
   

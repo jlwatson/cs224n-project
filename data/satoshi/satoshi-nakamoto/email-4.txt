@@ -1,3 +1,6 @@
+
+
+
 Right, it's ECC digital signatures.  A new key pair is used for every
 transaction.
 
@@ -5,16 +8,22 @@ It's not pseudonymous in the sense of nyms identifying people, but it
 is at least a little pseudonymous in that the next action on a coin
 can be identified as being from the owner of that coin.
 
+
+
 There is no reliance on identifying anyone.  As you've said, it's
 futile and can be trivially defeated with sock puppets.
 
 The credential that establishes someone as real is the ability to
-supply CPU power.
+supply CPU power. 
+
+
 
 Section 11 calculates the worst case under attack.  Typically, 5 or
 10 blocks is enough for that.  If you're selling something that
 doesn't merit a network-scale attack to steal it, in practice you
 could cut it closer.
+
+
 
 This is a version 2 problem that I believe can be solved fairly
 satisfactorily for most applications.
@@ -38,7 +47,7 @@ Information based goods like access to website or downloads are
 non-fencible.  Nobody is going to be able to make a living off
 stealing access to websites or downloads.  They can go to the file
 sharing networks to steal that.  Most instant-access products aren't
-going to have a huge incentive to steal.
+going to have a huge incentive to steal. 
 
 If a merchant actually has a problem with theft, they can make the
 customer wait 2 minutes, or wait for something in e-mail, which many
@@ -48,3 +57,7 @@ transaction comes back double-spent.  If it's website access,
 typically it wouldn't be a big deal to let the customer have access
 for 5 minutes and then cut off access if it's rejected.  Many such
 sites have a free trial anyway.
+
+
+
+

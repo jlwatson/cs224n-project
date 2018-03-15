@@ -1,7 +1,5 @@
 
 
-Quote from: BioMike on August 19, 2010, 08:05:18 AM
-
 WxWidgets is not really a problem. My problem is the version that is used
 (2.9), which is considered unstable by many distro packagers (although the
 WxWidgets devs say it isn't). On the other side, as far as I know WxWidgets

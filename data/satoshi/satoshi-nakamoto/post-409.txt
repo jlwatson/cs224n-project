@@ -1,4 +1,4 @@
-I finished everything on my list to do for version 0.3.  The code on SVN is
+I finished everything on my list to do for version 0.3. The code on SVN is
 about ready to release.  
   
 Testing at this point is much appreciated.

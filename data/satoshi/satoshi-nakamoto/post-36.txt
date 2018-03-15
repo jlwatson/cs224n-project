@@ -1,8 +1,8 @@
 I uploaded a redesign of m0mchil's getwork to SVN rev 189 (version 31601)  
   
-m0mchil's external bitcoin miner idea has solved a lot of problems.  GPU
+m0mchil's external bitcoin miner idea has solved a lot of problems. GPU
 programming is immature and hard to compile, and I didn't want to add
-additional dependencies to the build.  getwork allows these problems to be
+additional dependencies to the build. getwork allows these problems to be
 solved separately, with different programs for different hardware and OSes.
 It's also convenient that server farms can run a single Bitcoin node and the
 rest only run getwork clients.  
@@ -16,7 +16,7 @@ If [data] is not specified, returns formatted hash data to work on:
 "hash1" : formatted hash buffer for second hash  
 "target" : little endian hash target  
 If [data] is specified, tries to solve the block and returns true if it was
-successful.  [data] is the same 128 byte block data that was returned in the
+successful. [data] is the same 128 byte block data that was returned in the
 "data" field, but with the nonce changed.  
   
 Notes:  

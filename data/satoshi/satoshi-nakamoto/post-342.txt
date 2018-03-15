@@ -1,7 +1,5 @@
 
 
-Quote from: knightmb on July 15, 2010, 08:15:46 PM
-
 On the Linux client (64 bit), the "minimize on close" will still minimize to
 tray (causing X server hang after a short while by spawning multiple tray
 icons).  

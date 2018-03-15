@@ -13,10 +13,10 @@ __m128i behind the scenes as a temporary variable.
   
 By making our __m128i variables aligned and changing these inlines to defines,
 I was able to get it to work on 4.4.1 with -O0 only:  
-#define Ch(b, c, d)  ((b & c) ^ (~b & d))  
-#define Maj(b, c, d)  ((b & c) ^ (b & d) ^ (c & d))  
+#define Ch(b, c, d) ((b & c) ^ (~b & d))  
+#define Maj(b, c, d) ((b & c) ^ (b & d) ^ (c & d))  
 #define ROTR(x, n) (_mm_srli_epi32(x, n) | _mm_slli_epi32(x, 32 - n))  
-#define SHR(x, n)  _mm_srli_epi32(x, n)  
+#define SHR(x, n) _mm_srli_epi32(x, n)  
   
 But that's with -O0.  
   

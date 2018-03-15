@@ -1,12 +1,12 @@
-Don't update the block chain download.  When you take someone's block chain
-download, you don't want it right up to the end.  A somewhat old one is better
+Don't update the block chain download. When you take someone's block chain
+download, you don't want it right up to the end. A somewhat old one is better
 so it can download and verify the most recent blocks.  
   
 tcatm's 4-way SSE2 SHA-256 is in the file sha256.cpp and already uploaded a
 few revs ago.  
   
 I just now uploaded rev 134 which is the makefile.unix that enables building
-with it on Linux.  If you build rev 134 on Linux now you'll get the -4way
+with it on Linux. If you build rev 134 on Linux now you'll get the -4way
 switch.  
   
 If you have problems building because of it, then edit makefile.unix and:  

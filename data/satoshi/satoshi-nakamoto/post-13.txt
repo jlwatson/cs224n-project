@@ -1,8 +1,6 @@
 
 
-Quote from: jgarzik on December 09, 2010, 12:58:05 AM
-
-I agree with you and satoshi about "txs after <txid>".  My listtransactions
+I agree with you and satoshi about "txs after <txid>". My listtransactions
 (now xlisttransactions) patch pointedly does not have that feature, and never
 has.  
 
@@ -19,11 +17,9 @@ listtransactions <JSON null type> [count]
 It would be hard to do that from the command line though.  
   
 I can't think of a good solution for the interface, that's the problem. Maybe
-"*" special case like "" is.  Everyone would have to make sure no user can
+"*" special case like "" is. Everyone would have to make sure no user can
 create account name "*".  
   
-
-Quote from: jgarzik on December 09, 2010, 04:13:50 PM
 
 Sure, and that's easy enough to track with transactions.  
 
