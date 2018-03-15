@@ -1,0 +1,17 @@
+(Jed from stellar here) The fork you are describing occurred in the previous
+protocol when all the nodes had the same UNL; the failure had everything to do
+with that previous protocol's response to overloading (it diverges based on
+timeouts, rather than getting stuck, and discards the losing fork on healing)
+and nothing to do with trust topology. So it didn't have _anything_ to do with
+improperly set up trust.
+
+In SCP the topology is public and conveyed with each consensus packet. So
+people will be able to tell when the graph is vulnerable.
+
+Improving the definition of topology requirements for correct consensus is,
+far from being 'ignored', exactly what Mazieres has been working on all this
+time. And as you admit, those requirements have now been formalized and the
+information to check them is conveyed in the consensus packets; they are just
+not trivial to check by hand, and we have not yet implemented a check for them
+in stellar-core (this will be forthcoming, see roadmap).
+

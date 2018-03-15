@@ -1,0 +1,3 @@
+Yes it is a completely new codebase. No code is shared between them in either
+the core or the libraries.
+

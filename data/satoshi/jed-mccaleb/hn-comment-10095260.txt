@@ -1,0 +1,9 @@
+Yes a node in the Stellar network doesn't need to know all the other nodes in
+the whole network and adding and removing nodes is a fluid and open process
+but yes there must be some transitive overlap in the quorum slices people
+choose. The details would be better explained in the paper.
+
+All the coins(lumens) exist when the network starts up. The Stellar Foundation
+is distributing them in the following way:
+https://www.stellar.org/about/mandate/#Stellar_distribution
+

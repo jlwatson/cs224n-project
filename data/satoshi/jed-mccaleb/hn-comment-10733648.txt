@@ -1,0 +1,9 @@
+The Stellar network did fork when we running on a fork of legacy software.
+Since then, we have rebuilt the entire consensus system using a completely
+different consensus system. The underlying consensus system was designed by
+Prof. David Mazieres, head of Stanford University's Secure Computing group -
+you can read the white paper here:
+https://www.stellar.org/developers/learn/concepts/scp.html A completely new
+implementation of SCP in the form of stellar-core was completed earlier this
+year. You can read about it here: http://graydon.livejournal.com/227874.html
+

@@ -1,0 +1,8 @@
+We have been heads down for the past several months working on the new network
+that is much more scale-able, has a provably correct consensus mechanism and a
+much more flexible modular design. It has cool features like multi-sig and
+attaching arbitrary info to transactions. We released it in beta a couple
+months ago: https://www.stellar.org/blog/stellar-consensus-protocol-proo...
+
+We are turning the new network live very soon.
+
