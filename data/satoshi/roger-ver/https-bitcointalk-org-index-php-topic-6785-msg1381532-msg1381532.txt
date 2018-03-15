@@ -1,5 +1,3 @@
-
-
 Is instawallet under some kind of attack?  
   
 As I watch the site, the number of wallets is increasing faster than my eye

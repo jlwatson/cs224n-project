@@ -1,5 +1,3 @@
-
-
 \--------------4-12-2012----- UPDATE-----------------  
   
 I now have the Magento module installed from http://paysius.com/plugins  

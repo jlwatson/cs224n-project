@@ -1,17 +1,9 @@
-
-
 Now is the chance to make an account and ask him.  
   
   
 Some of his answers are already up:  
   
   
-
-Quote
-
-How long does it take to create a project like Lighthouse, from the idea to
-the product? And how many people are needed?  
-
   
 Great question! It took me about 8-9 months of full time work to get
 Lighthouse to beta, working on my own. _But_ this comes with several caveats.
@@ -32,13 +24,6 @@ because they were just reimplementing the Lighthouse design rather than doing
 something new, and because a more centralised solution is often easier to put
 together than something P2P.  
   
-
-Quote
-
-Do you thing the difficulties of the blocksize debate will result in a more
-effective decision making process for future Bitcoin development and if so any
-thoughts on how that might work?
-
   
 The only decision making process that should really matter is end users and
 miners picking what software to run. At the moment this mechanism has broken
@@ -55,14 +40,6 @@ the software they use based on its merits rather than what the people writing
 it choose to say, and be willing to switch at any point if the software they
 use stops delivering.  
   
-
-Quote
-
-One possible disadvantage is that faster confirmations may mean higher orphan
-rate ... do you think it is an impossible idea to make Bitcoin block
-confirmation times faster than 10 minutes to increase the scalability of
-Bitcoin?
-
   
   
 and many many more answers at: https://forum.bitcoin.com/ama-ask-me-

@@ -1,5 +1,3 @@
-
-
 Previously, Coinbase was taking days before actually broadcasting the
 transactions to the network, and it was causing a huge amount of trouble
 tracking down bitcoins that were sent so late, for orders that had long since

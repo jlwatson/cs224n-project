@@ -1,29 +1,3 @@
-
-
-Quote from: repentance on October 23, 2012, 12:36:56 AM
-
-Quote from: MemoryDealers on October 22, 2012, 04:22:41 PM
-
-Instead, Amir posted the source code causing additional money to be stolen,
-and no one has received any of their money back yet.  
-
-  
-Roger, I've been extremely critical of the Intersango guys and the way they've
-handled this clusterfuck for a very long time but even I don't buy the idea
-that the Bitcoinica MtGox account was breached because Amir leaked the code.
-Are you telling me that you seriously believe Zhou's explanation of the MtGox
-breach and how someone who just happened to have his credentials (but who
-doesn't read this forum) also just happened to come across the leaked code and
-then also happened to think that the MtGox API keys might be a password to
-something else? Seriously? Because given Zhou's ridiculous story about the
-MtGox breach, I wouldn't even trust his explanation of the Rackspace breach.  
-  
-There are plenty of legitimate grounds on which to criticise the way that
-Donald, Patrick and Amir have handled the whole Bitcoinica disaster. Let's not
-damage our own credibility by pretending to believe in the absurd.  
-  
-  
-
   
 You may be right that Amir open sourcing the code did not lead to the second
 hack, but it did destroy the one asset that Bitcoinica still had that could be

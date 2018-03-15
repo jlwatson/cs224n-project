@@ -1,5 +1,3 @@
-
-
 I'm proud to announce the beta launch of BitcoinStore.com  
 BitcoinStore.com is the world's first, Bitcoin only, super store.  
 We currently have more than 500,000 products available for immediate shipment,

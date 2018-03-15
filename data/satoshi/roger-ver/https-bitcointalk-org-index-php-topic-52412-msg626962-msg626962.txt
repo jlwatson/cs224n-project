@@ -1,5 +1,3 @@
-
-
 I thought the whole point of penny auctions is that the time keeps extending
 every time there is a bid.  
   

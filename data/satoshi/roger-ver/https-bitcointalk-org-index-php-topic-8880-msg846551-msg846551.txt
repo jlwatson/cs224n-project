@@ -1,5 +1,3 @@
-
-
 I now have the Magento module installed from http://paysius.com/plugins  
   
 and it works great!  

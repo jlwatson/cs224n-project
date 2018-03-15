@@ -1,5 +1,3 @@
-
-
 I've noticed that when sending BTC via SMS, if the BTC are not claimed within
 a certain amount of time, they disappear.  
   

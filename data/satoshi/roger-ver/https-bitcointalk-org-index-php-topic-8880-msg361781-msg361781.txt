@@ -1,5 +1,3 @@
-
-
 I'm still waiting for the Russian programmers to port my Yahoo store to
 Magento.  
 It is harder for them than they originally thought.  

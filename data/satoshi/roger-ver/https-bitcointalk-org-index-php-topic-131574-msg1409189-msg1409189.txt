@@ -1,9 +1,3 @@
-
-
-Quote from: DannyM on December 19, 2012, 02:09:44 PM
-
-So I guess passphrase information in blockchain.info is not hashed?  
-
   
 No passphrase information was leaked or is even available.  
   

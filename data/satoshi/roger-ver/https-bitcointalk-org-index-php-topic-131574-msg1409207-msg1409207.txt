@@ -1,10 +1,3 @@
-
-
-Quote from: HostFat on December 19, 2012, 02:18:51 PM
-
-I want to know every informations that an admin of blockchain.info can see.  
-I thought that most of them were encrypted...  
-
   
 It is all encrypted, but it depends on your privacy settings.  
   

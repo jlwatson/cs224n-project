@@ -1,5 +1,3 @@
-
-
 I also am interested in the magento plugin.  
 My store is changing from Yahoo store to Magento within the next two weeks,
 and I want to have automated bitcoin transactions ready ASAP.  

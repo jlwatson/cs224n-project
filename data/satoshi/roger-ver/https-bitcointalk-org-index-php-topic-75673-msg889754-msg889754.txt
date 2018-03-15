@@ -1,5 +1,3 @@
-
-
 Bug fix request:  
   
 When I set the currency to something other than USD, it randomly reverts back

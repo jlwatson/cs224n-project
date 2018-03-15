@@ -1,5 +1,3 @@
-
-
 I'm having major trouble signing up more than one person at a time for your
 wallet in China.  
 When installing your wallet, people are constantly getting an error that says

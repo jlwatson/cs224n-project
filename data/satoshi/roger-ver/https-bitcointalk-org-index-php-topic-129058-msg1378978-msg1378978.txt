@@ -1,5 +1,3 @@
-
-
 I think it is also important to note that the Blockchain.info code is open
 source:  
   

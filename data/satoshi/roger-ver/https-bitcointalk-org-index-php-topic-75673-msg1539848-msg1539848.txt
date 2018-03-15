@@ -1,11 +1,3 @@
-
-
-Quote from: Meizirkki on February 19, 2013, 03:04:08 PM
-
-I have dual passwords and two-factor login, but the iPhone app never asks for
-any of these after the initial login. Anybody with access to my phone can rob
-me clean  any fix to this?  
-
   
 If you have dual encryption enabled, it will ask you for the second password
 whenever you try to actually send Bitcoins from the wallet.

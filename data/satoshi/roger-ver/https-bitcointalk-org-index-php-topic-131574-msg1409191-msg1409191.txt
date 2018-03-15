@@ -1,12 +1,3 @@
-
-
-Quote from: greyhawk on December 19, 2012, 02:13:49 PM
-
-Wait, wait, wait. So Roger Ver has access to see users wallet passwords in
-plaintext? So he can theoretically log in to any account on Blockchain.info
-and send himself whatever he wants? Blaming it on "hackers"? Is that what is
-happening here?  
-
   
  **NO, this is not possible.**  
   

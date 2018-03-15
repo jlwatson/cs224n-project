@@ -1,5 +1,3 @@
-
-
 Are these by chance the same kind of lasers that are used in optical
 transceivers?  
 850NM to 1610NM wavelength?  

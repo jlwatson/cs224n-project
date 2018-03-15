@@ -1,18 +1,3 @@
-
-
-Quote from: etotheipi on December 16, 2012, 06:20:26 PM
-
-You should add a "message" or "label" to the "Click to Pay" URL. Perhaps
-something like "Bitcoinstore.com order# 18272542". Then you are
-autodocumenting the transactions for the users, and you'll appreciate them
-having easy access to the order number when they contact you for various
-reasons.  
-  
-Technically it should go in the "message" field, but I think Bitcoin-Qt
-doesn't really use that field, so I think it has to go under "label." I've
-talked to them about making the "message" field useful (marking the
-transaction, instead of the address), but they don't do it, yet.  
-
   
 This sounds like more of a comment for Bitpay.com since the checkout is
 handled by them.  

@@ -1,5 +1,3 @@
-
-
 I think you should change the title of your thread from " bitcoin client is
 eating my bitcoins, WTF?" to bitcoin client is not confirming my transactions,
 WTF?  

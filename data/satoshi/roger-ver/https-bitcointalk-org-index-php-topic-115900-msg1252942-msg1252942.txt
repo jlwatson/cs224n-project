@@ -1,5 +1,3 @@
-
-
 An existing forex company in HK is currently working on integrating Bitcoin
 with their system.  
 They are %100 on board, and understand that Bitcoin will change the world, but

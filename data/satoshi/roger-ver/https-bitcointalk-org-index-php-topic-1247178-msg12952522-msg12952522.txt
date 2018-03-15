@@ -1,23 +1,3 @@
-
-
-Quote from: moneta
-
-Hi everyone,  
-  
-I'm Gary Le, co-founder of Moneta, which is the world's first implementation
-of Zerocoin ( http://moneta.cash ).  
-  
-The Zerocoin Protocol is a cryptographic protocol that add an additional layer
-of privacy on top of the Bitcoin protocol. It uses "Zero-Knowledge Proofs" to
-guarantee that transactions are completely anonymous and private.  
-  
-If you are interested in participating in our testnet, stay tuned as we hope
-to open up the testnet soon.  
-  
-I look forward to your questions 8-)  
-  
-Gary
-
   
   
 You can ask him anything at:  

@@ -1,5 +1,3 @@
-
-
 I would also like to add foreign language support for this.  
   
 Here is the same text needed but in Japanese:  

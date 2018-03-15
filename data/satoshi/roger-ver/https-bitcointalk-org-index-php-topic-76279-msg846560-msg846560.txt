@@ -1,5 +1,3 @@
-
-
 I now have the automated Bitcoin checkout module for Magento module installed
 from http://paysius.com/plugins  
   

@@ -1,5 +1,3 @@
-
-
 Here is what the main guy (Brian) who is working on this said:  
  _I've now got the bitcoin settings in the admin pages so it can be turned on
 and off, and I have a test product in the store. Next is adding the code to

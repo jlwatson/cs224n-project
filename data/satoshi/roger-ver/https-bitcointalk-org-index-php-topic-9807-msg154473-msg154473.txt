@@ -1,5 +1,3 @@
-
-
 Many online merchants will want to cash out their bitcoins to a government
 issued currency initially.  
 This option needs to be available in order for them to be willing to accept

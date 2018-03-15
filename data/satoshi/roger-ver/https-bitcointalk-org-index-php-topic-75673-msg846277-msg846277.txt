@@ -1,5 +1,3 @@
-
-
 Has anyone else gotten this to work on an Iphone 4S IOS 5.1 ?  
   
 If I try to create a brand new wallet, I receive this error:  

@@ -1,20 +1,3 @@
-
-
-Quote from: zhoutong on February 22, 2012, 04:28:43 PM
-
-Quote from: MemoryDealers on February 22, 2012, 04:18:40 PM
-
-This will be huge!  
-Will you also be supporting Alipay withdrawals?  
-I am going to tell all my vendors in China about this!  
-
-  
-We will consider Alipay withdrawal option soon. Currently there's an API for
-mass payments, but it requires a service contract with Alipay.  
-  
-When the CNY deposit volume is higher, we will have better chances of getting
-the service contract signed.  
-
   
 I suspect more of my vendors will be willing to accept payment in Bitcoins
 once they know that they can instantly cash out via Alipay.  

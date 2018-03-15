@@ -1,5 +1,3 @@
-
-
 I was looking at this great little tool to convert BTC addresses into 2D
 Barcodes:  
   

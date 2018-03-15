@@ -1,9 +1,3 @@
-
-
-Quote from: Argwai96 on September 10, 2013, 08:31:36 PM
-
-but very frustrating with the error 100% bitpay's fault  
-
   
 I don't see how you can blame it on bitpay since it was obviously the customer
 who failed to send the Bitcoins within the 15 minutes required.  

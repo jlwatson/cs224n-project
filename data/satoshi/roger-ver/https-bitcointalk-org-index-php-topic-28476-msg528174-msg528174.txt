@@ -1,5 +1,3 @@
-
-
 Thanks for the added effort joepie91.  
   
 I just tried testing it out with a 3072 × 2304 image.  

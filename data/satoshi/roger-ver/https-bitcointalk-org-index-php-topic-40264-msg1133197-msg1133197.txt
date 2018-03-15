@@ -1,5 +1,3 @@
-
-
 This problem may have to do with the wallet password length.  
 I created a brand new wallet with a 102 Character password.  
 When I tried to pair my phone with the brand new wallet, I received the same

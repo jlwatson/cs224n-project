@@ -1,5 +1,3 @@
-
-
 How can I check how many total bitcoin users there are?  
 It would be interesting to track how quickly the user base is growing.
 

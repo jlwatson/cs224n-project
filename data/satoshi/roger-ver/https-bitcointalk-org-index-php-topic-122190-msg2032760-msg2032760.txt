@@ -1,33 +1,11 @@
-
-
-Quote from: Grix on April 26, 2013, 08:58:30 PM
-
-Will you stock laptops with Haswell CPU's when they are released in June? I am
-in the market for a new PC but I want to wait for Haswell.  
-
   
 Yes, these will be carried as soon as they are released.  
   
-
-Quote from: qxzn on April 30, 2013, 06:02:55 AM
-
-I went in search of SSDs on bitcoinstore.com, and they're almost all out of
-stock. Why?  
-
 Most of them are actually in stock, but we are still working on improving the
 import script.  
 Feel free to contact us if there is a specific model that you need.  
   
   
-
-Quote from: jasinlee on May 05, 2013, 04:00:45 AM
-
-They dont know how to filter results on this site? Bitpay is never working on
-checkout (even now I just checked), so you cant even pay if you wanted to
-either. I received an email saying oh hey remember that free shipping it
-listed on that item and on checkout and on the site everywhere? Yeah no, you
-need to pay another 100$ or cancel the order.  
-
   
 We are working on better filtering.  
 Bitpay seems to be working fine and we get dozens of orders per day with it.  

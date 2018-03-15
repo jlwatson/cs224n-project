@@ -1,11 +1,3 @@
-
-
-Quote from: Fjordbit on December 16, 2012, 12:03:36 AM
-
-When I placed my order, it gave me the option of Free Shipping for $0 and Flat
-Shipping for $4.99. I went with the Free, but I was wondering what the
-difference was. If Flat is faster, it may be good to state that there.  
-
   
 I made it a little bit clearer.  
 The text currently reads:  

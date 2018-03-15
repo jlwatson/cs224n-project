@@ -1,28 +1,7 @@
-
-
   
   
 XE.com sent an interesting reply.  
   
-
-Quote
-
-Hi Roger,  
-  
-Thank you for your enquiry.  
-  
-Unfortunately we don't list virtual 'currencies' in our services. If Bitcoin
-becomes a globally accepted standard, is traded openly on the currency
-markets, is assigned an ISO4217 currency code by the ISO and there are
-multiple and available rate sources, we may decide to include it in our
-services but we don't have any plans to do so at present.  
-  
-Thank you for your interest in our company and services.  
-  
-Sincerely,  
-  
-XE Currency Services Team  
-
   
 I suppose now we should try contacting the ISO4217 people about bitcoins.  
   

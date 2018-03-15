@@ -1,5 +1,3 @@
-
-
 If possible, please add Chinese RMB to the list of currencies available in the
 Blockchain iphone and android app.  
   

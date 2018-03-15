@@ -1,5 +1,3 @@
-
-
 Are Amazon codes reversible?  
 What guarantee is there that Amazon will not reverse the e-code's credit next
 week if Amazon discovers fraud during the original purchase of the code?  

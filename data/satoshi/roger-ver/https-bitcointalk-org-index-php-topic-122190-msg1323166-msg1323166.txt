@@ -1,77 +1,28 @@
-
-
-Quote from: ArticMine on November 03, 2012, 08:59:54 PM
-
-They really need to use USPS for international orders to deal with these
-outrageous shipping costs.  
-
 USPS will be an international shipping method very soon. I already applied for
 the account and am just waiting to receive the API credentials from USPS.
 Hopefully it can be online within this week!  
   
   
-
-Quote from: jimbobway on November 04, 2012, 06:35:18 PM
-
-I want to buy a Microsoft Surface with bitcoins. Will you guys stock this
-item?  
-
 Yes, this will be stocked soon.  
   
   
-
-Quote from: giszmo on November 05, 2012, 11:15:40 PM
-
-For a Bitcoin only store it would be cool to implement some mouse-over effect
-to display the Ƀ-price of items or even better the $ on mouse-over.  
-
 Now prices for all items are displayed in BTC and USD  
   
   
-
-Quote from: ArticMine on November 06, 2012, 01:20:32 AM
-
-On a related note you may wish to take places such as Cuba, North Korea, Iran
-etc. out of your country list if you do not wish to run afoul of legislation
-in the United States. Seriously.  
-
 Done. Thank you for the advice.  
   
   
-
-Quote from: Daily Anarchist on November 06, 2012, 09:08:51 PM
-
-Any plans on selling food on BitcoinStore? That would be awesome!  
-
 This is an interesting idea that I will look into, but it wont be in the
 immediate future.  
   
   
-
-Quote from: thebaron on November 03, 2012, 07:17:10 AM
-
-Would like to see brand names in the links on the browse pages. Hard to
-navigate things that are just generically named like "20 inch monitor...".  
-
 Still working on this, but it will happen very soon.  
   
   
-
-Quote from: LightRider on November 03, 2012, 07:46:12 AM
-
-Price range links don't seem to work. In fact, categorization in general
-doesn't seem to be correct at all.  
-
 Price range links are fixed. If you have other categorization suggestions,
 please post them here.  
   
   
-
-Quote from: alexanderanon on November 03, 2012, 11:10:56 AM
-
-Meh. How about we just get that bitcoin debit card already and then buy direct
-from Amazon.  
-
 Because Bitcoinstore.com is cheaper than Amazon for lots of things, and
 especially so after you consider the fees that will be involved in loading the
 card.  

@@ -1,5 +1,3 @@
-
-
 I'm trying to register, but your registration form wont let me register
 because the password I am trying to use: "WxbdnoZ-E^n]wRmz%'zmj.VQrK/9:Z,M"  
   

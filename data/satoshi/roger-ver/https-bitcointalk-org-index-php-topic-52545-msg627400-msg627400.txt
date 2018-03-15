@@ -1,5 +1,3 @@
-
-
 Here is an example of what I think is the most popular penny auction site
 currently.  
   

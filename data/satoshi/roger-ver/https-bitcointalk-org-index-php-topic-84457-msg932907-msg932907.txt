@@ -1,5 +1,3 @@
-
-
 If you do decide to add support for IM services, I would like to suggest LINE.  
 http://itunes.apple.com/us/app/line/id443904275?mt=8  
   

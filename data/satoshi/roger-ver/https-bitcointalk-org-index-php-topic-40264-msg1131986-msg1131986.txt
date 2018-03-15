@@ -1,5 +1,3 @@
-
-
 I recently changed the password to my wallet.  
 Now when trying to pair my iphone with my existing wallet by scanning the QR
 code, I receive the following error:  

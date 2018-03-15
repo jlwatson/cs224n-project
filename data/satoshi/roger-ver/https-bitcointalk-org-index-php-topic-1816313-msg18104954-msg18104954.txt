@@ -1,5 +1,3 @@
-
-
 Most pools have kept all of the fees until just recently, and many miners
 suspect pools of stealing hash rate from them.  
   

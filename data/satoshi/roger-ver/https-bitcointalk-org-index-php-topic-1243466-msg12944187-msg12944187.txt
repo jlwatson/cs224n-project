@@ -1,5 +1,3 @@
-
-
 Purse.io is actually one of the most interesting and innovative companies in
 the space. They just released their merchant platform, where you can sell your
 items for bitcoin using their trusted escrow.

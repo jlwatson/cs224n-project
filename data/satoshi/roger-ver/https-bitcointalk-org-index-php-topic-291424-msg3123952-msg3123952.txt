@@ -1,5 +1,3 @@
-
-
 You likely had this problem because you didn't actually send the coins within
 the 15 minutes allotted by Bitpay.  
 You likely just instructed some other entity to send the coins for you, and

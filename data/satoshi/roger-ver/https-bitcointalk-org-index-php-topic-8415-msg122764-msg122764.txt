@@ -1,5 +1,3 @@
-
-
 I run a company of a little over 30 people. We recently have stated accepting
 bitcoin as payment and ran into our first security issue recently.  
 It then occurred to me how incredibly difficult it will be for companies to

@@ -1,5 +1,3 @@
-
-
   
 It's time to think about how to design an easy to use Bitcoin privacy tool at
 privacy.bitcoin.com  

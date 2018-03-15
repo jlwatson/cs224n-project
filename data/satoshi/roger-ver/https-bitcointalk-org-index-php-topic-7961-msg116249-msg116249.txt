@@ -1,9 +1,3 @@
-
-
-Quote from: eMansipater on May 11, 2011, 06:43:14 PM
-
-Your site's currency conversion code is very friendly to canadians.  
-
   
 I need someone to help me get all the exchange rates to update in real time.  
 Anyone out there who can help out with this?  

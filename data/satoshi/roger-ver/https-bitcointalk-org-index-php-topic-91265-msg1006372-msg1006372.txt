@@ -1,14 +1,4 @@
-
-
   
-
-Quote from: dacoinminster on July 03, 2012, 04:46:10 PM
-
-  
-Feature request: List active widgets, especially those that have received
-contributions!  
-  
-
   
 A public statistics page is now in the works.
 

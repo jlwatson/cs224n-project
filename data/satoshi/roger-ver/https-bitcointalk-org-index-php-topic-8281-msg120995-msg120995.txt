@@ -1,26 +1,3 @@
-
-
-Quote from: mewantsbitcoins on May 14, 2011, 07:21:22 PM
-
-Quote from: MemoryDealers on May 14, 2011, 07:19:35 PM
-
-Quote from: ribuck on May 14, 2011, 07:13:39 PM
-
-I still think the most likely is that a browser window was left unattended
-while logged in.  
-
-  
-The strange part is that it was done at about **5:30AM** PST (where my office
-is)  
-There are lots of cameras at the office that I can check soon, but no one but
-myself has access at that time of day.  
-  
-So I suspect it was done somewhere other than at the location of the mining
-computers.  
-
-  
-Are your mining computers on a wireless network?  
-
   
 No, they are hardwired.
 

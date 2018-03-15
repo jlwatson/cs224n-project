@@ -1,5 +1,3 @@
-
-
 To be clear, I'm in favor of Bitcoin scaling.  
 I don't care if it is with bigger blocks, lighting network or something else,
 as long as people maintain control over their own money.  

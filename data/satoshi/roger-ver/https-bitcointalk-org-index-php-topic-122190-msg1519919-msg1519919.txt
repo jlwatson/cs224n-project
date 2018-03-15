@@ -1,12 +1,3 @@
-
-
-Quote from: julz on February 11, 2013, 10:09:01 PM
-
-I'm currently seeing a 17%+ excess cost due to BTC exchange rates.  
-  
-Is this normal?  
-The price seems to be using around $20.5 instead of somewhere near $24  
-
   
 The current site will give you the correct price at checkout.  
 The new site will display everything in real time so there isn't any more

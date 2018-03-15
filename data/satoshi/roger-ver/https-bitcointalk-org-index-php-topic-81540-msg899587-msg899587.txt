@@ -1,4 +1,2 @@
-
-
 How can a user of Bitcoins know that it is safe to install the plugin?
 

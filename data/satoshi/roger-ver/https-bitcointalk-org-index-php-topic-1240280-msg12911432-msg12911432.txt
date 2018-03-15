@@ -1,5 +1,3 @@
-
-
 Mike Hearn, creator of Lighthouse, bitcoinj and Bitcoin XT is doing an AMA
 session right now at:  
 https://forum.bitcoin.com/ama-ask-me-anything/i-m-mike-hearn-creator-of-

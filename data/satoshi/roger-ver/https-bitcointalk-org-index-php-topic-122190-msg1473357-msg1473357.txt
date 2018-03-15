@@ -1,29 +1,10 @@
-
-
-Quote from: teste on January 23, 2013, 02:38:12 PM
-
-1- The bitcoin prices I see on bitcoinstore is exactly the price I'll pay?
-Hope yes.  
-
 All prices are in USD in the database and are updated to the equivalent BTC
 price every 5 minutes based on the feed from Bitpay.com  
   
   
-
-Quote from: teste on January 23, 2013, 02:38:12 PM
-
-2- I would like to see on Bitcoinstore the usd value of 1 bitcoin. (the value
-used by bitcoinstore)  
-
 Great idea! This will be implemented soon.  
   
   
-
-Quote from: teste on January 23, 2013, 02:38:12 PM
-
-3- I would like to see on site, something like: (the bitcoinstore prices will
-be refreshed in 5 minutes)  
-
 The USD prices don't change. The final BTC price is calculated at the moment
 of checkout.  
 I will give some thought on the best way to make this clear on the site.
