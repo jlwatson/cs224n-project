@@ -1,0 +1,17 @@
+M. Stirner: 
+
+There are several business proposals floating around the cypherpunks
+community that would require commercial licenses.  I encourage the
+various crypto-entrepreneurs elaborate if they wish.  
+
+Some of the proposals are quite interesting and illuminating.
+There's a strong habit of keeping business ideas "trade secret", 
+which can be a bad idea, since (a) many of the ideas
+are obvious; trade secrets only work for subtle but important
+technological bottlenecks known to a small group of mutually
+trustworthy people, and (b) many of the ideas need to
+debugged by a wide variety of crackers and experts before they will
+provid good privacy.  Trade secrets also inhibit the progress
+of the cypherpunks agenda, but that's a judgement call; I myself
+dont' feel morally bound to Reveal All for the sake of the 
+Movement.  But, "I'll post mine if you post yours".

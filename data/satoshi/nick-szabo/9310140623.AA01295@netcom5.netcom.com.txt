@@ -1,0 +1,17 @@
+[Attribution lost, sorry] 
+
+Stuart Card:
+
+A pseudonymous customer has the opportunity to either file a
+tort under their pseudonymous ID or to publicize the fraud,
+either under their pseudonymous ID or anonymously.  Either
+way the service provider's reputation is damaged if it
+cannot disprove the allegation.
+
+In general, the difficulty of anonymous credit is a good argument
+for making the payments as fine-grained as possible (eg digital postage), 
+instead of tallying up bills.  A trusted bank that knows the customer's 
+True Name, long term reputation, or co-signers can handle extensions 
+of credit to that customer for various purposes.  With such streamlined
+credit and postage there's no reason for most service providers 
+to be concerned about a customer's credit.

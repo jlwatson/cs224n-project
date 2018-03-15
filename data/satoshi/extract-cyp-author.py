@@ -18,6 +18,7 @@ REMOVE_PREFIX = set(s.lower() for s in [
     'Message-ID:',
     '>',
     "Hal Finney",
+    "Nick Szabo"
 ])
 
 REMOVE_LINES = set(s.lower() for s in [
@@ -27,6 +28,7 @@ REMOVE_LINES = set(s.lower() for s in [
     "74076.1041@compuserve.com",
     "-----BEGIN PGP SIGNED MESSAGE-----",
     "Hal",
+    "szabo@netcom.com"
 ])
 
 def process_email(email):

@@ -24,6 +24,7 @@ Jed McCaleb
 Nick Szabo
 - [x] https://unenumerated.blogspot.com/feeds/posts/default
 - [x] https://web.archive.org/web/20160930093313/http://szabo.best.vwh.net/
+- [x] Cypherpunks Mailing List - `szabo@netcom.com (Nick Szabo)`
 - [ ] https://twitter.com/NickSzabo4
 
 Dorian Nakamoto
@@ -31,6 +32,7 @@ Dorian Nakamoto
 
 David Mazieres
 - [ ] https://news.ycombinator.com/user?id=mazieres
+- [ ] Cypherpunks Mailing List - `David Mazieres <mazieres@pa.dec.com>`, `David Mazieres <dm@amsterdam.lcs.mit.edu>`
 
 Wei Dai
 - [ ] http://lesswrong.com/user/Wei_Dai/

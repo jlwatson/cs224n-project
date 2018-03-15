@@ -1,0 +1,21 @@
+Forwarded message:
+Date: Wed, 17 Nov 93 23:39:07 PST
+
+ 
+FYI: there is a mailing list in place where developers/designers
+are developing an Internet Mercantile Protocol.  This protocol
+will enable buy/sell transactions to be conducted over an 
+unsecure network, such as most of the Internet.  
+
+You can subscribe to the list by sending a request to 
+imp-interest-request@thumper.bellcore.com - archives are accessable
+via FTP on thumper.bellcore.com in /pub/devetzis/imp.  Minutes
+of the last BOF meeting are archived there as well as slides
+for one proposed IMP implementation.  While there has not been
+a ton of activity on this list recently, there are at least
+two groups hard at work putting finishing touches on some
+new proposals for the list to consider.
+
+Phil Trubey                   | Internet: ptrubey@shl.com
+Systemhouse Inc.              | Voice:    310-809-5491
+                              | Fax:      310-860-9668

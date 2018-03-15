@@ -1,0 +1,8 @@
+Peter Wayner:
+
+Is a one-way hash function or digital signature possible with the
+following property: signature verification doesn't just determine
+the boolean altered vs. pristine, but also shows the picture
+distance between the altered and original?  Forgery may often
+require an editing distance much greater than the error rate
+from media noise or lossy compression.

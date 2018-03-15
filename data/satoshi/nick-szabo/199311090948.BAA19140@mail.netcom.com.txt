@@ -1,0 +1,6 @@
+Tim May suggests we called the "Data Superhighway"
+
+
+In Unix file permissions 666 means the file is readable by 
+world.  Apropos for a panoptic net where encryption is banned
+or "Clipped".

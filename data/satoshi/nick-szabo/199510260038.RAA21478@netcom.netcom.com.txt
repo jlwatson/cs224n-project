@@ -1,0 +1,32 @@
+Darren New:
+
+This is a bad-case scenario, since it involves long delay and
+delivery of goods that, unlike information, have a nontrivial
+marginal cost to the merchant.  These both give the merchant
+incentive to skip the delivery step.  For this kind of business, 
+there are several possibilities, none of which  is mature enough
+to have actually been deployed yet (which is why ecash is currently 
+aimed at small, immediately delivered goods and services).
+
+* Escrow services, which take responsibility for delivery each
+way (and develop a public reputation for reliably doing this).
+This has the value that it still allows the parties to be mutually
+anonymous (although additional tools are needed to actually
+have strongly anonymous connections, the payment/delivery protocol 
+doesn't preclude it).
+* Ripped bill protocols might be able to substitute for escrows.
+(these are quite esoteric, but can again be hidden behind a nice
+metaphor).
+* Deal only with a jurisdictionally reachable merchant and hope the
+law is on your side (often not an available solution on the global 
+Internet, but usually assumed by identified payment schemes, so
+it's a reasonable fallback from that point of view).
+
+For smaller transactions with rapid delivery times, complaining 
+loudly and publicly on Usenet will soon put the business out of it.
+Receipts will give such complaints more credibility, and will also
+allow the clearing agent to credibly get involved.  (Obviously
+in these cases anonymity is lost for a particular transaction,
+but unlinkability with one's unchallenged transactions remains).
+Finally, in a few markets the value add of confidentiality is enough 
+to outweigh the risks for even large transactions.

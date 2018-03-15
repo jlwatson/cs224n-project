@@ -1,0 +1,7 @@
+This is a great example of a issue we don't need to agree on.
+The underlying cryptographic tools needed for private voting 
+and digital cash are practically the same.  Once the common tools 
+are written, each side can go finish off their own user interfaces, 
+one labelled "cash market" and the other "voting booth".
+
+So let's quit bickering and write those tools!

@@ -1,0 +1,16 @@
+HAHN@lds.loral.com:
+
+Sexual reproduction (aka string crossover) is the fundamental attribute 
+of GAs that distinguish them from hill-climbing algorithms; it has been in 
+all GAs from their invention.  One of original works on the subject is 
+now out in reprint: John Holland's _Adaptation in Natural and Artificial 
+Systems_, MIT Press.  
+
+Crossover doesn't allow magic teleportation directly to the
+needle in the search space haystack.  GA leaps over gaps where the 
+"crossover Hamming distance" is small, but the space need not be continuous.
+Cryptanalysis where one can gain clues, partial solutions, etc. and
+compose these into better solutions, might be amenable to GA.
+If you can say "solution A is better than solution B" with an 
+algorithm, it's a good candidate for solving with GA or GP (genetic 
+programming, which works on trees instead of strings).
