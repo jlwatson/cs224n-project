@@ -1,5 +1,3 @@
-
-
 I just sent this email to the biggest mining pool operators; I think creating
 a real market between users and miners to set transaction fees is a very high
 priority.  

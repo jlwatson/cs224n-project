@@ -1,5 +1,3 @@
-
-
 Very good point about the genesis block.  
   
 Unfortunately, I'm not exactly sure HOW to generate a valid genesis block; I

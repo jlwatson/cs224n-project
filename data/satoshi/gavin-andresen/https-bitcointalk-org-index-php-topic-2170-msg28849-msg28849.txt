@@ -1,32 +1,9 @@
-
-
-Quote from: AyKarsi on December 10, 2010, 07:26:10 AM
-
-How can I raise this as a bug?  
-
 You just did raise this as a potential bug, but you need to convince me that
 Bitcoin is not following the HTTP/1.1 spec, which says:  
   
-
-Quote
-
-HTTP/1.1 defines the sequence CR LF as the end-of-line marker for all protocol
-elements except the entity-body (see appendix 19.3 for tolerant applications).
-The end-of-line marker within an entity-body is defined by its associated
-media type, as described in section 3.7.  
-  
-CRLF = CR LF  
-
   
 ... and, for 'tolerant' applications:  
   
-
-Quote
-
-The line terminator for message-header fields is the sequence CRLF. However,
-we recommend that applications, when parsing such headers, recognize a single
-LF as a line terminator and ignore the leading CR.  
-
   
 What character(s) is JayRock putting between the headers and the body?  
 

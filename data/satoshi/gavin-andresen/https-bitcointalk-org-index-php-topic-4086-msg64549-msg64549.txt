@@ -1,11 +1,3 @@
-
-
-Quote from: ShadowOfHarbringer on March 12, 2011, 05:29:31 PM
-
-All serious institutions (like banks) never use floats for currency
-calculations because they know the dangers.  
-If we want to be seen as "serious", float is not an option.  
-
   
 You know, I was looking at the PayPal payment API yesterday, and $1.01 is sent
 as... 1.01  

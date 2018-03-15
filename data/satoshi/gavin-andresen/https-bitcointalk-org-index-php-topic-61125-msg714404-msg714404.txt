@@ -1,5 +1,3 @@
-
-
 I want to try to clear up two misconceptions:  
   
 1\. The original implementation of OP_EVAL was not "exploitable", but it did
@@ -7,21 +5,4 @@ have bugs.
   
 2\. The Feb. 1 deadline was explicitly designed to be a "soft" deadline; here
 is what BIP 16 says about it:  
-
-Quote
-
-To judge whether or not more than 50% of hashing power supports this BIP,
-miners are asked to upgrade their software and put the string "/P2SH/" in the
-input of the coinbase transaction for blocks that they create.  
-  
-On February 1, 2012, the block-chain will be examined to determine the number
-of blocks supporting pay-to-script-hash for the previous 7 days. If 550 or
-more contain "/P2SH/" in their coinbase, then all blocks with timestamps after
-15 Feb 2012, 00:00:00 GMT shall have their pay-to-script-hash transactions
-fully validated. Approximately 1,000 blocks are created in a week; 550 should,
-therefore, be approximately 55% of the network supporting the new feature.  
-  
- **If a majority of hashing power does not support the new validation rules,
-then rollout will be postponed (or rejected if it becomes clear that a
-majority will never be achieved).**
 

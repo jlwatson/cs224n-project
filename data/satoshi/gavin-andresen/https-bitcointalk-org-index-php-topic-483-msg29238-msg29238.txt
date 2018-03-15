@@ -1,11 +1,3 @@
-
-
-Quote from: playanaut on December 11, 2010, 07:59:12 PM
-
-So final question - is the designer or designers planning on implementing
-(into the core) a secure system, so none of this nonsense is a problem
-anymore?  
-
   
 I'm not the designer of Bitcoin (I am one of the developers), but I **have**
 been thinking a lot about what it will take to make it safe(r) for my grandma

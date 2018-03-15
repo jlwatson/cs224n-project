@@ -1,5 +1,3 @@
-
-
 Neither of those addresses are valid according to my bitcoind:  
   
 

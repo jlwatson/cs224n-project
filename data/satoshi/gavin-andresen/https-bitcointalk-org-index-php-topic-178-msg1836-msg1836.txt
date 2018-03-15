@@ -1,5 +1,3 @@
-
-
 There has been quite a lot of scholarly research on reputation system in the
 last 10 or 15 years; see
 http://scholar.google.com/scholar?q=reputation+system.  
@@ -10,15 +8,4 @@ Reputation Systems for Anonymous Networks
  _Elli Androulaki, Seung Geol Choi, Steven M. Bellovin, and Tal Malkin
 Department of Computer Science, Columbia University  
 {elli,sgchoi,smb,tal}@cs.columbia.edu_  
-
-Quote
-
- **Abstract.** We present a reputation scheme for a pseudonymous peer-to-peer
-(P2P) system in an anonymous network. Misbehavior is one of the biggest
-problems in pseudonymous P2P systems, where there is little incentive for
-proper behavior. In our scheme, using ecash for reputation points, the
-reputation of each user is closely related to his real identity rather than to
-his current pseudonym. Thus, our scheme allows an honest user to switch to a
-new pseudonym keeping his good reputation, while hindering a malicious user
-from erasing his trail of evil deeds with a new pseudonym.
 

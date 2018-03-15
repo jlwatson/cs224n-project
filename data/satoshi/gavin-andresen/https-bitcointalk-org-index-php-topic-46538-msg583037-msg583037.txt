@@ -1,14 +1,3 @@
-
-
-Quote from: gmaxwell on October 19, 2011, 12:47:53 PM
-
-There have been a number of proposals that would make this more safe to
-deploy, e.g. using a flag in the coinbase to perform a majority vote of
-hashpower to decide the height to enable the feature. Someone obviously needs
-to talk to some of the bigger miners and see if they have other concerns that
-need to be addressed but I don't see why a hashpower vote isn't sufficient,
-since the feature is non-forking.  
-
   
 I pulled a Satoshi and decided to implement OP_EVAL to make sure it would
 actually work.  

@@ -1,5 +1,3 @@
-
-
 The best way to understand reference implementation accounts is to think of
 bitcoins like real, physical coins.  
   

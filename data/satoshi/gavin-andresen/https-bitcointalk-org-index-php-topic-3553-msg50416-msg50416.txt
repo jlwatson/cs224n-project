@@ -1,5 +1,3 @@
-
-
 The linux binaries are built on Ubuntu 9.04; that's the earliest ubuntu that
 has all the required dependencies.  
   

@@ -1,5 +1,3 @@
-
-
 Half-baked thoughts on transaction relaying (I agree that it may become a
 major problem because there are no incentives to properly relay transactions
 right now):  

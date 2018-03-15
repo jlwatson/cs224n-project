@@ -1,5 +1,3 @@
-
-
 Auto-reset once a month... very interesting idea.  
   
 It'd make a mess of peoples' testnet wallets-- they'd be full of orphaned

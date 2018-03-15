@@ -1,5 +1,3 @@
-
-
 EITHER: requiring that the wallet be unlocked for the settxfee RPC call to
 succeed  
 OR: adding a new configuration option "-maxtxfee" (default: 0.01 maybe) that

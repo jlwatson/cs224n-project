@@ -1,5 +1,3 @@
-
-
 The plan is the same as before: EFF coins will be redistributed via the
 Bitcoin Faucet.  
   

@@ -1,5 +1,3 @@
-
-
 Normal send; this one was:  
   
 sendfrom Test1 mytzSq1rkXzPidP9tHvfhDuzXqDSSvvaCg 100  

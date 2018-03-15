@@ -1,5 +1,3 @@
-
-
 RE: 101 or 103 unused keys in the keypool: That's normal. Here's the sequence
 of events that causes it:  
   

@@ -1,5 +1,3 @@
-
-
 Bad peer code that drops the connection and refuses reconnection seems like a
 good denial-of-service prevention measure.  
   

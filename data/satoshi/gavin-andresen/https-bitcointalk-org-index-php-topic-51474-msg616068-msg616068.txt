@@ -1,5 +1,3 @@
-
-
 Code review and testing for the proposed fix is welcome:  
 https://github.com/gavinandresen/bitcoin-git/tree/encryptionbug  
   

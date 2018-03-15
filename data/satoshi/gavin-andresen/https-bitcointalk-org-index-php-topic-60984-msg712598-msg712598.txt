@@ -1,5 +1,3 @@
-
-
 Decentralized systems often settle into some kind of "power law distribution."  
   
 For example, there's no central authority determining how large cities all

@@ -1,13 +1,3 @@
-
-
-Quote from: retep on May 10, 2013, 06:48:32 AM
-
-The fact that usually it works because most of the outputs were recently
-created is incredibly dangerous. If the ratio of best case to worst case
-performance gets bad enough the attacker just has to come along with a block
-spending outputs that weren't recently created, or otherwise picked in a way
-where retrieval happens to be slow, to knock slower miners offline.  
-
   
 Who gets to decide how slow is too slow?  
   

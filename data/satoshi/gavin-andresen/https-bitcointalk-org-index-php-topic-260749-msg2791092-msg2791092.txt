@@ -1,10 +1,3 @@
-
-
-Quote from: hazek on July 23, 2013, 09:05:19 AM
-
-I set the topic as sticky for a while because I think that if anything needs
-extensive testing it's the software that handles our money.  
-
   
 I would much rather people help test individual pull requests or 'git HEAD'
 rather than "random collection of changes". Putting eleven unrelated changes

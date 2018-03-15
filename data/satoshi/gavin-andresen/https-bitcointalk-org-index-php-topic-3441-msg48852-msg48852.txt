@@ -1,11 +1,3 @@
-
-
-Quote from: casascius on February 14, 2011, 08:39:12 PM
-
-The only way grocery stores could get on the network would be to have some
-sort of "MYBITCOIN"-like intermediary that does all the transaction
-processing, most of which would have to happen off the block chain.  
-
   
 Right... so then the question is "will the MYBITCOIN-like intermediary be able
 to verify transactions quickly without opening themselves up to systematic

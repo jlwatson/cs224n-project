@@ -1,14 +1,3 @@
-
-
-Quote from: jgarzik on December 29, 2010, 10:50:00 PM
-
-I do not see any point in moving the discussion of _some_ bitcoin changes to a
-special place outside the forum. Discuss changes on the forum just like we've
-always done, regardless of whether that change is a proposal, a patch, or a
-pull request.  
-  
-The forum is perfectly adequate for discussions.  
-
   
 OK. Lets talk here.  
 

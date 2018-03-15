@@ -1,10 +1,3 @@
-
-
-Quote from: Xephan on August 13, 2011, 03:22:37 PM
-
-Interesting idea... time to write a bot script to check every 2 minutes with
-autoclick to beat indicasteve to it...  
-
   
 Really? You do realize that will just start an arms race with maxmint; he or
 she will write code to detect and ban bots, somebody will deploy bots via

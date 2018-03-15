@@ -1,9 +1,2 @@
-
-
-Quote from: Maged on November 16, 2011, 04:34:01 PM
-
-The SHA1SUMS.asc file in the 0.5 folder only has the hashes for the 0.4.1 rc
-files.  
-
 Fixed, thanks for finding it.  
 

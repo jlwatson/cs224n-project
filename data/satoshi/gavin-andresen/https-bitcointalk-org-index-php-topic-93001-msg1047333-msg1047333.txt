@@ -1,15 +1,3 @@
-
-
-Quote from: ribuck on July 22, 2012, 01:08:20 PM
-
-Here's a very straightforward non-centralised solution:  
-  
-The domain name belongs to whoever has submitted the lowest (i.e. most
-difficult-to-compute) hash for that name. Ownership changes if someone submits
-a lower (i.e. better) hash, but in that case there is a 90-day delay to give
-the original owner a chance to submit a better hash and keep ownership of
-their domain name.  
-
 That's a really great idea!  
   
 I think that's a type of all-pay auction; I wonder what an economist who's an

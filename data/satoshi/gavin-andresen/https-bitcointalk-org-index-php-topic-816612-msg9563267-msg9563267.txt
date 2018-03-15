@@ -1,10 +1,3 @@
-
-
-Quote from: odolvlobo on October 09, 2014, 08:49:56 PM
-
-If the block size is increased such that there is enough room for all
-transactions....  
-
   
 Please be more precise.  
   
@@ -13,36 +6,5 @@ blocks, up to the maximum block size limit.
   
 And quoting myself: (from my recent blog post):  
   
-
-Quote
-
-The argument is that keeping one-megabyte blocks will push up transaction
-fees, so as the block subsidy falls smaller blocks will make it more likely
-that fees will make up the difference and keep the network secure.  
-  
-The counter-argument is that bigger blocks allow more transactions, so even if
-each transaction pays a smaller fee, the total will be greater.  
-  
-I think that both of those arguments are wrong, because they are equating
-apples and oranges. The supply being rationed by a maximum block size is some
-number of bytes, which translates into a certain number of transactions. But
-the demand for blockchain security depends on the value and nature of the
-transaction; very large value transactions are typically secured by real-world
-contracts, long-established trust relationships, lawyers, and court systems.  
-  
-So there is no guarantee that future one-megabyte blocks will be full of high-
-fee million-dollar transactions; it is possible we would see blocks full of
-tiny-fee million dollar transactions, because Gringotts Bank will take the
-Bank of Elbonia to court if they double-spend some large value inter-bank-
-settlement transaction.  
-  
-There is no guarantee that future one-gigabyte blocks full of smaller
-transactions will generate enough fees to secure the blockchain, either.
-Transaction confirmation speed is important for most small-value transactions,
-so it is likely they will be secured using semi-trusted third parties who co-
-sign transactions and guarantee to never allow double-spending. And if they
-are secured against double-spending that way, there is little incentive for
-either the sender or recipient to include a transaction fee
-
   
 

@@ -1,10 +1,3 @@
-
-
-Quote from: xblitz on October 04, 2012, 09:01:56 PM
-
-Im trying to find the input address of a transaction but i can't seem to find
-out how.. anyone ?  
-
   
 Transactions do not have an input address.  
   

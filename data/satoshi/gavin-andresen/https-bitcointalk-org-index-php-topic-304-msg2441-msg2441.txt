@@ -1,5 +1,3 @@
-
-
 Transactions with "0 confirmations" are transactions that your client has
 seen, but haven't been put into a block yet.  
   

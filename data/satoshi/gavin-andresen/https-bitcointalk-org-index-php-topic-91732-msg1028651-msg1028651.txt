@@ -1,13 +1,3 @@
-
-
-Quote from: Serith on July 13, 2012, 05:47:12 PM
-
-I believe developers underestimate how transaction replacement feature is
-important, e.g. utilizing this proposal a business dealing with customers
-bitcoins wouldn't be required to hold private keys with a substantial balance
-and the Bitcoinica hacks (I stumbled on typing the word "hack" in plural)
-wouldn't have such devastating results.  
-
 Relevant recent IRC discussion: http://bitcoinstats.com/irc/bitcoin-
 dev/logs/2012/07/11/6#l3981048  
   

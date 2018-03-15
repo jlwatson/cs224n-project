@@ -1,11 +1,3 @@
-
-
-Quote from: kano on March 25, 2012, 05:49:38 AM
-
-As has been mentioned before and I mentioned in here recently (but got
-ignored), just going to address level is insufficient.  
-Selecting the source for a txn should be to transaction level.  
-
 See the raw transaction API I've been working on, and please help try to break
 it-- it needs more testing.  
   

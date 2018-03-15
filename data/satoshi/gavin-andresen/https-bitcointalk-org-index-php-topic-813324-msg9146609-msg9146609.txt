@@ -1,10 +1,3 @@
-
-
-Quote from: teukon on October 09, 2014, 09:46:18 PM
-
-Yeah, 40% of a 250 GB connection works out to about 23 MB depending on how you
-define month. May I ask what would happen regarding TOR?  
-
   
 Thanks for checking my math! I used 31-day months, since I assume that is how
 ISPs do the bandwidth cap.  

@@ -1,5 +1,3 @@
-
-
 I think we're seeing some people submitting lots of tiny, trivial commits --
 perhaps because they get more of the tipping pie.  
   

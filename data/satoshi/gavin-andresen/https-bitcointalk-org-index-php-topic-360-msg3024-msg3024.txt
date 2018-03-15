@@ -1,15 +1,3 @@
-
-
-Quote from: bdonlan on July 14, 2010, 10:37:56 PM
-
-As you can see, this tries to be more secure by hashing twice. However, this
-actually reduces security. To break pure SHA256, an attacker needs to find a
-d' such that SHA256(d') == SHA256(d), for a known d. This is also sufficient
-to break Hash(). However the attacker can also attack the outer layer of the
-hash, finding a d' such that SHA256(SHA256(d')) == SHA256(SHA256(d)), even
-though SHA256(d') != SHA256(d). As you can see, the double hashing here makes
-it _easier_ to break the hash!  
-
   
 If I understand correctly, you've got two chances to find a collision instead
 of one.  

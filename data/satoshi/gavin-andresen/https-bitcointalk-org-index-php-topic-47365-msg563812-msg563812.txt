@@ -1,5 +1,3 @@
-
-
 Good news: I'm just about to get a Bitcoin-Qt version 0.5 Release Candidate 1
 out, with a much-improved GUI.  
   

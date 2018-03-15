@@ -1,12 +1,5 @@
-
-
 ClearCoin requires 3 confirmations before coins are available to be released;
 the sender will see something like:  
-
-Quote
-
-Received: 0 (20.00 still waiting for confirmation)  
-
 ... while they're in the process of being confirmed.  
   
 I'll change the receiver's status page so it shows the amount awaiting

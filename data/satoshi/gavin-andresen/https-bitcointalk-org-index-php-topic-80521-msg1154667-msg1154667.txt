@@ -1,5 +1,3 @@
-
-
 Does valgrind really not work on Mountain Lion? Good reason for me not to
 upgrade... (runs great on Snow Leopard).  
 

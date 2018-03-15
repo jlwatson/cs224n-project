@@ -1,5 +1,3 @@
-
-
 I volunteered to implement this, and made good progress today. Satoshi: I
 should have patches for you tomorrow.  
   

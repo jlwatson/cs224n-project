@@ -1,5 +1,3 @@
-
-
 Run one instance normally. It'll listen for incoming bitcoin network
 connections on port 8333, rpc connections on port 8332, and connect to other
 nodes.  

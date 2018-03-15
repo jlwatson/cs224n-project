@@ -1,9 +1,3 @@
-
-
-Quote from: andrew on July 26, 2010, 03:49:50 PM
-
-Are you going to be working on a full client yourself?  
-
 I've been tempted... but no, I'm more interested in doing web-based Bitcoin
 apps, and extending the existing C++ implementation's JSON-RPC API is a whole
 lot less work than re-implementing the whole shebang.  

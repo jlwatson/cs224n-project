@@ -1,5 +1,3 @@
-
-
 Actually, falling asleep last night I realized what I proposed would be yet
 another variation on an 'anybody can claim' transaction (anybody can just
 choose an r1 that make r1 XOR hash_xor_r1 evaluate to a hash that they own).  

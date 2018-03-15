@@ -1,5 +1,3 @@
-
-
 What happens if:  
   
 \-- you dump a private key from bitcoin client 'A'  

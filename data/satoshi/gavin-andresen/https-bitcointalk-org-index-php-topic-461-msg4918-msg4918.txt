@@ -1,5 +1,3 @@
-
-
 I've implemented it so that all the command-line options can also be specified
 in the bitcoin.conf file.  
   

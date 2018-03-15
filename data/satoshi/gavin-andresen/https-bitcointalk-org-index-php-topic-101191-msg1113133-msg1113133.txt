@@ -1,18 +1,4 @@
-
-
-Quote from: Sunny King on August 17, 2012, 04:54:28 AM
-
-There are different ways of designing proof-of-stake. Some of the designs do
-not require collecting large number of signatures. Our design will be made
-public by the coming Sunday so in due time we welcome the crypto-
-currency/Bitcoin community to examine our design.  
-
 From the whitepaper:  
-
-Quote
-
-The block chain with highest total consumed coin age is chosen as main chain.
-
   
 I'd have to think about it a lot harder than I'm willing to right now to be
 absolutely sure, but that seems like a mistake to me.  

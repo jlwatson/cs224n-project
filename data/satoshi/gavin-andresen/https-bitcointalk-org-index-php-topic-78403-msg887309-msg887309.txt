@@ -1,5 +1,3 @@
-
-
 Miners won't switch to a 51% chain if it means they can't cash out the coins
 they're creating!  
   

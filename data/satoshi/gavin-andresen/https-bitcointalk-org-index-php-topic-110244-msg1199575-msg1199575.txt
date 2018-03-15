@@ -1,5 +1,3 @@
-
-
 Yes, mathematically approximately zilch.  
   
 ... unless the OpenSSL entropy-gathering code on your computer isn't working

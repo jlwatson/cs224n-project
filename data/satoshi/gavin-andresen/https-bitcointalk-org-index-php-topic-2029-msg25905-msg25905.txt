@@ -1,5 +1,3 @@
-
-
 I wrote this three years ago, and I'd still like to see something like it
 implemented. Now we've got Bitcoin, implementing it might be much easier; I'd
 love to see a bitcoin bbs/forum that uses these ideas to reward thoughtful,

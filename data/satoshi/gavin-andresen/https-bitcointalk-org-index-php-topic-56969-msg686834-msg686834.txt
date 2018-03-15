@@ -1,12 +1,3 @@
-
-
-Quote from: doublec on January 11, 2012, 11:24:49 PM
-
-I find this pretty scary. It may be "worse case" but when worse case happens
-by someone mining a single block and the result is a drop in the network hash
-rate by almost 50% and people lose money, that seems non-optimal. Depending on
-the make up of the pools that support it it could push one of them over 50%.  
-
   
 What percentage support by February 15'th would make you comfortable? As I
 said, if it is 55% from Feb 1 to Feb 15'th (or, worse, if it varies a lot in

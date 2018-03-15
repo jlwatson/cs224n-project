@@ -1,9 +1,2 @@
-
-
-Quote from: dansmith on November 04, 2012, 06:56:44 PM
-
-Gavin, could you kindly advise as to whether or not you upgraded macports'
-boost package between the releases of bitcoin 0.6.3 an 0.7?  
-
 Yes, I believe I did.  
 

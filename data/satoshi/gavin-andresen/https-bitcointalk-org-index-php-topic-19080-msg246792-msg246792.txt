@@ -1,21 +1,9 @@
-
-
-Quote from: trippy on June 19, 2011, 06:08:55 PM
-
-Since you aren't a cryptographer, why not just implement transactions with
-multiple signatures?  
-
 Because sending to a multiple-signature-required address requires a new
 standard transaction type, a new type of bitcoin address, and a protocol for
 Device 1 <-> Device 2 communication. More code means more possibility of bugs,
 so I was hoping there is a simpler solution.  
   
-And as I said in the original post, I wanted to start discussion:
-
-Quote
-
-and then point me to a FIPS standard that has it all figured out already...
-
-If the answer is "multiple signatures" then so be it.  
+And as I said in the original post, I wanted to start discussion: If the
+answer is "multiple signatures" then so be it.  
   
 

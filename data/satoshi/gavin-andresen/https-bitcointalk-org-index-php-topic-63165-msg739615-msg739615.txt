@@ -1,9 +1,3 @@
-
-
-Quote from: mcorlett on February 09, 2012, 10:32:07 AM
-
-Do these builds use a gitian-like build process?  
-
 Yes, thanks for reminding me: I just uploaded gitian signatures for the win32
 and linux 0.6rc1 builds to:  
 https://github.com/bitcoin/gitian.sigs  

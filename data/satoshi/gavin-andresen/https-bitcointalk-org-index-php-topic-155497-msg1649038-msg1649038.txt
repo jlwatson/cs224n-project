@@ -1,5 +1,3 @@
-
-
 Suggestion: instead of talking endlessly about possible attacks, try them out
 on the -testnet test network.  
   

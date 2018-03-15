@@ -1,13 +1,3 @@
-
-
-Quote from: theymos on October 03, 2012, 03:32:27 PM
-
-Requiring a 50 BTC deposit (or whatever) would be another way to prevent Sybil
-attacks. Perhaps this could be an alternative to giving out your identity.  
-  
-Another possibility would be to have one of several third-parties verify your
-identity and give you an anonymous "voting token" using blind signing.  
-
   
 50 BTC (or whatever) deposit, tied up for a minimum of a year (don't want
 somebody putting down 1,000 BTC deposits the day before a vote, voting 20

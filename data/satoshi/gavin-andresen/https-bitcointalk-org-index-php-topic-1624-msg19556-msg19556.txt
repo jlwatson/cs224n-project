@@ -1,5 +1,3 @@
-
-
 Looks good to me.  
   
 Try to connect then look at the end of bitcoin's debug.log; see if it is even

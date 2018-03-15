@@ -1,5 +1,3 @@
-
-
 That is wxWidgets' internationalization machinery complaining about...
 something (the catalog is probably the list of english strings -> other
 language strings).  

@@ -1,5 +1,3 @@
-
-
 Difficulty on the -testnet is annoyingly high. I propose resetting the
 -testnet with a new genesis block, and changing the -testnet rules for
 difficulty adjustment as follows:  

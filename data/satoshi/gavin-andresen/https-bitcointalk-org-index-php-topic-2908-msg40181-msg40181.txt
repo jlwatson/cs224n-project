@@ -1,5 +1,3 @@
-
-
 Because the first byte in a bitcoin address is a version number, and "version
 0" is encoded as a "1" in the bitcoin address "base58 encoding" (because 0 is
 too easy to confuse with capital-o).  

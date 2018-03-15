@@ -1,17 +1,7 @@
-
-
 RE: can't wrap your head around what the Bitcoin Foundation does:  
   
 It is in big letters at the new https://bitcoinfoundation.org/ home page:  
   
-
-Quote
-
-WHAT WE DO:  
-Fund development for Bitcoin  
-Core and common-good  
-bitcoin infrastructure
-
   
 See the blog post from last month on the Foundation's "pivot" to focus on
 development and infrastructure:  

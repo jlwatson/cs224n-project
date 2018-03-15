@@ -1,9 +1,3 @@
-
-
-Quote from: bbking2010 on December 18, 2010, 07:33:02 PM
-
-So what's all the stuff about NAT translations, etc. Brief summary.  
-
 Short answer: you don't have to worry about it.  
   
 Long answer: if you **want** to worry about being as network-bandwidth-

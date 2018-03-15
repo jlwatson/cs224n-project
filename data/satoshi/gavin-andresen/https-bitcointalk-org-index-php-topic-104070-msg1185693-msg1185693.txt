@@ -1,5 +1,3 @@
-
-
 BCDataStream.write takes binary data, so add a .decode('hex_codec') to the big
 long hex string:  
 

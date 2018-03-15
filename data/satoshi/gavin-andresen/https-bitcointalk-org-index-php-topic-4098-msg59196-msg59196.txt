@@ -1,10 +1,3 @@
-
-
-Quote from: theymos on March 03, 2011, 08:43:47 PM
-
-Couldn't peers theoretically need to send 500 MB in response to a getblocks
-request? The limit should perhaps be MAX_BLOCK_SIZE*500.  
-
   
 500MB per connection times 100 connections would be 50 GB. That re-opens the
 door to a memory exhaustion denial-of-service attack, which is the problem

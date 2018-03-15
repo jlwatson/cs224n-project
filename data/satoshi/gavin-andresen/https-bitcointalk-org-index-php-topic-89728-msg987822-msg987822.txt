@@ -1,5 +1,3 @@
-
-
 When I tell people I work on Bitcoin full-time, a somewhat common reaction is
 "Really? I thought Bitcoin was finished, what do you work on?"  
   

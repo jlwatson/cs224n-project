@@ -1,5 +1,3 @@
-
-
 It should be pretty easy to use the raw transactions API to implement a "send
 all".  
   

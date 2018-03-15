@@ -1,5 +1,3 @@
-
-
 An example of how bitcoin works on a bit-level: Ok, I'll give it a shot.  
   
 Here's what the current best-block (according to my bitcoin client) looks

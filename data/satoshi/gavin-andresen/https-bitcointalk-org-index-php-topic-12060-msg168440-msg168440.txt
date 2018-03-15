@@ -1,5 +1,3 @@
-
-
 A huge block-chain re-org on the testnet confused the heck out of the testnet
 faucet (leaving it with lots of 0-confirmation, used-to-be-valid sends that
 made it think it had a negative balance).  

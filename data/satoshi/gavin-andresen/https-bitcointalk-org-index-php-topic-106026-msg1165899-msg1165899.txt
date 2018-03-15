@@ -1,10 +1,3 @@
-
-
-Quote from: Sergio_Demian_Lerner on September 06, 2012, 09:31:07 PM
-
-So miners should change the algorithm to choose the right transaction when a
-double-spend is detected: choose the one that pays more fees.  
-
 Good point. I assume that miners will choose to mine the version of a
 transaction with the highest fee-per-kilobyte, since that will give them the
 best profit, but actually changing the code to implement that policy has been
@@ -14,19 +7,6 @@ To fight transaction spam, I think the relaying logic will need to get
 smarter, too. A large, expensive-to-verify double-spend should be way down on
 the "stuff that should be relayed when there is enough bandwidth" list.  
   
-
-Quote
-
-(B) How to allow a honest user to replace a transaction because of, for
-example, low fees specified in the first one?  
-  
-You have to mark transaction in the pool to be automatically removed after
-some time, with some type of priority queue structure to allow fast search and
-removal of old transactions.  
-  
-Marks in prevouts are lightweight, and easy to wipe out. Just erase them all
-every 10 minutes.  
-
   
 That's a different issue, and a new feature. I think the best way to implement
 that feature is "child pays for parent" (see

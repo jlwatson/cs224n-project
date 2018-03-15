@@ -1,5 +1,3 @@
-
-
 I just checked in a minor bug fix / cleanup.  
   
 The bug: boolean options/flags were being treated inconsistently. If you

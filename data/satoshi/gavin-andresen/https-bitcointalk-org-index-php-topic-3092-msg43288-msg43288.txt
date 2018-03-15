@@ -1,13 +1,3 @@
-
-
-Quote from: jon_smark on February 01, 2011, 08:42:17 PM
-
-Here's my use case: suppose I have a potentially large number of users making
-transfers directed towards me (each using a separate account). My application
-will need to periodically poll the bitcoin daemon to find out what new
-transfers have been confirmed, so it can update the user's account/assets on
-the application side.  
-
   
 Two thoughts:  
   

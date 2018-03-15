@@ -1,5 +1,3 @@
-
-
 Release candidate 3 binaries are up; major differences from rc2 are:  
   
 1) Fix the IPv6 RPC problem (you will get a warning in debug.log, that is

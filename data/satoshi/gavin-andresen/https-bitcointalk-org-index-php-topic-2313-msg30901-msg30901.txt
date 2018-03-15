@@ -1,5 +1,3 @@
-
-
 Weird. Are you on Linux or Mac? If you are, grab my bitcointools and run  
 ./dbdump.py --wallet  
   

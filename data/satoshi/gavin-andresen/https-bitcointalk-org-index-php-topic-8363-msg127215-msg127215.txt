@@ -1,5 +1,3 @@
-
-
 In the long run, block size will NOT be the bottleneck, so it will NOT
 determine the marginal cost of a transaction.  
   

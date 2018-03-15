@@ -1,5 +1,3 @@
-
-
 Everybody is looking for:  
   
 h = f(x), where h < TARGET  

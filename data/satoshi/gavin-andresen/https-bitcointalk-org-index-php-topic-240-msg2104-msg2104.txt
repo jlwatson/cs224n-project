@@ -1,5 +1,3 @@
-
-
 It's a bad idea to try to break the "in-production" bitcoin network.  
   
 If anybody is starting serious work on either extending Bitcoin or developing

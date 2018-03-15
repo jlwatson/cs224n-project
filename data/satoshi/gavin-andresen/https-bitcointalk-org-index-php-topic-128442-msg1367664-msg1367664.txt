@@ -1,5 +1,3 @@
-
-
 For those of you not subscribed to bitcoin-development@lists.sourceforge.net :  
   
 We've been having a productive discussion of a proposal for a simple payment

@@ -1,5 +1,3 @@
-
-
 Anybody else already working on tests?  
   
 Steve: mind if I pull out just the boost-unit-test bits of your tree?  

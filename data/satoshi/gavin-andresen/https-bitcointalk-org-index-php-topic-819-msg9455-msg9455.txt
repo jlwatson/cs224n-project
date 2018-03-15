@@ -1,5 +1,3 @@
-
-
 I'm better at thinking through things using specific examples, so bear with
 me: let's use Mars as the extreme case, and say I'm on Mars and want to
 double-spend some bitcoins.  

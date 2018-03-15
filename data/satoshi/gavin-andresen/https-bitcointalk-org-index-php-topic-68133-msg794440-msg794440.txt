@@ -1,5 +1,3 @@
-
-
 Testnet is healthier now, although you'll need to run latest 'git HEAD' to be
 on the right chain. Thanks to everybody who threw some hashing power at it to
 outrun the bad, old-rules chains.  

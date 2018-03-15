@@ -1,12 +1,3 @@
-
-
-Quote from: Mike Hearn on April 11, 2012, 05:53:58 PM
-
-Please let's just try and use the tools Satoshi left us with rather than
-constantly trying to change them. I'm strongly against trying to "improve"
-parts of the protocol that we've barely even begun to understand yet, like
-nLockTime and tx replacement.  
-
 Some of the big mining pool operators are already going their own way,
 experimenting with new types of transactions (e.g. deepbit and eligius), so I
 suspect the answer to your question "Can 'we' please hold off..." is "No."  

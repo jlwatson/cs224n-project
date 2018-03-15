@@ -1,5 +1,3 @@
-
-
 https://github.com/Lekensteyn/pacemaker is a little SSL server to test SSL
 clients for heartbleed vulnerability.  
   

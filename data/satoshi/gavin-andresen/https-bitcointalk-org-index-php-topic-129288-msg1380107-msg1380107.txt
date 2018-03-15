@@ -1,5 +1,3 @@
-
-
 The main reason for this release is to fix a nasty bug in the RPC 'move'
 command that was introduced in 0.7.0.  
   

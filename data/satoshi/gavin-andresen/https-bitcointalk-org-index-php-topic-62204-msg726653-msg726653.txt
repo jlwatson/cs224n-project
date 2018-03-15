@@ -1,5 +1,3 @@
-
-
 RE: lightweight versus heavyweight clients:  
   
 First: lightweight clients (like Multibit) that don't store the entire

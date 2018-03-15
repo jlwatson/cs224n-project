@@ -1,5 +1,3 @@
-
-
 ribuck: The Faucet is currently giving out between 5 and 6 BTC per day
 (100-200 payouts per day).  
   

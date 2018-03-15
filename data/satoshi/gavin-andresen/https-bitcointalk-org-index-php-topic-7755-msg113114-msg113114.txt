@@ -1,5 +1,3 @@
-
-
 Fine, the entire transaction except for:  
 "The scripts for all transaction inputs in txCopy are set to empty scripts"  
   

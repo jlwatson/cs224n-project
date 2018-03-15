@@ -1,5 +1,3 @@
-
-
 I think there's no such thing a a "typical" settings file on Linux!  
   
 I just did a quick survey of 20 .conf files in /etc on my debian system, and

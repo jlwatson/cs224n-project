@@ -1,5 +1,3 @@
-
-
 I can't see how it could work. If I knew my LunaCoin balance was going to be
 reset at midnight and it is 1 minute to midnight, I'd be crazy to accept them.
 Reason backwards from there and I don't see how you could possibly have a

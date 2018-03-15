@@ -1,5 +1,3 @@
-
-
 I think consolidating everything under one domain is dangerous and against the
 decentralized nature of the Bitcoin project.  
 

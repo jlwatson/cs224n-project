@@ -1,13 +1,3 @@
-
-
-Quote from: grich on April 19, 2012, 05:46:54 PM
-
-I have a question  
-Why we have "block/transaction versions" if we don't use it? There was a good
-moment to increment version number and later use it in such way: if Miner gets
-a "strange" block with increased version number -- it is a signal for him to
-check for new soft. We could have avoided many of lost orphaned blocks  
-
 We should have, but "we" didn't think of that in time.  
   
 I've been working on a "how to do it better next time" document:  

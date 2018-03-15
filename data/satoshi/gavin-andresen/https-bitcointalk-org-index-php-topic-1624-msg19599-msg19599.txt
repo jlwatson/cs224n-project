@@ -1,5 +1,3 @@
-
-
 Does it work if you (temporarily) set rpcallowip=* ?  
   
 And are you SURE you're running a bitcoind that supports rpcallowip? Run

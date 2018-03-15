@@ -1,5 +1,3 @@
-
-
 RE: how many free keys are in the pool:  
   
 By default, there are at least 100 free keys in the pool, always.  

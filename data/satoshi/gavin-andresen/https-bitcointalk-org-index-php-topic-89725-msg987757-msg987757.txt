@@ -1,5 +1,3 @@
-
-
 My work on the 'raw transaction' API has me thinking hard about the
 gettransaction/getblock RPC calls. I want it to be easy for the information
 returned by those calls to be used by the new createrawtx/etc API calls.  

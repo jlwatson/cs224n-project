@@ -1,5 +1,3 @@
-
-
 I was actually thinking a return address would be a good use for the
 arbitrary-message-to-receiver OP_DROP transaction type.  
   

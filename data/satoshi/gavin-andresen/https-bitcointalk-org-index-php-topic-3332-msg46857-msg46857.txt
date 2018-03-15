@@ -1,5 +1,3 @@
-
-
 I figure each bitcoin transaction is currently costing about $US 0.0003
 (three-hundredths of a cent)  
   

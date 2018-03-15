@@ -1,9 +1,3 @@
-
-
-Quote from: JoelKatz on September 23, 2011, 11:05:23 PM
-
-(If there was nothing CPUs do best, why would be using them?)  
-
   
 Well, CPUs are easy-to-program general purpose hardware that can do lots of
 things (and several things at the same time, in these days of multicore CPUs)

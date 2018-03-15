@@ -1,13 +1,3 @@
-
-
-Quote from: bitlotto on June 17, 2011, 09:53:47 PM
-
-The biggest thing non programmers can do is TEST IT! One bug was found a
-little while ago were some coins were lost with the encryption. **The more
-testers there is testing the encryption, the faster they can release it!** Try
-moving money around with a few coins, pretty much try to get the client to not
-work as expected!  
-
 +1  
   
 If you can, please help test, it really helps. Patch for wallet encryption is

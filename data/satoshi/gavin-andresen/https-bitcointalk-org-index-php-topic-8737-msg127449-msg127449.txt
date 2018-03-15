@@ -1,5 +1,3 @@
-
-
 My advice: don't reinvent the wheel. There are already standards and
 organizations dedicated to security practices surrounding currency, both
 physical and virtual, and financial transactions. It doesn't really matter if

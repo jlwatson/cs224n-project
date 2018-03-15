@@ -1,13 +1,3 @@
-
-
-Quote from: odolvlobo on November 12, 2014, 01:17:20 AM
-
-Please correct me if I'm wrong, but isn't this an issue right now? Assuming
-that mining is profitable (i.e. mining revenue is greater than cost), a 51%
-attack would essentially cost nothing because the attacker would receive all
-the mining revenue (which exceeds his cost because we assume that mining is
-profitable). This is independent of subsidy in relation to transaction fees.  
-
   
 You are wrong.  
   

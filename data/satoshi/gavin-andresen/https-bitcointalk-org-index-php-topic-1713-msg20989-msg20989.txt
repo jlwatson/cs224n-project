@@ -1,5 +1,3 @@
-
-
 Computers could get 1 billion times faster and Bitcoin's hashing and elliptic
 curve digital signatures will still be "safe."  
   

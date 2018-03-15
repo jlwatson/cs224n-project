@@ -1,5 +1,3 @@
-
-
 Okey dokey, first I think **nobody should use an easy-to-memorize
 brainwallet** for anything more than experimenting. I predict we'll start
 seeing very unhappy brainwallet users reporting huge losses sooner or later.  

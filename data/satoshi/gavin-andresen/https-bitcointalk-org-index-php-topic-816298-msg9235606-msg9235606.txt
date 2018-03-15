@@ -1,11 +1,3 @@
-
-
-Quote from: CIYAM on October 17, 2014, 03:10:05 AM
-
-...basically the blocks just contain the txids - which can be matched with
-those in each nodes memory pool (assuming they are present - they may need to
-"request" txs if they don't already know about them).  
-
   
 I think you're reinventing Matt's fast block relay code. See:  
 https://bitcoinfoundation.org/2014/08/a-bitcoin-backbone/  

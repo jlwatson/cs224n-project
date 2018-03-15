@@ -1,11 +1,3 @@
-
-
-Quote from: genjix on October 07, 2011, 03:06:58 AM
-
-If you're looking for a good library/framework, then Twisted is a really good
-choice. It's a piece of battle-hardened software and used by several big
-vendors (like Facebook, Rackspace .etc).  
-
   
 Mmmm.... Twisted....  
   

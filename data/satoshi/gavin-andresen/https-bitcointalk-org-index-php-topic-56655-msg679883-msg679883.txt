@@ -1,13 +1,3 @@
-
-
-Quote from: marked on January 07, 2012, 10:20:23 PM
-
-Out of curiosity why isn't there a mechanism to write two wallet.dats
-atomically (both have to succeed), one to the [%APPDATA%|$user]\bitcoin
-directory, and another to a usb key or alternate drive?  
-  
-or even to -dumpwallet after each transaction on the client?  
-
   
 Because we don't have infinite programming resources, and we've been busy
 working on low-level stuff that will lead to solutions that will fix the "my

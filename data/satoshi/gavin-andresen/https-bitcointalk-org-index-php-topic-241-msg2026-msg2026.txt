@@ -1,5 +1,3 @@
-
-
 Whatever mechanism is chosen, it had better not significantly slow down the
 network or client unless strong anonymity is required/requested.  
   

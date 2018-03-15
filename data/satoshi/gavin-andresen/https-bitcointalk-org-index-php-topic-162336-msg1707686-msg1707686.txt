@@ -1,11 +1,3 @@
-
-
-Quote from: matt4054 on March 31, 2013, 12:04:07 AM
-
-I have been developing myself over the last 20 years on AmigaOS, MS-DOS,
-Windows NT, Linux, Mac OS X, iOS and Android platforms (in more or less that
-order...)  
-
   
 Nice! We need a good Mac OSX developer, do you know C++? Are you willing to
 learn Qt?  

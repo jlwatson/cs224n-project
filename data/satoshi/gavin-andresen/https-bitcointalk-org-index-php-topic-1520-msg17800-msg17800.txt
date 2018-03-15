@@ -1,5 +1,3 @@
-
-
 Ruby (or your Ruby JSON-RPC library) isn't setting the Authorization: HTTP
 header from the username:password in the URL.  
   

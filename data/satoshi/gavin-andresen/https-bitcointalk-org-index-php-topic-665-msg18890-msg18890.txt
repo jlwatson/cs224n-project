@@ -1,5 +1,3 @@
-
-
 An impromptu brainstorm this morning in IRC chat (thanks everybody!) helped me
 think through a few issues for an "accounts" API.  
   

@@ -1,14 +1,5 @@
-
-
 Thought it might be interesting for y'all to see the 'raw interview':  
   
-
-Quote
-
-1) What do you see as the primary strengths or advantages of Bitcoin; why is
-it needed? Put another way, for an individual or a business just coming across
-it, why would they chose to use it?  
-
 Bitcoin is an open, international payment network. More and more businesses
 are choosing to accept bitcoins because it is an easy way to allow anybody,
 anywhere in the world, to pay for products or services-- even people from
@@ -31,26 +22,12 @@ money; merchants are starting to pass on some of the savings (much lower
 transaction fees, no "chargebacks") to customers who pay using bitcoin.  
   
   
-
-Quote
-
-2) Bitcoin isn't the first or the only digital currency, but it has rapidly
-become the most prominent. What accounts for that?  
-
 People trust that it isn't going to disappear, because there is no central
 organization that can either go bankrupt or be forced to shut down by a
 government. Currencies are all about trust, and more people are beginning to
 trust this decentralized currency that is supported by everybody who uses it.  
   
   
-
-Quote
-
-3) A number of people I have spoken with dismiss it as little more than a
-speculative fad, akin to the Dutch tulip mania or a dot com stock, and cite
-the recent run-up and collapse as evidence. What is your reaction to that
-argument?  
-
 I still tell people "only invest time or money into Bitcoin that you can
 afford to lose." I expect more drama and chaos and price fluctuations in the
 short-term. The current price bubble was driven by lots of attention in the
@@ -66,13 +43,6 @@ bitcoin transaction across their Great Firewall).
 But in the long-term, I expect that to settle down, and the value of a bitcoin
 to become much more stable.  
   
-
-Quote
-
-4) Would Bitcoin need to have a more stable valuation for it to become a more
-widely accepted alternate currency? What else might be needed for it to grow
-beyond a niche?  
-
 Actually, the valuation isn't a big barrier to adoption. There are already
 services that help companies manage the currency exchange risk (you can peg
 your prices to dollars, your customers can pay the equivalent amount in

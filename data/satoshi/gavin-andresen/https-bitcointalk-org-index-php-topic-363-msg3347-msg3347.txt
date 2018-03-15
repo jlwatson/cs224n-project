@@ -1,5 +1,3 @@
-
-
 I know EricJ2190 tried out the test network today-- Eric (and anybody else who
 might have compiled and run) you need to git pull, recompile, and nuke your
 ~/.bitcoinTEST directory. The client was generating blocks WAY too fast.  

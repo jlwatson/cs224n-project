@@ -1,5 +1,3 @@
-
-
 I've been struggling recently to keep ClearCoin moving forward while I also
 try to keep core bitcoin on track, and with all the demands on my time I can't
 spend the time on ClearCoin to make it a project that I'm really proud of.  

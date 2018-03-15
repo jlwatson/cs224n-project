@@ -1,5 +1,3 @@
-
-
 blk0001.dat stores all of the transaction data for the block chain.  
   
 So to "inject" data into it you transmit valid transactions that are then

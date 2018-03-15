@@ -1,5 +1,3 @@
-
-
 RE: cryptocards instead of an online service:  
   
 Seems like we aught to be able to come up with a protocol that works over the

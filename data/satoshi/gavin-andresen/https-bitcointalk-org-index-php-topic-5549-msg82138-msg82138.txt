@@ -1,5 +1,3 @@
-
-
 Limit-per-ip-range is an interesting idea.  
   
 I'd like to give the current not-yet-released solution a month or two to work

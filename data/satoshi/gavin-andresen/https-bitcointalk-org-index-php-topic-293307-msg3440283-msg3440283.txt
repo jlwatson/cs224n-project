@@ -1,10 +1,3 @@
-
-
-Quote from: HanSolo on October 30, 2013, 04:10:21 AM
-
-Request: publish checksums of official builds to at least one, and preferably
-several, webpages authenticated by HTTPS.  
-
   
 Good idea. I nominate you to be the Official Checksum Publishing Person.
 

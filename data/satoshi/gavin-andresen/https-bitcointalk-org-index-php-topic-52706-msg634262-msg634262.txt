@@ -1,16 +1,4 @@
-
-
-Quote from: ThePiachu on November 29, 2011, 02:10:35 PM
-
-Hmm, isn't that redundant with the pk_script length right before it?  
-
 No.  
-
-Quote
-
-Also, I can't find a reference to that script op in the specification of tx
-https://en.bitcoin.it/wiki/Protocol_specification#tx .  
-
 See: https://en.bitcoin.it/wiki/Script  
 Opcodes 1-75 push data onto the stack.
 

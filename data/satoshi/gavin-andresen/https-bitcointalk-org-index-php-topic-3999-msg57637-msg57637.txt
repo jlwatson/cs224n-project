@@ -1,12 +1,3 @@
-
-
-Quote from: FreeMoney on March 01, 2011, 07:43:52 PM
-
-Would it help if you restructured that way payments were sent so that it
-wouldn't always be new coins from the change of the last transaction? Like
-maybe break your stash into a bunch of .05 addresses and let them age and then
-you can send them out with no change?  
-
   
 No. The only way to "break your stash" is to create transactions that are
 broadcast; splitting your wallet into lots of small transactions makes the

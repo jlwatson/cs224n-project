@@ -1,5 +1,3 @@
-
-
 The only security risk with free bitcoin services is that they'll remember
 your IP address and associate it with the millibitcoins that they give you.  
   

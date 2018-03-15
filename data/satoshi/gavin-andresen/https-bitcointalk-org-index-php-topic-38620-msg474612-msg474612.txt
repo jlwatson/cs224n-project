@@ -1,11 +1,3 @@
-
-
-Quote from: makomk on August 22, 2011, 12:39:52 PM
-
-You're talking about the developers intentionally revoking previously-valid
-transactions by central fiat - and they can't just revoke the ones involved in
-the double-spend, they have to revoke all of them.  
-
   
 Why couldn't the-collective-we only revoke the double-spends (and subsequent
 txns that depended on them) ?  

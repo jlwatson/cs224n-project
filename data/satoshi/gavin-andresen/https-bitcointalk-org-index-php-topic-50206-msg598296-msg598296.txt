@@ -1,5 +1,3 @@
-
-
 I was just thinking today about resetting the -testnet with new rules to make
 it more stable/useful...  
   

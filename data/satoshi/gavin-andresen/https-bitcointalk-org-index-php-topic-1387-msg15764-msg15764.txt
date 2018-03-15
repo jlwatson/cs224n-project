@@ -1,5 +1,3 @@
-
-
 Attached is a little patch that expands the getnewaddress RPC command so it
 can try to generate a "vanity" bitcoin address.  
 E.g. I told it to generate an address with "gavin" in it, and it chugged away

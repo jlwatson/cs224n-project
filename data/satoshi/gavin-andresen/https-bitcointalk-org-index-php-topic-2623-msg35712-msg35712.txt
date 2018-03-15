@@ -1,10 +1,3 @@
-
-
-Quote from: chmod755 on January 05, 2011, 03:26:22 PM
-
-It is also possible to use Launchpad for Mac/Windows software (e.g. this
-project is Win-Only: https://launchpad.net/lilregcleaner)  
-
   
 ... but Launchpad won't **build** (run the compiler on one of their machines)
 Mac/Windows software, or did I miss that feature when I looked at the website?  

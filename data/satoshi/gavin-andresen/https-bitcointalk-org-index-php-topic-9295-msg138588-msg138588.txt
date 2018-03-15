@@ -1,5 +1,3 @@
-
-
 If processing old transactions becomes expensive, then miners will start
 charging transaction fees to include them in their blocks.  
   

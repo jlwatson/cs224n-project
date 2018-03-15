@@ -1,23 +1,7 @@
-
-
-Quote from: brucewagner on December 04, 2010, 08:16:04 PM
-
-1\. Why not have both? The market will decide which one people choose to use
-most. One might be used more at first, then later as browsers are updated,
-site owners might later switch to the other. But.... Are they mutually
-exclusive??  
-
   
 Nope, the hard parts aren't parsing the bitcoin: url string (or the file), and
 once parsed the same code could do the actual request.  
   
-
-Quote
-
-2\. What's stopping us? Let's just implement them BOTH immediately. We
-obviously have the knowledge and expertise to get the job done. Let's just get
-the job done already.  
-
   
 The hard part: what happens if I click on a pay-using-bitcoin link and I don't
 happen to have bitcoin running right now?  

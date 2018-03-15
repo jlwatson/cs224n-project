@@ -1,5 +1,3 @@
-
-
 My turn to be the newbie: Is there a high-level discussion of the economics of
 NameCoin or DNS in general somewhere? What is the scare resource that needs to
 have a price attached?  

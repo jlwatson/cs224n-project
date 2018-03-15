@@ -1,5 +1,3 @@
-
-
 Designing and implementing user-friendly wallet backup for the GUI bitcoin
 seems like it would be a great little project for somebody who knows C++ and
 knows, or is willing to learn, wxWidgets programming. The non-GUI code already

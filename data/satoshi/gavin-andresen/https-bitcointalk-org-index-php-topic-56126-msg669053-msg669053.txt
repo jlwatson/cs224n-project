@@ -1,5 +1,3 @@
-
-
 Wallet.dat files don't get corrupted very often; blkindex.dat or addr.dat
 corruption is much more common (which makes sense, they are much larger and
 changes all the time as new blocks are added/indexed).  

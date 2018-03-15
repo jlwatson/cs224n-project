@@ -1,5 +1,3 @@
-
-
 RE: listing bitcoind separately on the clients page: good idea. casascius, do
 you know (or are you willing to teach yourself) enough git to submit a pull
 request to the https://github.com/bitcoin/bitcoin.org repository?  

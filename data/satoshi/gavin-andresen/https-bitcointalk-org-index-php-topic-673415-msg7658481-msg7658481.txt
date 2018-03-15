@@ -1,5 +1,3 @@
-
-
 It seems to me having miners share 'near-miss' blocks with each other (and the
 rest of the world) does several good things.  
   

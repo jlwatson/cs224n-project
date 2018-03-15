@@ -1,5 +1,3 @@
-
-
 The Bitcoin Faucet ran out of coins this morning, so I took that as a sign
 that I should make some changes that I've been meaning to make for a while.  
   

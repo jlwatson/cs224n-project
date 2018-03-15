@@ -1,13 +1,3 @@
-
-
-Quote from: Crowex on July 09, 2014, 02:45:23 PM
-
-Can't somebody build a web-service that detects when transactions enter it's
-memory pool, looks at the transactions fees, and then examines when these
-transactions enter the block-chain and analyses all of this data to provide a
-more accurate estimate of required fees which would be based on real market
-data? Maybe have some sort of api that wallets could use? Or does this exist?  
-
   
 That is exactly what the 'smartfee' code in the reference implementation does.  
   

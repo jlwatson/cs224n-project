@@ -1,5 +1,3 @@
-
-
 So about two hours ago (8AM EST, 24 July) I see a big spike in traffic to the
 Bitcoin Faucet:  
   

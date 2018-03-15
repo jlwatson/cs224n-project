@@ -1,14 +1,3 @@
-
-
-Quote from: dacoinminster on March 09, 2011, 06:04:10 PM
-
-1) bitcoind - I think this might be the same as configuring bitcoin to run as
-server. I believe it uses an RPC API to run transactions from the command
-line.  
-Pros: Everything stays on my server  
-Cons: I have to find a server that will let me compile and install this,
-rather than just some PHP/MySQL farm in the cloud, which is what I prefer  
-
   
 You can run the front-end on one server and the back-end on another (and
 communicate via JSON-RPC over HTTPS). That's how I'm able to run the Faucet

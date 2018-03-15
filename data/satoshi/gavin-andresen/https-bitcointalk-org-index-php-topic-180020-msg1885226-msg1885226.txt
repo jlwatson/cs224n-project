@@ -1,18 +1,7 @@
-
-
 Howdy Adam!  
   
 I'm going to quote myself, this is from an email I wrote yesterday to somebody
 else concerned about chip/mining centralization:  
-
-Quote
-
-I think it will go through waves of centralization/decentralization. I can
-imagine bitcoin-mining electric hot water heaters installed in homes all
-across the world, installed by thousands of private companies that split the
-profits with homeowners. And thousands of die-hard do-it-youself-ers who buy
-the hardware and cut out the middleman.  
-
   
 In the very long run, mining will be dominated by your cost of electricity and
 your ability to put the excess heat generated to good use.  

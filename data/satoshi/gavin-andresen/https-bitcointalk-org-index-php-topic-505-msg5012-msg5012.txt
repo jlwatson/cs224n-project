@@ -1,5 +1,3 @@
-
-
 I think this won't work because there is not a one-to-one relationship between
 "unspent transactions" and public keys.  
   

@@ -1,10 +1,3 @@
-
-
-Quote from: HELP.org on October 04, 2014, 03:09:26 PM
-
-That could be a feature of the wallet: do not to display any unconfirmed (or
-even confirmed) transaction less than x  
-
   
 That **is** a feature of Bitcoin-Qt. Unconfirmed dust transactions don't enter
 the memory pool, so they are not relayed, not included in blocks being mined,

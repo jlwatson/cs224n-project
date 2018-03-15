@@ -1,9 +1,3 @@
-
-
-Quote from: bitcool on March 26, 2012, 12:13:51 AM
-
-To Be(lieve) Or Not To Be, That Is The Question  
-
 About 20 minutes until the deadline... I expect to hear some very loud
 complaining about "I wasted a bunch of time generating orphan blocks why
 didn't you WARN me!" in the next few days. This is not an elaborate April

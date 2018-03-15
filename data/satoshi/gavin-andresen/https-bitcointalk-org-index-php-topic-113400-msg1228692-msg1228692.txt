@@ -1,5 +1,3 @@
-
-
 Thanks for all the positive, constructive feedback (those of you who gave
 positive, constructive feedback). I'm not going to address conspiracy
 theories, mostly because I'm not seeing most of them because of who I've got
@@ -31,12 +29,6 @@ RE: bylaws:
   
 In the spirit of openness, the Foundation bylaws are on github:  
 https://github.com/pmlaw/The-Bitcoin-Foundation-Legal-Repo/tree/master/Bylaws  
-
-Quote
-
-These bylaws are distributed under the MIT License and may be forked for use
-in creating any new member-driven nonprofit corporation or for any other use.
-
   
 Creating forums or mailing lists where Foundation members can communicate is
 on the very short-term TODO list.  

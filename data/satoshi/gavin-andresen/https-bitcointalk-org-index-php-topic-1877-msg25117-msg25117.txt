@@ -1,5 +1,3 @@
-
-
 So... 8 years ago some bittorrent folks came up with the magnet: URI scheme.  
 And yet I don't run across many magnet links as I browse the web.  
   

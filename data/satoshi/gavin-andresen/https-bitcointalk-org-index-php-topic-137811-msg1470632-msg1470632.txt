@@ -1,5 +1,3 @@
-
-
 I started working through a GUI design for secure multi-device wallets a
 couple months ago:  
 https://moqups.com/gavinandresen/no8mzUDB/p:afbbfb850  

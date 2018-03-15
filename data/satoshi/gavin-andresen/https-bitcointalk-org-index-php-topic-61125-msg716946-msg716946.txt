@@ -1,12 +1,3 @@
-
-
-Quote from: westkybitcoins on January 27, 2012, 04:57:10 PM
-
-I'm curious to know how thoroughly these proposals have been tested. That
-might go a long way toward swaying opinion. I would imagine having a public
-alt-coin for the sole purpose of implementing one proposal or the other and
-seeing how easy it is to break could be a great proving ground.  
-
 Testing is actually one of the reasons I don't like BIP 17; it is harder to
 test, because it is much easier to steal BIP-17 transactions if the network
 hasn't yet upgraded (Luke has had to test BIP 17 on the main network instead

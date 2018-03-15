@@ -1,5 +1,3 @@
-
-
 This bitcoind address validator is a subclass of the Django forms.CharField
 class, but could easily be adapted to other frameworks or to be standalone
 code.  

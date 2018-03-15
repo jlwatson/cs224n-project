@@ -1,6 +1,4 @@
-
-
-I think Dev&Tech == generic technical discussion, then sub-forums for
+I think Dev&Tech; == generic technical discussion, then sub-forums for
 discussion of development of the popular clients makes sense (including
 'Reference Client (Bitcoin-Qt/bitcoind)' ). And a catch-all for any not-yet-
 popular (or used-to-be-popular) clients.  

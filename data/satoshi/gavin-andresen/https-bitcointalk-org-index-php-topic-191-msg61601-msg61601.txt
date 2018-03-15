@@ -1,5 +1,3 @@
-
-
 RE: changing things now "just in case" :  
   
 No, I think it would be dumb to switch hashing algorithms or public/private

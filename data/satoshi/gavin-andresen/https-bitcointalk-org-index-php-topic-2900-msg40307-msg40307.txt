@@ -1,5 +1,3 @@
-
-
 Just to be sure: "removed all bitcoin data" means you removed and reinstalled
 bitcoin.exe ?  
   

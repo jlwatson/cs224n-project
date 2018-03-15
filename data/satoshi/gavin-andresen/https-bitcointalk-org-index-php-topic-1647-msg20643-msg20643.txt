@@ -1,11 +1,3 @@
-
-
-Quote from: ShadowOfHarbringer on November 08, 2010, 01:21:47 AM
-
-I think we want bitcoin to be stable before all else, so if somebody wants to
-use different chain or different network, perhaps simply a forked client
-should be made for that.  
-
   
 The test network (run bitcoin with the -testnet flag) is a different block
 chain, implemented so that the two chains never get confused. If anybody wants

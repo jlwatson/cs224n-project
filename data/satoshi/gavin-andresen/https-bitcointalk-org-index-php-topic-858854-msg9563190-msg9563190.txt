@@ -1,4 +1,2 @@
-
-
 See https://bitcoinfoundation.org/2014/10/a-scalability-roadmap/
 

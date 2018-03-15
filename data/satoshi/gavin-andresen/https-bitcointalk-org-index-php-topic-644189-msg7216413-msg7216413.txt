@@ -1,5 +1,3 @@
-
-
 New 'estimatefee' and 'estimatepriority' RPC commands were just pulled into
 Bitcoin Core.  
   

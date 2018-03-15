@@ -1,5 +1,3 @@
-
-
 The windows setup.exe is signed, as is the Mac .app bundle. The executables
 inside them are not signed (I can't think of a good reason to sign them, it
 would not increase download security at all).  

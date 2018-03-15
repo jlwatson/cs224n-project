@@ -1,12 +1,3 @@
-
-
-Quote from: Mionione on July 12, 2010, 03:05:44 PM
-
-if i send many 0.00000001 BC using a friend node that take no fee (or that
-send fee back to me).  
-  
-Will the friend node spread all the transactions over the network?  
-
   
 The fee is paid to whoever generates the block that the transactions are in,
 and that's random.  

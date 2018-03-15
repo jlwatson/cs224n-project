@@ -1,5 +1,3 @@
-
-
 Optimizing the accounts code to add a berkeley db index table that indexed
 wallet transactions by account, and that cached account balances (and
 invalidated or updated the cache on receive/send) shouldn't be terribly hard

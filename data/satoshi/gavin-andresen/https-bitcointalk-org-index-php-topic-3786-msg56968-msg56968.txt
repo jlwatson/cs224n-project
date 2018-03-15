@@ -1,5 +1,3 @@
-
-
 It was LC_NUMERIC, I bet... (I'd just set LANG and unset the rest and assumed
 they'd all get picked up; internationalizing C++ applications is something I
 know very little about).  

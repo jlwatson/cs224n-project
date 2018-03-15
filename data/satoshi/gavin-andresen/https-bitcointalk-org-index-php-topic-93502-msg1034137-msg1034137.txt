@@ -1,9 +1,3 @@
-
-
-Quote from: 2112 on July 16, 2012, 02:58:10 PM
-
-In a bank if you deposit X coins you can withdraw at most X.  
-
 My bank must be weird, they let me withdraw more than X and let me carry a
 negative balance for a little while (a service they charge for).  
   

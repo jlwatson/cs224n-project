@@ -1,26 +1,4 @@
-
-
-Quote from: mikegogulski on November 28, 2010, 09:08:30 PM
-
-@Gavin: I don't see the sense of a Bitcoin MIME type. A URI scheme describes a
-_resource_. A MIME type binds a _document type_ to a handler. Implementing a
-"click to send Bitcoins" capability using a MIME type would require that the
-website on which the payment link was embedded send a new document to the
-client browser. Seems needlessly complicated to me.  
-
 From the previous thread:  
-
-Quote
-
-But a bitcoin: URI has problems, too:  
-1\. It is hard to implement-- every browser has a different way of registering
-protocol handlers.  
-2\. If you don't have the protocol handler installed, clicking on the link
-doesn't give you any help on what to do to make it work. (try it here)  
-3\. Looks like some software (like this forum) don't like bitcoin URIs: Donate
-to the Faucet (that URI is bitcoin:15VjRaDX9zpbA8LVnbrCAFzrVzN7ixHNsC, the
-forum software is truncating it and adding http://).  
-
   
 Implementing something that won't even work on our own forums would be a bad
 idea, in my humble opinion.  

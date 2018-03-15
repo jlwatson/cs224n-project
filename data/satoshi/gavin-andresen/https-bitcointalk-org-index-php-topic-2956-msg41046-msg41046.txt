@@ -1,5 +1,3 @@
-
-
 getbalance '*' 1  
   
 ... will do what you want in the next version of bitcoin. I need people to

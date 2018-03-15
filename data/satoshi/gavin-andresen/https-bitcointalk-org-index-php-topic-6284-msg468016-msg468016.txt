@@ -1,18 +1,3 @@
-
-
-Quote from: jtimon on August 19, 2011, 01:53:56 PM
-
-Quote from: DiamondPlus on August 19, 2011, 01:47:54 PM
-
-It doesn't make sense as long as people still follow the rule of "build off of
-whichever version of a block you see first", but if some people stop doing
-that then some possibilities open up.  
-
-  
-I think this is not true.  
-I think the rule is: "hash on top of the longest chain (measured in work, not
-in blocks)".  
-
   
 Yes, but if two blocks are found with the same difficulty then they are
 considered equal work-wise (even if one has a smaller hash value-- the "Bits"

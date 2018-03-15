@@ -1,5 +1,3 @@
-
-
 If bitcoin thinks the connection is not allowed, then it just ignores the
 connection attempt-- nothing is written to debug.log. That's probably the
 right thing to do-- otherwise somebody malicious could try to fill up your

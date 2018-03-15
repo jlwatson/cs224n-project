@@ -1,5 +1,3 @@
-
-
 Would it be good enough if I volunteered to write a little perl or python or
 php or bash script that reads the passphrase from a file descriptor and then
 posts the right JSON-HTTP request?  
@@ -7,9 +5,4 @@ posts the right JSON-HTTP request?
 If the consensus is to teach bitcoind to read arguments from file descriptors,
 somebody please figure out if there's a standard for how other unix apps do
 that. Here's what curl does:  
-
-Quote
-
-If you start the data with the letter @, the rest should be a file name to
-read the data from, or - if you want curl to read the data from stdin.
 

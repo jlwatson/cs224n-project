@@ -1,13 +1,3 @@
-
-
-Quote
-
-Code:
-
-openssl enc -aes256 -in /dev/shm/wallet.dat -out $dir/wallet.dat.aes256 -pass
-pass:$passw  
-rm -f $dir/wallet.dat  
-
   
 That really aught to be openssl .. && rm -f ...  
 ... or maybe something more complicated to make sure the wallet

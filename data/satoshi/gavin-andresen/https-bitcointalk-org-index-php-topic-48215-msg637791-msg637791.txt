@@ -1,9 +1,3 @@
-
-
-Quote from: etotheipi on December 01, 2011, 05:22:38 AM
-
-Is the  BIP on github the most up-to-date one for 0011?  
-
 I think the version on the bitcoin wiki ( https://en.bitcoin.it/wiki/BIP_0011
 ) is a little more up-to-date, but you should check with genjix, he's the BIP-
 meister.  

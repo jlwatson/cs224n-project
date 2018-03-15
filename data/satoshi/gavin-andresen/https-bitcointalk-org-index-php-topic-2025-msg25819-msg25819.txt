@@ -1,8 +1,6 @@
-
-
 The "accounts" feature (to replace "labels") is done for now: listtransactions
-and gettransaction are implemented, and move, sendfrom, and getbalance
-<account> are enabled.  
+and gettransaction are implemented, and move, sendfrom, and getbalance  are
+enabled.  
   
 This should make implementing web services much easier; you can assign each
 customer their own 'account' and rely on bitcoin to keep track of exactly how

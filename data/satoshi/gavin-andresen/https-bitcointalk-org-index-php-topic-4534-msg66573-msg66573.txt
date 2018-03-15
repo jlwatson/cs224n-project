@@ -1,5 +1,3 @@
-
-
 Very nice!  
   
 The 'sig opcount <= 2' rule for tx relaying is slated to change with the

@@ -1,11 +1,3 @@
-
-
-Quote from: Goonie on January 23, 2011, 02:29:26 PM
-
-I have Bitcoin (GUI version) running (and mining) on two machines, but can
-obviously only forward port 8333 to one of those.  
-What implications does this have for the machine without incoming connections?  
-
   
 It will have only 8 (outgoing) connections.  
   
@@ -16,14 +8,6 @@ tiny bit more time working on an out-of-date block chain, and will be a teeny-
 tiny bit more likely to lose "announce a new block" races. But I bet the
 effects are so small you'd never notice them.  
   
-
-Quote
-
-Will it be able to "find" coins while mining?  
-Will it be able to receive coins by transactions (more precisely: will
-received coins be displayed without my intervention)?  
-Will the answers be any different for "bitcoind"?  
-
   
 Yes and yes and no.  
 

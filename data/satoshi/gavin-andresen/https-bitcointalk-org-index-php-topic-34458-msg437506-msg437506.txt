@@ -1,5 +1,3 @@
-
-
 Alternative algorithms for accepting deep block-chain re-orgs sound like a
 research project to me. Before changing something that critical I would like
 to see simulations of how different re-org policies behave under different

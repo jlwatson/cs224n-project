@@ -1,9 +1,3 @@
-
-
-Quote from: w8ks6 on February 19, 2011, 03:28:18 PM
-
-Appears to work well, but i still get the wxWidgets debug alert on Win7x64  
-
   
 Did you get a debug alert with bitcoin 0.3.19 or earlier?  
 And could you post a screen snapshot (or, even better, file an issue at

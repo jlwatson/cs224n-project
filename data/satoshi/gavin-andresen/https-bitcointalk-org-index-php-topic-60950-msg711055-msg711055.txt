@@ -1,13 +1,3 @@
-
-
-Quote from: jetmine on January 24, 2012, 12:04:02 PM
-
-1) Will the implementation break compatibility with old solo mining clients?  
-  
-I assume that when someone is solo mining and producing blocks with an old
-client, he will just not include the new transactions but everything else
-works as before.
-
   
 Yes. Old solo mining clients will produce perfectly valid blocks, unless
 they've been hacked to mine "non-standard" transactions.  
@@ -30,14 +20,6 @@ longer block-chain split. If you do the math, that's not as easy as it sounds
 (if p2sh support is at 80%, you'd have to knock out 60% of the supporting
 nodes-- 20% of the original network would support, 20% wouldn't...).  
   
-
-Quote
-
-2) If, as a solo miner with an old client, compiled from source, wanted to
-vote in favor or against the P2SH, what changes exactly would I have to do to
-the source? ...This question is strictly about adding the vote cast, nothing
-else. What change(s) are necessary for that?  
-
   
 Don't do that, please. "Voting" with your coinbase should mean you actually do
 the extra validation required by p2sh, otherwise you're saying you support a

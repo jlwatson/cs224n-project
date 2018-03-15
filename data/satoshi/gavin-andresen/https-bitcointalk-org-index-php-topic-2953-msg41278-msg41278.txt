@@ -1,9 +1,3 @@
-
-
-Quote from: lzsaver on January 24, 2011, 06:55:18 PM
-
-Will be _-rescan_ option in GUI?  
-
   
 No. Unless you're changing your wallet outside of bitcoin, rescanning isn't
 necessary.  

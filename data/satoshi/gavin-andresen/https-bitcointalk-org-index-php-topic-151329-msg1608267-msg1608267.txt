@@ -1,12 +1,3 @@
-
-
-Quote from: deepceleron on March 10, 2013, 06:24:05 PM
-
-Yes, the thing you didn't consider is that if I am a new user and fire up my
-brand new install of Bitcoin in five years, I'm being paid nothing for having
-to download 10GB of blockchain even with pruned transactions, and might just
-give up. Blockchain bloat has a higher price.  
-
   
 Sigh.  
   

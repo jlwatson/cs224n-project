@@ -1,5 +1,3 @@
-
-
 Great idea!  
   
 If implemented, it would probably make sense to create a little protocol for

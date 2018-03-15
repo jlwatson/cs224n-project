@@ -1,5 +1,3 @@
-
-
 0.3.20.1 -maxsendbuffer was too small for the initial block download-- you
 were probably just unlucky and connected to a 0.3.20.1 node. Connect to
 somebody running either 0.3.20.2 or an earlier release and you won't run into

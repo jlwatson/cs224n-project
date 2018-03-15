@@ -1,5 +1,3 @@
-
-
 RE: hippich XML/JSON:  
 XML ain't gonna happen, and I think JSON is overkill for this. Using the same
 format as the bitcoin.conf file is the right answer, I think (easy to

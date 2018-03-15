@@ -1,11 +1,3 @@
-
-
-Quote from: ByteCoin on August 23, 2011, 10:42:08 PM
-
-The unfortunate thing about this construction is that the emergency key c,
-kept offline and hopefully never used is likely to be constant over a very
-long period of time. This results in a dramatic loss of transaction anonymity.  
-
   
 Clients could make c the base for a deterministic key; derive a series of keys
 from c, and use them in subsequent transactions. (given full public key for c,

@@ -1,14 +1,3 @@
-
-
-Quote from: Hal on March 05, 2011, 09:29:52 PM
-
-Quote from: gavinandresen on March 05, 2011, 06:09:41 PM
-
-design/implement a secure DNS-like "map string to bitcoin address" system (so
-I can send bitcoins to "gavin@acm.org")  
-
-This might be nice but I don't see it as a prerequisite for 1.0.  
-
   
 I suppose if we figure out how to make click-to-pay work for both the "I'm
 using an online wallet service" and the "I'm using the client" cases, then

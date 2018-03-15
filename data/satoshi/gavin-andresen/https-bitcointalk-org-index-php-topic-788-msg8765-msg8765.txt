@@ -1,21 +1,3 @@
-
-
-Quote from: davidonpda on August 11, 2010, 04:19:43 PM
-
-Quote from: gavinandresen on August 11, 2010, 04:10:56 PM
-
-\+ require some proof-of-work as part of the client-to-client connection
-process (helps prevent 'Sybil' attacks).  
-
-  
-Isn't that a brilliant idea? Like hashcash?  
-  
-You would be required to hash the string of the transaction, with a proof of
-work, that would say, take 5 seconds to calculate on a modern PC. Checking the
-POW just like in bitcoin would be easy and very quick for the receiving
-machines, but would stop a flood attack of random data without the attacker
-having limitless CPU power.  
-
   
 I was actually thinking of a minute or three of proof-of-work on initial
 connection, not when submitting a transaction, but requiring some proof-of-

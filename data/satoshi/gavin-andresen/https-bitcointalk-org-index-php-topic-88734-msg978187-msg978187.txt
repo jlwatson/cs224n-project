@@ -1,5 +1,3 @@
-
-
 Before you copy the blk* files, you must run with the -detachdb option and
 make sure you shutdown bitcoin and wait for it to exit completely. With 0.6.2,
 we change the default from "take a long time to shut down, but leave

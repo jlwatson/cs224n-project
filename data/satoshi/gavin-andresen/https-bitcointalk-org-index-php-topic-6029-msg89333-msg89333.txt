@@ -1,10 +1,3 @@
-
-
-Quote from: Rena on April 18, 2011, 06:27:46 AM
-
-Hmm, both of those rely on Unix shell commands and redirection. I was hoping
-for something like a PID file..  
-
   
 I pulled a patch that makes Linux/Mac bitcoin/bitcoind write a bitcoind.pid
 file when started with the -daemon switch (and erases it on shutdown).  

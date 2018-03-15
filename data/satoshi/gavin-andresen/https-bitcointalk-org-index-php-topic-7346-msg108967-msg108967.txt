@@ -1,9 +1,3 @@
-
-
-Quote from: hippich on May 06, 2011, 02:29:41 PM
-
-BTW, can someone explain in layman words where from priority is defined?  
-
   
 Priority is a function of how many bitcoins are involved in the transaction
 (more is higher priority), the size (in bytes) of the transaction (smaller is

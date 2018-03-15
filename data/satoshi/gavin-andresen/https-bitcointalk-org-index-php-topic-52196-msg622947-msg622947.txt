@@ -1,5 +1,3 @@
-
-
 I had grand plans to make this the center of a Linux-powered multimedia
 center... but after doing nothing with it for a couple of months I think I
 just won't ever have the time.  

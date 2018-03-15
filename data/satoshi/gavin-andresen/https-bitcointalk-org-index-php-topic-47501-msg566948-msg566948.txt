@@ -1,5 +1,3 @@
-
-
 This forum is for "Technical discussion about Satoshi's Bitcoin client and the
 Bitcoin network in general. No third-party sites/clients..."  
   

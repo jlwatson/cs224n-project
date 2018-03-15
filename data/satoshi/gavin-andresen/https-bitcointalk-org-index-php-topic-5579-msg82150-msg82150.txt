@@ -1,9 +1,3 @@
-
-
-Quote from: slush on April 08, 2011, 05:09:02 PM
-
-Or somebody have access to hundreds google accounts...  
-
   
 Hundreds of google accounts AND hundreds of IP addresses (the Faucet does
 still check IP address). And the patience to solve hundreds of CAPTCHAs...  

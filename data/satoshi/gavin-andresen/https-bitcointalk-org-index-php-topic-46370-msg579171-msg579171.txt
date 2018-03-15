@@ -1,10 +1,3 @@
-
-
-Quote from: Steve on October 17, 2011, 01:37:11 PM
-
-Gavin, have you abandoned any effort to utilize Stefan's bitcoinjs/nodejs
-stuff for this testing framework?  
-
   
 I never started with bitcoinjs/nodejs, because I'm not a JavaScript programmer
 (and I'm too busy to take the time to learn).  

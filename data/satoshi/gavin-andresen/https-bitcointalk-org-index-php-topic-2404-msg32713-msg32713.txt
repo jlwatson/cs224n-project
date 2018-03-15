@@ -1,10 +1,3 @@
-
-
-Quote from: davout on December 23, 2010, 09:56:32 AM
-
-Yea, that particular edge case makes it pretty hard to track payments and map
-the transactions to database records  
-
   
 If you expect a one-to-one relationship between transactions and bitcoin
 addresses, then yes, a multisend will be a problem for you.  

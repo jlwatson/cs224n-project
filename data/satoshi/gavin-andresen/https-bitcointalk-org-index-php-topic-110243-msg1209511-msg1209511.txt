@@ -1,5 +1,3 @@
-
-
 Update, 22 Sept: Still looking for a fix for OSX 10.5 users. If you are
 running 10.5, you should not upgrade yet.  
 

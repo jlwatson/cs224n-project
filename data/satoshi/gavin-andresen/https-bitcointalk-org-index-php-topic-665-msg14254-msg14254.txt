@@ -1,5 +1,3 @@
-
-
 The "label" mechanism (setlabel / getreceivedbylabel) is supposed to meet this
 need, but only solves part of the problem.  
   

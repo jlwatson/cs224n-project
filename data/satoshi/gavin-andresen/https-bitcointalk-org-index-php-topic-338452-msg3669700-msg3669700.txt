@@ -1,5 +1,3 @@
-
-
 It looks like maybe some pools have reacted; the average block size is going
 up:  
 http://www.quandl.com/BCHAIN-Blockchain/AVBLS-Bitcoin-Average-Block-Size  

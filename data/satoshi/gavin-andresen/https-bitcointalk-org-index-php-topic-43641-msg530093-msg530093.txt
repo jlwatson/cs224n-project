@@ -1,12 +1,3 @@
-
-
-Quote from: Minsc on September 17, 2011, 12:18:02 AM
-
-What would happen if someone goes and constantly generates new addresses as
-some kind of attack on the network? Would they eventually usurp most possible
-network addresses or get some other person's address and potentially usurp
-their payments?  
-
   
 No.  
   

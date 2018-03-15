@@ -1,11 +1,3 @@
-
-
-Quote from: creighto on May 17, 2011, 09:43:59 PM
-
-There is an economic incentive for a for profit miner to exclude free
-transactions, but not an economic incentive for a miner to exclude a low fee
-paying transaction so long as there remains room in the block.  
-
 People keep saying that, but it is simply not true.  
   
 With a given number of "front-end" CPUs checking ECDSA transaction signatures,

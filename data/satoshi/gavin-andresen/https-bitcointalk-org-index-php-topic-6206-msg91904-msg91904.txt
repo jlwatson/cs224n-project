@@ -1,12 +1,3 @@
-
-
-Quote from: xf2_org on April 22, 2011, 12:15:26 AM
-
-This hasn't been a problem for paypal or other payment APIs already deployed
-in the field.  
-  
-Anything else violates the Principle of Least Surprise.  
-
   
 +1  
   

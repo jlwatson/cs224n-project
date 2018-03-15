@@ -1,5 +1,3 @@
-
-
 I was working on user-defined checkpoints today-- command-line/bitcoin.conf
 (and maybe a RPC call) that just says "Add this block hash at this height as a
 checkpoint."  

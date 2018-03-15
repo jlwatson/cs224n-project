@@ -1,5 +1,3 @@
-
-
 Half-baked thoughts on the O(N) problem:  
   
 So, we've got O(T) transactions that have to get verified.  

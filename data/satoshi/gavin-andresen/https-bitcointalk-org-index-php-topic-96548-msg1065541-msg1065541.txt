@@ -1,5 +1,3 @@
-
-
 Thoughts:  
   
 We need better authorization and authentication for payments. See

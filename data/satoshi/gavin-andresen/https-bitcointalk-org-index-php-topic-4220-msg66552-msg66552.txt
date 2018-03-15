@@ -1,10 +1,3 @@
-
-
-Quote from: ByteCoin on March 17, 2011, 12:23:44 AM
-
-You CAN encode a message in a currently accepted transaction using the
-broadband subliminal channel inherent to DSA (and ECDSA).  
-
   
 Googling for 'ECDSA broadband subliminal channel' to figure out what the heck
 you're talking about...  

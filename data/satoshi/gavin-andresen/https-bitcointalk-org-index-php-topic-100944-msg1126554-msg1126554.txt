@@ -1,13 +1,3 @@
-
-
-Quote from: CIYAM Pty. Ltd. on August 23, 2012, 07:42:40 AM
-
-... the implementation could have easily been written to use a previously
-"labelled" address as the only input address for a "sendfrom" without changing
-the _purpose_ at all. I assume the reason it wasn't done this way was to keep
-the pseudo-anonymity as strong as possible (which is something completely
-unlike the way any normal accounting works).  
-
   
 No, the main reason isn't anonymity the reason is so transferring bitcoins
 between accounts using 'move' doesn't require a blockchain transaction.  

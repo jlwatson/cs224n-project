@@ -1,13 +1,3 @@
-
-
-Quote from: bitlotto on May 08, 2011, 11:52:15 PM
-
-This has got me thinking. When transactions occur the coins get "broken up" if
-needed to make the payment with some change sent back to you. Wouldn't that
-mean that slowly the coins will get broken up smaller and smaller with time
-causing the kb for the transaction to go up, making the data required for
-transactions to slowly go up?  
-
   
 They tend to get put back together when you send larger payments.  
   

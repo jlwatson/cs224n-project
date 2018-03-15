@@ -1,5 +1,3 @@
-
-
 I have several partly-formed thoughts.  
   
 First, on "is there REALLY a problem" -- I think Ed Felten makes a good

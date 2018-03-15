@@ -1,5 +1,3 @@
-
-
 Okey dokey... so how do fees work in Ethereum?  
   
 Or do you have some other clever distributed way of preventing flood-the-

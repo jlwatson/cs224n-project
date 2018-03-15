@@ -1,13 +1,3 @@
-
-
-Quote from: jgarzik on August 13, 2010, 08:13:30 PM
-
-What happens when we desire to return additional information, beyond tx-id?  
-  
-For the sake of future compatibility, it seems like the flag should present a
-choice between returning (a) just the current 'sent', or (b) a JSON map
-containing tx-id, and perhaps other things.  
-
 A 'gettransaction tx_id' API call is on my short list.  
   
 What do other folks think; should sendtoaddress .... true return just the

@@ -1,5 +1,3 @@
-
-
 Very-low-priority transactions **will** get dropped by peers, because they
 look like "spam" transactions and network bandwidth is not free.  
   

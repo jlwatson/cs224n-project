@@ -1,15 +1,3 @@
-
-
-Quote from: Mike Hearn on August 26, 2012, 01:38:41 PM
-
-What I meant is I go and find an output on the chain that the un-upgraded
-merchant will see as a NOP/always-valid. Then I send him a transaction that
-connects to it and then a regular old-style output that uses the address the
-merchant gave me. I find the merchants IP address (maybe the node is running
-on the web server) and send them the transaction. They "verify" it and
-discover the input script satisfies the output, which causes them to believe
-that they received money.  
-
 Right, that was one of the lessons learned from BIP16-- transactions redeeming
 non-standard inputs aught to be treated as non-standard. And they are, as of
 v0.6 (I think, I'm really good at forgetting when changes were introduced).  

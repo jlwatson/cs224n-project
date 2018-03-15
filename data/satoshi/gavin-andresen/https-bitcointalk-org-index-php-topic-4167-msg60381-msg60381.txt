@@ -1,10 +1,3 @@
-
-
-Quote from: riush on March 05, 2011, 05:40:48 PM
-
-\- tag these minor releases in git, too  
-\- sign tags with gpg (git tag -s -u <email> <tag>)  
-
   
 The tag is v0.3.20.2, and it is signed by my (gavinandresen@gmail.com) gpg
 key.  

@@ -1,11 +1,3 @@
-
-
-Quote from: davout on March 17, 2015, 12:48:18 PM
-
-Gavin gets it wrong. Big deal.  
-You know, there's a reason in business, why it's usually not the code-monkeys
-who get to make strategic decisions.  
-
 Are you this annoying in person, or just online?  
   
 I spent last week talking to some of the largest Bitcoin businesses (much
@@ -16,14 +8,6 @@ The poll in this thread says people support it by a three-to-one margin.
   
 It is going to happen sooner or later. I want it to happen sooner because Very
 Bad Things will happen if we get to 100% full 1MB blocks:  
-
-Quote
-
-At 100% we're up at a huge 7744 seconds (more than 2 hours)! If the network
-were ever to reach this 100% level, though, the problems would be much worse
-as 10% of all transactions would still not have received a confirmation after
-22800 seconds (6.3 hours).
-
 http://hashingit.com/analysis/34-bitcoin-traffic-bulletin  
   
 I'm busy writing benchmarks, finding bugs in current code, and generally

@@ -1,11 +1,3 @@
-
-
-Quote from: RHorning on January 07, 2011, 12:03:49 PM
-
-I think it would be to a great advantage to everybody involved if we all
-worked together rather than having this accomplished as a bunch of different
-and separate efforts.  
-
   
 Good idea. I vote for the new wiki as the right spot, with the Discussion
 pages there as the place to bring up issues with the documentation/etc.  
@@ -13,14 +5,6 @@ pages there as the place to bring up issues with the documentation/etc.
 I'll put a pointer to the new wiki at the beginning of my bitcointools
 NOTES.txt.  
   
-
-Quote
-
-More significantly, I would like to get a forum or some place where we as a
-community can intelligently debate and discuss the internal workings of the
-software and specifically do either a "cleanup" of the protocol or to
-rationally make changes to the overall protocol that can be beneficial.  
-
   
 Do we need a separate forum specifically for network-related stuff? Seems to
 me the Development forum here is the right place for those kinds of

@@ -1,5 +1,3 @@
-
-
 Split from the press hits topic:  
   
 The only "skeleton key" I have is the private key for alert messages, that

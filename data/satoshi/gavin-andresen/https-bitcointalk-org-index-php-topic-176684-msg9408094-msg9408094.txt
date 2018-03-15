@@ -1,11 +1,3 @@
-
-
-Quote from: Meni Rosenfeld on October 31, 2014, 06:16:25 AM
-
-And from this, we derive how we should fund this cost using tx fees. We want
-to keep tx fees artificially high, so that the total cost of mining is high,
-so that the network is secure.  
-
   
 How do you imagine you will be able to keep transaction fees artificially
 high?  

@@ -1,5 +1,3 @@
-
-
 So code up a prototype:  
   
 \+ Implement code that computes and publishes 'balance blocks' and 'balance

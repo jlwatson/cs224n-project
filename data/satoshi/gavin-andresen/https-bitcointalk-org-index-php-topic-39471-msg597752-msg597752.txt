@@ -1,5 +1,3 @@
-
-
 RE: BIP 0010 : Cool!  
   
 Suggestion: if we're going to borrow PGP's file format, then we should be as

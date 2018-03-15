@@ -1,5 +1,3 @@
-
-
 The Transmission BitTorrent client does authenticated JSON-RPC; see "Remote
 Control" section of:  
 https://trac.transmissionbt.com/wiki/ConfigurationParameters  

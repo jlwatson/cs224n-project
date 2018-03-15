@@ -1,5 +1,3 @@
-
-
 https://github.com/bitcoin/bitcoin/pull/727 :  
   
 This is designed to work nicely with 'gettransaction' and new 'blockhash'

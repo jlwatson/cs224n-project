@@ -1,5 +1,3 @@
-
-
 If you need a stable testing environment, the self-contained testnet-in-a-box
 works very nicely:  
 https://sourceforge.net/projects/bitcoin/files/Bitcoin/testnet-in-a-box/  

@@ -1,12 +1,3 @@
-
-
-Quote from: antares on July 17, 2011, 02:39:25 AM
-
-I think it should be enough to backup your wallet, delete your .bitcoin folder
-in your user profile folder, create a new .bitcoin folder, put your wallet
-inside and then start bitcoin. It should download a new copy of the block
-chain and you should be good to go. AFAIR this is a known bug.  
-
   
 Don't do that, you'll just spend a lot of time re-downloading the block chain
 and then be back in the same state you were before (unless you happen to get

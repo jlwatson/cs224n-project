@@ -1,10 +1,3 @@
-
-
-Quote from: gollum on November 04, 2013, 08:44:32 PM
-
-Is the bitcoin client able to handle 58,000 transactions per second and a
-blockchain terrabytes or maybe even petabytes in size?  
-
   
 Which "bitcoin client" ?  
   

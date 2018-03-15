@@ -1,5 +1,3 @@
-
-
 Nice work!  
   
 RE: gcc creating different binaries:  

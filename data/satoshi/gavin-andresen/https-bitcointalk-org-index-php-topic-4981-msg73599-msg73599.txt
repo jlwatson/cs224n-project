@@ -1,11 +1,3 @@
-
-
-Quote from: caveden on March 27, 2011, 04:38:56 PM
-
-If this backward incompatible change will have to be done one day, why not
-make it only once (by setting an automatic adjustment rule), and why not
-considering making it now, while it's still easy?  
-
   
 Patches welcome.  
   

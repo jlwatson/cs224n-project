@@ -1,5 +1,3 @@
-
-
 See this thread for BIP16-compatible-backported release candidates:  
 https://bitcointalk.org/index.php?topic=72069.0  
   

@@ -1,5 +1,3 @@
-
-
 Phew. Ok, I feel better; consensus seems to be that enabling some or all of
 the proposed 'new standard' transactions is a good idea.  
   

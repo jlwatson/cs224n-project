@@ -1,13 +1,3 @@
-
-
-Quote from: moa on April 08, 2011, 10:41:36 PM
-
-  
-What about an infinitesimal, but non-zero transaction fee on all transactions?  
-  
-Is anyone but the spammers going to notice that they just got 0.00000001
-clipped off their transaction?  
-
   
 The problem with that idea is if the transaction fee is that low spammers
 won't notice it either. They can just invest 0.01 BTC and send millions of

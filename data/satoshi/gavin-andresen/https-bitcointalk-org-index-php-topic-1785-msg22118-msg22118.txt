@@ -1,5 +1,3 @@
-
-
 Bad idea until we have secure DNS (DNSSEC) everywhere.  
   
 And maybe even a bad idea then; one slip of the fingers and your bitcoins

@@ -1,5 +1,3 @@
-
-
 Actually, thinking about it, are you sending \r\n for newlines?  
   
 Fricking PC versus Unix versus Mac line-endings will be causing problems until

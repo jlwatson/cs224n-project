@@ -1,5 +1,3 @@
-
-
 I did some work today that should be useful to stress-test transaction
 handling for alternative bitcoin implementations:  
 https://github.com/gavinandresen/bitcoin-git/tree/fuzzer  

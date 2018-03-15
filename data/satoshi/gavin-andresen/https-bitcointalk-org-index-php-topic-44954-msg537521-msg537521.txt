@@ -1,5 +1,3 @@
-
-
 I like the idea of trying to prove that the DoS code doesn't increase the
 chance of network fragmentation.  
   

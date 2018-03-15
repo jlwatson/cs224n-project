@@ -1,5 +1,3 @@
-
-
 Yes, don't trust me, please. I am human and will make mistakes.  
   
 The CSRF vulnerability on ClearCoin is fixed. I will be contacting any

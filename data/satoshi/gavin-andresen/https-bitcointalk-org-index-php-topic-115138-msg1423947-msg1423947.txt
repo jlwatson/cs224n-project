@@ -1,5 +1,3 @@
-
-
 The bitcoind sendmany RPC call uses destination addresses as JSON Object keys,
 so you can't send to the same address multiple times in one transaction.  
   

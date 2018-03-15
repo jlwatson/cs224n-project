@@ -1,5 +1,3 @@
-
-
 We updated the translations and fixed two serious-enough-to-be-showstopper
 bugs, and 0.6 release candidate 6 is available at:  
 https://sourceforge.net/projects/bitcoin/files/Bitcoin/bitcoin-0.6.0/  

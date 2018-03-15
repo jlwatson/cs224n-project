@@ -1,12 +1,3 @@
-
-
-Quote from: ShadowOfHarbringer on October 02, 2012, 07:22:30 PM
-
-If Gavin does not want (or does not have time, he is lead dev after all) to
-answer our criticism, he should at least delegate somebody to "scan" the
-forums to check what people's opinions are, and then answer them collectively
-on a blog or something.  
-
   
 So... if the membership agrees with your "bugs" then they'll get fixed. Like I
 said, the vision is it will be a member-driven organization. And like I said,
@@ -37,11 +28,6 @@ jurisdiction is the least likely to declare Bitcoin Foundation illegal, which
 would be best for getting donors tax deductions, and whatever other arguments
 we could have).  
   
-
-Quote from: niko on October 02, 2012, 10:52:38 PM
-
-I agree that users and miners should be represented more on the BF board.  
-
   
 One of the things that I think will be fascinating to watch is how users and
 miners organize themselves (or not) to elect people to the Board. I'm not

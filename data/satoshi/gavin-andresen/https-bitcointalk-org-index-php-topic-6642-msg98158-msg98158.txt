@@ -1,5 +1,3 @@
-
-
 RE: Mac builds: what BlueMatt said. Despite using a Mac as my development
 machine, I am not a Mac developer-- I'm an old Unix developer at heart. I
 learned enough Windows "Win32-api" programming to create a couple of products,

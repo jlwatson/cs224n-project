@@ -1,5 +1,3 @@
-
-
 0.8.2 rc2 never made it out the door; two crash-on-shutdown bugs and a
 bitcoin.ico file that made the windows gitian build non-reproducible made us
 jump to rc3 instead.  

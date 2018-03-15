@@ -1,15 +1,3 @@
-
-
-Quote from: mizerydearia on October 15, 2010, 07:31:41 AM
-
-Quote from: jgarzik on September 30, 2010, 03:57:31 PM
-
-My preferred arrangement would be a 'monitorall' command, which POSTs each
-incoming transaction to a URL, regardless of bitcoinaddress, as long as it's a
-wallet transaction.
-
-I agree. A "monitorall" command would be quite useful.  
-
 Pass "allwallet" to monitoraddress and you'll get all transactions that put
 coins in your wallet.  
   

@@ -1,5 +1,3 @@
-
-
 I pulled Bitcoin-QT into the main bitcoin tree this morning.  
   
 

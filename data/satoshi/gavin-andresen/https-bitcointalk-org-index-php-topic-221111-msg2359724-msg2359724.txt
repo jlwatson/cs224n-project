@@ -1,5 +1,3 @@
-
-
 The block size will be raised, that is the overwhelming consensus among the
 people who are actually writing code and using Bitcoin for products and
 services that it needs to happen.  

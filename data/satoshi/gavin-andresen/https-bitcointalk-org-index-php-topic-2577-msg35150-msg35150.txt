@@ -1,5 +1,3 @@
-
-
 Mirroring all of the information that bitcoin keeps about transactions inside
 your bitcoin-oriented web app is probably not the right way to go.  
   

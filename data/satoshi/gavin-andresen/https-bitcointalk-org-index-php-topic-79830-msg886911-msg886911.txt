@@ -1,5 +1,3 @@
-
-
 I've been procrastinating creating a "Bitcoin Testing Project" to fund testing
 work, and I was actually thinking a few days ago that vulnerability bounties
 would fit in nicely as one of the things a Bitcoin Testing organization would

@@ -1,5 +1,3 @@
-
-
 Actually... prioritizing free transactions based on both amount and their
 "age" should make this attack toothless.  
   

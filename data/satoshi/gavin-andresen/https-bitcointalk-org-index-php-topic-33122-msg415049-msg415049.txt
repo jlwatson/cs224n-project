@@ -1,5 +1,3 @@
-
-
 I followed the JSON-RPC-2.0 spec for errors, as described here:  
 http://groups.google.com/group/json-rpc/web/json-rpc-2-0?pli=1  
 (see section 5.1)  

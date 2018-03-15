@@ -1,5 +1,3 @@
-
-
 I just commited svn r197 (version 0.3.17.05); it is a "prevent possible
 security problems we haven't thought of" fix.  
   

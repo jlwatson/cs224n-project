@@ -1,17 +1,4 @@
-
-
-Quote from: Isosceles on December 27, 2011, 11:57:39 PM
-
-Is it possible to construct a custom transaction in which either your key, or
-the key of an "overseer" can spend the coins?  
-
 Yes. That would be a "1 of 2 signatures required" multisignature transaction.  
-
-Quote
-
-And add a feature such that all subsequent transactions you make also have to
-include the overseer's override feature?  
-
 That you can't do. If the coins were stolen, the thief can just sign them
 away.  
   

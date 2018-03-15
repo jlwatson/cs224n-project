@@ -1,41 +1,8 @@
-
-
-Quote from: [mike] on February 15, 2011, 06:07:32 PM
-
-Quote
-
-Also, my proposal was to only reject blocks containing 'suspicious'
-transactions that you hadn't seen transmitted that have a double-spend attempt
-before the next block.
-
-  
-OK, you're right, the requirement that you didn't see the double spend
-transaction in the block yet does seem to solve this.  
-  
-The only thing that bugs me is what if there's a race condition such that I
-can overlap this with the discovery of a new block. Thinking out loud here.
-Let's say I directly connect to as many mining nodes as possible. I can create
-two transactions, A->X and A->Y and pick one transaction for half the nodes,
-another for the other half....
-
   
 I'm lost. Who are X and Y? You're going to spam the network with payments to X
 == yourself and Y == the corner grocery store in the hopes of... what?  
   
-Remember the original attack:
-
-Quote
-
-Suppose the attacker is generating blocks occasionally. in each block he
-generates, he includes a transfer from address A to address B, both of which
-he controls.  
-  
-To cheat you, when he generates a block, he doesn't broadcast it. Instead, he
-runs down to your store and makes a payment to your address C with his address
-A. You wait a few seconds, don't hear anything, and transfer the goods. He
-broadcasts his block now, and his transaction will take precedence over yours.
-
-  
+Remember the original attack:  
 Again, it seems to me some rules that make attempted double-spends more costly
 to those who attempt to pull off double-spends might be a good idea.  
   

@@ -1,13 +1,3 @@
-
-
-Quote from: BenRayfield on December 15, 2011, 06:10:29 AM
-
-The only way to convince MerkleWeb to calculate anything different is with
-"choice bits" (as I wrote above), which are kind of like network ports mapped
-into certain global 320-bit addresses. Each choice bit can only be written by
-a certain private-key. Each group of choice bits has a public-key that
-everyone can see to verify the digitally-signed bits from the private-key.  
-
   
 Ok. So who controls the private keys?  
 

@@ -1,5 +1,3 @@
-
-
 Copy the wallet.dat file somewhere safe and secure.  
 To be 100% belt-and-suspenders safe, shut down Bitcoin before doing the copy.  
   

@@ -1,5 +1,3 @@
-
-
 Thanks, lachesis-- ฿50 to you for finding that bug!  
   
 I've changed the key and turned off debugging; I'll tighten up its security a

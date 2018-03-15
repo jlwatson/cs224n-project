@@ -1,11 +1,3 @@
-
-
-Quote from: shtylman on July 15, 2012, 11:06:55 PM
-
-* A move does not create a tx on the network  
-* A move is really just an internal accounting ledger  
-* If I receive into A, move all coins into B, and then send from A, the coins will really be sent from B (since the move is just internal).  
-
 What do you mean "send from A" ? Are A and B accounts or bitcoin addresses?  
   
 The reference client does not send coins "from" an address; when you send

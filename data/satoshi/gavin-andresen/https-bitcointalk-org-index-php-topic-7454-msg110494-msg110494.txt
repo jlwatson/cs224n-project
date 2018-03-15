@@ -1,5 +1,3 @@
-
-
 The networking code is the same in either case, so it was almost certainly
 just a coincidence and you got unlucky with the peers you connected to running
 -server from the command line.  

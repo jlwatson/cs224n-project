@@ -1,5 +1,3 @@
-
-
 I make the Amazon virtual machine images that I used to build the Windows and
 Linux binaries available... but Amazon recently took them down because they
 contain my ssh public key in the "allowed to login without a password" file.

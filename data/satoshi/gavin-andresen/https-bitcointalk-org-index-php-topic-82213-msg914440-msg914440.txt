@@ -1,41 +1,4 @@
-
-
-Quote
-
-$ ./bitcoind addmultisigaddress 2
-'["0446fc07bc99bef8e7a875249657c65e1f1793fd0bf45e2c39d539b6f8fcd44676acc552ab886c1
-1eb08f4a275e7bb7dc4fdaf9c4b2228856f168a69df7d216fbc","04df70eb0107ed08e1ddcd4b4d85d26bf8cca301f5c98fd15f5efef12ba4de72bfef7287f964e30
-4207164c003029449740aaae2d6af1ff7ae3f6bb27f3012296c","046003581a3ff5bc3dedaa6da4834ce7bcd49d3f114ce15791f6b5de8b0cec81a46db2eb8cf84d2
-db845854c57788c7283ab4040aeb3595bc5c68303a17fdde7c8"]'
-
-Works in a Terminal on my Mac, returns:
-
-Quote
-
-3EffXJKyYB9zWh2dhx2hcccqBK8DGC7x2x
-
-... which validates as:
-
-Quote
-
-Code:
-
-$ ./bitcoind validateaddress 3EffXJKyYB9zWh2dhx2hcccqBK8DGC7x2x  
-{  
-"isvalid" : true,  
-"address" : "3EffXJKyYB9zWh2dhx2hcccqBK8DGC7x2x",  
-"isscript" : true,  
-"ismine" : false,  
-"script" : "multisig",  
-"addresses" : [  
-"1HEmNY7Lpsqc81nP6JAymjGuuvdFLaqt1e",  
-"1Gpuy32bmhtn3KL6dBDHdTHfMosXRH6xV4",  
-"1AbU2FDgJRKejuY4e4XGYEfzo6uAGQ1Kyy"  
-],  
-"sigsrequired" : 2,  
-"account" : ""  
-}  
-
-I don't know enough about Windows CLI quoting rules to get ["...","...","..."]
-passed un-modified to bitcoind.exe.  
+Works in a Terminal on my Mac, returns: ... which validates as: I don't know
+enough about Windows CLI quoting rules to get ["...","...","..."] passed un-
+modified to bitcoind.exe.  
 

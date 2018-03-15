@@ -1,5 +1,3 @@
-
-
 I don't want to keep putting band-aids on the transaction fee problem, so I'm
 against adding Yet Another Button to the client.  
   

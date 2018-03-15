@@ -1,5 +1,3 @@
-
-
 A long-term fix for transaction fees (as opposed to the ad-hoc "we'll just try
 to guess what the 'right' fees are") is high on my priority list for bitcoin.
 There are only two very-high-priority things on my bitcoin wish list: fix

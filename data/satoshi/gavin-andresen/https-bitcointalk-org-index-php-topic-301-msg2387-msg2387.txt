@@ -1,12 +1,3 @@
-
-
-Quote from: RHorning on July 12, 2010, 09:02:46 PM
-
-I guess I'm having problems seeing where this algorithm is necessarily all
-that difficult and can't be sped up in some manner where a dedicated coin
-generator wouldn't have a huge advantage over a normal ordinary client in
-terms of the creation of Bitcoins.  
-
   
 Sure, you could build specialized hardware that computed SHA256 hashes faster
 than ANYBODY!  

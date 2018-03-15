@@ -1,9 +1,3 @@
-
-
-Quote from: Mr. Flibble on November 18, 2011, 11:07:54 AM
-
-I accidentally sent some bitcoins to a testnet address from MtGOX.  
-
   
 First: sounds like a bug in Mt Gox's bitcoin address validation code that they
 should fix.  

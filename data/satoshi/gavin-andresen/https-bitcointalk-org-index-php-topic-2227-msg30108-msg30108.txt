@@ -1,5 +1,3 @@
-
-
 If you're simulating, be sure you're not overlooking the 'opportunity cost' of
 working on the next-valid-block when you're 'holding back' blocks.  
   

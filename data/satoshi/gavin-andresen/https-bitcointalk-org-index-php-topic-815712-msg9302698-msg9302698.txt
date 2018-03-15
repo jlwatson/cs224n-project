@@ -1,13 +1,3 @@
-
-
-Quote from: NewLiberty on October 22, 2014, 11:18:09 PM
-
-I continue to maintain that market forces can rightsize MAX_BLOCK_SIZE if an
-algorithm with a feedback mechanism can be introduced, and that doing so
-introduces both less centralization risk than an arbitrary patch, and less
-risk of future manual arbitrary adjustments.  
-Fix it right, fix it once.  
-
   
 I think you are confusing MAX_BLOCKSIZE with the floating, whatever-the
 market-demands blocksize.  

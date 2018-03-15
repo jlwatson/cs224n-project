@@ -1,5 +1,3 @@
-
-
 What is the use case for this?  
   
 Is it just to make it easier to send anonymous donations by typing in Pay To:

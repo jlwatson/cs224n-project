@@ -1,12 +1,3 @@
-
-
-Quote from: Steve on January 18, 2012, 04:53:42 PM
-
-I think you're correct (I think it's just that changes like this make people
-nervous). What then is the next step to enable multi-sig? Is everything needed
-already in the scripting language? Is it just a matter of updating clients and
-miners to no longer reject such transactions?  
-
   
 Yes, the next step is to get miners and clients to recognize a new 'standard'
 transaction type that does multisig. BIP 11 describes them, they're already

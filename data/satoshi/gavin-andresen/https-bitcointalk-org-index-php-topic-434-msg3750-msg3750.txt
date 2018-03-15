@@ -1,5 +1,3 @@
-
-
 Here's how you can lose coins by backing up and restoring your wallet file:  
   
 Lets say you have one shiny 1,000 Bitcoin coin in your wallet (it's actually

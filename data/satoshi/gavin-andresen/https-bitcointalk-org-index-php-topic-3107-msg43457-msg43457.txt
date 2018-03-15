@@ -1,5 +1,3 @@
-
-
 Giving them all the same starting wallet is a bad idea; they will start out
 with the same keys, but will eventually each generate their own, so their
 balances will drift out of sync.  

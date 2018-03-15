@@ -1,10 +1,3 @@
-
-
-Quote from: tsupp4 on September 24, 2011, 07:32:03 AM
-
-You guys are great, thank you for this further step.  
-Is there a donation adress for the whole developer team or something similar?  
-
   
 There is not a donation address for the whole development team; if there was,
 somebody would have to be in charge of keeping track of the bitcoins, deciding

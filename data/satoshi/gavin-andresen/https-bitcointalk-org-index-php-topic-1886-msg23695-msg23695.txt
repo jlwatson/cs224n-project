@@ -1,9 +1,3 @@
-
-
-Quote from: jgarzik on November 23, 2010, 12:09:49 AM
-
-Is there no longer a way to place labels on a per-transaction basis?  
-
   
 There never was a way to place labels on a per-transaction basis. It was
 always a one-label-to-multiple-bitcoin-addresses association.  

@@ -1,5 +1,3 @@
-
-
 I just had a great discussion with a developer who urged me to write a "big
 picture" technical post about BIP 16. So:  
   

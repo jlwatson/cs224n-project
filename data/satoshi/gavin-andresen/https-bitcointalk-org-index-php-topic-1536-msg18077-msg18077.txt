@@ -1,5 +1,3 @@
-
-
 svn rev 172 (bitcoin 0.3.14.01) adds:  
   
 "testnet" and "keypoololdest" to getinfo output. testnet will be true if you

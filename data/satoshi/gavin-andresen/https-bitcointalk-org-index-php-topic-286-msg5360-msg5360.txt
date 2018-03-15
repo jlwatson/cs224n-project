@@ -1,5 +1,3 @@
-
-
 What's funny?  
   
 A server lying about whether or not your transactions are valid would be like

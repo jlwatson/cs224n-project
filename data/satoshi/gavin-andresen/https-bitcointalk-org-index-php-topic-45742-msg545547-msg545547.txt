@@ -1,5 +1,3 @@
-
-
 I pulled Bitcoin QT into the master branch of
 https://github.com/bitcoin/bitcoin/ this morning.  
   

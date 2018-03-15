@@ -1,12 +1,3 @@
-
-
-Quote from: Peter Todd on July 04, 2014, 04:22:15 PM
-
-It's fairly easy to manipulate actually; sybil attacks are not that hard to
-do. (there's evidence they're being used against people accepting zeroconf) I
-demonstrated a 1BTC fee tx due to the estimator failing. Right now there is a
-cap of 100mBTC, but obviously that can drain your wallet pretty quickly.  
-
   
 ... demonstrated in a completely artificial -regtest environment...  
   

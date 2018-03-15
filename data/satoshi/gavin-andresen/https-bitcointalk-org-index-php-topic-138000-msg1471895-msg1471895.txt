@@ -1,10 +1,3 @@
-
-
-Quote from: killerstorm on January 22, 2013, 09:40:18 PM
-
-The only problem I see is that firstbits lookup requires full blockchain scan,
-which is sort of expensive.  
-
   
 "sort of expensive" ? Really expensive and getting more expensive all the
 time. And absolutely impossible for a lightweight hardware or mobile-phone

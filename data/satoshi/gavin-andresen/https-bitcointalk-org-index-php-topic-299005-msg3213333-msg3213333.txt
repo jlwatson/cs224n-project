@@ -1,11 +1,3 @@
-
-
-Quote from: skeltoac on September 21, 2013, 02:58:40 PM
-
-A solo miner (or a pool operator if they keep the fees) can use large
-transaction fees to avoid taint and network analysis. These algorithms must be
-updated to include transaction fees.  
-
   
 No, they can't. You just extend the taint-tracking through the newly minted
 coins (e.g. if you try to "melt" 75 BTC with the 25 BTC reward, then the

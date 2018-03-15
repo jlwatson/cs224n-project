@@ -1,5 +1,3 @@
-
-
 Pieter is exactly right. The current code is extremely conservative with
 multisig addresses, only counting them as yours if the wallet contains **all**
 the private keys.  

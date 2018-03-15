@@ -1,11 +1,3 @@
-
-
-Quote from: Vandroiy on April 22, 2011, 03:14:18 PM
-
-Consider for now, we're in the future, and miners only gain from transaction
-fees. I assume now that including a transaction is cheap, and generating a
-block is, in comparison, expensive. (Is that true?)  
-
   
 Today, it costs the entire network something like $0.001 to process each
 transaction.  

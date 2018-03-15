@@ -1,5 +1,3 @@
-
-
 We've already got ParseMoney in util.cpp, this patch adds
 parseNumber/uriParseAmount. Having more than one way to convert strings into
 bitcoin amounts is not a good idea, in my humble opinion.  

@@ -1,5 +1,3 @@
-
-
 Here's the thumbnail sketch on the code that I think needs to be written to
 handle fees properly:  
   

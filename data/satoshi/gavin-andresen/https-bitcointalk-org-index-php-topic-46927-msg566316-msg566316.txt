@@ -1,11 +1,3 @@
-
-
-Quote from: Luke-Jr on October 10, 2011, 03:33:05 PM
-
-No, getmemorypool has nothing to do with setworkaux, coinbases, or merged
-mining. It's a JSON-RPC command that was merged with even less review than
-coinbaser, and is only used by a single pool.  
-
   
 Huh? getmemorypool discussion is/was here:
 https://bitcointalk.org/index.php?topic=39088.0  

@@ -1,5 +1,3 @@
-
-
 I think it would be wise for any alternative block-chain to discourage
 creation of exchanges for at least a month or three to get the bugs out.  
   

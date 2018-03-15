@@ -1,13 +1,6 @@
-
-
 See:  
 http://www.tik.ee.ethz.ch/file/49318d3f56c1d525aabf7fda78b23fc0/P2P2013_041.pdf  
   
-
-Quote
-
-each kilobyte in size costs an additional 80ms delay
-
   
 You can calculate the "orphan cost" of including an extra 1kilobyte of
 transactions in your block from that, which gives a floor on reasonable

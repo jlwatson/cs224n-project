@@ -1,11 +1,3 @@
-
-
-Quote from: lachesis on June 12, 2010, 05:46:40 AM
-
-So basically, you're running Bitcoin on a VPS and using an HTTPS connection
-from App Engine to signal it what to do? Why not just host the site on your
-server?  
-
 App Engine gives me:  
 Free bandwidth and data storage (with the option to pay for what I use if I go
 over a gigabyte)  

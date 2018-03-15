@@ -1,5 +1,3 @@
-
-
 One Amazon "EC2 compute unit" is, according to them, approximately equal to a
 1ghz 2007 Xeon processor (that's a m1.small).  
   

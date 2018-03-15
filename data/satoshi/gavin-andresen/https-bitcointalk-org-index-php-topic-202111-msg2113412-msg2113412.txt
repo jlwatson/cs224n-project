@@ -1,5 +1,3 @@
-
-
 If there is a longer fork with more work that your node thinks is invalid,
 you'll get this alert:  
   

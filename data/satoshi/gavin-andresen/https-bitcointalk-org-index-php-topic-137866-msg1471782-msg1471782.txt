@@ -1,5 +1,3 @@
-
-
 RE: what's my role in the core team: I try to do whatever needs to get done,
 that isn't getting done. Today I'm cross-compiling the 0.8 release and testing
 it on Windows, trying to track down a crash-at-exit issue and an excessive-

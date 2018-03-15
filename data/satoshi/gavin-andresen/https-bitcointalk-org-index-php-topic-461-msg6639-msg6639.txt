@@ -1,11 +1,3 @@
-
-
-Quote from: theymos on July 30, 2010, 05:54:36 AM
-
-$ ./bitcoind -datadir=/home/theymos/bitcoin
--conf=/home/theymos/bitcoin/bitcoin.conf && ./bitcoind getinfo  
-error: You must set rpcpassword=<password> in the configuration file:  
-
 That second ./bitcoind getinfo has to be:  
 
 Code:

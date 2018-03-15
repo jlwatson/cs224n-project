@@ -1,5 +1,3 @@
-
-
 Consensus is the RPC-doesn't-work-if-you-disable-IpV6 bug is serious enough to
 hold up the 0.7.0 final release.  
   

@@ -1,14 +1,3 @@
-
-
-Quote from: ivan.pustogarov on June 22, 2014, 10:34:14 AM
-
-We are currently working on a countermeasure. In particular we wonder how  
-reducing from eight to four entry nodes would effect the bitcoin network.  
-We also think to decay the connections based on the number of transactions  
-(for example renewing half of the entry node connections after each  
-transaction). It might be interesting to include a proof of work for  
-creation of connections, but this would create a compatibility issue.  
-
   
 Excellent!  
   

@@ -1,5 +1,3 @@
-
-
 I've wanted a libbitcoin since... well, since I first started browsing the
 bitcoin source code.  
   

@@ -1,12 +1,3 @@
-
-
-Quote from: ripper234 on June 07, 2011, 10:24:49 AM
-
-How much is it giving right now? If it's still 0.02 BTC (~ 40 cents), that's
-probably a bit too much and should be lowered.  
-I would be willing to donate to fill it a bit after this is explained (please
-join me and donate as well).  
-
   
 40 cents per visitor is definitely too much; I've set the Faucet to "down for
 maintenance" again, and will keep it that way until two things happen:  

@@ -1,5 +1,3 @@
-
-
 Backup every 30 sendtoaddress or generatenewaddress and you'll be fine-- you
 should always have at least 3 backup copies of all your keys.  
   

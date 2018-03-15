@@ -1,12 +1,3 @@
-
-
-Quote from: theymos on February 14, 2011, 10:40:42 PM
-
-There are no incentives for doing that. If 98% of the network "discourages" a
-block, then those miners have a small chance of losing their blocks to the 2%
-that does not discourage the block. However, not discouraging a block has no
-penalty at all.  
-
   
 Excellent point. Although there should be a meta-incentive to make the bitcoin
 system successful, so there are lots of transactions (and lots of transaction

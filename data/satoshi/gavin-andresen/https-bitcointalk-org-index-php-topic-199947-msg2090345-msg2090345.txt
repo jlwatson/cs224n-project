@@ -1,5 +1,3 @@
-
-
 I think this is a terrible idea.  
   
 If it was "higher fee with superset of outputs of first spend" then that'd be

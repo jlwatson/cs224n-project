@@ -1,5 +1,3 @@
-
-
 Here's how to figure it out from the Satoshi client code:  
   
 The IMPLEMENT_SERIALIZE macro is used to both store transactions on disk and

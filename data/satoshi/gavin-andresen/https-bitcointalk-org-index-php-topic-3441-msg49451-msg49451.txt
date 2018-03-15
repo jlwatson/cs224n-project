@@ -1,5 +1,3 @@
-
-
 One more thought: the "finney attack" can only be profitable if the reward
 from cheating is greater than (reward of mining times the probability your
 block will be rejected because you delay announcing it while you "run down to

@@ -1,5 +1,3 @@
-
-
 Relevant discussion here:  
 http://crypto.stackexchange.com/questions/779/hashing-or-encrypting-twice-to-
 increase-security  

@@ -1,5 +1,3 @@
-
-
 I just uploaded pdf and KeyNote versions of the talk I gave at the CIA last
 Tuesday:  
 https://s3.amazonaws.com/gavinandresen-bitcoin/GavinAndresenCIATalk.pdf  

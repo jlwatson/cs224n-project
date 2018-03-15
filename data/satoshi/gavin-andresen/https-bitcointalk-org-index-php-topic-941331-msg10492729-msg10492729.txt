@@ -1,12 +1,3 @@
-
-
-Quote from: NewLiberty on February 17, 2015, 02:05:21 PM
-
-This is where my conversation with Gavin fell apart. He was not able to
-acknowledge the concept of a too-high limit. His reasoning was that since the
-limit was only one-sided (blocks with size above it are prevented) that it
-couldn't be too high.  
-
   
 Huh what?  
   

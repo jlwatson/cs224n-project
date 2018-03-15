@@ -1,5 +1,3 @@
-
-
 RE: documentation about key encryption:  
   
 See the comment at the top of crypter.h:  

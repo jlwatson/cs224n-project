@@ -1,5 +1,3 @@
-
-
 If you do it, I'd suggest implementing it as a proxy that sits in front of
 bitcoind.  
   

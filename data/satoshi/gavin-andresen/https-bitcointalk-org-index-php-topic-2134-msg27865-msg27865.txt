@@ -1,9 +1,3 @@
-
-
-Quote from: ptd on December 07, 2010, 08:52:23 PM
-
-I hope you plan to offer an API for sellers.  
-
 Yes, although the first big feature on my ClearCoin TODO list is a
 reputation/feedback system.  
 

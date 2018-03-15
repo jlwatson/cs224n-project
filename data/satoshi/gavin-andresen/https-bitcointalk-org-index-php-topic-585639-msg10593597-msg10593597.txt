@@ -1,5 +1,3 @@
-
-
 ... I managed to be wrong twice: I forgot about the AreInputsStandard check
 for P2SH transactions that makes any transaction with more than 15 signature
 operations non-standard.  

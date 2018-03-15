@@ -1,11 +1,3 @@
-
-
-Quote from: riggasconi on January 23, 2011, 04:09:28 PM
-
-Satoshi Nakamoto writes in his white paper that it is not needed to control
-all of the bitcoin connections, but just a majority of them. Am I missing
-something ?  
-
   
 You are confusing "control 50+% of generating power" with "control
 connections."  

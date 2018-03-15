@@ -1,14 +1,5 @@
-
-
 davout said (at the github pull request):  
   
-
-Quote
-
-I think this needs to be explicitly allowed from the bitcoin client side,
-otherwise any website could start quietly bruteforcing the username/password
-out of a client.
-
   
 If you've opened up access to the rpcport, then I don't think CORS support
 adds any significant vulnerability to password brute-forcing. I suppose it

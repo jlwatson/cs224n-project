@@ -1,5 +1,3 @@
-
-
 Example possible BIPs:  
   
 URL syntax for bitcoin payments  

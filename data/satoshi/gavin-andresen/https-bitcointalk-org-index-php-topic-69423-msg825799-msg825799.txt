@@ -1,5 +1,3 @@
-
-
 My point was ANY scheme you come up with will eventually come down to "Does
 this transaction input have a high enough percentage of 'badness' for me to
 say no, I won't take it."  

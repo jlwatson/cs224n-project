@@ -1,10 +1,3 @@
-
-
-Quote from: triplehelix on March 26, 2012, 10:18:06 PM
-
-maybe you can explain the justification for not encrypting the wallet by
-default?  
-
   
 Here's the thinking:  
   

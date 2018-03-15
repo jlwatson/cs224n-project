@@ -1,5 +1,3 @@
-
-
 In the 0.6.3 thread Graet asks a good question: what's do we mean by
 "critical" versus "serious" vulnerability?  
   

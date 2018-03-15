@@ -1,5 +1,3 @@
-
-
 FYI:  
   
 The Bitcoin Faucet bitcoind's are both running on a Linode VPS, which was

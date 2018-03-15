@@ -1,5 +1,3 @@
-
-
 I've created an 'official' Bitcoin bug/issue/feature request tracking system
 at:  
 https://github.com/bitcoin/bitcoin/issues  

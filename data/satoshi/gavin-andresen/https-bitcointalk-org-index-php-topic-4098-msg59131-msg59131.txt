@@ -1,5 +1,3 @@
-
-
 Oops.  
   
 My fault-- I DID test downloading the entire production block chain with a

@@ -1,12 +1,3 @@
-
-
-Quote from: jgarzik on October 11, 2010, 11:16:09 PM
-
-What are the issues?  
-  
-FWIW, one can download mingw32-openssl from fedora, thereby obtaining portable
-(across Win32) binaries without all the work.  
-
 I don't know what the issues are-- I do Mac/Linux these days (I don't do
 Windows). Does the precompiled fedora mingw32-openssl support ECSDA
 signatures? Can you give it a try and let us know if it works? (just add

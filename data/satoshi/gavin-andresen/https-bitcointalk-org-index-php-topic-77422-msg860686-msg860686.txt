@@ -1,5 +1,3 @@
-
-
 Cross-posted from the Alternative Clients sub-forum, since it looks like the
 alternative client folks are more interested in adding new features than
 figuring out exactly how the features we already have work:  

@@ -1,19 +1,4 @@
-
-
 I just submitted a pull request to fix this:  
 https://github.com/bitcoin/bitcoin/pull/1818  
   
-
-Quote
-
-This pull request makes three functional changes:  
-  
-
-  * Adds "redeemScript" to listunspent output, when listing a p2sh/multisig output
-  * Adds "redeemScript" to signrawtransaction's second argument (list of previous transaction outputs)
-  * Adds a new RPC command, "createmultisig" that is just like "addmultisigaddress" but instead of adding the multisig address/redeemScript to the wallet, returns them in a JSON object.
-
-  
-It also includes new unit tests for the raw transaction API argument checking
-code (and refactors some argument checking to remove some code duplication).
 

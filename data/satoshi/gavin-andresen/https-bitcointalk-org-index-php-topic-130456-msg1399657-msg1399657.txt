@@ -1,11 +1,3 @@
-
-
-Quote from: Mike Hearn on December 14, 2012, 11:13:23 AM
-
-For these and other reasons we already made the decision to go with SSL certs
-for v1 despite their many problems. Later on, we can build either extensions
-to the SSL PKI or entirely new parallel ones.  
-
   
 What Mike said.  
   

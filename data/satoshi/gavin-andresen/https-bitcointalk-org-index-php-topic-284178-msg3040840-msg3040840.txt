@@ -1,5 +1,3 @@
-
-
 It bloats the UTXO set, which is bad.  
   
 MasterCoin transactions should all be spendable or provably prune-able. There

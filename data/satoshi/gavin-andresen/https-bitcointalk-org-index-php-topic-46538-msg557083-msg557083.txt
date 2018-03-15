@@ -1,15 +1,7 @@
-
-
 Wow, so many great ideas!  
   
 RE: There is already code to warn the user if they are on a minority chain
 more than 6 blocks long-- see GetWarnings():  
-
-Quote
-
-WARNING: Displayed transactions may not be correct! You may need to upgrade,
-or other nodes may need to upgrade.
-
   
 It just warns, it doesn't stop you from generating/sending transactions.
 Perhaps if the longer fork is more than 120 blocks ahead it should.  

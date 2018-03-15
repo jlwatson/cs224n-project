@@ -1,13 +1,3 @@
-
-
-Quote from: DeathAndTaxes on April 05, 2012, 11:21:07 PM
-
-Well technicalities or not the point is that when User A is paying user B,
-user B is relying on the fact that user A "can't" break the chip. The chip
-ensures security. If User A has extracted private keys and can generate
-thousands or millions of duplicate tx at will there is nothing user B can do
-to detect that. To user B chip the tx looks as valid as any other valid tx.  
-
   
 If I'm reading their specs correctly, if A manages to break the chip she could
 generate duplicate transactions for the full value stored on the chip to B and

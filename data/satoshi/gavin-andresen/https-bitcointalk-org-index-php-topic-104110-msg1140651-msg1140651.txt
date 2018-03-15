@@ -1,10 +1,3 @@
-
-
-Quote from: Mike Hearn on August 28, 2012, 04:26:07 PM
-
-testnet in a box is supposed to come with a huge balance "out of the box", but
-I didn't make v3 so maybe it's not been done in the same way?
-
   
 If I recall correctly, the first testnet-in-a-box node should have all the
 coins. The second starts with a zero balance / empty wallet (send it coins

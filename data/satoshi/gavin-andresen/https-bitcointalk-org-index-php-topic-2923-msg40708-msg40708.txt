@@ -1,12 +1,3 @@
-
-
-Quote from: FreeMoney on January 23, 2011, 03:04:18 PM
-
-Your calculations are garbage. You cannot spend coins 80 times in an hour. The
-attacker has the power to rewrite a history that doesn't include him spending
-the coins, that is all. He can't simultaneously convince 80 people that they
-have the same coins.  
-
   
 FreeMoney is absolutely right.  
   

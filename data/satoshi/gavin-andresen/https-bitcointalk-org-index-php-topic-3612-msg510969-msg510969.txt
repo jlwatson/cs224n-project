@@ -1,5 +1,3 @@
-
-
 0.3.24 Linux/Windows releases weren't built on EC2, but was built on 'gitian'
 virtual machines (lookup trusted build process here for more info, or get in
 touch with devrandom).  

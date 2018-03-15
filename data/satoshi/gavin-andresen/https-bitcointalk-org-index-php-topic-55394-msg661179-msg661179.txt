@@ -1,12 +1,3 @@
-
-
-Quote from: casascius on December 24, 2011, 05:47:54 AM
-
-The most important metric would be when the block was received. If I receive a
-block that tries to replace a block 6 or 10 or 100 blocks ago on the chain I
-already know about, and I have no reason to believe I've been segregated from
-the network at large, I'm not going to vouch for it.  
-
   
 Yes.  
   

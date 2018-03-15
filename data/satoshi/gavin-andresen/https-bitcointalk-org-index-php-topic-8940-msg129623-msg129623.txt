@@ -1,5 +1,3 @@
-
-
 So with the recent avalanche of press interest in bitcoin, I thought I'd share
 my thoughts on how I'd like to see bitcoin positioned. I'm not writing this as
 "This is the Official Bitcoin Organization Position" -- as always, I expect
@@ -40,13 +38,6 @@ interest and excitement is fantastic.
   
 Here's an email exchange I had with a reporter yesterday:  
   
-
-Quote
-
-Specifically, do you agree or disagree that this project is "dangerous"? If
-you disagree, how would you describe the potential significance of bitcoin in
-a future Internet economy?
-
   
 New technologies are always at least a little bit dangerous-- they can usually
 be used for both good and bad (think of gunpowder or ChatRoulette), and are

@@ -1,5 +1,3 @@
-
-
 RE: O(1) versus O(some-function-of-total-number-of-transactions):  
   
 Yes, it will depend on whether or not the number of differences goes up as the

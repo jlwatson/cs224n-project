@@ -1,11 +1,3 @@
-
-
-Quote from: doldgigger on July 13, 2011, 09:44:35 AM
-
-As you are writing this is expected behaviour, does this mean the transaction
-will eventually get confirmed at some point (if so, how will it be funded?)?
-Or do I have to do something in order to recover the coins?  
-
 It will get confirmed; it is already 'funded' (you can never send more coins
 than you have in total in your wallet).  
   

@@ -1,5 +1,3 @@
-
-
 Yes, after NUMEQUALVERIFY the stack will be empty, and for a script to be
 valid it must leave a true value on the stack.  
   

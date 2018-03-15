@@ -1,10 +1,3 @@
-
-
-Quote from: dwdollar on August 14, 2010, 02:04:32 PM
-
-So you have a theory of distribution and need a currency to implement it? I
-suppose a Bitcoin-like currency could be modified to behave in this manner.  
-
 I see two fundamental problems with using a Bitcoin-like system to implement a
 Universal-Dividend-like system:  
   

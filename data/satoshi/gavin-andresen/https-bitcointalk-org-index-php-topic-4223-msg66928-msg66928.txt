@@ -1,11 +1,3 @@
-
-
-Quote from: ryepdx on March 15, 2011, 05:02:34 PM
-
-Well, I'm guessing Gavin has access to the website server. Someone needs to
-turn that design into usable code first, though. That may be difficult or not
-so difficult depending on the CMS bitcoin.org is using, if any.  
-
   
 Sirius and I both have access to the webserver, although Sirius knows a lot
 more about Drupal than I do.  

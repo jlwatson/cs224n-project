@@ -1,5 +1,3 @@
-
-
 Well, at least do it on the TEST network FIRST!  
   
 If you manage to break the TEST network, it's a pretty good bet that you'll be

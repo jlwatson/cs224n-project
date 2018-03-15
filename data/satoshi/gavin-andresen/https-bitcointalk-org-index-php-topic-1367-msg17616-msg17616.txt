@@ -1,5 +1,3 @@
-
-
 This looks pretty interesting (in the US): http://www.paynearme.com/  
 Print out a payment slip on a website, walk into a store and finalize payment
 in cash, website merchant gets immediately notified.  

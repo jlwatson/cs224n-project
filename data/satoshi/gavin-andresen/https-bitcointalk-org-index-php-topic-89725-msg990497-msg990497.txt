@@ -1,5 +1,3 @@
-
-
 More discussions in IRC today prompted further tweaks to this API:  
   
 "get any transaction, even transactions that aren't in your wallet"

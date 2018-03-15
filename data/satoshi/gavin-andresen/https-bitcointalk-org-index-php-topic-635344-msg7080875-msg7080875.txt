@@ -1,5 +1,3 @@
-
-
 Login as ubuntu, password "ubuntu"  
   
 I think, if I remember correctly.  

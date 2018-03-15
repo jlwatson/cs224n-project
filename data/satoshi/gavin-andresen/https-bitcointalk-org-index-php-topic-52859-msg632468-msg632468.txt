@@ -1,11 +1,3 @@
-
-
-Quote from: piuk on November 27, 2011, 11:04:44 PM
-
-I agree that there are better optimisations that can be implemented first but
-I still think it might be worth discussing for the future. Can you see any
-obvious flaws in the proposal Gavin?  
-
 Ummm, yes.  
   
 It seems to me miners will have an incentive to lie about the transaction

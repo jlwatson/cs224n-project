@@ -1,5 +1,3 @@
-
-
 RE: trading private keys with somebody: theoretically you could, but that's
 not typical bitcoin usage and the current bitcoin client makes it hard to do.  
   

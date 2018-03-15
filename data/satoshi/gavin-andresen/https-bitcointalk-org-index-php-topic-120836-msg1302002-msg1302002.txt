@@ -1,10 +1,3 @@
-
-
-Quote from: grau on October 27, 2012, 07:56:06 AM
-
-I think the protocol should not be defined by a particular implementation,
-even if that one was written by Satoshi.  
-
 Okey dokey.  
   
 Reality is that the protocol **IS** defined by Satoshi's implementation.  

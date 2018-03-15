@@ -1,12 +1,3 @@
-
-
-Quote from: davout on December 10, 2010, 01:24:37 PM
-
-So, how is the balance of an individual address managed ?  
-Lets say two accounts have an address each, i send 100 to address 1, then move
-the funds between the two accounts, will bitcoin actually use the first
-address for sending when sending coins from the second account ?  
-
   
 Accounts do not affect the previous-transaction-selection algorithm at all; if
 you sendfrom FOO, bitcoin doesn't make any effort to only use coins that were

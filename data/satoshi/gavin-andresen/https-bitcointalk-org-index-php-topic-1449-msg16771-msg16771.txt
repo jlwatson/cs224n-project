@@ -1,5 +1,3 @@
-
-
 Sure, there are a couple of tables in the back of Satoshi's bitcoin paper that
 calculate the chances based on what percentage of CPU work you're
 contributing.  

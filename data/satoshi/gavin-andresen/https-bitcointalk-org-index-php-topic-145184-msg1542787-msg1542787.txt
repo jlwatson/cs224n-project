@@ -1,5 +1,3 @@
-
-
 A couple people asked if they need to upgrade if they are running rc1: no, I
 wouldn't bother.  
   

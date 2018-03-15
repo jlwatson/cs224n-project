@@ -1,5 +1,3 @@
-
-
 RE: NODE_RELAYCOST :  
   
 I'm generally against any "take my word for it" settings. What would stop

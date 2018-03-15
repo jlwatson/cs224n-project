@@ -1,21 +1,7 @@
-
-
-Quote from: smtp on January 02, 2013, 08:30:19 PM
-
-In the blockchain there appear a few certain deposit-scripts: 0x73 0x63 0x72
-0x69 0x70 0x74 (nemonics as OP_IFDUP OP_IF OP_2SWAP OP_VERIFY OP_2OVER
-OP_DEPTH)  
-
   
 That is ascii for 'script' -- and was an unfortunate bug in somebody's
 software, if I recall correctly.  
   
-
-Quote
-
-I used my information to update, correct and make more complete the wiki-page
-https://en.bitcoin.it/wiki/Script for other newbies.  
-
   
 Excellent! The first step to bitcoin development enlightenment is realizing
 that you are a part of the process...  

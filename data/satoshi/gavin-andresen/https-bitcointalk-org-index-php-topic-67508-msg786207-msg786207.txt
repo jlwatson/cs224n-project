@@ -1,10 +1,3 @@
-
-
-Quote from: DeathAndTaxes on March 06, 2012, 04:00:21 AM
-
-On edit: as indicated above DUH the blockchain. Close enough for this work and
-nearly impossible to spoof at least economically.  
-
   
 I was thinking of a kind of replay attack:  
   

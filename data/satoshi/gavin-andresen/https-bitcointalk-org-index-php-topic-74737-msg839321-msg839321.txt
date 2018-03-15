@@ -1,5 +1,3 @@
-
-
 Is anybody else seeing anything like what jetmine is seeing? Anybody else
 running CentOS 5.6? Did you compile from source or are you using the binaries
 we compiled?  

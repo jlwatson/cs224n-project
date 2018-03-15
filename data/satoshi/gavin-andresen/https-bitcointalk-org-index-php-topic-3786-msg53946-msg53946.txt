@@ -1,12 +1,3 @@
-
-
-Quote from: Luke-Jr on February 23, 2011, 11:59:08 PM
-
-Does this still work correctly for 0.1 BTC, or does it expose bitcoind to the
-problem with representing this amount in binary (which would make it truncated
-as 0.09999999 BTC)? This fix should at the very least be sure to round at 8
-decimal places, if not reading the digits directly into an int64.  
-
   
 Converting from a double-precision float from the JSON library to an int64
 bitcoin is:  

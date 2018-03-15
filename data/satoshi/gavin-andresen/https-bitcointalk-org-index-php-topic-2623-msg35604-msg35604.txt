@@ -1,12 +1,5 @@
-
-
 Very nice! Let me ask some dumb questions:  
   
-
-Quote from: David Armstrong on January 05, 2011, 11:50:20 AM
-
-I've setup a launchpad PPA to host Ubuntu packages of bitcoin.  
-
   
 What does PPA stand for?  
   

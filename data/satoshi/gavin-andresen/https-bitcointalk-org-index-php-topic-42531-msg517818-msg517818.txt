@@ -1,5 +1,3 @@
-
-
 They won't lose any money to fees, because they won't broadcast their
 transactions-to-self, they'll just include them in blocks that they create.  
   

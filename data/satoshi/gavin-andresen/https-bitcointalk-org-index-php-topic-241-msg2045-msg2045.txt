@@ -1,13 +1,3 @@
-
-
-Quote from: Bitcoiner on July 07, 2010, 11:20:49 PM
-
-I don't know, I personally find it rather disconcerting if users in the chain
-can be identified. For example, it wouldn't be enough for me to simply get
-bitcoins at an exchange, send them to a random address, and then use them from
-that point on. Your identity would still be linked. However, given the public
-nature of the transactions, I'm not sure if there is any way around this.  
-
   
 I'm sure somebody somewhere would/will be happy to sell you bitcoins
 anonymously; just put cash and a bitcoin receiving address in an envelope and

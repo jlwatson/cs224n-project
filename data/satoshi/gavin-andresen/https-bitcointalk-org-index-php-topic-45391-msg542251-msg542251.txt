@@ -1,13 +1,3 @@
-
-
-Quote from: BubbleBoy on September 23, 2011, 09:43:13 PM
-
-He goes as far as claiming that "D0g....................." is stronger than
-"PrXyc.N(n4k77#L!eVdAfp9" based simply on the length. That's preposterous !
-The first password has 36 bits of entropy while the second has 150 bits,
-assuming a cracker aware of the "technique". Presuming that you are smarter
-than the attacker is the road to security hell.  
-
   
 I've been wondering about that-- is it possible to write a password cracker
 that generates all the lower-entropy passwords first?  

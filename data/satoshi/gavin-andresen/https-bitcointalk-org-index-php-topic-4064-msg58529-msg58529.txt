@@ -1,5 +1,3 @@
-
-
 https://github.com/bitcoin/bitcoin/pull/88  
   
 This makes CTransaction::CreateTransaction use the same rules for what

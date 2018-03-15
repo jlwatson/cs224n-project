@@ -1,5 +1,3 @@
-
-
 Amir started the "get more formal about changes to bitcoin" ball rolling by
 creating BIP 0001, starting from the Python "PEP" / BitTorrent "BEP"
 processes.  

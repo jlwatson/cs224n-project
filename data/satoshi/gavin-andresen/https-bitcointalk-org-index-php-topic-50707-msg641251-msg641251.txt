@@ -1,5 +1,3 @@
-
-
 Eligius is the first pool to support OP_EVAL-- thanks Luke-Jr ! Block 155974
 is the first "I support OP_EVAL" block in the chain.  
   

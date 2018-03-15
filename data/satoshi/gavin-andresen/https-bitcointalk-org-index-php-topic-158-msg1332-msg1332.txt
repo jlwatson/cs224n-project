@@ -1,5 +1,3 @@
-
-
 Seems like $ would be inviting confusion, since it's followed by numbers that
 can look kind-of like a dollar amount:  
 19vcWM6EEbQHVdN2W8NXv9ySgsPjbZ6gU3$64.20.45.38  

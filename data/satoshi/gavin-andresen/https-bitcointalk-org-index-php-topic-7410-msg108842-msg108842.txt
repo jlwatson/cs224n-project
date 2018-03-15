@@ -1,5 +1,3 @@
-
-
 No, the send-from address is not available, for a couple of reasons:  
   
 1) When people using a shared wallet service like MyBitcoin or MtGox send

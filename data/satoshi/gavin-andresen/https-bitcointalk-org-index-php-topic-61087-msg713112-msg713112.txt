@@ -1,10 +1,3 @@
-
-
-Quote from: teflone on January 25, 2012, 11:35:44 PM
-
-Ie, most bitcointalk people dont bother with reading the technical laden
-Development & Technical Thread.  
-
   
 I suppose I could have posted to the general Bitcoin Talk, but I didn't think
 that kind of low-level "plumbing" would be of general interest, any more than

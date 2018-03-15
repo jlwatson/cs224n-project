@@ -1,5 +1,3 @@
-
-
 svn r167 is a tweaked makefile.unix that Xunie reports allows bitcoind to
 compile cleanly on Ubuntu 10.04 x86_64.  
   

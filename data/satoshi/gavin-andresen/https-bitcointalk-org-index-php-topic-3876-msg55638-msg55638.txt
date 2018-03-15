@@ -1,5 +1,3 @@
-
-
 I've been thinking a lot and trying to educate myself on best practices for
 securing the bitcoin wallet.  
   

@@ -1,10 +1,3 @@
-
-
-Quote from: JohnDoe on November 26, 2011, 02:56:59 PM
-
-If scalability is a non-issue, then why is storing generic data like Namecoin
-banned/heavily discouraged?  
-
   
 As Mike said, help on "initial headers-only download" would be much
 appreciated.  
@@ -20,9 +13,4 @@ see a strong reason to switching to a 'ledger' or 'balance sheet' method.
 Effective optimization/scalability is all about identifying and eliminating
 bottlenecks.  
   
-
-Quote
-
-"Premature optimization is the root of all evil (or at least most of it) in
-programming." -- Donald Knuth
 

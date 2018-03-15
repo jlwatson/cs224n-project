@@ -1,22 +1,3 @@
-
-
-Quote from: gmaxwell on July 26, 2014, 12:01:42 AM
-
-Quote
-
-Edit: With respect to CryptoNote and Monero, I do see merit in the argument
-that the fee penalty alone may not be enough to constrain blocksize; however
-when combined with the difficulty increase requirement the picture changes. As
-for the specifics of the Monero blockchain there are also other factors
-including dust from mining pools that led to the early bloating, and we must
-also keep in mind the CryptoNote and Monero also have built in privacy which
-adds to the blocksize by its very nature.  
-
-Yes, its complicated but it's also concerning. The only altcoins that I'm
-aware of which have diverged from the current Bitcoin behavior in this front,
-and did so with the benefits of all the discussions we've had before being
-available to them, have been suffering from crippling bloat.  
-
   
 Glancing at block explorers for Monero and ByteCoin... I'm not seeing
 crippling bloat right now. I see lots of very-few-transactions blocks.  

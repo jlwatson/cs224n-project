@@ -1,5 +1,3 @@
-
-
 Thanks Sergio!  
   
 So: if the attacker creates a block with a transaction that takes 3 minutes to

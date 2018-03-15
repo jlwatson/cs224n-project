@@ -1,5 +1,3 @@
-
-
 SVN rev 166 (bitcoin version 0.3.13.4) implements secure incoming SSL JSON-RPC
 connections to bitcoind or bitcoin -server on Linux and OSX.  
   

@@ -1,18 +1,3 @@
-
-
-Quote from: doge94 on January 17, 2015, 11:05:35 PM
-
-Quote from: Gavin Andresen on January 17, 2015, 09:59:06 PM
-
-Why would a miner want only half the network to build on their block?  
-  
-That makes no sense... what is the +2hr timestamp miner trying to accomplish?  
-  
-
-  
-It would create a temporary fork and perhaps some confusion. Maybe even break
-some badly coded bitcoin applications if they do not handle forks well.  
-
   
 No, it really wouldn't, any more than a business-as-usual temporary blockchain
 race/fork creates confusion or breaks applications. Like the one-block fork we

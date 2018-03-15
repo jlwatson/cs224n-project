@@ -1,12 +1,3 @@
-
-
-Quote from: BeeCee1 on August 03, 2010, 03:12:42 PM
-
-I am also not saying it is a good thing. having a single split for a fairly
-long period of time lets people come up with a solution, having many splits
-that each last for a few hours means that transactions randomly disappear and
-that hurts confidence in the system.  
-
 Transactions won't disappear if they're valid. They'll just move to the longer
 block chain.  
   

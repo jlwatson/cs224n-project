@@ -1,10 +1,3 @@
-
-
-Quote from: [mike] on March 15, 2011, 08:26:20 AM
-
-If order IDs are put in transactions the next most common question will become
-"so how do I stop my competitors finding out my sales volume?".  
-
   
 Right, that was the problem I was hoping to brainstorm about. I didn't want to
 re-open the "add data to the transaction database" discussion (I think "add

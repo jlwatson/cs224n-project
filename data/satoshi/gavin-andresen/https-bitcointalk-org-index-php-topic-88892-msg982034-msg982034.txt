@@ -1,5 +1,3 @@
-
-
 I think "1 2 3 4" is bad. 4 is more than 1, so a level 4 vulnerability is
 worse, right?  
   

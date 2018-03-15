@@ -1,5 +1,3 @@
-
-
 The only thing stopping me from announcing 0.3.20 "Final!" is confirmation
 from Windows users that switching to the mingw build process fixed the
 rendering issues.  

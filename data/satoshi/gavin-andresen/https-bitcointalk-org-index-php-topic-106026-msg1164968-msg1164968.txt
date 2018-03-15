@@ -1,5 +1,3 @@
-
-
 Sergio:  
   
 Is a new type of message necessary?  

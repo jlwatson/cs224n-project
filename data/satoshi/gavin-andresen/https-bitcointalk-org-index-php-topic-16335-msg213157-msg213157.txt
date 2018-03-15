@@ -1,4 +1,2 @@
-
-
 https://en.bitcoin.it/wiki/Scalability
 

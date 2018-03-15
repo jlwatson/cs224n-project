@@ -1,5 +1,3 @@
-
-
 Wiki page created: https://en.bitcoin.it/wiki/Proper_Money_Handling_(JSON-RPC)  
   
 genjix: You should be calling json.loads(..., parse_float=decimal.Decimal) and

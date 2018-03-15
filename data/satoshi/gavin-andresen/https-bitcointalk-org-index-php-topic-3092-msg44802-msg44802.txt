@@ -1,5 +1,3 @@
-
-
 It doesn't 'feel right' to me.  
   
 Seems like the ideal API would be:  

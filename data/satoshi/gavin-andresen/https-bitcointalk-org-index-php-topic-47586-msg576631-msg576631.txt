@@ -1,5 +1,3 @@
-
-
 Corrupting how? Did they install 0.5 and then downgrade (is it a backwards-
 compatibility issue)?  
 Did it get corrupted when they encrypted?  

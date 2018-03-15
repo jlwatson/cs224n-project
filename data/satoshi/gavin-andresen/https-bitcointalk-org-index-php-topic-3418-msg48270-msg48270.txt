@@ -1,5 +1,3 @@
-
-
 I'm halfway through creating releases-- I had a 0.3.20 candidate Windows
 release that didn't pass sanity testing (rendering issues that it looks like
 are fixed with a wxWidgets upgrade).  

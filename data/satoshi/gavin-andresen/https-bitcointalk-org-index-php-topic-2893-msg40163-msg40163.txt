@@ -1,12 +1,3 @@
-
-
-Quote from: zipslack on January 21, 2011, 06:25:37 AM
-
-So if I get a payment for 100 bitcoins composed of 20 smaller balances from 20
-different accounts, and I trace those coins back and find that 1 week ago they
-all belonged to a single account, it's likely that the coins were passed
-through a "send to self" mix...  
-
   
 Yes, after posting I realized that self-mixing creates a mostly-self-connected
 sub-graph. You really need to start with multiple transactions in, ideally

@@ -1,5 +1,3 @@
-
-
 It took me a while to figure out where to get the wx_gtk2ud-2.9 library needed
 to compile bitcoind, so I thought I'd share for anybody else who's not a
 wxWidgets expert:  

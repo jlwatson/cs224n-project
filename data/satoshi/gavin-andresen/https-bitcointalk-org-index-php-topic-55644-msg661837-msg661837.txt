@@ -1,5 +1,3 @@
-
-
 makomk reported a remote vulnerability that I pulled into the master
 bitcoin/bitcoin tree on December 20. If you are running git-HEAD code on the
 production network you should pull the latest code to get the bug fixed.  

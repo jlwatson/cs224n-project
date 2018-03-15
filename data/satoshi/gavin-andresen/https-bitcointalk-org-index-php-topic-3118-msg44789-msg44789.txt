@@ -1,5 +1,3 @@
-
-
 We've talked about these kinds of scaling issues in the past, and we've got a
 ways to go until they become an issue.  
   

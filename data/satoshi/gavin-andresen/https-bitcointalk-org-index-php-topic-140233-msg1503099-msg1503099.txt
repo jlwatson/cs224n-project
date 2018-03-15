@@ -1,14 +1,3 @@
-
-
-Quote from: jl2012 on February 04, 2013, 05:00:22 AM
-
-Why don't we just let miners to decide the optimal block size?  
-  
-If a miner is generating an 1-GB block and it is just too big for other
-miners, other miners may simply drop it. It will just stop anyone from
-generating 1-GB blocks because that will become orphans anyway. An equilibrium
-will be reached and the block space is still scarce.  
-
   
 I think this is exactly the right thing to do.  
   

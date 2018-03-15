@@ -1,5 +1,3 @@
-
-
 If you're using multisig to secure your wallet, then I think backup could be
 "free" ; all the involved multisig keys could be derived predictably from
 singlesig keys that you'll already need to backup. Disaster recovery from a

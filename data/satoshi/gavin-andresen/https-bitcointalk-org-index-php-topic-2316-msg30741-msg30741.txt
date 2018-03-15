@@ -1,6 +1,4 @@
-
-
-move <fromaccount> <toaccount> <amount> [minconf=1] [comment]  
+move  [minconf=1] [comment]  
   
 minconf does what you want (gives an Account has insufficient funds error if
 not enough funds with minconf confirmations).  

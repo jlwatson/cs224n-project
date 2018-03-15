@@ -1,5 +1,3 @@
-
-
 Yep, if you control more than 50% of the hashing power you can just refuse to
 work on anybody else's blocks and your chain will always eventually be the
 longest.  

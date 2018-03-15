@@ -1,5 +1,3 @@
-
-
 We should avoid saying "canonical" -- I just peeked at the ASN.1/BER/DER spec,
 and there's a "canonical" encoding that is different from the "distinguished"
 encoding:  

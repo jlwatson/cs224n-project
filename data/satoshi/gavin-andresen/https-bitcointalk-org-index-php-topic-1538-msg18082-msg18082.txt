@@ -1,5 +1,3 @@
-
-
 I spent way too many hours yesterday trying to figure out why my Google App
 Engine code couldn't urlfetch from my -rpcssl bitcoin process, so I'm posting
 this to hopefully save somebody else from the frustration.  

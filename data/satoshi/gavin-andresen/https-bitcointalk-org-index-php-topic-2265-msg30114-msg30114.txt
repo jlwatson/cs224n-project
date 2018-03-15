@@ -1,22 +1,3 @@
-
-
-Quote from: casascius on December 14, 2010, 04:49:00 PM
-
-Quote from: davout on December 14, 2010, 04:44:47 PM
-
-What exactly are you trying to acomplish here ?  
-  
-
-  
-To put a donate button on a website that generates a brand new address on
-demand for everyone who wants to donate, so all the donors don't donate to a
-common address that can tie everyone together.  
-  
-If there was a language of choice, perhaps it would be Javascript, so it
-happened all in the browser. Of course there has to be some way to get the
-generated keypair to the recipient, like e-mail or whatever, but somebody else
-can figure that out.  
-
   
 Simplest way:  
   

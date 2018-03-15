@@ -1,5 +1,3 @@
-
-
 Y'all read the pull request, yes?  
   
 So: if you have a better suggestion for fixing the problem of new users

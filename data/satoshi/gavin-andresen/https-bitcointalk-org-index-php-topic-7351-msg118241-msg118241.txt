@@ -1,9 +1,3 @@
-
-
-Quote from: SgtSpike on May 12, 2011, 10:43:52 PM
-
-What about sites with online wallets?  
-
   
 The input-transaction-selection algorithm in bitcoin tries to use older
 transactions, which will have higher priority.  

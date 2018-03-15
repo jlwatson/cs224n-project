@@ -1,5 +1,3 @@
-
-
 RE: pulling the wallet private key encryption ASAP: Agreed 100%  
   
 I wanted to start discussing split keys now because if we need a new standard

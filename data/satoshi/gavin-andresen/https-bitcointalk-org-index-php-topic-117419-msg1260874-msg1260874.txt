@@ -1,9 +1,3 @@
-
-
-Quote from: bg002h on October 10, 2012, 12:26:29 AM
-
-Receiving nodes have no reason to forward transactions on...  
-
   
 Actually, there is a small incentive to forward transactions:  
   

@@ -1,5 +1,3 @@
-
-
 My private gpg key is kept in my LastPass Vault (as a secure note), along with
 all of my passwords.  
   

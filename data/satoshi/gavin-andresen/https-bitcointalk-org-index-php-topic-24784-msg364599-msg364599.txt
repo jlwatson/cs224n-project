@@ -1,5 +1,3 @@
-
-
 Does this patch give any sort of warning if bitcoin isn't being used through a
 proxy?  
   

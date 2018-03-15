@@ -1,17 +1,3 @@
-
-
-Quote from: John Smith on September 29, 2012, 01:09:15 PM
-
-Quote from: LightRider on September 29, 2012, 05:47:06 AM
-
-However, the text in the comment is "bitcoin+foundation+donation". I don't
-know if the '+' symbols are supposed to be rendered like that.  
-
-That's a problem in the website, not the client. %20 should be used to encode
-spaces in URIs, not "+":  
-http://stackoverflow.com/questions/2678551/when-to-encode-space-to-plus-and-
-when-to-20  
-
   
 Huh.  
   

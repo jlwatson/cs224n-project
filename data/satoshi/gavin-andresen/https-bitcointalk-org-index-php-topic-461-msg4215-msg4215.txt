@@ -1,5 +1,3 @@
-
-
 The Bitcoin Faucets (production and TEST) are now running with this change.  
   
 I was confused for a bit because the password is given LAST on the command

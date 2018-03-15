@@ -1,5 +1,3 @@
-
-
 As an experiment, I've uploaded a Mac .dmg disk image with 0.4rc2 binaries to:  
 https://github.com/downloads/bitcoin/bitcoin/  
   

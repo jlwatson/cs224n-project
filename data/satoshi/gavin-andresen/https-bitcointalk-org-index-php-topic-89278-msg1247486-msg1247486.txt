@@ -1,5 +1,3 @@
-
-
 I thought the consensus was that the mining devices just need a little extra
 software onboard to increment extranonce and recompute the merkle root.  
   

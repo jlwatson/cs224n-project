@@ -1,5 +1,3 @@
-
-
 Uhhh... maybe a specific example will help. Lets say you start with
 accounts/balances of:  
   

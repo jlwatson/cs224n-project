@@ -1,5 +1,3 @@
-
-
 If you're on OSX you can do this:  
 http://mac.tutsplus.com/tutorials/productivity/how-to-tag-files-and-create-
 spotlight-comments-on-a-mac/  

@@ -1,5 +1,3 @@
-
-
 80 transactions per second is 6.9 million transactions per day. That is a LOT.  
   
 PayPal was doing about 2 million transactions per day in 2008; if there are

@@ -1,5 +1,3 @@
-
-
 r.willis is confused about the BIP process.  
   
 It is not "Write a specification. Submit a BIP. Argue for a while, revise the

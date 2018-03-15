@@ -1,5 +1,3 @@
-
-
 RE: long delay, no window on startup: will be made much better by the QT
 splash screens in bitcoin 0.5.  
 RE: lots of GUI bugs: whole rafts of wxwidgets-related bugs will go away with

@@ -1,17 +1,3 @@
-
-
-Quote from: HarryS on June 27, 2010, 01:43:37 AM
-
-When I run,  
-
-Quote
-
-./bitcoind getaddressesbylabel ""  
-[  
-]  
-
-Is it normal for it to give nothing, or what?  
-
 Hmm, yeah, it's probably normal; I THOUGHT the default address was given an
 empty label; I'm wrong, they're given the label "Your Address".  
 So:

@@ -1,11 +1,3 @@
-
-
-Quote from: netrin on December 23, 2011, 05:46:08 PM
-
-Is that gavinandresen/bitcoin-git or bitcoin/bitcoin? If I also pull the anon-
-ish 'coin control' is that likely to interfere with 0.6 testing? How and where
-would you prefer test feedback?  
-
   
 bitcoin/bitcoin is the 0.6 tree  
   

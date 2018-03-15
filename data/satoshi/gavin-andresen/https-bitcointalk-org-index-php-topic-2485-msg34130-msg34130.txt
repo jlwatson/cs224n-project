@@ -1,5 +1,3 @@
-
-
 I think of this as a subset of the "I want to move N bitcoins from my wallet
 to a USB stick that I'll put in my safe deposit box so it cannot be hacked",
 "bitcoins as a long-term store of value" feature:  

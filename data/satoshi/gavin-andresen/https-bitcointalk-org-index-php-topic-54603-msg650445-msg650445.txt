@@ -1,5 +1,3 @@
-
-
 I like "sweep" -- it has very clear semantics that I think users will
 understand: "Take all the funds that were sent THERE, and send them to me
 RIGHT NOW."  

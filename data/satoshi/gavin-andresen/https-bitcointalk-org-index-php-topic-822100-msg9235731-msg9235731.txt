@@ -1,11 +1,4 @@
-
-
 I'm confused. In the lottery example:  
-
-Quote
-
-get timestamp for @txid and store in @timestamp  
-
 What is the timestamp for a transaction? When the node receiving the
 transaction receives it? The timestamp of the block in which the transaction
 is confirmed?  

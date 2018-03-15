@@ -1,10 +1,3 @@
-
-
-Quote from: triplehelix on March 27, 2012, 12:11:53 AM
-
-my only comment is that bitcoin is not offering the most secure implementation
-it can. the fact that its a conscious decision doesn't change that.  
-
 Ummm...  
   
 You know when you choose "About Bitcoin-Qt" and it says "Version 0.something

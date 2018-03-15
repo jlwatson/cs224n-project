@@ -1,5 +1,3 @@
-
-
 I gathered data on transaction first-confirmation times this weekend:  
   
 https://docs.google.com/open?id=0B74FtkFP4j73TXZUY05kSFVzN00  

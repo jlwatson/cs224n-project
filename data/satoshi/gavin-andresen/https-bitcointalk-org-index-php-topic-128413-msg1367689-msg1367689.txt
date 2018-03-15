@@ -1,13 +1,3 @@
-
-
-Quote from: Rassah on November 29, 2012, 10:54:28 PM
-
-I think Bitcoin has shown rather conclusively that trust just doesn't work.
-Thus, I think Ripple will become rather chaotic, and may fall apart, when
-large trust "nodes" (people with a lot of connections that ripple payments go
-through) decide to take the money and "exit the network," filling the web with
-holes.  
-
   
 I don't think we'll **know** if it can work until it is tried; it does seem to
 me that the incentives point the wrong way (if my doctor tells me I have six

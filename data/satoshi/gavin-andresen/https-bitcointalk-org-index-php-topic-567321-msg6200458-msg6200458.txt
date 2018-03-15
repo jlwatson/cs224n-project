@@ -1,5 +1,3 @@
-
-
 transactions send via sendrawtransaction are always debited from the default
 "" account. Raw transactions and accounts are not designed to work together,
 use one or the other .  

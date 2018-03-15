@@ -1,5 +1,3 @@
-
-
 The crash-on-exit bug could be this issue:
 https://github.com/bitcoin/bitcoin/issues/2204  
   

@@ -1,5 +1,3 @@
-
-
 Hmm... I guess I was too slow:  
 "PAYMENT TIMED OUT! We didn't receive a payment from you. Try again."  
   

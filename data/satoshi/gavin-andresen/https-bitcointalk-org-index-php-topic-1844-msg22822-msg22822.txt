@@ -1,5 +1,3 @@
-
-
 daveout's code isn't quite right (because he based it on an earlier version of
 my python code).  
   

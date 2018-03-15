@@ -1,5 +1,3 @@
-
-
 How did you build Berkeley DB? Something like this in the MSYS shell:  
 sh ./dist/configure -enable-cxx -enable-mingw  
   

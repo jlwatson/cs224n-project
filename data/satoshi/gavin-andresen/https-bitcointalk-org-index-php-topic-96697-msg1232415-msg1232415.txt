@@ -1,10 +1,3 @@
-
-
-Quote from: MoonShadow on September 30, 2012, 12:08:51 AM
-
-Well, on that note, it would be wise if the development team were to consider
-the adoption of a second address schema using a different public/private algo.  
-
 Right now? What if we did that and it turned out the second public/private
 algo was broken first? ECDSA is a NIST standard that has been very well
 studied and has no known vulnerabilities. There are much, much, much higher

@@ -1,12 +1,3 @@
-
-
-Quote from: NewLiberty on October 19, 2014, 05:35:17 AM
-
-By including the coinbase fee (or maybe a square or other root of it) we would
-come closer to Gavin's increase in the early years and move steadily toward a
-fee supported mining within the next 20 years or so while increasing the
-MAX_BLOCK_SIZE.  
-
   
 Did you read my "blocksize economics" blog post?  
   

@@ -1,25 +1,9 @@
-
-
-Quote from: kjj on October 25, 2012, 04:29:27 AM
-
-...On the other hand, if it (MD5) was used in bitcoin transactions, those
-transactions would still be totally safe, for at least a few more years,
-because all of the attacks require conditions that can't be met in the bitcoin
-system.  
-
   
 I think that is a good thought experiment: If you replaced all uses of SHA256
 in Bitcoin with MD5, what attacks would be possible? (please check my work, I
 am not an expert on hash collisions)  
   
 Well, to generate a collision:  
-
-Quote
-
-...the attacker needs to generate ... a 128-byte block of data, aligned on a
-64-byte boundary that can be changed freely by the collision-finding
-algorithm.  
-
   
 Block hashing would be safe, for now; the block header that is hashed is only
 80 bytes long, much less than the 128 bytes of wiggle room needed to find a

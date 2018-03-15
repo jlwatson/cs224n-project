@@ -1,5 +1,3 @@
-
-
 I'd like to see somebody work on a "shun ill-behaved peers" patch.  
   
 So if one of your peers sends you lots of garbage

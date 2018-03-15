@@ -1,5 +1,3 @@
-
-
 The testnet Faucet has 7,000 testnet coins in it, you can get 50 at a time at:  
 https://freebitcoins.appspot.com/TEST/  
   

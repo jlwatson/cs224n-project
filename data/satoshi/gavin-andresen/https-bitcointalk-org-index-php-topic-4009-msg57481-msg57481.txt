@@ -1,5 +1,3 @@
-
-
 This definitely needs fixing; it is another "people getting lots of very small
 change from mining pools" issue.  
   

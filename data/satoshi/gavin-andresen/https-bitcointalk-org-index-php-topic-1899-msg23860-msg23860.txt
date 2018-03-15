@@ -1,5 +1,3 @@
-
-
 What error did you get, farmer_boy? The only errors I see in the server's logs
 are "rate limit" errors.  
   

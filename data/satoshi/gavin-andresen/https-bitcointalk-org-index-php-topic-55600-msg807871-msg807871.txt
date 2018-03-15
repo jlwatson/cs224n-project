@@ -1,8 +1,6 @@
-
-
 I started experimenting with user-defined checkpoints (-checkpoint=height,hash
-multiarg, and 'addcheckpoint <height> <hash>' RPC call) but stopped when
-higher priority issues came up.  
+multiarg, and 'addcheckpoint  ' RPC call) but stopped when higher priority
+issues came up.  
   
 It seems to me that type of low-level mechanism is the right way to go;
 checkpointing is a good low-level way of identifying which chain you think is

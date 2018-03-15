@@ -1,5 +1,3 @@
-
-
 If you're on Linux or Mac, run contrib/tidy_datadir.sh if you want to get rid
 of old, not-used-any-more files in your data directory.  
   

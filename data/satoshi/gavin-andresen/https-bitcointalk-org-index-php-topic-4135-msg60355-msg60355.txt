@@ -1,5 +1,3 @@
-
-
 fopen() is a standard C library call; it is weird Bitcoin can't find it.  
   
 Is anybody else running bitcoin on OSX 10.5 ? I'm running 10.6.6; Laszlo does

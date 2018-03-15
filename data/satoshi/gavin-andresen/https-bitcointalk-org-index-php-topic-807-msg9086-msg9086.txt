@@ -1,5 +1,3 @@
-
-
 RE: adding a flag: great idea!  
   
 If you set the flag, I don't see any reason to prepend 'sent' to the

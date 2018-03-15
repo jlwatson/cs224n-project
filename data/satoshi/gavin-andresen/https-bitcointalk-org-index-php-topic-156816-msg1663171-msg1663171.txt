@@ -1,5 +1,3 @@
-
-
 Somebody should exploit all the DoS bugs that have been fixed to put the dead
 altcoins out of their misery, starting with the BDB lock limit bug.  
   

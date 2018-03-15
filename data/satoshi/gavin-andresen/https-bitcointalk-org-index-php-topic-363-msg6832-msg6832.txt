@@ -1,5 +1,3 @@
-
-
 That IS part of the new -port / -rpcport code (I use
 boost::interprocess::file_lock to make sure bitcoins running on different
 ports don't try to use the same wallet/blkindex/etc files).  

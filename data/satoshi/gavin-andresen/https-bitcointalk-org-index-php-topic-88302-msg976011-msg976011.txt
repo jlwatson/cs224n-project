@@ -1,12 +1,3 @@
-
-
-Quote from: deepceleron on June 19, 2012, 10:49:37 PM
-
-Another coding optimization would be if you receive a second block solution,
-to immediately discard the first and push out the newer one if it has a
-significantly smaller hash, of course still keeping track of both as valid
-work from miners.  
-
 Chain proof-of-work is calculated based on the hash target, so if you get
 another block at the same height there is no benefit to keeping the one with
 "the smaller hash".  

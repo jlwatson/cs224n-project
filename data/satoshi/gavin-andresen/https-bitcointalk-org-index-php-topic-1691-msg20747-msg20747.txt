@@ -1,12 +1,3 @@
-
-
-Quote from: ByteCoin on November 08, 2010, 09:14:26 PM
-
-In order to enable interoperability we need to have a sufficiently detailed
-specification of the scripting language, how mathematically scriptSig
-satisfies scriptPubKey and some commitment from Satoshi that he will "play
-nicely" with such efforts.  
-
   
 I think it is WAY too early to nail all that down; bugs in that code caused
 changes just a few months ago.  

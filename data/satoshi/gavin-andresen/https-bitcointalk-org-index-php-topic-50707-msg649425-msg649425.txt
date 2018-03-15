@@ -1,10 +1,3 @@
-
-
-Quote from: finway on December 13, 2011, 03:40:39 AM
-
-I dont' see the OP_EVAL nor OP_NOP1 in this block ?  
-And how many pools is supporting this "OP_EVAL"?  
-
   
 These bytes at the end of the coinbase: 074f505f4556414c  
 ... are the 7-character string "OP_EVAL" (07 is the length, 4f is the letter

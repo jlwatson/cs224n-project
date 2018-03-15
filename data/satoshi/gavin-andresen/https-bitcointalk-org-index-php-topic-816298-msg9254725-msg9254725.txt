@@ -1,10 +1,3 @@
-
-
-Quote from: santaClause on October 19, 2014, 02:50:48 PM
-
-... I think the disagreement is what effects both not raising the limit and
-raising the limit will have on the network and on TX fees  
-
   
 Is there really any disagreement? Everybody I have talked with believes that
 transaction fees will rise if Bitcoin is successful and the 1MB limit is kept.  

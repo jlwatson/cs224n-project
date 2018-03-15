@@ -1,11 +1,3 @@
-
-
-Quote from: satoshi on August 13, 2010, 11:39:14 PM
-
-It's too soon to start junking up the API for backward compatibility at all
-costs.  
-Just return "<txid>".  
-
 You'll never hear me argue with "keep it simple."  
   
 Patch for that is trivial:  

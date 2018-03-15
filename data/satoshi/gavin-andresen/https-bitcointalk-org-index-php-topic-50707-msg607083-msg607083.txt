@@ -1,13 +1,3 @@
-
-
-Quote from: shads on November 03, 2011, 03:53:47 PM
-
-I just mean make a new tx after each new block appears or at least at some
-regular interval so we can test building blocks knowing that one of these new
-tx types is included. Actually if there's an rpc call available to create one
-that would work as well... Then people testing can just create one when they
-need it.  
-
   
 I'm proposing one new RPC command: 'addmultisigaddress' ... that combines
 several public keys into one BIP 13 -style newfangled bitcoin address.  

@@ -1,5 +1,3 @@
-
-
 A Radeon 6990 has 4 gigabytes of ram.  
   
 If the task is "find a number that bcrypts/scrypts to less than a given hash

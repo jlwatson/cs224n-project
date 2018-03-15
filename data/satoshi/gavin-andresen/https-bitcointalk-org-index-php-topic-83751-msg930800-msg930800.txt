@@ -1,5 +1,3 @@
-
-
 Chaining not-yet-signed transactions is impossible because transaction inputs
 are identified by the previous transaction's hash, and the transaction's hash
 includes everything about the transaction, including the signatures.  

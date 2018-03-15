@@ -1,5 +1,3 @@
-
-
 Making transactions with non-DER-encoded (aka BER encoded) signatures non-
 standard has been on my TODO list for over a year now, but has never been the
 highest priority. That's the first step to making non-DER-encoded signatures

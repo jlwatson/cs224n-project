@@ -1,9 +1,2 @@
-
-
-Quote from: Fking on November 15, 2012, 03:35:13 PM
-
-i suppose we don't need to buy certificates for this server to server
-connection, how do we generate the needed files on our own?  
-
 See: https://en.bitcoin.it/wiki/Enabling_SSL_on_original_client_daemon  
 

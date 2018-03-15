@@ -1,11 +1,3 @@
-
-
-Quote from: jgarzik on December 21, 2010, 05:38:09 AM
-
-Now I remember why I added the option: doesn't the internal miner call
-CheckWork() if 16 bits are zeroes? ie. this message would be printed a lot for
-the internal miner, if added unconditionally, right?  
-
   
 That's what I meant when I asked "are there significant costs?"  
   

@@ -1,5 +1,3 @@
-
-
 Adds support for the Tonal numbering system to bitcoin. Branch is at
 https://github.com/gavinandresen/bitcoin-git/tree/tonal  
   

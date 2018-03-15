@@ -1,5 +1,3 @@
-
-
 Sorry to send you on a wild goose chase, the problem is **NOT** CRLF issues.  
   
 The problem is in your HTTP headers; you're sending the request as:  

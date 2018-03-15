@@ -1,17 +1,4 @@
-
-
-Quote from: mav on July 12, 2012, 06:45:07 AM
-
-Am I right in expecting that the address should have 0.002 coins in it?  
-
 Yes.  
-
-Quote
-
-Where can I find more information about how to spend these coins and when/how
-they will be spendable; or if I am wrong about this, an explanation to fill in
-my knowledge gap?  
-
 As Pieter said, they don't count towards your wallet balance because you don't
 have ALL of the private keys in your wallet.  
   
@@ -19,13 +6,6 @@ It is not clear which wallet those 1-of-2 coins belong to, since neither has
 exclusive control over them. So the code is conservative and doesn't add them
 to your balance unless you have ALL of the private keys.  
   
-
-Quote
-
-Is there an estimate for when multisig will be usable? Is it already usable?
-If it's already usable, can someone point me to the info I require to be able
-to use it?  
-
 The 0.7 release will have a set of RPC calls to create and sign transactions
 that spend from multisig inputs: see https://gist.github.com/2839617  
   

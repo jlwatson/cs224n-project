@@ -1,12 +1,3 @@
-
-
-Quote from: carlos on April 22, 2013, 04:03:14 PM
-
-I'd prefer some "official" solution as I'd like to support the network with
-the fees (also not risking messing up user's transactions) and in the same
-time give our users ability to predict fees in advance before sending. Do you
-think its currently possible with main dist of bitcoind?  
-
   
 No, unless you take complete control over input selection and transaction
 creation using the raw transactions API.  

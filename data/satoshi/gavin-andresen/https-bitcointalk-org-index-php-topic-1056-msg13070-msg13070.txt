@@ -1,5 +1,3 @@
-
-
 The bitoin URI thread has died down, but bitcoinmarket and MtGox's spiffy
 "click to pay" features prompted me to think some more about payment links on
 web pages.  

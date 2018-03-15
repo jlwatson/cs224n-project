@@ -1,5 +1,3 @@
-
-
 Is there a PHP implementation that does not use double-precision floating
 point?  
 After doing a little googling I couldn't figure out the answer to that. I will
@@ -12,22 +10,8 @@ data as 0.93999999999999994671"
 So why when you display that value are you truncating it instead of rounding
 it to 8 decimal places?  
 For example:  
-
-Quote
-
-> php -r "printf('%.8f', 0.94);" #CORRECT  
-0.94000000  
-> php -r "printf('%.16f', 0.94);" #WRONG  
-0.9399999999999999  
-
   
 ... or to convert to an integer-number-of-base-unit:  
-
-Quote
-
-> php -r '$val=0.94; printf("%d", round(1e8*$val));'  
-94000000  
-
   
 All of that assume that your php support double-precision floating point,
 which brings me back to my question: are there any php implementations that do

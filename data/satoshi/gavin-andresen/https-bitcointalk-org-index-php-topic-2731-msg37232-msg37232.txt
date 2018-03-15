@@ -1,5 +1,3 @@
-
-
 Character set issues give me headaches.  
   
 So I just ran a test at the command-line, moving 500 testnet bitcoins to an

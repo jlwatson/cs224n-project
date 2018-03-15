@@ -1,10 +1,3 @@
-
-
-Quote from: justusranvier on March 11, 2013, 12:21:49 PM
-
-The only reason to limit the block size is to subsidize non-Bitcoin currencies
-or to insulate existing miners from future competition.
-
   
 I think this is exactly right.  
   

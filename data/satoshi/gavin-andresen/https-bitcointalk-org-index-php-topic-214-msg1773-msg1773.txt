@@ -1,5 +1,3 @@
-
-
 I want to write an application that does stuff whenever bitcoins are sent to a
 particular Bitcoin address.  
   

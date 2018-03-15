@@ -1,5 +1,3 @@
-
-
 The Bitcoin Faucet's wallet was stolen a couple of months ago:  
 http://gavintech.blogspot.com/2012/03/bitcoin-faucet-hacked.html  
 

@@ -1,10 +1,3 @@
-
-
-Quote from: DeathAndTaxes on January 09, 2012, 02:53:53 PM
-
-There is no economic reason for a pool to reject any transaction w/ a 1
-satoshi fee.  
-
   
 Why do you assume that?  
   
@@ -21,12 +14,6 @@ how expensive they are to process, and drop transactions that cost too much.
 (or maybe implement some more complicated strategy like Mike's assurance
 contracts-- I have no idea how it will evolve).  
   
-
-Quote from: vess on January 09, 2012, 06:07:57 AM
-
-I wonder if it would be useful for miners to publish their transaction rules
-somewhere?  
-
   
 Miners have an incentive to lie about transaction fees to clients-- they want
 higher fees, so even though they might accept 0.001BTC for a transaction they

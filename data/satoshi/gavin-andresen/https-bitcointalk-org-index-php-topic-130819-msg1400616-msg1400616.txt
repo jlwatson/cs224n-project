@@ -1,9 +1,3 @@
-
-
-Quote from: cypherdoc on December 14, 2012, 08:36:29 PM
-
-so nothing to fix Hal's find?  
-
 No, that will be fixed in the 0.8 release.  
   
 If you think the single-send-not-randomizing-the-change-address-bug gives you

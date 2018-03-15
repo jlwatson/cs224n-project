@@ -1,14 +1,3 @@
-
-
-Quote from: bytemaster on August 04, 2010, 06:22:56 AM
-
-Well, right now nothing stops someone from creating a system where:  
-  
-A sends 1.00000001 to B  
-B sends 1.00000000 back to A  
-  
-Net result is a micro-payment and no processing fee.  
-
   
 ... unless B started with zero bitcoins. Then B is stuck; she can't send 1.0
 back, because doing that would cause a 0.00000001 bitcoin 'change'

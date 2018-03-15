@@ -1,5 +1,3 @@
-
-
 Updated to release candidate 6:  
 https://sourceforge.net/projects/bitcoin/files/Bitcoin/bitcoin-0.4.1/test/  
 https://sourceforge.net/projects/bitcoin/files/Bitcoin/bitcoin-0.5.0/test/  

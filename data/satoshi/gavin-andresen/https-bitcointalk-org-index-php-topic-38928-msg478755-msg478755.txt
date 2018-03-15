@@ -1,11 +1,3 @@
-
-
-Quote from: theymos on August 24, 2011, 06:06:40 PM
-
-Please also enable the non-address versions. Like:  
-2 KeyA KeyB 2 OP_CHECKMULTISIG  
-1 KeyNormal KeyBackup 2 OP_CHECKMULTISIG  
-
   
 Those are "Proposal 1" -- enabling all the 'plain-old' OP_CHECKMULTISIG
 transactions.  

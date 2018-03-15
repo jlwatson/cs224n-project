@@ -1,5 +1,3 @@
-
-
 I'd love to see somebody resurrect the Visual C++ makefile and build
 instructions (and let us know if we've accidentally added and gcc-specific
 code), so Windows developers didn't have to spin up a VM and cross-compile

@@ -1,14 +1,3 @@
-
-
-Quote from: matt.collier on May 18, 2011, 03:54:59 PM
-
-Gavin, your ClearCoin project holds bitcoins on deposits. Can you direct me to
-the security standards that you are adhering to? Has a 3rd party audit been
-peformed to ensure that your organization is adhering to those standards? Have
-you subjected your infrastructure to any kind of penetration tests? If I have
-1000 btc in escrow at ClearCoin and an act of God wipes out your server at
-2:15PM on a Sunday afternoon, is money safe and recoverable?  
-
   
 No, no, no and yes. I'm planning on making the answers to all of those
 questions "yes" within the next six months, although I need to look at how
@@ -20,13 +9,6 @@ due to ClearCoin getting hacked.
 (note: I just looked, and right now there are 540 bitcoins in the ClearCoin
 wallet, so spending $50,000 to protect them really wouldn't make sense).  
   
-
-Quote
-
-More to the point, how can I or anyone affordably provide the same kind of
-fault tolerance and data security that a traditional banking institution
-would?  
-
   
 Yet another bitcoin chicken-and-egg problem that will get solved by investors
 taking a risk and giving bitcoin entrepreneurs the resources to do security

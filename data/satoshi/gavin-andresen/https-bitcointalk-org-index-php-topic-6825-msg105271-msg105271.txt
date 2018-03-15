@@ -1,14 +1,3 @@
-
-
-Quote from: molecular on May 03, 2011, 09:12:08 PM
-
-Quote from: dacoinminster on May 03, 2011, 12:44:52 AM
-
-When you go to the bank and get your CD-R and set the wallet up again, all
-your bitcoins that you sent to that wallet will magically appear.  
-
-you have to use _-rescan_ for the magic to work, though, afaik.  
-
   
 Bitcoin 0.3.21 puts a 'bestblock' entry in the wallet so it will automatically
 -rescan if you restore an old wallet (and it only rescans the blocks necessary

@@ -1,12 +1,3 @@
-
-
-Quote from: 2112 on September 08, 2012, 04:41:05 PM
-
-In summary: the above isn't a "patch" or "git pull request" that can be
-submitted. This is a change of a mindset that would need to happen amongst the
-core development group. The GAAP isn't just a ruleset/certification that
-happens once and then you have it. It is an ongoing commitment.  
-
 When I hear that, I hear "you should stop doing what you're doing for a year
 or two or three and re-implement the whole thing."  
   

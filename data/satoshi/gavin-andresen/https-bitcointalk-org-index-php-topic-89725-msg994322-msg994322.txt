@@ -1,12 +1,3 @@
-
-
-Quote from: Herbert on June 27, 2012, 04:22:16 PM
-
-Thank you Devs, this is great!  
-Is there some more information on this batch mode available? Would it also be
-possible to request in one call information about many unrelated TXs (because
-you mention "all transactions in a block"...)?  
-
   
 See "Batch Mode" in the JSON 2.0 spec: http://www.jsonrpc.org/specification  
   

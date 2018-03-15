@@ -1,5 +1,3 @@
-
-
 I was editing the bitcoin.org homepage to update the download links, and I
 couldn't resist make a few changes:  
   

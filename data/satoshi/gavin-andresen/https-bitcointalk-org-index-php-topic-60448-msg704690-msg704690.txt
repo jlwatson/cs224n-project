@@ -1,5 +1,3 @@
-
-
 If you don't want to change you can just ignore the new feature(s). There is
 zero risk with the proposed changes for anybody running old, un-hacked
 versions of bitcoin.  

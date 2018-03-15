@@ -1,5 +1,3 @@
-
-
 It costs the bitcoin network something like 0.001 US cents to process a
 typical transaction, so transactions less than about a cent don't make sense.  
   

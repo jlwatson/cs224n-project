@@ -1,11 +1,3 @@
-
-
-Quote from: hhanh00 on October 14, 2014, 09:08:33 AM
-
-You guys say that hard drives are cheap but you still have to scan the block
-chain at first. It takes a very long time to do but is the only trust less
-solution, isn't it?  
-
   
 Yes, today. But not at some point in the future. Please read about "UTXO
 commitments" in https://bitcoinfoundation.org/2014/10/a-scalability-roadmap/  

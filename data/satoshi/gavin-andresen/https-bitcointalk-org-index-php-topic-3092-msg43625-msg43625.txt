@@ -1,5 +1,3 @@
-
-
 How do you think the code should deal with the issue of "a fixed txid might no
 longer be valid" ? Or transactions that you THOUGHT had N confirmations and
 were in a block with timestamp T are re-organized to have M confirmations and

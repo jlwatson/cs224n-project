@@ -1,9 +1,3 @@
-
-
-Quote from: nanotube on December 29, 2010, 07:43:40 PM
-
-i think gavin's bitcointools can already extract keys from wallet?  
-
   
 It dumps out keys in abbreviated hex (I worry about naive users accidently
 publishing screen snapshots showing their full private keys).  

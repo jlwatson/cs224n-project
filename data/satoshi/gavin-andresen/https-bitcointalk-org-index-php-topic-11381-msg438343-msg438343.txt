@@ -1,5 +1,3 @@
-
-
 Putting illegal content in the block chain and announcing it as an attempt to
 undermine Bitcoin seems like a good way to get yourself arrested. Much better
 than tweeting about exploits.  

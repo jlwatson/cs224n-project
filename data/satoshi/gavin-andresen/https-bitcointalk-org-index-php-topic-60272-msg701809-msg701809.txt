@@ -1,14 +1,3 @@
-
-
-Quote from: P4man on January 19, 2012, 10:40:37 AM
-
-...a system could be devised that stores the messages not in the blockchain,
-but somewhere else, using the transaction ID to link the message with the
-transaction. The message could be signed with the private key of the person
-initiating the transaction.  
-  
-Thoughts?  
-
   
 Good idea. Somebody should do that.  
 

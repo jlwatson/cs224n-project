@@ -1,11 +1,3 @@
-
-
-Quote from: robamichael on January 12, 2013, 04:22:15 AM
-
-Is it fair to say then, that Bitcoin is not completely decentralized? I am
-only asking to better my understanding, but it seems there is some amount,
-even if minor, of centralization.  
-
   
 The only completely and utterly decentralized bitcoin-like system I can think
 of would have every person using it write and run their own code.  

@@ -1,5 +1,3 @@
-
-
 The only think I can think of is that the php fopen() call is timing out. Are
 you trying to generate coins? Does it get better if you stop generating?  
   

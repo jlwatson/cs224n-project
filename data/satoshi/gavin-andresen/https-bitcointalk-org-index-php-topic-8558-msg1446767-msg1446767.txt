@@ -1,5 +1,3 @@
-
-
 correction: bitcoin-qt/bitcoind command-line arguments have a single-dash, so
 it would be  
 bitcoin-qt -server  

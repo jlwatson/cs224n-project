@@ -1,5 +1,3 @@
-
-
 Submit bugs here: https://github.com/bitcoin/bitcoin/issues  
 Although all of the GUI code is being replaced in the next version, so don't
 bother submitting UI bugs.  

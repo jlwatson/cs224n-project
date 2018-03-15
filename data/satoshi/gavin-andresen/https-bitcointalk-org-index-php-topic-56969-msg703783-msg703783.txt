@@ -1,5 +1,3 @@
-
-
 Once transactions are validated and buried "deep enough" in the blockchain you
 can forget their inputs, because the inputs are only needed for validation.  
   

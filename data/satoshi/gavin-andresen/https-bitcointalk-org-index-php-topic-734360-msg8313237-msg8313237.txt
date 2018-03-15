@@ -1,5 +1,3 @@
-
-
 Block re-orgs need some thought.  
   
 If I have chain A-B-C, and get IBLT's for an alternative chain A-B'-C'-D'...  

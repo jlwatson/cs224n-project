@@ -1,9 +1,3 @@
-
-
-Quote from: Mike Hearn on August 25, 2012, 01:23:43 PM
-
-If we manage the first hard fork process successfully...  
-
   
 I don't think a new signature algorithm doesn't require a hard fork; redefine
 an OP_NOP as OP_CHECKSIGVERIFY2 that uses ed25519, create a new 'standard'

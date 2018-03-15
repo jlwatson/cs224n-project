@@ -1,5 +1,3 @@
-
-
 Are you setting the ContentType as described here:  
 https://en.bitcoin.it/wiki/API_tutorial_(JSON-RPC)#.NET_(C_)  
 

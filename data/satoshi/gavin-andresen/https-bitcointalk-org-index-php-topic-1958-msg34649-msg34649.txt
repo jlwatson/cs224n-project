@@ -1,21 +1,7 @@
-
-
-Quote from: em3rgentOrdr on December 31, 2010, 05:29:38 PM
-
-This was an extremely good interview. I didn't really entirely get how bitcoin
-really works until now after reading this interview.  
-
 Thanks! It was the first interview I've ever done via IM/chat, and it worked
 well. I was surprised to see how little editing/reworking was done; I guess
 they were happy with what I wrote, too.  
   
-
-Quote
-
-Gavin, you mention that you use VPSes for your bitcoin apps. May I ask which
-VPS providers you use? I am currently looking for VPSes for my own bitcoin
-apps.  
-
   
 Sure. I run two instances of bitcoind on a "Linode 512" running Debian (sign
 up using this URL and I'll get a $20 credit). They're used for the TEST and

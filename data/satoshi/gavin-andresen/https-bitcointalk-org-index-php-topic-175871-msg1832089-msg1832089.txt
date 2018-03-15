@@ -1,5 +1,3 @@
-
-
 I think including a message that is NOT stored in the blockchain but is just
 broadcast across the network is a good idea. The receiver would only get the
 message if they were online and saw the transaction broadcast, but I think

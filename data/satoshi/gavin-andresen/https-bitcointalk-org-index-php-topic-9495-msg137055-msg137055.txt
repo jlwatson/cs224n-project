@@ -1,5 +1,3 @@
-
-
 If I understood the paper correctly (I skimmed it very quickly), this is a
 timing attack that requires the attacker send a bunch of things to be
 **signed** with the same ECDSA private key.  

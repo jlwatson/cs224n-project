@@ -1,5 +1,3 @@
-
-
 The official client uses an older version of Berkeley DB (4.8, according to
 build-osx.txt).  
   

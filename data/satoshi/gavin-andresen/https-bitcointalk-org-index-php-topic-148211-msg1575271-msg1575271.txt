@@ -1,5 +1,3 @@
-
-
 The default block-filling algorithm that most miners are running is:  
   
 \+ Fill up part of the block with the highest transactions, regardless of fees  

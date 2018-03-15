@@ -1,5 +1,3 @@
-
-
 Can you back up and describe what problems your patches solve?  
   
 Here are the problems I care about:  

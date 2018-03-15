@@ -1,5 +1,3 @@
-
-
 For my first Bitcoin coding project, I decided to do something that sounds
 really dumb: I created a web site that gives away Bitcoins. It is at:
 https://freebitcoins.appspot.com/  

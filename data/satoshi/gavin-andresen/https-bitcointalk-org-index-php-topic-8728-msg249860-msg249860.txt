@@ -1,5 +1,3 @@
-
-
 RE: making it harder to brute-force:  
   
 I have a couple of thoughts. First, if users choose passwords like 'abc123' or

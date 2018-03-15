@@ -1,10 +1,3 @@
-
-
-Quote from: 2112 on October 14, 2012, 02:25:05 AM
-
-This isn't a patch or pull request. It is an architectural issue that requires
-extensive changes.  
-
 Right, and we don't accept "change the world" pull requests because the risks
 of introducing a catastrophic bug outweigh the benefits, and rewriting
 everything invalidates all of the careful code review that's been done over

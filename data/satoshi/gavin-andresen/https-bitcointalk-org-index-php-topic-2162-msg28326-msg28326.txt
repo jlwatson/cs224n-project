@@ -1,11 +1,3 @@
-
-
-Quote from: theymos on December 08, 2010, 11:41:42 PM
-
-Yeah; it's pretty pointless. Why on Earth would any miner adopt this change,
-when it means that they will be getting fewer transaction fees due to the lost
-non-standard transactions?  
-
   
 There's been exactly one block with non-standard transactions:  
 http://blockexplorer.com/b/71036  

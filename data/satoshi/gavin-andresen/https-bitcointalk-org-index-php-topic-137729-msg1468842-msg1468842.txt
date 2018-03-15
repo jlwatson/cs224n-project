@@ -1,5 +1,3 @@
-
-
 With the current transaction fee rules, inputs of less than about 0.00005 BTC
 will cost more to spend than they are worth.  
   

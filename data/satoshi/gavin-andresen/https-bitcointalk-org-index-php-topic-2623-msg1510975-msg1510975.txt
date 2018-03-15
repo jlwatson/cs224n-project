@@ -1,5 +1,3 @@
-
-
 I'm of the opinion that bitcoind/Bitcoin-Qt shouldn't be pushed to the
 central/canonical repos until we hit version 1.0.  
   

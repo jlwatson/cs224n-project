@@ -1,11 +1,3 @@
-
-
-Quote from: doood on May 10, 2011, 09:15:28 PM
-
-It's an extra point of attack on those coins if someone else also holds a
-copy, and you have to trust bitbills.com just a little bit more.  
-Some would prefer to think that they hold the ONLY copy with no backup.  
-
   
 So whenever you meet (or communicate with) somebody who owns bitbills check
 your bills' public address against their bills' public address. If there is

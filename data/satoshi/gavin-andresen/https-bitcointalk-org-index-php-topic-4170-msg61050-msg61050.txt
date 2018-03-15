@@ -1,9 +1,3 @@
-
-
-Quote from: Tril on March 06, 2011, 04:26:09 PM
-
-define click-to-pay?  
-
   
 You're browsing the web and see a link or button that says "Pay now with
 Bitcoin"-- you click it, and... stuff happens. Where that stuff does NOT

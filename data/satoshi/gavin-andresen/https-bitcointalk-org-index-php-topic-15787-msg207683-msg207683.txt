@@ -1,5 +1,3 @@
-
-
 Yep. Every transaction you make potentially leaks a little information about
 other transactions to/from your bitcoin wallet.  
   

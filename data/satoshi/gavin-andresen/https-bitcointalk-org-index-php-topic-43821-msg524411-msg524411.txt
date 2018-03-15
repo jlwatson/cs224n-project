@@ -1,11 +1,3 @@
-
-
-Quote from: nibor on September 13, 2011, 11:47:48 PM
-
-I disagree with your comment about the miners though. As seeing as it was
-mined into the test chain I would assumed it would be mined into the prod one
-too? Especially if you put a big fee on it!  
-
   
 Non-standard transactions are allowed-by-default on the test network. So
 people can test things out.  

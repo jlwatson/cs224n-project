@@ -1,5 +1,3 @@
-
-
 RE: negative account balances:  
   
 There is (was?) a patch proposed with an RPC call to prepare a send

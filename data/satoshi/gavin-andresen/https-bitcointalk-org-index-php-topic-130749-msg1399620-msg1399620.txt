@@ -1,5 +1,3 @@
-
-
 CAs will issue you multi-domain certificates for not a WHOLE lot more than a
 single-domain certificate, which suggests to me a possible short-term
 workaround/hack until DNSSEC/DANE is widely deployed.  

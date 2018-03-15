@@ -1,5 +1,3 @@
-
-
 ... and I just noticed an egregious bug: listtransactions was reporting the
 receiving address instead of the account name for "receive" transactions. Fix
 is svn rev 104. Please bang on it and let me know if I screwed anything else

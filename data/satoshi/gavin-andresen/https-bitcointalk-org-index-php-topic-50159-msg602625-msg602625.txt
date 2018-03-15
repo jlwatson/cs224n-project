@@ -1,5 +1,3 @@
-
-
 Another quick update:  
   
 Wladimir figured out what was breaking the Win32 cross-compiled builds (one of

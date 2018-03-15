@@ -1,5 +1,3 @@
-
-
 I've made public the windows, linux32 and linux64 Amazon Machine Images used
 to build bitcoin 0.3.20. If you have an Amazon EC2 account, you can launch
 them and have your own working build environment for linux or windows bitcoin

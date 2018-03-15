@@ -1,5 +1,3 @@
-
-
 The smartcard-generates-a-private-key-itself seems like overkill. No matter
 what, you have to trust the smartcard manufacturer. Because even if the
 smartcard generates a private key, you have to trust that the smartcard

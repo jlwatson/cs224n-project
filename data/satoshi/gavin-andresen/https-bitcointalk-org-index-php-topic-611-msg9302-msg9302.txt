@@ -1,5 +1,3 @@
-
-
 The naming is getting messy: 'txn_id' and 'tx_time' mismatch for no good
 reason.  
   

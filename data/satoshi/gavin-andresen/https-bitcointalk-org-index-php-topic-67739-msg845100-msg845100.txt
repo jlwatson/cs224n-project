@@ -1,14 +1,3 @@
-
-
-Quote from: etotheipi on April 10, 2012, 04:49:54 PM
-
-The issue, of course, is that it's not really feasible to have regular users
-contacting miners to help them replace tx like this (in the event that the
-seller broadcasts the 31-day tx right away, hoping the buyer can't figure out
-how to replace it). Also, I didn't like the idea that anyone would be able to
-bribe a miner to replace their 0-confirmation tx. But that's a whole 'nother
-story...  
-
 In the long run, I think we have to assume that miners will do what is most
 profitable, and design escrow/payment protocols around that assumption.  
   

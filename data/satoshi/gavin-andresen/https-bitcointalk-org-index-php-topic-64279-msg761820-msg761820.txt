@@ -1,9 +1,3 @@
-
-
-Quote from: pent on February 21, 2012, 10:42:12 AM
-
-Many people ask, how much domain will cost? Lets give a formula for people.  
-
   
 I really like your idea of scaling up difficulty based on the number of domain
 operations in a block to prevent the key:value database from growing

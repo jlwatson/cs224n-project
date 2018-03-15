@@ -1,17 +1,3 @@
-
-
-Quote from: DiThi on January 24, 2012, 12:58:40 PM
-
- **Why the hard dates?**  
-You both are struggling and rushing because the dates you set keep coming
-again and again, before miners notice and upgrade. Here's an alternate idea:  
-
-  * Have P2SH* implemented, and announce P2SH support in the coinbase, but it's disabled until a certain condition is met.
-  * The condition is to have 55% or more blocks in any 2016-block span announcing support for P2SH.
-  * When that condition is met, the remaining 45% hashing will have two weeks to update.
-  * Remove the P2SH announcement and just reject blocks with invalid P2SH transactions. Also the changes in the block limits will be made effective here.
-  * A future version of the software will remove the automatic switch logic.
-
   
 That's non-trivial to implement; it seems to me that a conscious decision by
 the miners/pools to support or not support is less work and safer.  

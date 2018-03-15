@@ -1,5 +1,3 @@
-
-
 chroot: won't protect you.  
   
 Running as a separate VM: I think will protect you. But I thought browsers

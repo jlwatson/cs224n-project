@@ -1,5 +1,3 @@
-
-
 Better testing, both for the Satoshi code and across different
 implementations, is right at the top of my priority list. So I wrote some code
 to make it easier to exercise edge cases in Script evaluation:  

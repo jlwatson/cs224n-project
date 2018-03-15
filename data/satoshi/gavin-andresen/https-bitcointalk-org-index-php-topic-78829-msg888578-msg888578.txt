@@ -1,5 +1,3 @@
-
-
 We'll announce a 0.6.2 later today, which is just 0.6.1 plus a last-minute
 bugfix for a crashing bug (I was THIS CLOSE to formally announcing 0.6.1 when
 Pieter found and fixed the bug...).  

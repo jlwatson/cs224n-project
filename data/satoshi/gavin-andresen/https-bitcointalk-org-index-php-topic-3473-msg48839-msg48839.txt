@@ -1,5 +1,3 @@
-
-
 Please download and test the Windows and Linux release candidate builds of
 Bitcoin version 0.3.20.01:  
 https://sourceforge.net/projects/bitcoin/files/Bitcoin/bitcoin-0.3.20/  

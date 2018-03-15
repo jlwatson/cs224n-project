@@ -1,9 +1,3 @@
-
-
-Quote from: HostFat on November 15, 2011, 01:46:18 PM
-
-Has Gavin left a message about this topic somewhere?  
-
 No, I've been busy. Although I have in the past said that I'm worried about
 long-term incentives for relaying transactions (and am not worried at all
 about the block reward dropping and being replaced by fees).  

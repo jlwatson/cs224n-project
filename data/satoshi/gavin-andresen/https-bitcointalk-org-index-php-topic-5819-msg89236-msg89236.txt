@@ -1,5 +1,3 @@
-
-
 Thanks for the suggestions and comments, everybody; I think a combination of
 dropping the faucet reward again (I'll start bundling up faucet payments into
 'sendmany' transactions, so the transaction fees are lower) and "community

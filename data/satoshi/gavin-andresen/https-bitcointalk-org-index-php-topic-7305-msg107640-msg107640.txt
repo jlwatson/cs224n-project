@@ -1,5 +1,3 @@
-
-
 I'll brain-dump my second half-baked idea of the day:  
   
 github has a nice API for basically everything it does (issues getting

@@ -1,5 +1,3 @@
-
-
 0.001 BTC at today's exchange rate is uncomfortably close to the estimated
 network-wide cost of processing a bitcoin transaction (which is about 0.001 US
 dollars).  

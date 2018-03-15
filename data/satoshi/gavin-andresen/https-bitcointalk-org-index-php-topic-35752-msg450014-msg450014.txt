@@ -1,5 +1,3 @@
-
-
 -wallet=foo.dat command-line param would be easy (unless you allow an absolute path, in which case the code that detects whether two instances of bitcoind are trying to write to the same wallet would have to be changed).  
   
 But if you pass it on the command-line, then wallet-stealers can just adapt

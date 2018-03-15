@@ -1,14 +1,3 @@
-
-
-Quote from: ribuck on February 11, 2011, 03:17:27 PM
-
-Quote from: gavinandresen on February 11, 2011, 03:10:27 PM
-
-For example, "free" is a magical number.  
-
-Anything under a penny per transaction is as good as free, when the nearest
-competitor is PayPal.  
-
   
 No, that's the point: 0 is a magic number in our heads.  
   

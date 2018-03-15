@@ -1,5 +1,3 @@
-
-
 If your system is compromised, and you are using a single-signature wallet,
 then the first time you unlock your wallet ALL your coins are gone.  
   

@@ -1,13 +1,3 @@
-
-
-Quote from: ribuck on February 01, 2011, 10:48:58 AM
-
-Keep testnet as close as possible to the live system. It will sort itself out
-in a few weeks.  
-  
-Create an additional block chain for those whose development needs require
-something other than what testnet provides.  
-
   
 No, it won't sort itself out "after a few weeks". Let me see if I can do a
 back-of-the-envelope:  

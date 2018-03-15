@@ -1,14 +1,3 @@
-
-
-Quote from: jon_smark on February 03, 2011, 07:52:18 PM
-
-Okay, let us consider that scenario. Step by step, just to make sure we are on
-the same page:  
-
-  * The Bitcoind daemon knows of transactions [A, B, C, D] with timestamps [T1, T1, T2, T2].
-  * Upon first invocation, the client asks for a list of all transactions. It receives [A, B, C, D] (and timestamps) as response.
-  * There's a block chain re-org invalidating [C, D].
-
   
 No, there is a block chain re-org invalidating B and C. D is still valid in my
 scenario.  

@@ -1,5 +1,3 @@
-
-
 This is a single-line change that allows non-standard transactions to get into
 the transaction memory pool (and, therefore, relayed and written into blocks)
 on -testnet.  

@@ -1,5 +1,3 @@
-
-
 This is where I think maybe a standard https-based protocol might work nicely,
 so the same address shortening services can be used either in the bitcoin
 client and for online e-wallets.  

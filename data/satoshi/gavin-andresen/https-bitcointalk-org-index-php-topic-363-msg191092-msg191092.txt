@@ -1,5 +1,3 @@
-
-
 Testnet faucet is up and running if you need testnet coins:  
 https://testnet.freebitcoins.appspot.com/  
   

@@ -1,5 +1,3 @@
-
-
 Old coins are preferred over new coins because transaction spammers spend
 coins over-and-over again quickly to try to flood the network with
 transactions.  

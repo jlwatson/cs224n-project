@@ -1,5 +1,3 @@
-
-
 getinfo and getbalance (with no arguments)... are a little complicated.  
   
 They include all 1 confirmation receive transactions, but (this is the

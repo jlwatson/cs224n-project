@@ -1,5 +1,3 @@
-
-
 I just pulled p2sh into master, replacing the OP_EVAL code that I pulled last
 month before the controversy erupted.  
   

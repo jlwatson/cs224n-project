@@ -1,5 +1,3 @@
-
-
 I wonder how much a bitcoin transaction actually costs, in terms of bandwidth
 and disk space on everybody's machines.  
   

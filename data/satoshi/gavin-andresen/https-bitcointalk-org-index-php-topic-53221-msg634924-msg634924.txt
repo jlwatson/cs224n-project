@@ -1,12 +1,3 @@
-
-
-Quote from: DeathAndTaxes on November 29, 2011, 11:32:50 PM
-
-  
-Personally I think an interim step would be a version which has IRC and an
-option (enabled/disabled) and a "forget all addresses" option to experiment w/
-non-IRC node discovery.  
-
 You can remove the addr.dat file and run with the -noirc and -nodnsseed
 options to experiment right now.  
   

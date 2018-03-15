@@ -1,5 +1,3 @@
-
-
 The "scripting language" ("expression evaluator" would be more accurate) is a
 little stack-based intepreter that looks at lot like Forth.  
   

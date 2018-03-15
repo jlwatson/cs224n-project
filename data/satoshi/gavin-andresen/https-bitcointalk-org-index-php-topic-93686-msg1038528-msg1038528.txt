@@ -1,5 +1,3 @@
-
-
 That sounds more complicated than it needs to be.  
   
 If you can assume some mixers are honest and won't disclose what they added to

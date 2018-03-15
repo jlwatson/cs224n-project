@@ -1,5 +1,3 @@
-
-
 I hate to inject gloom and doom into a fun topic like vanity bitcoin
 addresses... but y'all should be aware that one of my longer-term goals for
 the Bitcoin system is to make bitcoin addresses disappear. I hope Bitcoin

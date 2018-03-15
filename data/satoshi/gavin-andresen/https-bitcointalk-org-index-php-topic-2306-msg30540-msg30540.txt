@@ -1,5 +1,3 @@
-
-
 I just committed svn rev 103. Changes are:  
   
 listaccounts : lists all the accounts in your wallet along with their current

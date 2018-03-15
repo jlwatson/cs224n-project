@@ -1,13 +1,3 @@
-
-
-Quote from: Nefario on April 12, 2011, 12:36:00 PM
-
-First I'm converting the float to a string representation, then using that to
-make a object of BigDecimal(with 8 places for correct representation), and
-then multiplying by 100,000,000.  
-  
-Everything else is done internally with integers.  
-
   
 That sounds overly complicated. Does your ruby/json implementation have
 double-precision (64-bit) floats? If it does, just multiply by 1.0e8 and

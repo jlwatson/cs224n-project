@@ -1,5 +1,3 @@
-
-
 I took error's work and further tweaked so it works (and is rebased against)
 latest git head.  
   

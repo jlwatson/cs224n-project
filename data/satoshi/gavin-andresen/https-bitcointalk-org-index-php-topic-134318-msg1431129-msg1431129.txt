@@ -1,5 +1,3 @@
-
-
 In my experience, developers are really good at either ignoring documentation
 or interpreting it in a way different than the way the author intended.  
   

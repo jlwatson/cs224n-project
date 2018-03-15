@@ -1,5 +1,3 @@
-
-
 The project needs more bug fixing and testing, so I would rather NOT see
 bounties for new features.  
   

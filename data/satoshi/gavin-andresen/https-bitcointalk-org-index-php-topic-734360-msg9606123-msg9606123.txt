@@ -1,5 +1,3 @@
-
-
 If you want to work on IBLT stuff...  
   
 ... start with Matt's fast-relay code:

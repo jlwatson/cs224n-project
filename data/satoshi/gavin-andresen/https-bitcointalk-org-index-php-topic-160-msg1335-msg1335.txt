@@ -1,5 +1,3 @@
-
-
 Has anybody tried generating bitcoins on Amazon EC2 instances? If you have,
 how many coins/day are you getting (and on what type of instance) ?  
   

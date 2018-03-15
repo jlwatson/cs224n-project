@@ -1,5 +1,3 @@
-
-
 Microsoft/authenticode assumes one trusted master key (I think? Can a binary
 be signed by multiple keys?)  
   

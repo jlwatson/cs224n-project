@@ -1,5 +1,3 @@
-
-
 sendfrom needs the minconf to know if it should fail because of too few
 confirmed coins in the account.  
   

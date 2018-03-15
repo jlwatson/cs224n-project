@@ -1,5 +1,3 @@
-
-
 RE: Fee sheet: won't work, miners will lie to get higher fees.  
   
 RE: analyzing previous blocks to determine fees: I think it could work.

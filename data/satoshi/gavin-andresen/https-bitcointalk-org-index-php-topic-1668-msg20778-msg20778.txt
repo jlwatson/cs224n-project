@@ -1,11 +1,3 @@
-
-
-Quote from: ByteCoin on November 08, 2010, 02:31:22 AM
-
-Prioritizing larger value transactions doesn't really solve the problem
-because it's perfectly possible to spam by sending large amounts of bitcoin
-from one of your addresses to another ad infinitum.  
-
   
 No, you can't, because every time you send them they become "new", and the
 priority is age multiplied by amount:  
@@ -17,25 +9,6 @@ Code:
 (valuein is the size of the bitcoin input, age is # of blocks deep, and txsize
 is the number of bytes the transaction takes up)  
   
-
-Quote
-
-If you prioritize older transactions, people would be incentivised to split
-their bitcoin holdings in such a fashion as to ensure that they do not
-generate significant amounts of change when they buy things with bitcoins. If
-you hold your bitcoins in powers of 2 * 0.01 then you can pay for anything you
-can aford with no change and the least fragmentation. Of course after spending
-the money you have to rebalance your holdings as soon as possible. The best
-way to do this is not immediately obvious to me. Possibly under certain
-circumstances it might be advantageous to generate change as long as you could
-specify how you wanted it split up. Possibly powers of 3 might be best for
-multiple purchases.  
-Anyway, the end effect would be that transactions would have more ins and
-outs. Probably the average number of ins and outs would be some very small
-multiple (or large fraction) of the log of the number of bitcoin pennies in
-the transaction. I estimate that this might increase the average transactions
-size by over 10 times.  
-
   
 Ummm... the more you mess around with the coins in your wallet, the newer they
 are, and the lower their priority (relative to everybody else who might want

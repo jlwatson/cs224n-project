@@ -1,9 +1,3 @@
-
-
-Quote from: maaku on October 19, 2011, 08:06:19 PM
-
-Why allow recursion? Is there a use-case for this?  
-
   
 Yes. Although there might be a way of accomplishing the same thing without
 recursion:  

@@ -1,11 +1,3 @@
-
-
-Quote from: mb300sd on June 26, 2012, 03:42:20 PM
-
-I mostly work in C#, but I'm sure its true for other languages too, creating a
-data structure that you can deserialize an array of different types into, and
-easily work with is...painful.  
-
 Excellent point. I use python, which just works with different types in
 arrays, and C++/json_spirit, which also just works, but I can that other
 languages would be painful.  

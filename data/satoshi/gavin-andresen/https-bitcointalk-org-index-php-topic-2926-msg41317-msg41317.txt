@@ -1,5 +1,3 @@
-
-
 ribuck: I did misunderstand, sorry.  
   
 And maybe I should have been clearer: the idea behind a **reproducible**

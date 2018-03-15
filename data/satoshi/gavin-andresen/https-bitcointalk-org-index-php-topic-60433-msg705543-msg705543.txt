@@ -1,15 +1,3 @@
-
-
-Quote from: Luke-Jr on January 20, 2012, 06:19:01 PM
-
-Quote from: Gavin Andresen on January 20, 2012, 04:53:31 PM
-
-I haven't seen discussion of BIP 17 anywhere besides IRC, so I thought I'd
-start one.
-
-I was waiting until I finished a reference implementation to post about it,
-but thanks for the early review.  
-
   
 By the way... if there is no fully-functional reference implementation yet,
 you really shouldn't be putting "CHV" in your coinbases yet. The string in the
@@ -17,19 +5,6 @@ coinbase really aught to mean "this code is all ready to support this
 feature," because full support from a majority of hashing power is what we
 want to measure.  
   
-
-Quote
-
-Quote from: Gavin Andresen on January 20, 2012, 04:53:31 PM
-
-With BIP 17, both transaction outputs **and** inputs fail the old IsStandard()
-check, so old clients and miners will refuse to relay or mine both
-transactions that send coins into a multisignature transaction **and**
-transactions that spend multisignature transactions.
-
-Since scriptSigs must always follow scriptPubKey, does this really make a big
-difference? ie, if people can't send them, they can't receive them anyway.
-
   
 Imagine you're an early adopter. You ask people to send you money into your
 spiffy new ultra-secure wallet.  
@@ -42,20 +17,6 @@ you are paying won't have to wait.
   
 That is not a big difference, but it is an advantage of the BIP 16 approach.  
   
-
-Quote
-
-Quote from: Gavin Andresen on January 20, 2012, 04:53:31 PM
-
-OP_CHECKSIG feels like it was originally designed to be in the scriptPubKey--
-"scriptSig is for signatures." Although I can't see any way to exploit an
-OP_CHECKSIG that appears in the scriptSig instead of the scriptPubKey, I'm
-much less confident that I might have missed something.
-
-It's evaluated the exact same way in all 3 scripts, and _already_ accepted in
-scriptPubKey. If there is an attack vector here (which seems very unlikely),
-it is there both with or without BIP 17.
-
   
 No, they are not evaluated in the same way. The bit of code in bitcoin
 transaction validation that makes me nervous is:  

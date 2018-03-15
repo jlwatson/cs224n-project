@@ -1,15 +1,3 @@
-
-
-Quote from: niko on September 18, 2012, 01:56:01 AM
-
-Presumably the fees will become the main driving force behind mining in
-future. Miners would then have an incentive to include in the block the spend
-with the highest fees, even if it is obviously a double spend against an
-earlier transaction that is already broadcast.  
-  
-Is this correct?  
-  
-
 Yes, if by earlier you mean a few minutes earlier (it would have to have a 50+
 BTC fee to make it worthwhile for miners to double-spend a transaction that
 already made it into the last block).  

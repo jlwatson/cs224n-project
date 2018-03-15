@@ -1,5 +1,3 @@
-
-
 In the spirit of "do the simplest possible thing that works..." I think I see
 a very simple thing that will work.  
   

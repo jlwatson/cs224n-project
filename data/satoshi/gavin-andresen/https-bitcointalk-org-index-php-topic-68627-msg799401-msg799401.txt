@@ -1,5 +1,3 @@
-
-
 https://sourceforge.net/projects/bitcoin/files/Bitcoin/blockchain/  
   
 ... has a fairly recent copy of the blockchain.  

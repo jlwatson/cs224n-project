@@ -1,5 +1,3 @@
-
-
 To steal your bitcoins by breaking crypto (as opposed to getting your private
 key), somebody would have to:  
   

@@ -1,5 +1,3 @@
-
-
 bitcoind doesn't prompt before adding fees because it is meant to be used by
 websites and other services where there may not be a person available to push
 an "Ok, pay a fee" button. There might not even be a place to put the button,

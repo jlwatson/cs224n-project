@@ -1,11 +1,3 @@
-
-
-Quote from: Red on August 07, 2010, 02:39:04 AM
-
-Is the main thrust and incredulity in your argument because you think there
-CANNOT be a better solution than burning 100,000 CPU at 100% 24/7 and sending
-100,000+ redundant messages per transaction?  
-
 No, not at all. Like I said when I jumped into this thread, I think using a
 DHT network to somehow distribute the work is a very interesting idea, it just
 seems to me any solution that partitions the network will be more vulnerable
@@ -14,22 +6,5 @@ up with less resource-intensive solution that actually works.
   
 How does Freenet generate node IDs? The only info I see in the latest Freenet
 paper is:  
-
-Quote
-
-When joining, nodes choose an identity at random, and then connect to those
-peers with whom they have a pre-established trusted relationship.
-
-.... and:
-
-Quote
-
-The perhaps largest advantage that the trusted-connection model offers over
-traditional anonymity networks is protection against the Sybil attack [13],
-where a single attacker infiltrates the network by pretending to have many
-identities. Since the network depends on out of band trust relationships, an
-attacker gains strength only through the number of people he can fool into
-trusting him, and gains nothing by presenting multiple identities online.
-
-...which doesn't sound like it would work very well for Bitcoin.
+.... and: ...which doesn't sound like it would work very well for Bitcoin.
 

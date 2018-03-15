@@ -1,12 +1,3 @@
-
-
-Quote from: Raulo on March 17, 2011, 06:37:52 PM
-
-Building the bitcoin chain in parallel and reversing all transactions from,
-say, last week would, for instance, cripple bitcoin exchanges if they would be
-required to refund the reversed purchases. And it can be done in a stealth way
-so the community cannot do any countermeasures until after it happens.  
-
   
 They can only invalidate transactions that they made (or further transactions
 that spend transactions that they made). That makes the attack a lot less

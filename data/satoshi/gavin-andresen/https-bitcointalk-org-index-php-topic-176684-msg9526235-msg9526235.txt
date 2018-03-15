@@ -1,11 +1,3 @@
-
-
-Quote from: Gavin Andresen on November 12, 2014, 06:34:36 PM
-
-You are wrong.  
-  
-Example that should make it clear....  
-
   
 Wait... no... that example is only valid for the "attacker takes over existing
 mining pools" case, where formerly honest miners are co-opted to be evil (or

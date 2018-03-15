@@ -1,55 +1,19 @@
-
-
-Quote from: shads on November 03, 2011, 01:16:28 PM
-
-The next release of poolserver, due in a few days, will be generating blocks
-internally but using a bitcoind as a trusted source of verified transactions.
-So pool ops using PSJ will be able to make the choice by running a daemon that
-does or doesn't accept these transactions.  
-
 Great!  
   
-
-Quote
-
-My only concern is whether bitcoinj will have a fit trying to parse these new
-transaction types.  
-
   
 Unless Mike messed up his implementation of the OP_NOP1 and made it do
 something other than be a no-op, there should be no problem (OP_EVAL re-
 defines OP_NOP1 to do stuff instead of doing nothing, but all OP_EVAL
 transactions are valid if the OP_EVAL is interpreted as a no-op).  
   
-
-Quote
-
-What would make things easier though would be if someone could publish a set
-of test transactions both for testnet and production.  
-
   
 Publish how? I already made a couple of testnet transactions using OP_EVAL; I
 will make a few on main net (assuming Luke doesn't change Eligius to reject
 OP_NOP1 transactions). And I wrote thorough unit tests that create
 valid/invalid OP_EVAL transactions.  
   
-
-Quote
-
-And also if there was some kind of automated script broadcasting some sample
-transactions on testnet everytime there's a block change.  
-
 What do you mean by "everytime there's a block change" ?  
   
-
-Quote
-
-Can you ensure that there's no rules that mandate 'OP_EVAL string as a vote'
-should be put in a particular part the coinbase input script. MM headers have
-to appear in the 1st 20 bytes (why I don't know) and that space is getting a
-little cramped already so it would be much better if it could be put at the
-end of the script.  
-
 "OP_EVAL" can be anywhere in the coinbase, I'll probably write a little tool
 using bitcointools to look at OP_EVAL adoption over time will make sure it
 doesn't care where the string appears.  

@@ -1,5 +1,3 @@
-
-
 The good news is the TEST network is doing its job-- the problem patched by
 the 0.3.6 release (invalid transactions accepted as valid) was implemented and
 demonstrated on the TEST network.  

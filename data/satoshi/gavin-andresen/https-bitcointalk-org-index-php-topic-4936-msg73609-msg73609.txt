@@ -1,5 +1,3 @@
-
-
 RE: botnets: if the botnet operator is economically rational, then their best
 strategy to make money is to just follow the rules, mine coins, and then sell
 them on the exchanges.  

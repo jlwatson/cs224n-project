@@ -1,5 +1,3 @@
-
-
 RE: cannot act as a RPC client:  
   
 I believe it will still be able to act as a RPC server.  

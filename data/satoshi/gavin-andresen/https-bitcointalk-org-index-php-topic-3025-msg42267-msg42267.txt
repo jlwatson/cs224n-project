@@ -1,10 +1,3 @@
-
-
-Quote from: Fractality on January 29, 2011, 12:00:37 AM
-
-We could look at the BitCoins that can be found as the resource. Everybody is
-going at it as hard as it as they can, driving the costs to prohibitive highs.  
-
   
 No, not "everybody" -- if it is too expensive for you, then you stop doing it.
 Only the people who can generate most efficiently will stick around, and
@@ -14,15 +7,6 @@ more than the value of the bitcoins they get.
 Hopefully bitcoins will become more valuable over time (that will happen if
 people find them useful/valuable).  
   
-
-Quote
-
-Other than usual in a ToC the resource can not be destroyed directly. I don't
-know yet, but perhaps it's usefulness could be greatly decreased, though. For
-example if the same computing power is needed to execute transactions, the
-transaction costs might be too high in practice (I admit I don't know how it
-works yet - is it easier to verify small transactions than big transactions?).  
-
   
 Mostly no, total value of the transaction doesn't matter. A large-value
 transaction that is made up of lots of little transactions is more expensive

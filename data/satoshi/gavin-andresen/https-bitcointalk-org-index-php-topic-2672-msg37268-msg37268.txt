@@ -1,12 +1,3 @@
-
-
-Quote from: bitcoinex on January 11, 2011, 05:30:39 PM
-
-Browser is the most buggy program on typical PC! Without browser planted into
-SElinux I do not want this functionality - from leaky browser site can read
-the password from config file and steal the money. Such bugs are still
-happening.  
-
   
 CORS support doesn't change this.  
   

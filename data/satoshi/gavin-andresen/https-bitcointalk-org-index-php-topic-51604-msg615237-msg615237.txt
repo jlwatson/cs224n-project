@@ -1,5 +1,3 @@
-
-
 A serious bug was been found in the "encrypt wallet" function of bitcoin
 versions 0.4 and 0.5: private keys may be left unencrypted in the wallet.dat
 file after encryption.  

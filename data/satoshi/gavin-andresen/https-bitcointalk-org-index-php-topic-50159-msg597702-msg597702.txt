@@ -1,5 +1,3 @@
-
-
 Quick update on why there is no final 0.5 release out yet:  
   
 Short answer: because I'm really paranoid about bitcoin binary builds, and the

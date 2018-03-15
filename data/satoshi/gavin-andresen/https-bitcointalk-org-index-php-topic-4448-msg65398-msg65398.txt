@@ -1,14 +1,5 @@
-
-
 Focusing on the use cases is the right approach.  
   
-
-Quote from: Hal on March 14, 2011, 07:53:48 PM
-
-4\. Export selected keys for transferring their funds to someone else; the
-recipient imports the keys and gains access to the funds.  
-Any others?  
-
   
 One variation:  
   

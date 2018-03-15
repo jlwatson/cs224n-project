@@ -1,27 +1,6 @@
-
-
 A hard fork won't happen unless the vast super-majority of miners support it.  
   
 E.g. from my "how to handle upgrades" gist
 https://gist.github.com/gavinandresen/2355445  
   
-
-Quote
-
-Example: increasing MAX_BLOCK_SIZE (a 'hard' blockchain split change)  
-  
-Increasing the maximum block size beyond the current 1MB per block (perhaps
-changing it to a floating limit based on a multiple of the median size of the
-last few hundred blocks) is a likely future change to accomodate more
-transactions per block. A new maximum block size rule might be rolled out by:  
-  
-New software creates blocks with a new block.version  
-Allow greater-than-MAX_BLOCK_SIZE blocks if their version is the new
-block.version or greater and 100% of the last 1000 blocks are new blocks. (51%
-of the last 100 blocks if on testnet)  
-100% of the last 1000 blocks is a straw-man; the actual criteria would
-probably be different (maybe something like block.timestamp is after
-1-Jan-2015 and 99% of the last 2000 blocks are new-version), since this change
-means the first valid greater-than-MAX_BLOCK_SIZE-block immediately kicks
-anybody running old software off the main block chain.  
 

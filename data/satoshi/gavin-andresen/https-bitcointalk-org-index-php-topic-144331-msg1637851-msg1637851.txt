@@ -1,5 +1,3 @@
-
-
 The bottleneck for getting this pulled is testing.  
   
 It needs a thorough test plan that tries to test edge cases where things might

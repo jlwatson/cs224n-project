@@ -1,5 +1,3 @@
-
-
 RE: could you make through adroit use of the scripting language: you could
 hide the receiving address, but not the amount.  
   

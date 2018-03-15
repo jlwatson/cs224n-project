@@ -1,5 +1,3 @@
-
-
 Unlike a public HTTPS web server, which accepts connections from anybody, the
 bitcoin HTTPS JSON-RPC server will only accept connections from trusted
 clients, and you'll almost certainly be your own root certificate authority--

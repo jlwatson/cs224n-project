@@ -1,5 +1,3 @@
-
-
 But how would you distinguish between a legitimate micropayment-processing IP
 and a spammy "I want to make Bitcoin use so much bandwidth nobody is willing
 to run it any more" IP?  

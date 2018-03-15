@@ -1,5 +1,3 @@
-
-
 There are three 0.5 BTC bounties available for people who will help us test
 the upgrade-to-release-0.8 code.  
   

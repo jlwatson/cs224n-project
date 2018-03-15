@@ -1,15 +1,3 @@
-
-
-Quote from: theymos on January 25, 2011, 08:19:55 PM
-
-Quote from: gavinandresen on January 25, 2011, 06:06:35 PM
-
-If you get sent 500 bitcoins, they can all be traced back to generation
-transactions, so you "own" a bunch of little pieces of land in bitcoin-world.  
-
-You can number generations that way, but once any multi-output transactions
-take place, any numbering is lost. "Which output got bitcoin #5"?  
-
   
 That's easy-- if #5 is the lowest ordinal piece of dust, then it goes to the
 first txout. Etc.  

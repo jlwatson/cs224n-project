@@ -1,5 +1,3 @@
-
-
 The risk profile I care about is:  
   
 User's computer is completely compromised by a root-kit trojan, but they don't

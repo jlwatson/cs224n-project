@@ -1,5 +1,3 @@
-
-
 The number of confirmations tells you which block a transaction is in:  
 0 confirmations: not in a block yet.  
 1 confirmation: in block number "getblockcount" block.  

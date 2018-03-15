@@ -1,11 +1,3 @@
-
-
-Quote from: icordoba on March 07, 2011, 12:21:38 PM
-
-My question is:  
-Is it a bug (not to see the payer address) or there is no bug and I have to
-ask my customers to pay to my IP to be able to know the payer address?  
-
   
 There is no bug, but if you want to know one of your customer's bitcoin
 addresses (maybe you want to send them a refund?) you **must** ask them. They

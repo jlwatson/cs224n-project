@@ -1,5 +1,3 @@
-
-
 Here's my motivation for /P2SH/ or something like it:  
   
 I want to stop playing whack-a-mole with wallet stealing viruses and trojans,

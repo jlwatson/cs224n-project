@@ -1,11 +1,3 @@
-
-
-Quote from: gigabytecoin on April 21, 2011, 07:15:58 AM
-
-I do not understand why we FORCE a fee period?  
-  
-And why do we FORCE a minimum fee?  
-
 Because there is a real cost to the network for every transaction, and the
 code hasn't been fully optimized yet.  
   

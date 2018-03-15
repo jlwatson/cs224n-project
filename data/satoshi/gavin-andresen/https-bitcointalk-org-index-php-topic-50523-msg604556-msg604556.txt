@@ -1,5 +1,3 @@
-
-
 OP_1 through OP_16 push single bytes (0x01 through 0x10) onto the stack.  
   
 RE: updating the wiki: good idea, I'll go do that...  

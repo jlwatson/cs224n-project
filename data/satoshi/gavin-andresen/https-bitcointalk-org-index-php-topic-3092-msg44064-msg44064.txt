@@ -1,7 +1,5 @@
-
-
-If an optional time param is needed, maybe get rid of the "since <txid>"
-notion and just make it "give me all receive transactions for [account] with
+If an optional time param is needed, maybe get rid of the "since " notion and
+just make it "give me all receive transactions for [account] with
 [minconfirmations] that have a time greater than [time]".  
   
 

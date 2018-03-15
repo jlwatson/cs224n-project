@@ -1,5 +1,3 @@
-
-
 Does anybody have experience with valgrind -helgrind or other automated tools
 for finding potential deadlocks?  
   

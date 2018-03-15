@@ -1,4 +1,2 @@
-
-
 One address per client is a good idea.  
 

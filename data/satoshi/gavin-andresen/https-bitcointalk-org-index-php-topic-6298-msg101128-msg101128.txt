@@ -1,9 +1,3 @@
-
-
-Quote from: khal on April 30, 2011, 06:05:21 PM
-
-An option to use old coins in priority could avoid the last 2 problems.  
-
   
 The built-in coin selection algorithm already prefers using older coins rather
 than newer ones.

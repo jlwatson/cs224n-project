@@ -1,5 +1,3 @@
-
-
 In an effort to keep discussion on track, I split the discussion of Lamport
 versus Bernstein signature schemes into its own thread.  
   

@@ -1,11 +1,3 @@
-
-
-Quote from: hazek on January 30, 2012, 05:12:45 PM
-
-I understand that but I thought when this idea was first presented it was said
-that the user would keep both key's a in a backup wallet so you couldn't be
-held hostage with your service provider.  
-
   
 Yes, that's the use-case I care most about -- you have control over all of
 your keys, you just put them in multiple places so if you lose control of

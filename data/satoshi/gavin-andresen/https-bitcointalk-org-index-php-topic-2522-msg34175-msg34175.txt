@@ -1,10 +1,3 @@
-
-
-Quote from: tcatm on December 29, 2010, 11:03:49 PM
-
-Can we include a small HTTP server (for .html + .js) into bitcoin? JSON-RPC
-will only work on same domain + port.  
-
   
 No, definitely not. But if somebody implements a nice Javascript GUI I'll
 volunteer to teach bitcoin to spit out JSONP in addition to plain JSON to get

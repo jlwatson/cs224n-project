@@ -1,5 +1,3 @@
-
-
 I wonder if we have already passed the point where a user-typed-in-arbitrary-
 key can be both secure from brute-force attacks and convenient to use.  
   

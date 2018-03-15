@@ -1,5 +1,3 @@
-
-
 The 0.7 release will include an optimization that should help a lot
 (transaction signature cache -- prior releases checked signatures when the
 transaction was first seen, and then checked again when a new block was

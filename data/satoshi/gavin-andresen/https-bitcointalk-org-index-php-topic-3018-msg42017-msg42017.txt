@@ -1,5 +1,3 @@
-
-
 I made a google spreadsheet with the number of transactions occurring in the
 bitcoin block chain per month, and the total value of those transactions:  
 https://spreadsheets.google.com/pub?key=0Ar4FtkFP4j73dDQyY3ZJWjdhMlBkZEtTSFJTZm9ieUE&hl=en&gid=0  

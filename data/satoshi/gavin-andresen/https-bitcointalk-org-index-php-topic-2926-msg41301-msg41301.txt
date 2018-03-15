@@ -1,5 +1,3 @@
-
-
 ribuck: what do you suggest instead?  
   
 I've read Ken Thompson's paper; that is what motivated me to propose a

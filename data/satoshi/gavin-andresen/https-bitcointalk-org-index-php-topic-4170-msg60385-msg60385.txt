@@ -1,5 +1,3 @@
-
-
 Crashing bugs, any bug that might result in loss of bitcoins, and security
 fixes are always highest priority, but here are the big things I think are
 very high priority that, as far as I know, nobody is working on. I think they

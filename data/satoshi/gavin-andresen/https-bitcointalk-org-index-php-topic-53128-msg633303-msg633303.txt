@@ -1,11 +1,3 @@
-
-
-Quote from: Meni Rosenfeld on November 28, 2011, 08:38:31 PM
-
-Features like those I described will only be necessary years from now, though
-Gavin has implementing an open market for tx fees high on his todo list. I'm
-not sure what are his plans for this though.  
-
   
 It is high on my list because I think most miners (and pools) would be happy
 to include many more free transactions than the current rules allow, and if

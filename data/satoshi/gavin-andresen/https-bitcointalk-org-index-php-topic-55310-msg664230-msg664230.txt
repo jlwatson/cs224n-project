@@ -1,10 +1,3 @@
-
-
-Quote from: ThiagoCMC
-
-There are rumors that the Bitcoin network will split in two, one side, people
-using 0.5.1, 0.4.0.... On the other side, people using 0.6.0...
-
 I've been working hard to make sure there will be no blockchain split, and
 I've convinced myself I've thought through all the "old/new client sending
 transactions to an old/new miner" cases.  

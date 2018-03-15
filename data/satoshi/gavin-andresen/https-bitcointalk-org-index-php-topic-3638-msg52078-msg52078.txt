@@ -1,25 +1,3 @@
-
-
-Quote from: [mike] on February 20, 2011, 10:06:28 PM
-
- **Bounty for the 50 coins**. The first person to get a patch merged by Gavin
-into the core software that allows import/export of wallet files, via the GUI
-on all 3 supported platforms, defined in the following manner wins the coins.
-Obviously not very much but I guess it's symbolic  
-  
-The format should be a CSV file (unix line endings) that looks like this:  
-  
-
-Code:
-
-base58 encoded privkey,block number,block number....  
-base58 encoded privkey,block number,block number....  
-base58 encoded privkey,block number,block number....  
-
-  
-where the block numbers are the blocks in which there are unspent outputs
-sending to that key.  
-
   
 CSV file with the private key and block numbers is a good idea, although for
 it to be a valid CSV file then it needs to have a fixed number of columns.  

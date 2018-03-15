@@ -1,5 +1,3 @@
-
-
 tail -f ~/.bitcoin/debug.log  
 ... will show you what bitcoind is doing.  
 

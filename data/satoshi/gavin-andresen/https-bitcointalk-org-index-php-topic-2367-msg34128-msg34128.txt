@@ -1,17 +1,3 @@
-
-
-Quote from: pj on December 28, 2010, 06:21:36 PM
-
-Quote from: gavinandresen on December 19, 2010, 04:41:39 PM
-
-Requests get discussed (where?  
-
-  
-Yes - where?  
-  
-I found that an email list was nearly ideal for such work when in the Linux
-kernel (the famous lkml list.)  
-
   
 Let's try using the github Pull Request system for discussing pull requests:  
 https://github.com/bitcoin/bitcoin/pulls  

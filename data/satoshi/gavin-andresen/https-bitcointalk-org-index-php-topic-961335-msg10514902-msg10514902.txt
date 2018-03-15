@@ -1,5 +1,3 @@
-
-
 I think it will depend on the release.  
   
 Adoption of 0.10.0 is looking really good:

@@ -1,10 +1,3 @@
-
-
-Quote from: paulie_w on September 06, 2012, 02:08:18 AM
-
-remember that gavin has said elsewhere on this forum, that they just see the
-satoshi client as a proof-of-concept, nothing more.
-
   
 I've said that I think the download-and-install-software-on-your-PC is a
 mostly-dead way of using software, and that the vast majority of people using

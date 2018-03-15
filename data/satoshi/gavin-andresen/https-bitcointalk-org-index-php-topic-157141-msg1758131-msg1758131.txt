@@ -1,16 +1,6 @@
-
-
 So the longer I think about the block size issue, the more I'm reminded of
 this Hayek quote:  
   
-
-Quote
-
-The curious task of economics is to demonstrate to men how little they really
-know about what they imagine they can design.  
-  
-F.A. Hayek, The Fatal Conceit
-
   
 We can speculate all we want about what is going to happen in the future, but
 we don't really know.  

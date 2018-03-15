@@ -1,5 +1,3 @@
-
-
 luke-jr's patches got me thinking about whether or not passing double-
 precision values over the JSON-RPC api would ever cause problems. I've
 convinced myself it isn't an issue:  

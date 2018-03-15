@@ -1,5 +1,3 @@
-
-
 I'm thinking of replacing the Bitcoin Faucet's reCAPTCHA with an AdsCaptcha
 \-- instead of solving a CAPTCHA to help scan books, people visiting the site
 would be shown advertising which would help refill the Faucet with bitcoins.  

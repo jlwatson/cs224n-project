@@ -1,5 +1,3 @@
-
-
 daemon=1  
 ... is the right syntax for the conf file.  
 

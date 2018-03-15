@@ -1,14 +1,3 @@
-
-
-Quote from: puddinpop on October 16, 2010, 07:00:21 PM
-
-I've added the best hash to the results when the client sends back the
-metahash, and as I thought, the results are highly erratic. Averaging over 10
-minutes doesn't reduce the error to an acceptable level. Averaging over longer
-periods would either mean clients must stay connected longer, or the server
-must save the client's work between client connections, and I'm not prepared
-to write all the code involved in tracking and saving client state.  
-
 So... have clients send back their best N hashes (and the average should be N
 times better).  
   

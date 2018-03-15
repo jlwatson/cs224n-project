@@ -1,5 +1,3 @@
-
-
 Status of the multisig proposal: There are two, a stripped-down, simplified
 one:  
 https://gist.github.com/39158239e36f6af69d6f  

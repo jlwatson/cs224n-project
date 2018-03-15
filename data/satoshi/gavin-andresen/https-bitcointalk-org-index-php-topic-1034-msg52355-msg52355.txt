@@ -1,5 +1,3 @@
-
-
  ~~Oops, sorry-- I forgot to change the admin password. The correct pw for
 that instance is:  
 penguinsrule~~  

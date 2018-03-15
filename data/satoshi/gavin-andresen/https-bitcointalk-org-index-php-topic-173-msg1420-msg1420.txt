@@ -1,21 +1,4 @@
-
-
 In another thread venom said:  
-
-Quote
-
-Give people some kind of assurance that there isn't a way that the operator of
-the currency can just start minting bitcoins at will. It's probably irrelevant
-at the moment - but imagine if BC$ was as popular as e-gold in its heyday -
-the owner, if he were less than honest, could essentially be an Internet
-millionaire spending his own currency at will around the interwebs. In theory
-it's possible with any digital currency - but at least, the theory behind the
-digital gold currencies is that if all else fails, you can call them up and
-redeem physical gold (I'm referring to c-gold, e-gold, Pecunix, GoldMoney, and
-probably many others) so you have something 'tangible' as backup. What is BC
-backed by? Just saying, these might be things that a skeptic will ask himself
-before wanting to use this currency.
-
 So the short answer is that BC is backed by mathematics/cryptography and the
 "wisdom of crowds"; assuming there's no flaw in the algorithms, and assuming
 that there is no grand conspiracy of more than half of the BC nodes, it is

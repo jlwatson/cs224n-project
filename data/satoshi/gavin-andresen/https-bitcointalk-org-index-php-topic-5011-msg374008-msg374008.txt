@@ -1,10 +1,3 @@
-
-
-Quote from: error on July 15, 2011, 07:10:06 AM
-
-This was supposedly added in months ago, checking the pull request. Is it not
-working?  
-
   
 Works for me (from a private testnet bitcoind):  
   

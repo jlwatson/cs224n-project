@@ -1,5 +1,3 @@
-
-
 Yes, I definitely meant priority. Highest priority transactions (transferring
 lots of old coins) get included in blocks first under the default block-
 filling rules.  

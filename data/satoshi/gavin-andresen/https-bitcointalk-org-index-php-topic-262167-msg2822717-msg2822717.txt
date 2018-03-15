@@ -1,5 +1,3 @@
-
-
 How big is your wallet?  
   
 getbalance() is O(N) where N is the total number of transactions in the

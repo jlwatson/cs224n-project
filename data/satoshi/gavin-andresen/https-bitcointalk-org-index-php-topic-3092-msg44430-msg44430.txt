@@ -1,13 +1,3 @@
-
-
-Quote from: jon_smark on February 04, 2011, 01:52:17 PM
-
-Anyway, as I mentioned I'm not that familiar with the inner workings of the
-Bitcoin protocol, so I'm making lots of assumptions. I hope you can fill the
-blanks, because without an API that allows clients to have a fool-proof way of
-ensuring transaction consistency it will be very hard for Bitcoin to be taken
-seriously for e-commerce applications.  
-
   
 The fool-proof way of dealing with your use case (customer orders something,
 you want to ship after you're sure payment has cleared):  

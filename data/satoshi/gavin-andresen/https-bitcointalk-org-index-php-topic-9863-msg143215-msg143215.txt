@@ -1,14 +1,3 @@
-
-
-Quote from: John Smith on May 26, 2011, 03:34:51 AM
-
-On the other hand, a stable testnet is somewhat important for people that want
-to debug and test merchant sites.  
-  
-This time, it took me about two days to generate any coins on the testnet, the
-coins the faucet sent me never arrived (and still, it insisted it had sent me
-coins, I wasn't able to repeat it).  
-
   
 For debugging your own sites, a testnet-in-a-box setup is nice and stable,
 completely under your control, and has a good supply of mature coins to debug

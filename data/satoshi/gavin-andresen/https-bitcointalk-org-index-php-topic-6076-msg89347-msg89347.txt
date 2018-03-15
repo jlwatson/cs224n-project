@@ -1,5 +1,3 @@
-
-
 It might make more sense to allow non-sensitive RPC commands to function
 without a password. Where "non-sensitive" would be getblockcount/getdifficulty
 maybe getnewaddress/getaccountaddress and a new 'you clicked on a bitcoin: URI

@@ -1,14 +1,3 @@
-
-
-Quote from: davux on November 30, 2010, 09:08:43 PM
-
-1\. I'm allowing people to have more than one address.  
-2\. I'm letting people label each address.  
-  
-This means I need to use the label as a label, and it also means I can't use
-it to store the account. So I'm solving this using an external database to
-store relationship between addresses and users.  
-
   
 You can continue to use accounts as labels, create an each-address-gets-one-
 label, and map addresses-->user in your database.  
@@ -21,13 +10,6 @@ The bitcoin 'getaddressesbyaccount' method will give you the addresses-->user
 relationship, and all the accounting becomes much easier (listtransactions
 gets you all the transactions associated with a particular user, etc).  
   
-
-Quote from: doublec
-
-What happens to the existing label functionality? I have a webapp that uses a
-label to get an address then uses the address. Will this still work or will I
-have to change the app to use accounts?  
-
   
 The label methods still work, call the corresponding account methods (e.g.
 call setlabel <bitcoinaddress> and it calls setaccount), but are deprecated,

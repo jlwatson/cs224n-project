@@ -1,5 +1,3 @@
-
-
 Released, transaction id
 fe5ee70feac0db3963d20fa746257ec18fec7379f90ca6a1ef4c1df564c6e413  
   

@@ -1,5 +1,3 @@
-
-
 I'm thinking about how to do higher-level testing of bitcoin, and I think we
 could get a lot of mileage out of a testing harness that works at the network
 protocol level.  

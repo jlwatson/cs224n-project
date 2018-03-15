@@ -1,11 +1,3 @@
-
-
-Quote from: Herodes on January 23, 2013, 07:15:40 PM
-
-Isn't two-factor something that's already been implemented, or already worked
-on ? Ie. you want to send coins, and then you have to use two devices to do it
-?  
-
   
 It is very high on the priority list, yes. Miners already support it, but
 there are still a couple of steps to go before you can create a wallet split

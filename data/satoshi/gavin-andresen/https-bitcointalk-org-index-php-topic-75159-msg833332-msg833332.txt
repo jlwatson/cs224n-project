@@ -1,4 +1,2 @@
-
-
 Upgrade to 0.6.  
 

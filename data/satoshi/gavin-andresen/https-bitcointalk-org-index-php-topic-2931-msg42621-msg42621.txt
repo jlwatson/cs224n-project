@@ -1,5 +1,3 @@
-
-
 This seems like a good idea; maybe not for the next (0.3.20) release, but
 0.3.21.  
   

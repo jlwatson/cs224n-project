@@ -1,5 +1,3 @@
-
-
 The changes in the last year were "soft forks" -- forks that required all
 miners to upgrade (if they don't, their blocks are ignored), but that do not
 require merchants/users to upgrade.  

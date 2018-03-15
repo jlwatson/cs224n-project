@@ -1,10 +1,3 @@
-
-
-Quote
-
-In fact, the suggestion of associating your personal information with your
-bitcoins puts a very bad taste in my mouth. Why would you suggest this, Gavin?  
-
 Because it is critical that YOUR passphrase be different from EVERYBODY ELSE'S
 passphrase.  
   
@@ -15,13 +8,6 @@ That shifts the problem from "attacker is trying to guess EVERYBODY's
 passphrase" to "attacker happens to know that you have a bunch of BTC in a
 brainwallet and is trying to attack YOUR brainwallet, specifically."  
   
-
-Quote
-
-It's an improvement but Moore's law is ruthless, especially considering the
-economic incentives to recover those keys and how bitcoin mining causes people
-to accumulate massive amounts of computing power.  
-
   
 Nicely said.  
   

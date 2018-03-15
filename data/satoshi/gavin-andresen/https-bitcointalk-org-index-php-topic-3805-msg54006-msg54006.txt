@@ -1,15 +1,4 @@
-
-
 From another thread:  
-
-Quote from: we6jbo on February 24, 2011, 12:40:19 AM
-
-I think that if Bitcoin allowed users to insert some identification such as
-their name or an email into the users transactions then if an attacker stole
-money from the user it would make it a lot easier to report the theft such as
-if the attacker tried to change the currency into dollars by exchanging it
-with a bitcoin trader...
-
   
 No need to embed the identification in the transactions, I don't think. You
 just need to associate your public keys with 'you' at some place where anybody

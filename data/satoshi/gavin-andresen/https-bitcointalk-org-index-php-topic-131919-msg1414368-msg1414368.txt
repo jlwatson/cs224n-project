@@ -1,11 +1,3 @@
-
-
-Quote from: chriswilmer on December 21, 2012, 10:54:00 PM
-
-For less-savvy supporters like myself, could you tell us whether these are
-fork-required upgrades or no-fork-required upgrades? I'm referrring now to the
-secure payment protocol stuff.  
-
   
 No fork required. The secure payment protocol stuff is all higher-level than
 the blockchain.  

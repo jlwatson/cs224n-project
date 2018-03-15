@@ -1,5 +1,3 @@
-
-
 How will you know if people tend to pick the same types of events, and,
 therefore, create big non-random clusters of choices that might be easily
 brute-forced?  

@@ -1,13 +1,3 @@
-
-
-Quote from: Insti on July 31, 2010, 07:38:57 PM
-
-Shouldn't it be able to fix itself without having to delete the block data?  
-As long as everyone with an 'old' client stops generating, the bad fork should
-get shorter and die?  
-  
-Just checking my understanding.  
-
 Yep, you're right. The good fork is longer than the bad one now; the last
 ORPHAN BLOCK my TEST bitcoind got was about 20 hours ago.  
 

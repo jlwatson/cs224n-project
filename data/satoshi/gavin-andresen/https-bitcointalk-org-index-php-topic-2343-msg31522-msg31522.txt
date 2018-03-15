@@ -1,12 +1,3 @@
-
-
-Quote from: genjix on December 18, 2010, 09:07:12 PM
-
-However is category really that necessary? Amount is already + or -. Or is
-move also in there too?  
-  
-BTW I don't see any addresses in that output you pasted.  
-
   
 move is its own category (and may be + or -, never has a txid or fees). And
 the output I pasted is what listtransactions does right now (it doesn't report

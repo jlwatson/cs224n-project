@@ -1,5 +1,3 @@
-
-
 Why do people include transaction fees?  
   
 Assuming the miner hasn't tweaked the reference code's parameters, the rules

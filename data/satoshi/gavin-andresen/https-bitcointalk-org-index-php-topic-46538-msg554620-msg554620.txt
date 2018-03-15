@@ -1,5 +1,3 @@
-
-
 Summary of a discussion that happened in IRC chat this afternoon:  
   
 There are 10 no-op opcodes that are explicitly for expansion:  

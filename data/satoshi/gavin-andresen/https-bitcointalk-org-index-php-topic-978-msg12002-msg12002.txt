@@ -1,5 +1,3 @@
-
-
 Nobody volunteered, but the boost ssl LOOKS like it will make it easy... so
 I've started playing around with it.  
   

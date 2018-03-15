@@ -1,10 +1,3 @@
-
-
-Quote from: instagibbs on April 03, 2014, 02:01:37 PM
-
-Not quite right. Miners can and will mine things with a lower fee. Many nodes
-will simply not forward the transactions however.  
-
   
 For low-priority transactions, it doesn't look to me like many miners are
 accepting lower fees.  

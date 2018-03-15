@@ -1,10 +1,3 @@
-
-
-Quote from: jgarzik on March 30, 2011, 06:22:43 PM
-
-If we want to be taken remotely seriously by the banking and merchant
-communities, floats need to go.  
-
   
 People keep claiming that, and yet I just did YET ANOTHER google search for
 "banking apis", clicked through to the Open Financial Exchange standard (from

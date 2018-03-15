@@ -1,5 +1,3 @@
-
-
 Bug. I never tested the combination of signing a pay-to-script-hash
 transaction with non-wallet private keys.  
   

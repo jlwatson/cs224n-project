@@ -1,11 +1,3 @@
-
-
-Quote from: casascius on October 06, 2011, 10:14:50 PM
-
-If Satoshi didn't intend for anything like this to be added, he wouldn't have
-had a reason to implement a scripting engine in the first place. Transactions
-would just have "inputs" and "outputs" and nothing more.  
-
   
 He wouldn't have included NOP1 through NOP10, either.  
   

@@ -1,5 +1,3 @@
-
-
 The testnet has suffered rewrite-the-block-chain-with-more-hashing-power
 attacks.  
   

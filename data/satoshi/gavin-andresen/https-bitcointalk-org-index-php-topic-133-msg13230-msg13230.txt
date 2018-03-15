@@ -1,14 +1,3 @@
-
-
-Quote from: Ground Loop on September 19, 2010, 04:01:27 AM
-
-So I've been trying to figure out.. just how many coins did  
-1HZNsUqQxKVLmfPfCAzLwrnVDzx8CxwxnM  
-receive?  
-  
-I just can't figure out how to get a total tally of coins to a specific
-address. Is there a tool for that?  
-
   
 bitcointools can tell you all transactions to a particular bitcoin address:  
   

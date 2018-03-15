@@ -1,5 +1,3 @@
-
-
 D'oh! I was running a -testnet bitcoind....  
   
 Never mind.

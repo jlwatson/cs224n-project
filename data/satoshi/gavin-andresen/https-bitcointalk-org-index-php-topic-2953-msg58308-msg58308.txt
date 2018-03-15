@@ -1,11 +1,3 @@
-
-
-Quote from: cdnbcguy on March 02, 2011, 08:48:46 AM
-
-The only things in my obj dir are cpu.o and sha.o  
-  
-I did install wxwidgets and I'm running on Ubuntu 10.10  
-
   
 ... and you get 'fatal error, can't create' when you try to compile bitcoin?  
   

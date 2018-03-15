@@ -1,5 +1,3 @@
-
-
 If your device (computer, mobile phone) is infected and your bitcoin wallet
 keys are stored on that device (encrypted or not), then the bad guys will get
 your coins sooner or later.  

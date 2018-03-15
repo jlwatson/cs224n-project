@@ -1,5 +1,3 @@
-
-
 Yes, the 0.3.21 release will charge a fee if you want to do things like send
 0.05 bitcoins to yourself.  
   

@@ -1,11 +1,3 @@
-
-
-Quote from: Hal on March 11, 2011, 07:54:36 PM
-
-I had the impression the roadmap called for a BitDNS-like decentralized
-mapping system, since Gavin asked to map "strings" to addresses. Maybe I
-misunderstood.  
-
   
 In my head I was imagining a way of telling bitcoin to subscribe to some
 service(s) that did the mapping-- maybe a setting in the GUI where you could

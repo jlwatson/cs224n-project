@@ -1,9 +1,3 @@
-
-
-Quote from: ThePiachu on December 30, 2011, 08:47:16 PM
-
-Anyone interesting in creating and testing more unit tests together?  
-
   
 Good Idea. How are you creating the files?  
   

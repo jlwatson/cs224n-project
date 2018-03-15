@@ -1,5 +1,3 @@
-
-
 My rule of thumb is "never inline methods more than 1 line long."  
   
 Unless you're doing something super performance-critical, in which case my

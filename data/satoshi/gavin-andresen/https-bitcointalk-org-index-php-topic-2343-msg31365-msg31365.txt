@@ -1,5 +1,3 @@
-
-
 We're pretty close to being able to duplicate the bitcoin GUI using the RPC.  
   
 I think the only thing missing is reporting bitcoin addresses in

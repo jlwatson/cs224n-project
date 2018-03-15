@@ -1,5 +1,3 @@
-
-
 The upcoming 0.7 release will support running as a hidden service, and
 supports hidden services finding each other via the p2p and dnsseed peer-
 finding mechanisms; see  

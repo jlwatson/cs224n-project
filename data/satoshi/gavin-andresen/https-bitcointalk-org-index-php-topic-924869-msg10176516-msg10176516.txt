@@ -1,14 +1,3 @@
-
-
-Quote from: stevenh512 on January 16, 2015, 01:00:01 AM
-
-True, in that case root certificates aren't the weak link, but I can think of
-situations where it would be. Trusting a root certificate implies trusting a
-centralized certifying authority. The authority can be compromised to issue
-and sign fake certificates to facilitate MITM attacks. Governments have
-already coerced a few CAs into facilitating MITM attacks on SSL/TLS in the
-past.  
-
   
 Even in that case, the certificate is " **a** " weak link, not " **the** "
 weak link. Think through what would have to fail to pull off a steal-bitcoins

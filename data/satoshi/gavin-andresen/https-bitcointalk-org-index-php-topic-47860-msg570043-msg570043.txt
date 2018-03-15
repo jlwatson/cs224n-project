@@ -1,5 +1,3 @@
-
-
 I can't resist, the problem of how to bootstrap a new chain in the face of
 massive, hostile hashing power fascinates me.  
   

@@ -1,5 +1,3 @@
-
-
 Joozero asked if I'd make the source to freebitcoins.appspot.com available,
 and I promised to start a thread explaining how I created it-- and here it is.  
   

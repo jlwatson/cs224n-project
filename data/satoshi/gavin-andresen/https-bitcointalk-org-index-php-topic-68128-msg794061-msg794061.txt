@@ -1,5 +1,3 @@
-
-
 There have already been several "transaction spam" attacks; as already pointed
 out, transaction fees keep them from being a big problem.  
   

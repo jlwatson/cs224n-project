@@ -1,5 +1,3 @@
-
-
 Ok, looks like two problems-- if rpcallowip=* works, then maybe bitcoin thinks
 your IP is something else (or maybe there is a bug in the bitcoin rpcallowip
 code). Run this on the web server:  

@@ -1,28 +1,8 @@
-
-
-Quote from: Thor on June 05, 2011, 08:15:35 PM
-
-Couldn't you almost instantly have a "non-trivial" amount of the network
-converted by just getting [Tycho] and Slush (and maybe a couple other 500GH/s
-+ pools) to have committed to being updated? And perhaps check with Vladimir
-or a couple of the other big solo players?  
-
   
 No, because you're probably not directly connected to those pools, and the
 nodes you are connected to will drop transactions if they don't include the
 'right' fee.  
   
-
-Quote
-
-Also, on a side note, I would personally like to see the ability to include
-smaller transactions in general included in a release very soon (at least 3
-decimal places, preferably 4 especially if that is the transaction fee limit.
-I think one should be able to see and work with those fractions of coins in
-other ways as well if they can be used for fees.)  
-  
-That's my .0005 BTC.  
-
 Bitcoin already supports showing and sending less-than-0.01 BTC amounts. It is
 just smart and only shows 2 decimal places instead of always showing lots of
 extra zeroes.  

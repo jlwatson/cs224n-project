@@ -1,5 +1,3 @@
-
-
 Cross-posting from the bitcoin-development list:  
   
 I submitted a pull request yesterday that implements low-level "raw"

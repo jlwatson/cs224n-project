@@ -1,5 +1,3 @@
-
-
 listunspent output is designed to be read by machines, not people, and its
 output is designed to go directly into createrawtransaction.  
   

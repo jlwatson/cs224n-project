@@ -1,5 +1,3 @@
-
-
 The 'open' command is the best way to run Bitcoin.app from the command line:  
   
 

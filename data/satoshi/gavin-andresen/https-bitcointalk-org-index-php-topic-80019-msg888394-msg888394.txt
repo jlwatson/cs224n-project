@@ -1,5 +1,3 @@
-
-
 @luke-jr : I don't want to start an argument, but I still think we don't have
 enough testing resources to support 4 releases. I think we need to establish
 good QA for the main Bitcoin-Qt/bitcoind release before we worry about next-

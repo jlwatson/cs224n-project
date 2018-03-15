@@ -1,5 +1,3 @@
-
-
 I actually created and spent some "input from wallet a", "input from wallet b"
 private testnet transactions earlier this week (I'm working on some lower-
 level RPC commands for bitcoind -- see https://gist.github.com/2839617 for the

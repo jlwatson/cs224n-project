@@ -1,5 +1,3 @@
-
-
 The only reason I can think of is it relies on the boost::xpressive regular
 expression parsing .hpp, and that slows down the build.  
   

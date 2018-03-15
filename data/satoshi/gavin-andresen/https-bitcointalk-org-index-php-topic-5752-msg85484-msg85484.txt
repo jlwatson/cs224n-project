@@ -1,5 +1,3 @@
-
-
 I can see the GUI not allowing a less-than-CENT to save fat-fingered users
 from themselves, but I think the RPC should allow it; at the very least it
 makes it possible for a kind of grass-roots movement to arise between miners

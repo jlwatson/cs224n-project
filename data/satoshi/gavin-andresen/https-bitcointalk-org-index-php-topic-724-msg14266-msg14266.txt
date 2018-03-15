@@ -1,5 +1,3 @@
-
-
 I've been working on a "monitoraddress" / "monitorblocks" patch, so bitcoind
 will POST transaction/block information to an arbitrary URL.  
   

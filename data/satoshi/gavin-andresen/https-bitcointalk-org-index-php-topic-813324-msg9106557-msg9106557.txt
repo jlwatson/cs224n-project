@@ -1,12 +1,3 @@
-
-
-Quote from: jonny1000 on October 06, 2014, 06:02:49 PM
-
-Is Gavin saying this should grow at 50% per year because bandwidth has been
-increasing at this rate in the past? Might it not be safer to choose a rate
-lower than historic bandwidth growth? Also how do we know this high growth in
-bandwidth will continue?  
-
   
 Yes, that is what I am saying.  
   

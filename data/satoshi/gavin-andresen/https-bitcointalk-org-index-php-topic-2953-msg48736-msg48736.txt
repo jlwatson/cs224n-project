@@ -1,5 +1,3 @@
-
-
 Linux and Windows binaries are at:  
 https://sourceforge.net/projects/bitcoin/files/Bitcoin/bitcoin-0.3.20/  
   

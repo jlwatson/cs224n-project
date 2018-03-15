@@ -1,5 +1,3 @@
-
-
 Picking up from the original thread...  
   
 Bitcoin-related sites that have self-signed or CACert certificates (like

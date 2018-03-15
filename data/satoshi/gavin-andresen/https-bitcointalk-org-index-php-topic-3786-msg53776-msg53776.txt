@@ -1,5 +1,3 @@
-
-
 I just did some testing (on Linux) and the GUI seems to handle full-precision
 values quite nicely.  
 

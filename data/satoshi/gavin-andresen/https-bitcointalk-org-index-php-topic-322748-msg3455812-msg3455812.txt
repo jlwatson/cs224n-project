@@ -1,5 +1,3 @@
-
-
 See: Average block size chart  
   
 Since implementing the "dust rule", block size has been pretty steady; I would

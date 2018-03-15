@@ -1,16 +1,3 @@
-
-
-Quote from: puddinpop on October 14, 2010, 12:42:16 PM
-
-I see what you mean now. Sending hashes for the target block that are a low
-difficulty. Well that could work, but I see 2 issues immediately. The first is
-that these hashes may or may not be produced in a regular manner, and there is
-not even a guarantee a client would produce one. The calculated hash rate
-based on this metric would have to be taken from a large sample size. The
-second issue is that each miner would now need to check the calculated hash
-against the target after every hash. This is another operation the client must
-perform and it will slow down generation.  
-
   
 I bet you'd get a good approximation of hash rate if clients submitted their
 best (highest difficulty) hash every N minutes. Over a period of a few hours

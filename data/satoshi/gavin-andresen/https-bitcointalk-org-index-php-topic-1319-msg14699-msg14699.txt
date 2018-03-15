@@ -1,5 +1,3 @@
-
-
 This patch adds the following JSON-RPC commands to bitcoin/bitcoind:  
   
 

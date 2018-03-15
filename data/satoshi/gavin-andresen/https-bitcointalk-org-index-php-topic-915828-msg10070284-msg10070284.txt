@@ -1,16 +1,3 @@
-
-
-Quote from: DeathAndTaxes on January 06, 2015, 06:54:06 PM
-
-Three important points to consider about OP_RETURN:  
-1) A transaction can only have one OP_RETURN output. Two or more is simply
-invalid (not non-standard but invalid) and will be rejected by all nodes.  
-2) The "payload" of the OP RETURN output is limited to 40 bytes. More than 40
-bytes is invalid as well.  
-4) The OP_RETURN output is unspendable and thus normally should have a value
-of 0 BTC however be aware you can set it to any valid value and if you do so
-accidentally then the coins are effectively destroyed.  
-
   
 "Three sir!"  
   

@@ -1,16 +1,3 @@
-
-
-Quote from: robocop on February 15, 2012, 05:10:22 PM
-
-If I have 50 BTC on my address and I want to send 10 BTS to another address
-then the rest of 50 BTC = 40 BTC will sent to a new generated address.  
-I know that was integrated to make the flow more anonymous.  
-  
-Is there a possibilty to deactivate this function?  
-  
-Because I need a clean simple transaction history where I and other users can
-check it.  
-
   
 I've got a "noprivacy" branch of bitcoin that I use for the Faucet:  
 https://github.com/gavinandresen/bitcoin-git/tree/noprivacy  

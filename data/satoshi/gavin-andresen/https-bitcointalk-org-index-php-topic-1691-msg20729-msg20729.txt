@@ -1,5 +1,3 @@
-
-
 The behind-the-firewall nodes will need the following from an on-the-network
 bitcoind:  
   

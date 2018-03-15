@@ -1,12 +1,3 @@
-
-
-Quote from: Red Emerald on June 17, 2012, 03:52:16 PM
-
-As far as I understand from watching the IRC discussions, it is not slow
-because of sending the block from node A to node B. It's the actual validation
-of the block and all of the transactions on each node that is done before
-relaying the block.  
-
 The 0.7 release optimizes transaction validation, so most transactions that
 were validated when broadcast/relayed across the network don't have to be re-
 validated when they're included in a block. That will speed up block

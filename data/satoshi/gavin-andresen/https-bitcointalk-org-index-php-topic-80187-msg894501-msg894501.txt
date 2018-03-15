@@ -1,5 +1,3 @@
-
-
 Pieter fixed the "100% usage on OSX bug" and I created and uploaded a fixed
 version 0.6.2.2 especially for the Mac.  
   

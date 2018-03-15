@@ -1,5 +1,3 @@
-
-
 If your 0.33 bitcoins came from one or two recent payments to you, then
 waiting a day or three to let the inputs "mature" will let you send them
 without a fee. The transaction priority fee rules are designed to discourage

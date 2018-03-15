@@ -1,5 +1,3 @@
-
-
 A few of the big mining pools have started supporting BIP 16, and I feel
 pretty confident that they've shaken out any major bugs.  
   

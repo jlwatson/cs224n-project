@@ -1,11 +1,3 @@
-
-
-Quote from: flipperfish on October 15, 2012, 05:24:29 PM
-
-... But the best solution I can imagine, is to store a signed transaction with
-nLockTime set to some time in the future, which sends the coins in the
-encrypted wallet to some other address....  
-
   
 You don't need the whole network to support transaction replacement to do
 that; just write some code that holds a time-locked transaction, has a way of

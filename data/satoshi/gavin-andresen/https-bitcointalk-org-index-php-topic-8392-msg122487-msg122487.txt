@@ -1,5 +1,3 @@
-
-
 I think sipa is right-- it will just look like a weird double-spend.  
   
 Probably a good idea to reject transactions with non-canonical signatures

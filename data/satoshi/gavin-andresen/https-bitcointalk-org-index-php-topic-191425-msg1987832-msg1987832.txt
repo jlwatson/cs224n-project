@@ -1,10 +1,3 @@
-
-
-Quote from: TierNolan on April 30, 2013, 06:41:17 PM
-
-It also adds a minimum transaction output "magic number". That is an
-additional rule. It doesn't exist at the moment right ?  
-
   
 Minimum transaction output is (conservatively) calculated from the minimum
 relay fee setting. It did exist before, it was just set to '1 satoshi'.  

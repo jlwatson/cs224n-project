@@ -1,10 +1,3 @@
-
-
-Quote from: hello_good_sir on October 09, 2014, 07:12:37 PM
-
-An extremely large block size would mess up the economics of mining
-eventually.  
-
   
 I'm working on a follow-up blog post that talks about economics of the block
 size, but want to get it reviewed by some real economists to make sure my

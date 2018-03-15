@@ -1,5 +1,3 @@
-
-
 Actually, the "label" mechanism gives me what I need to keep the freebitcoins
 separate from other bitcoins in my server's wallet.  
   

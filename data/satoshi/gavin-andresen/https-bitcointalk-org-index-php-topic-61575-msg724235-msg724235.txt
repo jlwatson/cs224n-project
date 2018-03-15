@@ -1,12 +1,3 @@
-
-
-Quote from: paraipan on January 31, 2012, 02:55:36 PM
-
-The way i understand it BIP16 changes completely the scripting system for the
-p2sh transactions. How ? bypassing it. Seen lot of code examples already.
-BIP17 uses an existent placeholder OP code to fit it's needs and another one
-that seems to have been put there by Satoshi himself.  
-
   
 You understand wrong.  
   

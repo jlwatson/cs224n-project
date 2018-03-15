@@ -1,11 +1,3 @@
-
-
-Quote from: ampkZjWDQcqT on July 04, 2011, 08:19:44 PM
-
-Especially, I think the format of wallet.dat needs to be documented. A good
-practice it to ship the documentation of the internals together with the
-source code, something missing in the current reference implementation.  
-
   
 So go ahead and document it, volunteer to keep it up to date (that's the hard
 part), and submit a patch. After the latest source-file re-org, there is a

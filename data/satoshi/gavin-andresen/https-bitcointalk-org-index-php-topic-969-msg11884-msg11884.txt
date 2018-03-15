@@ -1,5 +1,3 @@
-
-
 I just submitted a patch to Satoshi to make bitcoin follow the JSON RPC over
 HTTP spec, and to use the standardized error codes from the JSON-RPC 1.1/2.0
 specs.  

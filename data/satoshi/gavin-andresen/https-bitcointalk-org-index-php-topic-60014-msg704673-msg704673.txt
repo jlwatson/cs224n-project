@@ -1,5 +1,3 @@
-
-
 We need more Windows developers, by the way; if you know a lot about
 developing in C++ on Windows and want to (for example) create a Visual Studio
 project or resurrect makefile.vc or fix the build instructions if they're not

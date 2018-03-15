@@ -1,5 +1,3 @@
-
-
 Zooko Wilcox-O'Hearn also deserves recognition; he warned us that the method
 Bitcoin uses to compute the Merkle tree was possibly insecure (although at the
 time we couldn't see how to turn it into an exploit).  

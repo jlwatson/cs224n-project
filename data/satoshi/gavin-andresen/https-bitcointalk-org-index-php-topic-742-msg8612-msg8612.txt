@@ -1,9 +1,3 @@
-
-
-Quote from: Insti on August 10, 2010, 08:40:12 PM
-
-Are transactions allowed to have input addresses with a zero balance?  
-
 If they are (I didn't see anything preventing them after a quick reading of
 the code), then they trigger the 0.01BTC micro-transaction fee.  
   

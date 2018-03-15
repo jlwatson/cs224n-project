@@ -1,5 +1,3 @@
-
-
 We're getting reports that version 0.7.0 isn't working on OSX 10.5-- are there
 any Mac developers with a 10.5 machine who can help figure out what is wrong?  
   

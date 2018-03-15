@@ -1,5 +1,3 @@
-
-
 Wow, great paper!  
   
 I like the idea of the "bill" (aka contract aka "PaymentRequest") determining

@@ -1,5 +1,3 @@
-
-
 Bugs can be reported via the github issues system:  
 https://github.com/bitcoin/bitcoin/issues  
   

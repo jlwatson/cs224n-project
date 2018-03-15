@@ -1,10 +1,3 @@
-
-
-Quote from: Pieter Wuille on March 22, 2012, 04:21:53 AM
-
-By tweaking some caching settings, a rather spectacular speed increase for
-loading a block chain was obtained. This will probably end up in 0.6 still.  
-
 I pulled #964 for 0.6 this morning.  
   
 I had played with database settings several months ago and saw no speedup

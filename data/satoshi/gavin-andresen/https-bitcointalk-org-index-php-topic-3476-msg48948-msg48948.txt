@@ -1,5 +1,3 @@
-
-
 I agree with jgarzik: the do-nothing << 0 is basically a comment saying "this
 is a bit-field."  
 

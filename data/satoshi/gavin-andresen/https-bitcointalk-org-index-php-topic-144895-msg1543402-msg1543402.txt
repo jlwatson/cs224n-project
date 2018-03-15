@@ -1,5 +1,3 @@
-
-
 RE: particular ideas if "we" decide the blocksize has to be increased:  
   
 I think the first step is to come to rough consensus that, at some point, we

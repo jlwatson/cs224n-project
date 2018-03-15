@@ -1,5 +1,3 @@
-
-
 svnTEST branch is up on github.  
   
 I also uploaded just the production-bitcoin-to-TEST-network-bitcoin patches to

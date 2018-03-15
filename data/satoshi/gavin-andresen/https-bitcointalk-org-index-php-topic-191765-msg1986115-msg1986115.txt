@@ -1,5 +1,3 @@
-
-
 Bitcoin Foundation uses CloudFlare to protect bitcoinfoundation.org from
 distributed denial of service attacks.  
   

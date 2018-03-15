@@ -1,5 +1,3 @@
-
-
 I'd suggest using a standard, existing format instead of inventing a new one.  
   
 Either get rid of the version number and do standard CSV:  

@@ -1,5 +1,3 @@
-
-
 By the time Bitcoins replace the Euro  I think most people will be running
 lightweight clients on wireless smartcards in their (physical) wallet that
 don't pay attention to every single transaction.  

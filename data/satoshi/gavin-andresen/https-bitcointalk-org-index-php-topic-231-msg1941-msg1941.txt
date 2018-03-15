@@ -1,5 +1,3 @@
-
-
 I've started reverse-engineering and documenting the wallet and block
 databases, and have written some Python code that deserializes many of the
 Bitcoin data structures. I was going to let it ferment a little more before

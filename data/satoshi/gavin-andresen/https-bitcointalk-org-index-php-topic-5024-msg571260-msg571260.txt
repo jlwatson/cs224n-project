@@ -1,9 +1,3 @@
-
-
-Quote from: asdf on October 12, 2011, 10:32:03 PM
-
-Is there some market based mechanism which will counter this behavior?  
-
 Thinking out loud:  
   
 If miners (or other nodes) not relaying transactions starts to become an

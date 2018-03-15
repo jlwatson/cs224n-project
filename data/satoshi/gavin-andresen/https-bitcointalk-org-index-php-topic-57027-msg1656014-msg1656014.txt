@@ -1,5 +1,3 @@
-
-
 I just used some bitcoins from the Bitcoin Faucet fund to compensate the
 p2pool miners who's block was orphaned in the Big Chain Fork.  
   

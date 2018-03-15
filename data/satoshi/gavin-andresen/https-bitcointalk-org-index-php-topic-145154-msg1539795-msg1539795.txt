@@ -1,5 +1,3 @@
-
-
 I think casual users should avoid the Satoshi client. Gigabytes of blockchain
 data is not user-friendly, and we've done a lousy job of making it hard for
 users to lose their keys.  

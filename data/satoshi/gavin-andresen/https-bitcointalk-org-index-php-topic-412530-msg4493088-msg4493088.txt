@@ -1,4 +1,2 @@
-
-
 No, not possible, given what we know about the properties of SHA256 hashing.  
 

@@ -1,10 +1,3 @@
-
-
-Quote from: Cdecker on June 12, 2011, 07:31:42 AM
-
-Just a quick question: is this just for mainline client dev, or are we
-alternative developers allowed to ask questions too?  
-
 As long as the questions are core-bitcoin-related and not specific to your
 alternative client.  
   

@@ -1,5 +1,3 @@
-
-
 Barring any last-minute showstopper issues, the plan is for release candidate
 5 to become the official 0.6.0 release on Wednesday.  
   

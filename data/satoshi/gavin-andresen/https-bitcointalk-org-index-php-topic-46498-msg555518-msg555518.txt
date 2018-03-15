@@ -1,10 +1,3 @@
-
-
-Quote from: ArtForz on October 03, 2011, 06:42:23 AM
-
-Nope, bitcoin still has the off-by-1, as for now it's deemed "too big to fail"
-and fixing it would mean a backwards-incompatible change to the blockchain.  
-
   
 First: sorry for conflating the off-by-1 and the asymmetric adjustment issues.
 As I said, I haven't taken the time to consider changing the bitcoin

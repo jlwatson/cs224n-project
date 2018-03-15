@@ -1,5 +1,3 @@
-
-
 RE: point you in the right direction:  
   
 File rpc.cpp, the CommandLineRPC method:  

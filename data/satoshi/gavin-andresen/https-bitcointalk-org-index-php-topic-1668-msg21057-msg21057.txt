@@ -1,5 +1,3 @@
-
-
 With davidonpda's help, I did some testing myself today with Satoshi's latest
 code changes (setting priority based on transaction age, bitcoin amounts in,
 and total transaction size in bytes -- svn rev 176).  

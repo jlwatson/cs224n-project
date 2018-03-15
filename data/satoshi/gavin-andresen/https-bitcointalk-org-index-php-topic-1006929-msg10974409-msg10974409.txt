@@ -1,16 +1,3 @@
-
-
-Quote from: supermoney on March 30, 2015, 07:37:41 AM
-
-Hello fellows!  
-I'm actually running bitcoind server to receive and send transaction through
-my own software.  
-Transaction size of my spends are always near to 100kb/500kb, so how do I set
-a minimum/pseudo-fixed transaction fee in my bitcoin.conf/software? If you
-haven't figured out yet what I mean, I would always pay 0.0001 BTC for each
-spend cause they never exceed 1.000kb.  
-Hoping in a fast reply  
-
   
 You can't, the reference implementation wallet always pays some-amount-
 per-1000-bytes-of-the-transaction.  

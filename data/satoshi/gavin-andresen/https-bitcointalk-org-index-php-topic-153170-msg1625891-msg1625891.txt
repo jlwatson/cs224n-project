@@ -1,5 +1,3 @@
-
-
 The first part of the chain that got orphaned, starting at block 225,430, is
 here:  
   

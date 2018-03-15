@@ -1,5 +1,3 @@
-
-
 Using bitcoind on a command-line? What operating system?  
   
 Something is stripping off the double-quotes from the "txid" and "vout" keys

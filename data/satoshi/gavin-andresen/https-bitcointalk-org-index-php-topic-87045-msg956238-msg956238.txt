@@ -1,5 +1,3 @@
-
-
 Once upon a time bitcoin.org called Bitcoin "anonymous" but that was a
 mistake, and for at least two years "we" (core developers) have tried to be
 careful to say that, at best, Bitcoin is pseudanonymous.  

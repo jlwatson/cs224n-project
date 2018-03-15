@@ -1,5 +1,3 @@
-
-
 RE: other weird variable type requirments:  
 sendmany's second argument is a JSON Object, with string keys and number
 (float) values. I think the equivalent in PHP is a PHP Array (indexed by

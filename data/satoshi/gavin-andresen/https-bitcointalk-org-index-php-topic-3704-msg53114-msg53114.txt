@@ -1,5 +1,3 @@
-
-
 I'll be re-releasing updated windows .zip and .exe files later today to fix
 these issues.  
 And this time I'll triple-check versions on everything.  

@@ -1,5 +1,3 @@
-
-
 It is possible to generate transactions that "fan out" to an arbitrary number
 of recipients.  
   

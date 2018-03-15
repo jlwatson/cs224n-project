@@ -1,5 +1,3 @@
-
-
 Please help sanity test version 0.5.1 release candidate 1.  
   
 Why a version 0.5.1 ? To fix the bugs listed below before starting on 0.6

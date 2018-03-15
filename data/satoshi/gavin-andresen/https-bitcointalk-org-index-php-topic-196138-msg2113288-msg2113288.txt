@@ -1,13 +1,3 @@
-
-
-Quote from: Gavin Andresen on May 10, 2013, 04:44:15 PM
-
-Who gets to decide how slow is too slow?  
-
-Quote from: retep on May 10, 2013, 06:48:32 AM
-
-BTC Guild right now.  
-
 Okey dokey.  
   
 Have you contributed any patches to p2pool to make it more efficient / easier

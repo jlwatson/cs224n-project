@@ -1,11 +1,3 @@
-
-
-Quote from: NewLiberty on October 16, 2014, 09:29:38 PM
-
-Designing something to work and designing to not fail are entirely different
-endeavors and someone qualified for one is not necessarily qualified to even
-evaluate the other.  
-
 Pure coincidence, but I had lunch today with a local developer who will be
 putting up a building in downtown Amherst. They are planning on running fiber
 to the building, because they want to build for the future and the people they

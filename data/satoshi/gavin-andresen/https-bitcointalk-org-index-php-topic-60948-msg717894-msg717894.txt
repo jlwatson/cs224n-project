@@ -1,5 +1,3 @@
-
-
 Yes, you will confuse the GUI if you send coins to 'change' addresses.  
   
 My advice would be "don't do that."  

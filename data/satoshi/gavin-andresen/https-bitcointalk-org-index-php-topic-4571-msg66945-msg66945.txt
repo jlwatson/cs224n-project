@@ -1,5 +1,3 @@
-
-
 The bitcoin integration/testing source tree is at GitHub, and we
 (jgarzik/tcatm/gavinandresen right now) use GitHub's "pull request" feature to
 keep track of patches that people think are ready for integration into

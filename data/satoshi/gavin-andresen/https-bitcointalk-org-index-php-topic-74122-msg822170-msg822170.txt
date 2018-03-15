@@ -1,12 +1,3 @@
-
-
-Quote from: triplehelix on March 27, 2012, 04:10:35 AM
-
-i don't think i have the most correct answer. i just think that security isn't
-as hardened as it could be, and there is at least one area where it could be
-relatively easily strengthened, and an open discussion would probably be
-beneficial.  
-
 You mean like:  
   
 https://bitcointalk.org/index.php?topic=34562.0  

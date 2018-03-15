@@ -1,10 +1,3 @@
-
-
-Quote from: creighto on December 22, 2010, 04:42:40 AM
-
-A blockchain index? Doesn't the vanilla client index the blockchain for itself
-already?  
-
   
 Yes, that is exactly what the blkindex.dat file is.  
   

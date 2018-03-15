@@ -1,12 +1,3 @@
-
-
-Quote from: mckoss on December 13, 2011, 06:33:35 AM
-
-I've not seen any way to resolve the problems with my original proposal; it
-seems too easy to use a large amount of cash to reach back arbitrarily far in
-the block chain to re-write history (and hence, invalidate transactions where
-you spent money).  
-
   
 ... or, even worse, invalidate competing proof-of-stakes.  
   

@@ -1,5 +1,3 @@
-
-
 Two pull requests seem appropriate: one for the generic issues (talk with
 TheBlueMatt about the upnp #define, I believe it is working as designed), and
 one for DragonFly-specific stuff.  

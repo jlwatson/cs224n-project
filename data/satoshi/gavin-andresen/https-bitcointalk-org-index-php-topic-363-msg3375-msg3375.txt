@@ -1,11 +1,3 @@
-
-
-Quote from: bdonlan on July 16, 2010, 03:08:26 AM
-
-I'm working on an alternate bitcoin client and I'd like to try it on the test
-network. Is there a list of bootstrap hosts for the test network somewhere, so
-I don't need to implement an IRC client at this point?  
-
 The TEST Faucet will be running on host: li133-197.members.linode.com  
 (starting tomorrow, if all goes as planned). You can connect to it to
 bootstrap.  

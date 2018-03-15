@@ -1,5 +1,3 @@
-
-
 The JSON-API wiki page describes all the methods:
 http://www.bitcoin.org/wiki/doku.php?id=api  
   

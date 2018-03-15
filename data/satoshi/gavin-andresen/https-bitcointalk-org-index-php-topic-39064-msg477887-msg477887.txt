@@ -1,5 +1,3 @@
-
-
 My worry is that we'll schedule a blockchain split 6 months from now, and
 between now and then somebody implements a secure, way-cool, everybody-
 decides-to-use, way to use your email address as a bitcoin address.  

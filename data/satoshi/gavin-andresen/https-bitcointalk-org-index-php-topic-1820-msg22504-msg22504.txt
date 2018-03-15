@@ -1,5 +1,3 @@
-
-
 It'd been a while since I shot myself in my foot, so I guess I was overdue.  
   
 Anyhow, on my third attempt I think I've got it right-- I fixed a bug that was

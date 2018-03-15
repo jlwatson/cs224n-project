@@ -1,4 +1,2 @@
-
-
 I like OP_EVAL better than BEGIN...ENDDIGEST.  
 

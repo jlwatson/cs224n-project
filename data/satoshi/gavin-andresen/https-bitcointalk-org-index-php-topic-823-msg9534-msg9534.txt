@@ -1,5 +1,3 @@
-
-
 Looks good to me.  
   
 Can you easily hardcode a check for the bad block's hash at startup and orphan

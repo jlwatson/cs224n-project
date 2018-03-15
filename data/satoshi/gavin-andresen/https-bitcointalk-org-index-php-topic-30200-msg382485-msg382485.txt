@@ -1,5 +1,3 @@
-
-
 I've been making slow but steady progress on my at-the-network-level testing
 tool. I don't put a lot of faith in standards documents-- it is too easy to
 misinterpret or ignore them. Good implementation-independent test suites seem

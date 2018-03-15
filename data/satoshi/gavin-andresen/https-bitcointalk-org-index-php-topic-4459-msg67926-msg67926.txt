@@ -1,12 +1,3 @@
-
-
-Quote from: ByteCoin on March 17, 2011, 02:42:44 PM
-
-If this were easy then surely Satoshi would have implemented it from the
-start; after all the address is one step removed from the public key
-presumably to prevent offline attacks trying to find the private key. It seems
-like you're looking to be another step removed. Is there much point?  
-
   
 Satoshi has a bunch of features that he 'figured out from the start' that are
 not implemented yet; I'll ask him if this is one of them after I figure out

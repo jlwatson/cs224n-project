@@ -1,12 +1,3 @@
-
-
-Quote from: pc on May 04, 2011, 11:54:34 AM
-
-Does it check to see if it could add another input in order to avoid throwing
-money away in a fee, or does it just look for the first input that fits, and
-it's just too bad if it's less than 0.01 more than the amount of the
-transaction?  
-
   
 The latest version of bitcoin **does** try to avoid "sub-cent change" by
 adding more inputs.  

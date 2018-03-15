@@ -1,5 +1,3 @@
-
-
 Unix and Mac and Windows all have ways of scheduling recurring tasks (Linux:
 crontab, Mac: crontab, or I think iCal can do it, Windows... I dunno).  
   

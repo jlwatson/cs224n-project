@@ -1,18 +1,3 @@
-
-
-Quote from: phatsphere on March 01, 2012, 07:55:50 PM
-
-bummer. i'm running ubuntu 11.10, nothing special, 64bit. downloaded rc1 into
-~/tmp and did this:  
-
-Code:
-
-~/tmp$ ./bitcoin-0.6.0rc2-linux/bin/64/bitcoin-qt  
-************************  
-EXCEPTION: 22DbRunRecoveryException  
-DbEnv::open: DB_RUNRECOVERY: Fatal error, run database recovery  
-bitcoin in Runaway exception  
-
 The dreaded DB_RUNRECOVERY... that's usually caused by running an older
 version of BDB (0.6 is compiled against BDB 4.8) on a datadir written with a
 newer version of BDB.  

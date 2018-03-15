@@ -1,10 +1,3 @@
-
-
-Quote from: ribuck on May 07, 2011, 02:29:18 PM
-
-Clearly the fee system is suboptimal if one can reduce fees by workarounds
-that increase system overhead.  
-
   
 I learned long ago that it is much better to create a sub-optimal system that
 is simple and robust than to try to create a perfectly optimal system.  

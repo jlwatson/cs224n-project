@@ -1,9 +1,3 @@
-
-
-Quote from: caveden on December 07, 2010, 02:03:39 PM
-
-What's a non-standard transaction?  
-
   
 A transaction that is signed in a way that the standard bitcoin client doesn't
 understand.  

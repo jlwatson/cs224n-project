@@ -1,10 +1,3 @@
-
-
-Quote from: error on March 30, 2011, 06:46:15 PM
-
-The main problem is that floating point is not sufficient to accurately store
-a Bitcoin balance  
-
   
 An IEEE double-precision floating point number has 53 bits of precision, which
 IS sufficiently accurate to store a bitcoin balance.  

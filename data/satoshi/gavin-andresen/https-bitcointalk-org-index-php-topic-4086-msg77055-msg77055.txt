@@ -1,15 +1,3 @@
-
-
-Quote from: genjix on April 01, 2011, 10:56:42 AM
-
-I am really paranoid about leakage, and for me to even touch a float when
-dealing with people's money is unacceptable. On Britcoin, there's a whole
-system of balances and checks at every stage of the various transactions to
-ensure consistency to all decimal places, and I would not want to throw a
-spanner in the works because of a tiny rounding error (which would throw up
-flags and warnings everywhere). Even hearing the words round(...) is like
-heresy.  
-
   
 Am I the only person here who looks at our documentation for how to use
 bitcoin from PHP and thinks "people are going to run away screaming" ? See:

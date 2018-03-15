@@ -1,5 +1,3 @@
-
-
 Cloning your wallet to do anything besides backing it up is a bad idea.  
   
 It might work perfectly for a while... but you are very likely to get weird

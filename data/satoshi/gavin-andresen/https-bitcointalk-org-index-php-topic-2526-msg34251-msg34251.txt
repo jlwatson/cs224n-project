@@ -1,10 +1,3 @@
-
-
-Quote from: danknug on December 30, 2010, 03:38:43 AM
-
-An absolute must. It's only a matter of time until trojans start going for
-wallet.dat  
-
 If you have a trojan on your computer you've already lost. The trojan could
 easily log your keystrokes and send your password along with the encrypted
 wallet.dat to the bad guys.  

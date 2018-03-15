@@ -1,5 +1,3 @@
-
-
 See https://en.bitcoin.it/wiki/Proper_Money_Handling_(JSON-RPC) for relevant
 advice.  
   

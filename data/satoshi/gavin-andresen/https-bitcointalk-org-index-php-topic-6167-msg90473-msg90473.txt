@@ -1,5 +1,3 @@
-
-
 It is a Berkeley DB binary database file.  
   
 https://github.com/gavinandresen/bitcointools has fairly easy to read python

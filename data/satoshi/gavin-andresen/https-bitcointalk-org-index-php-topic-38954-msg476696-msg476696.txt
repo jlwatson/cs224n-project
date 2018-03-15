@@ -1,11 +1,3 @@
-
-
-Quote from: casascius on August 24, 2011, 12:50:56 AM
-
-Here is an idea: why not just modify the OP_CHECKSIG (which currently checks a
-single signature) so it itself supported multiple signatures that could be
-joined with logic?  
-
   
 Because I want to enable these features reasonably soon, and modifying the way
 CHECKSIG works means a blockchain fork for clients that haven't upgraded.

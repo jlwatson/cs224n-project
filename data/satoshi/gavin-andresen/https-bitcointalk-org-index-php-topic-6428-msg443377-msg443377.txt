@@ -1,5 +1,3 @@
-
-
 Everybody likes this feature, and it feels like it is very close to being
 ready for inclusion.  
   

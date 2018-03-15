@@ -1,5 +1,3 @@
-
-
 Because JavaScript doesn't have a 64-bit integer type (all Numbers in
 JavaScript are double-precision floating point).
 

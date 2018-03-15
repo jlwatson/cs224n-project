@@ -1,5 +1,3 @@
-
-
 RE: what's the use of b58_encode? It is dead code for this use-- bitcointools
 (where I first implemented this stuff) uses it to translate from binary
 hash160 to human-readable bitcoin addresses.  

@@ -1,5 +1,3 @@
-
-
 Time-in-the-future transactions are non-standard (as of 0.8? I can never
 remember when things happened...)  
   

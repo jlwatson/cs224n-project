@@ -1,5 +1,3 @@
-
-
 I'm proposing one small change to Bitcoin's JSON-RPC api: return a transaction
 ID when Bitcoins are successfully sent.  
   

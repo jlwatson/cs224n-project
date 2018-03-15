@@ -1,5 +1,3 @@
-
-
 I've deployed a -testnet version of ClearCoin, at:  
 https://testnet.clearcoin.appspot.com/  
   

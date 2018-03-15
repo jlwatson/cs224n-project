@@ -1,5 +1,3 @@
-
-
 RE: 25 outbound connections instead of 8:  
   
 If I recall correctly (and I probably don't), the percentage of nodes

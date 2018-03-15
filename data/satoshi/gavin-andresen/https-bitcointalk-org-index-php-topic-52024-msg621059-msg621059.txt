@@ -1,5 +1,3 @@
-
-
 bitcoind follows the JSON-RPC-over-HTTP spec for reporting errors, but it
 sounds like Sergio's library follows a different spec. You're not the first
 person to complain that bitcoind returns HTTP error codes; here's a one-line

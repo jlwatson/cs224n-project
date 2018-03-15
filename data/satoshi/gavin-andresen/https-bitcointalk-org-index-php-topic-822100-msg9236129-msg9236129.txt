@@ -1,11 +1,3 @@
-
-
-Quote from: CIYAM on October 17, 2014, 04:20:30 PM
-
-The timestamp is not intended to be an *actual timestamp* but instead one that
-is calculated by block height and tx within the block (i.e. an *artificial
-timestamp*).  
-
   
 Uhhh.... okey dokey. That sounds really dangerous, because it means a
 blockchain re-org can change the meaning or behavior of a transaction. "There

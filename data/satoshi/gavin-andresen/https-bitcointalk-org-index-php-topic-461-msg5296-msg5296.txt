@@ -1,5 +1,3 @@
-
-
 I've updated the RPC wiki page for how the password stuff will work in Bitcoin
 0.3.3.  
   

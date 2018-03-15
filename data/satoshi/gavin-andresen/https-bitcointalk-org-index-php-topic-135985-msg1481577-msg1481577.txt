@@ -1,5 +1,3 @@
-
-
 The reference implementation patch is scheduled for the (real soon now!) 0.8
 release:  
 https://github.com/bitcoin/bitcoin/pull/2223  

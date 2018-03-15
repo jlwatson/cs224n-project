@@ -1,5 +1,3 @@
-
-
 MrFlibble: "Fair" is one set of coins (however many the Faucet is giving out
 at the time-- hopefully, bitcoins will continue to become more valuable, and
 I'll give out fewer over time...) per person.  

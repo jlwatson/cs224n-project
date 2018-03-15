@@ -1,11 +1,3 @@
-
-
-Quote from: Hal on March 12, 2011, 08:38:24 PM
-
-As far as getting started, I'd like to see a sticky walking through the steps
-to create a pull request. But yeah, you can check out from sourceforge using
-svn, get your changes working, and post the output of svn diff as a patch.  
-
   
 Sticky for creating a pull request: good idea.  
   

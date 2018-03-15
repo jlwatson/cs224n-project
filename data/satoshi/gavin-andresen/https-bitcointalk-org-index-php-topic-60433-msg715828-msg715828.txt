@@ -1,12 +1,3 @@
-
-
-Quote from: Inaba on January 27, 2012, 01:26:43 AM
-
-I don't think it bodes ill at all. I think, in the future, if something like
-this is handled properly as a roll out, things will go very well. This entire
-thing was botched from the beginning as far as the rollout goes and then
-quickly devolved into this mess.  
-
 We all learn from our mistakes.  
   
 Would you be willing to write an "informational BIP" describing how to do a

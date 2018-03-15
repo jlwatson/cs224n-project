@@ -1,10 +1,3 @@
-
-
-Quote from: technopagan on February 08, 2011, 05:42:22 PM
-
-I reformatted... I backed up my bitcoin directory... but when I restored it on
-the fresh OS my wallet was not intact...  
-
   
 Are you missing your wallet.dat file or is it damaged?  
   

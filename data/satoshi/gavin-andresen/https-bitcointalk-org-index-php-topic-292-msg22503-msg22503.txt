@@ -1,5 +1,3 @@
-
-
 I just committed a change to svn to the way debug.log is written that means
 you need to change your logrotate configuration.  
   

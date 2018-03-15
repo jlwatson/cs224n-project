@@ -1,5 +1,3 @@
-
-
 Multisignature adoption has to follow a multi-step process:  
   
 1\. A majority of miners have to put multisignature transactions into blocks

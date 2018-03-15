@@ -1,5 +1,3 @@
-
-
 Very cool etotheipi.  
   
 Have you tried using mmap() to page the blockchain file into RAM instead of

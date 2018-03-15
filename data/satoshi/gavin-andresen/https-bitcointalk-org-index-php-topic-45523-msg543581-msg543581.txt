@@ -1,5 +1,3 @@
-
-
 Encouraging people to expose their private keys makes me nervous. They're
 "private" for a reason, and it seems to me the vast majority of private keys
 will, a few years from now, either be stored on a secure device which is

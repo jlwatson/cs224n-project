@@ -1,18 +1,9 @@
-
-
 Thanks, k99 and Vitalik, that helps clear it up. I've put "On Transaction
 Fees, And The Fallacy of Market-Based Solutions" on my to-think-about-deeply
 list.  
   
 I'm curious about this, though:  
   
-
-Quote from: Vitalik Buterin on February 02, 2014, 09:47:41 PM
-
-Precisely; although with the proviso that the first 16 computational steps in
-contract execution are free, so if a contract is decently written you can't
-involuntarily send transactions to it to bankrupt it.  
-
   
 If my contract needs more than 16 computational steps to execute, then other
 people CAN send transactions to it to intentionally bankrupt it? That is what

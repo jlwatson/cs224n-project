@@ -1,5 +1,3 @@
-
-
 Disclaimer: I don't do Windows.  
   
 But according to a quick google search, caret is the Windows cmd.exe escape

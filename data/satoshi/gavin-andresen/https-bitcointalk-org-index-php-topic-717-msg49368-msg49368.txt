@@ -1,5 +1,3 @@
-
-
 The help text is misleading; never pass the "foo=" part.  
   
 Somebody could teach bitcoin to accept either getreceivedbyaccount foo 10 or

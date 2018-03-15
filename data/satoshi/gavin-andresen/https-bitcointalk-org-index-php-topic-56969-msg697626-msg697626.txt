@@ -1,9 +1,3 @@
-
-
-Quote from: Steve on January 17, 2012, 06:56:49 PM
-
-Has this been tested on testnet yet?  
-
   
 Yes, of course. I did most of my testing on 'testnet-in-a-box' nodes, but
 spent a day producing P2SH blocks and transactions on testnet; see, for

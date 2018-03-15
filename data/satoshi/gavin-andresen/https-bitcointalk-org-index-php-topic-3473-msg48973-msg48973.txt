@@ -1,5 +1,3 @@
-
-
 Mac binary uploaded to SourceForge (thanks to Laszlo, who builds the Mac
 versions).  
 

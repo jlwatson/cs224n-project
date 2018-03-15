@@ -1,5 +1,3 @@
-
-
 It took me over a week to generate any coins, then I generated two blocks (100
 bitcoins) in just a few hours (running bitcoin on my 2GHZ dual core mac
 laptop).  

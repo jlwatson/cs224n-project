@@ -1,11 +1,3 @@
-
-
-Quote from: realnowhereman on May 24, 2012, 04:01:34 PM
-
-I'm not familiar enough with Satoshi client internals to easily understand
-what script_tests is doing. Could you confirm my understanding of the format
-of the two JSON files?  
-
   
 The format is a list of pairs, where the first item is the scriptSig required
 to spend and the second is the scriptPubKey. The third item is ignored (useful

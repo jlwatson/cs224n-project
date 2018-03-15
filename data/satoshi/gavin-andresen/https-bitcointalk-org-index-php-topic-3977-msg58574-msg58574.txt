@@ -1,5 +1,3 @@
-
-
 If there is a virus on your computer, and your bitcoins are stored on that
 computer, then there is nothing the bitcoin software can do to prevent that
 virus from eventually stealing your coins.  

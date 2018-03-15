@@ -1,5 +1,3 @@
-
-
 ribuck:  
   
 Accuracy/precision is a red-herring unless you're treating numbers as strings,

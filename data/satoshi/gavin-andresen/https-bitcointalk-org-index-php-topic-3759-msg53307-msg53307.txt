@@ -1,5 +1,3 @@
-
-
  ~~Looks like somebody's playing with a tweaked bitcoin-- if you trace back
 the inputs they're from a previous block that has the same odd pattern.  
   

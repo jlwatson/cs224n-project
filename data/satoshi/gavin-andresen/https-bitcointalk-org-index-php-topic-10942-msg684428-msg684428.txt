@@ -1,5 +1,3 @@
-
-
 Are you communicating via JSON-RPC or by command-line (bitcoind sendmany ....)
 ?  
   

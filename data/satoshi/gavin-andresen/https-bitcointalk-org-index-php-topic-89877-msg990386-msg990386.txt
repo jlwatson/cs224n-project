@@ -1,15 +1,3 @@
-
-
-Quote from: doobadoo on June 25, 2012, 11:38:57 PM
-
-dumb question, but i when it comes to verfying the sig, i only know how to
-place the sig file wiht the same name as the .zip on with .asc into the same
-directory and right click to validate. What is this sha256 sum thing? And is
-that somehow generated off of Gavin's key? What does it verify and how to i
-run the check?  
-  
-OS X Snow Leopard with GPG Tools.  
-
 1\. Make sure the SHA256SUMS.asc file hasn't been modified:  
 
 Code:

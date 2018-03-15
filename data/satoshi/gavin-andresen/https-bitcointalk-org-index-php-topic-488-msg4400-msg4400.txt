@@ -1,20 +1,4 @@
-
-
-Quote from: martin on July 19, 2010, 11:07:25 PM
-
-For a gradual change I suppose a client could be released which understand
-both the old and new ways, but only uses the old way, then after some time
-(perhaps take some measurements and estimate what perentage of the network is
-running the new version) release a version which uses only the new version,
-and all the old versions would get kicked off the network?  
-
 There are already a few places in the source code where that is done.  
-
-Quote
-
-Are there any small changes which could be made to the client to make it more
-change proof, would they be worth considering implementing?  
-
 I think Satoshi's done a darn good job of anticipating future needs. The wire
 protocol and database serialization formats both have version numbers, as do
 bitcoin addresses. The core transaction mechanism is _very_ flexible (I worry

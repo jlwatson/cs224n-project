@@ -1,12 +1,3 @@
-
-
-Quote from: nelisky on October 18, 2010, 11:02:31 AM
-
-I just need a way to know if the addresses on the wallet are covered by the
-last backup, and if there are still leftover addresses in the wallet, without
-depending on running counts and persistent data not stored in bitcoin
-directly.  
-
   
 Keys in the keypool store when they're generated (and the oldest are always
 used first). Asking "what's the oldest key in the key pool" seems reasonable,

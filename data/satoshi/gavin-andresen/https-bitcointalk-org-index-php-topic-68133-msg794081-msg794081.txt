@@ -1,5 +1,3 @@
-
-
 Stay tuned: the testnet is a mess right now. Another genesis block reset might
 be needed to fix it, there have been several blockchain-splitting changes and
 there are several different versions of the blockchain competing (with/without

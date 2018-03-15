@@ -1,5 +1,3 @@
-
-
 I'm starting this thread to brainstorm rule changes for -testnet and talk
 about a possible testnet reset for the next release.  
   

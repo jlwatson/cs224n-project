@@ -1,5 +1,3 @@
-
-
 I agree with mh-- if there are real compatibility issues or weaknesses, then
 those would be a good reason to switch curves.  
   

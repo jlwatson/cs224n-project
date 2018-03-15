@@ -1,5 +1,3 @@
-
-
 I've been thinking a lot about transaction IDs and how to gather signatures
 for multi-party transactions, too.  
   

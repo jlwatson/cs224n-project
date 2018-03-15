@@ -1,5 +1,3 @@
-
-
 The consensus from Tuesday's IRC meeting is to replace OP_EVAL with "pay-to-
 script-hash" -- a simpler, safer-but-less-powerful alternative for creating
 bitcoin addresses for multisignature and future more-complex transactions.  

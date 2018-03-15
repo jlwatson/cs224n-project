@@ -1,5 +1,3 @@
-
-
 Disclaimer: I'm a Tor newbie and networking stuff isn't my strong suit, you
 probably know more about it than I do.  
   

@@ -1,11 +1,3 @@
-
-
-Quote from: marekknowak on December 03, 2010, 04:51:16 PM
-
-I'm very curious as of what restricts the supply of bitcoins? basically, what
-mechanism prevents some computer to create new bitcoins, and pass them as
-valid to other bitcoin clients?  
-
   
 Bitcoin contains this magical little piece of code:  
 

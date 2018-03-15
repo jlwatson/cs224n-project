@@ -1,5 +1,3 @@
-
-
 I've been working on making the ClearCoin escrow service's fee structure
 simpler; here's the new structure, which will "go live" in the next day or
 two:  

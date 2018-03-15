@@ -1,26 +1,6 @@
-
-
-Quote from: Luke-Jr on November 12, 2011, 02:16:27 AM
-
-Spesmilo has supported URIs for months. The Satoshi client devs don't want to.  
-
 Huh what? Version 0.5 supports drag-and-drop of bitcoin: URIs. And there's a
 pull request pending for click-to-pay support.  
   
-
-Quote from: BTCurious on November 10, 2011, 04:13:40 AM
-
-Quote from: DeathAndTaxes on November 10, 2011, 04:09:16 AM
-
-Security. Shortly after the first URI usage will be the first URI malware.
-Likely not something that should be rushed into. Of course it is open source
-so you can make a URI capable client.
-
-If the URI is only used in a user-mediated way, i.e., you click a payment
-button, and get a dialog from your client, then where is the security problem?
-Or do you mean script injection of some sort? Sanitizing the URI inputs
-shouldn't be too difficult or am I missing something here?  
-
   
 One fear is bitcoin-address-rewriting malware, like the URL-rewriting phishing
 malware we have today. Actually, combining the two would be very effective

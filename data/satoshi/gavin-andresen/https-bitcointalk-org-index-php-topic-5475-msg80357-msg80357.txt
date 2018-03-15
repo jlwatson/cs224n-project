@@ -1,11 +1,3 @@
-
-
-Quote from: Nefario on April 06, 2011, 12:40:59 PM
-
-OK that's pretty much what I was talking about then. So my stupidly small
-transaction at the moment won't be accepted by most miners, which means it
-wont get recorded in the block chain which means it wont happen, right?  
-
   
 Yes, and right now it will sit in your wallet at 0 confirmations and get
 rebroadcast once in a blue moon (ok, not that long, but I'm too lazy right now

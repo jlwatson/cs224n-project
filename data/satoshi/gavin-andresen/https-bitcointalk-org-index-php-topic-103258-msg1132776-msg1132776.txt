@@ -1,11 +1,3 @@
-
-
-Quote from: Strider Hiryu on August 25, 2012, 08:20:48 PM
-
-Isn't the implication here that you could destabilize a site by spamming them
-with low value transactions? And increase their transaction fees when
-SelectCoins randomly picks up the low value inputs.  
-
 The attacker will pay transaction fees to send those spammy inputs, and that
 has been a large enough disincentive that it hasn't happened.  
   

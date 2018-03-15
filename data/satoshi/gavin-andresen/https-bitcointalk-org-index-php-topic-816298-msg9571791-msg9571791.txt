@@ -1,10 +1,3 @@
-
-
-Quote from: uvt9 on November 17, 2014, 07:51:39 AM
-
-It seems Bitcoin community can't reach consensus on this issue, a lot of
-people against the proposal.  
-
   
 There seem to be a few people who want some OTHER algorithm for increasing the
 block size, but I'm hearing very broad consensus that we do need a hard fork

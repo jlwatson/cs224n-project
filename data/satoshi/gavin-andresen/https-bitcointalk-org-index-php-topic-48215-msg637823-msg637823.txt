@@ -1,12 +1,3 @@
-
-
-Quote from: etotheipi on December 02, 2011, 12:38:28 AM
-
- **Also** , these are the _only_ multi-sig transactions that will become
-standard? What about (A-and-B)-or-C tx types? And the only options for (M,N)
-are {(1,2), (2,2), (1,3), (2,3), (3,3)}? Are 1-of-1 transactions (as silly as
-they would be) considered "standard"?  
-
   
 (A-and-B)-or-C will wait for another BIP; there are some nifty (and
 generalizable) ways of doing that by using OP_EVAL recursively that have the

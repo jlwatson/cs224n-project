@@ -1,5 +1,3 @@
-
-
 Yes, please do a proof-of-concept on testnet.  
   
 I suspect this code in CTransaction::GetMinFee() makes the attacks either

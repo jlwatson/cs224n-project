@@ -1,5 +1,3 @@
-
-
 How long is the split? There's really no problem if the split is less than the
 block generation maturation time (20+ hours)-- a bunch of miners will be
 disappointed on one side of the split or the other, but that's about the

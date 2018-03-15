@@ -1,5 +1,3 @@
-
-
 Yes, please don't create lots of unspendable scriptPubKeys. There are more
 prunable ways of embedding messages into transactions. And there are even
 better ways of associating messages with transactions, so only people involved

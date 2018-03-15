@@ -1,12 +1,3 @@
-
-
-Quote from: coblee on November 04, 2011, 12:31:41 AM
-
-I will look into adding this to Litecoin. Gavin, what are the gotchas? Is
-there a possibility of a chain fork from this change? And what I should I pay
-attention to when testing this on the testnet. And let me know if you want to
-help test it.  
-
 See BIP 12, the Backwards Compatibility section, for gotchas-- block chain
 forks are possible if you're not careful. They won't happen by accident, but
 if you assume there is an attacker that just wants to cause inconvenience by

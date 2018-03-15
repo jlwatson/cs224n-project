@@ -1,10 +1,3 @@
-
-
-Quote from: graingert on November 11, 2011, 11:22:08 PM
-
-This issue can be "worked around" by generating a new address and sending all
-bitcoin there.  
-
 That's not quite right-- you need to exhaust all of the keys in your 'key
 pool' to be safe, so you'd have to ask for 101 new keys.  
   

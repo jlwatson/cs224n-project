@@ -1,5 +1,3 @@
-
-
 0.3.20 will support listtransactions '*' for all transactions.  
   
 Transactions since <txid> .... sounds dangerous. Are you trying to mirror the

@@ -1,5 +1,3 @@
-
-
 Alternative algorithms for determining the "best" block chain would be a good
 research topic, I think.  
   

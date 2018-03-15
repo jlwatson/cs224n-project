@@ -1,22 +1,9 @@
-
-
-Quote from: genjix on March 11, 2011, 08:53:38 PM
-
-PHP solution: write/maintain my own JSON parser.  
-
   
 Why can't you just multiply the numbers by 1.0e8 and then round to the nearest
 integer? That integer WILL ALWAYS BE EXACTLY RIGHT (assuming you're not
 running PHP on some really weird hardware).  
   
 According to the PHP manual:  
-
-Quote
-
-The size of a float is platform-dependent, although a maximum of ~1.8e308 with
-a precision of roughly 14 decimal digits is a common value (the 64 bit IEEE
-format).  
-
   
 I added a Python JSON-RPC library example on the Proper Money Handling wiki
 page.  

@@ -1,11 +1,3 @@
-
-
-Quote from: Luke-Jr on March 07, 2011, 03:45:59 PM
-
-No. As long as SHA-256 is used for any blocks in the chain, the entire chain
-is compromised by a client forging a new block that can sit in-place of the
-real one in history.  
-
   
 So lets say I can create SHA-256 collisions fairly easily, and I want to
 replace an old transaction somewhere in the block chain.  

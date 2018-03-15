@@ -1,14 +1,3 @@
-
-
-Quote from: Necrathex on December 22, 2010, 12:46:47 PM
-
-Hi there!  
-  
-I noticed that the NL locale for Bitcoin has some errors (quite some actually)  
-So i made my corrections, attached is the nl locale .po file.  
-  
- _edit: correctly used poedit this time_  
-
   
 Thanks!  
   

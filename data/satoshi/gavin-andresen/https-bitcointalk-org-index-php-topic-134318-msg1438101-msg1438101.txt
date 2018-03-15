@@ -1,5 +1,3 @@
-
-
 I completely agree that more documentation is better, as long as you don't
 fall into the trap of "if the documentation says it it MUST be true."  
   

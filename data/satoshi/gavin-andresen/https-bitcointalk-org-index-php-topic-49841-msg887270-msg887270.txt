@@ -1,19 +1,5 @@
-
-
 I said:  
   
-
-Quote from: Gavin Andresen on October 25, 2011, 08:13:25 PM
-
-To get the conversation started, here are some functions I think a Bitcoin
-Foundation could perform:  
-
-  * Interact with the legal system, where a centralized entity is needed: for example, to hold the Bitcoin trademark, own/control the bitcoin.org domain name, etc.  
-
-  * Act as a central library for accurate information about Bitcoin, so journalists and policymakers have an 'official' place to learn about Bitcoin.  
-
-  * Collect donations to fund infrastructure necessary for Bitcoin's growth (organize regular developers' conferences or get-togethers maybe? pay for development of cross-implementation testing tools? pay core developers' salaries? create a certification/testing program for Bitcoin implementations? create a central clearinghouse for information about legal issues surrounding Bitcoin across the world?)  
-
 I like decentralized approaches, because failures are less catastrophic and
 because I think smaller, focused organizations are more effective than big,
 try-to-be-everything-to-everybody organizations.  

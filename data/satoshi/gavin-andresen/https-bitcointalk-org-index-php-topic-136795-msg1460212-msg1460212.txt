@@ -1,27 +1,3 @@
-
-
-Quote from: ShadowOfHarbringer on January 17, 2013, 08:34:30 AM
-
-We can calculate the minimum unit from following algorithm:  
-  
-
-Code:
-
-# [Total value] = all Dollars in circulation + Euros in circulation + Yens in
-circulation + CNY in circulation + all the other currencies  
-# Convert [Total value] to amount of smallest units/fractions of the earth's
-cheapest currency (*excluding* internet currencies and currencies of countries
-with hyperinflation)  
-# Add one or 2 zeros.  
-
-There you have it. The humanity will probably never require more units of
-Bitcoin than that, even if Bitcoin becomes #1 World currency and everybody on
-the world starts using Bitcoin instead of other currencies.  
-  
-Currently, total amount of the smallest units of Bitcoin is
-2,100,000,000,000,000 which is just over 2 thousands of trillions (USA scale).
-Is it enough according to the equation above ? I highly doubt so.  
-
   
 Let me google that for you.... ah, here's a nice chart:  
 http://dollardaze.org/blog/?post_id  

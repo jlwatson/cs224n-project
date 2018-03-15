@@ -1,5 +1,3 @@
-
-
 Linux and Windows and Mac binaries are available at sourceforge:  
 http://sourceforge.net/projects/bitcoin/files/Bitcoin/bitcoin-0.4.0/test/  
   

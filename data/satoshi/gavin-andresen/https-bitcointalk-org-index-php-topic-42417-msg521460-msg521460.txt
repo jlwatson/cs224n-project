@@ -1,5 +1,3 @@
-
-
 RE: hidden recipient address:  
   
 I dug deeper into the Script OPs when working on the multisig proposal, and

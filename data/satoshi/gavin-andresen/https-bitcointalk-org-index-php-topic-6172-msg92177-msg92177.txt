@@ -1,10 +1,3 @@
-
-
-Quote from: ByteCoin on April 20, 2011, 08:28:41 PM
-
-A better global metric of transaction volume would be the number of
-bitcoindays destroyed.  
-
   
 Very good idea. Anybody want to implement it? I've got a Python tool that
 walks the block chain gathering transaction statistics:  

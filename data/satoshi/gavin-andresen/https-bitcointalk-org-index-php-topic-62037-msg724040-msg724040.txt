@@ -1,5 +1,3 @@
-
-
 Thanks to midnightmagic who directed me to this very helpful video about
 identifying and then dealing with "poisonous people" in open source software
 projects:  

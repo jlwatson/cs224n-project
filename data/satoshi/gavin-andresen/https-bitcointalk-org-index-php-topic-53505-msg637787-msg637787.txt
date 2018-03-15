@@ -1,5 +1,3 @@
-
-
 How:  
   
 CNode::Misbehaving(int howmuch) is called when code detects that a peer is

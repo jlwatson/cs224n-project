@@ -1,5 +1,3 @@
-
-
 Update on the problem and release:  
   
 m0mchil reports no rendering issues running a 0.3.20 bitcoin compiled using

@@ -1,39 +1,5 @@
-
-
 So... I got this unsolicited email:  
   
-
-Quote
-
-\-----BEGIN PGP SIGNED MESSAGE-----  
-Hash: SHA1  
-  
-Hi Gavin,  
-  
-I'm one of the founders of the Ixcoin fork of Bitcoin. If you're  
-interested in trying out the new blockchain, we set aside a 5,000 IXC  
-bonus for each of you.  
-  
-Please email me your IXC addresses if you're interested.  
-  
-Best regards,  
-  
-Thomas.  
-\-----BEGIN PGP SIGNATURE-----  
-Version: GnuPG v2.0.17 (MingW32)  
-  
-iQGcBAEBAgAGBQJORIPxAAoJENjtb+Pw2dLBvqEL/31cNrOpH6nlirriyZXsjpQD  
-6TYgFUZxzNjv9y9ieWBAA+2xRZBzFufo1T2hFODWZ8PZO/oobu1yHq+mgAm4QKSV  
-Xz6JEhs6WSXQqMvTey12ks0gjJBquftjgQKmDh5UbdKQP+ffVVd0wo6FwRt4hvha  
-Ikdb4TK4dVjgc/IZLBVQ5O70sFmaQMbrqqVmS8nI55cxt8ywGBoLofdvQhKwr5kD  
-Z5dq4H/7O06IEciJQW3CSSnLXurOSn2WxnpV80aDHshpiT/jHXfiJAsRY1ofYo3C  
-5aDLFWRMgDRnThreuPJL32FQBclZzfHOJi8R6+swoRD7uYB43q84ZqKN8h9dOMrb  
-KcAW9Bw5NjtVEtp7iXNR/pcwMnC1BJIERtYWnscCJwDYv8TXwvb+/PwNVBw/aHCU  
-jIiqJ5iQguB4DB61R6C6+TzkCWmsBWHhgvn9CChIfv0D00tgWsVq7eOFVx2eaSM7  
-Tesm69MF1X7KNwp7Li8WukWnWUHFCA8ESKjPvMI1XQ==  
-=lct4  
-\-----END PGP SIGNATURE-----  
-
   
 ... and I'm trying to figure out why my immediate reaction is "yuck."  
   

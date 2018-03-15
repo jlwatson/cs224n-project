@@ -1,5 +1,3 @@
-
-
 Bear with me, this is a brain dump to try to organize my thoughts on securing
 the client <\--> bitcoin JSON-RPC connection:  
   

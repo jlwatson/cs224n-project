@@ -1,5 +1,3 @@
-
-
 RE: a be-safe thread for bitcoin: There are already a couple "be safe" threads
 stickied in the Bitcoin Discussion forum (e.g. the beware of trojan wallet
 stealers thread, the newbies article that links to keep-your-wallet-safe,

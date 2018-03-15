@@ -1,12 +1,3 @@
-
-
-Quote from: dscotese on January 25, 2013, 08:36:28 PM
-
-I've been trying to imagine a vout containing objects with addresses that the
-payer can't use, and I think the only way for that to happen is for the payer
-to create it, but even then, the ability to create it requires that he have
-the private keys for all the addresses, right?  
-
   
 No. It is perfectly possible for multiple people to provide inputs to a
 transaction, each signing their input but without knowledge of the other

@@ -1,12 +1,3 @@
-
-
-Quote from: jevon on April 12, 2012, 05:10:55 PM
-
-Suppose there's a transaction for 100,000BTC and several blocks later a double
-spend with 50,000BTC fee...  
-  
-Maybe there should be a maximum fee per transaction.  
-
 Or maybe you should wait 60 blocks before considering a half-a-million-dollar
 transaction final if you think there is any possibility of a mining cabal
 trying to do this.  

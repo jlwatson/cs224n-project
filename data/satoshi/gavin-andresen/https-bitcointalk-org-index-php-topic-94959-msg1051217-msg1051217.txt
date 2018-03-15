@@ -1,11 +1,3 @@
-
-
-Quote from: jancsika on July 24, 2012, 06:42:50 PM
-
-Unless I'm a rat after the big block of cheese, in which case I'm probably
-smart enough to pass up the small piece sitting on the rat-trap while making
-my way to the fridge.  
-
 Yes, but if Bob and Alice keep the 2-of-2 multisig address secret, then you,
 the rat, will have no idea that they key you managed to steal is one of the
 two keys needed to open the fridge.  
@@ -13,12 +5,6 @@ two keys needed to open the fridge.
 That's why I say that sending the change back into the same multisig address
 every time is somewhat bad for security...  
   
-
-Quote from: cjp on July 24, 2012, 06:00:54 PM
-
-What does this mean? Does it only mean that client version 0.7 will have
-M-of-N signing functionality through its API?
-
 Yes, that was announced before (see the thread about the raw transactions
 api).  
 

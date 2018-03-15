@@ -1,5 +1,3 @@
-
-
 The RPC and GUI won't let you spend 0-confirmation transactions unless they
 are 'change' outputs from yourself.  
   

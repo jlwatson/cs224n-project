@@ -1,9 +1,3 @@
-
-
-Quote from: BitterTea on April 20, 2011, 07:01:33 PM
-
-Clearcoin requires 6 confirmations...  
-
 Actually, Clearcoin only requires 3 confirmations.  
   
 And now that I've got some pressing core bitcoin stuff off my plate, I'll get

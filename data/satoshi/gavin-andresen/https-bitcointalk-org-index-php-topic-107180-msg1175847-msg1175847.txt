@@ -1,5 +1,3 @@
-
-
 We need a payment protocol with non-repudiation built in.  
   
 See https://gist.github.com/2217885 for a multisig version (the singlesig

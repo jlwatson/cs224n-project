@@ -1,14 +1,3 @@
-
-
-Quote from: casascius on March 18, 2012, 07:29:44 AM
-
-The more I think about it, the more I realize that this workflow is possible
-without P2SH: it's also possible with simple elliptic curve multiplication.
-Smartphone generates a stream of key A's from a seed, computer generates a
-stream of key B's, and given the public keys from the smartphone, the computer
-can generate the public key for C, which is used as the receiving address.
-Recovery remains the same: two seeds instead of one.  
-
   
 How are signatures created when the phone or computer needs to spend some
 coins?  

@@ -1,5 +1,3 @@
-
-
 This would be like a 6-blocks-back block chain lock-in. Maybe not a bad idea
 at this point (unlike the early days when legitimate users might throw lots of
 new hashing power at the network or there might have been network splits

@@ -1,5 +1,3 @@
-
-
 Reminder to anybody running a bitcoind server: be sure the debug.log isn't
 filling up your server's disk. With the slashdotting, now might be a good time
 to setup a debug.log housekeeping system.  

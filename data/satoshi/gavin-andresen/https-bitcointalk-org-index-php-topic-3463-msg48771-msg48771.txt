@@ -1,5 +1,3 @@
-
-
 Your second client hasn't downloaded all the blocks yet (according to the
 screen snapshot).  
   

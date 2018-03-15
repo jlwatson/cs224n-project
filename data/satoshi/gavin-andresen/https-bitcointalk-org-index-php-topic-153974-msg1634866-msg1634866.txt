@@ -1,11 +1,3 @@
-
-
-Quote from: markm on March 17, 2013, 04:01:15 AM
-
-It might mean lots of work for someone, but what devs are we speaking of here,
-documentation devs or code devs? I suspect if the doc devs just shut up and
-got to work on the docs the code devs wouldn't mind at all.  
-
   
 More documentation is great, so yeah, if you want a formal spec, go for it.  
   

@@ -1,18 +1,9 @@
-
-
 On further testing, it looks like OSX and Linux payment protocol requests with
 the released 0.9.0 binaries are not vulnerable.  
   
 The released Windows 0.9.0 binaries are vulnerable, so Wladimir just sent an
 alert message urging everybody running 0.9.0 to upgrade.  
   
-
-Quote from: piotr_n on April 11, 2014, 01:29:24 PM
-
-But apparently only few developers actually do that and bitcoin core devels
-don't seem to be on that list... at last as far as I had checked this code.  
-So, shame on you too!  
-
 Check again; see the use of CKeyingMaterial/CPrivKey which uses a
 secure_allocator (which asks the operating system not to swap the memory to
 disk, and which zeros memory on free). If I recall correctly, the RPC

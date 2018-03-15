@@ -1,5 +1,3 @@
-
-
 How could I forget good old Berkeley DB? So old its approach (schemaless key-
 value store) is back in fashion...  
   

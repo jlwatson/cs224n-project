@@ -1,11 +1,3 @@
-
-
-Quote from: gmaxwell on October 28, 2014, 08:49:48 PM
-
-...or other facilities which are more obvious when you understand the
-difference between with script does in a consensus system... that it's not
-really performing computation, but verification of computation.  
-
   
 This is a very important concept to internalize. I don't think Satoshi
 realized it, and I think if he did Bitcoin Script would be very different from

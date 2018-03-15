@@ -1,5 +1,3 @@
-
-
 Today: a brand-new keypair (address) is created and added to your wallet when
 you have change.  
   

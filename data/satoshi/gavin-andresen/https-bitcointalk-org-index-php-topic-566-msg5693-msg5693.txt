@@ -1,5 +1,3 @@
-
-
 Answering my own questions: Project using CMake  
   
 I looked at 'weechat'; they're migrating from gnu autotools to cmake (still

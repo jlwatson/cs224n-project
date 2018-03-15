@@ -1,5 +1,3 @@
-
-
 Why did you pick 0.0005 BTC ? That is a mostly arbitrary number.  
   
 I estimate a current-worst-case "orphan cost" of an average 250-byte

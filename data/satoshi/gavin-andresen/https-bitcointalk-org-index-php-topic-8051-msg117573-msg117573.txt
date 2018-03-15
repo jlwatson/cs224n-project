@@ -1,10 +1,3 @@
-
-
-Quote from: xor on May 12, 2011, 02:39:06 PM
-
-Short summary: An attacker could run tens of thousands of Bitcoin clients to
-isolate certain nodes from the network and then double-spend his coins.  
-
   
 That's actually a very hard attack to successfully pull off; I file it under
 "theoretically worrisome, but practically not a high priority."  
@@ -24,17 +17,6 @@ pull off a probably-low-value double-spend???). Anybody you target is going to
 wonder why their transactions are taking so long to confirm and why their
 block count is falling behind everybody else's.  
   
-
-Quote
-
-So IMHO the UI of bitcoin should  
-(1) Provide the ability to establish permanent connections  
-(2) Provide robust references to connect to your friend: It shouldn't be
-"IP:port" because many uses have dynamic IPs. It should rather be some public
-key hash which is used to query the IP of the node from the network...  
-(3) Encourage users to use friend connections so by displaying a warning if
-they have not enough permanent connections which explains the sybil attack  
-
   
 Putting a few addnode=... to connect to trusted nodes (with static IP
 addresses) at startup in your bitcoin.conf is a good idea.  

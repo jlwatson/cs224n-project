@@ -1,5 +1,3 @@
-
-
 Here's the public AMI for the dodgy 0.3.20 VC10 build:  
 ami-d621d2bf 982440761210/BitcoinVC10  
   

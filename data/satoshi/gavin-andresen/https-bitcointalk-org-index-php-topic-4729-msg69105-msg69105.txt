@@ -1,10 +1,3 @@
-
-
-Quote from: casascius on March 21, 2011, 02:23:18 PM
-
-The terminal itself would do the signing and possess the keys and only cough
-up the signed transction so no way to spoof.  
-
   
 But how do you know that the transaction the hardware device signed is
 actually the transaction you wanted to make? You might THINK you're sending

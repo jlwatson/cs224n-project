@@ -1,5 +1,3 @@
-
-
 So before deciding to do ClearCoin, I was thinking I was going to clone one or
 more of the PayPal shopping cart / payment APIs.  
   

@@ -1,5 +1,3 @@
-
-
 The relevant settings and their default values for recent versions of bitcoind
 are:  
   

@@ -1,5 +1,3 @@
-
-
 I'd love to see a pure-Javascript front-end GUI for bitcoind developed.  
   
 I'm tempted to write one myself, but I've got a lot of other things on my TODO

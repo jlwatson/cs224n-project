@@ -1,9 +1,2 @@
-
-
-Quote from: Syke on January 19, 2012, 06:37:44 AM
-
-I run two kinds of nodes, a bitcoind node and a phoenix-miner node. Which one,
-or both, of these nodes needs to be updated to support P2SH?  
-
 Just the bitcoind node.
 

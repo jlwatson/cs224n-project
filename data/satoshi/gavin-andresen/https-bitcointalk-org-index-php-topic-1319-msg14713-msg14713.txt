@@ -1,9 +1,3 @@
-
-
-Quote from: jgarzik on September 30, 2010, 03:57:31 PM
-
-My preferred arrangement would be a 'monitorall' command...  
-
 Good Idea, and that aught to be easy.  
   
 I'm thinking it should be:  

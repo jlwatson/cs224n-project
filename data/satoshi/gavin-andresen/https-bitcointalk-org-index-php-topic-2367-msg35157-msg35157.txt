@@ -1,23 +1,5 @@
-
-
-Quote from: tfoote on January 02, 2011, 07:59:22 PM
-
-I'm interested in the project and have developed a patch and until I found
-this email I had no clue how to submit it. Can I suggest that a development
-overview page be created wiki https://en.bitcoin.it/wiki/Main_Page to house
-this sort of instructions. Maybe something like
-https://en.bitcoin.it/wiki/Development with links from the wiki Main_Page and
-the main website.  
-
 Done. Please feel free to make it better.  
   
-
-Quote
-
-Another thing to point out is where tickets should be opened. I tried for
-quite a while to find ticket tracking on the sourceforge site. There should
-probably also be a link from the sourceforge site to github.  
-
   
 Good idea.  
 

@@ -1,11 +1,3 @@
-
-
-Quote
-
-So, if I have accounts and I still use the old sendtoaddress, will it fail if
-the empty account does not have enough funds? Or will it use these first, but
-then still go for the rest of the wallet addresses?  
-
   
 The "" (empty-string-named) account is allowed to have a negative balance. You
 can sendtoaddress as long as the entire wallet has enough coins.  
@@ -28,11 +20,6 @@ B is allowed to send 150, but it won't necessarily be the 100 originally sent
 to A and the 50 sent to B; if other accounts have received coins
 (transactions), those might be sent instead.  
   
-
-Quote
-
-it should be specified which characters can be used to form an account name
-
   
 bitcoin doesn't care (use any valid JSON string for the name), and the rest of
 the network doesn't care, so use account names that make sense for your

@@ -1,5 +1,3 @@
-
-
 Outputting the transaction time would be easy.  
   
 "The address that received funds" is not as obvious as you might think. It is

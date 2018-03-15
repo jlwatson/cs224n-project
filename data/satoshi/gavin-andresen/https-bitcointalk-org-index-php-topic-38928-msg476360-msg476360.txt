@@ -1,5 +1,3 @@
-
-
 Sunday at the bitcoin conference I led a little brainstorming session on
 extending the set of 'standard' transaction types, and I've been picking
 people's brains via email and IRC chat (and pull request comments) to work

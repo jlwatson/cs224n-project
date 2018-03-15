@@ -1,5 +1,3 @@
-
-
 See doc/build-osx.txt in the source tree for how to build bitcoind on osx.  
   
 See doc/readme-qt.rst for how to build Bitcoin-Qt.  

@@ -1,11 +1,3 @@
-
-
-Quote from: jon_smark on February 01, 2011, 10:32:49 PM
-
-Yes, there are "behind the scenes" actions that must take place regardless of
-user intervention. Suppose the user has bought something; I want to be able to
-ship the item as soon as the bitcoin transaction is confirmed.  
-
   
 Transactions are confirmed when new blocks are accepted; that's the idea
 behind my 95%-finished 'monitorreceived' code. It will POST to a URL when new

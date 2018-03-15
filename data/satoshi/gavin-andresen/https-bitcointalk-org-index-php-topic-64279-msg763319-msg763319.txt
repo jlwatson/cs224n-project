@@ -1,59 +1,10 @@
-
-
-Quote from: pent on February 22, 2012, 07:02:06 PM
-
-I think i got it Gavin.  
-  
-Registar = bitcoin mining pool for simple case.  
-
 Yes  
-
-Quote
-
-Client sends X BTC to mining pool in a special marked transaction. He signs
-domain name with domain private key and put it to Script with following
-OP_DROP for exmple.  
-
 Yes, you could do it that way, re-using Bitcoin's Script system for
 signatures. I suppose it might be useful to require m-of-n signatures for a
 domain to be transferred to somebody else. I wouldn't make them full-fledged
 Transactions, though (multiple "inputs" to a domain renewal or transfer
 doesn't really make sense, for example).  
   
-
-Quote
-
-Then he goes to bitcoin pool, give it:  
-\- initial transaction_id  
-\- domain name  
-\- domain public key  
-and asks to register a domain.  
-  
-Pool gather such domains in a DIANNA block (performing validation and d/spend
-checks) and tries to find its hash with merged mining of parent bitcoin block.
-But with bitcoin block difficulty and **difficulty correction in my formula**.  
-  
-After success, pool pushes DIANNA block in diana network.  
-  
-Dianna network has all required data to check this block:  
-\- It has referenced bitcoin transactions  
-\- It has domain names and pubkeys to make sure those a signed by domain owner  
-\- It has a hash of parent Bitcoin block, so it can see its difficulty and
-number of bounties  
-\- So it can calculate a valid difficulty target to match dianna's block hash  
-  
-So the grounds of putting domain in DIANNA's chain is the initial bitcoin
-payment. DIANNA will refuse domain transs without corresponding payemnts.  
-  
-Abuse activity of mining pools here is not profitable. If pool will send
-initial transaction from his address to another his address, this anyway will
-increase the dianna's block difficulty.  
-  
-In this scheme DIANNA isn't vulnerable to 51% attack, as its basic difficulty
-and hashing power will be taken from bitcoin.  
-  
-Am I right?  
-
   
 Yes, I think that's right, although I was imagining that the DIANNA and
 bitcoin difficulties would be kept separate and not combined. Combining them

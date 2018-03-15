@@ -1,13 +1,3 @@
-
-
-Quote from: BitcoinLocator on August 09, 2011, 11:53:55 PM
-
-What is the status/eta of this pull request? Unless integration is eminent
-we'd be willing to offer a bounty to help accelerate it's release. We really
-need this feature, our current workaround involving multiple bitcoind
-instances, and relaunch rescan per user session is catastrophically
-cumbersome.  
-
   
 It will get pulled/released faster if you help test it. Pull the patch,
 compile a custom bitcoind, then run it and report any bugs. If you don't find

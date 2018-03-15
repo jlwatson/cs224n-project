@@ -1,11 +1,3 @@
-
-
-Quote from: Hal on January 24, 2011, 11:44:45 PM
-
-I have a very old wallet, created by the first version of bitcoin. Recently I
-upgraded to a modern version. However, the wallet has no pool entries. I
-thought the upgrade would create 100 keypool entries?  
-
   
 It will create 100 keypool entries the first time you request a new address or
 if you turn on coin generation (the mining threads each ask the keypool for an

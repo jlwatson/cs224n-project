@@ -1,5 +1,3 @@
-
-
 The yoursway create-dmg script had the same problem.  
   
 I changed the approach to using a "template" .dmg file, as described here:  

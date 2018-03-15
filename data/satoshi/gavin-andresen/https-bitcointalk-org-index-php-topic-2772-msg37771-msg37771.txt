@@ -1,5 +1,3 @@
-
-
 The list of possible new features and bugs at
 https://github.com/bitcoin/bitcoin/issues is getting longer every day; I'd
 like to see the bugs resolved before the bug list gets so long we all just

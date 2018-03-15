@@ -1,7 +1,5 @@
-
-
 I'll and add another reason not to have a "list transactions that happened
-after <txid>" :  
+after " :  
   
 move "transactions" don't have a transaction id, but they do affect account
 balances (and are listed in listtransactions).  

@@ -1,5 +1,3 @@
-
-
 Wait a while and they will be free again.  
   
 If you are sending 1 BTC (that you just received) in a 250 byte transaction,

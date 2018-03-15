@@ -1,5 +1,3 @@
-
-
 BioMike: any progress tracking this down?  
   
 I just committed a fix to the git integration tree CallCPUID code to declare

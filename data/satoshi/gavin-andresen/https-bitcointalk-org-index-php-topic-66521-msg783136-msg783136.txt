@@ -1,5 +1,3 @@
-
-
 RE: tx replacement:  
   
 Somebody aught to start experimenting with transaction replacement with

@@ -1,5 +1,3 @@
-
-
 We have been quietly notifying the largest exchanges, merchant service
 providers and mining pools about this issue, and waited until they upgraded or
 patched their code to go public with this:  

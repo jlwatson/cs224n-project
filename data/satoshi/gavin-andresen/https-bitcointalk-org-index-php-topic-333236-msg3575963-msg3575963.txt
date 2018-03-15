@@ -1,10 +1,3 @@
-
-
-Quote from: btceic on November 13, 2013, 11:08:32 PM
-
-... if it would be possible to also have nLockSpace, which would lock a
-transaction to a specified set of x,y geo coordinates.  
-
   
 No.  
 

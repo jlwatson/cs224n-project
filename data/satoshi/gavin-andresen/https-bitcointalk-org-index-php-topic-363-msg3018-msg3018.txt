@@ -1,5 +1,3 @@
-
-
 I went ahead and created a modified Bitcoin client with a brand-new block
 chain and a few other changes (detailed below) that will make it independent
 of the "production" Bitcoin network.  

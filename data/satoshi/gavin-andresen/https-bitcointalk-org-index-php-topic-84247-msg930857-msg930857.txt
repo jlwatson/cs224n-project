@@ -1,11 +1,3 @@
-
-
-Quote from: minorman on May 29, 2012, 07:58:54 PM
-
-...  
-within a year or so, only people with a dedicated ASIC (costing $1000+) can
-mine (even fewer people).  
-
   
 And in two years maybe anybody who can afford to buy an asic-mining-space-
 heater for their house can mine. And in ten years maybe new houses will come
@@ -17,20 +9,6 @@ uncertainty and the very real possibility that the experiment will fail, then
 don't get involved (but don't come back whining that you missed out if the
 experiment turns out to be a huge success).  
   
-
-Quote
-
-The thing is that while that the raw hashing power needed to attack the
-network is growing, the number of miners you need to target by DDOS or
-otherwise (if you are a malign government wanting to take down Bitcoin) is
-getting lower by the day!  
-IMO the 3000 nodes that we currently have seems like an easier target for a
-well funded attacker than than the prospect of deploying 55,000+ spartan 6
-chips to brute-force a 51% attack.  
-  
-What do you think? Is the chronic decline in hosts a genuine problem for the
-backbone p2p network?  
-
 No, I don't think it is a problem, any more than the relatively small number
 of "backbone" routers are a problem for the Internet. The bitcoin network is
 evolving in roughly the direction I expected it would (lots of lightweight

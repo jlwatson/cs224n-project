@@ -1,5 +1,3 @@
-
-
 This has been lingering for months, and got bogged down in discussions of some
 nifty new mega-efficient binary protocol for stuff. That hasn't happened. So:
 https://github.com/bitcoin/bitcoin/pull/198  

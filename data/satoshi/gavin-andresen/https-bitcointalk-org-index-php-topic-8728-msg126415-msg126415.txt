@@ -1,5 +1,3 @@
-
-
 Random thought RE: passwords and RPC:  
   
 I was thinking a better way of handling the password might be a new RPC

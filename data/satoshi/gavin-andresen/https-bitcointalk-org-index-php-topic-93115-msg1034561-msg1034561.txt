@@ -1,5 +1,3 @@
-
-
 Starting with OWASP is good advice.  
   
 But if you are holding other people's bitcoins, just securing the app is not
@@ -9,11 +7,5 @@ you are complying with legal requirements, keeping adequate records, keeping
 customers' funds separate from the funds used to pay expenses, that regular
 audits are done to detect problems early, and so on.  
   
-
-Quote from: EnergyVampire on July 13, 2012, 08:24:51 PM
-
-The Bitcoin Protocol is innovative but financial institutions on the other
-hand have been around for a very long time.  
-
 +1
 

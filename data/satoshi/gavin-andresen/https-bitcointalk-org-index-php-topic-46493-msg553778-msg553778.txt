@@ -1,5 +1,3 @@
-
-
 The new QT GUI (in git HEAD) has a nifty block-chain-download-progress
 indicator.  
   

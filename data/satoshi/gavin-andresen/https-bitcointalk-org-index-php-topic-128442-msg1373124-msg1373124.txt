@@ -1,10 +1,3 @@
-
-
-Quote from: commonancestor on December 02, 2012, 03:25:17 PM
-
-Receipt has got a flaw. As a merchant I won't be sending receipts of funds
-without any confirmations. FYI  
-
   
 I would urge you to return a receipt with a memo that says:  
   

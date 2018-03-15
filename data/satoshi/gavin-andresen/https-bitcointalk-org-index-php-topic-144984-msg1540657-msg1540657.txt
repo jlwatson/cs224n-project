@@ -1,5 +1,3 @@
-
-
 A couple of minor clarifications:  
   
 There has always been an artificial block size limit; Satoshi's code

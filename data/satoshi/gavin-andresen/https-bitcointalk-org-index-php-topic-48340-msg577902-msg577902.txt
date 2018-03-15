@@ -1,11 +1,3 @@
-
-
-Quote from: ineededausername on October 15, 2011, 09:21:53 PM
-
-Update: Now I move coins to a special sendmany account before trying to
-sendmany but it still doesn't work. It wants to CONFIRM A TRANSACTION I SEND
-TO MYSELF before adding the balance.  
-
 Pass a 0 as the third argument to sendmany and it will send unconfirmed coins:  
 
 Code:

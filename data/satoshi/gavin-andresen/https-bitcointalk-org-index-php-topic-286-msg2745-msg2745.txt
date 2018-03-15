@@ -1,5 +1,3 @@
-
-
 Making it easier for merchants to accept bitcoins, and users to pay using
 them, aught to be priority number 1.  
   

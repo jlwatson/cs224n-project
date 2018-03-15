@@ -1,13 +1,3 @@
-
-
-Quote from: btchris on December 14, 2010, 01:19:51 PM
-
-The only rule oddity in the simulator is: when the Network (all those who are
-not the cartel) solves a hash, it is not credited a mined block if the
-preceding block was mined by the cartel. (In this case, the cartel would use
-its superior network connectivity to "override" the network's newly mined
-block with the cartel's previously mined block).  
-
   
 Did you simulate network connectivity at all? Bitcoin is a semi-randomly
 connected network, where most of the connections are (I would guess) outbound

@@ -1,5 +1,3 @@
-
-
 As DeathAndTaxes says, there is a weak vulnerability there for clients that
 are performing initial block download.  
   

@@ -1,9 +1,3 @@
-
-
-Quote from: bitlotto on September 04, 2011, 11:21:11 PM
-
-I've always like how git does it: http://git-scm.com/about  
-
 Good idea.  
   
 The developers listed on bitcoin.org are the people who have 'push' rights to

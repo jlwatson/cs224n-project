@@ -1,5 +1,3 @@
-
-
 It always bothered me that the MySQL's SELECT... LIMIT statement could skip
 records if the database was changing between calls, but that doesn't seem to
 bother anybody else.  

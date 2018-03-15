@@ -1,10 +1,3 @@
-
-
-Quote
-
-Why not just accept the fee when the bitcoins are placed in escrow? You can
-always refund them later if the transaction fails.
-
   
 Because that requires that you do some math to figure out how many to send to
 pay the escrow plus release the right amount.  

@@ -1,4 +1,2 @@
-
-
 That's a BIP 16 transaction: see https://en.bitcoin.it/wiki/BIP_0016  
 

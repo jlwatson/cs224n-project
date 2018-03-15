@@ -1,12 +1,3 @@
-
-
-Quote from: Red on August 06, 2010, 11:08:28 PM
-
-So for any new transaction, to verify it, you send it to the five closest
-nodes to each in-point on the transaction. They record the transaction and
-immediately tell you if they've seen a double spend. If any have, it's a bogus
-transaction, which gets broadcast to the other close nodes.  
-
   
 What happens when they disagree about which transaction happened first?
 Majority rule? Who decides what the majority is, and can it change if 4 of the

@@ -1,5 +1,3 @@
-
-
 If you're running Bitcoin-Qt on a Mac, what version of OSX are you running?  
   
 I'm trying to get an idea of how many people are still running 10.5, because

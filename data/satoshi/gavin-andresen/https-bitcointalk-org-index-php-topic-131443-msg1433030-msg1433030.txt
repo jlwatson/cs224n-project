@@ -1,22 +1,9 @@
-
-
 theymos is correct; if all the inputs have a UINT_MAX sequence number then
 lockTime is ignored.  
   
-
-Quote
-
-Are locked transactions supposed to be supported or not?
-
   
 Yes, they're supported by the network.  
   
-
-Quote
-
-\- Can you easily introduce a locked transaction using the standard client? If
-not, how?  
-
   
 No, there is no easy way to create such a transaction using the reference
 code.  

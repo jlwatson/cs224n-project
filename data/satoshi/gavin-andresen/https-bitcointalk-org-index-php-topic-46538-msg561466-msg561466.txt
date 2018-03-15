@@ -1,5 +1,3 @@
-
-
 RE: 0-confirmation OP_EVAL transactions:  
   
 I think I'm doubly-wrong.  

@@ -1,5 +1,3 @@
-
-
 RE: agreed upon spot to place or distribute messages:  
   
 I think it is time to start experimenting with a <bytes> OP_DROP OP_DUP

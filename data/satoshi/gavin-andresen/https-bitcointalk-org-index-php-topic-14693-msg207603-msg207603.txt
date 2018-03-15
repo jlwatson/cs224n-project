@@ -1,5 +1,3 @@
-
-
 I exchanged email with Jacob, and he's predicting bugs because some very good
 "white-hat" people are looking hard at the code, trying to find bugs or
 vulnerabilities.  

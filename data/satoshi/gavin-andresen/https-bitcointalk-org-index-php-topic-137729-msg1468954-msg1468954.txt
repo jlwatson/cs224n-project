@@ -1,12 +1,3 @@
-
-
-Quote from: DannyHamilton on January 21, 2013, 09:08:39 PM
-
-Except that transactions that are smaller than 10 kilobytes do not currently
-require a fee. So the user can probably create a transaction that contains
-nearly 100 inputs each at 0.00005 BTC. That would be nearly 0.005 BTC worth of
-0.00005 BTC inputs that would be spendable in any one transaction.  
-
   
 But a transaction with a 0.005 BTC output triggers this rule:  
 

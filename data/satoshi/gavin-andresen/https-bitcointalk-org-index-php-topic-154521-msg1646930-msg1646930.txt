@@ -1,5 +1,3 @@
-
-
 There are three stages to the rollout:  
   
 1\. Before 75% are producing block.version=2 blocks: no special checking  

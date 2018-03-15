@@ -1,5 +1,3 @@
-
-
 This is: https://github.com/bitcoin/bitcoin/issues#issue/86  
   
 currently (2011/03/01) a backlog of transactions that dont seem make it into

@@ -1,13 +1,3 @@
-
-
-Quote from: FreeMoney on January 28, 2011, 12:10:29 AM
-
-Do you really have to modify Bitcoin? Isn't it enough to send all coins to a
-separate wallet, delete original wallet, make empty wallet, send all coins
-back to blank wallet.  
-  
-Obviously you'll want to automate. Do it every 6 hours or something.  
-
   
 That would make an odd transaction pattern-- e.g. if you started with 11
 bitcoins in your wallet, you'd generate a chain of transactions that was:  

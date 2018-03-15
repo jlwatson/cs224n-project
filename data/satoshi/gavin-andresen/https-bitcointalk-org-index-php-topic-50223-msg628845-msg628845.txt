@@ -1,11 +1,3 @@
-
-
-Quote from: pc on November 23, 2011, 08:35:25 PM
-
-And just to be clear, this rule will fork the test blockchain between those
-running on the current or prior versions of the client, and those running on
-whatever version this change comes out in, right?  
-
   
 Yes.  
   

@@ -1,5 +1,3 @@
-
-
 Does it work if you specify the full path? e.g.
 -datadir=/home/psyvenrix/datadir2 ?  
 

@@ -1,5 +1,3 @@
-
-
 I'm curious to hear what other people think. I shut down ClearCoin when the
 value of its wallet threatened to get so large I was no longer comfortable
 self-insuring it with my own personal bitcoins. It is still shut down because

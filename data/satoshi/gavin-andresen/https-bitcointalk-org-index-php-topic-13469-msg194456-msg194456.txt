@@ -1,5 +1,3 @@
-
-
 I'll confess: the bitcoin GUI is not a high development priority for me
 because I think downloading and running software on your computer will soon be
 almost extinct.  

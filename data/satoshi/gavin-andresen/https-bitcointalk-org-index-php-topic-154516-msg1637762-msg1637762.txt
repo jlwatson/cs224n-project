@@ -1,10 +1,3 @@
-
-
-Quote from: cypherdoc on March 18, 2013, 03:53:06 PM
-
-for those of us already on 0.8 who mine but don't tweak around with tx
-construction, do we need to upgrade?  
-
 No; the only 0.8 users who should upgrade are miners who are creating blocks
 themselves (mining pool operators, solo miners, or people using p2pool).  
   

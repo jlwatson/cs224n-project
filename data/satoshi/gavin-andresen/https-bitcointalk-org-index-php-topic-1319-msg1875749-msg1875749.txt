@@ -1,5 +1,3 @@
-
-
 See -blocknotify and -walletnotify command-line options in the latest code,
 which will run an arbitrary command when new blocks happen or transactions hit
 your wallet (and that arbitrary command can be "POST information to this

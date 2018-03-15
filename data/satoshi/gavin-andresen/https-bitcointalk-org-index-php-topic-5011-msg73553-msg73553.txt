@@ -1,5 +1,3 @@
-
-
 So... I'm working on a patch to add < COINBASE_MATURITY-confirmation
 generation transactions to standard listtransactions, and trying to figure out
 the right way to handle immature generation transactions.  

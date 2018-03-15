@@ -1,5 +1,3 @@
-
-
 Try running with the -nolisten -noirc flags, see if that works around the
 problem (and please let me know if it does/doesn't).  
   

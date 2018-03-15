@@ -1,10 +1,3 @@
-
-
-Quote from: virtualcoin on June 24, 2010, 10:07:30 PM
-
-Gavin, why don't you just block all served Bitcoin addresses?  
-Would it be easy to generate them automatically?  
-
 It is easy to generate them automatically (it is easy to write code that asks
 the Bitcoin program to generate and return a new address).  
 

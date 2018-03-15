@@ -1,10 +1,3 @@
-
-
-Quote from: Syke on December 17, 2012, 04:10:49 PM
-
-Double-spends have always been possible. That's why we count "confirmations".
-The number of confirmations reduces the risk of double-spends.  
-
 Yes -- 0/1-confirmation double spends are certainly possible. A successful
 2-confirmation double-spend would be more interesting. I would love to see if
 real-network experience matches the theoretical results from Meni's paper.

@@ -1,5 +1,3 @@
-
-
 Speaking of the network...  
 ... is there any really robust, generic, low-latency, open source p2p network
 "middleware" out there?  

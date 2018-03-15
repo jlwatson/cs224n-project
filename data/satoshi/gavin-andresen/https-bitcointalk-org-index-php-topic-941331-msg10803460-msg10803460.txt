@@ -1,14 +1,5 @@
-
-
 Finally a reasonable question:  
   
-
-Quote from: NxtChg on March 17, 2015, 02:47:43 PM
-
-Gavin, could you please explain the reason behind trying to guess and hard-
-code the optimal limit, instead of doing something adaptive, like "limit =
-median(size of last N blocks) * 10"?  
-
   
 The problem people are worried about if the maximum block size is too high:
 That big miners with high-bandwidth, high-CPU machines will drive out either

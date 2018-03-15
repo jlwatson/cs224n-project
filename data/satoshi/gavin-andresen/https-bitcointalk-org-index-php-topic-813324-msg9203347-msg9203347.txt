@@ -1,18 +1,3 @@
-
-
-Quote from: jonny1000 on October 13, 2014, 08:56:30 PM
-
-I propose the following rule to determine the block size limit, once the block
-reward is low  
- **The block size limit would increase (or decrease), by X%, if total
-transaction fees in the last N blocks is Y Bitcoin or more (or less).**  
-  
-......  
-  
-I am aware miners could also manipulate fees by including transactions with
-large fees and not broadcasting these to the network. However why would miners
-in this scenario want to manipulate the limit upwards?  
-
   
 The fear is that a cartel of big, centralized, have-huge-data-pipes miners
 would drive out smaller miners by forcing up the block size high enough so the

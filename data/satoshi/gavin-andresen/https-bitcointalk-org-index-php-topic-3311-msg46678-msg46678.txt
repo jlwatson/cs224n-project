@@ -1,11 +1,3 @@
-
-
-Quote from: davout on February 10, 2011, 05:22:54 PM
-
-We should just put a setting for the user to decide what the minimum amount a
-transaction should have in order not to be considered as spam, and included in
-mined blocks.  
-
   
 Okey doke. And the default value should be.... ?
 

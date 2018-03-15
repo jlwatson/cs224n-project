@@ -1,5 +1,3 @@
-
-
 To get back to the original question, paying to a bitcoin addresses displayed
 on an https: webpage secured with a valid certificate is better.  
   

@@ -1,5 +1,3 @@
-
-
 Sure, I'd like to see a lot more banging on the testnet to try to break it.  
   
 (python code is not obfuscated, I assume).  

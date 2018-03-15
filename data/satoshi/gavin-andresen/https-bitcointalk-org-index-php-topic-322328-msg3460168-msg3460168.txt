@@ -1,5 +1,3 @@
-
-
 RE: bitcoin-security mailing list: bottom line is I don't trust you. I think
 you have made irresponsible decisions in the past, and I don't trust that you
 would handle sensitive security issues responsibly. Happily there have been

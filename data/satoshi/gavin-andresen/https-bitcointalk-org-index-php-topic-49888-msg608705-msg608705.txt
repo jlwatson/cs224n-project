@@ -1,9 +1,3 @@
-
-
-Quote from: modrobert on November 06, 2011, 03:59:06 PM
-
-Any Bitcoin developers care to fix this problem?  
-
   
 Let me think... a problem that affects a small number of people... means you
 end up with 8 connections instead of more than 8... and has an easy, obvious

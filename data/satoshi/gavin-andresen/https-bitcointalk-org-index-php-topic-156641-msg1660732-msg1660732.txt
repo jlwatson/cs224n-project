@@ -1,5 +1,3 @@
-
-
 After talking with a few groups of people, I decided a good use of Bitcoin
 Faucet funds would be compensating miners who had blocks that were orphaned in
 last week's Bit Chain Fork.  

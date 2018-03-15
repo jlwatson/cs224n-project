@@ -1,11 +1,3 @@
-
-
-Quote from: jojkaart on November 23, 2011, 04:16:06 PM
-
-How about, instead of sharp min difficulty, start scaling the difficulty down
-smoothly from, maybe 15 minutes and have it reach min difficulty at 20 minutes
-from last block.  
-
   
 Why? What problem would that solve?  
 

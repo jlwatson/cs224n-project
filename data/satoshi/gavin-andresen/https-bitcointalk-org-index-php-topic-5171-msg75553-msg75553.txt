@@ -1,5 +1,3 @@
-
-
 All this endless talking about the Perfect URI Scheme is very nice.  
   
 So is anybody, you know, actually working on IMPLEMENTING something?  

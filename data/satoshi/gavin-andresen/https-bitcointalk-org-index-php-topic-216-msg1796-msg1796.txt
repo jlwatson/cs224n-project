@@ -1,5 +1,3 @@
-
-
 Scheduling should be easy; on Linux, just run a couple of 'at' jobs that
 either talk to Bitcoin via bitcoind command-line arguments or use curl to turn
 on/off coin generation.  

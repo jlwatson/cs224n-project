@@ -1,14 +1,4 @@
-
-
 In this thread I said:  
-
-Quote
-
-Bitcoin's p2p network is subject to various kinds of denial of service
-attacks.  
-  
-There, I said it.  
-
   
 Bitcoin is still vulnerable to DOS attacks. I'm not sure anybody knows how to
 prevent DOS attacks on a p2p network that allows untrusted/unverified peers to

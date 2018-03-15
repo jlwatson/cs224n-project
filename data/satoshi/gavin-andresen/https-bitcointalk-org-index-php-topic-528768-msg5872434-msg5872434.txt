@@ -1,5 +1,3 @@
-
-
 Sounds familiar...  
   
 ... I think I ran into a similar problem that turned out to be ssh being upset

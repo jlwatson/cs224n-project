@@ -1,13 +1,5 @@
-
-
 Last July, BIP 34 was accepted. It specifies a "soft fork":  
   
-
-Quote
-
-If 950 of the last 1,000 blocks are version 2 or greater, reject all version 1
-blocks
-
   
 We are getting close to that threshold: 821 out of the latest 1000 blocks were
 version 2.  

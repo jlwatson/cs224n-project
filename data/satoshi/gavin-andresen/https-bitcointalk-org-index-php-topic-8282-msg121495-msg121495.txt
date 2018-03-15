@@ -1,5 +1,3 @@
-
-
 I like "mills" or "millies".  
   
 The new default transaction fee is 5 mills per kilobyte, by the way.  

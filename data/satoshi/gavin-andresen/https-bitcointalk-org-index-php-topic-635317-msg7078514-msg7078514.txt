@@ -1,16 +1,5 @@
-
-
 In another thread marcus of augustus says:  
   
-
-Quote from: marcus_of_augustus on May 31, 2014, 09:38:04 AM
-
-Another "Troll" here:  
-  
-On the minus side of the ledger, Gavin omitted to mention the X.509 privacy-
-destroying functionality for the unaware that has been implemented as the
-default behavior of the "payment protocol" in 0.9 clients.  
-
   
 I'll break my rule about feeding trolls again to debunk for about the
 hundredth time the myth that the use of X.509 certificates in the payment

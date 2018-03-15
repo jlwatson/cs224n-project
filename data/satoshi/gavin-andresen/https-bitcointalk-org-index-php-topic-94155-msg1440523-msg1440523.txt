@@ -1,5 +1,3 @@
-
-
 It wouldn't be hard to prototype a coin mixer using the raw transactions API
 and a centralized web service (accessible via Tor, if you're worried about it
 recording your IP address).  

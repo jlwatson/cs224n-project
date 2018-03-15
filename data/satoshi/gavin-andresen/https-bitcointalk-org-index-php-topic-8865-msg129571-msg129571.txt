@@ -1,5 +1,3 @@
-
-
 I'd suggest removing/replacing the "it is anonymous" claim.  
 Anonymity and bitcoin is...complicated. I'd suggest:  
   

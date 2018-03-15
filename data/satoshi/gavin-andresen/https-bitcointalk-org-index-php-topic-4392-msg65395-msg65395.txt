@@ -1,11 +1,3 @@
-
-
-Quote from: m0Ray on March 14, 2011, 08:25:41 PM
-
-So every bitcoin connection must use asymmetric cryptography and conform a so-
-called normal distribution. Or else everyone will be statistically detected
-and...  
-
   
 Preventing that type of statistical network analysis attack is what Tor and
 i2p are for. If you require that level of anonymity, run bitcoin via a proxy

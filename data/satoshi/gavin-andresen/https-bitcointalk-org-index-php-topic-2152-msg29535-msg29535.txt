@@ -1,22 +1,3 @@
-
-
-Quote from: grondilu on December 12, 2010, 09:43:18 PM
-
-Quote from: jgarzik on December 12, 2010, 09:39:08 PM
-
-That generates a new address for new CGI script invocation (== each page
-view).  
-  
-An attacker, or just a popular web page, could fill your wallet with never-
-used addresses.  
-
-Well, a new address would only be generated on each visit of the "donate"
-page, not the main page. I don't think it would be that much space consuming
-on disk.  
-  
-Also, is there any other way to prevent public to know how much have been
-donated ?  
-
   
 getaccountaddress is designed for exactly this kind of thing-- it will return
 the same address over and over, until it gets used (until somebody donates).

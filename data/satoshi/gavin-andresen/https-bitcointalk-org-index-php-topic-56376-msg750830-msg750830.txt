@@ -1,5 +1,3 @@
-
-
 Meeting summary posted to the bitcoin-development mailing list (link)  
   
 IRC logs here.

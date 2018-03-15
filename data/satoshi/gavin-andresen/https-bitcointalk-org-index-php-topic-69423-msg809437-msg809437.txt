@@ -1,5 +1,3 @@
-
-
 Not relaying "smelly" blocks is a very interesting idea.  
   
 It doesn't have to be a binary relay/don't relay... you could immediately

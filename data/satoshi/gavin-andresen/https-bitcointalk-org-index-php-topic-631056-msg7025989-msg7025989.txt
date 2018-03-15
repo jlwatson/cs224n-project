@@ -1,9 +1,3 @@
-
-
-Quote from: jonald_fyookball on May 29, 2014, 11:26:32 PM
-
-I thought the BCF is supposed to help pay for dev efforts  
-
   
 The Bitcoin Foundation **does** help pay for dev efforts; it pays me,
 Wladimir, and Cory Fields (and gives quarterly grants to fund other worthwhile

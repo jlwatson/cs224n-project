@@ -1,5 +1,3 @@
-
-
 Turning on the CAPTCHA for everybody has slowed the flow of coins from the
 faucet to a very manageable trickle.  
   

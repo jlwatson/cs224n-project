@@ -1,5 +1,3 @@
-
-
 The send methods don't try to be clever; they always broadcast transactions.  
   
 If you want that behavior, be clever yourself: call getaccount

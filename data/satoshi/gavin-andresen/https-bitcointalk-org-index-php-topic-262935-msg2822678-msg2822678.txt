@@ -1,26 +1,7 @@
-
-
-Quote from: Remember remember the 5th of November on July 27, 2013, 06:28:31
-PM
-
-Quote from: Trongersoll on July 27, 2013, 05:03:02 PM
-
-so, for a solo miner using bitcoin-qt, that decide what goes into a block? is
-it configurable?  
-
-It's not. You need to modify the client from the source.  
-
   
 That's incorrect. The following command-line or bitcoin.conf configuration
 parameters let miners set their transaction acceptance policy:  
   
-
-Quote
-
--blockminsize=<n> Set minimum block size in bytes (default: 0)  
--blockmaxsize=<n> Set maximum block size in bytes (default: 250000)  
--blockprioritysize=<n> Set maximum size of high-priority/low-fee transactions in bytes (default: 27000)  
-
   
 The -mintxfee / -minrelaytxfee options currently control how large a fee-per-
 kilobyte is needed for a transaction to be considered "fee paying" versus

@@ -1,19 +1,6 @@
-
-
 I just want to correct one little thing; excuse me for being nit-picky, I'll
 shut up after this:  
   
-
-Quote from: gavinandresen on August 16, 2010, 02:11:38 PM
-
-Also, this: "All the network nodes try to decrypt the message with each of
-their public keys" ... won't scale.  
-
-Quote from: ByteCoin on August 16, 2010, 04:20:48 PM
-
-... The equivalent scaling problem you mention applies with regards to the
-network checking normal transactions as the useage ramps up.  
-
 Assuming you have enough memory to store all your public keys in a hash table
 in memory, there is no scaling problem with normal transactions. Since the
 TxOut contains the public key (well, the hash of the public key), it is

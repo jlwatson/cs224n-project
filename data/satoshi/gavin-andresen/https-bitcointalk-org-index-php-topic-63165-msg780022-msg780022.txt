@@ -1,13 +1,3 @@
-
-
-Quote from: Diapolo on March 02, 2012, 09:20:25 AM
-
-Possible fix for GUI freezing on Windows after a crash:  
-  
-I started an in depth investigation and used Sysinternals Procmon.exe for
-this. I wanted to know which files or registry keys the client processes and
-one folder came to my attention.  
-
 Nice! Thank you very much for looking deeply into this; it looks like the
 inter-process-communication doo-hickey bitcoin uses to handle bitcoin: URLs
 was left behind when you blue-screened, and that's making startup fail the

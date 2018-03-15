@@ -1,5 +1,3 @@
-
-
 You request a transaction by hash (using an 'inv' message).  
   
 You then get the transaction in a 'tx' message. The hash isn't sent as part of

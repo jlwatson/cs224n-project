@@ -1,10 +1,3 @@
-
-
-Quote from: MatthewLM on June 04, 2012, 03:03:42 PM
-
-Hopefully this is the right way. Am I right thinking that the signatures are
-70 bytes and the public keys are 66 bytes?  
-
   
 Signatures are BER-encoded data structures, and can be an arbitrary number of
 bytes (if they're DER-encoded, which is the strict subset of BER encoding,

@@ -1,5 +1,3 @@
-
-
 I wouldn't say NO progress is being made, but there has been a long detour
 because we need a secure way of telling you WHO you are paying to make
 multisignature work securely. Otherwise we could have the most nifty, secure

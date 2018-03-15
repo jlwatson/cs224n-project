@@ -1,5 +1,3 @@
-
-
 I haven't seen discussion of BIP 17 anywhere besides IRC, so I thought I'd
 start one.  
   

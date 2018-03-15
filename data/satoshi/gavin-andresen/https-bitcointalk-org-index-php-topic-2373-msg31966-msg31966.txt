@@ -1,5 +1,3 @@
-
-
 I like this feature request; I think it will enable even more interesting uses
 of bitcoin. I created a feature request at github for it.  
   

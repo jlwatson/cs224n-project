@@ -1,5 +1,3 @@
-
-
 blkindex.dat contains all the transactions, in records that look like:  
 key: "tx" + HASH_OF_TRANSACTION  
 value: serialized CTxIndex  

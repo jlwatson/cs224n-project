@@ -1,10 +1,3 @@
-
-
-Quote from: ShireSilver on December 01, 2012, 12:24:42 AM
-
-Why does anyone need identities when invoicing? Or more accurately, why must
-every invoice have an identity attached?  
-
   
 You will be able to generate and send unsigned invoices that has no identity
 attached.  

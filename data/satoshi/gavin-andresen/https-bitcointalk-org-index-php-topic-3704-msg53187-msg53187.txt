@@ -1,5 +1,3 @@
-
-
 RE: a checklist:  
   
 For the next release, I will write a script that does all of the build/package

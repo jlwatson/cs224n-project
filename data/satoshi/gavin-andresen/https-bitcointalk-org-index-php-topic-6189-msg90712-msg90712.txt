@@ -1,5 +1,3 @@
-
-
 Linux and Windows binary releases are at:  
 https://sourceforge.net/projects/bitcoin/files/Bitcoin/bitcoin-0.3.21/  
   

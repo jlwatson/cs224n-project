@@ -1,5 +1,3 @@
-
-
 What are you optimizing for? Ease of implementation? Wallet size?  
   
 Here's a naive implementation that I bet would work well in practice:  

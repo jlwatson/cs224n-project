@@ -1,5 +1,3 @@
-
-
 I'm happy to announce ClearCoin, my bitcoin escrow service:  
 https://clearcoin.appspot.com/  
   

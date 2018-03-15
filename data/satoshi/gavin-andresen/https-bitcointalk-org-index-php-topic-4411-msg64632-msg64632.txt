@@ -1,11 +1,3 @@
-
-
-Quote from: sgornick on March 12, 2011, 07:49:14 PM
-
-Let's say there is a scenario where I am one of two different people who claim
-to be responsible for sending bitcoins for a purchase. How could I prove to
-the merchant that those bitcoins came from my wallet and nobody else's?  
-
   
 Something like this is possible (I've been thinking about doing it, although I
 have higher priority things on my TODO list):  

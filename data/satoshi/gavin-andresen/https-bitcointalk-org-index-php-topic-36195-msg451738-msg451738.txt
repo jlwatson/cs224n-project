@@ -1,5 +1,3 @@
-
-
 Two different encryption schemes and/or passwords seems like a bad idea to me,
 both from a code maintenance/security point of view and from a usability
 point-of-view.  

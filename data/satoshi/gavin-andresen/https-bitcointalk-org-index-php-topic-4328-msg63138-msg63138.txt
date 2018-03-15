@@ -1,5 +1,3 @@
-
-
 Making the fee transaction depend on the block's coinbase would run afoul of
 this code in CTransaction::ConnectInputs:  
 

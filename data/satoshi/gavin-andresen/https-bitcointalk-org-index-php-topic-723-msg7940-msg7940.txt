@@ -1,15 +1,3 @@
-
-
-Quote from: Red on August 06, 2010, 05:33:30 PM
-
-Bitcoin could be made into a truly distributed system by storing the
-transaction graph in a distributed hash table. This is the kind of magic that
-is behind most other P2P systems. In effect, each bitcoin address would be
-arbitrarily mapped to a smaller set of nodes that checked its transactions. In
-such a system, there is no need to broadcast global state to every machine.
-This takes huge amount of latency out without needing to change any of the
-desired behavior.  
-
 Interesting idea.  
   
 So, lets see, I create a transaction to pay you (say) 100 of my newly minted

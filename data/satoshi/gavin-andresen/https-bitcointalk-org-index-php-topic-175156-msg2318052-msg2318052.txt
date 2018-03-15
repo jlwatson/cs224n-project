@@ -1,5 +1,3 @@
-
-
 I've started and then stopped writing about Zerocoin three or four times now;
 my thoughts about it are still muddled.  
   

@@ -1,5 +1,3 @@
-
-
 That pattern is definitely the faucet. The big mining pools are already using
 the new 'sendmany' functionality to pay lots of people with one transaction.  
   

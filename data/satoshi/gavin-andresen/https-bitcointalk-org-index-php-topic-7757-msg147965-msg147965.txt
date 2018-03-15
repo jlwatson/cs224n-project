@@ -1,5 +1,3 @@
-
-
 Sounds like this is good for pool operators that have high 'getwork' loads--
 have any high-volume merchants sites or e-wallet sites tried it?  
   

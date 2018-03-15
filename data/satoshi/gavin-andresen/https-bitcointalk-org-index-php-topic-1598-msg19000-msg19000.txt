@@ -1,18 +1,3 @@
-
-
-Quote from: ShadowOfHarbringer on October 28, 2010, 01:08:47 PM
-
-Maybe somebody is simply messing with the network using a botnet or other
-large scale attack ?  
-I would like to hear Satoshi's opinion on what would exactly happen if (50% -
-1) nodes of the network started to revoke the same transactions
-simultaneously. I mean there would be 50% - 1 "cheaters" working together, and
-the rest would be honest nodes.  
-  
-Would the network still work properly in that case ? Or perhaps would some
-transactions be irreversably damaged ? Would the network figure out which hash
-calculations to trust and which not ?  
-
   
 Here's what could happen if somebody controls 50% of the nodes-that-are-
 accepting-connections:  

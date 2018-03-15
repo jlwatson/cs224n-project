@@ -1,5 +1,3 @@
-
-
 RE: moving to another hashing algorithm for bitcoin addresses:  
   
 Did you read what Satoshi wrote?  

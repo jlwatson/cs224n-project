@@ -1,5 +1,3 @@
-
-
 RE: be wary of OP_EVAL:  
   
 Agreed, we need to think hard about whether or not attackers could Do Evil

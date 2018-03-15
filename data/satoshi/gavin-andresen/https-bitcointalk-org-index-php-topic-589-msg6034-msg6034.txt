@@ -1,5 +1,3 @@
-
-
 I've been working on adding -port= / -rpcport= command line / config file
 options to bitcoin. The idea is to let you run multiple copies of bitcoind on
 one machine; I need this because I'm planning on having at least two Bitcoin-

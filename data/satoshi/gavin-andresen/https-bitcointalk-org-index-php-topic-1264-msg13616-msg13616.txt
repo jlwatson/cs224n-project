@@ -1,10 +1,3 @@
-
-
-Quote from: gavinandresen on September 21, 2010, 04:42:32 PM
-
-3\. I want to be able to put the payment address into MyBitcoin and see the
-status of my payment.  
-
   
 I shoulda been more clear: I've now got a 1.11 payment to {some random
 address} in Bitcoin; I want to take that {some random address} and give it to

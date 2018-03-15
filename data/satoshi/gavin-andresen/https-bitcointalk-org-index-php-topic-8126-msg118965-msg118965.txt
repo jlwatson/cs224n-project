@@ -1,4 +1,2 @@
-
-
 In the future, there will be many more than 4,000 transactions per block.  
 

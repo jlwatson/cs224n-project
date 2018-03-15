@@ -1,10 +1,3 @@
-
-
-Quote from: BitcoinScholar on February 08, 2013, 01:42:07 AM
-
- _The other component is an ECDSA signature over a hash of a simplified
-version of the transaction._  
-
   
 The magic of public key crypto is that you can give somebody your public key,
 some data, and a signature, and they can be certain that:  

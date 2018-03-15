@@ -1,5 +1,3 @@
-
-
 What Pieter said. BIPs are intended to make it easier for different
 implementations of Bitcoin to inter-operate with each other. The existing
 network protocol is just one piece of that.  

@@ -1,5 +1,3 @@
-
-
 RE: "wasting" addresses:  
   
 caveden is right, this patch generates and throws away lots and lots of

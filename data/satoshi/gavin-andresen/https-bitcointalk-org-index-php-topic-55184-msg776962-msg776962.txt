@@ -1,13 +1,4 @@
-
-
 From the arimaa whitepaper:  
-
-Quote
-
-Although there can be multiple registrars to choose from an individual  
-or organization can maintain only one effective account with only one
-registrar.
-
 Right-- good luck with that! Any system that relies on Wise, Efficient and
 Effective Bureaucracies to decide hard questions like "are these 400 accounts
 really one scammer trying to get more than their fair share" are doomed to

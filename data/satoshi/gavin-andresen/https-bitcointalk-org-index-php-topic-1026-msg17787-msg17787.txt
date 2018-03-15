@@ -1,5 +1,3 @@
-
-
 Thanks theymos! I completely missed the leading-zero-bytes become
 leading-'1'-chars one-for-one.  
   

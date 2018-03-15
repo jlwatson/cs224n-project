@@ -1,5 +1,3 @@
-
-
 For context: makomk is the creator of CoiledCoin, a bitcoin alternative:  
 https://bitcointalk.org/index.php?topic=56675  
   

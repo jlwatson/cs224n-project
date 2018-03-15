@@ -1,12 +1,3 @@
-
-
-Quote from: glassuser on September 08, 2013, 12:42:58 AM
-
-There seems to be a major bug in the Mac version, it keeps showing and error
-in the database and makes me re-download the blockchain everytime I try to
-open the client. I had to revert back to the old version to be able to
-download the blockchain and access my wallet.  
-
   
 Most likely explanation is one of your blockchain data files is corrupted, but
 the old version doesn't care. You might be serving up a corrupted blocks to

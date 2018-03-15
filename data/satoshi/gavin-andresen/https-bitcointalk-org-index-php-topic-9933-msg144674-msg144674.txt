@@ -1,11 +1,3 @@
-
-
-Quote from: zef on May 26, 2011, 07:35:22 PM
-
-It would only take 17 hours at 6 blocks an hour to hit the 100 block level. I
-mean its not very probable that something like that could happen, but it's
-possible.  
-
   
 If the network was split 50/50, then each half would generate blocks half as
 fast. So it would take 34 hours.  

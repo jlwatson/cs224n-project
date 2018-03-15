@@ -1,5 +1,3 @@
-
-
 If a 51% attacker stopped including all broadcast transactions in blocks "we"
 would quickly figure out a rule or rules to reject their blocks.  
   

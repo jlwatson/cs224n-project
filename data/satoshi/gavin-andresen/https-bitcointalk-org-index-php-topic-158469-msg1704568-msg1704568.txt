@@ -1,5 +1,3 @@
-
-
 Wiki is out of date. Everybody running their node as a tor hidden service
 would work just fine as of a couple of releases ago.
 

@@ -1,5 +1,3 @@
-
-
 If I were going to implement it... hmm...  
   
 I think I'd just special-case the genesis block, so it has a value out of, oh,

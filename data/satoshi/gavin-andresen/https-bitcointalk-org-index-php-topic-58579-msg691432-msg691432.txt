@@ -1,5 +1,3 @@
-
-
 RE: Why OP_CODEHASHVERIFY is bad:  
   
 First, it requires that you concatenate the scriptSig and the scriptPubKey and

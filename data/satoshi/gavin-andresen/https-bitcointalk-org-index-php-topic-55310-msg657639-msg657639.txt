@@ -1,5 +1,3 @@
-
-
 Reposting from email to bitcoin-development mailing list:  
   
 I've been busy pulling patches into git HEAD for a Bitcoin version 0.6, with

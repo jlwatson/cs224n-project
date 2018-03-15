@@ -1,5 +1,3 @@
-
-
 Here's a scheme that would work:  
   
 1\. Exchange creates a special bitcoin keypair for each exchange rate it wants

@@ -1,13 +1,3 @@
-
-
-Quote from: Gavin Andresen on January 28, 2012, 05:08:19 PM
-
-A bug in my code is dropping transaction fees from the block reward. Simple to
-fix, and obvious in hindsight; I will be personally reimbursing everybody who
-got bit by this bug by finding the blocks affected by this, figuring out what
-transaction fees the creators SHOULD have received, and sending that number of
-bitcoins to the block-award address.  
-
   
 Transaction sent:
 2d3006cf1e16cb9f4097894fdaa0739c66d38eb9e0356be3fd8daf63810cf375  

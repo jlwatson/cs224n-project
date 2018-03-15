@@ -1,5 +1,3 @@
-
-
 Right now, there is a hard-coded limit of 1 megabyte per block.  
   
 If we assume that limit never changes, that gives:  

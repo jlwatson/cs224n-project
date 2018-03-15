@@ -1,5 +1,3 @@
-
-
 If you're interested in coin control, and you're comfortable with python and
 the command-line, then I could use your help.  
   

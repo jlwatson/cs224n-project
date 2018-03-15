@@ -1,5 +1,3 @@
-
-
 Transactions have multiple inputs and outputs.  
   
 If you have 0.5BTC inputs, then 50 of them will be bundled together and a

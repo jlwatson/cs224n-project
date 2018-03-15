@@ -1,5 +1,3 @@
-
-
 GMT is always +0:00, so why not hardcode that instead of using %z or %Z?  
   
 RE: changing locale: good idea.

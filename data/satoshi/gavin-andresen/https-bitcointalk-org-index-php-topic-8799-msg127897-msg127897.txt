@@ -1,11 +1,3 @@
-
-
-Quote from: creighto on May 18, 2011, 06:28:33 PM
-
-Then a "stealth" client is needed, that functions as a dark node unless
-specificly commanded to connect to a particular peer, or accept a particular
-peer's requests. In fact, I want this client, portable on a thumbdrive.  
-
   
 That is exactly what -connect does (if I recall correctly; you might need
 -connect and -nolisten together).  

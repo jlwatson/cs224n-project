@@ -1,5 +1,3 @@
-
-
 Losing double-spent transactions should probably be reported as
 -1/unconfirmed, -2/unconfirmed, etc -- meaning "there is a N-confirmed
 transaction that conflicts with this one."  

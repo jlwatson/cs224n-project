@@ -1,13 +1,5 @@
-
-
 From the Quora question:  
   
-
-Quote
-
-The attack sould last 1h, spending those 400 BTC for 80 times instead of just
-1
-
   
 You can't spend 400 BTC 80 times in 1 hour. If you control a majority of the
 generation you could spend them twice an an hour (assuming merchants require 6

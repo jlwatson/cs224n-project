@@ -1,4 +1,2 @@
-
-
 I wonder if that is the smallest sha256 hash ever found for any purpose...
 

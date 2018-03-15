@@ -1,11 +1,3 @@
-
-
-Quote from: deepceleron on March 22, 2012, 02:21:51 PM
-
-What is more annoying is that _all_ Bitcoin releases before 0.3.24 were just
-deleted from sourceforge. Why?? Here's Linux 1.0.0 from 1994, they aren't
-trying to erase their history...  
-
   
 That's source code for the kernel, right?  
   
