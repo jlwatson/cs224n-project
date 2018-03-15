@@ -28,7 +28,9 @@ REMOVE_LINES = set(s.lower() for s in [
     "74076.1041@compuserve.com",
     "-----BEGIN PGP SIGNED MESSAGE-----",
     "Hal",
-    "szabo@netcom.com"
+    "szabo@netcom.com",
+    "David",
+    "Thanks,"
 ])
 
 def process_email(email):

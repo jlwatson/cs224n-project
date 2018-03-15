@@ -34,7 +34,7 @@ Dorian Nakamoto
 
 David Mazieres
 - [x] https://news.ycombinator.com/user?id=mazieres
-- [ ] Cypherpunks Mailing List - `David Mazieres <mazieres@pa.dec.com>`, `David Mazieres <dm@amsterdam.lcs.mit.edu>`
+- [x] Cypherpunks Mailing List - `David Mazieres <mazieres@pa.dec.com>`, `David Mazieres <dm@amsterdam.lcs.mit.edu>`
 
 Wei Dai
 - [ ] http://lesswrong.com/user/Wei_Dai/

@@ -1,0 +1,10 @@
+Unfortunately, neither of those sites have it.
+
+The version I'm looking for has a blf_ctx structure that gets passed
+as the first argument to functions so you can use multiple keys at a
+time.  It also has the initialization data stuck in the C code.
+
+Does anyone out there have the Applied Cryptography source code
+diskette?  Would you be willing to mail me the code?  It would
+probably take a while if I ordered the diskette myself and I'd like to
+get the code as soon as possible.

@@ -1,0 +1,8 @@
+What I don't underastand about this arangement is how other people are
+supposed to develop crypto software under capi.  I mean, how is it
+possible to develop a software package if you need to go get it signed
+by microsoft every time you want to test it?
+
+Or do US customers get versions of the OS that will crypto code
+without verifying the signature?  Somehow I doubt that, though,
+because then the NSA wouldn't be getting as much out of the deal.

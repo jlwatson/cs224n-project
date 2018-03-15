@@ -1,0 +1,6 @@
+Was the person in the basement eavesdroping or actuall performing a
+man-in-the-middle attack?
+
+Don't high speed modems transmit and receive on the same frequencies,
+using echo cancelation to decode the receive signals?  Does that make
+it impossible to eavesdrop on high-speed (i.e. V32bis) modems?
