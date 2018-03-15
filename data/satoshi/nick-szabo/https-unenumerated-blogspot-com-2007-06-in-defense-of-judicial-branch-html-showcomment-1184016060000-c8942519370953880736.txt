@@ -1,0 +1,21 @@
+I certainly would not go anywhere near as far as saying somebody could sell
+themselves into slavery. As with most other political issues, expanding
+freedom of contract without creating such pathologies requires close attention
+to law as well as creativity to solve.  
+  
+As a first cut I'd say that contractually specified penalties and punishments
+(far beyond today's "liquidated damages) should be allowed in infinite
+variety, but subject to a number of limitations. Since they are punitive in
+nature, they would be limited in ways similar to how today's criminal law is
+or should be limited. Here are some suggested limitations:  
+  
+* Such contracts would be governed by the most heightened formation requirements: requiring a writing, no procedural unconscionability, etc. (Indeed, I'd require a video tape of the non-drafting party reading and initialling the entire contract -- evidence that can be analyzed for signs of duress and incapacity).  
+  
+* Penalties can only invoked where the contract specifies a mental state requirement: negligence, recklessness, knowledge, or purpose (to use the Model Penal Code categories). If the contract doesn't say, purposeful breach must be proved. There can be no strict liability that invokes contractual penalties.  
+  
+* By analogy to the principle that courts should not take property from A and give it to B except to redress a harm A has done to B, I'd say you can't agree to give away your property or labor under such penalties. I'd thus increase the "peppercorn" consideration requirement to an economically modern version of the Roman law "just price" requirement where penalty clauses are invoked to help enforce the contract. I'd also put a short laches time limit on penalties (e.g. you can invoke a penalty only if the breach occurs within N years after contract formation -- thereafter you must renegotiate the contract). This prevents the selling-self-into-slavery problem.  
+  
+* All such clauses would trigger due process / common law rights applicable to a criminal trial like the right to a jury trial, the right to confront witnesses, and so on.  
+  
+* To invoke monetary or equitable penalties the breach of contract would have to be proved to clear-and-convincing evidence rather than more-probable-than-not standard for contracts. To invoke criminal-like penalties (e.g.) jail breach would have to be proved beyond reasonable doubt. Death penalties would be forbidden (hard to reverse that kind of experiment!)
+

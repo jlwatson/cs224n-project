@@ -1,0 +1,57 @@
+Byrne: _Why do the puzzling at all, rather than issuing a fixed amount of
+currency inflated at a predictable rate, with unique identifiers for each unit
+of currency?_  
+  
+This is an interesting idea, something like the idea that the Fed should
+follow a simple algorithm rather than trying to outguess markets. But the real
+question for beating bit gold is how do we do this without having to put full
+trust in third parties? If we can figure that out, we've come up with
+something better than bit gold. ("We" as usual on this blog being just whoever
+wants to explore the possibility, not "the government" :-)  
+  
+Real trusted third parties, whether central banks or private note issuers,
+have always been tempted to overextend and overinflate, although occasionally
+the reverse happens. They are also vulnerable to government takeoever. Any
+algorithm, like the gold standard of old, is likely to be modified in a
+"crisis": a trusted third party cannot make a strong credible commitment to
+keep running the same algorithm.  
+  
+Possibly the money issuing algorithm could be run by many parties in parallel
+manner, a technique known as Byzantine agreement. Indeed, this is the same
+technique used to run the bit gold title registry. All participats would agree
+to (1) generate a fixed number of unique (large random) numbers each week, (or
+a number inflated by some predictable algorithm), and (2) assign each by some
+fair algorithm to one of participants. Each timestamped random number becomes
+a rare collectible, like postage stamps. I can see where this would work! It
+will take quite a bit of thinking over, though, as we've eliminated one of
+things that bit gold users can approximately prove, i.e. the original cost of
+the gold.  
+  
+Byzantine security is far from perfect. In layman terms it just means that
+when everybody sends everybody else the same message, far more people have to
+be corrupted in order to fake the message than if the message is sent through
+one or a few people. Thus any given party is trusted only to a very small
+degree, but there is still that small degree of trust. There is a much
+stronger temptation here than with bit gold to inflate the currency, since it
+can now be costlessly "printed" instead of "mined": it's much more likely that
+a sufficiently large number of people could be corrupted. Still, it's an
+intriguing idea worth developing even if for no other reason than it gives us
+another concrete plan to compare bit gold to.  
+  
+ _as long as the marginal benefit of extra bits is lower than the marginal
+cost of running computers, people will keep their computers running when
+they'd otherwise shut them down, to easily arbitrage this difference._  
+  
+I'm sorry, but this doesn't make any sense to me: do you mean to say "higher
+than" rather than "lower than"?  
+  
+Some computers are more energy efficient than others, some have more spare
+cycles than others, some algorithms and custom circuits will solve puzzles far
+faster than others, and so on, so there will be great differences in
+profitability, and as in gold mining the market will evolve towards only a few
+of the best specialists in puzzle solving making a reasonable profit. Indeed,
+the technological differences between chips and algorithms are likely to be
+far _greater_ than with gold mines, which is why we can't make the bits
+themselves fungible from week to week in the first place: the technology
+improves too fast.
+

@@ -1,0 +1,23 @@
+On the subject of substitutability, more comments I made elsewhere:  
+  
+ _The problem [with substitutes like coal gasification, tar sands, etc.] is
+that higher inflation expectations must be built into cost estimates for them.
+It's no good to say that coal gasification cost only $80/barrel last year, for
+example, and so it must be cheaper than oil at $140/barrel. One has to figure
+out how much a coal gasification plant will cost over its future lifetime
+given the higher expected inflation. The cost ratio for coal gasification or
+extracting tar sands to the cost of extracting Saudi oil hasn't changed, it is
+still more than a factor of 10 higher. As inflation spreads from gold and oil
+(where it appears first) to other commodities, and then to wholesale prices,
+then to retail prices, then to labor costs, we will see the nominal costs of
+tar sands, coal gasification, nuclear power, wind power, and so on catch up to
+the nominal price of oil. The relative real costs of all these sources haven't
+changed much, and won't change much, unless there is some joker discovery like
+a great improvement to biofuels due to genetic engineering. (It is true that
+the nominal attractiveness of these alternatives to oil increases the R &D
+into alternatives and thus increases odds of such a joker occuring per year).
+Nevertheless, it's probably the case that only nominal relative costs, rather
+than real relative costs, have and will substantially change due to inflation
+expectations hitting gold and oil prices before they hit other kinds of
+prices._
+

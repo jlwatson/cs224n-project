@@ -1,0 +1,32 @@
+Jim, I do appreciate your comments, and I'd love to learn more over beer (but
+not until August -- bar exam :-).  
+  
+I have extensively studied barter and money systems (in addition to working
+for David Chaum and playing a major role setting up a certificate authority)
+and do believe I have some insights.  
+  
+Chief among these I recommend extensive thinking about mental transaction
+costs and proxy measures. (See links in original post or Google any of these
+phrases with my name to get my articles). A gigabyte is a gigabyte, Paris
+Metro pricing, and quality-of-service metrics are examples of proxy measures
+-- there are again a very large number of possibilities.  
+  
+Along with many ways to measure a given resource, there are a wide variety of
+other Internet resources that might be commoditized: screen real estate, ad
+keywords, response time, CPU cycles, and much more. Setting up a general
+nanobarter architecture would be an interesting open source project in its own
+right -- it need not be just an expensive adjunct to a particular application.
+The number of ways this architecture could be used are vast and the best
+applications are probably not the most obvious ones.  
+  
+As for complexity, I find it interesting that Donutlab was implemented in just
+72 hour hours. One can get prototypes running rather quickly and then
+experiment with a wide variety of proxy measures.  
+  
+As for the design space, it's a good bet that just as with traditional
+markets, some parts are desert, some parts are fertile, and some parts are
+positively jungle. But with nanomarkets we haven't yet explored any of this
+planet beyond site of the first lander. If there are any theoretical reasons
+to believe it's mostly desert -- beyond my warnings about the crucial role of
+user preferences and mental transaction costs -- I'd love to hear them.
+

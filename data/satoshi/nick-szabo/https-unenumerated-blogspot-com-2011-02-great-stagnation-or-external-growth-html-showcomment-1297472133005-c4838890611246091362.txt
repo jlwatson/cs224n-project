@@ -1,0 +1,45 @@
+Addendum: globalism and the brain drain towards innovation at the high end of
+Maslow's hierarchy (knowledge for its own sake, entertainment, socializing --
+the stuff that dominates the Internet) and away from the lower levels
+(agriculture, extraction, manufacturing) go together. There has been strong
+disincentive to innovate, especially in automation, in the Maslovian mundane
+industries when globalization and the last half century of BRICS population
+growth has made accessible to the world economy so many more inexpensive
+hands. So I'd attribute much of the brain drain from traditional engineering
+to software engineering to, ironically, the lack of incentive to automate. In
+particular to automate jobs dominated by physical motion, which can be done so
+cheaply by all those new hands. Another part of the brain drain I'd attribute
+to a simple subjective response young people have to the tremendous new value
+being provided by the Internet in contrast to other industries, and to the
+most dramatic entrepreneurial wealth accruing there, even though the median
+wage for brain work in these higher reaches of Maslow's hierarchy is no better
+and the risks are much higher. The result is similar to, albeit not as extreme
+as, how young people overestimate the financial rewards and underestimate the
+risks of acting and professional sports.  
+  
+BTW I quite disagree with Cowen when he says we need more "science." That is
+academic inbreeding talking. In fact, the number of scientific papers has been
+growing exponentially since 1973, during the entire period Cowen sees
+innovation as having declined, and government funding of science has also
+rapidly increased during this period. Mountains of papers where academicians
+compete to show off and praise each other's IQs does not create innovation.
+Indeed, it creates another brain drain from actually valuable innovation. The
+problem with the non-IT/non-Internet portions of the economy has been these
+brain drains from traditional engineering to other pursuits, and what is
+needed to return to innovation is more people pursuing practical engineering
+as well as semi-technical fields like plumbing, electricians, etc. The latter,
+not people with advanced degrees, were the main sources of innovation during
+the early and later (late 19th-early 20th century) industrial revolutions.
+Science, real science that actually discovers useful stuff, is very important,
+but only a relatively few geniuses in the hard sciences (physics and
+chemistry) and the more difficult, but still tractable and economically
+crucial ones (esp. biology) are needed to drive innovation where it is most
+needed, further down in Maslow's hierarchy. The vast majority of innovation in
+all parts of Maslow's hierarchy has and will come from engineers, computer
+scientists, and practical technicians, as well as social innovations from
+entrepreneurs, lawyers, etc. Even in theoretical physics we need far less pure
+theory and far more people who start out thinking about practical technology,
+like Einstein who started out reading patents.  
+  
+(to be continued)
+

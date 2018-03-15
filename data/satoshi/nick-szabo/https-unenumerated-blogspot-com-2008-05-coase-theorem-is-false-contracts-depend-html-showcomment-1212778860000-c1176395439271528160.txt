@@ -1,0 +1,57 @@
+While I'm here, I (inspired by a real legal case I learned from a friend, who
+shall remain nameless unless he wants to be credited) came up with the
+following example that lays the problem with the Coase Theorem out in clear
+mathematical terms even in a fairly normal case of externalities (i.e. nothing
+"extreme" like flamethrowers or clover-killing herbicide or mob hits):  
+  
+A music store is next door to a doctor's office. The music store would prefer
+(if the office of a rich doctor who wants quiet for his patients did not exist
+next door) to let its customers test its electric guitars at volume VM1 > 0.
+The doctor prefers it to be quieter (VD < VM1). Coase theory assumes that the
+only possible choices are within the range {VM1, VD}, i.e. any volume of
+electric guitar testing in between or including these two preferences. In the
+absence of transaction costs and given only this range, one can indeed
+conclude that the music store and the doctor will bargain to an efficient
+outcome. But these aren't the only choices. The music store can, at additional
+cost to itself C, turn up the volume nobs on its amplifiers and play the music
+at volume VM2 > VM1. If the doctor is willing to pay the music store P1 to
+change the volume from VM1 to VD, and P2 > P1 + C to turn the volume down from
+VM2 to VD, the music store has an incentive to play the music at volume VM2
+instead of VM1, or to threaten same, in order to extract for itself a greater
+benefit from the situation.  
+  
+In other words, the same physical effect that produced the externality gives
+rise to an opportunity and incentive to play a negative-sum game. Here it
+changes the music store's prefered volume in the absence of a rich doctor next
+door from VM1, to VM2 > VM1, due to the opportunity to extort extra payments
+from the doctor by creating an even less bearable din, for which the doctor is
+willing to pay even more to avoid. The music store is willing to incur an
+extra cost C to itself in order to extract the greater payment P2 from the
+doctor. For the overall game the payment P2 is a wash and C makes it negative-
+sum. (In the music store example, cost C comes from the music store chasing
+away some of its own customers, albeit at a slower rate than it chases away
+the doctor's customers, by testing its guitars more noisly than it would
+prefer in the absence of the doctor).  
+  
+If, as in reality, there are transaction costs causing bargains to sometimes
+not be reached, the outcome is even worse, as noise VM2 is costlier, perhaps
+far more costlier, to the doctor's practice than VM1: such outcomes are often
+far worse outcome under transaction costs than the range of possible outcomes
+that Coaseians contemplate.  
+  
+Of course, more generally in the absence of proper prior legal allocations of
+rights the doctor and music store could threaten each other in other ways: the
+doctor could threaten to poison the guitar frets, the music store could call
+in the mob on the doctor, etc.  
+(Furthermore, even with tort law preventing these other negative-sum games the
+music store has an incentive to falsely "reveal" preference VM2 instead of VM1
+to the doctor and to the judge -- a common problem that good tort law usually,
+but hardly with perfection, tackles). But the example of the music store and
+its amplifier volume shows that the externality itself contains potential or
+actual coercion -- the same physical effect that causes the externality often
+makes negative-sum games possible, and in the absence of any prior legal
+limits on the externality, opportunities and incentives for coercive negative-
+sum games are inherent in the externality -- so that analyses of such
+externalities with the Coase Theorem, which assumes such games don't exist,
+will often lead to misleading or false conclusions.
+

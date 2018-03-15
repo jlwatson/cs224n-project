@@ -1,0 +1,15 @@
+ _This distance may be proportional to the number of voters, in which case the
+representation distance of a U.S. Congressional election on our scale is about
+6 million._  
+  
+Oops, in my quick commenting I forgot to revise the result when I revised the
+input and in any case I should explain the derivation. The idea is that if one
+principal (one voter) has a representation distance of 2 from his
+representative, and if the distance is proportional to the number of voters,
+than the distance is 2*(600,000) or 1.2 million.  
+  
+Of course, the assumption is a potentially much larger source of error, i.e.
+the distance may be logarithmic or exponential with the number of voters, or
+the square root or the square, or something else besides proportional, so the
+number is just a possible example.
+

@@ -1,0 +1,27 @@
+Here was my reply:  
+  
+(1) I'd rephrase the above [comment I posted under my "The Singularity" post
+on this blog, reposted to Less Wrong by Wei Dai] to say that computer security
+is among the two most important things one can study with regard to this
+alleged threat [the robot apocalypse, assuming one wanted to take it
+seriously].  
+  
+(2) The other important thing is law. Law is the "offensive approach to the
+problem of security" in the sense I suspect you mean it (unless you mean
+something more like the military). Law is very highly evolved, the work of
+millions of people as smart or smarter than Yudkoswky over more than a
+millenium, and tested empirically against the real world of real agents with a
+real diversity of values every day. It's not something you can ever come close
+to competing with by a philosophy invented from scratch.  
+  
+(3) I stand by my comment that "AGI" and "friendliness" are hopelessly
+anthropomorphic, infeasible, and/or vague.  
+  
+(4) Computer "goals" are only usefully studied against actual algorithms, or
+clearly defined mathemetical classes of algorithms, not vague and imaginary
+concepts. Perhaps you can make some progress by for example advancing the
+study of postconditions, which seem to be the closest analog to goals in the
+software engineering world. One can imagine a world where postconditions are
+always checked, for example, and other software ignores the output of software
+that has violated one of its postconditions.
+

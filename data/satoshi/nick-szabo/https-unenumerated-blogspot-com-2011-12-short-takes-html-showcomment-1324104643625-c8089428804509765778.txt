@@ -1,0 +1,45 @@
+Jay and Anonymous, thanks for your kind comments.  
+  
+Brian, if you've used Unix cron to schedule jobs, that gives you a taste of
+temporal programming. Besides scheduling specific times when functions should
+execute (rather than procedural straightjacket of merely executing one
+function after another, or the functional straightjacket of merely executing
+one function inside another), the other big part of temporal programming is
+responding to unpredictable events, which allows us to execute code when the
+user or unpredictable outside processes want or require us to.  
+  
+While I have designed my own purely temporal language, there is not yet a
+sufficiently working implementation, so I suggest the next best thing --
+JavaScript. The main reason being, JavaScript as a language for implementing
+web user interfaces has created a culture full of programmers who understand
+event-oriented programming, programming where callbacks are the norm rather
+than the exception. That is most of temporal programming.  
+  
+JavaScript also has features that make callbacks, and thus event-oriented and
+temporal programming, much easier to write correctly than in most other
+languages. With JavaScript one can implement, albeit in a more awkward way,
+all the temporal constructs that one can in my language. So, the examples I
+will give will be in JavaScript.  
+  
+(Another good choice would be Erlang, but the population of programmers, and
+the practical uses for their talents, are far smaller).  
+  
+My main motivation for temporal programming has been smart contracts, although
+there are many other uses. The basic building blocks of financial contracts
+are the future, the bond, and the option. In essence these are very temporal
+creatures:  
+  
+(1) A future is a scheduled swap of one instrument or property for another at
+a specific future date.  
+  
+(2) A bond is a schedule of payments (or more generally one can have a
+schedule of swaps).  
+  
+(3) An option gives its holder the choice of executing a swap during a certain
+period of time.  
+  
+So with financial contracts (and some other instances of bringing legal
+documents to life on computer), workflows, etc., the basic building blocks are
+deadlines, periods, schedules, and real-world or user-initiated events.
+Temporal programming.
+

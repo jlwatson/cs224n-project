@@ -1,0 +1,6 @@
+The only attempt at a nutrient budget for the agricultural revolution I've
+seen: Robert Allen has a computer model of nitrogen sources and consumption. I
+haven't tried to get the code or run it, but it looks interesting. However, it
+focuses on nitrogen leaving out other important nutrients and neglects some
+nutrient-replenishing technologies such as water meadows.
+

@@ -1,0 +1,19 @@
+Broadly speaking, I'd say that's right. In the sense that one might loosely
+speak of a debtor as an agent and a creditor as a principal. The only
+"interest" involved is a very simple one, though, paying back a specific debt,
+so this is a somewhat loose analogy, not at the core of the meaning of
+"agency."  
+  
+Representation distance creates selectional bias (lack of information,
+bribery, catering only to majorities or other subsets, etc. during the process
+of selecting the agent(s)) and operational bias (same kinds of biases and
+conflicts of interest but while acting as agent(s)).  
+  
+Adverse selection is a well known subset of selection bias studied by
+economists, and moral hazard is a well known subset of operational bias.  
+  
+In the case of credit, transferring credit risk is a form of insurance, and
+creates moral hazard. There are also related adverse selection problems. These
+tend to be well known among economists, albeit not well enough known enough to
+include them properly in most of the models Wall Street has been using.
+

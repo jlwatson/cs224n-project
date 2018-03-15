@@ -1,0 +1,24 @@
+Thanks Mike. I agree with you Adam. The law, auditing, and accounting are
+largely made up of such human-essential steps, but objectivity and
+verifiability -- rule and process -- are prized where possible.  
+  
+But Carr didn't make that kind of point. He was just arguing from an implicit
+sentiment with which we are all supposed to automatically agree: robot bad,
+human good. Using a mechanical authority is just a priori bad in his Hello
+Kitty universe, and various surface flaws are cause for giving up on a
+potentially verifiable and very efficient algorithm in favor of an imaginary
+trusted authority.  
+  
+From what I can gather, the MLK embarassment is caused not by gaming, nor by
+widespread support for the racist site, but by so many people linking to the
+site as an example of the idiocy of racism. Unintended consequences. If those
+linking opponents think the site's high search engine rating is important
+enough of a problem they will just stop linking to the site and the rating
+will tank.  
+  
+Personally, I'd prefer a simple and public (ideally open source) algorithm to
+one that is completely fair and game-proof. I'm much more worried about hidden
+gaming by the search engines themselves, and related insiders -- as for
+example with the Chinese version of search engines -- than with open public
+gaming of a well-known algorithm.
+

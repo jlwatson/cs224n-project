@@ -1,0 +1,51 @@
+eddie, good questions. I'm obviously still figuring out the best way to
+explain this, so hopefully this one will do the trick.  
+  
+(n.b. I've been using "bank note" instead of "coin" and "bit gold" or
+"solution bits" instead of "grains", and "issuer" instead of "mint", and there
+are good reasons I chose this terminology, but for the purpose of this
+response I'll use your terminology).  
+  
+ _How do the mints determine how many of which grains to mint into a coin, and
+how do users determine that a coin has the right set of grains?...You suggest
+that the prices of grains will be determined in a market, but I don't
+understand how such a market would come about._  
+  
+It's more than a suggestion. The "mints" (issuers) don't decide this for
+themselves, the traders on the inter-period exchanges do. The value of one
+unit of the currency is defined as the value of a canonical number of bits in
+the "grains" of some canonical period. So for example, the value of 1024 bits
+of grains in week 1 (the "genesis grains"). However grains from other periods
+are used to actually redeem "coins".  
+  
+The market comes about as with other collectible markets. For example traders
+in rare postage stamps estimate how much luck was involved in the variety of
+printing errors that occur in the stamps most prized by collectors. The
+difference from collectible stamps being that the markets in "grains"
+(solution bits) will be far more liquid because trading will be largely
+automated with instant online clearing, because it's being used as reserves
+for a currency, and because it's simplified to trading between periods
+(probably weeks) rather than trading between individual stamps or "grains".  
+  
+ _But the number they need depends on the price they pay!_  
+  
+The specific grains in the bundle are determined when "coins" are redeemed,
+not when they are issued ("minted"). The mint/issuer can be audited at issue
+time (or any other time) to see if they have sufficient reserves of grains to
+cover the "coins" they have issued, but they don't distribute these reserves
+unless the "coin"/"bank note" is redeemed.  
+  
+Each "coin" is most akin to a digital promissory note (this is why I call them
+"bank notes"): I promise to redeem "coins"/"bank notes", on demand, for grains
+adding up to the standard value at the time of redemption. Since the prices of
+grains are all public, the redeemer and issuer/mint can each look up the
+market prices of the grains at that time and verify that they add up to the
+standard value. Determining the relative prices is obvious. The abolute value
+of a grain created in a given week is determined by comparing the price of
+grains created in what week to the price of a canonical time period (e.g. the
+week 1 or "genesis grains".) So the value of one "coin" of standard value can
+be defined as "the value of 1024 bits of genesis grains", but when you redeem
+the "coin"/"bank note" it gets redeemed in later grains according to their
+relative market prices to the genesis grains, which both sides of the
+redemption transaction can verify.
+

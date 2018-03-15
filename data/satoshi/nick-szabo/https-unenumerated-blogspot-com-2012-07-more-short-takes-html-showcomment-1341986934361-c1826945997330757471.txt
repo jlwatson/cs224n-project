@@ -1,0 +1,7 @@
+Incidentally, one of my starting points for defining online financial
+instrumnts and other smart contracts will be  
+  
+https://github.com/nicksz/jTime  
+  
+Feel free to pull it, add tests and try to break it , use it, modify it, etc.
+

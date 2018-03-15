@@ -1,0 +1,31 @@
+Paul, you're mostly talking above my head there, but I'd love to learn more
+about these statistical methods. Friendly references?  
+  
+Fred and Paul, I have read that differencing tends to exaggerate noise and
+lead to invalid rejection of true relationships, and that one has to guard
+against that as well as the accumulation of errors which the differencing
+method eliminates. I'm guessing this is what Paul is addressing with his
+sophisticated proposals.  
+  
+Fred, what do you think about a correlation for a series that ends up roughly
+at the level where it started? The series I have in mind are implied inflation
+expectations derived from the monthly dollar gold and oil prices from January
+1974 to June 2008. In other words, take the gold and oil prices, deflate them
+for the already occurred CPI, deflate oil for the 0.9% average secular
+fundamental rise wrt gold described above, and derive the rate of long-term
+price rises for gold and oil respectively implied if gold and oil represent
+the net present value given that price (assuming a certain price of gold and
+oil reflect expectations of zero price rise -- OK to do because correlation is
+concerned with the relative not the absolute). The result is a large positive
+correlation, 0.76, strongly suggesting that the long-term trends in oil and
+gold prices each reflect a common estimate of future inflation -- gold and oil
+fundamentals are very different and so cannot lead to such strong correlation.
+This compared to two random walks with no long-term tendency to rise, which on
+average have no correlation.  
+  
+If you look at the graph (see the update above) of the implied inflation you
+see that the gold-implied inflation starts at 5.1% in 1974 and ends at 5.2%
+today, and the oil-implied inflation also starts at about 5% in 1974 and ends
+at about 5.5% today, with fluctuations for both as high as 7% and as low as
+2.5%.
+

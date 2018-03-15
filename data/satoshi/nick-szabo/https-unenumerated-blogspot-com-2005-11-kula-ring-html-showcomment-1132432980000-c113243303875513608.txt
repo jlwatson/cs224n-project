@@ -1,0 +1,47 @@
+The proximate reason was religious taboo shared by the traders. The ultimate
+reasons (i.e. functional reasons why the institution evolved this way) are a
+matter of debate, but I can think of some explanations:  
+  
+(1) Collectibles often literally circulated in specific cycles that avoid
+sinks. This amortized the cost of the collectible across more trades. Why? The
+function of collectibles is to lower transaction costs such as non-coincidence
+of needs or events. A transaction network uses collectibles more efficiently
+if it increases the ratio of velocity to current value. Since velocity was
+very low and the value of transactions (trades, marriages, inheritences, etc.)
+could be high, this was a big problem in neolithic transaction networks. Some
+collectibles had a velocity of once per generation, i.e. they were just family
+heirlooms!  
+  
+The network uses collectibles more efficiently with more members, so we'd
+expect the circulation to expand beyond bilateral cycles into cycles around
+the entire regular transaction chain. The taboo deters less globally efficient
+bilateral cycles from forming.  
+  
+BTW, the closed-loop transaction cycle is also important to marketing digital
+cash or a novel currency that is expensive to redeem (left as an exercise for
+the student).  
+  
+(2) Imagine circular island chain ABCDE, where boats can travel no farther
+than their neighbors and C is self-sufficient (or just very small) and doesn't
+want to trade goods regularly, but AB, DE, and EA trade regularly. C breaks
+the collectible cycle (greatly decreasing the efficiecy of collectibles for
+the other islands) unless it acts as a conduit. Simply taking collectibles
+from D and shipping them to B (and pocketing some profit of course) to
+complete a one-collectible cycle requires acts of faith. With two opposite
+circulating collectibles, C simply  
+engages in bilateral trades with both B and D to complete both cycles.  
+  
+(3) the two opposite cycles arguably improved the function of signalling the
+liquidity and creditworthiness upstream and downstream in the trading network.
+The flow of armshells sent signals about the liquidity of the islands (and
+particular trading partners there) one trading step or more revoved in one
+direction; the flow of necklaces about liquidity and credit of islands once or
+more removed in the other direction.  
+The signals are less likely to be confused. (Janet Landa has suggested the
+valuables have a credit signalling function).  
+  
+(4) A variation on (3); the system forces you to trade in the other direction,
+and sends signals about your ability to do so. Thus you gain not just direct
+information from direct interactions, but also information and commitment
+regarding trade in the other direction which cannot be directly observed.
+

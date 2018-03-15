@@ -1,0 +1,53 @@
+Clayton, Friedman is still assuming that all the contracts, except the
+"occasional violence" which he proceeds to ignore, are the positive-sum
+voluntary contracts assumed by other economists when they use the Coase
+Theorem or the theory of bilateral monopoly. The disproof that the bilateral
+theory monopoly applies here is similar to that for the Coase theorem:
+bilateral monoply theory assumes voluntary transactions yet purports (as
+Friedman applies it) to work in a world where opportunities and incentives for
+coercive transactions are ubiquitous. The assumptions are contradictory and
+prove the application of bilateral monopoly theory in this situation (and
+analogous analyses of politics or law) to be false.  
+  
+You and Friedman both need to go back and read my original article above. The
+negative-sum game is basic to the problem: it is not a mere "transaction cost"
+or "occasional violence" that can be swept under the rug in order to invoke
+the convenient authority of economic theories that assume voluntary
+transactions. Now that I have pointed out the problem in a very clear fashion,
+one has to be a complete logical illiterate to believe that one can invoke
+economic theories that assume voluntary transactions to prove that coercion is
+not a problem.  
+  
+_Each knows that the other would prefer even a rather unfavorable set of legal
+rules to no agreement at all._  
+  
+Nice try to get out of a jam, but it is extremely far off the mark. Both
+parties would prefer to extort the maximum possible from the other party at
+the least cost to themselves. That is the negative-sum game that is basic to
+situations not already governed by at least tort law. You and Friedman are
+jumping through some amazing hoops to avoid confronting this problem.  
+  
+"teh internet": _the amount of money the railroad will be able to extort from
+the farmers is bounded from above by the cost of switching to non-flammable
+crops (clover in Friedman's example)._  
+  
+This is of course nonsense. If one method of coercion becomes too expensive,
+there are usually many alternatives available. In this case, the railroad
+could switch to spraying the field with herbicide. Or it could wait until the
+field is harvested into hay and send in an arsonist to set fire to the hay.
+Under the Coaseian assumption that any prior allocation of legal rights is
+possible, the legality of any of these acts are possible prior allocations of
+legal rights. The fact of the matter is that when Coase, Stigler, et. al.
+worked out these examples they were already assuming the beneficial effects of
+tort and property law as well as rights allocations within these laws that
+ruled out such coercive acts: a hidden assumption that contradicts the overt
+claim, necessary to Friedman's reasoning, that they they proved the Coase
+Theorem for _any_ prior legal allocations. Since externalities are often not
+readily separated from coercion, the Coase Theorem is false: it does not apply
+in a world where coercion is possible. There is no easy way to apply it to
+negative externalities which usually come bundled with opportunities to make
+coercive threats. When dealing with externalities problems, one must confront
+_both_ coercion and transaction cost problems. Lowering bargaining and
+enforcement costs may well cause _more_ harm when the bargaining is over a
+negative-sum game.
+

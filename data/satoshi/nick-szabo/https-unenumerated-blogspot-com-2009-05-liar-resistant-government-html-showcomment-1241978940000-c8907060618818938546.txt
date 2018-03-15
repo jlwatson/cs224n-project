@@ -1,0 +1,8 @@
+Sometimes message can be altered (e.g. by summary) and not considered by the
+rules a "lie." Direct unaltered messaging can be accomplished by cryptography,
+(specifically by hash functions, plus, if origins need to be authenticated,
+digital signatures). "Lie" in the context of the property title registry
+consists in violating the title transfer rules or corrupting the database,
+e.g. by pruning part of the "tree" of transferred and subdivided property
+titles.
+

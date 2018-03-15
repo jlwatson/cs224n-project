@@ -1,0 +1,16 @@
+I wrote: _stock prices perform disproportionately better as expected inflation
+falls towards zero._  
+  
+I should add that this effect can be swamped in a credit-crunch deflation,
+where expected profits themselves collapse, more than making up for the higher
+inverse collectible premium. It works much better when inflation caused by
+monetary and fiscal policy diminishes, as in the 1980s and 1990s.  
+  
+Stagflation hits stock prices in both ways -- credit retraction causes profits
+to decline in real terms while loose monetary and fiscal policy decreases the
+inverse collectible premium as more assets become invested in housing etc.
+rather than stocks. We can add to this witch's brew the extra inefficiencies
+caused by mispriced long-term contracts, which should increase costs of long-
+term credit and decrease profits. Thus the extremely poor performance, in real
+terms, of stock prices in the 1970s.
+

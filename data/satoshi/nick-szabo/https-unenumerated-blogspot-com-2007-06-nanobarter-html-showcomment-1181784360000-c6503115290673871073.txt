@@ -1,0 +1,38 @@
+"the only way such a system will grow to the point where there are enough
+agents invested in the system to make it self-sustaining is if someone steps
+up and provides the bulk resources necessary to make their currency the
+standard interchange between untrusted peers."  
+  
+This is only true if the transaction costs of barter turn out to be too high.
+Menger and others (and I, here) have explained why transaction costs of in-
+kind transactions are so high offline. This is what makes money so valuable
+offline. As I argued in the blog post, this may well not be true for largely
+fungible online services like disk space. The transaction costs of barter may
+be so low that adding money isn't much of a win. And if the legal system
+actually considers the money to be money, it comes with a very costly legal
+overhead. See the e-gold problems that Ian Grigg has documented well.  
+  
+"Alternatives [to a centralized mint] are far too complex for the marginal
+benefit they provide..."  
+  
+Replicating the mint to every node doesn't itself much add to the overall code
+complexity. Adding barter note exchange markets, and automating the whole
+thing so that the mints and exchanges are largely invisible to the user,
+might. But AFAIK nothing like this has ever been tried.  
+  
+"The smartest thing Bram did when stripping down MojoNation to create
+BitTorrent was conforming the digital resource mechanism to the actual
+behavior of the users."  
+  
+This conformation is what a market does quite well when it properly reflects
+preferences of users, but doesn't when it doesn't. This brilliance of
+BitTorrent conists in creating a very simple but fully automated proxy measure
+-- i.e. a crude but effective approximation of of user preferences that
+doesn't require specific input from the user. This allowed barter to be fully
+automated, even if the efficiency of the resource allocation falls very far
+below the theoretical market optimum.  
+  
+But it may also be brilliant to add to the under-the-covers complexity in
+order to increase the efficiency and flexibility of the overall system -- to
+make it more like a market.
+

@@ -1,0 +1,43 @@
+Alrenous, you're right, there have to have been simpler stages of evolution,
+the most primitive archaea or bacteria are far too complex to have just
+spontaneously formed even once in the universe. Just how much luck is required
+is an open question, because we are just now starting to get a handle on what
+those stages might of been (e.g. the speculative reconstruction 1-10 above is
+the best I've ever seen, but it is still speculative, and still quite
+incomplete, especially in step 5).  
+  
+A very indirect estimate may be had by observing the lack of ETI (lack of
+artificial surfaces) in our galaxy or others that I have discussed. This
+touches on George's point -- it may well be that non-photosynthetic life is
+common and the Great Filter between the origin of life and civilization exists
+but occurs very early, with life almost always stopping short of tapping solar
+power. If the geological process of serpentization occurs underneath places
+like Europa and Enceladus, leading to widespread alkaline vents interfacing
+with acidic oceans, then primitive life may be common and more advanced life
+rare. The trouble with this theory is that, while these moons are likely far
+more common than habitable early-Earth-like planets, with the same
+serpentization process, the latter are still probably common enough for
+photosynthetic life to have arisen millions of times in our own galaxy alone
+if little luck was involved. Even broken down as in 1-10 above, there still
+seems to me a vast amount of luck required to get to life, enough to make it
+extremely rare but not universally impossible. The odds may be 1^-100 instead
+of 1^-1000 per trial, and there were more than 1^100 trials available with
+second-generation "metallic" stars, but far less than 1^1000. There is still a
+great deal of handwaving (and most of Alrenous' 1^-1000 odds) in step 5 above.  
+  
+A separate line of inquiry, "RNA world", has started to break down step 5
+above into separate steps, but that work is still tentative and very little of
+it has yet been recreated in a laboratory, although I expect that eventually
+it will be. The biggest thing the new theory does is provide an ongoing and
+direct energy source to drive RNA world (by the direct formation of ATP or its
+more primitive forerunners). It probably makes RNA world quite a bit simpler
+-- nearly all the enzymes for forming lipids, and for tapping indirect
+chemical or photosynthetic energy sources, are no longer required, just a
+membrane with a proton gradient across it, an ATP synthase enzyme, and some
+RNA (and surely many details I'm leaving out, but the point is that DNA and
+the insanely complex modern metabolisms aren't required to get evolution
+going). And after all we are here, and so is and was archaea and bacteria, so
+biogenesis can't be completely impossible. We are just starting to get a
+handle on this, and I think the proton gradient membrane theory is a great
+step forward in our understanding.
+

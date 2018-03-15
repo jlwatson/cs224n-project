@@ -1,0 +1,45 @@
+The good news is that one can develop a largely non-coercive system out of a
+coercive one. Its origin was necessarily coercive and it remains "locally
+coercive" insofar as its procedural law involves acts like legal arrest,
+search and seizure, etc., but its substantive law is largely non-coercive,
+i.e. based on the libertarian principle of non-initiation of force.  
+  
+Not utopia, as the traditional English common law (evolved by judges over
+several hundred years of court cases) largely followed this pattern, and
+indeed (if we ignore modern legislation) mostly still does.  
+  
+Think of protocol layers (or if you don't know some computer network design,
+think of the layers that go into building a road: e.g. dirt, gravel, asphalt).
+The bottom layer is legal procedure, protected by a military where necessary,
+and involves some coercive acts. But it supports a layer of substantive law --
+tort, property, contract, and the like -- that can and should enforce non-
+coercion between people.  
+  
+Indeed, the moral principle of non-initiation of force, far from being a
+possible _basis_ of society as Murray Rothbard and David Friedman would have
+it, is a sophisticated _outcome_ of long legal evolution and a highly involved
+legal procedure that itself cannot stick to that principle: it coerces people
+to a certain extent so that they will not coerce each other to a much greater
+extent.  
+  
+P.S. sorry to nit, but to avoid searching errors it's Mancur Olson with an
+"o".  
+  
+The main things to recommend in Olson are (1) his critique of Coase (although
+IMHO my own critique is more rigorous, but it was inspired by Olson's), and
+(2) his "roving bandit" vs. "stationary bandit" analysis of coercive outcomes
+in a lawless anarchy. Both of these can be found in his _Power and
+Prosperity_. Otherwise his analysis is blandly conventional, focusing on
+"democracies" and their supposed superiority (he is entirely unconvincing in
+trying to explain why democracies are supposedly economically superior to
+monarchies, for example -- his original "stationary bandit" seems to work best
+as a monarch, and not so well when figures in government change more often,
+when majorities can rob minorities, etc.)  
+  
+Of course, we and history have seen big problems trying to keep the legal
+procedure layer to stick to enforcing substantive non-coercion and not turn
+into a modern "redistributive" government on the one hand or an oppressive
+tyranny on the other. There's no avoiding study of real constitutions and real
+legal systems in order to figure out where mistakes have been made so that we
+can do better next time.
+

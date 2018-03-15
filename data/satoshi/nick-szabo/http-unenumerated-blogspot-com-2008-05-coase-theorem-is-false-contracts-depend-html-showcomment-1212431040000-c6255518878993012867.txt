@@ -1,0 +1,20 @@
+reimannzeta: _What was interesting and useful and surprising was that it was
+transactions costs that were preventing the fair allocation of resources as
+much as the initial allocation._  
+  
+There are many problems with this sweeping conclusion that Coase and most of
+his followers have drawn from trying to reconcile the false Theorem with
+observable reality. Besides the logical problem that this conclusion is
+derived from a false premise, another huge problem is that it sweeps a very
+wide variety of costs under a rug labeled "transaction costs." It suggests an
+analogy between any of these costs and broker's fees (that's where the phrase
+"transaction cost" comes from), and that perhaps some innovation in bargaining
+like computerized trading is all that is required to lower any such cost.
+Nothing could be further from reality.  
+  
+Coercion in particular is in no useful way analogous to a broker's fee. If the
+broker's fee is too expensive, the trader simply declines to trade. Extortion
+is a paradigmatically quite different kind of deal -- it changes the
+transaction from positive-sum to a negative-sum. There is no option for one
+party to decline a transaction that the party finds to be too expensive.
+

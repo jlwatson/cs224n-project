@@ -1,0 +1,50 @@
+BTW, credit where due dept., E.A. Wrigley and Eric Kerridge developed many of
+the ideas I am discussing (Wrigley in at least a broad way wrt horses as a
+source of farm work increasing farm labor productivity, Kerridge wrt progress
+in pre-18th-century farming techniques) and wrote about it in their own way.
+Clark, Overton, and many others have studied versions of the Malthusian real
+wage (or per capita nutrition) vs. population graph. Langton studied the slow
+substitution of horses for oxen in late medieval England and remarked on the
+benefits of horse transport in expanding trade. I seem to be the first to have
+recognized the lime/horse/coal virtuous cycle and the monotonic increase in
+Britain's Malthusian isocline after at least 1260. The convential wisdom is
+lack of clear progress before 1800 and magical transformation to rapid
+progress after that time, resulting in a quixotic search for a magic bullet at
+the end of the 18th century. But that comes from looking at too short time
+intervals, which when plotted look like noise. To see the monotonic progress
+before 1800 one needs to look at 80-year timespans or longer to minimize
+exogenous natural variations in harvests (e.g. variations in weather and
+pests).  
+  
+J. Thomas' comment on Egypt is apropos. The Nile spring flood provides a
+number of crucial things. Water in a desert, obviously. But also good old NPK
+(nitrogen, phosphorous, and potassium). And possibly soil conditioning. As it
+happens, the Brits were clever enough to make their own little Niles:
+"floating the watermeadows", i.e. diverting early spring rain-choked streams
+and their effluvia into otherwise dry hay meadows with a sophisticated set of
+ditches: restoring NPK (on top of some nitrogen already being provided in the
+meadow by vetch or clover). And other interesting surprises. For example
+little known to researchers of the "agricultural revolution", who've searched
+in vain for a magic bullet around the magical year of 1800, they did indeed
+import a crucial fertilizer starting in the early 19th century, and of course
+the more well-known fertilizer imports at mid-century and thereafter, as well
+as inventing the first artificial fertilizers. But the Agricultural Evolution
+had a good head of steam far sooner than that. Probably even by the 15th
+century, judging by the movement of the isocline, although records about what
+specifically they were doing are alas rather poor until near the end of the
+16th. (Kerridge thinks most of it was invented in the 16th and 17th centuries,
+but some of that is probably selection bias -- that's when farmers were first
+starting to become literate and writing extensively about their farms).  
+  
+Speaking of Agricultural Evolution, another interesting development was
+breeding better horses based on the availability of unnaturally rich amounts
+of fodder. Thus, for example the gigantic draft horses: the Suffolk Punch,
+Shire Horse, the Norman Percheron (recall that Normandy was ruled by England
+during most of the late Middle Ages, or perhaps we could say vice versa since
+the Normans were the ruling class of England), and of course the Scottish
+Clydesdales now of Christmas beer-ad fame. Beer was indeed one of many
+products these horses hauled. That, AFAIK, exhausts the area of origin of the
+large draft horse breeds (please correct me if I've missed any), demarcating
+the centrality of Britain to the A.E. that pulled humanity out of the
+Malthusian trap.
+

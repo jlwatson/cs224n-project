@@ -1,0 +1,45 @@
+ _You got yourself a fully general counter argument to anything uncomfortably
+big_  
+  
+No. The asteroid threat as I discussed is probably _not_ a Pascal scam --
+because the probability is well-defined by very accurate and simple laws and
+measurable deviations from same. Whence accurate expected value calcuations
+for such threats, and we can do fairly straightforward observations to improve
+their accuracy. Similarly, lotteries with well-defined odds and payouts are
+not Pascal scams. These are two examples that have satisfied the burden of
+presenting the evidence for the odds and consequences they allege. They have
+successfully rebutted the presumption against alleged extreme consequences.  
+  
+The fine structure constant may well also fall into this good-evidence
+category, if we can e.g. accurately trace the consequences of randomly
+changing the constant to e.g. inability to form complex molecules via simple
+laws that have been very well verified empirically. (Of course, there's no
+good evidence that one can actually change the fine structure constant, so
+it's just an academic hypothetical, but I'm willing to consider it as an if-
+you-could-then-what thought experiment).  
+  
+Unfortunately, these neat and simple examples aren't typical. Most or perhaps
+even the vast majority of alleged extreme consequences that many people
+consider important are based on a far poorer quality of evidence.  
+  
+Indeed, my argument is far more about quality of evidence than it is about
+extreme consequences or long odds. It's just that long odds usually (but not
+always) tend to reflect poor evidence, and allegations of extreme consequences
+tend to focus people's attention on fears or hopes of such consequences and
+thereby bias them against demanding evidence or exploring evidence for other
+consequences. The result being that expected value calculations (including the
+ones our brains tend to do implicitly to judge the importance of an issue)
+usually work very poorly in these situations. We should therefore put a strong
+burden of presenting accurate (not merely precise) evidence on people alleging
+extreme consequences. Our rebuttable presumption should be that any
+particularly alleged extreme consequences won't occur.  
+  
+ _...there has been quite significant media bias against the warming in the
+country most contributing to the warming_  
+  
+Quite the contrary, media in almost any country generally has strong
+incentives to gain attention. To gain attention, they often talk
+authoritatively about extreme consequences while presenting little or no
+evidence, except for arguments from authority. We are supposed to believe it
+based on their authority. I am calling bullshit.
+

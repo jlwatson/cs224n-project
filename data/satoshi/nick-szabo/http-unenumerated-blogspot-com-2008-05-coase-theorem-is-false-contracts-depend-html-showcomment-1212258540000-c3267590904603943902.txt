@@ -1,0 +1,55 @@
+Michael: _Your proof...only holds for the scenarios in which the prior
+allocation of rights permits coercion._  
+  
+Of course, but as I observed, externalities are not readily separable from
+coercion. Externalities problems always come bundled with at least a small
+threat of coercion. (BTW the term externalities does apply _ex ante_ \-- the
+externalities problem already exists, either in actual act or in threat or
+both, and Coase is trying to solve the externality problem by contract). The
+assumption is even worse for anarcho-capitalists, who can't take for granted
+any sort of ambient property and tort law that magically causes coercion to
+vanish, as Coase seems to have done. The fact of the matter is that the
+assumptions of the Coase Theorem as it is commonly used, especially by
+anarcho-capitalists, contradict each other. Coase may have nominally or
+casually "recognized" this problem, but neither Coase nor any other users of
+this Theorem as far as I am aware have seriously addressed this problem or
+tried to resolve it. (Although I have been told that Friedman tried to tackle
+this problem in _Law's Order_ \-- I haven't read it -- if somebody would care
+to put forward any such argument I'd be happy to address it). Instead invokers
+of the Coase Theorem happily go on deducing their conclusions from a false
+theorem, usually in a context where coercion can be an important problem.  
+  
+Coase himself, after (as with George) observing the importance and ubiquity of
+transaction costs, did come to what I consider the proper theoretical
+conclusion, that the prior allocation should give the legal duty to the lower
+cost avoider of the externality. (i.e. the legal right goes to the party who
+would have the higher cost to prevent the harm). By lucky accident this also
+seems to solve the coercion problem, but Coase arrived at this good answer by
+bad reasoning. And neoclassical anarcho-capitalists depend on the false
+Theorem, not Coase's conclusion based on the ubiquity of transaction costs,
+for their argument that a legal system can be constructed from contracts.  
+  
+George: _The practical point would seem to be that if rights are cheaply
+transferable it's much more important that questions of right, once decided
+upon, are considered permanently settled than what the particular decisions
+are._  
+  
+Since this is a deduction from the Theorem, and the Theorem is false, I
+seriously question this conclusion, especially in the context of anarcho-
+capitalism and more generally the degree to which political systems can be
+established and maintained on a voluntary basis.  
+  
+While I quite agree that the permanancy of legal rights is very important, I
+also believe that even in the absence of transaction costs, when negotiating a
+contract the _ex ante_ legal rights matter, and deeply so, to economically
+efficient outcomes, because of the problem of coercion. Transaction costs and
+the problem of coercion are both important reasons that there is no "market"
+in legal procedure, nor any "market" in externalities unless in the case of
+the latter a sophisticated property and tort or criminal law already exists.
+To take another Coaseian example, private trade in radio spectrum requires
+criminal or tort laws that punish at least jamming, and often also lesser but
+known forms of interference as well, as well as monitoring (either private or
+public) to detect such trespass. Mere contracts negotiated against the
+backdrop of law (or lack thereof) that allows parties to jam each other will
+probably lead to very poor outcomes.
+

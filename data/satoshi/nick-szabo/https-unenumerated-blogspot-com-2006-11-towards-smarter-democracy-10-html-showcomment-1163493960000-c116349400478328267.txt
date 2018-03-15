@@ -1,0 +1,45 @@
+Gojomo, I suspect voting becomes mostly mindless pretty quickly, and most
+incentive is lost somewhere between the typical size of a jury and Dunbar's
+number (about 150). But even a few thousand voters provide far better
+incentive to vote well than a few million.  
+  
+Many ancient and medieval republics operated for a few centuries with a few
+thousand voters. But there was far more to these republics than voting.
+Informal and sometimes even formal bribery was widely practiced but there were
+extensive mechanisms to distribute power and separate duties to prevent abuse
+from getting out of hand. The experiences of Rome and Athens showed that this
+did not scale to the size of an empire.  
+  
+The U.S. was and is, and modern democracies are, historically unusual
+experiments in large-scale voting. Probably only widespread literacy and the
+cultural homogeneity that comes from being literate in a common language make
+it possible, and then only because most of the heavy lifting is actually done
+by (e.g. in the U.S.) inside-the-Beltway mechanisms and the checks and
+balances in our Constitution. We make a fetish out of elections but they are
+merely one checking mechanism, and actually among the minor and not very
+effective ones. The stuff you learned in civics class was indoctrination in
+our religious ritual of voting and doesn't have much to do with how the system
+actually works. (If there's enough interest, I can write up many the things
+I've learned about K Street and the like).  
+  
+However, the Constitution was designed for a very decentralized confederation,
+not for a vast national welfare state, and it's highly unlikely that it will
+survive for another two hundred years without some radical change in the
+meantime, which may involve returning to a decentralized confederation, a
+nightwatchman/franchise system of jurisdiction on the old English model, a
+contract-based system of arbitrators and security insurance, or some
+combination of these. Good law has seldom depended on good voting beyond the
+jury; that's a conceit of, and a fatal flaw of, modern legal positivism and
+our civic religion.  
+  
+Medieval Venice had a very interesting voting regime that alternated elections
+involving between 20 to 100 voters with lotteries, in about a dozen phases.
+This arduous process, which somewhat resembles a cryptographic cipher,
+guaranteed that bribers could not predict who would win, which greatly
+discouraged the corruption of elections.  
+  
+Mike, I agree that hiring is a better analogy than making a specific policy
+decision, but it's still the case that your typical employer puts far more
+thought, observation, interaction, and investigation into the typical hiring
+decision than does the typical voter.
+

@@ -1,0 +1,36 @@
+Great post, thanks! Alas, I won't have time to read your paper or respond to
+this in detail until August, but I've studied the history of the prerogative
+writs in medieval and Renaissance England, so I will make some observations
+much more informed by that than by what you have written.  
+  
+The origin of these writs is that they were property-based writs -- writs of
+trespass (e.g. prohibitio) and writs of right (e.g. quo warranto) for
+political property (esp. for the rights to hold franchises such as private
+courts and enforcement powers).  
+  
+You write: "contrary to current doctrine, these are not creatures of statute
+but fundamental rights that may not be constitutionally burdened"  
+  
+This will require an interesting argument, since in England and up to 1776 in
+the U.S. the prerogative writs were generally seen as the king's writs, and it
+is often assumed that some entity (variously argued to be the States or the
+federal government) inherited such prerogatives of the king if anybody did.  
+  
+But instead of just being the king's writs we can look on them as writs
+anybody who grants political property. Thus, for example, it would have been
+logically possible for the holder of a county palatine to issue analogs of
+these writs to their own franchisees (I didn't come across such a case, but
+then again I didn't search the records of the counties palatine).  
+  
+One might make a Wilsonian argument that "we the people", not any government
+entity, inherited these rights in the U.S. But it might cause great practical
+problems to change from the grantor being able to bring a political writ of
+right (quo warranto) to any citizen being able to do so. Also there were ways
+to plead for the king to issue e.g. a prohibitio, and it was all actually done
+by the courts, so one could argue that the court itself is the only state
+entity that needs to be involved. (besides the official being challenged by
+quo warranto). I wonder if there are any real cases along these lines, perhaps
+from the Revolutionary War era. It does sound like a very good idea in theory,
+to be sure, but it may be one of those grand experiments we want to try on a
+small scale first.
+

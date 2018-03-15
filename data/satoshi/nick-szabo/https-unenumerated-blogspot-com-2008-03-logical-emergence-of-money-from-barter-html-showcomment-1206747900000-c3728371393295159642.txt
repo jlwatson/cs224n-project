@@ -1,0 +1,61 @@
+ _Extending the coincidence-of-wants metaphor to include temporal
+conflicts..._  
+  
+A temporal conflict of the kind you described obviously implies a lack of
+coincidence. It readily gives rise to the need for an intermediate commodity
+rectify the lack of coincidence in a way that minimizes storage, transport,
+and mental transaction costs. It certainly seems quite useful to treat *any*
+non-coincidence, whether temporal or absolute, the same way if there is no
+compelling reason to distinguish them, as indeed there is not here.  
+  
+ _The point of the thought-experiment is to establish that even in the absence
+of transaction costs, there is another force for monetary standardization.
+Saying "but there are transaction costs, even in Nitropia" is like objecting
+to an explanation of the relativity twin paradox by saying that there are no
+spaceships which can travel at 0.9c._  
+  
+No, it's like objecting to an analysis of the twin paradox at 1.1c when an
+already stated assumption is that you can't go faster than 1.0c.  
+  
+What kinds of costs are "pain[s] in the butt" caused by lack of standards, if
+not transaction costs? I and many other economists use "transaction costs" as
+a catch-all category to refer to just these kinds of costs that are not
+captured by some more specific economic category of costs. However vaguely you
+did it, you invoked a transaction cost as one of your assumptions.  
+  
+All you have proven is that money can still be necessary in a world without
+two particular kinds of transaction costs, namely storage and transport costs.
+That doesn't prove anything about whether money would arise without
+transaction costs generally.  
+  
+Indeed, quite clearly we would not need money if we could barter in a
+perfectly efficient market, i.e. a market with no costs or "pain[s] in the
+butt" of any kind.  
+  
+In any case, I did not make the idea of mental transaction costs up just now
+to try to dump on your gedankenexperiment. They really are central to
+explaining money. They were central to my now widely accepted explanation of
+why micropayments generally fail. They correspond quite closely to your vague
+reference to "pain[s] in the butt" caused by having to track prices in
+multiple currencies. Which is why I brought this assumption out into the open
+and formalized it in terms of mental transaction costs being, even in the
+absence of storage and transport costs, sufficient for the emergence of money.  
+  
+In other words, it's just not the case that in *any* market money is needed or
+will arise. It requires what you call the "pain in the butt" or what I call
+signficant enough mental transaction costs to warrant it. Indeed, as I've
+described it may be possible in some cases to use computers to minimize to
+insignificance the "pain[s] in the butt" caused by multiple prices, and thus
+create barter markets in which money is not needed.  
+  
+Indeed, this almost surely actually happens in certain narrow ways in the
+computerized arbitrage that occurs in modern commodity markets. Furthermore,
+the value of money in reducing mental transaction costs, storage costs, and
+transport costs also explains why the price of a commodity used for one or
+more of these monetary functions, including obviously gold but also
+importantly most other commodities that can be traded with low transaction
+costs, is often far higher than the price that would be predicted merely from
+the industrial supply and consumption demand for that commodity. This is of
+basic importance in, for example, explaining the prices on modern commodity
+markets, as I explain here.
+

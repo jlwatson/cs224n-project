@@ -1,0 +1,6 @@
+Each half covers four hours. The top half covers eight half-hour intervals and
+the bottom half covers four one-hour intervals. So far two hours have elapsed.  
+  
+The bottom half shows the speed was six knots the first hour and eight and
+one-half knots the second hour. (The bottom right peg shows the fraction).
+

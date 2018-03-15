@@ -1,0 +1,43 @@
+anonymous: "users have no way of knowing how many tokens have actually been
+issued (by the bank inflating the tokens, or the key being stolen)."  
+  
+This is quite true for digital cash as described in the cryptographic
+literature, and as it has been implemented in ecash and lucre, and AFAIK as it
+is still currently implemented. The issuer and clearer (in my terminology a
+"mint" or "bank" is divided up into two potentially separate entities, the
+issuer and the clearer) are trusted third parties, which means that they are
+security holes that must be closed by means outside the digital cash protocol
+itself.  
+  
+For digital cash or other blinded bearer certificates to be ecnomically viable
+users have to get value out of the system, in terms of satisfying their
+preferences for private and irreversible transactions, faster than the rate
+inflation. There are, short of the stronger methods addressed below, but just
+within the single-issuer/single clearer paradigm, ways for third parties to
+audit the issuer and clearer and track the rate of inflation simply by posing
+as customers or gathering sampling information from customers. This reputation
+system puts a practical limit on the expected rate (or risk per unit time) of
+inflation but is admittedly an inferior solution to those named below. Also
+digital cash could piggyback on the reputation and gold redemption windows of
+the gold currency issuers -- it would thereby be protected against inflation
+to the same extent that the current insecure (in terms of privacy and
+reversibility) gold currencies are protected.  
+  
+anonymous: "engineering cannot solve this problem"  
+  
+That's a preposterously strong claim given that you don't provide any evidence
+for it, much less the proof you would need to actually demonstrate it. In fact
+there are a number of candidates solutions. Google the following: "quorum
+systems" (or just Byzantine replication generally), "secure property titles",
+"remote attestation", "bit gold".  
+  
+Bit gold, for example, can be tied to digital cash through a redemption
+window, as per the old free banking note issue and redemption system. As long
+as the window keeps working users can have substantial confidence that the
+system is working -- the temporal window you pointed out becomes much longer.  
+  
+Remote attestation and Byzantine replication are alternative and complementary
+ways to distribute issuers and clearers and force them to run publically
+verifiable code, so that a single clearer or even a small conspiracy of
+clearers can't undetectably inflate the currency.
+

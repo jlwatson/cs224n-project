@@ -1,0 +1,56 @@
+Let's look at the full language:  
+  
+"The right of the people to be secure in their persons, houses, papers, and
+effects, against unreasonable searches and seizures, shall not be violated,
+and no warrants shall issue, but upon probable cause, supported by oath or
+affirmation, and particularly describing the place to be searched, and the
+persons or things to be seized."  
+  
+Compare this to the Takings Clause of the Fifth Amendment:  
+  
+"... nor shall private property be taken for public use, without just
+compensation."  
+  
+One could interpret the Fifth Amendment as saying that it's OK for the federal
+government to take private property for private use without compensation.
+Instead, the modifier "for public use" implies the government has no power to
+take for private use whether just compensation is given or not. Similarly,
+"...no warrant shall issue except..." implies that no searches, reasonable or
+otherwise, may be conducted without a warrant.  
+  
+The requirement of a warrant is there to insure that an independent entity can
+check to make sure the search is "reasonable." The language "particularly
+describing the place to be searched, and the persons or things to be seized"
+forces the searching party to articulate their reasons for the search and
+allows the independent party to review those reasons. That is how rational
+human beings determine whether searches are "reasonable."  
+  
+Like many other laws that protect human rights, there is a procedural
+component and a substantive component to the Fourth Amendment, both of which
+must be satisfied. Take away either the procedural or the substantive
+requirement and you take away a crucial freedom.  
+  
+That the above interpretations of the Search Clause and the Takings Clause are
+proper interpretations is reinforced by the main canon of construction for the
+Constitution, the Ninth Amendment:  
+  
+"The enumeration in the Constitution, of certain rights, shall not be
+construed to deny or disparage others retained by the people."  
+  
+Customs searches are quite distinguishable from the federal government
+secretly spying on international phone calls to or from the United States
+because (1) customs searches at ports of entry are an ancient police power,
+which long predates the United States and which was never abolished by the
+United States as a violation of the Fourth Amendment, (2) the person to be
+searched has notice, and (3) customs searches are not conducted in secret, so
+the person searched has a chance to inform the public about them and to obtain
+legal redress for an unreasonable search.  
+  
+Without such procedural protections the Fourth Amendment would be a sham. For
+example, if the NSA is actually also spying on domestic-domestic calls without
+a warrant, which I hope even anonymous would agree would be blatantly
+unconstitutional, there would be no opportunity for the victim to obtain
+redress in court. The procedural requirement, the warrant, is necessary to
+give substance to the substantive requirement, that searches be reasonable.
+Otherwise the Fourth Amendment is just a cruel joke.
+

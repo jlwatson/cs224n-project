@@ -1,0 +1,20 @@
+Errata (sorry for the sloppy off-the-cuff writing):  
+  
+Last sentence in 2nd-to-last paragraph in my comment above should read
+"...partial (but not preferred) use of arsenate in arsenic-heavy
+environments..."  
+  
+In first paragraph, "So they haven't proven that phosphorous in at least some
+necessary molecules is irreplaceable" should read "So they haven't proven that
+phosphorous in in all necessary molecules [that contain it] is replaceable".  
+  
+I should add paranthetically, for readers who have forgotten their periodic
+table, that arsenic is just below phosphorous on the table and thus functions
+in much the same, but not identical way. For example it forms arsenates that
+behave similarly but not identically to phosphates. They can generally be
+taken up into biomolecules normally based on phosphates but the resulting
+functions of those molecules are normally different enough to degrade the
+organism to death -- the bacteria tested in this study being an exciting
+exception, probably due to currently unknown chemistry in the cell modifying
+the pertinent biochemical reactions.
+

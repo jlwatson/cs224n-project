@@ -1,0 +1,27 @@
+Another interesting possibility, BTW, is that the experiment itself actually
+_bred_ an arsenate-using bacteria, and the unmutated bacteria in the wild
+doesn't actually use much arsenate -- it just tolerates some contamination of
+phosphate-based molecules with arsenate while generally using the more
+abundant and functional phosphate. Since Mono Lake is still more abundant in
+phosphate than arsenate (just much less so than normal environments), this
+would make sense and we'd have to discover a very rare (at least) environment
+where arsenate is actually much more abundant than phosphate to see a bacteria
+that actually evolved to be dominated by arsenate rather than phosphate in the
+wild.  
+  
+One could also sequence the genomes of the wild and the post-experiment
+strains and see if there have been relevant mutations to see whether the
+experiment included breeding a merely arsenate-tolerant bug to be (presumably)
+functionally dominaed by arsenate.  
+  
+Even if Wolfe-Simon bred the arsenate-dominated strain in the process of the
+experiment, the fact that such an organism is even possible to breed is just
+about as important as if it actually can act arsenate-only with the genetic
+code it has in the wild. The main discovery if it stands is that arsenate-
+dominated function is possible, and whether one has to breed it or whether it
+occurs completely in nature is a secondary issue. Obviously if the experiment
+can be repeated achieving this organism doesn't require major genetic
+manipulation, just at most mutation(s) probable in lab-sized populations and
+thus probable in nature if there actually exist any arsenate-dominated natural
+environments.
+

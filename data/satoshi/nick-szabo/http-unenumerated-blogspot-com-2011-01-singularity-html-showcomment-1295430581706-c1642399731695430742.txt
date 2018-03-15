@@ -1,0 +1,42 @@
+Zach K, we should be highly suspicious of these Pascal Wager type scenarios:
+very high payoffs or costs with very low probabilities. One of the problems is
+that a probability some people guess at 1% could almost as easily be 0.001% or
+1-millionth of 1% or even smaller. All of those are well within the margin of
+error of what we know about "general intelligence", namely extremely little,
+assuming that it is even a coherent idea. One can make up an infinite number
+of futuristic scenarios with extreme outcomes not ruled out by the laws of
+physics. That doesn't make any of them significantly probable, indeed the
+average probability of these infinite number of disaster scenarios is
+indistinguishable from zero. Worse, vague claims such as those about AGI are
+unfalsiable and thus fall outside the world of testable scientific discourse.  
+  
+In other words, just because one comes up with quasi-plausible catastrophic
+scenarios does not put the burden of proof on the skeptics to debunk them or
+else cough up substantial funds to supposedly combat these alleged threats. We
+would end up spending an infinite amount of money (if we had it) pursuing
+scenarios that each have an average probability of practically zero. As with
+more probable scenarios, the burden of proof is on the people asking for money
+to show why they need it.  
+  
+When probabilities are so uncertain it is worse than useless, it is false
+precision, to throw out numerical probability estimates. The focus has to be
+on the _assumptions_ we are making. My article above is an in-depth
+exploration of many of the assumptions surrounding  "The Singularity" and AGI.
+Both economic considerations (the extreme division of labor that makes up the
+high-tech economy and the resulting hypersavant/hyperidiot/hyperspecialized
+computing systems) and evolutionary/knowledge considerations (the extreme
+difficulty and indeed probable practical impossibility of emulating the
+evolved and analog brain on a designed and digital computer) strongly suggest
+that the AGI/Singularity scenario is highly implausible. The burden of proof
+is on the catastrophists to show why this standard economics and
+straightforward distinction between evolved brain and designed computer
+doesn't apply before their claims can be taken seriously.  
+  
+Is for SIAI, or any other such organization, they can hardly "make sure" or
+even make significant positive differences about anything in these extremely
+uncertain areas. Vague theorizing about alleged hypothetical future "AGI"
+(which, by some mysterious power, not actually specified as an implementable
+algorithm, is somehow much more powerful than very general techniques that
+actually work such as evolutionary algorithms) is probably at best useless and
+at worst misleading.
+

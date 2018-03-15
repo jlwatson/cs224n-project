@@ -1,0 +1,11 @@
+Yet another idea: use the Bitcoin code to implement secure property titles.  
+  
+Secure title registries will be used to register ownership of names,
+name/address bindings, bit gold (solution bits to proof-of-work challenges),
+and anything else that can be represented as bits and whose ownership needs to
+be securely agreed to across trust boundaries according to a securely agreed
+and followed set of rules for claiming (homesteading), transfer, etc.  
+  
+There is a similar but more specialized project, namely Dot-Bit and namecoin,
+to implement a secure DNS.
+

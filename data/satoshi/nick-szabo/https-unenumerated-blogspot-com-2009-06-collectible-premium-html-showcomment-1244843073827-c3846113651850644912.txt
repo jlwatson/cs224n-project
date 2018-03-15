@@ -1,0 +1,49 @@
+ _I believe the stocks to flow ratio is the lowest for gold of all commodities
+(except perhaps oil, if you count oil in the ground as stocks)._  
+  
+To some extent we should count below-ground stocks of other minerals too. It
+depends on the ratio of below-ground to above-ground storage costs and on
+extraction costs. With stable property rights (broadly speaking, including
+stable politics where ownership is nationalized), below-ground storage costs
+can be quite low for a wide variety of minerals.  
+  
+ _let's estimate that the current aggregate demand for collectibles is spread
+25%, 25%, 25%, 25% among dollars, housing, stocks and gold. Moldbug's point is
+that if the government ran a sound monetary policy, the collectible premium
+would end up being something more like 90% 3% 3% 3%._  
+  
+If we knew for certain that the expected future inflation of the dollar was
+zero forever, the collectible premium on everything except the dollar,
+including gold and silver, would fall to zero. Since gold's price is almost
+all collectible premium, its price would fall to probably less than ten
+dollars an ounce. As inflation expectations fall towards zero the price of
+gold thus falls more, not less, than other commodities.  
+  
+Since we can expect future dollar inflation to be nowhere near zero, it pays
+to diversify one's investment amongst a diverse portfolio of inflation hedges
+-- precious metals, commodities, housing, etc. -- diversifying away a wide
+variety of non-inflation risks while protecting against inflation. If
+particular collectibles go in and out of fashion, it pays to arbitrage the
+eventual convergence by heavier weighting in the currently less popular
+collectibles. If people behaved rationally, there would not be any change from
+the 25%/25%/etc. starting point -- every asset that fully hedged against
+inflation would maintain the same collectible premium. (An asset that was a
+less good hedge against inflation, as I believe is the case with stocks, would
+of course rationally carry a lower collectible premium, as would an asset with
+less favorable tax treatment, so there would be divergence for these reasons).  
+  
+Note that the main collectible function people are seeking here is store of
+value. If people were seeking an alternative medium of exchange, gold's lower
+storage and transport costs could make more of a difference and Moldbug's
+argument would have more weight. But with ETFs that can be readily converted
+into dollars, the historical advantages of gold's low storage and transport
+costs disappear: commodity ETFs and their derivatives (e.g. bank notes that
+could be exchanged for them), if it were legally encouraged instead of
+discouraged, would make a great medium of exchange, but being able to readily
+convert back and forth between ETFs and dollars is good enough for store-of-
+value purposes.  
+  
+I quite agree with your comments that different tax treatments are important
+in helping set different collectible premiums, albeit I wonder if one could
+extract this as a separate demand component, a tax treatment component.
+

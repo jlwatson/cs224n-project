@@ -1,0 +1,22 @@
+nazgulnarsil, it doesn't readily come to my mind what conflicts of interest
+miners might have with other stakeholders (which I tend to think of as
+holders, creditors, and debtors). What biases on their part did you have in
+mind? Current Bitcoin or bit gold holders do have a bias towards deflation.
+Albeit this historically has not been as big a problem as inflation, they and
+creditors do have a conflict of interest with debtors.  
+  
+Your objection does suggest to me an interesting possible improvement in the
+Byzantine agreement security. Instead of, or in addition to, the Byzantine
+"voting power in case of civil war" going to those proving work (i.e. the
+miners), require that participants sign challenges with their ownership keys
+to prove they own solution bits. The behavior of conflicting sending nodes,
+when the receiving node can't otherwise distinguish between correct and
+incorrect behavior, then gets weighted by the value of solution bits owned by
+said sender, either par or market, or similar. With such method one would have
+to own most of the money in circulation, rather than just most of the mining
+power, to corrupt the system (i.e. to successfully attack the subset of
+features that only have a Byzantine rather than cryptographic level of
+protection). This would discourage anonymity since doing these signatures and
+verifications over many keys would get computationally intensive, but I don't
+think strong anonymity is a feasible property in bit gold or Bitcoin anyway.
+

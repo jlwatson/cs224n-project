@@ -1,0 +1,28 @@
+anonymous: "Alice commutatively merges N many documents and after the
+signature is applied removes different sets of N-1 of them to recover N signed
+docs."  
+  
+I don't personally know the answer to this -- perhaps a fellow reader who has
+kept closer track of the cryptogrpahic literature than I can chime in. I am
+confident that almost any of the dozens of cryptography scholars, and almost
+surely Chaum himself, who have tried to break digital cash, anonymous voting,
+blinded credentials, and other protocols based on blind signatures that have
+been developed over the last 20 years have thought of this kind of attack, and
+if it is actually a problem have figured out solution(s) to it.  
+  
+BTW, I don't recommend you go out an implement digital cash simply based on my
+description. For one thing, there are already open source public-domain
+implementations out there done by experts in the field such as Ben Laurie. You
+should either reuse them or at least learn from them before doing your own.
+For another, my description is meant to be an introductory/beginner
+demonstration, not a complete blueprint for implementing secure blinding. The
+purpose of the article is to alert people to the existence of this protocol
+and give them some of the basic information they need to understand the
+literature or to understand the basics of how blind signatures work if they
+are looking for a privacy solution. The next step is then to either use an
+implementation done by an expert in the field (for example, Ben Laurie's
+lucre) or to become knowledgeable yourself, if you are mathematically minded,
+by reading some of the copious cryptographic literature on blinding. You
+should not go implement the sketch I have given here and call it secure based
+on my authority.
+

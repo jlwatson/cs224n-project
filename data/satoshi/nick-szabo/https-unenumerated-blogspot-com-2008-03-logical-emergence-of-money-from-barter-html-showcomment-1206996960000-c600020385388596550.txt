@@ -1,0 +1,54 @@
+ _I constructed an unrealistic world in which transaction costs are
+negligible_  
+  
+You did no such thing. As a quite necessary assumption of your analysis you
+introduced as one of the properties of Nitropia a vaguely worded "pain in the
+butt", which more thoughtfully put is the problem of keeping track of prices
+in multiple currencies or barter, a part of mental transaction cots. As I have
+described, these mental transaction costs give rise to the need for money.
+Burying such assumptions and later ignoring them leads to lack of
+understanding.  
+  
+To repeat myself quite clearly: in a perfectly efficient market, in other
+words in a market where transaction costs are negligible, there is no need for
+money. Your account, utterly dependent on an assumption of mental limitations
+which quite clearly create a cost of transacting, and thus falling far short
+of describing the economists' perfectly efficient market, does quite the
+opposite of disproving this claim. Indeed, my critical analysis of your
+account reconfirms it.  
+  
+ _Whereas gold is used nowhere, or at least hardly anywhere, as a Mengerian
+medium of exchange. Yet it retains a monetary premium, or at least seems to,
+which is the effect I sought to explain._  
+  
+I don't recall that you succeeded in describing how gold is now used, as a
+store of value and as a transaction hedge (the latter being a kissing cousin
+of use as a medium of exchange). As are many other commodities during times
+when major fiat currencies are being inflated, as I have described.  
+  
+As for why gold itself is not used more often directly in contracts, the
+primary reason is almost surely legal. The UCC and common law in the US, and
+to a lesser extent CISG and its cousins internationally, have rules that tend
+to assume the standard transaction is an exchange of goods or services for
+government-issued money. Barter, which use of gold in a contract would for
+most legal purposes be considered to be, puts transactions in often often
+obscure legal categories and often leads to strange legal results. Negotiable
+instruments "denominated" in gold usually cannot be enfored in the same ways.
+Domestically, large-scale barter often encourages tax audits. The lowering of
+currency exchange barriers has eliminated much of the old practice of barter
+in international trade.  
+  
+Another probable reason is that for reasons of accounting stability companies
+tend to favor contracts in currencies in which most of their other credits and
+debits are denominated.  
+  
+The result is that contracts are made in fiat government currencies, in order
+to take advantage of standard commercial laws and keep accounts stable. Where
+the currency inflation risk over the lifetime of the contract is high enough,
+as it often now is, and the currency risk of assets on the books is not
+already hedged by liabilities, gold (and many other exchange-traded
+commodities) are used to hedge the risk. Exchange-traded commodities,
+especially those with less elastic supply curves over the lifetime of the
+contract, are thus, in times of inflation, indirectly used as a medium of
+exchange.
+

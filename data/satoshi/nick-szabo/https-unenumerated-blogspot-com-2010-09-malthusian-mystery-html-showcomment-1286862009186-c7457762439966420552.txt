@@ -1,0 +1,56 @@
+Leonard, thanks for the thoughtful and though-provoking comments. I tend to
+think of emigration as a Malthusian equivalent to plague, and the 17th century
+emigration was about 1/7th the percentage of the 14th century Black Death.
+What generally happens in a plague or emigration is to slide up the Malthusian
+isocline (i.e. less population and higher per capita income).  
+  
+If there is a "brain drain" that might regress the isocline itself, as could
+short-term disruptions to various relationships and institutions, but I
+suspect such effects are generally short-term. In the short-term the isocline
+can regress and progress quite rapidly due to temporary outbreaks of crop or
+livestock diseases, poor weather, etc. so it's very hard to track any
+underlying progress or regress before the British breakout era except over
+long periods. I have created a graph (this time directly calculated from
+statistics) that by using 80-year chunks smooths out most weather and pest
+problems and as a result demonstrates non-regressing progress from each
+80-year interval to the next from 1200 to 1900 -- including through the Black
+Plague. (The plague radically changes the position on the isocline of course,
+but the isocline itself is still above and to the right of the prior).
+Contrast to Clark's graph that jumps all over the place before the 1800s --
+the difference is that he's using 10-year intervals that are dominated by
+variations in harvests due to weather and pests.  
+  
+There are records of food exports and imports. Up to the 18th century they
+tended to export food, but not much. More importantly Britain exported lots of
+wool and goods made out of native wool, an activity that consumed considerable
+pasture. Food imports weren't significant until the late 1840s and not
+substantial until late in the 19th century. My focus tends to be on the period
+1500-1840 where one can see unprecedented progress leading to breakout while
+Britain was fully self-sufficient in food. (There was a very interesting
+import earlier in the 19th century, not of food, but...but I shan't give out
+more spoilers :-)  
+  
+You are getting very warm with your comments about horses. I've got a ton of
+half-written stuff that covers these kind of ideas that I hope to finish and
+post in the upcoming months. I better get them finished before you post them
+first. :-)  
+  
+The best way to judge progress is by comparing to what came before, not what
+came after. A number of technologies that seem entirely mundane or obsolete to
+us were revolutionary in their day, and often as or more revolutionary than
+the celebrated ones (e.g. steam). For example the reclamation of 1/4 of the
+land -- it seems like a small growth rate to us, and quite tame compared to
+the settlement of the U.S., but compared to prior history expanding into and
+improving so much marginal land (a far harder thing than pioneering very good
+land in the American Colonies) in so little time was unprecedented. Most of
+this was land that had been pasture or waste for several thousand years of
+agricultural history and now in the space of a century they're all over it,
+and even more spectacularly pioneering marginal land without reducing overall
+yield per acre or labor productivity.  
+  
+So my strategy has been to put aside (but not discard) the celebrated
+"revolutions" and focus rather on the humble things that actually made the
+biggest differences down on the farm. Many of the most important revolutions
+took place in the sticks, out of the radar range of the people who wrote the
+histories.
+

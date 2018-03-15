@@ -1,0 +1,30 @@
+fred, you're right, thanks for the correction and for the clear specification.
+For the weekly changes I get .25, which is considered to be at the high end of
+small positive correlations, vs. the .93 for the overall 8-year price
+movement.  
+  
+Interestingly as the time periods grow longer the correlation tends to grow.
+For 20 week deltas (that is the week t price - the week t-20 price, repeated
+every week) the correlation is 0.34. For the 40 week deltas the correlation is
+0.64. (This is admittedly on data that has been adjusted to reflect a secular
+fundamental 0.9%/year inflation in the gold price of oil as described above,
+but I doubt this makes a huge difference at 40 weeks).  
+  
+I tentatively conclude from this that non-monetary (probably fundamental)
+factors tend to outweigh monetary factors for shorter term price movements,
+but over longer periods (roughly 40 weeks or more) monetary factors tend to
+outweigh other kinds.  
+  
+BTW your statement "Show me any two series that increase over time and I'll
+show you a correlation greater than 0.9" is a bit exagerated. I've just done
+some experiments with random walks based on the same function, x1 = x0 +
+rand()/100 + rand()/120, that is more likely to increase than decrease at each
+step (and I threw out sample sets that didn't end up increasing overall, which
+usually had negative correlations). Here are the correlations coefficients I
+got for the pairs of such series that both increased: .64, .81, .75, .91, .74.
+.87, .81, .72, .76, .91, .83. So .93 is at the outer range rather than near
+the mean of what one would expect from pairs of increasing random walks.
+Besides which, one also has to explain why both gold and oil are both
+increasing over the long term in the first place, and again the answer is
+monetary.
+

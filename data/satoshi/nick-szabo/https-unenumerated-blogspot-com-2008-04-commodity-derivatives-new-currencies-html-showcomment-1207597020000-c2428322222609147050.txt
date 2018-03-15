@@ -1,0 +1,100 @@
+george weinberg: _I'm not convinced that money is a natural monopoly. Even if
+everyone used the same denomination of money in a region (say, money is
+measured in ounces of silver) it's quite possible that people would accept
+coins from multiple mints just as they accept checks from multiple banks._  
+  
+One can simply observe the history of coins to see that governments have
+generally come to dominate coin issue. I estimate, and challenge anybody to
+prove me wrong, that over 99% of the coins found in archaeological sites,
+since the very beginning of coin history, were minted by an entity closely
+associated with dominant tax collectors. You have to explain how your modern
+minter can avoid this fate, without invoking improbably libertarian
+governments.  
+  
+Coins used directly as money are now silly. Even before e-commerce coins were
+considered too bulky and insecure and were largely replaced for serious
+transactions by negotiable instruments, both bearer and non-bearer, more or
+less (often less, even in private banking) backed by gold or silver.  
+  
+Thieves, pirates, highway robbers, and government confiscation were endemic
+before the rise of paper notes which can be hidden much more easily, and non-
+bearer negotiable instruments which can't readily be passed by a thief.  
+  
+Coin issue relied on trust and reputation and almost always started as or soon
+became a monopoly associated with the dominant tax collector. Without
+continual assays of coins a level of indirection based on trust and reputation
+is introduced. Once one introduces yet another level of indirection, whether
+of paper or bits, one introduces even greater reliance on trust and
+reputation. These cannot be standardized short of a monopoly issuer, but vary
+greatly from issuer to issuer. A one gram silver note from one issuer may be
+worth much less than a one gram silver note from another. Risk can be
+arbitraged, but moral hazard cannot be eliminated, and it's a big source of
+transaction costs in fractional reserve banking. (And if you insist on 100%
+reserves, that's an even bigger source of transaction costs).  
+  
+(There's a possible future exception to many of the above claims, namely bit
+gold may be secure as bits with minimal reliance on trust and reputation).  
+  
+Another more subtle problem, but perhaps an even a bigger problem, is that any
+single commodity is far from an ideal store of value, because neither a
+monopoly issuer nor a modern market can credibly commit to maintain a single
+standard for a very long period of time. As James Donald well observes,
+"Wherever one authority gained dominance, the definition of a dollar quietly
+changed." Modern markets can't credibly commit, OTOH, because they are
+decentralized and it's not economically rational to make such a commitment
+when one can invest in a diversified portfolio of commodities and deliver
+legally reliable commodity futures, based on commodities stored at the
+warehouse of a third party, at the redemption window.  
+  
+Since trust is limited, and thus the degree of fractional reserve limited,
+standardizing on a single commodity will create vast demands for that
+commodity, driving the price through the roof. The vast majority of its value
+will be based simply on using it as a standard, and any change of standards to
+another commodity will cause the price of the former standard to plummet. The
+mere long-shot risk of an imminent change of standards will generate great
+volatility in the standard's exchange value versus other commodities. Thus,
+quite ironically, using a single commodity as a standard makes that standard
+very risky as a store of value, unless one can credibly commit to maintaing
+that as a standard for decades to come. Nobody can do that, especially where
+one has monopoly or near-monopoly issuers or where mental transaction costs
+are low enough (as the are on international currency and commodity markets) to
+maintain portfolios diversified across currencies backed in many different
+commodities.  
+  
+Diversification is a huge win, both for one's own portfolio and for overall
+economic stability, and we can be certain that smart investors with computers
+and electronic markets will take full advantage of it.  
+  
+Gold and silver, and even better the most valuable gemstones, do have
+advantages where physical delivery is required, for example a redemption
+window where one can redeem gold notes for actual gold, But with a reliable
+legal system, one simply delivers legal rights in the form of paper or bits --
+this is vastly cheaper than any physical delivery and is the same cost for any
+commodity. Without a reliable legal system, there is no guarantee that a
+redemption window based on either commodity futures or precious metals will be
+secure. (Again, bit gold might provide an exception to this. It makes possible
+a secure and cheap redemption window that doesn't rely on a legal system to
+function).  
+  
+A diversified basket of commodities is far more secure, especially commodities
+that have a "floor" value that comes from consumption demand rather than just
+demand as money. Thus, gold and silver are for the most part the _worst_
+standards for modern markets to use, and we have observed and can expect them
+to exhibit both a high volatility and a slow long-term decline in value
+relative to other commodities as long as modern markets remain reliable. (The
+only exception is an improbable political disaster that makes electronic and
+paper instruments, including commodity futures, insecure but somehow allows
+precious metals to be used securely).  
+  
+There is also an important practical consideration: gold and silver that are
+not issued by governments as official currency are _not_ money according to
+the UCC and many other legal codes. e-gold and other commodity-backed systems
+that function as money are caught between a rock and a hard place --
+considered "money" for the purposes of money laundering regulations, but not
+considered "money" under standard contract and other commercial law such as
+the UCC. They (to greatly oversimplify a wide variety of regulations,
+precedents etc. as usual when discussing law) get most of the burdens of the
+law while getting few of the benefits of the law. Changing this would take a
+vast lobbying effort and a change in the political wins that strikes me as
+quite improbable.
+

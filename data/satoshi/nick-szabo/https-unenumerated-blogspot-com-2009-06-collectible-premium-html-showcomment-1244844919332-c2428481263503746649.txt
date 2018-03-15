@@ -1,0 +1,18 @@
+I wrote: _Also, it's very odd that a collectible premium would go down when
+inflation rises (1970s) and go up when inflation goes down (1980s and 1990s)._  
+  
+I just thought of a hypothesis to explain the odd dramatic movement in stock
+price/earning (PE) ratios with respect to inflation. (See the link to S&P 500
+percentage earnings, the inverse of PE ratio, that Devin pointed us to, here).
+The lower expected inflation, the more the better expected cash flow from
+stocks weighs against the better protection from inflation provided by
+housing, commodities, precious metals, and collectibles proper (art, antiques,
+etc.). So people over sufficiently long periods (e.g. the reaction is far
+quicker for commodities than for housing) alter their overall portfolios to be
+much more weighted in stocks and much less weighted in those inflation-
+protected assets. This gives stocks what we might call an "inverse collectible
+premium" that decreases as inflation expectations rise and increases as they
+fall. Thus stock prices don't keep up with inflation even if profits do, and
+stock prices perform disproportionately better as expected inflation falls
+towards zero.
+

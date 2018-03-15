@@ -1,0 +1,56 @@
+Mitchell, the idea that _any_ of Robin's Great Filter, even the tiniest
+fraction of a percent, lies ahead of us stems from a prime example of
+Bayesiology. It's intuitively appealing, but pure fallacy, to suppose that in
+a state of ignorance we deem more probable that we are somewhere in the middle
+of a putative distribution rather that at in a different phase where the
+distribution doesn't apply. To treat it all as one statistical distribution is
+pure Bayesiological superstition. We must look to actual evidence in the real
+world, not to Bayesiological "reasoning" about the the Drake Equation, to
+determine the likelihood of existential threats and other Drake factors.  
+  
+Several of the Drake factors are almost pure speculation, so that nothing
+useful can be derived _from_ calculating that equation. There's no significant
+information to indicate that _any_ of the Great Filter lies ahead of us, and
+much to indicate that it lies behind us.  
+  
+We can observe much about existential risk, the probability of various stages
+of life, and so on and we must focus on those realities to make headway. Your
+comment about "a sample of size 1", when we have vast complex biological and
+human histories to look to, suggests a basic approach that is Bayesiological
+rather than empirical.  
+  
+My estimate of >1 billion years comes from long thinking about real threats
+that have been purported to be existential (nuclear war, plague, nanotech, AI,
+and so on) and the (generally quite poor) reasoning that goes into such
+claims. Very consistently the existential threats of these things have been
+grossly exaggerated by popular culture, throwing popular intuitions very far
+off the mark. Instead of handwaving, why don't you actually propose an
+existential threat and let's analyze it?  
+  
+My estimate also comes from some basic reasoning about technological
+possibilities -- for example, the high probability of space colonization some
+time in the next 500 years, so that there is cosmologically only the tiniest
+slit of a window where we wield extensive technological power with all of us
+trapped with it on a single planet. Now, to understand this obviously requires
+far more than waving around intuitively plausible probabilities like some
+Bayesiologist, it requires that one must do some extensive thinking about
+space colonization, which I've done (I'm happy to supply links).  
+  
+Finally, our lack of observation of any artificial surfaces in the universe
+also gives a decent estimate of what the _answer_ to the Drake Equation should
+be, namely very small (probably much less than 1 civilization per galaxy).
+That is far more accurate than trying to calculate the answer to the Drake
+equation, because so many of the factors, such as the probability of the
+origin of life, the probability of going through various phases in the
+evolution of life, and so on are so highly uncertain.  
+  
+I'd also point out that your theories don't help SETI or METI/CETI much: if
+civilizations have such short lifetimes, or short windows in which we detect
+their radio, then the probability that they exist and can communicate at the
+same time as us is correspondingly lowered. (Another possible implication of
+short window where we can detect them is that they are trying to hide -- which
+strongly suggests that not learning from them and hiding ourselves, but rather
+using METI etc. to "shout to the cosmos", could as David Brin argues be
+extremely dangerous. In which case METI deserves far more condemnation than
+just being laughed at).
+

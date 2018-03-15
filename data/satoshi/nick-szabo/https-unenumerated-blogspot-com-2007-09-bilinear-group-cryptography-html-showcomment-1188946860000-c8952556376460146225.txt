@@ -1,0 +1,7 @@
+jojo: One basic difference is that when the proxy transforms Alice's signature
+into Bob's, the proxy does not have to be Bob. Another is that the setup
+requires cooperation between Alice, Bob, and the proxy during key generation,
+so that (depending on what out-of-band semantics is imputed to the signature)
+one can impute some kind of authorization or consent by the parties to the re-
+signing.
+

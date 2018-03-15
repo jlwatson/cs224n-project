@@ -1,0 +1,57 @@
+Daniel, I think your points on _respondeat superior_ on well taken, but I will
+have to punt elaboration to a future time.  
+  
+On laches, I should point out that I greatly oversimplified it in my short
+post (always a hazard when trying to summarize law) by equating it to statute
+of limitations. One point of difference important for our political analogy is
+that laches does not specify a fixed time. Statute of limitations do specify a
+fix time, but there is often a lot of wiggle room.  
+  
+Laches is generally based on three loosely defined elements. Usually all three
+elements must be satisfied, but one might also use them as factors to be
+weighed in a balance: (1) Plaintiff knew or should have known that he had been
+legally wronged, (2) plaintiff nevertheless delayed bringing a claim for an
+unreasonable time, and (3) defendant was materially prejudiced by the delay.  
+  
+Material prejudice might occur from prejudice to the defedant's case (through
+loss of evidence, witnesses, etc.) or from economic harm from the delay. First
+example of the latter: defendant, believing a property is his, maintains or
+improves property. Plaintiff, who believes and can prove the property was
+stolen from him, lets the defendant incur these expenses and then files suit
+for return of the property. Second example: dispute over employee stock
+options; plaintiff waits until the options vest "in the money", then sues
+claiming that the options were his and that he is entitled to all the gains
+from them. Plaintiff allowing the defendant to incur the economic risk, then
+suing upon success, is material prejudice to the defendant.  
+  
+On our political analogy, often simply being deprived of a specific property
+or political right one has gotten used to thinking of as one's own and
+enjoying, constitutes material prejudice. Also, the erorrs of interest rate
+and inflation adjustments grow exponentially with time, and any such errors in
+favor of the victims would cause material prejudice to the alleged wrongdoers.  
+  
+"Reasonable delay" is just place-filler that says one must go read the cases
+and analogize to argue whether the delay in a given new case was "reasonable."
+Time taken in negotiating with the defendant cannot be counted as part of the
+unreasonable period.  
+  
+Under our political analogy to the return of stolen property or political
+rights, or reparations, one could argue that if an aggrieved individual or
+group has frequently agitated ever since the wrong occurred to redress the
+wrong, then the amount of time considered reasonable should be much longer, as
+long as they keep agitating. They have not the legal maxim goes "slept on
+their rights." A related important idea is notice: the victims should
+periodically renew their claims so that the alleged wrongdoers are always on
+notice of their claim for reparations, or the return of stolen property, or
+the like. OTOH a political claim that has never been heard by the alleged
+wrongdoers until decades after the event is presumptively unreasonably.  
+  
+On adverse possession, it is considered a "legal" rather than "equitable"
+doctrine and is thus covered in the U.S. at least by statutes of limitations
+rather than laches.  
+  
+In summary, the main point of the laches analogy is to provide a set of
+principles for rational political argument about how much delay is reasonable
+for old claims for return of political rights, property, or payment of
+reparations. It's not about setting specific time limits.
+

@@ -1,0 +1,23 @@
+DN: "On high-end phones, it's around 500 milliseconds, which is still not
+quite "instantaneous", though already within the realm of acceptability. The
+reason is that the mobile industry "use their Moore's Law bounty to buy
+battery life", as Ian Grigg deftly puts it."  
+  
+That's an important point, but do these numbers take into account crypto in
+advanced mathematical algebras like elliptic curve, NTRU, etc? There can be an
+orders-of-magnitude speedup. Google tunrs up a number of blind signatures
+implemented in elliptic curves, for example this one.  
+  
+Algebras like elliptic curve allow shorter keys and/or less CPU-intensive
+crypto operations for the same strength than RSA and normal discrete-log based
+crypto. ECC was being used for cell phones ten years ago. There have been a
+variety of new algebras (fields, rings, etc.) used for crypto since Chaum
+invented blinding, and I would imagine (though I must admit the math is beyond
+me) that blinding can be made to work in most of them if not all. (I'm pretty
+confident that blinding can be made to work in any analogs of RSA or DSA, e.g.
+the elliptic curve analog of DSA as in the above-linked paper). Of course,
+some of these may still be patent burdened. (Although basic ECC and Chaum's
+blind signatures are both off-patent, and combinations of blind signatures
+with other mathematical fields seem obvious to me, especially where they are
+just analogs of RSA or DSA, but that is certainly not a legal opinion :-)
+

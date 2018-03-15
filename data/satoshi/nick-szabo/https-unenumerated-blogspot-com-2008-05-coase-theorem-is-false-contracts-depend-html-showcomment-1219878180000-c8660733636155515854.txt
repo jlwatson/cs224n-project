@@ -1,0 +1,15 @@
+In response to Douglas Knight: the term "transaction costs" was coined by
+analogy to a broker's fee: it is a cost one can decline to pay by declining to
+enter into the transaction, with no direct negative costs (only possible
+opportunity costs). OTOH coercion can be "an offer you can't refuse", or more
+generally has negative utility on the coerced whether he declines it or not.
+Coercion is a phase change, not a mere additive cost, and it is highly
+confusing and misleading at best (I think it is just plain wrong) to bury it
+under the rubric of "transaction costs", as if it was usefully analogous to a
+broker's fee, and then proceed (as many users of the Coase theorem do) to
+forget about its importance.  
+  
+Of course, if you define "transaction cost" as "any problem at all that might
+arise that would render the Coase Theorem false", then the Coase theorem is
+tautologically true: it is completely trivial and meaningless.
+

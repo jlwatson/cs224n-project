@@ -1,0 +1,16 @@
+gwern, that's a great point about selection pressures. Ultimately the question
+is a scientific one but at this point it's rather philosophical. Is evolution
+stuck in a certain basic design and can't get out of it for reasons of genetic
+distance? (e.g. for the same reason an alligator can't just mutate into a
+chicken, even though both forms are possible)? Or is it that it is simply
+impossible for life to exist anywhere without amino acids and phosphates? I
+doubt that anybody at this point knows the answer to that question.  
+  
+As for nutrient limits, you've made a good restatement of Liebig's principle.
+I should add that, except where evolution is "stuck", Liebig's principle
+applies only over the short term. Often in the long term evolution can evolve
+to reduce its use of given nutrients (e.g. as it adapted to land by using less
+water). But per the first paragraph there are limits beyond which life hasn't
+evolved -- we certainly never evolved to be as dry as the land environment
+around us, and we still all need carbon, nitrogen, and phosphorous.
+

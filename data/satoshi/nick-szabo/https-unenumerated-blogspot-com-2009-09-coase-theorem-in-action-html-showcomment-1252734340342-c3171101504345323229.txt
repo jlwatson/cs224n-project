@@ -1,0 +1,35 @@
+Eric, perhaps your summary was a bit too brief then. :-) I thought you
+expressed the close link between externality and coercion very well and that's
+what I was agreeing with. If I append the following two paragraphs to the end
+of your penultimate message whereof I spoke, I would agree with it (but it
+would contradict what you just said):  
+  
+The Coase theorem is false because it assumes voluntary transactions. (Whether
+this is part of the zero transactions costs assumption or a separate
+assumption, the assumption is there). But it also assumes that any prior
+allocation of rights is possible, including rights that allow one party to
+coerce another. These assumptions contradict each other, thus the theorem is
+false. I gave the example of the music store which demonstrates that it
+doesn't work in real-world situations as well. (One can also observe the
+behavior of mafias, governments, etc. to see that this is so: coercive
+relationships follow very different patterns than voluntary ones. The set of
+big differences between contract law and treaty law is another example of
+this). If externalities and coercion are equivalent, Coaseian negotiations
+can't solve any externality problems (except by coincidence -- i.e.
+negotiations won't have the outcomes they do for Coasian reasons).  
+  
+If externalities and coercion are not disjoint, then there are some
+externality problems Coaseian negotiation can't solve (i.e. ones that can also
+be coercive). Since I've shown it's easy to convert a mere externality into a
+coercion, and thus a Coaseian bargain into an extortionate one, by converting
+the mere Coaseian externality into a weapon, even with zero noncoercive
+transaction costs the ability of the Coase theorem to handle even such
+pedestrian externalities as sparks, pollution, noise, and so on is limited,
+and can at best only be used if additional steps (probably legal steps, as in
+tort or criminal law) are taken to eliminate coercive regimes (e.g. the music
+store turning up the volume more than it would have otherwise preferred, the
+railroad spending a bit extra to emit many more sparks, threatening people
+with guns, and so on).  
+  
+Not very snappy as a summary, alas.
+

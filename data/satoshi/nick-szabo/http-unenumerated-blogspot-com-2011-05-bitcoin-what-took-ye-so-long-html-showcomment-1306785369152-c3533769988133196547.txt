@@ -1,0 +1,36 @@
+Here is an example of how to implement a payment system based on bit gold and
+bit gold markets: if one wants the payment system for the masses to be in the
+form of scalable digital bank notes, issued by competing banks with securely
+auditable reserves, note-issuing banks can also play the role of the dealers
+as follows:  
+  
+(1) the bit gold market sets the different prices for the different periods,
+as before  
+  
+(2) banks own solution bits which being in the public replicated title
+registry are securely auditable  
+  
+(3) competing banks issue digital bank notes redeemable in solution bits whose
+market values add up to the face value of the bank note (i.e. they create
+bundles of standard value)  
+  
+So the auditing software in step (2) checks the market prices to compute the
+desired total values of solution bits. The bank software in step (3) goes
+through the title database to discover solution bits that add up to the face
+value of the note, and the bank client's software also checks the market
+prices of these bits to keep the bank honest.  
+  
+The note-issuing banks are a minimal intrusion of trusted third parties (TTPs)
+because they are securely auditable and the underlying assets are bit gold
+which depend on distributed Byzantine agreement and cryptography rather than
+singular TTPs.  
+  
+Notice BTW that we still don't need expressly represented accounts or
+balances. Any such is an optional add-on feature. The total value of what a
+key owns is implicit in the public title database but must be computed using
+the market prices of the owned solution bits.  
+  
+Those familiar with the free banking of yore will observe that the above is a
+pretty good analog of the banks that issued bank notes redeemable in gold
+reserves.
+

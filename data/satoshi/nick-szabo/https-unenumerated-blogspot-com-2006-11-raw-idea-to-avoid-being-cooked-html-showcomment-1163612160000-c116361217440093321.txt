@@ -1,0 +1,27 @@
+Joel, it's an interesting approach but I'm quite skeptical that one can make
+micron-thin textiles with sufficient tear resistance and the proper optical
+properties purely using lunar materials. It has to be tear resistant to be
+launched in a high-g regime from the moon and then be unfolded and assembled.  
+  
+"Fiberglass" used in textile-like materials AFAIK is a composite of glass
+fibers and organic polymers. If somebody knows of a reasonably cohesive,
+strong, and gossamer-thin textile made purely of glass or basalt fibers I'd
+love to be pointed to the specifics. And by "gossamer-thin" I mean that the
+textile itself is microns thick, not just the fiber. If it has to be 100
+microns rather than 10 microns thick that increases the mass required by a
+factor of a ten. And that's before factoring in that glass and basalt are much
+denser than Kapton, Mylar, or similar organic materials.  
+  
+Even if one can make good blinds of pure glass or basalt I'm also skeptical
+about the ability to manufacture them without extensive volatile inputs which
+are probably much too scarce on the moon. The glass is heated above 1200C
+(basalt 1400C) and one needs a way to cool the glass very quickly so that it
+will form the proper amporphous structure. One also needs to cool the
+machinery. These are tasks for large amounts of air (not pure oxygen, please!)
+or liquids. Ingredients for good coolant are probably not available in
+sufficient quantities on the moon. Air is also often used in other parts of
+the manufacturing process, such as air jets used to form fibers into a mat. To
+get air that is not very chemically reactive (e.g. nitrogen) you'd have to go
+to the comet or asteroid ice anyway: hauling such vast quantities from earth
+is almost surely far too expensive.
+

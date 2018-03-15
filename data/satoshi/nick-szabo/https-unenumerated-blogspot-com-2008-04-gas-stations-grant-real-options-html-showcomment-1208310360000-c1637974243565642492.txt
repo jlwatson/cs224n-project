@@ -1,0 +1,89 @@
+ _another depot within range means that your movement is bounded by how much
+fuel you can afford to buy -- so activity is increasingly defined by the
+marginal cost of staying in orbit, rather than the fixed cost of getting
+there._  
+  
+Only true where materials native to space are used. Otherwise, the propellant
+you can afford to buy is also bounded by the cost of getting there.
+Nevertheless, even without native materials the value of propellant-related
+real options increase with the density of depots, possibly in a nonlinear
+fashion. But depots by themselves are insufficient -- the real option is
+really a tuple {interesting place to go, propellant to get there}. So the
+increase in valuable places to go, alternative things to do (like the long
+list of options now available to the car driver I discussed above) in a given
+orbital region is a crucial part of this growth.  
+  
+ _...one could bet on future fueling depot construction (e.g. a contract that
+paid out $X per station per year over the next ten years -- you'd buy the
+contract, launch your first depot, then sell the contract once the estimated
+future number of depots increased)._  
+  
+I'm not sure I follow this. Who is the counterparty -- somebody selling
+insurance against competition? Has anybody done this historically? It's an
+interesting idea.  
+  
+Perhaps one could arbitrage between competitors. Sell insurance to A against A
+losing too much market share, and to B against B failing to gain enough market
+share (for a given level of investment towards such growth), with the
+insurance company winning in the more likely case that B gains more than the
+insured amount of market share but A does not lose enough market share to go
+below their insured amount. Indeed, spread the market share risk across enough
+companies and the insurance company always wins (but so do all the companies
+through lower risk from competition). The usual problems of adverse selection
+and moral hazard arise, though.  
+  
+If this was going to work, somebody would already have made it work, I
+suspect. It doesn't require computers. (Both insurance and derivatives were
+around in late medieval Italy. It's only when you want sophisticated
+simulations or function-fitting, especially when constructing synthetic assets
+from multiple derivatives, or when doing real-time arbitrage or hedging that
+computers are required). Also, in a stock market investors can do a similar
+kind of risk spreading by diversifying their investments across several
+competitors.  
+  
+The most common way for the first mover to protect itself against copycat
+competition is through property, especially IP, but gaining physical rights
+over the best native propellant sources would also work well.  
+  
+Another technique, really one that is crucial for growing networks of real
+options, is vertical integration. If, for example, you want to sell ethanol,
+it's no good just to start making ethanol and hope people will come buy it.
+No, you've got to sign up a large number of gas stations in an area to pump
+ethanol, and you have to get car companies to sell cars that take ethanol via
+the dealerships in that area.  
+  
+Electric companies, back when electricty was not the norm and they were in a
+free market and actually trying to sell more of their electricity, often sold
+electric appliances at stores they set up in the same communities to which
+they were piping electricity, and often gave them away to people who signed up
+for electricity service. It's no good generating and piping electricity out to
+houses that have no electric appliances. The real option tuple here is
+{electricity piped to house, useful electric appliances sold locally}.  
+  
+Back to space depots, an entrepreneur has to sell the real options they make
+possible, and has to vertically integrate enough to make sure those real
+options are delivered. For example to deliver extendable life satellites, one
+has to sell the satellites to satellite operators (e.g. communications
+companies) who want this feature, then make the satellites refuelable and
+implement a depot. Much easier than trying to sell existing comsat makers on
+the idea that they should sell their own customers on such features, make
+their own investments in redesiging their satellites to be refuelable, and so
+on. The space depot entrepreneur should also consider vertical integration
+into "more places to go" to complete the real option tuples {neat place to go,
+propellant to get there}.  
+  
+ _I've tried to figure out how the economy will look when going long
+volatility is the best way to make money...the only way for a poor person to
+get rich is to create volatility and hope said volatility works out in his
+favor._  
+  
+By "create volatility" do you mean just bet at long odds, or do you mean
+something active, like Marxist revolution? :-)  
+  
+Rich people get lazy and that gives poor people with brains plenty of
+opportunity to make it rich. Somebody has to program those computers, advise
+the rich on their investments, heal the rich when they are sick (or just want
+to live longer), lawyer for the rich when they dispute, and so on. It won't be
+the fellow rich, they're too busy having fun and then feeling guilty about it
+and donating to Barack Obama.
+

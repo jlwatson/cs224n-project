@@ -1,0 +1,40 @@
+Daniel, your points about the security may be valid, (I haven't audited the
+code, and it could certainly use such an audit). And on top of this I'd add
+the copious legal risks. But I'm afraid the economic points are another
+matter.  
+  
+As for the long transaction delay and poor scalability, I long considered bit
+gold as a design for "high-powered money" that like gold could be used as an
+investment vehicle, a medium for large transactions, and a reserve currency
+against which digital notes could be issued. It would be however be far more
+securely auditable than remote gold vaults. If you're right on this critique
+Bitcoin may be destined to become a high-powered money rather than a day-to-
+day payment system for the masses.  
+  
+The computational cost issue is as I've shown in my above-linked account of
+the origins of money a red herring. As with gold, the mining cost gets
+amortized by the function of bit gold in lowering transaction costs, both as a
+store of value and a medium of exchange. If somebody figures out how eliminate
+creation costs of a digital currency without reintroducing an incentive to
+inflate I wish all power to them, but I'm not holding my breath.  
+  
+And what's up with the term "cryptocurrency"? What is it supposed to mean?
+Cryptography is used to protect payments systems as radically different as
+credit cards, Chaumian digital cash, and Bitcoin. The term encourages the
+popular but profoundly naive view of Bitcoin as merely another form of digital
+cash.  
+  
+As for whether it's a bubble, any collectible market can turn into a bubble.
+It's the nature of the beast. But at the current prices and supply, the amount
+of Bitcoin (last I heard about $40 million in USD terms) was still very small
+compared to many other collectible markets, much less the amount of currency
+in circulation from the central banks of even tiny governments. Bitcoin
+certainly has major downside risks but it also has far more upside potential
+than other collectibles. So obviously it's an extremely risky investment at
+this point in time. Nobody should be doing anything remotely close to what I
+read this morning from some twitterer (presumably it was just prevaricating
+puffery) and putting "all [his] money" into it. It's a curiosity collectible,
+an alternative to a small fraction of one's gold holdings as a hedge for fiat-
+denominated debt, and a medium of exchange for at least certain niche
+transactions. And potentially much more.
+

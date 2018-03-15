@@ -1,0 +1,40 @@
+Alrenious:  
+ _If the music store exists first, the doctor would not put their office
+there, instead choosing a noise-free location, unless they can obtain an
+agreement to lower the volume._  
+  
+This is fine insofar as we can assume that contracts are enforced. (Normally
+we can, unless we are trying per Friedman or Becker to invoke Coase to explain
+either why we don't need governments or why governments are a good solution to
+the problem -- such invocations of Coase are fallacious because Coase assumes
+voluntary transactions, which can't be assumed unless good law already
+exists).  
+  
+While I generally favor the "first there wins" rule of nuisance, because as
+you observe (absent transaction costs per Coase) it can allow Coaseian
+bargaining, various transaction costs such as the contract incompleteness
+problem (can a contract identify and deal properly with all potential
+threats?) often make it impractical. Perhaps for this reason real nuisance law
+doesn't always favor the first resident. However, I'm reasonably comfortable
+with invoking the Coase Theorem in this case, assuming good contract
+enforcement institutions already exist, in order to emphasize the importance
+of transaction costs (like contract incompleteness) as Coase did and his wiser
+followers have.  
+  
+This one is the bigger problem:  
+  
+ _If the office exists first, the music store has a moral obligation not to
+unilaterally impose harmful externalities for its own enrichment._  
+  
+It's fine to invoke moral obligations until the cows come home, but that does
+not mean people will follow them. I have shown that, absent good tort law, it
+is in the rational self-interest of the music store to impose such
+externalities even to the point of turning them into low-cost threats
+(weapons). And the theory seems to describe the real-world behavior of mafias,
+pirates, governments, and other coercive institutions, whereas Coase-based
+theorems (and economics generally) run into huge problems when dealing with
+coercive phenomena, because economics has traditionally and usually tacitly
+assumed voluntary transactions, which in turn requires a sophisticated legal
+system. Many, including too many economists, fail to realize this and invoke
+these theories where good legal systems can't be assumed.
+

@@ -1,0 +1,5 @@
+My paper covered patents, not copyrights. OTTOMH/IIRC, some lawyers tried to
+argue that machine instructions weren't copyrightable, but then it was pointed
+out that old player piano rolls could be copyrighted. So they didn't have much
+of a legal argument against copyrighting computer programs.
+

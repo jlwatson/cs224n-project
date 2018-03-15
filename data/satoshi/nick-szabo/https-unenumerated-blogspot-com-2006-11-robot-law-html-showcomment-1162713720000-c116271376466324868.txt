@@ -1,0 +1,27 @@
+I got my version of the derivation of "trespass" in an admittedly offhand way,
+by consulting with a French speaker who, I guess, guessed that the Old French
+came from the Latin "passus" or "step" (actually "two steps") and "tres" was
+like the modern "tres" an adverbial form of "very." That construction sounds
+awkward translated literally: "take two steps largely" or similar.  
+  
+The Latin equivalent phrase for "trespass" in the medieval English literature
+was "transgressio," literally meaning to move across: compare "agress" (move
+against), "ingress" (move in), "egress" (move out), "digress" (move apart),
+"congress" (move together), etc.  
+  
+I'm somewhat skeptical about Webster's derivation that says "tres" meant
+"trans" rather than an adverbial version of "very" as in modern French. I can
+imagine it did mean this to the English lawyers, who readily translated
+between "trespass" and "transgressio." And I can certainly believe that
+"passer" was by medieval times as in modern French (to pass) rather than the
+Latin noun "passus", i.e. "two steps" from which it may have derived. So my
+revised hunch is that at least the Norman French at the time meant something
+like "pass substantially" (i.e. as opposed to a _de minimus_ or accidental
+passage).  
+  
+Even if my derivation is silly, I think the point I thought it might support
+is valid: one tries, by looking at evidence such as the direction and
+magnitude of the movement, and whether there was notice of the surface, to
+make a distinction between accidential and purposeful crossings of the
+surface.
+

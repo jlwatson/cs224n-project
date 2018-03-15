@@ -1,0 +1,57 @@
+Alrenous, I agree publishing bias (which favors positive over negative or
+inclusive results) is a big problem, as is the funding bias I discussed in
+"The Trouble With Science." But even if these biases could be eliminated, many
+areas that we would very much like to learn about are inherently difficult.
+They are not feasibly learnable via measurement or other attempts at
+quantification, and such attempts almost always just lend a false precision.
+As the mathematics of and experience with machine learning suggests, some
+results in or closely related to physics (e.g. Kepler's laws) are just bog-
+easy to discover from the data (OK, bog-easy for a 21st century computer -- it
+took humans thousands of years of error to get to Kepler's laws). But increase
+the complexity of the object of study and the learning difficulty increases
+exponentially.  
+  
+In the complex areas -- among them nutrition, economics, politics -- we need
+to be giving greater weight to kinds of knowledge that have been slighted
+since the Manhattan Project and Sputnik raised scientists to an exalted
+priesthood, namely tradition: knowledge accumulated across many generations of
+people. In nutrition, you probably should be eating what your ancestors for
+the last few thousand years -- your ancestors, not somebody else's -- ate
+unless strongly proven otherwise. They accumulated thousands of life-long
+experiences eating food suited to your particular genetics -- why throw out
+all that hard-won knowledge for the sake of impressive sounding pseudoscience?  
+  
+In academia, we need to favor traditional academic disciplines and methods of
+reasoning (e.g. the ones taught in law, the oldest academic discipline) and
+start a Darwinian process of pruning down the modern cults (e.g. "social
+sciences"). And the fetish with statistics as the sole arbiter of truth needs
+to go: we need to relearn the traditional arts of reasoning, for example the
+importance of making thoughtful assumptions and clearly stating them instead
+of hiding them, like numerologists, behind a blizzard of mathematics and
+jargon.  
+  
+Professor Hanson loves to bash me for failing to read the various papers he
+thinks I must read before I'm allowed to state my thoughts on some certain
+matter. Reading these idiotic piles of garbage is the last thing any person
+concerned with discovering reality should want to do, because practically
+every paper he and other "social scientists" laud is (a) written in the novel
+terminology and mathematical shorthand of their particular academic cult, and
+thus impossible to read without reading a bunch of prior papers written by
+that cult's acolytes, and then (b) when you take this tremendous effort to
+decipher it, you discover that the paper, and often the entire cult, is based
+on idiotic assumptions so that, regardless of the impressive rigor of the
+mathematics, the conclusions are a complete load of crap.  
+  
+Almost every paper I read in these areas is a further instance of professors
+lavishly demonstrating their high IQ but utterly failing to do anything useful
+with it. To hell with that, life is far too short to get bogged down in the
+pseudoscience that dominates much of academia these days. I agree with Peter
+Thiel, the smarter you are, the more valuable for society if you drop out of
+university. Do what Gates, Zuckererg, et. al. did, get great grades in high
+school to get into a top school (so you can prove to strangers in the future
+that you're smart) and then drop out. If you are pursuing novel areas come up
+with your own ideas. If you are pursuing areas with which humans have long
+experience, drink from the cup of tradition. Either way, outside the hard
+sciences it's usually wise to stay away from the siren songs of modern
+academic fads.
+

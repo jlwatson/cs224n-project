@@ -1,0 +1,46 @@
+More great comments from Devin, with the great bulk of which I agree, but of
+course it's more fun to explore differences:  
+  
+ _In general, dividend growth of a broad index should be very roughly equal to
+monetary inflation_  
+  
+Well, _total cash flow_ (including buybacks, sales of new issues, cash
+takeovers and insider trading as well as dividends) would keep up with
+inflation _if_ inflation had no negative impact on business. But I suspect
+there may be quite a bit of negative impact from changes in inflation
+expectations which revalue long-term contract terms and make planning more
+difficult (e.g. introducing much greater uncertainty into both the customer
+and producer sides of the commodities business).  
+  
+Also, it's very odd that a collectible premium would go down when inflation
+rises (1970s) and go up when inflation goes down (1980s and 1990s). Assets
+have a collectible premium because they hedge against inflation, so that the
+collectible premium goes up when inflation expectations go up, and indeed
+that's what we tend to see with other assets. The great variability of
+earnings return on the S&P 500 is baffling, but I don't think it can be
+explained by the collectible premium.  
+  
+I did not know that M2 growth in the 1970s was so amazingly small, given that
+both CPI and PPI inflation was much higher than that, and the rise most
+commodity prices was much greater still. I'm not sure static M2 numbers are
+the definitive figure -- isn't velocity also important?  
+  
+Implied inflation expectations may be computed from the price of gold, which
+is the closest to a pure collectible we have. But if you are right that the
+collectible premium should be much higher for gold than for most commodities,
+housing, and stocks (I don't agree, more below), gold won't give us the proper
+collectible premium for other assets.  
+  
+ _you cannot simply add the buybacks to the dividends to get total discounted
+cashflow. Imagine you are an endowment holding the stock forever._  
+  
+Nobody owns a stock forever, and whenever it is sold it's a huge cash flow for
+the seller of that stock. 12 years is considered to be a very long average
+holding time for a mutual fund. In any case, if we are looking a stock market
+index as a whole, buybacks, cash takeovers, new issues, and insider trading
+all constitute cash flows that must be counted to have an accurate view of the
+cash flow of stocks.  
+  
+The next best thing would be to look at earnings history, as you've done in
+the comparison above.
+

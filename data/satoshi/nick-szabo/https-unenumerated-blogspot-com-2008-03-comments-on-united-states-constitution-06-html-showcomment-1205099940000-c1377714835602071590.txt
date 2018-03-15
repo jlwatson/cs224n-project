@@ -1,0 +1,76 @@
+spanker and Tom, thanks much.  
+  
+George: _another major problem with the Constitution is that it's almost all
+procedural...future Supreme Court justices must promise they will claim the
+Constitution says things it clearly does not, and this is generally regarded
+as ok because proper procedure is followed._  
+  
+It's also regarded as OK because it's compatible with the incentives of all
+the major players in the federal government: Congress, the President, the
+agencies, and the justices themselves. The public regards it as OK because it
+believes the federal press releases it gets via the mass media. We now live in
+a world that habitually looks on the federal government as "the government",
+with its legitiamte subject matter being any matter raised as a national
+concern by the mass media, which politicians parrot.  
+  
+Article I Section 8 is supposed to be a scheme of enumerated substantive
+powers, a finite set of powers beyond which Congress may not legislate, and
+indeed the Supreme Court still declares that this is the case.  
+  
+You cite one of the three big loopholes in the scheme: the taxing power. I
+think you mean legislating via discriminatory taxes (e.g. to effectively ban
+stuff with very high taxes), tax credits, and the like. (There's also forcing
+states to legislate via conditional block grants to states, which I cover
+below).  
+  
+I don't know how the courts could set a revenue maximum, as budgetary needs
+vary and are a core competence of legislatures, not judiciaries. It would give
+the federal judiciary far too much power if it could veto taxes or budgets.
+But perhaps a jury trial that cannot be appealed, except to another jury,
+might work. A class action lawsuit by any taxpayers who object to a certain
+tax rate. All based on a constitutional amendment that all taxes must be only
+a "reasonable" fraction of the price or value of something. But then, you
+might pull up a jury of anti-smoking people who find a 200% tax "reasonable."
+So this hardly guarantees a solution to the problem. Perhaps the amendment
+could be worded to require an economic analysis of a rate that gives maximum
+revenue, beyond which the federal government may not go, and the trial would
+consist of dueling economics professors arguing over what the maximum rate is.
+(Effective bans produce far less than maximum revenue, per Laffer). Hardly
+perfect, but might work much better than no limit at all.  
+  
+Quite related is the spending power. It's the most ancient legislative power.
+Parliament, which originated as a group of rebellious feudal landlords (whose
+collective rent revenue was far greater than the king's), used its ability to
+bribe the king with tax revenues to usurp authority to make general laws in
+the first place. Now states are being bribed by Congress with lucrative income
+tax revenues to make certain laws otherwise beyond federal power, as you point
+out.  
+  
+The other big loophole in Article I powers is the power to regulate
+"interstate commerce." For many decades this just meant interstate water
+navigation and implied a restriction on states to not regulate interstate
+trade. Then federal commerce power was expanded by courts to cover the
+regulation of interstate railroad fairs, then intrastate railroad fairs, then
+to cattle yards that produce beef that will be shipped in interstate commerce.
+Today it means anything that might event remotely effect interstate commerce,
+such as growing medical marijuana in your backyard or wheat for your own
+consumption (no, I'm not kidding, these are real Supreme Court cases: growing
+stuff in your backyard is now "interstate commerce". Courts that can interpret
+their own powers have no shame).  
+  
+The problem is that it's extremely difficult to make a list of substantive
+powers that is so utterly precise in its meaning that judges with incentives
+to expand the powers of themselves and their peers cannot come up with a
+plausible argument for greatly expanding that meaning.  
+  
+In this case there may be an easier solution: a constitutional amendment that
+prevents "conditional block grants to states or other governmental entities",
+or similar. The feds would have to either grant the money to states or not,
+based only on an objective formula not conditional in nature, and any
+requirements on rulemaking or enforcement by that state would be forbidden
+from the formula. I'd have to think about the wording, but it sounds like a
+much easier task of drafting than trying to define "interstate commerce."  
+  
+I wonder, though, if Goedel incompleteness is homomorphic to the problem of
+trying to draft loophole-free constitutions. :-)
+

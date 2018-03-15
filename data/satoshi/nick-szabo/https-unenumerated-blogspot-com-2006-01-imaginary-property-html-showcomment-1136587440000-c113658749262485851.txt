@@ -1,0 +1,27 @@
+I suspect humans have genetic tendencies to hunter-gatherer ethics, which is
+why so many people find sports entertaining but market competition unfair. We
+have to overcome these instincts with highly evolved, i.e. civilized culture
+if we are to be able to cooperate in groups larger than a hunter-gatherer band
+or a football team.  
+  
+There's a Rawlsian argument to be made for "social insurance" along the
+following lines. Rawls postulated a "veil of ignorance," a hypothetical
+situation in which we can make agreements without knowing what our lot in life
+is. After we make these agreements we are randomly born into some kind of
+family (rich or poor with the odds of being born such distributed as per the
+actual population). It can be argued that, if we could make binding contracts
+behind the veil of ignorance, we'd all rationally sign up for insurance
+policies for unemployment, disability, pension, etc. insurance, with everybody
+promising to pay the same premium. Since we can't do this, the argument goes,
+the government should do it for us with premiums in the form of taxes.  
+  
+The argument has two main problems: (1) the problem every insurance scheme
+faces, that of moral hazard, and (2) the value measurement problem -- we don't
+really know what peoples' risk and time preferences are, especially behind the
+veil of ignorance.  
+  
+Despite these problems, I think implied contract reasoning at least serves to
+reason about areas where markets and other contractual institutions have not
+(yet) come up with a solution. This should at least be helpful to identifying
+legal roadblocks to and business opportunities for creating such solutions.
+

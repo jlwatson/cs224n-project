@@ -1,0 +1,15 @@
+A bit more formally the above expression should be  
+  
+relative value of two institutions/investments/decisions =  
+f(preferences, evidence against - (weight of evidence for + (discount
+factor)*(sunk cost of state of affairs)))  
+  
+Where evidence maps starting objective states of the world and preferences to
+objective outcomes (in other words the evidence tells us what outcomes would
+result and how well those would satisfy our preferences).  
+  
+Of course, one quite likely needs sub-heuristics or further proxy measures to
+calculate such a thing -- or to the extent you can't calculate it accurately,
+or are unconfident of your hunches, greater reliance on sunk costs as a proxy
+measure ef value.
+

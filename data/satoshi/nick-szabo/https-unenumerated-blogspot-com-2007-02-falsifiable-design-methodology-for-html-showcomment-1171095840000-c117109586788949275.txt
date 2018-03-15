@@ -1,0 +1,37 @@
+Alas, I left a big misimpression. While establshing a new kind of legal
+protection for these ideas might be interesting in its own right -- but quite
+probably would work out badly for the reasons A points out -- that wasn't at
+all my motivation for suggesting this new kind of "patent". My motivation is
+simply to use patent-like criteria, but substantially altered as suggested, to
+evaluate theoretical technologies for the purposes of making policy decisions,
+e.g to figure out how to respond to global warming and to figure out what
+kinds of science and R&D to fund.  
+  
+The question is to what extent policy makers should take these futuristic
+proposals seriously -- for example should we take Drexler's scenario seriously
+when making decades- or even centuries-long projections or plans to respond to
+global warming? My short answer is that we should only take it seriously if
+but only if it is specified in an imminently falsifiable manner.  
+  
+I'm not sure what you mean when you say that renewable energy technologies are
+"fairly well bounded," but it doesn't sound right. There are major
+uncertainties in many of them that reside in one of those quite unpredictable
+arts, chemistry, as does the core of Drexler's proposals. Indeed Drexler's
+proposal might be less uncertain because it involves mostly one big chemical
+uncertainty (the mechanosynthesis question) surrounded by quite a whole lot of
+two quite more predictable arts, mechanical and software engineering. It has a
+probably very big payoff (if it works) rather than a very large number of
+uncertainties with small payoffs. Granted, the Drexler uncertainty could
+easily end up being that it doesn't work at all while we already know many
+alternative technologies work somewhat well -- if that's all you meant by
+well-bounded then I agree.  
+  
+VC's aren't going to invest in things that they can't imminently build --
+you'd need to have actual legally enforced theoretical tech patents for that,
+and even then they probably wouldn't bite and would deter other actual
+implementors as you point out. The only path I can see to putting private
+money into theoretical technology, besides the charity model of Foresight/IMM
+etc. (not much money there) might be prediction markets as I suggested in my
+previous comment, to the extent if any those pan out for the purpose of
+betting on future uncertainties.
+

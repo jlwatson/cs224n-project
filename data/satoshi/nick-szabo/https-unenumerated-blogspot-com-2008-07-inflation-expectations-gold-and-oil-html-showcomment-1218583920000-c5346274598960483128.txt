@@ -1,0 +1,5 @@
+Fred, the correlation coefficient does measure the similarity between changes,
+and it does give 0.93 for the week-to-week changes in oil and gold from 2000
+to the middle of July 2008. What specific data and formula did you use to
+arrive at below 0.2? I'd like to try to reproduce it.
+

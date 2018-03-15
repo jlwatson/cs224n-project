@@ -1,0 +1,55 @@
+Howie, you're ignoring the distinction between lossy and lossless compression.
+The "reductions" you describe, for example the simple laws of Brownian motion
+and quantum mechanics, abstract away from the vast randomness of these areas.
+They don't reduce the randomness, it's just that for certain simple purposes
+(but not for many other purposes requiring integration of more varied
+phenomena) the vast randomness of nature can be usefully ignored. Thus, for
+example, scientists can predict the radioactive decay rate of a large group of
+atoms, but not when particular radioactive events will occur. An engineer
+would use individual radioactive events where randomness is required (e.g. for
+seeding a cryptosystem with random numbers) -- it would be the most absurd
+thing to use where regularity or predictability are required.  
+  
+In many other cases scientists have a tough time predicting the behavior of
+aggregates of large amounts of randomness, such as the weather. In the case of
+Brownian motion it's only easy to make certain aggregate statements about the
+behavior of a volume (usually a simplified volume as in a heat engine), not
+about the behavior of particular parts of the volume, especially large volumes
+such as the atmosphere.  
+  
+Even less can the aggregates of strategic and vastly complex or even
+purposefully randomizing behaviors of individuals often be lossily yet
+usefully reduced using statistics and Newtonian mathematics. Economists can't
+generally make predictions about important events in our future as accurate as
+those of weather forecasters, much less can other social scientists. Sometimes
+observers of the social scene can hit on certain long-term regularities,
+analogous to climate forecasting, and there are other and often better ways to
+usefully if lossily reduce social complexity (e.g. the arduous legal process
+of trial fact-finding, legal ruling based on those facts, and use of precedent
+in order to slowly develop a common law).  
+  
+The vast amounts of specialized knowledge and the ability of people to play
+penny-matching games strongly suggest that social science is far less prone to
+useful lossy reduction than even weather and climate forecasting. I'm not at
+all convinced by your engineering example. The esoteric knowledge of circuit
+engineers may well be crucial to understanding to what extent Moore's Law is
+going to continue into the future, which in turn is important to predicting
+future IT productivity. Indeed, productivity measures and predictions are
+notoriously prone to error and bias for ignoring various complex yet important
+phenomena.  
+  
+In your vain search for explanations of the social world that you can
+personally understand, you complain about lawyers because in disputes people
+grapple with reality at levels of detail that social scientists either ignore
+or, if they dive in, get lost in the details and fail to generalize. Newtonian
+techniques for predicting simple orbits and the like are grossly inapplicable
+for lossily compressing the vast logical depth and randomness of social
+reality. One of the best methods we've hit upon over the millenia is the
+arduous task of detailed trial fact-finding, followed by legal holdings based
+on those facts and the slow development of a large body of legeal precedent --
+the common law. Complain about lawyers all you like, but that is how
+civilization has usefully progressed, not through the daydreaming of social
+"scientists" who want to grossly oversimplify reality in order that they may
+enjoy the illusion and delude others with the illusion that they profoundly
+understanding the whole.
+

@@ -1,0 +1,23 @@
+Alexander: that's largely correct. Regarding your point (2), I do think it's
+useful for counter-arguments to exist to make at least a plausible case for
+the low probability of the general category of the futuristic scenario, as I
+have regarding specialized vs. general AI. One is under no obligation at all
+to address their specific claims, much less their specific solutions, as there
+are a near-infinity of such possible claims and solutions.  
+  
+This is the first time I've heard the phrase "Pascal's mugging", so I just
+Googled it and saw Yudkowsky's article -- a similar idea to the Pascal scam to
+be sure, but my focus is on the underlying poor quality of evidence for the
+claim, in situations that don't need to be anywhere close to as theoretical or
+extreme as the idea that we are living in a simulation. There are a near-
+infinity of plausible-sounding but poorly evidenced claims about the future
+one can make in and about our own physical universe, so that such claims
+should be nearly infinitely discounted.  
+  
+The Pascal's mugger, who implicitly states that he is 100% certain, is a good
+example of why numerical probability estimates in these situations are false
+precision and arguments from authority, not good evidence. Some people who
+call themselves Bayesians sometimes or even often tend to confuse probability
+estimates with actual evidence, obsessing with the estimates and ignoring the
+actual evidence (or lack thereof).
+

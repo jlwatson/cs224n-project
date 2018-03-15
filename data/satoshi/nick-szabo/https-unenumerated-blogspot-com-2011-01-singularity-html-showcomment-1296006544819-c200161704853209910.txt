@@ -1,0 +1,5 @@
+Errata:  
+ _in any particular task_  
+  
+Less parsing ambiguity if you read that as "in _a_ particular task. "
+

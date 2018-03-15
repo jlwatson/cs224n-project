@@ -1,0 +1,41 @@
+james: _If the market discriminates between one item of bit gold and another,
+they will be like collectibles - of uncertain value, not readily
+exchangeable._  
+  
+I'm afraid this is a profoundly mistaken conclusion, but since it keeps coming
+up I suspect gold sellers will keep trying to trash bit gold with it long into
+the future. So even though I long ago refuted it, I'll keep trying to
+communicate the proof.  
+  
+There is a perfectly objective, measurable, and inelastic supply curve,
+completely derivable from the relative scarcity of bits (puzzle solutions) on
+the week (or the day, or the hour, or the minute, if necessary) of their
+publication. Arbitrage to set the different prices of different weeks (or
+minutes) can be computerized on this basis. The demand curve, the demand for
+puzzle solutions _for their monetary value_ , will be based on recognition of
+the superiority of bit gold as a form of money that is more secure and has a
+far less elastic (indeed, perfectly inelastic) supply curve than traditional
+commodities such as precious metals. This demand curve will be the same
+function of scarcity for all weeks (or minutes), so it won't affect the simple
+scheme of automated arbitrage between epochs with different supply curves.  
+  
+_Early in human history, people used collectibles as money, with the value of
+a collectible deriving in part from its [aesthetic value]_  
+  
+The "in part" part is crucial, as is the question of _why_ humans evolved such
+aesthetic values. The value of gold today is almost entirely based on its
+monetary value rather than mere decorative value. There are plenty of metals
+that are as shiny as gold, but people don't demand them as a store of value or
+medium of exchange because they are common. There are plenty of rocks that
+look as good as diamonds, but "diamonds are a girl's best friend" because they
+are hard to obtain and thus hold their value. It is their _secure scarcity_ ,
+not their aesthetic features, that allows them to be more securely used as
+money and thus gives them a monetary value far above the often trivial value
+they have as an aesthetic object. Furthermore, the asthetic instincts to which
+you refer, for example the instinct to collect shiny things, evolved just
+because in the evolutionary environement they approximated an instinct to
+collect scarce things, and to distinguish hard-to-find from easy-to-find
+things, i.e. an instinct to collect objects of _monetary_ value, as I describe
+here, in the "Evolution..." section early in the paper, and the "Attributes of
+Collectibles" section late in the paper.
+

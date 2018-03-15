@@ -1,0 +1,17 @@
+I should also point out that logical depth also often creates severe limits to
+feasible understanding. Indeed, the limits of logical depth to create
+intractible complexity may be more important limits to understanding,
+especially to understanding other minds, than the limits of ultimately
+irreducible (Kolmogorov-Solomonoff-Chaitin) complexity.  
+  
+Mathematically, the inability to crack a cipher is almost entirely a matter of
+logical depth -- the keys themselves are only hundreds or thousands of bits.
+In the physical world, there are many chaotic phenomenon that act like a
+cipher and blow up a small amount of ultimately irreducible complexity into a
+vast amount of intractible complexity: for example the proverbial butterfly
+flapping its wings which can ultimately and unpredictably change the direction
+of a future hurricane. Indeed, the always limited and relative ability of
+human minds and computers to play the penny matching game I mentioned is
+probably more a matter of logical depth than ultimately irreducible
+complexity.
+

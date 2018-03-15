@@ -1,0 +1,23 @@
+ _The singularity refers to the time in human history when computers first
+pass the Turing test._  
+  
+That's one definition among many. And which Turing Test? There are an infinite
+number of possible Turing tests, some of them easy, some of them hard. e.g.
+The "captcha" test we go through to register for web sites, some versions of
+which some computers can already pass. If the visual-letter captcha becomes
+obsolete, it doesn't herald The Singularity, although it may play some hob
+with computer security as we scramble to come up with a less spoofable
+(probably because higher bandwidth, e.g. sound) variation on captcha.  
+  
+ _but we have an idea of what the world will be like in general._  
+  
+Really? Twenty years ago were you envisioning Facebook and the popularity of
+texting among teens? What percentage of people in the early 1950s envisioned
+life two decades later after the sexual revolution? How many people in the
+1440s envisioned life in a society where most people were literate? Or as you
+point out, the change from prelingual to lingual humans. Unexpected
+qualitative changes have been happening for a very long time. They weren't
+"singularities" in any meaningful sense of that term, they were qualitative,
+complex changes that evolved over time. They were unpredictably unpredictable,
+not predictably unpredictable.
+

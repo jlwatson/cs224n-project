@@ -1,0 +1,40 @@
+ _Wouldn't more generalist, human-surpassing eventually be developed, even if
+only specialized AIs were developed at first? And wouldn't those pose a
+massive potential risk or benefit to humans?_  
+  
+Michael, thanks for your thoughtful comment. When eventually comes, chances
+are  
+  
+(1) an extremely high variety of highly specialized software will already be
+doing 99.999..(many more places)% of the intellectual heavy lifting already,
+with humans almost entirely devoted to entertaining each other. An economy of
+sports, nail salons, and the like, i.e. people basically devoted to providing
+emotional comfort and stimulation to each other, the intellectual labors
+having long since been divided to extreme degrees among the quadrillions of
+kinds of hyperidiot/hypersavant software. The problem of computers replacing
+humans, requiring humans to retrain themselves on other tasks, comes along
+gradually, and indeed has been going on since adding machines started slowly
+replacing mental arithmetic. There is no singular point, no "singularity" at
+which a big mass humans all of a sudden become obsolete. It's a boiling frog
+problem. Any general AI will be extremely uncompetitive (whether in the market
+or in war) with specialty software and will pose no threat to humans that
+specialty AI hasn't already posed many orders of magnitude greater. All the
+important threats will come from specialized software.  
+  
+(2) We still won't be anywhere close to being able to emulate a human brain on
+a computer (for reasons Tim Lee's linked article and my comment above
+describe),  
+  
+(3) Computers by this time, which is still well in the future, will with high
+likelihood be well up the S-curve of computer performance and it will be
+growing slowly. In some ways, e.g. CPU speed, growth is already far below
+exponential, well on the second leg of the S-curve.  
+  
+For these reasons, and because historical facts as actual facts are far more
+informative than speculative guesses out of the vast space of possible
+futures, if we want to study the risks posed by computers, we should study the
+risks we have already seen to be posed by computers. Not that these risks
+won't over the years qualitatively change, just that it's pointless trying to
+predict what those changes will be, and the hopelessly vague and extremely
+uneconomical idea of "general AI" doesn't shed much light on the issue.
+

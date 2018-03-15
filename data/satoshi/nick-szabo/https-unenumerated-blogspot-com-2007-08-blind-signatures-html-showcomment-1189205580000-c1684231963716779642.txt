@@ -1,0 +1,5 @@
+Anonymous: that's right, and in fact the list of long random numbers to
+represent issued certificates, kept on a spent list used to clear certificate
+transfers, means that Alice can't guess the number of a certificate to forge
+it.
+

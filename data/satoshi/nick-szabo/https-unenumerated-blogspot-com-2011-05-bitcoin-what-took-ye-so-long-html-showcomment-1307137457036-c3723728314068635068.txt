@@ -1,0 +1,14 @@
+nazgulnarsil, that led to some good comments. As Stefan Thomas points out it's
+easy to do dummy transactions, so that's probably a poor choice, although they
+discuss how transaction fees might work.  
+  
+As long as I'm brainstorming suggestions for Bitcoin here are some more:  
+  
+* The security of the timestamps would be improved if many of the time-stampers each ran their own independent atomic clocks, which recently were selling as add-on cards for about $1,500, rather than relying on third party time services, which is what you're doing if you just use the system clock.  
+  
+* Same as above, but establish an independent, Byzantine-agreed P2P, atomic clock time-stamping service which could be based mostly on code from Bitcoin. "Bittime", natch. :-) This would provide a more secure Internet time service for everybody.  
+  
+* To improve transaction rates, reduce time windows for attackers, and provide a backup to the normal Internet connections, high-power nodes (the ones doing lots of mining) might consider doing shortwave radio broadcasts. They might broadcast either summary information by which to know a transaction is coming and then to check the integrity of that transaction, or (with sufficient bandwidth) broadcast the entire chain. One might also weight the Byzantine "votes" higher for messages received by such a direct physical connection.  
+  
+* If "mining oligarchs" become a reality, they should run code that other participants can audit, using secure hardware that implements remote attestation. Hal Finney's RPOW relied completely on remote attestation but most secure is a combination of remote attestation and the Byzantine agreement of Bitcoin (and of course crypto for those attributes where that stronger form of security is possible).
+

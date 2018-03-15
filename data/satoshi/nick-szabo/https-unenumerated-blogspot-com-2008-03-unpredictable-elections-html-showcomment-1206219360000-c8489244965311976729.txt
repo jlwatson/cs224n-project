@@ -1,0 +1,30 @@
+george: _It seems to me that it's only possible to "represent" a homogeneous
+group. If a district is deeply divided, it can't be helped that the
+"representative" will be working against the interests of many of his
+constituents._  
+  
+This is true, and I'd add that no group is truly homogenous, so it's not
+possible to perfectly represent any group. Since even any two people
+communicate imperfectly, and have conflicts of interest between them, it's not
+even possible for one person to perfectly represent another, albeit such
+representation can far more accurately represent any interests than
+representing a group. Thus representation distance grows with the size of
+group represented. This is also why representation via lobbying on K Street is
+usually far more effective than "democratic" representation through elections
+with large numbers of voters.  
+  
+Since the agent represents not only normal economic preferences, but also
+preferences to coerce others (e.g. a majority voting to "redistribute" money
+from a minority, or a guilt-laden minority even voting to redistribute it from
+fellow members of their minority to assuage their guilt), large representation
+distance is not necessarily a bad thing.  
+  
+Indeed, an effectively infinite representation distance is effective
+independence, which is often a good thing. We want the legislative, executive,
+and judicial branches to operate independently, for example, not for one to
+represent the other. However political property rights are a far better way to
+achieve indepence or infinite representation distance. Political property
+rights turn at least putatively will-based (a representative is supposed to
+represent the will of his principal(s)) system into a rule-based system (the
+owner must operate within the procedural bounds of his property right).
+

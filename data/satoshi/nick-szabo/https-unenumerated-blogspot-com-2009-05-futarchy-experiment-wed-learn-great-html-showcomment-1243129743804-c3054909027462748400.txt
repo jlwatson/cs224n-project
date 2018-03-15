@@ -1,0 +1,64 @@
+George, the lack of ability to credibly commit to choosing the "most
+favorable" market does indeed sound like another big problem with futarchy,
+but it does seem quite related to the lack of ability to define a firm formula
+for judging the "most favorable", which in turn is quite related to the moral
+hazard of, to go back to my example, GM goosing the "GM bailout" market (what
+Mencius is calling "bears", which I define as people trading because they have
+a large stake in the decision and thus willing to lose a lesser expected
+amount of money in the decision market in order to win a greater expected
+amount of benefit from a favorable decision).  
+  
+Incidentally, "bears" is a preposterously misleading metaphor, as is the
+"wolves" label for mere arbitrageurs, since the "bears" are the real predators
+in this market for coercive decisions, while the "wolves" are providing the
+benefit of useful information. When one sees thoughtless metaphors like this
+being thrown around like this and not criticized, one can tell that there is
+much light that needs to be shed on this subject.  
+  
+If to return to our example the GM bailout contract is trading at 0.02% above
+the economists' consensus GDP growth, and the Tesla Motors bailout contract at
+0.01% above, should we pick the GM bailout over the Tesla bailout contract
+(assuming we only have budget for one bailout), or do legislators get to make
+a judgment call that the GM premium reflects their much lobbying power than
+Tesla and pick the Tesla bailout? If the numbers are reversed, can our
+legislators decide that it is completely irrational to suppose that a tiny
+company like Tesla can have a bigger impact than a behemoth like GM and again
+ignore the market's seeming judgment?  
+  
+Robin: _I've published a number of papers on theory and lab experiments about
+manipulation; you seem to think them completely irrelevant, since you ignore
+them and go on to construct your own analysis. Why?_  
+Robin, you've made a proposal that would coercively impact me if implemented.
+I am under no obligation to undergo intellectual hazing exercises before
+critiquing it.  
+  
+Your proposal is straightforward enough; understanding it does not require the
+reading the highly obscure justifications you have written for the target
+audience of journal referees from a particular academic school of thought. Big
+political ideas like this should be addressed from many different sets of
+assumptions before being tried on a large scale. It is often far more
+efficient and useful to just approach it from my angle, or for Mencius to
+approach it from his, than trying to reverse-engineer your particular set of
+hidden assumptions from your obscure papers.  
+  
+Since your more intelligible summaries and blog posts seem to clearly reflect
+some bad assumptions (such as idea that there is such a thing as a useful
+prediction market that is not also a decision market, or that the distinction
+between coercive and voluntary decisions is not only not crucial and central
+to the whole debate, but is not even worth commenting on, or your lack of
+discussion of moral hazards such as the assassination market problem), I have
+no reason to believe your papers justifying futarchy don't make the same bad
+assumptions.  
+  
+_Robin: ... zero-sum speculation would unravel to no trade if not for four
+factors: hedging, irrational traders, manipulators, and direct trading
+subsidies._  
+Do you mean all four factors have to be present, or any one of them, or just a
+sufficient weighted sum of them? As for the irrational traders, the
+entertainment value that motivates the play in OnTrade etc. that TGGP observes
+would be utterly dwarfed by the vast financial resources and incentives of
+those impacted by government decisions. (It may even be the case that some
+OnTrade contracts are already dominated by "bears" and bear arbitrageurs if
+some decisions of government officials are already being influenced by these
+estimates).
+

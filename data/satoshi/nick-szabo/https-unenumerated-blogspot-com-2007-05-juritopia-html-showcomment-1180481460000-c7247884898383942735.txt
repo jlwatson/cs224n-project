@@ -1,0 +1,82 @@
+Mencius,  
+  
+"Reasonable" is basically just legal-speak for "let the jury decide the
+issue."  
+  
+Having a jury cap the fees or taxes charged by a franchise comes straight from
+real monarcho-franchise law. It's a similar idea as requiring tax and budget
+legislation to come from Commons or Congress, except repackaged -- each
+different administrative function has its own "Congress." Two things prevent a
+jury from extorting rule-making power in exchange for greater fees (this is
+how Parliament achieved its overweaning power) -- (1) it is temporary and
+chosen by lottery, so this year's jurors have no incentive to empower next
+year's jurors, and (2) even if they tried, the scope of rule-making they can
+influence is limited by the property deed of their particular franchise.  
+  
+There is a different fee structure and jury for franchise, and each franchise
+corresponds to a small subsection of one of today's administrative agencies --
+one for auto tailpipe emissions, another for smokestacks, etc.  
+  
+Actually the overall structure is rather Montesiquean: Board (legislative),
+Extraordinary Court (judicial), and the executive dispersed among the
+franchises. I've strengthened the ultimate authority of the judicial branch in
+severe disputes, but I argue that due to the much narrowed jurisdiction of the
+Court and the dispersed nature of the executive, they are still in fair
+balance with my weakened legislative branch (which may only draft the property
+deeds for new franchises, which is actually not all that different from what
+Congress does today when it sets up an administrative agency -- but I've
+severely seperated legislative power from the tax power).  
+  
+I suspect the "Byzantine agreement" work in computer science can be used to
+prove that no possible form of government or any other configuration of police
+powers can be made immune from your adaptive misconceptions problem. And Godel
+probably showed that you can't set things up to make all substantial
+misconceptions locally maladaptive. But I'd love to be proven wrong.  
+  
+Daniel,  
+  
+(1) Fee or tax collection is handled in the same way as collection of any
+other debt -- there is no tax collection agency, witholding is voluntary just
+as with today's "autopay" options from your checking account, and if you don't
+pay on time it goes on your credit record and you could be sued. There will
+probably be commercial aggregators to prevent citizens from receiving hundreds
+bills from the hundreds of franchises.  
+  
+Choosing by lottery makes it too hard for supporters to bribe politicians
+before they're elected, as often occurs in modern governments. Athens had a
+similar system for electing public officials, and Venice had an ingenious
+system of phased vote-lottery-vote-lottery-etc. system that resembled the
+confusion/diffusion phases of a cipher. The result was to combine majority
+rule with the bribe-reducing unpredictability of a lottery election.  
+  
+Another aspect is that juries only set fees -- the franchises make the actual
+regulations within the scope of their deeds. So bribing juries is not the
+route to effect regulations, although bribing franchises might be. If juries
+set the fees high enough and the Board drafts the franchise deed carefully, I
+am hopeful franchises can be disincentivized from taking bribes. Also a
+crucial part of every deed -- we can make this an Article -- is that franchise
+and their employees may take their revenue from jury-approved fees and in no
+other way. Their bank accounts are closely monitored.  
+  
+(2) There must be default jurisdictions for the same reason there is a
+background to every contract of default rules and a state of property. We
+can't expect everybody to necessarily contract with everybody else (even
+indirectly, i.e. a clause "We choose the same forum and law as the other
+cuustomers of X") and contracts are often sadly incomplete (Godel strikes
+again). So there have to be default terms and that includes default
+jurisdictions. If it turns out that the franchises oppress their default
+subjects and it becomes easy to switch via indirect choice clauses, AC might
+well emerge. (If most people have switched out juries will tend to defund the
+franchises). It's hard to imagine crafting mass agreements for large
+minorities to opt out certain rules, such as global pollution rules, but it
+would be fascinating exercise to figure out how to draft such contracts (a
+hard task that most AC proponents sweep under the rug). There's not much AFAIK
+in the Articles to discourage such an AC outcome if it is viable, but the
+franchise system is at least necessary as a transition and as a fallback in
+areas where AC doesn't work, for example (I suspect) global pollution like
+carbon dioxide.  
+  
+(3) I'll have to punt -- I haven't thought much about how to start out on
+Mencius' island. To the extent I think of transitions it is from actual
+systems -- constitutional amendments and the like.
+

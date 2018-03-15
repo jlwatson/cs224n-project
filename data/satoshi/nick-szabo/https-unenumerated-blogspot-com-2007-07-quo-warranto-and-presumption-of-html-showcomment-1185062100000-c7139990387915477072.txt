@@ -1,0 +1,32 @@
+"contrary to current doctrine, these are not creatures of statute but
+fundamental rights that may not be constitutionally burdened"  
+  
+In my hasty comments I should at least note that I fully agree that these
+writs are not creatures of _statute_. They are writs that arose from the king
+granting private jurisdictions and other political powers to lords and
+corporations, and from the lords and corporations retaining such powers by
+prescription, and the need for English courts (mostly the king's courts, since
+these were mostly the king's grants) to resolve property disputes involving
+these political property rights. Parliament's role was tertiary for most of
+that history, despite the famous statute of Quo Warranto (limiting the power
+of the king to declare franchises forfeit under quo warranto) and a few
+similar forays.  
+  
+However, it is a big step further to say that they are rights any citizen can
+sue for in court. I'd say offhand this is much more likely for trespass writs
+(e.g. prohibitio and habeus corpus) than quo warranto, since in medieval and
+Renaissance England only the king (and perhaps more generally an upstream
+grantor of the property right) could bring a quo warranto action. (Think of
+"prohibitio" as an as-applied challenge to jurisdiction by a party to a case
+-- a single case of trespass -- whereas quo warranto challenged the title to
+the entire property).  
+  
+It would be a quite odd twist to treat a mythological entity like "we the
+people" as the upstream grantor, but many even less plausible legal fictions
+have been invented and proven to be useful, and to the extent this was
+actually the law in the U.S. it should be at least looked into. In any case at
+the end of the day it's proven history in solving disputes, not theoretical
+plausibility, that should win the day in law.  
+  
+A very interesting and important topic indeed; more in August. :-)
+

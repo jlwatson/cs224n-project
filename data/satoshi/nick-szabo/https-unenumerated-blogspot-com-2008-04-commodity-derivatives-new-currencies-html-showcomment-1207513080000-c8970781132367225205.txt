@@ -1,0 +1,18 @@
+ _This problem, that money tends to monopoly, and monopoly tends to be abused,
+would be somewhat diminished if we had software that eased the management of
+multiple monies._  
+  
+I wholeheartedly agree with this, but reach even further: there is no known
+limit to how much the monopoly money problem can be diminished with software,
+via the reduction of mental transaction costs. Indeed, for certain narrow
+contractual problems (estimating and hedging risk), computerized derivatives
+have reduced mental transaction costs by factors often of millions, making
+possible a whole new world of contracts that were impossible before.  
+  
+As for consumer transactions, there is a vast space of possible user
+interfaces, and of different metaphors for representing contractual terms,
+only a small fraction of which can reduce mental transactions at all, but some
+of which may dramatically reduce mental transaction costs and put the
+monopoly-money problem on the dustbin of history. We've got to keep trying to
+see how far we can reduce the mental transaction costs of multiple currencies.
+

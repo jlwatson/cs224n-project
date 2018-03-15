@@ -1,0 +1,52 @@
+BTW, there were often restrictions on sales of franchises. In many cases, one
+had to get permission of the grantor (often the king or higher lord) to
+further grant (sell or give away) the property. The general idea (as with the
+ban on selling the Crown itself) is that for coercive franchises market
+efficiency is not the main goal, and often nothing like that is possible. The
+main goal is to properly regulate and contain a coercive monopoly. So we
+shouldn't expect to use the same property rules we apply to modern economic
+property, where the main goal is market efficiency. I think we should consider
+requiring jury approval of franchise sales.  
+  
+I wrote:  
+ _We should prefer the former, more competitive solution unless the
+competition would cause (as in the tax case) more problems than it solves._  
+  
+In this example one must guard against the cut-rate cruel-and-unusual death
+penalty. There are three general ways to guard against such problems:  
+  
+(1) require all death penalty franchises to follow procedures banning cruel
+and unusual methods of execution (this restriction is simply part of the
+generic definition of the property right),  
+  
+(2) write procedural rules into the particular grant banning cruel and unusual
+punishments, or  
+  
+(3) allow local juries to add restrictions to the local franchises.  
+  
+Methods (2) and (3) get undermined if there is competition with cut-rate
+franchises not burdened by such restrictions, and so only works if there if
+the franchise is monopolistically over capital crimes committed within San
+Mateo County, but method (1) allows for competitive franchises since they all
+must operate under the restriction.  
+  
+We can't, as we do with economic property and market competition, rely on
+normal common law to prevent abuse, as the whole idea of a franchise is a
+property right to violate, under certain conditions and following certain
+procedures, what would otherwise be banned under the common law -- i.e. to
+commit theft (distraint of goods and taxes), kidnapping (arrest and summons to
+appear), killing (execution), etc.  
+  
+To allow competition we must envision every major possible abuse of such a
+coercive power ahead of time and write it into the charter (property deed for
+the franchise). If we know we can't do this, we have to go with as
+monopolistic a solution as possible.  
+  
+N.B. breach of procedure that harms the defendant is a trespass against the
+defendant (a wrongful death lawsuit), and that harms another franchise owner's
+property rights is a trespass against that franchise owner. Repeated
+violations could also be grounds for a _quo warranto_ proceeding where the
+franchise escheats to its grantor. (The latter conditions are written into the
+franchise deed as conditions on use of the franchise, much as is often done
+with real property).
+

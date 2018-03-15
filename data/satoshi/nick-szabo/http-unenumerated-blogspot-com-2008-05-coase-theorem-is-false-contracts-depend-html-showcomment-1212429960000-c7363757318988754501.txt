@@ -1,0 +1,38 @@
+Clayton: _Every transaction is "coercive" by your definition. Is the seller
+coercing the buyer to give him $1.15 for the soda the buyer wants to purchase
+or is the buyer is coercing the seller to give away the soda he's selling for
+$1.15?_  
+  
+Neither is coercion, and the distinction between this voluntary transaction
+and a coercive transaction is quite clear, as is the distinction between their
+economic consequences. A voluntary transaction like this one is generally a
+positive-sum transaction: both parties gain. If either party did not stand to
+gain from a voluntary transaction, it could simply decline the offer, with no
+harmful consequences. Extortion OTOH is a negative-sum game: if one party
+declines the transaction, harm to that party is inflicted, even at a cost to
+the inflictor, resulting in a net loss of wealth. There's a clear distinction
+between voluntary and coercive transactions, and between their expected
+consequences for economic efficiency -- positive in the case of voluntary
+transactions, and negative in the case of coercive transactions.  
+  
+This clarity, however, breaks down in the case of negative externalities --
+there is no strong and simple separation to be made between a harmful
+externality and coercion. Even if there was such a distinction, tort law or
+similar would be required, logically and temporally prior to Coaseian
+negotiation under contract law, to reify said distinction in order to render
+said transaction voluntary and thus positive-sum. In reality tort and criminal
+law have made a number of subtle and highly evolved distinctions (e.g. those
+between purposeful, knowing, negligent, and innocently accidental behavior) to
+tackle such problems.  
+  
+BTW, government as we know it is _not_ required for effective tort law, and I
+reject the false distinctions people people brought up on the false
+assumptions of modern political science usually make between government
+(usually implying a modern regulatory government) and anarchy. There are a
+wide variety of systems, for example systems of political property rights,
+that are neither anarchy nor anything resembling modern regulatory
+governments. So my proof that the Coase Theorem is false is in no way an
+argument in favor of modern government -- it is simply an argument against
+certain theoretical assumptions sometimes made in the law  & economics
+movement and by anarcho-capitalism in particular.
+

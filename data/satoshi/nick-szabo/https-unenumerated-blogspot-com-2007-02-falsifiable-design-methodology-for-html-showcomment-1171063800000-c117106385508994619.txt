@@ -1,0 +1,19 @@
+Speaking of betting, the well-defined claims of uncertain outcome that I call
+for here would also make good candidates for prediction markets, with the
+caveat of a couple limitations. First, people have more incentive to
+participate in prediction markets when the event(s) being bet on (here the
+experiment(s)) are imminent. Second, if the issue is sufficiently uncertain
+market participants will lack good information and the resulting prediction
+will merely reflect the general ignorance.  
+  
+However, in the intermediate cases where this is good information but it is
+scattered, and for issues of sufficient economic importance or entertainment
+value prediction markets might work quite well.  
+  
+I'd be interested in pointers to any such prediction markets that are
+currently active.  
+  
+To the extent the uncertain parts of technologies can't be tested easily and
+imminently, they remain highly uncertain and make very poor bases for policy
+or other important decisions.
+

@@ -1,0 +1,11 @@
+ _How certain are we that the person putting together the pool will not
+collude with the providers of the elements to include bits-gold pieces that
+are fakes?_  
+  
+It's based on strong security, minimizing trust, in sharp contrast to
+mortgages where one must trust all the parties involved, depsite the often bad
+incentives (moral hazard) involved. The title registry, which holds the
+timestamp hash chains, solutions bits, etc. is public -- supply cannot be
+hidden. An overview of the security protocols involved is here, with links to
+further explanations.
+

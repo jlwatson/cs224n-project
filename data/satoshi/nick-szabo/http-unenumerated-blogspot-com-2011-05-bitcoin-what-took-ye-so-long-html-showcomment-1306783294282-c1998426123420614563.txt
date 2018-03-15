@@ -1,0 +1,22 @@
+Daniel, I suggest reading the bit gold description more carefully. There are
+no balances in the underlying bit gold system. Just replicated chains of
+titles to solution bits. Because these solution bits are not fungible between
+one period and another, on top of this I propose bit gold markets, consisting
+of  
+  
+(1) markets that set relative prices between the solution bits of one period
+and another, and  
+  
+(2) dealers who use these market prices to bundle solution bits from different
+periods into bundles of standard value, creating a fungible commodity, which
+is then used as the currency.  
+  
+Taking commodities of different qualities and quantities and making bundles of
+standard value is an art common to most commodity markets, and here the task
+is easy because markets set the prices for the different periods. Admittedly,
+I've specified the bit gold market layer in much less technical detail than
+the underlying bit gold layer because there are many design choices that could
+be made and I've been focusing on the economics rather than the computational
+and security mechanisms of the higher layer. Still I think the basic scheme is
+clear enough.
+

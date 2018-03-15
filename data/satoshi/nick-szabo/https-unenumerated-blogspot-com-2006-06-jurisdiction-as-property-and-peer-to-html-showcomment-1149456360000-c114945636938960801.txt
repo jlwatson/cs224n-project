@@ -1,0 +1,23 @@
+The main (and most practical) legal justifications for medieval property
+ownership (or tenure, as the grantor often reserved military service or other
+conditions) were (1) prescription (I've been using the property therefore I
+own it), and (2) conquest (which essentially amounted to saying that one has a
+duty to protect land militarily, and the former owner didn't do it, so I did).
+My paper describes a debate between the descendants of William the Conqueror
+and his officers as to whether his officers owned their land (and appurtenant
+jurisdictions) alloidally or by grant from their military commander, the king.  
+  
+The Church claimed that its jurisdiction over family law and similar was held
+of God (via the pope) and not of the king; up to Henry VIII this claim was
+generally respected.  
+  
+"Peer to peer" describes the structure of the franchise/trespass system after
+property has been granted: in mathematical terms, a cyclic graph, in contrast
+to the hierarchy (mathematical tree) of the Roman imperial and most modern
+judicial review. The original property grants were (in theory, although
+alloidalists disputed the theory and prescription was a huge exception to it)
+derived from the king in a hierarchical structure of tenure, but this played
+only one substantial role for jurisdictional franchises once they had been
+granted: the king's reservation of ability to referee the jurisdiction and
+procedures of franchise courts via the extraordinary writs.
+

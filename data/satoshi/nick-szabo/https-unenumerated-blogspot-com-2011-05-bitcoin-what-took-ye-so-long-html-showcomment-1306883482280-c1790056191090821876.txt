@@ -1,0 +1,23 @@
+I should add, critiquing my own idea, that most of the attributes I list just
+above are not fully provable with cryptography but in part rely on Byzantine
+correctness.  
+  
+For example, a majority attacker can prune the transaction chain to reduce the
+value of his opponents' coins (or solution bits in bit gold) and thus his
+votes. Fortunately the majority can't _add_ value, at least in bit gold: it
+does require proof of work to _add_ solution bits and owner signatures which
+no majority can forge to receive solution bits from others.  
+  
+It would be worth studying this in more detail -- does the attacker already
+need to have reached a majority in order to launch a vote-altering attack,
+rendering it irrelevant, or does the asynchronous nature of the protocol
+provide a way for a minority attacker to exploit the lack of cryptographic
+proof to bootstrap their way to a majority? I suspect a much more detailed
+look at the protocol is required to answer this question.  
+  
+gwern, are you reading? Most of this stuff is indeed far from straightforward.
+:-)  
+  
+Also, one of those annoying edge cases is how the system can safely bootstrap
+starting with zero coins and zero transactions.
+

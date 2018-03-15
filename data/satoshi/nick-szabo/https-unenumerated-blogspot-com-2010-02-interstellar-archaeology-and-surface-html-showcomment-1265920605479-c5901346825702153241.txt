@@ -1,0 +1,6 @@
+Energy is conserved, so they have to radiate any energy they are using, just
+at lower frequencies such as infrared. Since there is no such thing as a
+perfect black body, differences between different "gray body" radiators (e.g.
+between natural carbon-rich dust clouds and artificial radiators) will show up
+on the infrared spectra.
+

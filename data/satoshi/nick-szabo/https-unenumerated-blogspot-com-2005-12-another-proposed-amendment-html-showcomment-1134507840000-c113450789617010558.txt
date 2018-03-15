@@ -1,0 +1,59 @@
+Here's another proposed jurisdiction reform amendment for civil cases. It
+really needs work, but the basic idea is to take pseudo-contract and pseudo-
+restitutionary arguments for jurisdiction over a person (often made by the
+Supreme Court and commentators) seriously by insisting on real contracts and
+application of real restitionary (implied-in-law) contractual principles.  
+  
+According to the pseudo-restitutionary argument, a government is entitled to
+jurisdiction over a defendant because the defendant has "availed" himself to
+the "benefits of the forum" (roads, crime protection, etc.) by having "minimal
+contacts" with the forum (e.g. visiting there or selling stuff there).  
+  
+A more just approach along these lines is a true restitiutionary or implied-
+in-law contract approach: a defendant should not have more of his liberty (via
+injunction) or property in a civil case put at risk in a forum than the
+benefits the defendant has received the from government asserting
+jurisdiction. In other words the restitutionary argument should not be a mere
+excuse, but should be treated much more like contract law actually treats
+implied-in-law contracts (a.k.a. restitution) cases. I also include commission
+of an intentional tort within a territory as implying consent to that
+territory's jurisdiction.  
+  
+Another goal of the amendment is to deprecate territory, which is much less
+important in an age of jet travel and the Internet. Territory can no longer by
+itself justify jurisdiction. The amendment thus deterritorializes jurisdiction
+where appropriate, and replaces it with jurisdictional choice (express
+contract) and restitutionary (implied contract) jurisdictions.  
+  
+Specifically, the provisions reinforces jurisdictional choice and for default
+jurisdiction (where there is no prior jurisdictional clause agreed to by the
+parties) (a) replaces "tag" and "minimal contacts" territorial jurisdiction
+over civil law with restititutionary (implied contract) jurisdiction, (b)
+gives only the state where a contract or civil relationship (e.g. marriage)
+was entered into jurisdiction for the life of that contract or relationship,
+and (c) retains default territorial jurisdiction over local intentional torts
+and property.  
+  
+Here is my very rough draft:  
+  
+ _Courts of the United States and any governmental entity therein ("forums")
+shall have personal jurisdiction in a civil case over a defendant only where
+the parties have agreed by contract to said jurisdiction, or where there is no
+binding choice of jurisdiction clause in a contract between the parties and  
+(1) the defendant has obtained benefits from the forum that outweigh the
+liberty and property of the defendant put at risk in this dispute,  
+(2) the defendant has while present within the territory of the forum
+committed an intentional tort,  
+(3) where the dispute involves a contract or civil relationship, and the
+contract or relationship was entered into within the territory of the forum,
+or  
+(4) where the dispute involves existing rights or security interests in
+property located within the forum and the remedy is limited to that property.  
+_  
+  
+A wide variety of "gotchas" need to be explored, for example what happens when
+there are multiple parties to a dispute with conflicting jurisdictional
+choices. (There is case law precedent for most of these scenarios stemming
+from already existing jurisdictional choice statutes -- some Christmas vaction
+research for me :-)
+

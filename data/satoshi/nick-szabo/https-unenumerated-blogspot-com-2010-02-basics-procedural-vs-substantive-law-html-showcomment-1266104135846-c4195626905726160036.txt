@@ -1,0 +1,19 @@
+Alrenous, I agree that's a good distinction. I don't know of a single word or
+official phrase for it. Note that both can involve coercion (e.g. subpoena of
+witnesses). Although coercion of third parties, unlike coercion of suspects,
+leaves a bad taste in my mouth, it's a normal and necessary part of the
+system.  
+  
+On your second question, by who and whom do you just mean plaintiff and
+defendant? The area called "personal jurisdiction" is about who and whom can
+be plaintiff or defendant in what court(s), although it's usually based on
+where the plaintiff and defendant were or are and where the court(s) are. In
+the Middle Ages it was more common to base it on status, e.g. merchant fair
+courts had personal jurisdiction over people who had the status of "merchants"
+and attended the fair, even if the act in dispute occurred outside the fair.
+Status can still sometimes be a distinction e.g. with military court
+jurisdiction over members of the military. But it's mostly based on whose
+territory the act occurred in or that you are in when the suit is brought.
+Personal jurisdiction is a big topic in the Civil Procedure course. I discuss
+it here and here.
+

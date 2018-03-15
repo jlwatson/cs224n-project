@@ -1,0 +1,5 @@
+A program can participate in auctions and price discovery, but only usefully
+so if it has a sufficiently accurate model of the preferences of its master.
+The costs of determining, articulating, and inputting those preferences are
+the mental transaction costs of which I speak.
+

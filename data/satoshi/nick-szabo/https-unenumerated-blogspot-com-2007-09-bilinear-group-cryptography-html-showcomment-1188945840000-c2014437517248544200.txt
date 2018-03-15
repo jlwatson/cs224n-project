@@ -1,0 +1,7 @@
+See my paper, Elemental Subject Matter for how software (including math) run
+on computers or stored in memory came to be patentable, even though algorithms
+and other math are not supposed to be patentable. The basic problem is one of
+counting gratuitous elements \-- elements that do not add anything to the
+novelty or nonobviousness of a patent, such as a general-purpose memory or
+CPU, for the purposes of determining whether the subject matter is patentable.
+

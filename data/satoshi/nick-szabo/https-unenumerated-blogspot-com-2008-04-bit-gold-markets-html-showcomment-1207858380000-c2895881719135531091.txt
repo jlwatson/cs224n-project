@@ -1,0 +1,10 @@
+I miswrote: _All this is more wasteful than gold mining._  
+  
+Ha ha! That was supposed to read "no more wasteful than gold mining."  
+  
+To put my answer to Michael Froomkin another way, bit gold is based on an
+unforgeable auditing log, a chain of puzzles and solutions each of which is
+timestamped. The entire value chain from puzzle to solution, and all transfers
+of title, are available for all bit gold and can be audited by anybody at any
+time.
+

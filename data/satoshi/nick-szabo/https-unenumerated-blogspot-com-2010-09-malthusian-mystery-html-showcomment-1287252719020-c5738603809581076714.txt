@@ -1,0 +1,53 @@
+ _Work that yields too little money/food for subsistence cannot be done_  
+  
+This is a good point, but I think you also answered it, namely gains from
+specialization. The soil of a region might not be sufficient to grow a mix of
+food sufficient to live off of, yet it might be sufficient to grow exportable
+goods which can be traded for sufficiently nutritional foods. I admit to
+having a tough time coming up with examples, though, as the issues are subtle.
+Livestock could already be driven long distances to market, so that doesn't
+seem a good example. Albeit sheep for wool does, as wool was cheaper to
+transport than grain but not nearly as cheap as driving livestock. But land
+was also reclaimed for grain. The gains from specializing in that are either
+much more subtle or requires another explanation. Your answer about more
+dispersed plots may be it. Langton mentions commuting from village to farm as
+an advantage of a horse in his pathbreaking book on the English transition
+from ox to horse, but doesn't relate it to reclamation. To your answers I'd
+add gains from transporting inputs _to_ the farm: e.g. liming and manure.  
+  
+Your excursion on tropical birds is fascinating and not at all irrelevant. My
+interpretation is that these birds have a typical (far southwest) isocline for
+non-human animals. They have a far smaller population than their available
+food might support, so they live at the extreme top of the isocline. Which
+should be typical for species that have a high parasite load or predator load
+or (as with human hunter-gatherers) high intraspecific violence. If the
+parasite load disappeared I'd expect these tropical birds to evolve by sliding
+down the isocline, that is achieving a higher population destiny but losing
+the strong immune systems and wonderful plumes.  
+  
+The British were different because they radically moved the isocline itself:
+in the space of a few centuries they greatly increased their population
+without a substantial decline the per capita productivity of food production,
+and in the final phase radically increased the per capita productivity of food
+production as well.  
+  
+Incidentally, I've browsed Richard Wrangham's new book on cooking and homo
+erectus. The basic theory is that the discovery of fire and cooking allowed
+our homo erectus ancestors to grow bigger brains by allowing us to more easily
+digest a wider variety of foods. It allowed our ancestors to both decrease the
+size of their jaws, teeth, and digestive system (replacing them with bigger
+brains) and eat better diets and/or grow their population. I hypothesize that
+cooking was actually a substantial move northeast in the Malthusian isocline,
+allowing us to "predigest" food in ways other animals are not capable of. But
+not without animal analogs, e.g. the extra stomach of ruminants allowing them
+to "predigest" grass. And indeed, the high population densities of many
+ruminants suggest that they actually have rather northeasterly isoclines. In
+the case of American bison for example probably even more advanced than
+erectus or human hunter-gatherers.  
+  
+Incidentally, I'm not sure if Wrangham deals with this, but I'd add that fire
+and tool use are synergistic -- rocks can be used to grind or pound food down
+to a certain point where cooking becomes most effective in predigesting it.
+Which could explain why no other animals (e.g. birds which regularly
+manipulate tinder) ever evolved to predigest food with fire.
+

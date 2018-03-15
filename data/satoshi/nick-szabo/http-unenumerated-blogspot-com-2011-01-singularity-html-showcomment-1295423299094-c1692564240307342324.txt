@@ -1,0 +1,20 @@
+Meanwhile Timothy B. Lee makes a good argument about how it will probably
+always be infeasible to digitally emulate the evolved and analog brain, and
+the crucial distinction between simulations (which are and may of necessity
+always be woefully incomplete in this area) and emulation (which must be
+complete to work). I've clarified and extended his argument as follows:  
+  
+The most important relevant distinction between the evolved brain and designed
+computers is abstraction layers. Human engineers need abstraction layers to
+understand their designs and communicate them to each other. Thus we have
+clearly defined programming languages, protocol layers, and so on. These are
+designed, not just to work, but to be understood by at least some of our
+fellow humans.  
+  
+Evolution has no needs for understanding, so there is no good reason to expect
+understandable abstraction layers in the human brain. Signal processing may
+substantially reduce the degrees of freedom in the brain, but the remaining
+degrees of freedom are still likely to be astronomically higher than those of
+any human-understandable abstraction layer. No clean abstraction layers, no
+emulation.
+

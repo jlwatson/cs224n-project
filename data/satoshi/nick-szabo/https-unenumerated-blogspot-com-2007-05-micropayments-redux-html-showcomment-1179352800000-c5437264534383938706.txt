@@ -1,0 +1,70 @@
+RAH, there's no such thing as a market that is so standardized that the people
+paying good money in it don't ever have to think about it. And there's no
+point in having a market for Internet packets if everbody's Internet packet is
+to be treated the same. Simple resource allocation algorithms will allocate
+packets at least as efficiently as a market in that case.  
+  
+A market -- any useful market whatsoever -- is based on people having
+different budgets and preferences for the thing sold. For that to be reflected
+in auction software, said preferences have to be input into said software. And
+there's a mental transaction cost limit to doing that. People are not going to
+run around bidding two cents here for this YouTube video and a half cent there
+for that database on Internet auctions just to be able to get good bandwidth
+or response time. The hassle factor -- i.e. mental transaction costs -- for
+expressing preferences at such a high level of granularity are far too high.  
+  
+If, on the other hand, somebody can figure out a way for the user to input
+their budget and preferences, such that the mental transaction costs are
+sufficiently low -- perhaps by saying I'll pay ten cents a megabyte for any
+video at any time of day and five cents a megabyte for any database, and
+showing the running totals with meters that normally just under a toolbar icon
+-- then it may work. But notice the higher level of granularity the
+preferences are expressed at the less useful information the market has to
+work with (here we've lost for example important preferences between
+differernt times, different kinds of content, etc.) -- thus the less efficient
+the price system is at allocating the commodity. The proper tradeoff is
+probably very difficult to find or it may not in many cases even exist vis-a-
+vis a standard resource allocation algorithm like those already in use for
+Internet packets.  
+  
+The problem is far worse still for heterogenous content, such as the silly
+proposals for browsers to pay authors one or two cents a page. (Selling
+eyeballs via keywords is quite a different matter -- it's wholesale rather
+than retail and the humans do the counting by the tens of thousands of hits
+and have algorithms that make it safe for computers to do the finer-
+granularity counting -- which is why Google AdWords and the like have been
+successful).  
+  
+So far micropayments people have been mostly ignoring this crucial user
+interface / mental transaction cost problem and (because they've been ignoring
+it, and because it's usually a very hard problem) generally have not solved
+that problem. Thus micropayments have failed.  
+  
+Price granularity is relevant to micropayments because there's no point in
+having a granularity of payments lower than the price granularity of the
+markets they are going to serve. A large amount of effort has been wasted on
+conserving on computational transaction costs for sub-penny payments when by
+far the dominant cost of such systems are the mental transaction costs.  
+  
+Your comment about securities is even more puzzling, because obviously
+different issues of securities are different, and customers have to express
+their preference about the kind of security as well as the price. Mental
+transaction costs are one of the reasons why we often see round lots, why
+reverse splits are often used to avoid becoming a penny stock, and why we
+don't see sub-penny stocks. Even if the other transaction costs were zero and
+brokers charged nothing for trades, we'd still live in a world of mostly round
+lots and no general use of sub-penny stocks due to mental transaction costs.
+We could have sub-penny (and even nanopenny) derivatives for use in automated
+arbitrage, since that's a case where preference expression straightforward.
+But it's a special case.  
+  
+Potentially my market translator could allow nanoderivatives in some other
+areas, but the key again is translating preferences input at a high
+granularity into equivalent low granularity preferences -- a preference
+compiler. That's what the market translator is intended to do. But just me or
+anybody else pointing out such a possibility is hardly evidence that it will
+be common, much less that it will be easy, much less that the issue can be
+blithely ignored while we obsess about how to squeeze the computational
+transaction cost of a micropayment down from a hundredth of a penny to a two-
+hundredth!
+

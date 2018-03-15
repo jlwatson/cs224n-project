@@ -1,0 +1,32 @@
+ _I certainly agree with you that it has better chances at becoming an
+investment vehicle than a day-to-day currency._  
+  
+Hmmm, I'm not sure that's quite what I meant to say. If your critique of
+scalability and transaction times is correct, I do agree that it won't be a
+payment system for the masses. However, as a high-powered money it can still
+be a currency, with a redemption window where digital bank notes (the payment
+system for the masses) can be redeemed for Bitcoin. But it's all the same
+currency, just as both a pound of silver and bank notes redeemable for a pound
+of silver (or its gold equivalent) were once the currency of the British
+Empire. Securely auditable Bitcoin held by the note-issuing banks would
+greatly increase their trustworthiness.  
+  
+ _if gold becomes too expensive, more effort will be put into mining thereby
+increasing supply, while if gold price falls, people stop mining. With
+BitCoin, there is no such feedback: no matter how much effort is put into
+BitCoin mining, the rate at which BitCoins emerge is near constant._  
+  
+I think this is a valid critique. For the reasons you state Bitcoin is far
+more susceptible to radical deflation than gold. Sufficiently high deflation
+can bring credit markets to a halt as real interest rates become higher than
+the time and risk value of money a market in a non-deflationary market would
+set. If people figure out how to make loans at negative nominal interest
+rates, that would help solve this problem, but that only handles expected
+deflation; it wouldn't prevent widespread bankruptcies and other problems that
+come from unexpected radical deflation.  
+  
+My bit gold design would work very differently than Bitcoin in this regard --
+the relative prices of solution bits between periods of time (e.g. between one
+week and the next) would be set by a market, not by a prescheduled algorithm,
+so as with gold supply would be able to adjust to meet greater demand.
+

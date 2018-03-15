@@ -1,0 +1,30 @@
+james: _Bit gold has the problem that it will suffer rapid predictable
+inflation_  
+  
+This problem is easily solved, because the bit strings (puzzle
+problem/solution pairs) are securely timestamped by their time of publication
+More recent (and thereby cheaper to produce and thus in greater supply) bits
+will be discounted by a market. To create fungible units one has to bundle
+strings of different value into pools of a standard value (i.e. collect
+strings into a pool so that the sum of the market values of the strings in the
+pool add up to the standard value).  
+  
+It's a bit indirect, but comptuers can easily handle these logistics. Leaving
+aside the gold metaphor for a minute, one can think of these bit strings as
+digital rare postage stamps. Each stamp might trade for a different price, but
+one can sort stamps into pools so that the prices of stamps in each pool add
+up to the same total price. Then divide each pool into tranches to create your
+standard currency denominations.  
+  
+One misleading aspect of the rare stamp metaphor is that unlike stamps, but
+like gold, there is little or no ongoing change in subjective valuation
+between bit strings to worry about, but instead it's purely based on how
+scarce the supply of puzzles solved during a given time period was and is:
+thus pooling will work much better for bit gold than it does for actual rare
+postage stamps.  
+  
+There will be a problem defining futures contracts for yet-to-be produced bit
+gold: how much it might cost to solve a given puzzle a year later, or even a
+month, will be a very uncertain matter. But the pools that define currencies
+will be based on spot prices for already produced bit gold, not on futures.
+

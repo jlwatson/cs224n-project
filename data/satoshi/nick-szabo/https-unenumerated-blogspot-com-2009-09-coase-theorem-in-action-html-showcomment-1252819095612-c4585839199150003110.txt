@@ -1,0 +1,49 @@
+ _All transactions that ideal agents make are technically voluntary_  
+  
+"Ideal" only in a very idealistic moral sense that depends on a sophisticated
+legal system to have a basis in social reality. Otherwise it's nowhere close
+to reality. How many transaction in nature are voluntary? It's a dog-eat-
+rabbit and a rabbit-eat-grass world, and that can be only changed with
+something highly artificial and non-obvious to nature, e.g. a highly
+sophisticated system of tort and property law.  
+  
+Market and related transactional models of economics rest assume such
+voluntary transactions, and thus assume a sophisticated legal system, which is
+why I generally reject them, at least out-of-the-box, as explanatory devices
+for phenomena operating outside that legal regime, including explaining the
+nature or origins of that regime.  
+  
+Rational self-interest I do take as a far more generally applicable assumption
+of economics, but that is an extremely different thing than supposing all
+actions are voluntary.  
+  
+Another useful model is the Byzantine or security model, where you expect and
+protect against the worst possible behavior your fellow humans could possibly
+dish out.  
+  
+Neither the rational self-interest model nor, obviously, the Byzantine model,
+have the corollary of voluntary transactions. That requires far more, e.g.
+that highly evolved legal system.  
+  
+Generally I'm willing to accept the rational self-interest model, although the
+pure Byzantine security standpoint is sometimes also valuable if it's hard to
+judge what would be in their self-interest or if it's probably in their self-
+interest to attack.  
+  
+In the above analysis, I've been using the rational self-interest model,
+although if we pursued it further we'd need to use the security model to
+determine the credibility of threats and outcomes of what we might call
+"mutual exchanges of externality" :-)  
+  
+ _If everyone could spend as much money as they wanted (but lose utility
+proportional to the amount of money spent) the mafia would go away._  
+  
+The premise is hopelessly imaginary, and the conclusion is wrong anyway. Some
+preferences are relative, and thus insatiable, especially those satisfied by
+zero- or negative-sum power games, and so the mafia would keep on collecting
+regardless of how much it already had. The same applies to the music store,
+although without preexisting legal rights they (or the doctor, or both) would
+end up using guns instead of mere guitar amps.  
+  
+(This latter also responds to Daniel's point).
+

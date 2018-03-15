@@ -1,0 +1,65 @@
+peco,the game is negative-sum for the same reason a tax is, firstly because
+the music store's coercion distorts the behavior of the doctor and his
+patients. Assuming the doctor is helpless to stop the noise without making the
+payoff (e.g. we artificially assume he can't order a mob hit on the music
+store, or poison its customers, or emit any other such "extreme" externality
+to avenge or deter the music store's excess externality) he will go golfing
+more, and see fewer patients, if he is paying P2 to the store instead of P1.
+Fewer patients will be healed, a net loss of welfare. Since we assume the
+music store is rational, it will demand only the Laffer-maximum amount of
+extortion, but Laffer-maximum taxes still have plenty of distoritve effects
+that produce inefficiencies compared to the no-taxation case. Secondly, the
+behavior of the music store is also distorted because it has excess profits to
+spend. It will invest its extra money in opening new music stores and concert
+halls next to other doctor's offices, nursing homes, and similar because that
+is a lucrative source of profit, and so other activities that would prefer
+quiet will be distorted in turn. It is often unreasonable to assume that
+Coaseian payees are spending their extra money efficiently. Interestingly,
+shades of Clayton's reasoning, Gary Becker assumed the Coaseian payor's
+behavior was not distorted and that the Coaseian payee was spending its extra
+profits efficiently, and used this Coaseian reasoning to argue that
+governments themselves are efficient outcomes of Coaseian bargaining. Becker's
+argument is wrong for the same reason that Friedman's argument is wrong for
+legal protection agencies: it doesn't account for the economic distortions
+caused by coercion.  
+  
+To see where these negative-sum games lead, let's take the case of roving
+loudspeakers. Pickup trucks drive through the city, parking in front of every
+business in turn and demanding large payments to take their noise elsehwere.
+The optimal extortion for the extortors in this case is nearly 100% of all
+business wealth in the city (again assuming the victims are defenseless),
+because if extortor A doesn't extort any remaining wealth extortor B will be
+happy to come in and take it. The economy is so distorted that practically
+nothing gets produced or distributed and the city's economy collapses. This is
+the "roving bandit" case studied by Mancur Olson. Where two stores are next to
+each other and neither can move constitute "stationary bandits", as do gangs
+or governments with "monopolies of coercion" over fixed territories. As the
+roving loudspeakers case illustrates, rational stationary bandits collect a
+far lower percent of their victims' profits in taxes than do roving bandits.
+(But stationary bandits with the much lower rate than 100% end up collecting a
+far higher absolute amount -- recall the Laffer curve) . If on the other hand
+we assume the victims are _not_ defenseless, we have negative-sum games like
+hawk/dove, negative tit-for-tat, etc. which again are paradigmatically very
+different from voluntary Coaseian bargains.  
+  
+We can measure the effectiveness of an excess (or coercive) externality for
+extracting super-Coasiean payoffs by how great a harm the externality can
+produce for the least cost to the emitter. The ubiquity of technology that is
+very effective in producing the greatest harm for the least cost, i.e.
+weapons, in our world should be a very good clue that our world is not
+Coaseian. Music volume, spark emission, and so on beyond the "preferered"
+level Coaseians falsely assume to be maximal are logically weapons. Their
+harm/cost ratio is lower than guns, tanks, bombers, missiles, flamethrowers,
+herbicides, and so on, but they have an advantage in being physically hard to
+distinguish from merely Coaseian externalities, which would come in handy in a
+world where judges and other lawmakers actually based law on the Coase theorem
+(the good news is that they mostly don't).  
+  
+I should note that the basic argument that the Coase Theorem is inapplicable
+for political analysis, because it assumes voluntary bargaining and politics
+is coercive, comes from Olson. My contributions above are (1) a rigorous
+disproof of the claim that the Coase theorem is generally applicable to
+externalities, because its assumption are contradictory in both allowing and
+excluding coercion, (2) to show the continuum from externalities to coercion,
+that the two are not readily separable.
+

@@ -1,0 +1,48 @@
+Emile:  
+ _humans will already have gone the way of the horse before that because of
+"specialized" AI _  
+  
+We have to talk about what we know, or at least by strong analogy to what we
+know, or it's just pointless speculation.  
+  
+So today, some people are trust fund babies. It doesn't matter if they don't
+have any marketable skills, because they can make a living off the capital
+gains and dividends thrown off by the humans and machines of the companies
+they own.  
+  
+After a very long evolution of hyperspecialization in machines, they will be
+able to do essentially anything of value that a human would want, excepting
+those tasks that for emotional reasons require another human (e.g. sports,
+nail salons). At that point, every human can be a trust fund baby, except
+people who don't own significant stocks will need to polish the trust funders'
+nails, or entertain them in sports, or the like, until they've saved up enough
+money to buy enough stock to live at the standard of living they wish. Of
+course, people will still have a wide variety of hobbies of varying degrees of
+intellectuality, usually assisted by myriads of hyperspecialized machines.  
+  
+By sharp contrast, horses went the way of the horse because, when IC engines
+rendered most of them useless, they didn't own anything. Instead the humans
+who owned them chose to feed most of them to their dogs.  
+  
+Since there will be nothing like AGI, just quadrillions of different kinds of
+hyperspecialized machines, it's quite reasonable to say that no ethical issue
+arises out of humans retaining ownership over their machines and the machines
+owning nothing.  
+  
+The wild card, of course, is that I'm assuming that ownership still works,
+i.e. I'm making the security assumption that humans will still control their
+machines. Unfortunately, we do have some machines even today that owners lose
+control over due to poor security. And that's the real issue.  
+  
+So I submit the only useful questions we can ask are not about AGI, "goals",
+and other such anthropomorphic, infeasible, irrelevant, and/or hopelessly
+vague ideas. We can only usefully ask computer security questions. For example
+some researchers I know believe we can achieve virus-safe computing. If we can
+achieve security against malware as strong as we can achieve for symmetric key
+cryptography, then it doesn't matter how smart the software is or what goals
+it has: if one-way functions exist no computational entity, classical or
+quantum, can crack symmetric key crypto based on said functions. And if NP-
+hard public key crypto exists, similarly for public key crypto. These and
+other security issues, and in particular the security of property rights, are
+the only real issues here and the rest is BS.
+

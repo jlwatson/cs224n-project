@@ -1,0 +1,5 @@
+The kind in the incorruptable heavens. Pulsars retain the valuable security
+property (as with astronomy-based time checks throughout history but unlike
+atomic clocks) that many people can observe the same "clock ticks"
+simultaneously and independently.
+

@@ -1,0 +1,52 @@
+Anonymous, your concerns are well-placed, which as I take it are (1) resolving
+disputes between different creditors with security interests in the car, and
+(2) ensuring that the creditor does not abuse its power to remotely lock the
+ignition.  
+  
+The biggest concern with the first problem is that this smart lien might be
+used as a secret lien, i.e. a lien other creditors cannot readily discover by
+searching the public financing statements, because the smart lien creditor can
+rely on the technology rather than the law to take control of the car. So the
+debtor might induce creditors to make further loans using the car as security
+but not knowing of the first smart and secret lien.  
+  
+The general answer to the first concern is to align the protocols to secured
+transaction law more than my original proposal or the real-world
+implementations so far do. For example, instead of the conditional repo "keys"
+being held by the creditor or his agent, they could be held by a neutral third
+party that may also act as an arbitrator implementing the legal priority of
+the creditors, and can act as an agent of a state court(in the U.S.) or
+bankruptcy court for same. In this sense the protocol becomes a "smart
+remedy", in particular a smart distraint, which can be implemented
+automatically upon the verdict of the arbitrator or court. The first _publicly
+registered_ lienholder (in the jargon of secured transaction law, the first
+perfected creditor) holds the physical power of repossession, but the
+arbitrator or court also holds the power to reverse this and give control to
+another creditor if the law should so imply.  
+  
+To assist in this, the current system of public financing statements (that
+record the security interests of various creditors, so that other creditors
+are put on notice of these conditional rights) might be supplemented or
+replaced with a secure distributed database of security interests, implemented
+in the same way as secure property titles. When the control transfer
+conditions occurs (e.g. missing too many payments), the smart lien could
+automatically look at the database to determine the proper creditor to which
+to give control. Alternatively, it might be possible to automate the lookup
+and interpretation of current state financing statement databases to the same
+effect.  
+  
+The answer to your second concern is not Mutual Assured Destruction (giving
+debtors the password to their creditors' bank account), but assuring that the
+_condition itself_ is secure -- in other words, that the creditor physically
+cannot take control of the car unless the debtor really has not paid, and has
+loses all possibility of controlling the car in any way after said debtor has
+paid in full.  
+  
+In this sense my original proposal solves (or at least plans to solve) this
+second problem, but the real-world implementations so far don't, and do indeed
+put more power than is ideal into the hands of creditors. Of course, debtors
+are free to decline to buy cars on credit using these mechanisms, but a fairer
+protocol, i.e. one in which the conditional logic is secure from both creditor
+and debtor, would be even better: more people would be willing to buy the
+cars, expanding credit opportunities.
+

@@ -1,0 +1,31 @@
+Thanks gwern, that is a very interesting result and quite pertinent to what we
+are discussing. From what I can tell from skimming the paper and the
+commentary, the result strongly suggests arsenic is being used in place of
+phosphorous to _some_ extent in _some_ molecules. It's not clear how many
+different kinds of molecules such as ATP, DNA, RNA, phospholipid, etc.
+normally constructed out of phosphate are involved. So they haven't proven
+that phosphorous in at least some necessary molecules is irreplaceable. Much
+more research is needed. Nevertheless the result is very exciting.  
+  
+It is otherwise a very dramatic story as well. Involving poisons and "aliens"
+oh my, so it has the world abuzz.  
+  
+The basic result of their experiment is that a particular species of
+Halomonadaceae bacteria grew 60% as fast on arsenate as on phosphate but
+didn't grow at all when deprived of either. Suggesting that arsenate can in
+this very arsenic-adapted bacteria substitute for phosphate but only at 60%
+efficiency. The reason arsenic is a deadly poison for the rest of us is that
+when arsenate substitutes for phosphates in us it degrades molecular functions
+of e.g. ATP to such an extent that we soon die as a result.  
+  
+If life originated where arsenates were more common than phosphates, this
+might change the basic ATP-centric theory of origins to a ATA (adenosine tri-
+arsenate) theory. However, there are chemical reasons to doubt this (water
+tends to break down arsenates far faster than phosphates), so more likely life
+originated with phosphorous and has adapted to _partial_ (but not preferred)
+use of phosphorous in arsenic-heavy environments like Mono Lake.  
+  
+Contrary to the "astrobiology" hype in this story, arsenic substitution
+doesn't greatly increase the probable frequency of life in the universe, since
+arsenic is even less abundant than phosphorous.
+

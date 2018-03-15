@@ -1,0 +1,45 @@
+gwern:  
+ _It just needs to be good enough to pay for its consumption of resources.
+That doesn't seem very hard at all._  
+  
+Nope, that's the main point, it is hard, it is astronomically hard, it is
+_exponentially_ slower to learn about an environment in a general way than to
+learn about a specific environment or aspect of an environment in a specific
+way suited to that aspect. So our AGI loses, it really can't even start the
+race, in any competition, whether economic or violent, with already existing
+hyperspecialized algorithms. Any such general algorithm is merely an
+intellectual curiosity, it doesn't do anything significantly useful or
+threatening.  
+  
+_(I think *AIXI-MC* might be smart enough to handle paying jobs like breaking
+CAPTCHAs!)_  
+  
+And this is a perfectly good example. An algorithm especially suited to break
+CAPTCHAs is going to do the task vastly better than applying some very general
+purpose learning technique.  
+  
+ _All those tools are already being wielded by absurdly inefficient general
+purpose intelligences - humans._  
+  
+Nope, we humans ourselves are collections of a variety of special-purpose
+learning techniques. Much more general than the tools to be sure, but far from
+the mythological AGI. We already start out with many special algorithms grown
+as our genetic code elaborates into the astronomically complex network of
+proteins etc. that is our brain, and we learn many more specialized techniques
+on top of those as we watch our parents and peers, go to school, gain job
+experience, and so on, increasingly differentiating our skills from those of
+our fellow humans the more we learn. Tons of information transfer, and quite a
+bit of efficient specialized learning, but practically none of what a computer
+scientist would call learning (discovering new rules from raw data) in
+anything but particular specialized contexts, e.g. a child learning language
+from examples he hears.  
+  
+We will be, and in some cases today already are, wielding tools vastly more
+capable in any particular task than either ourselves our any putative AGI. And
+hopefully we'll be doing this in a security environment exponentially
+difficult or information-theoretically impossible to crack. OTOH if the
+security is feasible to crack then again malware hyperspecialized at the job
+of cracking security is going to do the job vastly more effectively and long
+before anything resembling AGI. The real threat is hyperspecialized malware,
+not mythological anthropomorphic software.
+

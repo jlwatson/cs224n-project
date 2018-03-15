@@ -1,0 +1,31 @@
+Brian, keeping a ledger of who owns what financial instrument (e.g. a share of
+stock or a particular bond) is traditionally the job of an exchange or
+associated entity. It comes with quite a bit of bureaucracy for financial
+companies. So one near-term application for secure property titles is a quick,
+streamlined way to deploy a new financial instrument (e.g. some new kind of
+derivative or synthetic asset) without the traditional bureaucracy, yet with a
+great degree of security regarding transfers and proving ownership. Basically
+you implement secure titles for it (or for a synthetic asset, for its
+components), and then you can either let people transfer with the registry
+after they discover each other and negotiate out-of-band, or build an online
+exchange on top of this instrument registry, or both. I also have in mind
+tools to help design new kinds of synthetic assets.  
+  
+Another relatively easy class of applications involve creating new, DNS-like
+public namespaces (i.e. ownership of names for particular purposes) to be used
+by some community. Also we might convince one or more DNS sub-domains to
+switch to this more secure and less politically controllable method.  
+  
+Basically it's bringing the Bitcoin revolution to other kinds of digital
+property besides just money, and starting by making defining new kinds of
+digital property easy (since as you point out the old kinds already have
+established registries).  
+  
+Since I'm working on some of this myself, anybody who wants to work on this
+feel free to e-mail me so we can coordinate or at least not overly duplicate
+efforts. My basic starting point is node.js, (including a node.js to act as a
+client that has different security assumptions than a browser, but can still
+take advantage of browsers for the UIs, all JavaScript in the same event
+oriented-style) but I'm open to new ideas or new implementations of a crypto
+plugin for node.js (which would presumably be in C or C++).
+

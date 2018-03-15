@@ -1,0 +1,64 @@
+I stand corrected on 1970s inflation figures. My personal memory is that it
+was far larger than that. Obviously the numbers have been corrected behind my
+back some time between then and now. :-) Probably my memory overemphasizes
+gold, which went from $35 to a peak of over $800 in 1980, and oil, which went
+from around $3 to a peak of over $40 in 1980. These reflect expectations that
+inflation would remain high after the 1970s, which didn't pan out (or, if your
+theory emphasizing irrationality is correct, the sheer over-reputation of gold
+and oil over stocks based on recent price history). The CPI growth is of
+course larger if we tack on ten more years. 1965-1985 the CPI grew 338%
+whereas S&P 500 earnings grew only a bit less, 296%. I must conclude that
+stock earnings basically kept up with inflation during the main period of
+recent historical inflation. We are probably starting to run another
+experiment. :-(  
+  
+Since irrationality leaves us waving our arms unfalsifiably, I remain, perhaps
+like a drunk searching for a lost item under the lamp-post, searching for
+explanations for prices based largely on rationality and high uncertainty.  
+  
+ _[A hypo which I'm afraid is extraordinarily utopian: free banking + taxes
+abolished]  
+  
+Would the market settle on one particular collectible to use as a store of
+value (say gold) and would this collectible absorb 95+% of the demand for
+collectibles? Or would the the collectible premium remain spread across
+various goods (stocks, silver, housing, etc.)?_  
+  
+To conserve transaction costs for the medium of exchange (especially to
+minimize the problem of multiple currencies creating multiple prices for the
+retail customer), markets would probably settle for redemption windows on
+either gold or a particular commodity basket ETF or some combination of a
+variety of ETFs. (There may be ways to reduce retail transaction costs
+sufficiently, and this would incidentally greatly help new entrants in
+currency markets get established. On this I refer readers to my old article
+describing a generalized system of financial contract "translation").  
+  
+In terms of just stores of value, i.e. investments, transaction costs are so
+low that the value of diversification between different stores of value with
+different kinds of risks far outweighs the transaction costs of keeping track
+of these different investments for all but the smallest of investors.
+Investments would remain diversified. Since long-term inflation expectations
+would go way down (replaced by the old regime of inflations and deflations
+which mostly balance out through a business cycle, if free banking remains
+competitive) the collectible premiums on all investments would go way down,
+except perhaps (more below) those of the commodity(s) in which the currencies
+are redeemed. Investment demand would shift towards flow demand and away from
+collectible demand. Artwork would be put in warehouses to rot and venture
+capital would boom.  
+  
+Even if we need one medium of exchange (currency) standard for transaction
+cost reasons, a single standard does not necessarily mean one store of value
+with a high collectible premium. If the basket of investments in the standard
+is sufficiently diverse -- let's say it includes a real estate basket ETF, a
+stock index ETF, a commodity basket ETF, and a small fraction of precious
+metals -- the collectible premium in any one of these stores of value would be
+small (and gold prices would dramatically fall). The ETFs seem to solve the
+problem of a clear contractual definition of the basket.  
+  
+Two other ways we might reduce the collectible premium: (1) as above, reduce
+medium of exchange transaction costs to the point where many standards can
+coexist. (2) If for some reasons, e.g. better auditing and less leverage than
+during the previous free banking era, overall trust rises to the point where
+redemptions across the entire business cycle greatly fall, the collectible
+premium for the backing commmodity(s) also could greatly fall.
+

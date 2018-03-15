@@ -1,0 +1,19 @@
+The implied inflation in 1980 does look very trusting given the then
+contemporary inflation rate, but in retrospect gold investors weren't quite
+trusting enough. If you look at the nominal gold price (which hit $800 an
+ounce and later in the 1980s went down to $250) it looks like a bubble.
+Everybody underestimated Paul Volcker.  
+  
+Also keep in mind that the dollar price of gold reflects inflation
+expectations in all dollar-linked currencies, not just in the dollar itself
+and certainly not just in the U.S, much less just among U.S. urban consumers.
+In that sense, my (not to mention others') use of CPU-I to estimate inflation
+is very misleading. The inflation expectations implied by the gold price is
+(perhaps for the first time -- does anybody know of an earlier attempts to
+derive this?) an intersubjective estimate of global dollar and dollar-linked
+currency inflation, i.e. one that takes into account every market
+participant's actual estimates of inflation based on their actual consumption
+expectations as reflected in market prices, rather than being based on
+formulas like CPI-U that attempt to mimick (without really knowing) the
+consumption expectations of consumers.
+

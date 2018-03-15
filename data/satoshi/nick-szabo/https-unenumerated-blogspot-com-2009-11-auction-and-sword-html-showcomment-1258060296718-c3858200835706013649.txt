@@ -1,0 +1,39 @@
+Another "whole/part" issue is treating the Praetorian Guard as a whole. In
+fact like other military institutions it had a commander, the Praetorian
+Prefect, whose orders other Praetorians had to obey. Unless they did something
+to violate this standard, the Prefect would just make himself emperor, and
+then we're back to the problem of how is the Prefect chosen, etc. (turtles
+standing on turtles ad infinitum).  
+  
+This problem can be broken by saying that there is at least one specific
+civilian situations in which you do _not_ follow your superior's orders -- for
+example, when a secret ballot is taken among the Praetorian Guards to choose a
+new emperor. But even in that case, I suspect they are likely to choose the
+commander they are accustomed to following.  
+  
+Veering away from succession to other legal procedures, the English derived
+their legal system from the system of military orders. The system started from
+military conquest but the subsequent civilian administration soon evolved in a
+very interesting direction. They developed a system of civilian judicial
+orders from the king that _had to be in a very specific form_ -- much like a
+computer program cannot have a syntax error. They had to be orders about a
+very particular subject, a particular person, and so on, and the purpose of
+the syntax was to make sure the superior officer stayed within these bounds.
+Because if these orders, called _writs_, contained an error, they _did not
+have to be followed_.  
+  
+Thus, for example, _habeus corpus_ was a writ, an order from a king's judge in
+the name of the king, to bring a specific prisoner in front of the court and
+show just cause why he must be released. It had to be in a specific form,
+naming a specific prisoner, otherwise the sheriff could ignore it.  
+  
+With this system the judge or king in his civilian role can issue certain
+important orders to his subjects, e.g. other officers or other holders of
+political property rights, but can't order the them to do just anything like
+the king could order his inferiors when at war.  
+  
+IMHO, the writ system was the single most important innovation in the history
+of law. The writ system was a deep and powerful system, an ancestor of the
+U.S. system of enumerated powers, but far less subject to expansive
+interpretation as U.S. courts have done with the Commerce Clause and so on.
+

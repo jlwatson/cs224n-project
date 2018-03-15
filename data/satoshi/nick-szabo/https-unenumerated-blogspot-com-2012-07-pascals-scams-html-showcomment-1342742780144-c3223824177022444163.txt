@@ -1,0 +1,15 @@
+ _Do you believe that if, at some point in future, we combine our experts
+systems, tools, into a coherent framework of agency, this will be of no
+advantage to the resulting agent that is large enough for it to pose a risk to
+humanity?_  
+  
+Stated this way, I don't even buy the "if" part -- combining software systems
+is a difficult engineering problem that gets much harder as the total lines of
+code increase. I've seen large software systems and "coherent" is not how I'd
+describe them. :-) Software is going to become more fragmented, not more
+combined.  
+  
+And of course as you state I do indeed believe that to the extent such
+combined software is feasible it would not pose any kinds of problems that
+specialized software had not posed long before and to a far greater degree.
+

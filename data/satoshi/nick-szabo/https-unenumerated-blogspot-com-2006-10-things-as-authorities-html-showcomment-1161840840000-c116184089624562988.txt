@@ -1,0 +1,59 @@
+Jeremy, I share your concerns, and those concerns are just why I'm so
+enthusiastic about authority from things. In its ideal form the authoritative
+object cannot be manipulated by any human or group of humans, no matter how
+powerful. To the extent we can approach this ideal we reduce our
+vulnerabilities to gaming and centralization of authority.  
+  
+As something that comes quite close to this ideal, think of a pulsar as a time
+standard. A pulsar sits far beyond the distance where it can be subject to any
+human manipulation, sending out a precisely regular strobe. As long as you
+control a machine that picks up this signal directly, nobody else can defraud
+you as to what time it is.  
+  
+With current technology it's too expensive for the vast majority of people,
+including me, to pick up a pulsar radio signal with our own receivers. So I
+have to rely on some other people to pick up the signal (or, as it really
+works today, measure the signal of atomic clocks of the same kind) and tell me
+what time it is: I have to rely on some communications and some trust, or at
+least on some security beyond my control. If I talk directly to the people who
+do have such radio receivers, then if at least one over a half of these people
+are reliable a minority of colluding liars can't defraud me. I can tell
+something untoward is going on in a debugged system even with a small number
+of errors, but if fewer than half are defrauding me, I still know what the
+time is. The more uncontrolled and independent people I talk to the more
+restitant I am to manipulation or fraud by a powerful person or group.  
+  
+In practice, because time can ultimately be measured against astronomical
+objects beyond reach, and proximately based on regular mechanical or standard
+atomic movements, it has long been difficult for central authorities to
+defraud people in most ways about the time. There are stories that employers
+once used to add few minutes to every hour back when they controlled the only
+clock in the factory, but if so this became impossible when at least a few
+employees started carrying pocket watches.  
+  
+It's an interesting question as to whether the U.S. government ever has or
+could undetectably defraud GPS users. Fortunately the EU is launching an
+alternative called Galileo which will make this even less likely.  
+  
+Traditionally we have come up with many processes to greatly improve the
+reliability of communications: tamper-evidence (as in sealed letters),
+physical broadcast (where it's hard to prevent people from receiving
+accurately what was broadcast), hard-to-forge audit trails, separation of
+duties, scientific methods of repeating experiments, and so on.  
+  
+The cryptographic research community studies protocols with very strong
+mathematical properties, such that (most likely) one would have to expend vast
+amounts of energy, often even more energy than is available in the entire
+universe, to break the protocol. Encryption, digital signatures, mulitparty
+secure computation, and a variety of other useful protocols probably have such
+strong properties.  
+  
+Real implementations, alas, don't quite live up to this ideal and are
+sometimes cracked. But overall cryptography can provide a great leap up in the
+security of a variety of communications, such as the unalterability of audit
+trails. Thus I foresee a future in which automata as authority will become far
+more reliable and secure and will replace many weaker traditional methods. As
+a result we'll have a much more secure basis on which to trust our six billion
+plus fellow strangers with much less reliance than in the past on central
+authorities.
+

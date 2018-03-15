@@ -1,0 +1,27 @@
+For applications like spam resistance using regular (not reusable) POW, your
+argument has some weight: to the extent these schemes assume spammers will
+exhaust their computing resources before end users, they may prove to be
+disillusioned.  
+  
+But with respect to bit gold, you could make the same argument about gold and
+gold mines, and it would also be wrong. There are substantial economies of
+scale in gold mining and a handful of corporations are responsible for most of
+the world's gold mine output. That doesn't prevent a very competitive market
+in gold. (But see my comment on custom hardware below -- that is a scenario in
+which your argument has more weight).  
+  
+For both gold and bit gold the price is determined by supply and demand. For
+both Hal's and my scheme the supply is determined by the scarcity at any given
+time. In Hal's scheme this is because tokens are turned over sequentially
+every time they are used and in my scheme because they are securely time-
+stamped. In my scheme later times will usually reflect lower computation costs
+and thus trade for a lower price, while in Hal's scheme the difficulty of the
+puzzle is gradually increased.  
+  
+The worst problem, that I indicate in my article, is that somebody could come
+up with custom hardware with orders-of-magnitude advantage and possibly gain a
+near monopoly over the "mining" market until soembody else figures out a way
+to duplicate the hardware. This might or not beat the idea -- the market for
+time-stamped POW bits may adjust properly to even such a radical cost
+reduction -- but it's an important problem.
+

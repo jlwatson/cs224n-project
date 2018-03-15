@@ -1,0 +1,32 @@
+ _I get the impression that the old forms of legal property were
+nonstransferable and the owner couldn't even alter the rules of succession,
+but maybe that's wrong._  
+  
+To oversimplify, one could usually sell, but not mortgage or alter inheritence
+by will franchises. When, as was often the case, they were attached to
+("appurtenant" as we say in property law) another property, they were governed
+by any alienability restrictions on that property. They often becamed
+partitioned under inheritence (with the strange effect that women often got
+the franchises as their share and the oldest son got the real property -- this
+under the now obsolete primogeniture laws).  
+  
+ _I get the impression the new ones would be transferable and would probably
+be held by corporations rather than individuals._  
+  
+We'd need to experiment to see what works, but generally speaking yes.  
+  
+ _Let's say that I own the right to execute capital criminals within San Mateo
+county. Presumably I don't have anything to do with apprehending or convicting
+criminals (unless I happen to own thsoe rights also). Does that mean someone
+has to pay whatever fee I charge or the felons remain unexecuted? Or can they
+just be shipped over to Alameda and executed there?_  
+  
+Good question, thanks.  
+  
+Franchises are a legal monopoly and their fees are capped by juries to allow
+for "reasonable" profits only. Whether they can be shipped to Alameda county
+depends on whether the monopoly is over executions conducted _within_ San
+Mateo county or is over executions for crimes committed in San Mateo county.
+We should prefer the former, more competitive solution unless the competition
+would cause (as in the tax case) more problems than it solves.
+

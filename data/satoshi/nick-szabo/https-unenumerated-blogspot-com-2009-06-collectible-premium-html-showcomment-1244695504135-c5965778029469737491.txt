@@ -1,0 +1,18 @@
+Here is some additional explanation (from a comment I left on the professor's
+blog):  
+  
+Demand curves for housing and commodities have a utility (consumption)
+component. If a shopper for a house plans to live in it and rent out their
+basement, the demand curve for purchasing the house also has a cash flow
+component: the demand for the house includes both utility and flow components.
+Finally, any asset that provides any hedge against inflation has what we are
+calling a _collectible_ component. The collectible component reflects
+inflation expectations. Thus, with non-zero inflation expectations the demand
+curve for that house includes all three components: utility, flow, and
+collectible.  
+  
+Commodities can hedge against long-term inflation and thus often have a high
+collectible component on top of their consumption component. Houses also often
+have a high collectible premium. Stocks also have a (smaller) collectible
+premium.
+

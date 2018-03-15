@@ -1,0 +1,25 @@
+george: _With physical gold, mining more gold may bring benefit to the miner
+but it decreases the purchasing power of gold already mined. I don't see why
+increasing the quantity of refined gold in the world should change transaction
+costs one way or the other._  
+  
+This is true, a but it illustrates another way in which timestamped bit gold
+is superior to non-timestamped gold. Cheaper mining of gold per atom decreases
+the purchasing power of gold atoms already mined by that amount, but because
+of secure timestamping and inter-week arbitrage (i.e. not treating all bits as
+fungible), a new week's worth of solved puzzles, regardless of how many or
+large the puzzles are that are solved, changes the value of preceeding weeks
+by a negligible amount in the long run. (BTW, for both gold and bit gold, spot
+prices already reflect expectations of how much will be produced in the
+future: but for gold this the number of atoms that will be produced, and for
+bit gold this an amortization of future weeks versus weeks of past stockpile
+already accumulated).  
+  
+The same effect can already be observed in collectible coins: coins from eras
+in which coins were less seldom produced than today trade at increasing
+premiums over their value as gold. Even if we discovered a way to transmute
+lead into gold for free, these old coins would never lose their proof of
+scarcity -- they would only lose their gold value, but never their value as
+rare collectibles (which in the rarer epochs is far greater than the value of
+their gold atoms). That's as close as we can come to time-stamping gold.
+

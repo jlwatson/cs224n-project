@@ -1,0 +1,63 @@
+JSBolton: I agree there is far more to book consciousness than just having a
+printing press. The printing press was a necessary but not sufficient
+condition for the wide spread of literacy and the consequent revolutions in
+organization and culture. The Florentines were able to have a relatively minor
+and very temporary revolution just prior to the printing press through a large
+merchant community speaking and writing a common vernacular, reflected in e.g.
+Dante.  
+  
+anonymous 1: I'm not sure the Bible was really the "killer app." Gutenburg and
+Fust probably made more money by selling Donatus' Latin grammar, widely used
+in universities. Fust's background was as a (previously manuscript) book
+seller to universities.  
+  
+If I had to pin down three key differences between East Asia and European
+reception of printing they'd be (1) a small phonetic alphabet is more suited
+to printing and was already standard and widely used in Europe, (2) the
+decentralized nature of European printing business (Europe within a couple
+decades of Gutenburg had many competing printers not directly controlled by a
+government or religious organization), and (3) the widespread nature of
+European learning -- especially the universities and the already literate
+merchants. The need for unversities in turn was driven by the almost uniquely
+European need for those much-maligned lawyers. There's a strong relationship
+here to the European adversarial legal system (as opposed to bureacratic legal
+systems dominant in Asia). Remind me to write about that some time. :-)  
+  
+anonymous 2: The Bardi supercompany was quite exceptional and didn't last very
+long. You'd have a very hard time finding any other examples in the entire
+stretch of civilization from the Sumerians in 3,000 BC until the European 16th
+century where Dunbar number (really a range between about 100 and 200 people
+where organization becomes quite difficult) was exceeded for any long period
+of time by a commercial organization. The Dutch East India Company, with its
+managers and most of its employees raised on the same common language due to
+printing, was the first company to do so, and quite exceptionally so (it had
+by the 17th century over 10,000 employees if I recall correctly) and many
+other companies (mostly English) soon followed within a century.  
+  
+This radical change in the ability of businesses to organize employees the
+leads directly to European empires, and later to the industrial revolution. It
+cries out to be explained. It corresponds to the rise of literacy in a common
+language. The most likely cause is the expansion of the perceived "ethnic
+boundary" created by language (as Steve Sailer and others have discussed) or
+the "tribal illusion" and resulting network of easily trusted people (as I
+have discussed, heretofore independently). This phenomenon explains the
+exceptional (but comparatively very humble) pre-printing-press example of the
+Florentine supercompanies as well. But had it not been for the printing press
+that Renaissance, like many earlier ones, would have died and been largely
+forgotten.  
+  
+The Dunbar number is important in all this because it's a psychological limit
+on how many people we can get to know well enough to develop the long-term
+relationships needed for solid trust. Google for "Christopher Allen" and
+"Dunbar number" -- Chris is a modern venture capitalist and researcher of
+social networks who has observed that corporate culture changes radically as
+the size of organizations grow larger and in particular as they exceed the
+Dunbar range.  
+  
+Before the European printing press commecial organizations almost never exceed
+the Dunbar number. You've named one of the very small set of exceptions I know
+of, the early 14th century "supercompanies", which only barely and temporarily
+exceed the Dunbar range. This was probably made possible by the unusually high
+level of literacy in a common language (reflected by e.g. Dante writing in the
+vernacular) among the Florentines.
+

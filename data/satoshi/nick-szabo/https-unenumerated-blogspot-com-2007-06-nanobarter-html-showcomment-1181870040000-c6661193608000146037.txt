@@ -1,0 +1,8 @@
+"anonymous", I'd be quite interested in more detail about what you tried to
+implement and how it compares to what I have proposed. I read quite a bit of
+the MN documentation and don't recall seeing anything strongly resembling what
+I have proposed. I am not at all convinced that what you tried and what I have
+proposed are the same thing. There is a vast design space here, and I am
+extremely skeptical of any suggestion that your team explored more than a tiny
+fraction of it.
+

@@ -1,0 +1,23 @@
+P.S. here are some numbers from England in general and Norfolk in particular:  
+  
+Livestock units per 100 cereal acres  
+Years ____ England __ Norfolk  
+1250-99 ### 41.9 #### 30.5  
+1300-49 ### 47.9 #### 33.0  
+1350-99 ### 62.8 #### 44.6  
+1400-49 ### 78.6 #### 30.9  
+  
+Net cereal yields (wheat equivalents per acre)  
+Years _____ Norfolk  
+1250-74 ### 5.69  
+1275-99 ### 6.47  
+1300-24 ### 6.95  
+1325-49 ### 7.68  
+1350-74 ### 5.32  
+1375-99 ### 6.30  
+1400-24 ### 5.08  
+1425-49 ### 5.58  
+  
+Source: Bruce M.S. Campbell, "English seignorial agriculture", in Overton &
+Campbell ed., _Land, Labour and Livestock_
+

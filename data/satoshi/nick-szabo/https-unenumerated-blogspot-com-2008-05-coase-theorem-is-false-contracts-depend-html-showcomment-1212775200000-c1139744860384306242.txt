@@ -1,0 +1,46 @@
+George, David is free to to come over here and debate me, or to invite me to
+debate at any other reasonable forum. Any readers who can't be convinced by a
+straightforward proof are free to contact him to try to get him to try to find
+a flaw in it. He won't be able to do so, so I doubt he'll respond, but you can
+try.  
+  
+Clayton: _My conclusion is that the global anarchy of sovereign states
+(relative to one another sovereign states are largely in a state of anarchy)
+apparently constitute a positive-sum game. Therefore, the data indicate that
+it is false that the absence of tort law entails a negative-sum game._  
+  
+First, it's a funny argument to try to defend anarcho-capitalism by invoking a
+positive outcome produced by governments. That one set of coercions(modern
+governments) usually lead to at least somewhat positive-sum overall outcomes
+on average doesn't at all demonstrate that very different kinds of coercions
+(e.g. legal protection agencies) will do so, much less that they will be even
+better.  
+  
+Second, you're confusing the singular and the plural, the local game with the
+overall outcome. I claimed that interactions between legal protection agencies
+(and of course governments in the international sphere) involve negative sum
+_games_ , plural. For example wars, embargoes, etc. or threats of same. I
+didn't claim that they don't also involve some positive-sum games, nor did I
+claim that the overall outcome under and between governments is negative-sum.  
+  
+Negative-sum games like war are impossible under the Coase Theorem. The Coase
+Theorem is worse than useless for explaining international outcomes and
+Friedman's use of the Coase theorem to try to predict the outcome between
+legal protection agencies is similarly quite fallacious.  
+  
+Never have I made the obviously fallacious claim you impute to me, that the
+overall outcome of a world that includes many negative-sum games is
+necessarily negative sum. There may be a number of good explanations for why a
+world with governments and international relations is usually positive-sum --
+I suggest reading Mancur Olson for example -- but the Coase Theorem, which
+assumes that negative-sum games like extortion, taxation, and war don't even
+exist, is not anywhere close to being one of these reasonable explanations.  
+  
+These governments generally have tort law or similar internally that creates a
+positive-sum environment. These positive-sum economic games made possible by
+tort law usually more than offset the many negative-sum games that governments
+play externally. It may also be the case that the dynamic of mixed negative-
+and positive-sum games in international relations by themselves usually leads
+to a mildly positive-sum outcome. None of this has anything to do with the
+Coase Theorem: once negative-sum games can happen the Coase theorem is false.
+

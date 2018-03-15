@@ -1,0 +1,13 @@
+Another thing to think about wrt the inter-period markets: besides the
+speculators who will do much of the estimating of how much production cost in
+each period, the main players in these markets will be the miners and the
+issuers (mints). Miners will exchange newly mined bits (grains) for earlier
+ones. The earlier grains, which have a more mature market values, can than be
+held or spent by the miners or exchanged for other currencies. Mints (issuers)
+will buy more grains (solution bits) for reserves as they issue more coins
+(bank notes). The miners thus create the supply of grains and the mints create
+much of the demand. There will also be demand for bit gold (grains) simply as
+stores of value in themselves, just there is demand for precious metals and
+collectibles as such, but even if we ignore such investors, we have parties
+creating supply and demand and thus a market for each period.
+

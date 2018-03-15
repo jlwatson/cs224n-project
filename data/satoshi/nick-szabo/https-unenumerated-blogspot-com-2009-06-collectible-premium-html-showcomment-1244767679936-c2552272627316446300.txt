@@ -1,0 +1,66 @@
+More good comments, thanks Devin. A few nits and other comments:  
+  
+ _If you know the cash flow, figuring out the price at which you should buy is
+not too difficult._  
+  
+Mostly true for stocks, but much less true for housing, for which
+utility/consumption is also an important factor. For commodities instead of a
+cash flow one somehow has to tease out the utility/consumption factor, which
+is difficult.  
+  
+Also, looking at historical cash flows doesn't give you all or perhaps even
+most of the information needed to predict future cash flows, expectation of
+which is what the flow demand curve component is based on.  
+  
+ _In practice, buybacks mostly just cancel out the dilution from issuing
+options to employees._  
+  
+Nevertheless, a better practice is to add up the cash flows. Trim Tabs (no
+affiliation) keeps good track of non-dividend cash flows. Add in dividends and
+an appropriate discount rate, and one may be well on the way to calculating a
+collectible premium for stocks.  
+  
+_In our fractionally reserved world, credit conditions and inflation are close
+to the same thing._  
+  
+True.  
+  
+ _[Dilution] If the collectible premium gets too high, people build more
+housing, open up new iron mines, etc._  
+  
+The same is true for gold. And the _relative_ price compared to other
+commodities is important, because commodities are often a big input into the
+extraction of other commodities (e.g. steel prices for ships, pipes, etc. are
+a big factor in the cost of extracting oil), and labor prices in the long run
+tend to rise to catch up with commodity prices.  
+  
+ _[Due to Long term, the collectible premium can never be higher than the cost
+of production._  
+  
+Not true for gold, and not true for other commodities. MM's analysis simply
+assumed that we must converge on a single store of value and medium of
+exchange. That's clearly not the case for a store of value and is only true
+for the medium of exchange where the transaction costs of handling multiple
+prices and currency exchange are substantial. See my response to the MM
+article you cited.  
+  
+ _If the dilution rate of good X is 2% a year, and the dilution rate of good Y
+is 5%, then X will appreciate in terms of Y._  
+  
+But in fact oil has over the long run risen at least as fast or a bit faster
+than gold.  
+  
+The differential dilution rate has much to do with storage costs. If it costs
+about the same to store oil in the ground (by not pumping it) as to store
+bullion in a warehouse, owners of oil fields can decide not to pump. If one is
+in a strict zoning area where it's very hard to build new housing, you also
+get very little dilution. (This could explain the huge premium for coastal
+real estate).  
+  
+Some difference may come about via a different mechanism than you suggest,
+i.e. substitution -- in the case of oil, people substituting other energy
+sources for oil, for example. Oil has to go pretty high for that to be
+substantial, though -- we saw some reduction in demand, but not a large
+reduction, at $140/barrel. Since gold price is dominated by its collectible
+premium this is presumably less of a problem for gold.
+

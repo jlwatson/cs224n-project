@@ -1,0 +1,52 @@
+Alrenious, the colonial charters crucially included grants of political
+properties, in the positive form of rights to coerce others, as in the case of
+the power to impose martial law in Africa. These are not contracts from the
+point of view of those over whom these political powers are imposed: they are
+"offers you can't refuse."  
+  
+From that point of view (and sometimes from others) these charters were more
+like treaties than contracts. Contracts by law must be based on voluntary
+negotiations, whereas treaties are often based on coercive ones -- the
+difference is crucial, which is why there are very different bodies of law for
+each.  
+  
+However, charters were not primarily viewed as either contracts or treaties,
+but as property deeds -- in the case of colonial charters, grants of land and
+political property from the king, later with the consent of Parliament, to
+subject(s) who petitioned (and often paid) for such a grant. (Less commonly,
+at least in the king's records, are further grants of political property from
+the king's grantees to others -- like the Crown itself, there was generally no
+"aftermarket" for buying and selling political properties, albeit in the
+colonial era one could buy and sell shares in many of the colonial companies,
+and the East India Company was a big part of the early British stock market).  
+  
+If some other party interfered with these political property rights -- usurped
+them or prevented them from being exercised -- the King's courts would have
+jurisdiction to hear the case. (The King being considered or in fact the
+grantor of political properties retained jurisdiction over disputes over such
+properties). Traditionally in English law this would have been dealt with as a
+matter of "trespass", i.e. as what we now call a tort. (In fact, a large
+proportion of early tort/trespass cases were over political property rights --
+late medieval English kings didn't have jurisdiction over much else besides
+that and the army). The usage, with the idea of political property rights, has
+now become archaic, largely metaphorical -- political property laws have now
+been revoked or fallen into disuse, government having been converted to the
+Roman model of a near-monopoly over coercive powers.  
+  
+The claims I'm making about tort law related to Coase may be a bit different.
+I'm claiming that normal negotiations and contracts that Coase was talking
+about, among voluntary economic actors, i.e. the kind you need to approach
+efficient markets, or where the main costs are usefully analogous to broker's
+fees, depend on a sophisticated existing tort and property law to minimize
+coercion including the use of nuisance/externality phenomena in a coercive way
+(e.g. turning up the volume beyond what the music store would without the
+doctor's office next door have preferred in order to extract an extortion
+premium from the doctor in their Coaseian negotiation).  
+  
+Where coercion and political process are involved, all sorts of things happen
+that voluntary-transaction-assuming economics usually does not model well.
+That includes the old system of political property rights. (It's a mistake to
+think they automatically led to market-like outcomes -- sometimes they did, as
+in the case of the market fair courts, but just as often they led to coercive
+monopolies like the guilds who had political powers to coerce competitors).
+

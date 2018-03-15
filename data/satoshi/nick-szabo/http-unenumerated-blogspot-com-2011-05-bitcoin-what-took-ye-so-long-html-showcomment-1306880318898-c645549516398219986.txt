@@ -1,0 +1,35 @@
+nazgulnarsil, that's basically the only time the "voting" matters, in an
+emergency when there are errors in the network corrupting the messages
+(unlikely) or (more importantly) an attack where nodes intentionally corrupt
+important properties of the protocol that aren't cryptographically protected.  
+  
+There are also out-of-band reactions that can occur even if a majority
+corrupts the system. For example a minority can fork the block chain in
+Bitcoin (or title registry in bit gold) and then try to convince the world
+that their transaction history is the correct one and that the corrupt
+majority is in error. However, it's not clear what kinds of things can be
+proven out-of-band; this is a topic that deserves much further study.  
+  
+Canonically Byzantine agreement assumed each node had a secure true-name
+identity, but because privacy is a desiderata, and because it would be very
+difficult to implement such a secure identity system on the Internet, we have
+to use some characteristic of users provable within the Bitcoin or bit gold
+system to weigh Byzantine "votes". I've now come up with a list of provable
+attributes in Bitcoin (or bit gold) by which message correctness "votes" might
+be weighed:  
+  
+* proof-of-work/mining effort (what Bitcoin currently does)  
+* value or number of coins or solution bits owned by key  
+* number or value of transactions as payor, payee, or both by a key  
+* number or value of transactions weighted by how recent they are  
+* various combinations of the above  
+  
+This is an incomplete list, especially if we add new attributes. One of the
+general ideas here is to weigh Byzantine "voting" towards those with more
+experience in the system, making a novel invasion more difficult. However in a
+currency there should also be a balance between various stakeholders (holders,
+creditors, and debtors). Since Bitcoin- or bit gold- denominated contracts
+generally exist outside the system, one would have to, at the very least,
+publicly register those contracts signed by the parties' keys for creditor or
+debtor status to be provable.
+

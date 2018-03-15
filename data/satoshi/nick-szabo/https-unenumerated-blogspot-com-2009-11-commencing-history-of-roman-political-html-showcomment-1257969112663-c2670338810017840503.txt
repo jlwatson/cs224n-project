@@ -1,0 +1,20 @@
+BTW, off the top of my head, here are some other things I could post about
+over the next year if there's interest (let me know, and I also take requests,
+although I often don't do anything about them :-)  
+  
+* Various bits of very interesting (to me, anyway) and important English economic or legal history during the colonial and industrial revolution eras.  
+  
+* Ditto for medieval Western Europe.  
+  
+* Law as digital code: smart contracts, secure property titles, scarce objects, proplets, digital bearer instruments, etc.  
+  
+* Mental transaction costs (relevant to micropayments, GUI design, branding, etc.)  
+  
+* The concurrency-centric programming language I am designing (not simply grafting concurrency onto a functional or sequential language, but making events and temporal relations the core of the language, with everything else grafted on).  
+  
+* More about various scientific or futuristic topics: the origin of life, evolution of man, astronomy, SETI, NASA, etc. Basically wherein I bash futurists while indulging in it myself.  
+  
+* More slamming economists who treat coercive transactions as if they were voluntary (I've probably done enough of this, but it does generate nice debate).  
+  
+* Bash political scientists or sociologists (they deserve it more than economists, but I'm more familiar with economics, so I probably won't go here).
+

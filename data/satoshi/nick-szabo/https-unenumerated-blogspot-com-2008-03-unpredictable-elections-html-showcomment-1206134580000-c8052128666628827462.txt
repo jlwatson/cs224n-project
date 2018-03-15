@@ -1,0 +1,65 @@
+Anonymous, that's a great point, that bribery increases the representation
+distance. (I used that phrase in my paper on the Non-Delegation Doctrine here.
+That paper also describes some of the philosophy behind the structure of the
+U.S. Constitution, such as the separation of powers.)  
+  
+Representation distance, as I recall, is the degree to which the represenative
+actually represents the interests (basically equivalent to economic
+preferences, but they might also include preferences to coerce others via
+government) of his constituents rather than others. One can think of a this
+distance as being minimal, call it 1, when a person is acting for himself.
+When one principal delegates duties to one carefully chosen and monitored
+agent (a.k.a. representative), the distance is some greater value, perhaps 2.
+Representation distance is further compromised by majority vote, which leads
+to two losses: (1) the interests become increasingly general and vague, rather
+than the specific and concrete interests the voters actually have, as the
+number of voters increase and (2) the interests of minorities tend to be
+neglected.  
+  
+The larger the number of voters, the longer the representation distance. This
+distance may be proportional to the number of voters, in which case the
+representation distance of a U.S. Congressional election on our scale is about
+6 million.  
+  
+There may also be efficiency measures proportional to this distance. For
+example, the efficiency of investment in public goods (where the "public" is
+just the population of voters) may be logarithmic in the number of voters. On
+the other hand, larger representation distance may have a good effect in
+decreasing the ability of majorities to oppress minorities in specific ways.
+(However money everybody understands at every distance). These are just
+theories I'm throwing out off the top of my head, but representation distance
+does give a way to reason about public choice problems.  
+  
+The representation distance to executive and independent agencies is much
+shorter if you're a lobbyist. K Street is a far more effective representative
+institution than large democratic elections. It is, perhaps, not too different
+than the aristocracy the federalists Framers were dreaming of, albeit on a far
+vaster and more intrusive scale.  
+  
+Many anti-federalists argued that a large republic could not work because of
+what I am calling the representation distance. The vast majority of republics
+in history had been quite small, often little more than a large town or city.
+A few large republics had existed previously, but they had been aristocratic
+in nature (Rome, Venice, Genoa, etc.) The federalists were, generally
+speaking, aristocrats, and it was OK by them if the U.S. ended up
+aristocratic. Instead we ended up with a party system and a weird politics
+where political debates are are conducted over very abstract philosophies,
+slogans, broad economic classes, races, and ethnic groups. These groups
+compete to allocate "public goods" to serve their perceived broad interests,
+to "redistribute" property from the other groups, and to guilt people in other
+groups to allow such redistribution. In historical terms, the United States
+and other modern "democracies" are very weird indeed.  
+  
+michael, you're write. I'd also point to the Genovese where were great
+innovators in contracts. For example they invented modern marine insurance,
+unbundled from other kinds of contracts, and reinsurance (most familiar as the
+Lloyd's Names system).  
+  
+George, unpredictable elections certainly do not solve the entire corruption
+problem. Indeed, most of the operational bias occurs on K Street, the direct
+lobbying of unelected bureaucrats rather than of elected officials.
+Nevertheless, elections are an important part of many institutions, including
+commercial corporations, so the unpredictable election techniques could have a
+wide impact. And that's a good point about lotteries not having the bias of
+voting in selecting for power-hungry types.
+

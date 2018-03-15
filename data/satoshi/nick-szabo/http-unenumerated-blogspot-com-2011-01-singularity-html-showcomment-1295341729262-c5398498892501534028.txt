@@ -1,0 +1,18 @@
+Thanks, bumbledraven. As for the Turing Test, even keeping strictly to the
+original paper's definition (rather than a common modern definition that
+includes things like "captcha" where the "interlocutor" is itself a computer)
+there are a very large number of possible skilled interlocutors, with some
+ill-defined and thus varying skills levels. Even four decades ago, the chat
+bot (as we might call it today) "Eliza" was fooling some people into treating
+it as human. The ability to passably talk like a human, especially over such
+an abstract medium as text, is not anywhere close to the same as being able to
+think like a human.  
+  
+We've gone through a large number of Moore's Law doublings since Eliza and no
+AGI apocalypse has resulted. And the proportion of humans that can discover
+the ruse probably hasn't changed all that much, strongly suggesting that this
+(specialized, like all other) AI skill improves far more slowly than the cost
+of memory, CPU, etc. falls. Simarily, machine learning capabilities don't
+double with these hardware improvements because learning curves are typically
+logarithmic.
+

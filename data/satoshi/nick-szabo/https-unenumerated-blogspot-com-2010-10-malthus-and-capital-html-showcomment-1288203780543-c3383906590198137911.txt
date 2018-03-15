@@ -1,0 +1,21 @@
+Leonard, assuming fully secure property rights, AFAIK a decrease in the lord's
+costs doesn't change the revenue maximizing rent, either short or long term,
+unless there is competition between lords for tenants. Without such
+competition, lords would make more profits by pocketing all the cost savings.
+I don't see how the lord's ability to sell estates (alienability) changes
+this.  
+  
+Mobility of tenants can change it, because it turns local monopolies into a
+more competitive market for tenants. So we need the combination of lower
+security costs _and_ competition for mobile tenants for the security costs to
+be passed through to tenants.  
+  
+The above assumes fully secure property rights, but another effect might make
+the outcome you are arguing for work: the threat of being conquered. Rulers
+who fear being conquered are likely to act more like a roving bandit,
+preventing accumulation of capital or even destroying capital in order to
+preserve their realm's future revenues for themselves. A move from a more
+roving-bandit-like Laffer curve to a stationary bandit Laffer curve would
+lower the Laffer-maximum rent/tax rate for territorial monopolies, so in that
+case we'd see rent lowering even without increased mobility of tenants.
+

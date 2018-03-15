@@ -1,0 +1,40 @@
+Great comments from everybody, thanks.  
+  
+"Objective" is often used to mean "intersubjective." For example, in law "the
+reasonable person standard" is what a reasonable person would do in a given
+situation. In practice what is "reasonable" is generally decided by a jury, so
+it is some consensus of the 12 very subjective opinions of the jurors.
+However, the law calls this an "objective" standard. Only when referring to a
+particular person's state of mind (e.g. proving "intent" for a crime)is it
+called "subjective."  
+  
+Of course this is qualitatively different from "objective" in the sense of,
+say, a law of physics or judging time by the movements of the stars. So I
+agree so far that "intersubjective" would have been a better term.  
+  
+However, there's another way costs are usually far more "objective" than many
+other kinds of value estimates: they are easy to verify. If A paid $X to B for
+a Widget, and A and B both recorded the transaction in their books, then
+(short of collusion between A and B to spoof the auditor) the auditor can
+verify the transaction actually took place. So we have some good evidence that
+a Widget is worth $X. (Or as Mike says, cost is historical rather than
+hypothetical).  
+  
+Of course, cost is merely another proxy measure, not the value itself. But
+because of its auditability, it is usually the best proxy measure for most
+purposes, IMHO.  
+  
+Some economists have mixed up costs that make good proxy measures (e.g. labor
+costs) with actual value in economic theories, and that certainly is a big
+mistake to be avoided.  
+  
+Actual opportunity costs are very hard to measure, but at least for labor we
+have a good proxy measure of opportunity costs -- time. This is why paying
+somebody per hour (or per month while noticing how often a worker is around
+the office) is so very common. It's far cheapr to measure time, thus
+estimating the worker's opportunity costs, than actual value of output. (I
+discuss this more in my paper "A Measure of Sacrifice.")  
+  
+Much of the advance of civilization has consisted in finding proxies that
+allow us to estimate with more accuracy and integrity more kinds of value.
+

@@ -1,0 +1,29 @@
+Gwern, we are starting with a world where hundreds of thousands of humans
+(supported by billions more humans and quadrillions of special purpose
+algorithms) have already invented a myriad of efficient learning and other
+algorithms optimized for an extreme variety of special conditions. Then you
+try to introduce a program you call AGI with the most inefficient (nay,
+uncomputable) searches (or ways of learning). This putative "AGI" has only
+access, via simulation or sensing, to a miniscule fraction of these special
+conditons, so to the extent it can discover or learn anything at all that
+hasn't already been discovered or learned (since its general learning
+algorithm is so preposterously inefficient compared to the hyperspecialized
+learning algorithms already long at work), it can only learn about this tiny
+subset. So it ends up learning about only a tiny subset (because it is such a
+slow learner) of a tiny subset (what it can see) of the world. If it is useful
+at all, and the odds are astronomically against it, it becomes at best just
+another hyperspecialized computation in a world of hyperspecialized
+comptuations.  
+  
+In other words it just adds the miniscule bit of useful novelty it has against
+all odds discovered to the economy of quadrillions of algorithms dispersed
+across the planet and hard at work on their own hyperspecialized parts of the
+economy. The AGI is stuck with its own extremely inferior general algorithm
+and, if it got astronomically lucky, one or a handful of new special
+algorithms that it discovered, and whatever small subset of specialized
+machines it knows how to handle and has been granted the right to control
+(another miniscule fraction). There's no magic bullet that makes discovery or
+other learning take off, things are learned a tiny bit at a time and different
+hyperspecialized computations working in different parts of the economy learn
+very different and indeed mutually incomprehensible things.
+

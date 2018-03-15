@@ -1,0 +1,71 @@
+munin,  
+  
+I've heard and read it from several news sources over the last few months,
+including here:  
+  
+"The divergence between CBOT futures and the underlying commodity is so great
+that some grain merchants have stopped bidding for new crops, said Niemeyer, a
+member of the National Corn Growers Association board. Others won't guarantee
+a price for more than 60 days....  
+  
+The price gap should converge when futures contracts expire and deliveries are
+settled. Instead, the average premium for CBOT wheat has quadrupled in two
+years to 40 cents a bushel, compared with 10 cents the prior five years, McNew
+said."  
+  
+While I'm here, I should note my utter chagrin that a number of influential
+folks have _almost_ reached the same conclusion as I, namely they've concluded
+that "speculation" not fundamentals are driving most of the commodities rise.
+But they stop there, repelled in horror by the idea, and don't take it a step
+farther -- ask _why_ this "speculation" is going on. A good clue comes from
+those responsible for the biggest piece of it -- retirement funds. Retirement
+funds have long been heavy, relative to other kinds of funds, on less volatile
+(over  <15 year periods) investments like bonds. But bonds are mostly
+denominated in dollars. With the threat of dollar inflation (obvious both from
+recent Fed activity as well as the history of the dollar in the 1970s) they
+have a fiduciary responsibility to protect their investors' retirement nest
+eggs by hedging bond positions with commodities baskets. And that is just what
+they have been doing.  
+  
+(I suspect a similar explanation is behind much of the high Chinese demand --
+but that rather than buying futures they are actually stockpiling commodities,
+including cutting back on production of their own native minerals, to hedge
+their peg to the U.S. dollar, their massive dollar earnings from exports, and
+their heavy investments in U.S. Treasuries, all of which are vulnerable to
+dollar drop or inflation -- but I don't know where data on such stockpiling
+activity might be readily available).  
+  
+Many of these retirement funds (who have been the dominant commodity index
+fund "speculators") can be politically influential. I wish, for the sake of
+the retirees they have a duty to protect, they would defend themselves
+politically against the insane proposals to restrict or ban commodity index
+funds. Those seeking to save for retirement have perfectly good and strong
+reasons for investing in commodity indices: they don't want to see their
+retirement funds eroded away by inflation, as happened to millions of seniors
+in the 1970s. Commodity indices have allowed people to construct retirement
+portfolios hedged against inflation, and this is an incredibly valuable thing
+both for the retirees and for the society on which said retirees will be less
+dependent. Instead of attacking the fever by shutting down the immune system,
+it is the original cause of the problem, the Federal Reserve, that needs to be
+addressed. It needs to put a higher priority on fighting inflation, and it
+needs to use leading indicators (e.g. commodity prices) far more than trailing
+indicators (e.g. CPI, PPI) in this task. (I understand of course that the
+credit crunch has been a very good reason for the Fed to "print dollars." That
+doesn't change the fact that the Fed is smack dab in the middle of the causal
+chain that has led to the commodities boom).  
+  
+I should also say that it's certainly possible that some or much of the boom
+is a bubble. There is no easy way to gauge just how much retirement funds and
+others seeking to hedge inflation need to allocate to commodities baskets in
+order to optimize their portfolios, because it depends greatly on future Fed
+behavior. On the one hand we know that hyperinflation is a historical
+possibility; on the other hand the farther commodity prices go up (and they
+have gone up very far indeed) without corresponding inflation in other goods
+and services, the more downside price risk there is in commodities. It's
+certainly true that commodities have become a far riskier, i.e. more volatile,
+investment than they were three years ago, and that puts a severe limit on the
+proportion of an investment portfolio it makes sense to devote to commodities.
+It is often the case that economically efficient bull markets become
+overextended into wasteful bubbles, it being hard to tell how large of a price
+increase is actually warranted, and we may be seeing some of that now.
+

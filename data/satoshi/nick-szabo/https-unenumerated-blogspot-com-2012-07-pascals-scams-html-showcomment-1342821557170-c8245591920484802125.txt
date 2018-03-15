@@ -1,0 +1,38 @@
+ _humans are a conglomerate of many specialized techniques rather than
+something that is similar to AIXI.  
+_  
+  
+A good thing, too, because "AIXI" (i.e. Solomonoff induction, a generalized
+model of machine learning) is uncomputable. Even learning with no guaruntees
+is harder than cracking public key crypto in the general case. To make
+learning efficient, you need to have some already existing information about
+the particular environment being learned, or similarly a learning algorithm
+that is specialized for that environment. The more relevant information you
+have, the better adapted the algorithm, the easier it is to learn the rest.
+Which gives us an economy of different learners specialized to different kinds
+of environments.  
+  
+As for humans, we are certainly quite good at some important mental tasks, but
+there are also tasks we're relatively quite bad at. Exact memories typically
+being among them. Birds that can remember where in a landscape thousands of
+nuts are buried, the long-term memories of seals, animals with "photographic
+memories", etc. each in their own ways have specialized mental abilities our
+unaided brains don't typically have. And of course computers can memorize
+trillions of numbers, on top of being able to do arithmetic billions to
+trillions of times faster, and many other tasks that require boolean logic,
+arithmetic, and the like. And I'm not even counting the many sensory inputs
+our unaided brains lack, which before the advent of technological sensory
+modes caused us to miss out on most of the information available in our
+environment.  
+  
+None of that stops humans from still having the best overall package of
+specialties, especially with the help of the technology we create, like those
+computers. But there is no magical "general intelligence" that we possess and
+other entities do not -- just a different package wrapped up in a brain with a
+higher brain/body ratio, hands for our brains to create that technology, and
+language that allows us to form some sophisticated social relationships that
+are very different from those of other animals. A very good bundle of
+specialties, but missing some pieces we'd really now love to have (like the
+memories of computers), and certainly not "general intelligence", which ranges
+from the astronomically inefficient to the uncomputable.
+

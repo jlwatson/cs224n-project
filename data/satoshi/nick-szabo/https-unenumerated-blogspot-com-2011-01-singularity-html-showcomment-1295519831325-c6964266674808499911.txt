@@ -1,0 +1,43 @@
+Intriguingly, while Adam Smith et. al. have, as I described in the linked
+article above, long observed the big wins from specialization in the general
+economy, one can demonstrate this specifically for the Hutter's AIXI model of
+"general intelligence" or "universal algorithmic intelligence" of which
+Singulatarians are fond. Hutter's model is basically just algorithmic
+probability and Solomonoff induction which I describe here. As Kevembuangga
+states this is uncomputable: there is in fact no way to guarantee a computer
+will find the best answer to any given problem, the best model to describe or
+predict any given environment, and the like.  
+  
+Furthermore, even Hutter's time-bounded version of AIXI, which is not
+guaranteed to find the best answer, requires a time exponential in the size of
+the analyzed environment to run. By comparison, cracking public-key
+cryptography takes less time: it's only "super-polynomial" (slower than
+polynomial but faster than exponential) in the size of the key. Most practical
+algorithms run in logarithmic time (i.e. doubly exponentially faster than
+"universal AI"), polynomial time (exponentially faster than "universal AI"),
+or similar.  
+  
+And the most practical machine learning techniques, such as evolutionary
+algorithms, which Singulatarians love to decry as "specialized", since they
+don't actually produce anything close to human-like intelligence, take
+advantage of probablism, keeping the best prior answers around, etc. to often
+get a "good" model of the environment or solution to a problem early in its
+run. Their performance follows the well-known logarithmic learning curve, i.e.
+it gets exponentially harder to proceed as one approaches the best answer, so
+evolutionary algorithms and most other machine learning techniques tend to
+only work well where "low-hanging fruit", such as readily learned patterns,
+exist in the environment and are sufficient to solve one's problem (and, as
+stated above, where environments are easily simulable, which is the hard
+part).  
+  
+Thus, in the general AIXI case of Kolmogorov/Solomonoff/Hutter, where the
+probability distribution of the environment is unknown, there is no guarantee
+one can find an answer and even where there is no guaranteed answer analyzing
+the environment requires an infeasibly large amount of time. When one knows
+some useful things a priori about _particular_ environments, i.e. when
+intelligence is _specialized_ , computations that learn things about or solve
+problems within that environment can often be exponentially or doubly-
+exponentially more efficient. Thus computation theory proves for intelligence
+what Smith, Hayek, Reed, et. al. observed about economies: specialization and
+the distribution of knowledge brings huge advantages.
+

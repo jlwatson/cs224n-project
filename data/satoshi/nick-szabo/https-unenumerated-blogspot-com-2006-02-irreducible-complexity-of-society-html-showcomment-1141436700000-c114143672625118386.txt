@@ -1,0 +1,36 @@
+There are irreducibly complex quantum effects in biochemistry. For example,
+the mechanical causes of the efficacy of even simple catalysts are often ill
+understood. Enzymes and ribozymes are very complex catalysts. The mechanical
+action is quantum, and our ability to reduce data about it to simple models is
+limited not only by the complexity of their structures but also by quantum
+effects such as the uncertainty principle.  
+  
+The protein folding problem, although it contains many quantum effects which
+have posed a severe barrier to predicting the folding of new amino acid
+sequences, is as Mike implies limited in its irreducible complexity by the
+finite number of biological proteins each of which usually takes on a
+particular general shape based on its sequence. (Some proteins, such as
+prions, can take on multiple shapes, but usually a small number of specific
+shapes rather than a random selection from combinatorial possibilities). For
+that reason, the complexity of the protein folding problem for known natural
+proteins is ultimately limited, and is more a matter of logical depth than
+irreducible complexity as you say. Although we don't undestand the quantum
+mechanics by which each folding occurs we could simply catalog all known
+proteins and their structures.  
+  
+However our understanding of other important parts of biochemistry, for
+example the catalytic mechanisms of enzymes, will probably be ultimately
+limited by irreducibly complex quantum effects, although as with proteins we
+may expect that evolution has favored repeatable results for natural enzymes
+to the extent possible. We will probably be able to predict much of this
+repetitve function without understanding much about the specific quantum
+mechanics whereby it happens.  
+  
+I've struck through the protein folding bit, because that's a bad example, but
+my claim that there are some limits of irreducible complexity in biochemistry
+remains.  
+  
+Even if our understanding of biochemistry could be made simple, the complexity
+of society would remain vast and too complex for the full understanding of any
+small fraction of human minds, for the reasons stated.
+

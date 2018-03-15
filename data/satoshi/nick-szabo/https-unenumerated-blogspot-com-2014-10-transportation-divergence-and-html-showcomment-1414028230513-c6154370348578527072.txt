@@ -1,0 +1,6 @@
+Notice the resemblance of the British canal networks to the veins in leaves or
+an animal circulatory system. Within geographical constraints, this canal
+network is close to an optimal space-filling flow network, reaching within
+short land distance transport to nearly the entire area, O(n^2). A good
+highway/road/street network is similar.
+

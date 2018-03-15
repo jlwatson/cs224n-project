@@ -1,0 +1,32 @@
+It may help to change Chesterton's fence example around a little, to make it
+more of a personal economic decision, while maintaining the degree of
+ignorance about the reasons for the fence:  
+  
+(1) You've inherited a small acreage with a puzzlingly located fence from a
+relative you never knew.  
+  
+(2) You have no clue why the fence is there, but the very sparse estate
+records indicate that it cost Z to build.  
+  
+(3) The property is too remote to visit personally, and the neighbors wouldn't
+tell you anyway, so you would have to recruit and pay an investigator at cost
+X to learn why the fence is there. You don't have any other information by
+which to estimate the probability that the investigator will turn up a
+evidence that the fence satisfies your preferences (as opposed to your
+relative's former preferences), or the preferences of somebody you might sell
+the property to, sufficient to justify maintaining it.  
+  
+(4) It costs Y / year to maintain the fence, such at the net present value of
+the Ys is slightly greater than X, but substantially less than Z.  
+  
+Should you hire the investigator, or just keep paying the costs of maintaining
+the fence? I believe you should just keep paying the costs of maintaining the
+fence, assuming you (or somebody you are selling the property to) find the
+property generally to be of sufficient value to justify the resulting total of
+expenditures on that estate you must make including the cost of maintaining
+the fence. In short, you should use the fact that your relative invested Z as
+a proxy measure of the value of the fence, discounted by some factor to
+reflect the degree to which you or your buyer's preferences may not match your
+relative's, some probability (quite uncertain) that the value of the fence
+died with the relative, or similar.
+

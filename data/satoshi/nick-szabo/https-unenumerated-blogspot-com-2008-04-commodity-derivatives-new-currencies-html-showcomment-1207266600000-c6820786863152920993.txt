@@ -1,0 +1,58 @@
+There are two big problems with extending commodity based money to consumers:
+(1) the mental transaction cost problem of trying to keep track of prices and
+transactions in multiple currencies, and (2) legal barriers: not just legal
+tender laws and harassment from regulators (a la e-gold), but assumptions in
+various commercial law codes (especially the UCC) that "money", meaning
+government-issued money, is by definition used in a "sale." And if it's not a
+"sale", you can get dumped into strange and often untested legal categories.  
+  
+I've long thought about the possibility of consumer derivatives. Indeed this
+gets back to my first thoughts on smart contracts -- one of my big
+inspirations were derivatives and the synthetic assets one can construct from
+them:  
+  
+"Another area that might be considered in smart contract terms is synthetic
+assets. These new [in 1994] securities are formed by combining securities
+(such as bonds) and derivatives (options and futures) in a wide variety of
+ways. Very complex term structures for payments (ie, what payments get made
+when, the rate of interest, etc.) can now be built into standardized contracts
+and traded with low transaction costs, due to computerized analysis of these
+complex term structures. Synthetic assets allow us to arbitrage the different
+term structures desired by different customers, and they allow us to construct
+contracts that mimic other contracts, minus certain liabilities. As an example
+of the latter, synthetic assets have been constructed that mimic the returns
+of stocks in German companies, without requiring payment of the tax foreigners
+must pay to the German government for capital gains in German stocks. It's
+important to note that these synthetics do _not_ confer voting rights as do
+the originals. It might be possible to add smart contract protocols to
+transfer voting rights to the synthetic. Of course, these protocols might have
+to be quite secure to withstand attacks from the third party jurisdiction,
+whose transaction cost (the tax) is being arbitraged away by the synthetic
+asset."  
+  
+With consumer derivatives, consumers might conduct transactions like "big
+money" does as described above: a legal "sale" using government money in one
+contract, and one or more derivatives to hedge the risks created by using the
+government money on the side.  
+  
+If the consumer is not to be overwhelmed by the added mental transaction costs
+of multiple currencies and derivatives, something like what I call a market
+translator, a.k.a. contract compiler, is needed to make these complex
+transactions "under the covers" in a way that the consumer need not worry
+about, i.e. in a way that doesn't add substantial mental transaction costs.
+The idea is that if we can reduce the mental transaction costs of using
+multiple currencies to reasonable levels, we can probably also reduce those
+costs for using derivatives. Indeed it's possible that arbitrarily small and
+complex transactions can take place "under the covers" as long as they reflect
+user preferences with reasonable accuracy and are communicated to the user by
+a trustworthy and reasonably accurate, even if of necessity highly simplified,
+metaphor.  
+  
+To put it another way, the idea is to take the software "big money" uses and
+put it into a consumer's budget and shopping software, so that similar
+sophisticated hedges can be made under the covers when government money is
+used to pay for web hosting or to recharge cell phones, or when commodity
+currencies unfamiliar to the consumer (and different from the denomination
+used in the consumer's budget software, tax forms, etc.) are used to pay for
+these things.
+

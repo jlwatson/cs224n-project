@@ -1,0 +1,76 @@
+"1. Why is nano-barter better than a fixed algorithm for controlling the
+automated exchange of small values, such as BitTorrent's Tit-For-Tat
+policy?..."  
+  
+Resource allocation algorithms and simple nonmarket barter schemes (e.g. tit-
+for-tat), although they often work well enough given the copious computational
+resources we have available, are usually quite suboptimal, because they make
+poor use of distributed knowledge and user preferences. See Hayek for example
+on how markets serve to communicate distributed and heterogenous knowledge.  
+  
+That said, where user preferences and knowledge are homogenous and
+predictable, finding proxy measures (like Bit Torrent's "a megabyte is a
+megabyte" tit-for-tat barter) is more straightfoward and the case for markets
+over resource allocation or simple game algorithms is less compelling. Also,
+the surprisingly subtle nature of proxy measures and the mental transaction
+cost problem (which your description of Mojo's "tweaking" problem highlights)
+may often make it nontrivial to discover market mechanisms that work better
+than mature resource allocation algorithms. In other words, there may be quite
+a bit of "desert" to explore before one hits on an "oasis": good choices and
+combinations of user input, proxy measures, and markets that bring out the
+superiority of markets as resource allocators where user preferences and
+knowledge are heterogenous.  
+  
+I greatly wish economists and computer scientists would join up and do
+research in this area, designing markets and comparing them head-to-head with
+resource allocation algorithms. That missing, the engineer will have to
+perform his own experiments.  
+  
+Despite these caveats, the frequent superiority of markets in the traditional
+economy, as well as the theoretical proofs of its efficiency by economists and
+the heterogenous nature of user preferences on the Internet, all point to a
+vast potential for nanomarkets.  
+  
+Z: "2. What should be the default initial buy/sell policy for nano-barter for
+storage-sharing such as in Allmydata Tahoe?"  
+  
+I'm sure you and Jim can make better guesses than I in this regard, and I'd
+love to hear them, but I can suggest a general approach. My approach would be
+to start with some possible proxy measures of what users find valuable in
+backup services: gigabytes, reliability, timeliness, etc. Choice(s) of proxy
+measure are worth quite a bit of brainstorming and experimentation because the
+best proxy measures may be highly non-obvious. (Think of the paradoxical
+nature of using time as a proxy measure for labor value, for example, yet that
+has commonly proved to be a superior measure compared to, for example, the
+number of widgets produced). Then make some educated guesses about how
+variable these user preferences are (some customers care more about raw
+storage capacity, some more about reliability, etc.) Figuring out what users
+want may also suggest new kinds of proxy measures you hadn't thought of. The
+variability (heterogeneity) of preferences also suggests whether a simple
+algorithm or a more sophisticated market will work better, and if there is
+heterogeneity what proxy measures of value (gigabytes, timeliness,
+reliability, etc.) the market should price and trade.  
+  
+Finally, buy/sell orders should be based on the variable user behavior. The
+engineer should use his knowledge of this behavior to create algorithms that
+translate it real-time into buy and sell orders for gigabytes, timeliness,
+reliability, etc. The more user preferences and knowledge can be captured
+without bothering the user (mental transaction costs), the better the market
+will work relative to simple schemes.  
+  
+"One major failure of the agoric aspect of Mojo Nation was that we started by
+imagining that the default, or initial, policy implemented by the
+computational agent was not so important, since users would be incentived to
+tweak or replace that policy in order to profit. (This idea is sort of
+strangely similar to the Coase Theorem. :-))...In fact, we never achieved a
+real "market" in the sense of having heterogeneous strategies among the
+players -- more or less every Mojo Nation agent always used the strategy that
+it shipped with."  
+  
+The problem here seems to be trying to get preferences directly from special
+user input for that purpose rather than indirectly from normal user behavior.
+(Furthermore, I remember trying to "tweak" Mojo myself and it was hardly a
+user friendly experience :-) As your Coase comment suggests, it is easy in the
+essential quest for user preferences for the mental transaction costs to
+smother the value added by the nanomarket.
+

@@ -1,0 +1,31 @@
+DN: "Sure, the best smart contracts are self-enforcing, but disputes are
+unavoidable."  
+  
+Given the extremely high costs, when compared to computer operations, of both
+human dispute resolution in particlar and trusted third parties in security
+protocols generally, the best way to deal with disputes will often be what in
+law we call "the common law rule of tough": on occasion the outcome of
+applying the rules to the facts will be unfair, and that's just tough luck.
+Sometimes there is a bug and and somebody has to absorb the costs. That's the
+philosophy of both common law and software protocols.  
+  
+The competing philosophy, equity, tries to resolve each and every dispute
+fairly. If the rules applied to the facts are not fair, the judge simply
+decides what seems fair to him. This is a very expensive proposition in law.
+Giving judges this discretion leads to uncertainty and arbitrariness at least
+as often as it leads to greater fairness. Equity is, perhaps thankfully, quite
+unavailable for smart contracts, unless we count random number generators. :-)  
+  
+Because they are computer protocols, the numbers of orders of magnitude
+efficiency gain turning, where possible, contractual terms into self-enforcing
+smart contracts -- even at the cost of occasional injustice -- is quite large.
+And a wide variety of new kinds of contracts, such as many new consumer
+derivatives and nanobarter, are made possible that are quite infeasible with
+just paper or mere signed text.  
+  
+Of course, as yet only a tiny fraction of legal rules and contractual terms
+can be translated into software, and then often only in a highly abstracted
+manner. When the smart contract by itself produces enough unfairness, one can
+still use smart contracts to shift the burden of lawsuit, in the same way that
+repo men shift the burden of who has to sue over possession of a car.
+

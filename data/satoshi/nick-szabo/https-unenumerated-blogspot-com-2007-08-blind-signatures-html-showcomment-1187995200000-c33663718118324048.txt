@@ -1,0 +1,8 @@
+DN: "It is not difficult to detect double spending post factum (in the above
+example, whoever forks the chain of endorsements on a negotiable instrument is
+a fraud), but it is far more difficult to prevent it. "  
+  
+I assume you are referring just to offline transfers? With online clearing
+preventing double-spending is trivial -- the clearer keeps a spent numbers
+list.
+

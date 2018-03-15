@@ -1,0 +1,35 @@
+tehom: _Nick, that's like saying "There's only one person for whom it's  
+rational to invest in the stock market"._  
+  
+The difference is that the stock market is positive-sum -- the average return
+is positive, the average investor has made a profit over almost all 15-year
+periods. Not so in an unsubsidized event betting market -- the average bettor
+makes nothing minus transaction costs.  
+  
+ _Economists tell me that valuations in a stock market will  
+approximate the risk-neutral valuation_  
+  
+Again, this has nothing to do with prediction or decision markets of the kind
+we are discussing here.  
+  
+ _An extreme example like the $20 billion payoff_  
+  
+Actually, I picked the example straight out of this year's headlines, and it
+is one of the *less* extreme bailouts we've seen recently. $20 billion is very
+small potatoes in Washington D.C.  
+  
+_In order for it to be enacted, it would  
+have to be pushed far from its "proper" valuation. _  
+  
+But nobody knows what the "proper" valuation is supposed to be. If the GM
+bailout market predicts a 0.05%/yr greater growth of GDP over the next 10
+years if the bailout is enacted, (a) nobody knows (as opposed to merely
+believes) that this is not the proper price, (b) it is far within the noise of
+expected GDP growth, making a bet against it very close to a 50/50 proposition
+even if you have some special knowledge, and (c) if it beats the projections
+from competing policies, under futarchy rules it should be enacted.  
+  
+Time is also a crucial factor here. What is the decision based on, the last
+price, the last month, or the last year? Whichever you choose, the "bear" can
+choose to goose the price over just that particular period.
+

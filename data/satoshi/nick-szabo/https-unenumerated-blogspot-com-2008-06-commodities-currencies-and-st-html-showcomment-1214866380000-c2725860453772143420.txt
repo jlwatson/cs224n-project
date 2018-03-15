@@ -1,0 +1,29 @@
+Here's a comment I just made on another blog to illustrate how rapidly
+commodity prices can change with small changes in inflation expectations (you
+can check the result using the "NPV" or similar function in your spreadsheet):  
+  
+ _Increased expectations of inflation in future decades, from 1998 (near the
+end of a decade when deflation was the main worry) to today (even Alan
+Greenspan said in his recent book to expect 4.5%/year from here on out, and
+that was well before the Bear Stearns bailout), can easily account for a
+factor of 14 increase. For example, a Hotelling nonrenewable commodity for
+which there are no changes in expected consumption (assume the expectation
+covers the next 100 years), but there is a change in expected inflation from
+1.75%/year over that time to 4.50%/year over that time, gives us a factor of
+14.3 increase in the commodity price._  
+  
+Of course, as the St. Petersburg paradox suggests, the 100 year figure is
+somewhat arbitrary. Restrict the time horizon to 50 years and the inflation
+expectations have to increase more dramatically, e.g. from 1.0% to 6.5%, to
+translate into a factor of 14 increase in the price of a Hotelling commodity.
+At the other extreme expectations over 200 years need to only increase from
+2.6% to 4.0% to account for that factor of 14.  
+  
+If you are a Saudi prince who can expect his great-granchildren to still own a
+share of the Saudi oil fields in 200 years, the 200 year figure is
+appropriate, but in most other cases property rights are less secure and
+shorter timeframes are appropriate. Furthermore, there are too many
+technological jokers over 200 years to expect the non-substitutability
+assumption to hold (for example, somebody might genetically engineer a cheap
+biofuel).
+

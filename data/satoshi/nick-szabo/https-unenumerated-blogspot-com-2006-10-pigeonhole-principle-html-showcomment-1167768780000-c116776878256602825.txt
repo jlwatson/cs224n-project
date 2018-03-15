@@ -1,0 +1,3 @@
+Ken, you're parsing the sentence wrong. The problem is about "the same number
+of cousins...in the room" not the total number of cousins a person has.
+

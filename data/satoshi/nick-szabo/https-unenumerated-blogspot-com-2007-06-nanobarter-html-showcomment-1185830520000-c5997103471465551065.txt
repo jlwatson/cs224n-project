@@ -1,0 +1,59 @@
+Z: "One thing I really don't like about blogs is that conversations tend to
+have a "lifespan" of at most a couple of weeks. I'm very interested in this
+topic, and I have many unanswered questions, but my guess is that few or no
+people are ever going to even see this comment."  
+  
+The short lifespan for me comes because it's too much work to keep going back
+to all my old posts to see if there are new comments. Luckily for us I had
+some reason to come back to this one and caught yours here. Now lets see if
+you come back and read this. :-)  
+  
+Z: "I still am not sure I understand precisely what is the difference, if any,
+between the following three ways to allocate computational/storage/network
+resources:  
+  
+* automated markets (agorics) e.g. Mojo Nation  
+  
+* distributed game-theoretic mechanism design e.g. BitTorrent  
+  
+* push the whole issue to a higher layer e.g. Amazon S3  
+  
+* nano-barter"  
+  
+Nano-barter is mostly just my own version of agorics that emphasizes the
+necessity of obtaining user preferences in low mental transaction ways. Once
+one has obtained good information on user preferences the lower limit on
+granularity is extremely small (thus "nano" to distinguish from mere
+"micropayments", or we also might call it "kiloherz commerce" or "megaherz
+commerce" at some point).  
+  
+"Well, this is basically supposing that -- at least as far as economics goes
+-- the computational agents that make up the market are indistinguishable from
+human beings!"  
+  
+Even if computational agents could be intelligent like humans, which they are
+nowhere close to being, they still couldn't read their masters' minds. They
+have to tediously observe their master to get any useful information. This is
+why a fully automated market that ignores user behaviors won't work. It will
+be useless. A market or game mechanism that works has to be based on informed
+rather than speculative guesses by the software about what users actually want
+during this next microsecond.  
+  
+"they are at least capable of optimizing within a limited set of resources and
+strategies."  
+  
+Not even this is true unless the agents have good information about their
+masters' behaviors from which can at least crudely be guessed important unique
+aspects of their masters' preferences.  
+  
+"What is necessary to enable any of these strategies later? I guess it is (a)
+that the use of resource in question can be measured and (b) that it can be
+programmatically allowed/denied."  
+  
+I'd say you need more to experiment with several approaches than to delay
+decision. And the kind of measurement should also be something you experiment
+with -- it would be foolish to commit to, say, charging by the gigabyte
+(rather than by reliability, alacrity, or combinations of these or other
+factors) early. In fact, an architecture that allows deploying new game
+mechanisms or markets based on new proxy measures would be quite useful.
+

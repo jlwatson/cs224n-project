@@ -1,0 +1,25 @@
+ _with loops and complicated logic, it is possible to construct a smart
+contract that is essentially a cryptographic hash function in the sense that
+given the desired outcome, it is not easy to figure out what the corresponding
+conditions are._  
+  
+One can easily construct an English contract that nobody except some lawyers
+can understand, either. And they might bill you a very large number of very
+expensive hours to interpret it for you. At least all the logic and conditions
+of a smart contract can be simulated when the contract deals with simulable
+subject matter, such as finance. (Not that financial simulations are anywhere
+close to perfect, as Wall Street has again recently demonstrated).  
+  
+My contract language, being event- and outcome-oriented instead of oriented
+towards machine instructions, is a simplification over trying to specify smart
+contracts in a machine-oriented language like Lisp or C. I expect further
+advances to occur from using user interfaces (forms, sliders, radio buttons,
+graphics representing the subject matter, and so on) to represent contractual
+conditions. Those user interfaces will be compiled into a target language,
+probably an event-oriented language similar to the one I have designed.  
+  
+I'll contact you privately about your second question. I still think quite a
+bit about smart contracts, and occasionally still come up with ideas along
+those lines, which is something like active research. I've come up with a more
+advanced design for the contract language, for example.
+

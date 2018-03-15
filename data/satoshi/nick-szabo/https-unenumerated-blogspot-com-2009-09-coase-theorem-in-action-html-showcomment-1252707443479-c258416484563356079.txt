@@ -1,0 +1,19 @@
+BTW, one consequence of the broad definition is that the supposedly profound
+insight about the importance of transaction costs turns into "bad things that
+can happen to economic transactions are important to the economy", which does
+not sound very profound to me (in patent-lingo it would be called "obvious").
+I do observe that too many politicians and even academics ignore such obvious
+points, but that is a problem of rhetoric or education, not of theory.  
+  
+Using confusing language does not help in this educational task. The reality
+distortion occurs when economists, because "transaction costs" traditionally
+means something far narrower and very different than many other kinds of "bad
+things", take the bad things that can happen to transactions to be like
+broker's fees that can be reduced through better information and the like. The
+most important bad things that can happen to transactions, namely the coercive
+ones, may not be amenable to such solutions or may be amenable to them applied
+in radically different ways (and note that economic theories of asymmetric
+information, transactions in which information reduces transaction costs, are
+as usual assuming voluntary transactions and can't be readily used in the
+coercive case).
+

@@ -1,0 +1,29 @@
+george weinberg: _One philosophical objection to the idea of gold-based money
+is that the effort of mining and refining gold seems wasted._  
+  
+Demand is based on savings in transaction costs from bit gold, from it being a
+better hedge or media of exchange than alternatives such as gold. (Because it
+is more secure against political problems, can be used online without going
+through trusted third parties like e-gold, has a completely measurable
+stockpile, etc.) The resulting savings in transaction costs, amortized over
+the ulimited lifetime of the bit gold, generally has to exceed these costs to
+create this demand. As with gold mining, there is a wide range of costs, and
+the scarcity matches the cost, so it's not a question of if there is a market
+for bit gold, only a question of how big that market might eventually become
+(the answer to which is highly uncertain, and mainly depends on the
+possibilities of political disasters to which bit gold is the best hedge).  
+  
+ _I think the initial finding of gold deposits is largely serendipitous. This
+would not be the case for bit gold._  
+  
+This depends on the mathematical puzzle, but most of the ones proposed (such
+as hash algorithms) are probabilistic in nature, so depend on luck as well
+well as skill.  
+  
+Economically, the much more important factor is that some "miners" will have
+more spare cycles, better compilers, better algorithms, or in a big market
+even better custom-designed circuits than others. So there is the usual
+opportunity for a few of the best "miners" to make a profit, while the vast
+majority of people will find some other way to make a living, just as with
+gold or silver mining.
+

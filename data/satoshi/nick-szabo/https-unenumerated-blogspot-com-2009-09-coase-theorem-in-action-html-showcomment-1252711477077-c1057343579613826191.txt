@@ -1,0 +1,40 @@
+ _If you exclude costs of coercion from the concept of transaction costs, I
+don't see how that concept remains meaningful._  
+  
+The phrase "transaction costs" comes from the world of brokers. It suggests
+something analogous to a broker's fee: a cost of bringing parties together, a
+cost of haggling, or similar.  
+  
+Coercion is not usefully analogous to a broker's fee. You don't merely add it
+on to the cost of doing business. It's a paradigmatically different thing,
+creating crucially important negative sum games that Coase theorists ignore
+(either by definition or by assumption). One chooses one's brokers, but not
+one's bandits -- the broker fee might be so high that you choose not to
+transact, but there is no "offer you can't refuse" \-- there is no coercive
+negative sum game. Brokers provide a service not a lack of action for their
+fee, and multiple brokers cannot come along and charge you for withholding
+action. The coercion and negative sums of the game persist, and may even get
+worse, when the parties are better informed, whereas broker's fees and
+analogous costs fall when parties are better informed. These are very profound
+differences between the two cases. To pursue analogies between them is to
+engage in outrageous distortion of reality.  
+  
+A broad definition of "transaction cost" as "anything bad that can happen to a
+transaction" also reduces the theorem to a tautology, or a mere restatement of
+the assumption of the neoclassical market model: if nothing bad happens to the
+transaction then the outcome is efficient.  
+  
+Coercion is the most important thing economic models such as those used to
+"prove" the Coase theorem generally assume does not exist. The result is that
+economic models generally only work in systems with sophisticated property and
+tort law. Taking the most disparate bad outcomes and sweeping them under the
+rug of "transaction costs" is a preposterously misleading exercise if one is
+trying to understand how the interhuman world works. Even worse, is to, as the
+broad-definition Coaseians often do, think that transaction costs, despite
+being so broadly defined, can like broker's fees simply be reduced with
+sufficiently informed people or computers with sufficiently clever
+programming. Worst of all is using the theorem to explain the emergence
+(Becker) or unnecessariness (Friedman) of the institutions that may reduce
+coercion and thereby make the voluntary transactions that Coasians assume
+normal in the first place. It's logical tail-chasing of the worst variety.
+

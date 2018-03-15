@@ -1,0 +1,26 @@
+I haven't looked specifically the numbers on how much the overall biomass and
+number of cells increased, so I don't know how significant phosphorous
+recycled from ancestors was, or the small amount of residual phosphorous
+contaminating "arsenate only" nutrient solution. Presumably, however, the fact
+that the zero-arsenate-and-zero-phosphate solution brought growth to a halt
+controls for the recycling and residual contamination. These kinds of things
+will have to be checked by independent scientists repeating the experiment.  
+  
+If the experiment had a flaw in its controls, as argued by skeptic Steven
+Benner, it's possible the organism adapts by just using far less phosphate and
+by isolating the arsenic in the large vacuoles that appeared when fed only
+arsenate. The As:P ratio changed over the course of the experiment from 1:500
+to 7:1. This might just reflect a vast amount of arsenate segregated in the
+vacuoles.  
+  
+However, some arsenic was also detected by spectroscopy of teh resulting DNA.
+And I tend to agree the difference between the arsenate-only growth of 60% and
+the no-phosphate/no-arsentate growth of zero strongly suggests the arsenate is
+being used functionally in place of phosphate. Just that the evidence is
+indirect and of course needs to be independently repeated, and we can't yet
+conclude which specific molecules were involved.  
+  
+Phosphorous is about a thousand times more abundant than arsenic in the
+universe, strongly suggesting that P(A or B) is only very slightly higher than
+P(A).
+

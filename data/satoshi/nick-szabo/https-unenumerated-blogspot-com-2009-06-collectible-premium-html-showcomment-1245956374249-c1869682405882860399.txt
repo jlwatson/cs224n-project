@@ -1,0 +1,63 @@
+Devin, I am no longer commenting over there, but I do greatly appreciate the
+thoughtful comments of yourself, Vladimir, etc. and will respond indirectly
+here in the future with posts about Roman Law and absolutism, and will happily
+respond to non-trolling comments at that time.  
+  
+In your currency scenario, I think many high-power currencies would develop
+and trade with low transaction costs -- not unlike what is spoken of today
+informally as using whatever liquid securities one happens to have a lot of
+(e.g. companies that have a liquid market in their stock) as "currencies"
+(e.g. to buy other companies). International trade (such as armaments) is
+still sometimes done on a barter basis. So the transaction cost assumption
+doesn't hold for sufficiently large transactions, even today, and I expect
+automated currency exchange, multi-currency accounting, and deregulation would
+in your scenario make them even lower, so that many medium-sized B2B
+transactions, but still not most consumer retail, could use a wide variety of
+alternative currencies. Since these micro-polities would not converge on a
+single standard right off the bat, businessfolk would get used to a multi-
+currency world and we'd have huge incentives to develop tech to deal with
+multiple currencies.  
+  
+ _Do you envision that the basket would be strictly defined ( ie, one share
+represents 1 gram of gold, 10 grams of silver, and a barrel of oil). Or would
+the basket have some sort of floating mechanism, whereby the basket components
+would depend on current market exchange rates?_  
+  
+The industrial commodity and precious metals portions would be strictly
+defined, but to diversify further and include REIT and stock index ETFs --
+made possible by an electronic redemption window that gives out the ETF
+securities in exchange for SzaboShares -- those would be defined by the index
+fund managers, who are presumably independent of SzaboExchange.  
+  
+A gold standard doesn't diversify risk. Some of the risks are political --
+metal detectors have made gold hard to smuggle and thus easy to ban, and there
+supply risks -- if somebody discovers easy gold undersea or on Mars, or
+figures out a nuclear scheme to breed gold from some other element, its
+collectible premium is hosed.  
+  
+The main advantage of a gold standard is that you can get your hands on actual
+physical gold which is independent of trust in third parties. But this is moot
+as long as the ETF funds were functioning -- you could redeem SzaboShares for
+the ETFs, then barter the ETF shares for gold coins or bullion. If gold
+sellers were still accepting SzaboShares at normal market values (i.e. you are
+not trying to dump SzaboShares as part of a general distrust in or a run on my
+bank), you could just directly exchange your SzaboShares for gold with them. I
+expect in an environment you describe with no Continent-wide regulator, that
+on-line brokers will facilitate such barters for reasonable fees.  
+  
+It's also possible that bit gold will pan out with lower security and scarcity
+vulnerabilities than gold.  
+  
+Bottom line -- I believe that if we need to we can largely automate currency
+exchange and multi-currency accounting incidental to B2B transactions, as well
+as a variety of large-scale barter exchanges and financial swaps directly from
+one security to another without an intermediate standard currency. The main
+standard people will need is (a) to show others their books, and this can be
+done through software, and (b) for small retail transactions, unless somehow
+those too can be automated (e.g. you scan a bar code with your IPhone 77, and
+it displays the price in your favorite currency, and when you swipe your card
+it debits your account in your favorite currency and credits the store's
+account in its favorite currency). The big problem is automating so that (a)
+people don't have to translate prices in their heads and (b) so that the user
+interface for discovering the price in your favorite currency is minimal.
+

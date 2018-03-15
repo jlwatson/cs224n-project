@@ -1,0 +1,30 @@
+Daniel, that's very interesting and informative crypto stuff, thanks. If you
+want to write up a small article the topic of advanced blind signatures, and
+if you can think of a simplified description of your own scheme, I'd be happy
+to have you guest-post on the subject.  
+  
+DN: "The problem with all the other blinding schemes is that they require (at
+least) an extra round of communication."  
+  
+I didn't know this, and I agree it is pretty expensive.  
+  
+I think we should also look at the attack model. It doesn't pay for the
+attacker to spend more than a dollar of CPU time to break the signature on a
+dollar "coin." The typical crypto key size requires far more than trillions of
+dollars worth of CPU cycles to crack. Although one must handle the risk of
+cracking algorithmic improvvements -- but there are ways to do this besides
+key size overkill -- I think the key sizes can be much smaller for low-
+denomination coins.  
+  
+In comparison to another privacy model that is less than fully strong crypto,
+the appropriate blinding operation can also can have a small key size,
+although I don't know if that is significant in the scheme of things.  
+  
+DN: "[WebMoney] actually walked the extra mile of placing the two TPs in
+different jurisdictions."  
+  
+This is a good idea, assuming the jurisdictions are sufficiently independent.
+I'm not convinced it's sufficient to protect against what happened to e-gold,
+or against various similar threats, but it does seem to be a significcant
+improvement.
+

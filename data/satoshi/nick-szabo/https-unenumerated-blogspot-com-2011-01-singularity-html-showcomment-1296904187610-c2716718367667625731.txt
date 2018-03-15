@@ -1,0 +1,42 @@
+A great lecture, thanks! The first half about "bizarre" (roughly speaking, too
+complex/chaotic/variable to model rationally) is quite good. The Newtonian
+easy - to - society hard spectrum corresponds to Hayek/Feynman/et. al.'s
+critique of "social sciences" as what Feynman called "cargo cult science",
+that is to say mimicking the techniques of physics to try to look impressive
+when the subject matter is far too "bizarre" in Anderson's terminology to be
+explained in terms of such simple (low Kolmogorov complexity, low chaos, etc.)
+models as those used in the vast majority of physics. That's why I put a far
+higher intellectual value on highly evolved systems of thought (e.g. law,
+history, and political and economic views based on long intellectual and
+practical traditions) than on modern "social sciences".  
+  
+The second half of Anderson's presentation seems a bit hand-wavy. General
+techniques like evolutionary algorithms also work better in the simple/easy
+domains like Newtonian mechanics. And rather than "1 millisecond" a generation
+in evolutionary computation can take anywhere from microseconds to forever to
+run based on the feasibility of the fitness function, again with simple
+mechanics being the microsecond and most aspects of large societies forever.
+"Bizarre" domains are inherently difficult, and only some of them are even
+possible to crack with any technique, and these can only be feasibly cracked
+tiny bits at a time with hyperspecialized techniques.  
+  
+So I'd say "intuition" is largely just a vast collection of hyperspecialized
+techniques we haven't discovered yet and that operate at a largely or entirely
+subconscious level in ourselves (and thus are largely immune to introspection
+as Anderson well notes).  
+  
+Thus, when Anderson calls for "enforced diversity" as a protection against
+"Singularity"/"SkyNet" I see diversity as self-enforcing due to the
+necessarily hyperspecialized nature of the much more feasible techniques for
+the reasons described above.  
+  
+One interesting "intuitionist" technique I haven't seen explored nearly enough
+in AI is analogy/metaphor/simile. See Lackoff and Johnson's brilliant work on
+tacit (conceptual) metaphor, _Metaphors We Live By_ to see how ubiquitous
+these are in our (largely subconscious) thinking. Through conceptual metaphor
+we understand the  "bizarre" in terms of the simple and concrete based on our
+embodied experiences in the world, e.g. via the simple topological
+relationships we have abstracted from our environment as reflected in
+prepositions. If somebody wants to mine a probably very lucrative but hardly
+explored territory in AI, conceptual metaphor is a great topic to dive into.
+

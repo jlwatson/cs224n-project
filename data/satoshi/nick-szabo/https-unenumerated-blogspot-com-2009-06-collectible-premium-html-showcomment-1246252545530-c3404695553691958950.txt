@@ -1,0 +1,60 @@
+Your FinbarrNotes (just gold) vs. SzaboNotes (basket) analysis is very
+interesting. You have to create a "bubble that never pops". Even after you've
+driven me out of business, if the gold bubble ever pops, or even when it just
+loses that initial gold-beats-the-basket prestige whereby it initially gained
+the monopoly, you've created new opportunities for entry into the market.
+Especially if consumer's mental transaction costs are zero so that consumers
+don't at all mind switching from one currency to another. Also, under the zero
+transaction cost assumption the fact that contracts are denominated in your
+currency doesn't give you any lock-in advantage, as it's costless to exchange
+currencies and to translate book entries from one currency to another for
+accounting purposes. (Indeed, under zero transaction costs why denominate
+contracts in a currency at all? Just denominate them in terms of the ETF
+basket or weight of gold itself, and when the time comes pay by purchasing and
+transferring the ETFs, and cut out the middleman. Indeed, in a perfectly zero
+transaction cost world barter is costless and there is no need for a
+currency).  
+  
+Since zero transaction costs across the board bring zany results, I don't
+think there's any way to get away from looking at specific kinds of
+transaction costs, such as  
+  
+(1) the risks and benefits of fractional reserve banking and maturity/duration
+transformation -- the lower the reserves and the greater the duration mismatch
+the lower of a collectible premium it generates on the basket investments of
+the reserves, but the greater the risk of bank failure. ("Duration" BTW is
+more general term than "maturity" and includes things like a weighted average
+of maturities, e.g. of a bond with coupons).  
+  
+(2) the speed and costs of switching from holding currency to investment and
+vice versa, and of exchanging currencies (under zero transaction costs here
+one holds a currency only for an infinitesimal period of time, just long
+enough to liquidate an investment, then make a payment with the proceeds, then
+for the payee to invest the proceeds -- it all happens in an instant and
+costlessly).  
+  
+(3) the mental transaction and accounting costs of using multiple currencies.  
+  
+n.b. without transaction costs of the (2) or (3) kind there is no lock-in
+effect from having prices quoted in or long-term contracts denominated in a
+particular currency, and thus there are no barriers to entering the currency-
+issuing market with a new standard.  
+  
+(4) taxation costs and other political costs and risks.  
+  
+I'm using the broad economists' definition of "transaction costs" (which
+admittedly can be misleading because it includes costs that aren't terribly
+analogous to broker's fees, but rather have to do with risks, the cost of
+information, etc.) and thus under the no transaction costs assumption all
+these costs (1)-(4) would be zero. There would be no lock-in, no barrier to
+entry in the currency market. I suspect you are not looking at many of these
+costs as zero in your assumption of zero transaction costs. Probably we should
+enumerate what we believe the substantial costs of any sort are, whether we
+call them transaction costs or not, in order to clarify our discussion, since
+obviously a zero-transaction cost world in the sense I am using the term is
+too imaginary for useful analysis. But it also may be the case that technology
+could lower some transaction costs so substantially that the traditional
+assumptions about the currency issuing business could no longer apply --
+another reason to analyze each kind of cost explicitly, even if it forces us
+into less formal territory.
+

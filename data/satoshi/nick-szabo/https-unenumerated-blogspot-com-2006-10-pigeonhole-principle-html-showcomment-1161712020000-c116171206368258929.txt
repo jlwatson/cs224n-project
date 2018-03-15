@@ -1,0 +1,7 @@
+This is just a blog, not an academic journal, and Johann Peter Gustav Lejeune
+Dirichlet has been well-credited with the principle elsewhere. Most academic
+papers that use the principle in proofs don't bother to credit him either.  
+  
+While we're crediting, the game of musical chairs seems to long predate
+Dirichlet, being traditional in many cultures.
+

@@ -1,0 +1,26 @@
+Try again. :-)  
+  
+Nazgulnarsil, I'm in the dark as to how you link "implicit contract" to tort
+law. I can only imagine that you might be referring to implied-in-law
+contracts. The canonical one is that if you are unconscious and a doctor helps
+you, you owe the doctor a reasonable fee.  
+  
+Implied-in-law contracts are a very narrow exception to the otherwise
+universal rule that one must actually form a contract for their to be an
+obligation to pay for a service. If a gardener comes uninvited and starts
+mowing your lawn, or a windshield wiper comes up to your car on the street and
+stars wiping, you don't legally owe them for either their putative or actual
+services. (In some jurisdictions if you know they are providing the service
+and don't object, a contract can be imputed, but these can be considered cases
+of tacit consent). These people who provide services uninvited are called in
+many jurisdictions "officious intermeddlers" becausing they are presuming to
+know what you want rather than negotiating a contract. (Come to think of it,
+"officious intermeddler" is a good description of many government officials as
+well).  
+  
+Even less does somebody committing a tort against another create a contractual
+relationship. Your rights, to the extent you have them, to be free from the
+noises of strangers is a matter of tort law (the law of nuisance), not of
+contract law -- you can't (except for that doctor) have contractual
+relationships with complete strangers.
+

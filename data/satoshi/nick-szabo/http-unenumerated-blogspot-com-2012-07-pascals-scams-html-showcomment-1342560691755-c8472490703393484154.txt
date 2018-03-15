@@ -1,0 +1,25 @@
+Here's a comment I made to people responding to (at least a lossy summary of)
+this post on Less Wrong:  
+  
+The asteroid threat is a good example of a low-probability disaster that is
+probably not a Pascal scam. On point (1) it is fairly lottery-like, insofar as
+asteroid orbits are relatively predictable -- the unknowns are primarily
+"known unknowns", being deviations from very simple functions -- so it's
+possible to compute odds from actual data, rather than merely guessing them
+from a morass of "unknown unknowns". It passes test (2) as we have good ways
+to simulate with reasonable accuracy and (at some expense, only if needed)
+actually test solutions. And best of all it passes test (3) -- experiments or
+observations can be done to improve our information about those odds. Most of
+the funding has, quite properly, gone to those empirical observations, not
+towards speculating about solutions before the problem has been well
+characterized.  
+  
+Alas, most alleged futuristic threats and hopes don't fall into such a clean
+category: the evidence is hopelessly equivocal (even if declared with a false
+certainty) or missing, and those advocating that our attention and other
+resources be devoted to them usually fail to propose experiments or
+observations that would imrove that evidence and thus reduce our uncertainty
+to levels that would distinguish them from the near-infinity of plausible
+disaster scenarios we could imagine. (Even with just the robot apocalypse,
+there are a near-infinity of ways one can plausibly imagine it playing out).
+

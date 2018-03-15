@@ -1,0 +1,16 @@
+ _If the standardized value is inversely proportional to the number of puzzles
+solved during a week,_  
+  
+I don't think this will happen. The market will set the relative value of a
+solution bit from one week to a solution bit from another week based on what
+people believe the relative cost of solving a bit was between those weeks. If
+the value of the standard bundle falls causing some miners to drop out, the
+profit margin of the remaining miners remains as it was after the value fell
+but before the miners dropped out.  
+  
+Weeks when the standard bundle goes down there may be very little production
+(with that week counting for very little in the standard bundle) whereas weeks
+where the standard bundle goes up there will be abnormally large production
+and a correspondingly high number of solution bits from that week incorporated
+into the standard bundle. A very interesting issue though!
+
