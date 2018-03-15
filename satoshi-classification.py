@@ -70,17 +70,20 @@ if __name__ == "__main__":
 
     random.shuffle(data_tuples)
 
-    x = sequence.pad_sequences([d[0] for d in data_tuples], maxlen=MAX_SEQUENCE_LEN)
-    y = utils.to_categorical([d[1] for d in data_tuples], num_classes=len(CANDIDATES))
+    def prepare_input_matrix(split):
+        return sequence.pad_sequences([d[0] for d in data_tuples if d[2] == split], maxlen=MAX_SEQUENCE_LEN)
+    def prepare_output_matrix(split):
+        return utils.to_categorical([d[1] for d in data_tuples if d[2] == split], num_classes=len(CANDIDATES))
 
     vocab_size = len(tokenizer.word_docs)
 
-    split = int(0.2*len(data_tuples))
-    x_train, y_train = x[split:], y[split:]
-    x_test, y_test = x[:split], y[:split]
+    x_train, y_train = prepare_input_matrix('train'), prepare_output_matrix('train')
+    x_test, y_test = prepare_input_matrix('test'), prepare_output_matrix('test')
+    x_val, y_val = prepare_input_matrix('val'), prepare_output_matrix('val')
 
     print('x_train shape:', x_train.shape)
     print('x_test shape:', x_test.shape)
+    print('x_val shape:', x_val.shape)
 
     print('Build model...')
     model = Sequential()
@@ -96,7 +99,7 @@ if __name__ == "__main__":
     model.fit(x_train, y_train,
               batch_size=BATCH_SIZE,
               epochs=TRAIN_EPOCHS,
-              validation_split=0.2)
+              validation_data=(x_val, y_val))
 
     score, acc = model.evaluate(x_test, y_test,
                                 batch_size=BATCH_SIZE)
