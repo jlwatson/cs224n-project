@@ -1,5 +1,3 @@
-
-
 Actually TPM's do have a secure clock. There's just no guarantee about when it
 will keep ticking. You can detect if it gets reset because there is a 20 byte
 nonce, which changes at every reset. I've found that my HP laptop preserves

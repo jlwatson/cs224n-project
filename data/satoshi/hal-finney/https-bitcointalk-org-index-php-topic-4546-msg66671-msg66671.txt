@@ -1,5 +1,3 @@
-
-
 It's an artifact of the coin choice algorithm, not an inherent property of
 transactions. Sipa offered a patch in that thread, but I don't know what it
 does.

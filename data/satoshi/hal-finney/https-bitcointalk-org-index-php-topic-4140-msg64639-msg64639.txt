@@ -1,5 +1,3 @@
-
-
 Here's how I would approach this idea. The concept would be to function in
 max-anonymity mode by default as now, but to also specify a certain address as
 being associated with an identity. Receiving coins to that address is trivial,

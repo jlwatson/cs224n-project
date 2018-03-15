@@ -1,5 +1,3 @@
-
-
 Interesting analysis! Don't forget that in several years, if Bitcoin succeeds,
 there will be orders of magnitude more transactions. And some of these will be
 able to pay substantial fees. So there will be a strategy to start generating

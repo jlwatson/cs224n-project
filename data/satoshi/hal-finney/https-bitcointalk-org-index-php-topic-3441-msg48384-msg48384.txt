@@ -1,5 +1,3 @@
-
-
 Suppose the attacker is generating blocks occasionally. in each block he
 generates, he includes a transfer from address A to address B, both of which
 he controls.  

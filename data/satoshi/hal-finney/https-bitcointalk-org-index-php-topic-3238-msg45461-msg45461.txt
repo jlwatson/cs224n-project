@@ -1,18 +1,5 @@
-
-
 In another thread, [mike] wrote:  
   
-
-Quote from: [mike] on February 07, 2011, 12:10:44 PM
-
-I don't know of any algorithms that will make ECDSA much faster using GPUs.
-The best bet for speeding this up (assuming we care) is to exploit the special
-properties of the secp256k1 curve:  
-  
-http://portal.acm.org/citation.cfm?id=1514739  
-  
-http://www.hyperelliptic.org/tanja/KoblitzC.html  
-
   
 I'm trying to inplement the secp256k1 shortcut. Should have results shortly.
 Unfortunately I only expect about 20% speedup. We'll see.  

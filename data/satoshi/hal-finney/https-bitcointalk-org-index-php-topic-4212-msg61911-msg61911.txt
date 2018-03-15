@@ -1,5 +1,3 @@
-
-
 In another thread, they proposed bringing accounts into the UI, and doing them
 a little differently. Every transaction would be labelled with an account
 name. You could filter your wallet and only view txns for a certain account.

@@ -1,9 +1,3 @@
-
-
-Quote from: TiagoTiago on March 24, 2011, 06:16:43 PM
-
-do i have to run the ssl server to use it locally?  
-
 The js-remote script implements a ssl web server, fully self contained. You
 don't need apache. Just run SSLserver.py, open up port 8338 for incoming, and
 connect with your mobile browser to https://yourhost.com:8338. Then you can

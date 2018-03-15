@@ -1,5 +1,3 @@
-
-
 As long as OpenSSL outputs keys in this format, it will work. I doubt they'd
 change it due to compatibility.
 

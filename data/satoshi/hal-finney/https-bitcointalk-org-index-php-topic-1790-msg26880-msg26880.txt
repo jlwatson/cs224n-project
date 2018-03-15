@@ -1,20 +1,3 @@
-
-
-Quote from: RHorning on December 04, 2010, 08:44:11 PM
-
-So really a domain entry would be:  
-  
-\- the name itself (e.g. example.bitdns)  
-\- a hash of the owning public key (e.g. djiusjfkrhffhdehyormavtrr...)  
-\- an optional key which could identify a "new" owner in the case of somebody
-transferring control of the domain  
-\- the IP address(es) of the authoritative DNS server for the name (e.g.
-1.2.3.4)  
-\- transaction fee paid in BTC  
-  
-A block entry would also have a timestamp that could be rejected if it was for
-some time in the future.  
-
   
 I see, that makes sense. I have an idea about the transaction fee. What if
 this were integrated with Bitcoin itself? This would be a different kind of

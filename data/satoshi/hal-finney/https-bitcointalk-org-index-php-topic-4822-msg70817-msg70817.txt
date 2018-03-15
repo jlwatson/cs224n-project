@@ -1,5 +1,3 @@
-
-
 The buy-low-sell-high game only works when the market is trading in a narrow
 range. But you can't expect it to stay that way forever.
 

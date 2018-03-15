@@ -1,5 +1,3 @@
-
-
 I though it was funny that calling this an RFC is kind of a play on words. RFC
 means Request For Comments, and in this case you're requesting that comments
 be added to transactions. So it's a request for comments in both senses.

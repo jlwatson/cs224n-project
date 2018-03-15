@@ -1,5 +1,3 @@
-
-
 CreateNewBlock() has this code:  
 
 Code:

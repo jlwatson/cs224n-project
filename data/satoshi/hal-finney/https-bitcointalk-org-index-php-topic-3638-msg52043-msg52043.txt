@@ -1,5 +1,3 @@
-
-
 Congratulations Mike! That was fast, you got the bitcoins only two blocks
 later. Not only that, you had to create a transaction with 5 inputs,
 corresponding to the 5 payments into the address. Do you mind telling how you

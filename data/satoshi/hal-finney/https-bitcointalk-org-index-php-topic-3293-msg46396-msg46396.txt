@@ -1,5 +1,3 @@
-
-
 IMO one way to get a handle on a reasonable value for 1 bitcoin is via this
 formula:  
   

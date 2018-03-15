@@ -1,5 +1,3 @@
-
-
 The Double Trouble game only waits for one confirmation. This should take ten
 minutes on average. Unfortunately, the time is highly variable, from a few
 seconds to more than an hour. Makes for a frustrating experience sometimes.  

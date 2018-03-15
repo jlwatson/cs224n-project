@@ -1,5 +1,3 @@
-
-
 I would focus on use cases.  
   
 1\. Back up all the keys in a wallet, and later restore the wallet state if

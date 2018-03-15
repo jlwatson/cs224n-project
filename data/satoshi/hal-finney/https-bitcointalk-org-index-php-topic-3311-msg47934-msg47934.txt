@@ -1,5 +1,3 @@
-
-
 The problem is this code in main.h:GetMinFee(), called from
 main.cpp:AcceptToMemoryPool()  
   

@@ -1,5 +1,3 @@
-
-
 I thought of a simple way to implement the timestamp concept I mentioned
 above. Run sha1sum on the file you want to timestamp. Convert the result to a
 Bitcoin address, such as via http://blockexplorer.com/q/hashtoaddress . Then

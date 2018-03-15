@@ -1,5 +1,3 @@
-
-
 The online QR encoder at http://zxing.org/w/decode.jspx works on the 6.66
 Bitcoin note above, while it failed on the earlier ones. Helps to encode less
 data probably. Here's what it decodes to:  

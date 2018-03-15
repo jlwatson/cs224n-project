@@ -1,5 +1,3 @@
-
-
 There exists a cryptographic technique called split keys which could be used
 on top of Bitcoin to solve some problems in needing to trust people to make
 Bitcoin transfers. The idea is for the payor and payee to jointly generate a

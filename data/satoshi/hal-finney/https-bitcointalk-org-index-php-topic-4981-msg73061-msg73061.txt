@@ -1,15 +1,3 @@
-
-
-Quote from: ptd on March 26, 2011, 08:19:29 PM
-
-Consider a world where mining only pays out transaction fees. Almost all
-miners charge a transaction fee of t and all users pay a transaction fee of t
-on their transactions.  
-  
-One miner decides to increase his profits by charging a smaller transaction
-fee. He publicly announces his intention and many users reduce their fee to be
-on par with the new fee he has announced.
-
 If I post a transaction with a fee that would be accepted by only one miner, I
 will have to wait much longer for my transaction to get into a block. If he
 controlled 1% of the mining power, I'd have to wait for 100 blocks on average.

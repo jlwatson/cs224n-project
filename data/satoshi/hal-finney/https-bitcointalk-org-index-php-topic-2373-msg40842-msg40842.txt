@@ -1,5 +1,3 @@
-
-
 Here's where grondilu describes his scripts to sign arbitrary data with wallet
 keys using openssl. Very impressive.  
   

@@ -1,5 +1,3 @@
-
-
 bitcoin-qt tries to randomize the position of the change output, but I believe
 the code has a flaw:  
   

@@ -1,5 +1,3 @@
-
-
 Actually one of the criteria for SHA-3 is speed, which is not particularly
 important for Bitcoin. We might consider using a different approach.  
   

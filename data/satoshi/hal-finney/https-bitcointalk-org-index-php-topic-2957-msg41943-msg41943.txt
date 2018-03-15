@@ -1,5 +1,3 @@
-
-
 I was able to verify the signature using the openssl command line and a bunch
 of cutting and pasting of hex dumps. The data input to the hash is  
 

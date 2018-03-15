@@ -1,17 +1,3 @@
-
-
-Quote from: ByteCoin on March 17, 2011, 09:03:47 PM
-
-Quote from: Hal on March 17, 2011, 07:21:02 PM
-
-It's not safe to have only 64 bits of the private key be unknown. This can be
-broken in 2^32 work using such algorithms as baby step giant step, Pollard
-rho, or the kangaroo.  
-
-  
-It's not immediately obvious to me that this is possible. Please go into
-details about how it would be done.  
-
   
 I have looked into this, and you do need the public key to break it. (Also I
 was wrong about Pollard rho being suitable, but the other two are.) Bitcoin

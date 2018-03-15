@@ -1,5 +1,3 @@
-
-
 OK so if there are going to be bitdnscoins (aka DCCs, DomainChain Coins) then
 they have to be useful for something. Otherwise every BitDNS miner is going to
 fill every block with his own domain name registrations, rather than replace

@@ -1,5 +1,3 @@
-
-
 The second to last dot on the blue line is the last actual data point, right?
 I notice that it was farther from the trend line than any other point. Is this
 a sign that the trend is breaking down?

@@ -1,5 +1,3 @@
-
-
 We know that Bitcoin's resistance to attack is based on the cost for the
 attacker to overwhelm the network, or at least to control a large fraction of
 its computing power. We assume this cost will continue to rise in the future

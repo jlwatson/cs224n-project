@@ -1,5 +1,3 @@
-
-
 I have enhanced the bc_key program to print interesting information about
 transactions found in the wallet file.  
   

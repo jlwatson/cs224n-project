@@ -1,5 +1,3 @@
-
-
 How about counting the number of people in #bitcoin? That should include
 almost everyone who's running the client at that moment. I'd like to see stats
 on how this number is changing.

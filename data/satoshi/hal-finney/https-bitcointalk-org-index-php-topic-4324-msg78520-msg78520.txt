@@ -1,5 +1,3 @@
-
-
 I added a step to the wiki:  
   
 # Recheck blockexplorer to make sure the address still shows the right amount,

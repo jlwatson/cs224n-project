@@ -1,5 +1,3 @@
-
-
 tcatm's bitcoin-js-remote script gives you a "mybitcoin at home"
 functionality. Run the Bitcoin client and his code on your home machine, open
 up port 8338 incoming, and you can access your wallet remotely using your

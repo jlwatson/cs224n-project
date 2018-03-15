@@ -1,16 +1,3 @@
-
-
-Quote from: em3rgentOrdr on December 07, 2010, 04:56:51 AM
-
-Well before starting coding, let's make sure we have the protocol clearly
-written out. For instance, are we going to take my suggestion of using
-unitary, non-fractional, bitdnscoins where 1 block == 1 bitdnscoin, instead of
-having the number of bitdnscoins per block start at 50 and half every few
-years? Also, there is no need for fractional bitdnscoins since it doesn't make
-too much sense to own one-tenth of a domain name. Keep in mind that people can
-use fiat money or even bitcoins when trading unitary bitdnscoins, incase they
-need to make a trade of two domain names with unequal subjective valuations.  
-
   
 I'm not sure how it would work to only create one coin per block. Would this
 only buy the creation of one domain name?  

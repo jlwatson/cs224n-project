@@ -1,11 +1,3 @@
-
-
-Quote from: kseistrup on February 19, 2011, 05:49:54 PM
-
-Does anyone know if SHA-512/256 produces the same digests as SHA256? If so,
-the alleged efficiency might be interesting for CPU-miners on 64-bit
-platforms.  
-
   
 No, it would not.
 

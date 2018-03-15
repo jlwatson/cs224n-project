@@ -1,5 +1,3 @@
-
-
 See this analysis by [mike] looking at similar transaction loads and what that
 would mean for mining servers:  
   

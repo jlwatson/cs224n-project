@@ -1,5 +1,3 @@
-
-
 There was some discussion on the cryptography mailing list two years ago (much
 of it poor quality unfortunately IMO):  
   

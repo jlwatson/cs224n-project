@@ -1,5 +1,3 @@
-
-
 I have an even better idea. My transactions compete with those of others for
 free space in the blocks, so clearly I should forward only my own transactions
 and block everybody else's. Profit! Off to make a pull request...

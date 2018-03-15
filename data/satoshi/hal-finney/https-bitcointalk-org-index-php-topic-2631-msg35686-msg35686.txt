@@ -1,4 +1,2 @@
-
-
 Try doing tail -c 65 after the base64 -d. Your pubkey has ASN.1 cruft.
 

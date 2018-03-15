@@ -1,5 +1,3 @@
-
-
 Lots of good ideas here!  
   
 I like Gavin's idea to display full precision in the UI and allow it on

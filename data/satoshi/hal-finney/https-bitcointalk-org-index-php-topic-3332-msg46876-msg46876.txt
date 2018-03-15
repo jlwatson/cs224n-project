@@ -1,5 +1,3 @@
-
-
 Verifying an ECDSA signature takes about 3 ms. Let's say the typical
 transaction has 2 inputs. Each transaction is verified twice, once alone and
 once in a block. That's 12 ms per node, times 10000 nodes for 120 cpu-seconds,

@@ -1,5 +1,3 @@
-
-
 Would it be that hard for external miners to do the extra compare, and only
 return solutions that actually work? I hate to see too many special-case
 switches.

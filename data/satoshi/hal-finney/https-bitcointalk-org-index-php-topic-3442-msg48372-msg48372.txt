@@ -1,5 +1,3 @@
-
-
 I did "Copy to Clipboard" of my Bitcoin address and then hit Pay, paid myself
 20 btc. Is this supposed to work?  
   

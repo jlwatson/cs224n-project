@@ -1,5 +1,3 @@
-
-
 Here is an idea for how miners can get paid.  
   
 Let us start with a fork of Bitcoin. We will start a new block chain just like

@@ -1,5 +1,3 @@
-
-
 Now, when you connect to the port, the client spews out a version message,
 which reveals its identity. With the shy patch, there's no response. It could
 be ssh, could be torrent, could be bitcoin, could be http, could be anything.

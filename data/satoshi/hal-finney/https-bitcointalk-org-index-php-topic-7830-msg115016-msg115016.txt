@@ -1,5 +1,3 @@
-
-
 One way to deal with the key-addition attack would be to store a MAC (keyed
 crypto checksum) with the encrypted data (priv keys). The MAC key could be
 either an alternate hash of the encryption passphrase, or a hash of a separate

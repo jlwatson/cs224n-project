@@ -1,5 +1,3 @@
-
-
 According to Gavin's
 https://github.com/gavinandresen/bitcointools/blob/master/NOTES.txt,
 serialization of any vector object gets preceded by a count of the number of

@@ -1,5 +1,3 @@
-
-
 Several people have mentioned they are working on mobile clients (at least
 Android, don't know about iOS). But I haven't seen much discussion of the
 design in terms of security and performance issues.  

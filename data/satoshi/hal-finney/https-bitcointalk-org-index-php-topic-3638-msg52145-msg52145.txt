@@ -1,5 +1,3 @@
-
-
 I'm kind of surprised that Mike's transactions didn't show up in my wallet.
 Instead it still counts that address as having a positive balance. Granted it
 is non-standard for payments from my wallet keys to originate elsewhere, but

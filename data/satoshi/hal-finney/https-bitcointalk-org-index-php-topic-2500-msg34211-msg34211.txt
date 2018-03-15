@@ -1,5 +1,3 @@
-
-
 Actually there is a very good reason for Bitcoin-backed banks to exist,
 issuing their own digital cash currency, redeemable for bitcoins. Bitcoin
 itself cannot scale to have every single financial transaction in the world be

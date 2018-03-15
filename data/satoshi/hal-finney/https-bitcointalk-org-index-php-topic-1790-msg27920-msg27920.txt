@@ -1,5 +1,3 @@
-
-
 What if the consensus is that the Bitcoin network should not be used to
 support DNS (as I expect)? Then the only alternative is to go forward with a
 parallel but independent block chain, creating a second currency. Are we ok

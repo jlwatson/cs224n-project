@@ -1,5 +1,3 @@
-
-
 The idea of a Merkle tree is you just store the root, and then when someone
 wants to convince you that something's in the tree, they produce the Merkle
 branch. The Merkle roots are in the block headers. Merkle branches are stored

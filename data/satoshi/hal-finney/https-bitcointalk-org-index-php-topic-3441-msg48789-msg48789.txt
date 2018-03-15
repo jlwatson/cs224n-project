@@ -1,10 +1,3 @@
-
-
-Quote from: gavinandresen on February 14, 2011, 06:24:59 PM
-
-I wonder if there's some way to discourage that kind of anti-social behavior;
-could the network detect that was being done and "shun" that miner's blocks?
-
   
 I think that was Joe's suggestion: if a block shows up that turns one or more
 previously-broadcast transactions into double-spends, you don't count it.

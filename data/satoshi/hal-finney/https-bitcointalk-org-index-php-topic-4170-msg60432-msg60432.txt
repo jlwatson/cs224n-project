@@ -1,5 +1,3 @@
-
-
 Is there anything we need to do for robustness against spam/flooding attacks?
 I thought [mike] had some ideas.
 

@@ -1,9 +1,2 @@
-
-
-Quote from: RobShaver on February 21, 2011, 08:18:44 PM
-
-1\. In the FAQ it says, "You need to make a backup of the wallet after every
-transaction, as the old backup file will be partially or fully invalid."
-
 Sounds like that FAQ entry is obsolete and should be updated.
 

@@ -1,5 +1,3 @@
-
-
 I used to have trouble managing payments to a service that used a new address
 every time. Seems to conflict with the idea of an address book. Imagine if
 everyone's phone number changed every call. Not too convenient.  

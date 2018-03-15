@@ -1,5 +1,3 @@
-
-
 Indeed, I bricked my laptop when I was first experimenting with this
 technology several years ago. Fortunately it was under warrantee and they
 replaced it. All you have to do is make sure your BIOS is up to date and that

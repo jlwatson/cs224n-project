@@ -1,5 +1,3 @@
-
-
 Start of the security analysis  
   
 bcflick is a Flicker PAL (Piece of Application Logic) designed to increase the

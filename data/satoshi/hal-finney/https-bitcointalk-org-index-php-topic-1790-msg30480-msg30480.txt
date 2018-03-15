@@ -1,5 +1,3 @@
-
-
 "To implement this simply requires adding one new field to each transaction,
 the 'name' (or hash) of the 'stock' being transferred."  
   

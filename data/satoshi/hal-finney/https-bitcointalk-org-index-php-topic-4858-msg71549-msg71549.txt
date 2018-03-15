@@ -1,5 +1,3 @@
-
-
 Adding a check for a sufficiently low probability event means that the
 overwhelming majority of the time, the CPU or memory glitched, and it is a
 false alarm.  

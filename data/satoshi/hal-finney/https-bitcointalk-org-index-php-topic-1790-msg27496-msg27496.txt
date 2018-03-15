@@ -1,5 +1,3 @@
-
-
 I also had an idea last night of how/where to tie this into the existing DNS.  
   
 When you lookup foo.com, software on your computer called a resolver is

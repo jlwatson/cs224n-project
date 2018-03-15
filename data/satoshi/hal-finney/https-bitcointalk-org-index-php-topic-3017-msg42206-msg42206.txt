@@ -1,14 +1,3 @@
-
-
-Quote from: [mike] on January 28, 2011, 10:15:21 AM
-
-Walking the block chain means you don't have to store much data at all. In
-fact, you only need to store the block locator, a series of block headers that
-thin out exponentially from the head of the chain. I was planning on having
-the app download a signed copy of the latest block locator from my own server
-the first time it runs rather than doing a getheaders walk, as a performance
-optimization (you already have to trust the author of your wallet software).  
-
 What do you mean by walking the block chain? Could you clarify what you would
 do when you receive a block containing a payment transaction to one of your
 addresses? Do you need to go back and look at old blocks? Or can you just

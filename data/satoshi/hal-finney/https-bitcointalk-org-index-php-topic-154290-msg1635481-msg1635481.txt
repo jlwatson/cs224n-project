@@ -1,5 +1,3 @@
-
-
 In this post, https://bitcointalk.org/index.php?topic=67508.0, Mike Hearn
 gives a good introduction to trusted computing technology and how it could
 help secure Bitcoin wallets. I've been working on these ideas, using the

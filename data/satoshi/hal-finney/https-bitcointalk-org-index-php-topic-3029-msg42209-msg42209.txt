@@ -1,5 +1,3 @@
-
-
 Suppose you receive a payment and then immediately spend it. Then there is a
 block reorganization and the payment to you goes away. It never comes back
 because it was a double spend. Can the client handle this? How would it appear

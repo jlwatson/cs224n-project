@@ -1,5 +1,3 @@
-
-
 I've put the code up at github. I'm a C programmer more than C++; it shows.  
   
 https://github.com/halfinney/bitcoin/tree/secp256k1  

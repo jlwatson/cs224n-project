@@ -1,5 +1,3 @@
-
-
 I'd add speed, you shouldn't have to wait too long for a transaction to go
 through. Bitcoin gets a B-, it's fast enough for a lot of things but too slow
 for some.  

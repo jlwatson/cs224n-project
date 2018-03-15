@@ -1,5 +1,3 @@
-
-
 If you have a home computer, https://github.com/tcatm/bitcoin-js-remote gives
 you mybitcoin-like functionality using your own wallet at home.
 

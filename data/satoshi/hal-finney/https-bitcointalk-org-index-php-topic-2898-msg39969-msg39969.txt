@@ -1,5 +1,3 @@
-
-
 I think it will work to give change to the paying Bitcoin address. The client
 avoids this for privacy reasons - it tries to hide which output is payment and
 which is change. But it should work.  

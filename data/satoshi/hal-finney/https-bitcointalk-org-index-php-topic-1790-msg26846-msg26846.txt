@@ -1,5 +1,3 @@
-
-
 Let me clarify how I understand the BitDNS idea. First, I think it is somewhat
 misnamed, as we would not propose to replace the entire decentralized DNS
 infrastructure of A records, CNAMEs, TTL values, etc. What we want to change

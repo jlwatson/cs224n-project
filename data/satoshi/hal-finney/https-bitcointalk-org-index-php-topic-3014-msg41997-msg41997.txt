@@ -1,5 +1,3 @@
-
-
 Here's what I would suggest. Create a new key pair in your code. Hash and sign
 something like 'abc'. Then see if you can verify the signature. If it works,
 publish the key and signature here. I can try to verify the sig with OpenSSL.

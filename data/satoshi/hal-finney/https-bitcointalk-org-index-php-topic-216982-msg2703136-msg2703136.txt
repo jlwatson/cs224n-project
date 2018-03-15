@@ -1,23 +1,3 @@
-
-
-Quote from: gmaxwell on July 09, 2013, 01:27:02 AM
-
-E.g. N parties show up in a communications group and want to make a joint
-transaction. They each name an input they want to spend and signmessage for a
-zerocoin creation showing that they have the authority to spend that coin.
-They then return anonymously and provide zerocoin spends that specify the
-outputs they're interested in. Everyone then knows what the final transaction
-should look like and they all sign.  
-  
-In this case the zerocoin part is used to prevent parties from jamming up the
-mix, e.g. by joining and providing inputs but refusing to sign. If someone
-refuses to sign it can only be because either zerocoin has been exploited
-(and their preferred output isn't in the mix) or because they're trying to jam
-it. In any case, you just blacklist their input, and restart the process.
-Because zerocoin is only used for anti-dos in that context it also means that
-you could use a faster reduced security instance of it, also allowing some
-experimentation with the security boundaries.  
-
   
 The zerocoin part does more than defend against DOS, doesn't it? It also
 provides a degree of anyonymity, if I understand it. In the conventional

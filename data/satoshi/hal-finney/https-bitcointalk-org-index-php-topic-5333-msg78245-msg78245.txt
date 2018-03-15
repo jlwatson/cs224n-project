@@ -1,5 +1,3 @@
-
-
 This is good because without it, someone can test whether 2 addresses are in
 the same wallet, by sending a payment to both of them. Then you can't spend
 one without the other.

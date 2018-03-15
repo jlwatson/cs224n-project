@@ -1,5 +1,3 @@
-
-
 One reason price might follow difficulty is that mining should not be too
 profitable (because nothing should be too profitable, the world doesn't leave
 free money lying around). Therefore the price of Bitcoins can't rise too much

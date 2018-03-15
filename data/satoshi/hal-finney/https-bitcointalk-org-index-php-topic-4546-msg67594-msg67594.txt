@@ -1,5 +1,3 @@
-
-
 One case to consider is when you have addresses A and B in your wallet but
 don't want them linked. Jollygreen's code will allow making sure you never
 spend from A and B together, I think, so that's good.  

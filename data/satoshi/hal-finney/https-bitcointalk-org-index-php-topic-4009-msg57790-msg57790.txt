@@ -1,29 +1,3 @@
-
-
-Quote from: StevenC on March 01, 2011, 07:13:58 PM
-
-  
-When investigating this I noticed lots of errors in ~/.bitcoin/debug.log like
-this:  
-
-Code:
-
-ERROR: ConnectInputs() : 94ba8e6447 mapTransactions prev not found d884bcbf17  
-ERROR: AcceptToMemoryPool() : ConnectInputs failed 94ba8e6447
-
-  
-Some of these partial txid's seem to 'cascade' on from one another, so I
-figured there was a dependency chain forming here. I've managed to render this
-in the PDF below; maybe that helps people to visualise what's going on. If
-anyone else has transactions not completing, they may try searching for the
-transaction ID in the PDF document. I found my transaction in there with at
-least 5 preceding it. I count about 275 transactions in total at the moment,
-but I don't currently have the means to check if any of the displayed
-transactions eventually got processed.  
-  
-
-  * http://pyro.eu.org/stuff/bitcoin-txqueue.pdf
-
   
 I'd suggest people look at this PDF, make sure we're fixing the right problem.
 This is a graph of orphan transactions showing dependencies. Note that there's

@@ -1,13 +1,3 @@
-
-
-Quote from: jgarzik on March 11, 2011, 05:01:22 PM
-
-  
-Mining consumes very little bandwidth.  
-  
-Running a bitcoin P2P node consumes a noticeable amount of bandwidth -- my VPS
-ran out of its 1000GB allocation this month.  
-
 Wow, do you mean your bitcoin client communicated a terabyte in a month???
 That doesn't sound right.  
   

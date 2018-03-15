@@ -1,5 +1,3 @@
-
-
 I'm the author of this code. The main.cpp code sends a version message in
 response to receiving one, on inbound connections.
 

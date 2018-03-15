@@ -1,5 +1,3 @@
-
-
 I've done some benchmarking suggesting that the main CPU bottleneck on initial
 block download is verifying digital signatures on all transactions in all
 blocks. If I download from another client on the LAN, I get up to block 70,000

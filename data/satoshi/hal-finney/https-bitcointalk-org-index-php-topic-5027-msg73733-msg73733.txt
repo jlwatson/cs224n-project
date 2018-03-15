@@ -1,5 +1,3 @@
-
-
 Back in the 90's on the cypherpunks mailing list, Wei Dai (of Crypto++ and
 b-money fame) invented a system of anonymous lending. Of course the classic
 problem with anonymous loans is that you don't know whose legs to break if

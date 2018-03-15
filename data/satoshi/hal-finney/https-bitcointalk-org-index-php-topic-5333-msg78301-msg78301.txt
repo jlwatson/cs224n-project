@@ -1,5 +1,3 @@
-
-
 Trying to review the diff - looks like UpdateSpent() could return fReturn
 uninitialized if it's false.
 

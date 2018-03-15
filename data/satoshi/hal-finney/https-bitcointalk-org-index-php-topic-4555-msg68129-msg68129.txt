@@ -1,5 +1,3 @@
-
-
 The modification to repeatedly hash the 64 bit password is a good idea, and
 should prevent square root attacks. I would probably have used a simpler
 iterative formula, but that one seems safe enough. SHA512 is notorious for

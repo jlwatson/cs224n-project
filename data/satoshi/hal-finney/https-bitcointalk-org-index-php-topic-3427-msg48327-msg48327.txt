@@ -1,5 +1,3 @@
-
-
 I think this is a great idea Joe. There have been many, many, many requests
 for this functionality. The recent addition of the rescan feature will help.
 When you import the key, do a rescan to pick up the transaction that funds it.

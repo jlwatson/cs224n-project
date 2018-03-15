@@ -1,5 +1,3 @@
-
-
 Okay, I did that too, and the secret is that the scriptSig is entirely removed
 and replaced with the scriptPubKey from the source (old) transaction. I'm
 still a little confused about how this works in the source.  

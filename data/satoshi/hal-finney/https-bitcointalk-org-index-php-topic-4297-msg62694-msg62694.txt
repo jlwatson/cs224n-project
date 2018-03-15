@@ -1,5 +1,3 @@
-
-
 The frequency of finding blocks is an example of the Poisson distribution.
 Here is a good, simple page about it:  
   

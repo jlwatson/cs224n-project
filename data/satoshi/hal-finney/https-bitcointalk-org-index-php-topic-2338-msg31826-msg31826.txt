@@ -1,5 +1,3 @@
-
-
 I'd predict that difficulty will stop rising once it becomes impossible to
 mine at a profit. Based on ribuck's figures, we're pretty much there if you
 account for GPU prices, and maybe a factor of 4 away even for people who only

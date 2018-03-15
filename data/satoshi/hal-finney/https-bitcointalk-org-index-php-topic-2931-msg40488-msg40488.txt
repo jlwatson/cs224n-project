@@ -1,5 +1,3 @@
-
-
 Meant to add, seems to work ok with other clients, I've got 30+ connections.
 It did turn my dot red on the bitcoin world map, I guess that scanner relies
 on noisy nodes.

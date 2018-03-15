@@ -1,5 +1,3 @@
-
-
 Warning, lots of bad information and wrong answers in this thread!  
   
 Addresses are not created in batches of 100 (after initialization), they are

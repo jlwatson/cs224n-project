@@ -1,5 +1,3 @@
-
-
 I listen to the network (via http://bitcointalk.org/index.php?topic=2808.0),
 and while transactions generally come pretty randomly, there is occasionally a
 cluster of a dozen or so transactions, coming very quickly, within a second or

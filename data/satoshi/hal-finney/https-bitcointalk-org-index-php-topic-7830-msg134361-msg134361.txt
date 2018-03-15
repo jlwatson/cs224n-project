@@ -1,5 +1,3 @@
-
-
 Sorry I haven't responded, communicating is hard for me these days. This seems
 to be a very good and sound approach. I would not bother to use longer keys
 for the master key, chances are the user passphrase will be the weakest part.

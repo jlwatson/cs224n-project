@@ -1,5 +1,3 @@
-
-
 Apologies for resurrecting this old thread, but I wanted to mention a new
 development. The people that brought you Flicker and TrustVisor, both
 mentioned by Mike, have a new project out. xmhf is a hypervisor framework

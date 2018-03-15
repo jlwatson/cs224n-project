@@ -1,5 +1,3 @@
-
-
 I don't believe the software does this now, but a miner could copy the
 transaction from your block, and include both that and the one with the txn
 fee in its new block. Then it could collect the fee even if it built on

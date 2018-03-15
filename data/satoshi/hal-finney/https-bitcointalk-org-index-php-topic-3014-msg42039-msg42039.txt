@@ -1,5 +1,3 @@
-
-
 Signatures are DER encoded in Bitcoin, and your signature above is in the same
 format. 30 is a sequence of values, in this case the two ECDSA components,
 called r and s. 46 is the length of the sequence. Then 02 means integer, 21 is

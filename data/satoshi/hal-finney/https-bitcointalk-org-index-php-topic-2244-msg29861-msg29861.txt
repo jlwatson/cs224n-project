@@ -1,5 +1,3 @@
-
-
 As a relative newbie to the code, I do find your version easier to read. It's
 easier to find the implementations of functions since most are class members
 and are now in named .cpp files. It's also nice to have the full class

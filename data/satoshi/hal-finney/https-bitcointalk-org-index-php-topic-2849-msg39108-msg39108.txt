@@ -1,5 +1,3 @@
-
-
 This would be a centralized system anyway. It's basically equivalent to a bank
 issuing digital money in the form of PK signatures, but because it's quantum
 it's theoretically more secure. You'd still be trusting the bank/mint not to

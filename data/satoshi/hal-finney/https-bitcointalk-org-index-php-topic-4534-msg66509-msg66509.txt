@@ -1,5 +1,3 @@
-
-
 Follow the rules!  
   
 I've put up a wiki page listing the rules used by the client to process

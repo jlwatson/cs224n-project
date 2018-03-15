@@ -1,5 +1,3 @@
-
-
 Sorry! I did screw up the encoding. Here is the 256-bit private key in big-
 endian hex:  
   

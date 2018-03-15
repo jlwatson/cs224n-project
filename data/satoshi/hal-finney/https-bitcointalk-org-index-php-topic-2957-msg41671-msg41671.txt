@@ -1,5 +1,3 @@
-
-
 What you are doing looks pretty good to me now that I understand it better. I
 tried hashing your data and got
 90377525e05bd71ce8ba413a84fdaea299766732f165fab28a69d30c83337f9b, don't know

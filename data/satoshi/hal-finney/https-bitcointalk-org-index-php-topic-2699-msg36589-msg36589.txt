@@ -1,5 +1,3 @@
-
-
 Bitcoin uses elliptic curve cryptography for its keys and signatures, but the
 specific curve used is pretty unusual. It is called secp256k1, from a standard
 called SEC2, published by a group called SECG,

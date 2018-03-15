@@ -1,5 +1,3 @@
-
-
 One thing you might want to do is use the hash to determine the result of a
 gambling game. You could bet with someone on whether the next hash will be
 even or odd. The problem is if your opponent is a miner, he could influence a

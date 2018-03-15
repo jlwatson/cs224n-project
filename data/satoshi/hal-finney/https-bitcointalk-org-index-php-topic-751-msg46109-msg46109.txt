@@ -1,5 +1,3 @@
-
-
 People talk about moving keys/addresses, but also it is important to move the
 transactions. Bitcoin is a transaction based system. Your keys authorize
 (sign) payments, but the payments actually come from the transactions you have

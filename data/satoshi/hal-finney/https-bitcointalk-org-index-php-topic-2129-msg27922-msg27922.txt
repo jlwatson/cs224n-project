@@ -1,5 +1,3 @@
-
-
 jgarzik makes a good argument that the complexity of the scripting system is
 not being used and is unnecessary. Simple in/out transactions are all that are
 needed. I'm not convinced that there is anything that can be done with Bitcoin

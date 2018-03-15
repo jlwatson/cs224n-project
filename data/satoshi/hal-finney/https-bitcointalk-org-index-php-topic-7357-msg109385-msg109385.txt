@@ -1,5 +1,3 @@
-
-
 Q on the video:  
   
 You received 1 btc, then before it was confirmed, made a payment of 0.1 btc.

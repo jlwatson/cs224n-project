@@ -1,10 +1,3 @@
-
-
-Quote from: travex on March 09, 2011, 01:29:00 PM
-
-Well how do you know if youve successfully resolved a block ? Been mining for
-almost a week with 400KH/s but still nothing in my client Bitcoin client @.@  
-
 Plug your hash rate into the Bitcoin Calculator to see how often you can
 expect to find a block. 400 kh/s will take over two years. That's if
 difficulty doesn't go up.  

@@ -1,5 +1,3 @@
-
-
 Wow, that's bizarre that the byte order of the hashes is reversed on the wire
 like that. Have you tried reproducing the published transaction hash by
 hashing the raw transaction? Does that work? What do you get, 0f89... as it is

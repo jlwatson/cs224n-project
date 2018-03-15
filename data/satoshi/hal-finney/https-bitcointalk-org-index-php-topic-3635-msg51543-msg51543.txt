@@ -1,5 +1,3 @@
-
-
 The bottleneck is an elliptic curve multiply, which takes about 2 ms, for
 500/sec. However if you just want to generate addresses as fast as possible,
 you can repeatedly increment the private key while adding G to the public key.

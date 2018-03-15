@@ -1,5 +1,3 @@
-
-
 In discussion on the BitDNS thread I came up with an idea for overlaying other
 protocols onto Bitcoin. From one point of view, Bitcoin is a global,
 decentralized, yet consistent database. This DB is used to record transfers of

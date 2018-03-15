@@ -1,5 +1,3 @@
-
-
 We're at block 96,000+ now and block 100,000 is in sight. At current rates it
 should show up by Christmas, depending on how much computing power increases
 by then.  

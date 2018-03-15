@@ -1,5 +1,3 @@
-
-
 This is how I understand transaction fees to work:  
   
 \- the client offers a fee by creating a tx with a "surplus", ie. the input

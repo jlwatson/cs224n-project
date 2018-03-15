@@ -1,5 +1,3 @@
-
-
 I don't see how that hex dump corresponds to the transaction. You have
 outpoint hashes starting with 30 f3, 72 14, and d2 81, none of which are in
 the transaction.

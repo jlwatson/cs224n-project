@@ -1,4 +1,2 @@
-
-
 How much entropy does a live cd have after booting?
 

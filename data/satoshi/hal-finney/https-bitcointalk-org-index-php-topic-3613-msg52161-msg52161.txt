@@ -1,5 +1,3 @@
-
-
 Now all we need is a proposal to overload the block chain to hold email, and
 the circle will be complete.
 

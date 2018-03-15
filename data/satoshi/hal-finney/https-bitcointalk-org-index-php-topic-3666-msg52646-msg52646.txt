@@ -1,5 +1,3 @@
-
-
 Did you ever get this? Here's some minimal code that might work. Add to
 rpc.cpp after getwork:  
 

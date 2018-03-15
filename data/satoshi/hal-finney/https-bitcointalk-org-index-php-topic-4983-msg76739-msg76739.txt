@@ -1,5 +1,3 @@
-
-
 Steve, the way the client works now, all the wallet keys are read into memory
 at startup. Subsequent changes are made in memory and written to disk. This
 proposed patch decrypts keys as they are read into memory at startup, and

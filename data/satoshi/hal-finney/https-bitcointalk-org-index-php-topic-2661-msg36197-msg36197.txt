@@ -1,5 +1,3 @@
-
-
 Let me unpack this idea into parts.  
   
 1\. Sharing your compute power in a massively parallel effort that has some

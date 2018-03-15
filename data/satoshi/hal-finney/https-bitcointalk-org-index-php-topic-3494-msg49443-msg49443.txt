@@ -1,5 +1,3 @@
-
-
 I have argued that difficulty should be proportional to price. Difficulty will
 rise until mining becomes unprofitable. Since the price recently tripled,
 difficulty should do the same.

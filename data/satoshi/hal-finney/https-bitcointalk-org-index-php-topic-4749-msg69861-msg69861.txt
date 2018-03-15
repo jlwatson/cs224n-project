@@ -1,12 +1,3 @@
-
-
-Quote from: forever-d on March 22, 2011, 11:49:53 AM
-
-From my understanding, it is in theory possible to "double spend" a
-transaction in limbo. If the second attempt with a higher transaction fee
-makes it into a block, the first attempt will be interpreted as a double
-spending attempt by miners and simply be ignored.  
-
 A txn "in limbo" (in the transaction pool) will block double spends from being
 forwarded by peers, or accepted by (unhacked) miners. The pool is only in
 memory so gets wiped when the node is restarted, making network behavior

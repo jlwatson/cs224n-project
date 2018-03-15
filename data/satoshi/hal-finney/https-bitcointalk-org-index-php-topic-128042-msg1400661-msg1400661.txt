@@ -1,5 +1,3 @@
-
-
 Actually the OP observed that the software always puts the change first. I was
 working on a separate project suggested by Mike Hearn, using the new secure
 "trusted computing" modes on modern cpus to enforce spending limits even when

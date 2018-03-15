@@ -1,5 +1,3 @@
-
-
 I find it distracting to see the # confirmations for each transaction. Do I
 really need to know that there are 20,132 confirmations to a transaction? And,
 oh look, it just went up to 20,133. Anything beyond a few dozen is overkill

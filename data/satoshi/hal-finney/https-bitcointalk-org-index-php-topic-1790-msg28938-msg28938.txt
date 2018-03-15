@@ -1,5 +1,3 @@
-
-
 Satoshi, are you endorsing the idea that additional block chains would each
 create their own flavor of coins, which would trade with bitcoins on
 exchanges? These chain-specific coins would be used to reward miners on those

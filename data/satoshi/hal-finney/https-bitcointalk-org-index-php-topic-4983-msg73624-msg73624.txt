@@ -1,5 +1,3 @@
-
-
 There's good discussion of this feature here:  
   
 https://github.com/bitcoin/bitcoin/issues#issue/3  

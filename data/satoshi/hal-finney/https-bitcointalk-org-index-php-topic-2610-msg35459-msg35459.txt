@@ -1,5 +1,3 @@
-
-
 According to https://en.bitcoin.it/wiki/Mining_Hardware_Comparison, the 5770
 draws about 100W and generates 150 Mhash/s. According to
 http://www.alloscomp.com/bitcoin/calculator.php, this should generate a block

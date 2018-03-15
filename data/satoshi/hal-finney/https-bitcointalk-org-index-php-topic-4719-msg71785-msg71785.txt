@@ -1,11 +1,3 @@
-
-
-Quote from: Jim Hyslop on March 25, 2011, 12:10:15 AM
-
-I see why everyone's so confused about what I'm trying to discuss. I just
-realized the nVersion parameter to Serialize, GetSerialSize, and Unserialize
-is tied to the VERSION macro, and is basically a constant.  
-
 This is not quite right, but the code is pretty spread out. Generally
 un/serialization is done by the operator<< and operator>> methods of
 CDataStream in serialize.h. We do CTransaction tx; vRecv >> tx; to read a

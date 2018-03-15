@@ -1,78 +1,11 @@
-
-
 Actually if you look at Wei Dai's b-money or Nick Szabo's Bit Gold proposals,
 both from the 90's, you see a lot of the ideas of Bitcoin.  
   
 b-money:  
-
-Quote
-
-In the first protocol, every participant maintains a (seperate) database  
-of how much money belongs to each pseudonym. These accounts collectively  
-define the ownership of money, and how these accounts are updated is the  
-subject of this protocol.  
-  
-1\. The creation of money. Anyone can create money by broadcasting the  
-solution to a previously unsolved computational problem. The only  
-conditions are that it must be easy to determine how much computing effort  
-it took to solve the problem and the solution must otherwise have no  
-value, either practical or intellectual. The number of monetary units  
-created is equal to the cost of the computing effort in terms of a  
-standard basket of commodities. For example if a problem takes 100 hours  
-to solve on the computer that solves it most economically, and it takes 3  
-standard baskets to purchase 100 hours of computing time on that computer  
-on the open market, then upon the broadcast of the solution to that  
-problem everyone credits the broadcaster's account by 3 units.  
-  
-2\. The transfer of money. If Alice (owner of pseudonym K_A) wishes to  
-transfer X units of money to Bob (owner of pseudonym K_B), she broadcasts  
-the message "I give X units of money to K_B" signed by K_A. Upon the  
-broadcast of this message, everyone debits K_A's account by X units and  
-credits K_B's account by X units, unless this would create a negative  
-balance in K_A's account in which case the message is ignored.  
-
 b-money used proof of work in a different way for money creation, but
 transfers are just like Bitcoin.  
   
 Bit Gold:  
-
-Quote
-
-My proposal for bit gold is based on computing a string of bits from a string
-of challenge bits, using functions called variously "client puzzle function,"
-"proof of work function," or "secure benchmark function.". The resulting
-string of bits is the proof of work. Where a one-way function is prohibitively
-difficult to compute backwards, a secure benchmark function ideally comes with
-a specific cost, measured in compute cycles, to compute backwards.  
-  
-Here are the main steps of the bit gold system that I envision:  
-  
-(1) A public string of bits, the "challenge string," is created (see step 5).  
-  
-(2) Alice on her computer generates the proof of work string from the
-challenge bits using a benchmark function.  
-  
-(3) The proof of work is securely timestamped. This should work in a
-distributed fashion, with several different timestamp services so that no
-particular timestamp service need be substantially relied on.  
-  
-(4) Alice adds the challenge string and the timestamped proof of work string
-to a distributed property title registryfor bit gold. Here, too, no single
-server is substantially relied on to properly operate the registry.  
-  
-(5) The last-created string of bit gold provides the challenge bits for the
-next-created string.  
-  
-(6) To verify that Alice is the owner of a particular string of bit gold, Bob
-checks the unforgeable chain of title in the bit gold title registry.  
-  
-(7) To assay the value of a string of bit gold, Bob checks and verifies the
-challenge bits, the proof of work string, and the timestamp.  
-  
-Note that Alice's control over her bit gold does not depend on her sole
-possession of the bits, but rather on her lead position in the unforgeable
-chain of title (chain of digital signatures) in the title registry.  
-
   
 Bit Gold comes closer to the creation concept of Bitcoin. The way the blocks
 chain together is much like Nick's challenge problems.

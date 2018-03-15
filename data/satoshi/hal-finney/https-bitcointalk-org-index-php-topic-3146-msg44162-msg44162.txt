@@ -1,5 +1,3 @@
-
-
 I agree this can be a problem. Putting in a transaction fee won't help if the
 next block happens to take an hour to generate.  
   

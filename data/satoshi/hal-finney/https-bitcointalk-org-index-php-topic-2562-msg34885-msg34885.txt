@@ -1,5 +1,3 @@
-
-
 I came up with an even more extravagant estimate of $10 million a couple years
 ago on the cryptography list:  
   

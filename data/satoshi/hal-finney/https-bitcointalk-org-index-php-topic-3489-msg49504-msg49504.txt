@@ -1,5 +1,3 @@
-
-
 Would there be interest in a network based on a GPU-resistant problem, instead
 of SHA-256? Then everyone could be a miner again.  
   

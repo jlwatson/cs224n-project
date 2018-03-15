@@ -1,5 +1,3 @@
-
-
 Ultimately it's good for the network for mining to be expensive. It makes it
 that much harder for a well financed attacker to dominate the network.
 

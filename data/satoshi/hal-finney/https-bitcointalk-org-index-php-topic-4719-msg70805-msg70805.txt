@@ -1,5 +1,3 @@
-
-
 Specifically, what are you proposing? What nVersion value should they check,
 what should they check it against, and what should they do if the check
 fails/succeeds?  

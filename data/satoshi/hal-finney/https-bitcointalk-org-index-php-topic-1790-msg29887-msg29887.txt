@@ -1,5 +1,3 @@
-
-
 I thought of a possible problem with all these proposals: front-running by
 miners. This is where a miner sees an attempt to register a name, thinks it is
 a good name, and registers it for himself instead. Since domain registration

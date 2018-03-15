@@ -1,5 +1,3 @@
-
-
 Bitcoin aims to produce blocks every ten minutes. But the actual time between
 blocks is quite variable, being governed by the Poisson distribution. I listen
 to block formation, and this variability is apparent. It's not unusual for

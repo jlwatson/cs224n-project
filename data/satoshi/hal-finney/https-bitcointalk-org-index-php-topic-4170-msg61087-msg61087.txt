@@ -1,5 +1,3 @@
-
-
 Another feature we need IMO is the ability to reclaim payments that aren't
 going through, and/or to reissue payments with a higher transaction fee. (We
 also need basic support for transaction fees.) As the network gets busier this

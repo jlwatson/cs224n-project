@@ -1,5 +1,3 @@
-
-
 Actually I'd say this hints at a serious bug in the client. Look at the record
 of Ronald's address for receiving money from the mining pool:  
   
