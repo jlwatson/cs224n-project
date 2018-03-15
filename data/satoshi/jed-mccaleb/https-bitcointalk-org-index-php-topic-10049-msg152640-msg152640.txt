@@ -1,16 +1,3 @@
-
-
-Quote
-
-I would favor something different : when the decimal place is moved in the
-default implementation we just call "a bitcoin" whatever happens to be the
-smallest integer value after the decimal shift.  
-  
-Happened in France the other way around when we switched from "old francs" to
-"new francs" with a "new franc" being worth exactly 100 "old" ones.  
-  
-After a couple of weeks of slight confusion, everything would be back in order
-
   
 Yeah this is the best idea I think. No real need to make up a new name. Just
 change the display in the client.

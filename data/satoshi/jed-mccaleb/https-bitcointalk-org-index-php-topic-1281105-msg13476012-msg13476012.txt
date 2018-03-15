@@ -1,5 +1,3 @@
-
-
 oaxaca: That's right other assets or currencies in Stellar are backed by some
 institution so you have to trust that institution but the internal currency
 "Lumens" is like bitcoin. It is trustless.

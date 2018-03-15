@@ -1,5 +1,3 @@
-
-
 goatpig: This isn't one node one vote. You only trust the nodes you trust. If
 someone sets up a million nodes that all trust each other you don't really
 care.  

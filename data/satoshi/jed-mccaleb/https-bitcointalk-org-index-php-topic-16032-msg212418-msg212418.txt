@@ -1,5 +1,3 @@
-
-
 hazek: You are actually totally wrong about all your points. This volatility
 has nothing to do with clipping the orders way outside of the normal price
 range or darkpools.  

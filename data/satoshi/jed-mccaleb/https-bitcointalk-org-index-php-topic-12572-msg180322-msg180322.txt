@@ -1,5 +1,3 @@
-
-
 my password was shorter than 9 characters. but I tried again with a longer
 version and it did the same thing. I think it maybe because my password had a
 '#' in it? I tried a different one and it worked.

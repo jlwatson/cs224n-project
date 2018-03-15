@@ -1,5 +1,3 @@
-
-
 Lightning is a pretty cool idea and I think something like it will be
 necessary to get any of these systems to scale to being used worldwide.  
 Here is a technical rundown of how you would implement Lightning Networks on

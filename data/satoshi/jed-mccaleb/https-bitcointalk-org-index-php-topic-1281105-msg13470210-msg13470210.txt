@@ -1,5 +1,3 @@
-
-
 The bitcoin on Stellar will have to be backed by some institution. So it will
 be a safe as putting it in coinbase or wherever. But yeah the transactions
 will be off of the blockchain so will reduce pressure.  

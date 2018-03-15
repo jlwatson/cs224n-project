@@ -1,5 +1,3 @@
-
-
 kjj:  
 So let's assume an attacker controls 60% of the network.  
 He makes a big transaction that is sent to the whole network.  
@@ -12,13 +10,5 @@ network.
 The fake chain is now accepted as real since it is longer.  
   
   
-
-Quote
-
-Since this topic keeps coming up over and over again, I'm going to propose a
-potential solution: every time a node reshuffles, they should make a note of
-which peer it came from. More than three reshuffles from the same peer in like
-24 hours, and that node is dropped.
-
 This doesn't help. It is trivial to just send from a new peer.
 

@@ -1,5 +1,3 @@
-
-
 why are you using UUID's to name the channels rather than just something human
 readable like: "trades" ?
 

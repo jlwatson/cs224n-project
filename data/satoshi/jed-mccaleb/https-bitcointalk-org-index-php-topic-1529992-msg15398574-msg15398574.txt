@@ -1,5 +1,3 @@
-
-
 enet: yeah you will need some anchor
 https://www.stellar.org/learn/explainers/#Anchors_trust_and_credit that you
 use. Once an anchor is on Stellar you can send and receive that anchor's

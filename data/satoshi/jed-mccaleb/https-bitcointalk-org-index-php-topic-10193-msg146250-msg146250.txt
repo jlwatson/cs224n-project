@@ -1,5 +1,3 @@
-
-
 So I've been thinking...  
 bitcoin mining seems like such an unfortunate side effect of the system since
 it is so wasteful. It will be a bit obscene how much will be spent mining if

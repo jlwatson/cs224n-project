@@ -1,5 +1,3 @@
-
-
 nice.  
 You should really switch it so the prices are quoted in USD rather than BTC
 since that is what everyone is used to thinking in. It is a bit annoying to

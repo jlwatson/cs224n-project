@@ -1,5 +1,3 @@
-
-
 creighto: Even if you are correct that there is some hidden pool of mining
 waiting to be put online it doesn't change my original point that bitcoin as
 it is now depends on everyone trusting a few random people. We are implicitly

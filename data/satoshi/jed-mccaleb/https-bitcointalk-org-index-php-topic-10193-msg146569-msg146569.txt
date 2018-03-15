@@ -1,15 +1,8 @@
-
-
 Mike Hearn:  
 A new person could run the client fine. You don't have to enter in anyone that
 you trust to use it. You only need trust to resolve issues when there are two
 competing ledgers. And that should be a very rare event.  
   
-
-Quote
-
-Satoshis original design goal was a system with no trust at all
-
 Yeah I know but that isn't actually how it turned out. Like I mention above we
 actually are trusting the big miners and also trusting that some government or
 corporation doesn't stick in X million of hashing power and compromise the

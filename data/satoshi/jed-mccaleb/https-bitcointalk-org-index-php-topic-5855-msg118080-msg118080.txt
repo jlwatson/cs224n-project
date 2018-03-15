@@ -1,5 +1,3 @@
-
-
 I think it doesn't send every update to the order book. It seems like some
 random ones get dropped.
 

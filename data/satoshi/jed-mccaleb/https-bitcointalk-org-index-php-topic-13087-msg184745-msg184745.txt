@@ -1,5 +1,3 @@
-
-
 There are already a bunch of other threads about this.  
 To me the best solution by far is to just change what we mean when we say
 bitcoin.  

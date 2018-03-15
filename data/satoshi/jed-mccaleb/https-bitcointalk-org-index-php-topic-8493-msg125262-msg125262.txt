@@ -1,19 +1,7 @@
-
-
-Quote
-
-Bitcoin is a peer to peer protocol used to exchange scarce cryptographic
-tokens called bitcoins, which can be used as money.
-
   
 But people don't care how things work. They just want them to work. (This is
 still lightyears better than mentioning how it will take out banks though)  
   
-
-Quote
-
-Bitcoins are super-convenient barter tokens for the internet
-
   
 This is better since it speaks more to function.  
   

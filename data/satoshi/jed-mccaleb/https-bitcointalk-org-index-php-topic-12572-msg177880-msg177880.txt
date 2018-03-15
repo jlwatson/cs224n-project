@@ -1,5 +1,3 @@
-
-
 I get " there was some sort of problem. Try again." when I try to register.  
 Are these European or American style options?
 

@@ -1,5 +1,3 @@
-
-
 Stellar allows you to send and receive any type of currency. So it just means
 allowing people to deposit and withdrawal via Stellar in addition to whatever
 other deposit and withdrawal methods the exchange supports.  

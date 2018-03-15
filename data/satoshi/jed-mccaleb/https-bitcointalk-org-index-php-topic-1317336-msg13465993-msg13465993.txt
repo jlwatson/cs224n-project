@@ -1,5 +1,3 @@
-
-
 If you are in SF this is a great way to understand how this new consensus
 algorithm works:  
 http://www.meetup.com/SF-Bitcoin-Devs/events/227871781/  

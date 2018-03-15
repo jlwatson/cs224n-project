@@ -1,5 +1,3 @@
-
-
 This happened to me before. I think it has issues running two clients behind a
 router. Just send from the one client with the other off and wait for
 confirmation and then close the sender and open the receiver.  

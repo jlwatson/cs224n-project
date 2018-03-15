@@ -1,5 +1,3 @@
-
-
 I noticed that sometimes the price is sent in quotes:  
   
 

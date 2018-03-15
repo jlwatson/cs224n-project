@@ -1,5 +1,3 @@
-
-
 I get the impression that many people think that price of BTC is somehow
 influenced by difficulty.  
 I actually I don't agree that difficulty going up will increase the value of

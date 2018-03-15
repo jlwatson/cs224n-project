@@ -1,5 +1,3 @@
-
-
 mewantsbitcoins:  
 Your password was probably brute forced from the user dump like mine was. Mine
 wasn't super simple either.  

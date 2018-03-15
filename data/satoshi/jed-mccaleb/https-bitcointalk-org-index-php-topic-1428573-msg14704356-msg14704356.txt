@@ -1,5 +1,3 @@
-
-
 Tons of improvements.  
 Safer with a solid consensus mechanism:
 https://www.stellar.org/developers/learn/concepts/scp.html  

@@ -1,5 +1,3 @@
-
-
 etoque: I have asked poloniex to correct the ticker. It might help if other
 people ask them as well. There is this forum: https://galactictalk.org/ or our
 http://slack.stellar.org  
