@@ -1,6 +1,3 @@
-Steganography No Solution
-12 Aug 93
-
 I agree with Tim May's suggestion that it would be good if steganography and cryptography tools were widely available, especially in light of the government's obvious hostility towards cryptography.
 
 But I can't agree that these tools will be sufficient to bring about Tim's concept of "crypto anarchy", of "libertaria in cyberspace". If we really want to achieve these goals I think it will be necessary to take political action. Technology alone will not be enough.

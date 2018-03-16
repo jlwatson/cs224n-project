@@ -16,6 +16,5 @@ describe.  This will work in principle for any browser which supports
 Java, and does not require anything to be downloaded or installed ahead
 of time (other than the Java-compliant browser).  It is still pretty
 rough and is more of a proof of concept than a production program but I
-think it is another potential approach.  Look at <URL:
-http://www.portal.com/~hfinney/java/java.html > and follow the links to
+think it is another potential approach.  Look at and follow the links to
 the PGP compatible mail applet.

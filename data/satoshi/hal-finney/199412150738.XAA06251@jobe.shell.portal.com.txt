@@ -1,6 +1,3 @@
-Hal <hfinney@shell.portal.com> writes:
-
-
 I downloaded the latest Netscape client and tried the https: links at
 the mcom server.  When you switch to secure mode, a large dialog box
 appears reminding you to check the Document Information.  But it has a

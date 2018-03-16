@@ -1,6 +1,3 @@
-In article <199601221601.IAA14610@mailx.best.com> "James A. Donald" <jamesd@echeque.com> writes:
-
-
 The problem with RC4 is that it works in OFB only.  If I need data
 integrity in the face of known plaintext, I will need to compute a MAC
 in paralell with the encryption which could significantly slow things

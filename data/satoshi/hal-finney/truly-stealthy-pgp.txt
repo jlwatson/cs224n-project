@@ -1,7 +1,3 @@
-Truly Stealthy PGP
-6 Mar 94
-Revised 7 Mar 95
-
 (A "Truly Stealthy" PGP would be one whose binary output is indistinguishable from noise. PGP stripped of its message headers and length bytes comes close to this objective, except that the high order byte of its encrypted session key would have a non-uniform distribution (more info about "Stealth PGP" here). Eric Hughes proposed that session keys be chosen in such a way that this was prevented. Here is an algorithm which would work.)
 
 Let L be a power of 256 above the modulus n. For security let it be the next power of 256 above n*(2^64) (e.g. as an MP number, L is 1 followed as many 0's as the size of n plus 8 bytes). Let t be the integer part of L/n, so that L = n*t + s with s in [0,n). Call the PGP IDEA session key SK, and the encrypted version of that m = SK^e. Now do these steps:

@@ -1,17 +1,3 @@
-Why Remailers II
-24 Feb 93
-
-Paul Ferguson asks:
-
-> Now, I'd like to ask the cypherpunk readership to clarify the need (or
-> perhaps a better term may be "desire") for anonymous remailers? Maybe
-> I'm not getting the "big picture", but it would appear to me that
-> insurance of private communications is the area of intended interest
-> here. I know that someone may declare my query as naive, but if you
-> feel strongly enough about a topic, why wouldn't you want the
-> recipient to know who you are, where you are and who they can respond
-> to?
-
 There are several different advantages provided by anonymous remailers. One of the simplest and least controversial would be to defeat traffic analysis on ordinary email.
 
 Two people who wish to communicate privately can use PGP or some other encryption system to hide the content of their messages. But the fact that they are communicating with each other is still visible to many people: sysops at their sites and possibly at intervening sites, as well as various net snoopers. It would be natural for them to desire an additional amount of privacy which would disguise who they were communicating with as well as what they were saying.

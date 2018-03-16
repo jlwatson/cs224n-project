@@ -1,8 +1,3 @@
-Jeff Weinstein <jsw@netscape.com> writes:
-
-
-
-
 But lines are always arbitrary.  I posted about this a long time ago: it
 is assault to hit a man with a baseball bat, but presumably not to hit
 him with a feather.  Should we then ask if it is assault to hit him with
@@ -14,8 +9,7 @@ that productive to me.
 
 The appellate court has already ruled that restrictions on export of
 printed materials do not violate First Amendment rights.  I wrote up one
-of these, the Posey case, in
-<URL:http://www.portal.com/~hfinney/cryp_export2.html>.  In that instance
+of these, the Posey case, in.  In that instance
 the materials being exported were some manuals obtained from the US
 government itself via the Freedom of Information Act!  The law in
 question was not actually the ITARs but rather another one which applied

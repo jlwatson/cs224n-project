@@ -1,19 +1,6 @@
-Politics vs Technology
-2 Jan 94
-
-From: Mike Ingle
-> But could the government ban a book today? Of course not, at least not
-> after one person typed it or scanned it into a computer. Technological
-> gains are permanent. The political approach is only useful as a
-> tactical weapon, to hold them off until technological solutions are
-> in place. If you want to change the world, don't protest. Write code!
-
-
 This position seems to be fast becoming cypherpunks dogma, but I don't
 agree.  The notion that we can just fade into cypherspace and ignore
 the unpleasant political realities is unrealistic, in my view.
-
-
 
 Have people forgotten the Clipper proposal, with the possible follow-on to
 make non-Clipper encryption illegal?  To the extent this proposal has been

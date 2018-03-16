@@ -35,8 +35,7 @@ doing this.
 As another solution, I have developed a Perl script which anyone who can
 run CGI scripts can use to become a web proxy.  Fortunately (and somewhat
 mysteriously) this commercial system lets me do that.  Basically if you
-want to connect to http://www.mcom.com/ you instead connect to
-http://www.portal.com/~hfinney/webcloak.cgi?http://www.mcom.com/.  The
+want to connect to http://www.mcom.com/ you instead connect to.  The
 name of the CGI script and "?" is prepended to the desired URL.  The
 script then receives the part after the "?" as its argv so it opens the
 URL and passes it back.  So if you can't run a server but can install CGI

@@ -4,28 +4,9 @@ as they arrive.  (Support for this mode doesn't really exist yet, but
 I am putting together a simple script to enable it.)  Here then is an
 example of how a self-remailing message might look:
 
-[Other headers]
-Content-Type: multipart/enabled-mail; boundary="----- =_791623442"
-Content-ID: <2269.791623082.4@cryo>
-
-------- =_791623442
-Content-Type: application/Safe-Tcl; version="7.3"; evaluation-time=delivery
-Content-ID: <2269.791623082.2@cryo>
-
-# Get the other sub-part of this message and send it to the desired address
-SafeTcl_sendmessage -to hfinney@shell.portal.com \
-        -subject {Remailed message} -body [SafeTcl_getbodyprop 1.2 all]
-
-------- =_791623442
-Content-Type: text/plain
-Content-ID: <2269.791623082.3@cryo>
-
 This is the body of the message, which will get remailed.  It could be
 a PGP message if the server supported automatic decryption of incoming
 PGP mail.  Then it could have nested remailing instructions in it.
-
-------- =_791623442--
-
 
 This is a MIME format message with two sub-parts.  The first is the
 script which gets run on delivery, and the second is the "payload", the

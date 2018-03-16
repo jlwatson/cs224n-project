@@ -88,7 +88,7 @@ countries at the expense of US businesses.  It is pointless and
 counterproductive.
 
 
-        
+
 Cryptographic technology has some characteristics which are at odds with
 the interests of law enforcement and security agencies.  In a sense,
 cryptography is a "purely defensive" technology.  It does not threaten
@@ -536,6 +536,3 @@ ultimately doomed campaign to try to freeze technology and restrict
 encryption then we will all ultimately be the losers.
 
 Thank you again for your attention.
-
-
-email: hfinney@shell.portal.com

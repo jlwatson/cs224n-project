@@ -4,8 +4,6 @@ crypto stuff and the rest.
 
 For example, could you have an application with a  function:
 
-	authenticate_user (int file_descriptor)
-
 which in the exportable version sends a password, and in the domestic 
 version constructs some sort of authenticator?
 

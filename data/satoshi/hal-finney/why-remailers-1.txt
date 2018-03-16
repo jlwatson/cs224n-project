@@ -1,6 +1,3 @@
-Why Remailers I
-15 Nov 92
-
 Tim May mentioned that not many people on the list have expressed interest in the remailers, and it occurs to me that maybe people don't all share the vision of why this crypto technology is important.
 
 I'm trying to recall how I learned about the possibilities of this technology. I recall reading "True Names" a few years ago. Vinge had his netters exchanging mail anonymously. The hero downloaded a big batch of messages from a BBS and tried decrypting all of them to see which were for him. Okay, I thought, that would be a way of disguising which messages you were _receiving_. Then Vinge said something like "and using more elaborate techniques, the sender of a message could be hidden as well." Hold on, I thought. That will never work. If they tap your line, they're going to know exactly what messages you're sending. Too bad. Vinge had a clever idea going, but it's flawed.

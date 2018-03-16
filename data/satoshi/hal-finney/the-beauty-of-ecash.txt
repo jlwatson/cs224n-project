@@ -1,6 +1,3 @@
-The Beauty of ECash
-16 Mar 94
-
 It occurs to me that digital cash could be a collector's item. Paper money is widely collected, as are coins. I got a book out of the library on old American paper money, and many of the old bills are startlingly beautiful. Interestingly, the old money is still legal tender so there is a floor under the value of the bills that you collect.
 
 Until 1861, the U.S. did not issue any paper money, only coins. In those days, paper money was issued by private banks (usually with state charters). The money was backed by dollars, coins, which the bank owned. Unfortunately, capitalism is a dynamic system and in those days bank failures were no more unusual than corporate failures are today. When this happened, the bank's notes became worthless. Counterfeiting was also a big problem with the thousands of different banks issuing notes. It is interesting to speculate that digital cash might lead to an electronic system with some similarities to those old days.

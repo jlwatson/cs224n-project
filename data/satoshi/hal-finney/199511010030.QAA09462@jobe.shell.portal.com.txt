@@ -1,20 +1,8 @@
-Scott Brickner <sjb@universe.digex.net> writes:
-[unknown writes:]
-
-
-
 It is also worth noting that the ITAR violation is worded somewhat
 differently from some laws, requiring "willful" violation, a "specific
 intent" to break the law.  In this situation, good faith efforts to apply
 with what the law appears to be would seem to me to be a strong defense.
-See <URL:http://www.portal.com/~hfinney/cryp_export1.html> for a writeup
-I did on this a couple of years ago.  An excerpt, from U.S. v
-Lizarraga-Lizarraga (541 F2d 826):
-
-"Accordingly, we hold that in order for a defendant to be found guilty of
-exporting under 22 U.S.C. 1934, the government must prove that the
-defendant voluntarily and intentionally violated a known legal duty not
-to export the proscribed articles, and the jury should be so instructed."
+See for a writeup I did on this a couple of years ago.
 
 I am not a lawyer, however.  It would be interesting to hear what our
 legal exports think of this argument.

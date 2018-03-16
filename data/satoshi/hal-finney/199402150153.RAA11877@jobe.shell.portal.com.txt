@@ -1,5 +1,4 @@
-Is this some kind of RFC822 hack?  It doesn't work on my system.  Mail to
-hfinney+xyz@shell.portal.com bounces.  Are you assuming some special
+Is this some kind of RFC822 hack?  It doesn't work on my system. Are you assuming some special
 mail address processing has been installed by the administrators of the
 machines to handle this "+" hack, or is my machine broken in not respecting
 it?

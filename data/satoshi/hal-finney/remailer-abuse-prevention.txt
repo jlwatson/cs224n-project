@@ -1,6 +1,3 @@
-Remailer Abuse Prevention
-27 Mar 94
-
 I was riding the train tonight, re-reading some old crypto papers, including Chaum's Auscrypt paper on digital pseudonyms, credentials, and such. He described a method for letting libraries catch people who don't return library books, while still preserving confidentiality of all transactions. It occured to me that a modified form of his idea could help curb abuse of remailers.
 
 Chaum's idea was pretty complicated, but I think a simpler approach could work using the existing Magic Money software. One idea we have talked about to help curb abuse would be to simply charge digital postage for every message. However, it was pointed out that in practice postage costs would probably be so low that this would only help in extreme cases of volume abuse.

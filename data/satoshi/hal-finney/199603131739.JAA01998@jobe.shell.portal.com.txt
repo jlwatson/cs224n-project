@@ -2,7 +2,6 @@ Are you familiar with the Posey case?  That decision by the 9th district
 court (which oversees export cases) explicitly rejected the contention
 that restrictions on export of written materials violate the First
 Amendment.  Although I am not a lawyer, I wrote some notes on this case at:
-<URL: http://www.portal.com/~hfinney/cryp_export2.html>.
 
 Below is an excerpt from that court decision in which they make it quite
 clear that the First Amendment doesn't apply.  In this case, the item
@@ -51,7 +50,7 @@ case were sent):
       value if it encompassed only the exportation of particular military
       equipment but not the exportation of blueprints specifying the
       construction of the very same equipment.
-    
+
     579 F2d at 520.  We accordingly concluded that the government could
     permissibly restrict the flow abroad of data included in the Munitions
     List.  579 F2d at 521.  Finally, we held that the government's power
@@ -62,7 +61,7 @@ case were sent):
       restricting the dissemination of military information, the claim of
       public availability in the United States is not a defense recognized
       by the Constitution.
-    
+
     579 F2d at 522.
 
     Appellant attempts to distinguish Edler from the present case by pointing

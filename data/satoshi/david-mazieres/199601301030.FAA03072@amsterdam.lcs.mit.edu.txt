@@ -1,6 +1,3 @@
-In article <sl3GafqMc50eQWYD0N@nsb.fv.com> Nathaniel Borenstein <nsb@nsb.fv.com> writes:
-
-
 You are a liar.
 
 Your program does not undermine all known schemes for transmitting
@@ -15,8 +12,6 @@ The first virtual protocol seems to have some real weeknesses.
 However, I do not feel like wading through all the pages of text to
 figure out what is going on.  I challenge you to post a concise
 description of the protocol, using syntax such as:
-
-  A -> B:  {ID, xxx, ...}_Ks
 
 With short descriptions where necessary.  If you do, I'm sure we can
 rip your protocol to shreds (which is why you won't).

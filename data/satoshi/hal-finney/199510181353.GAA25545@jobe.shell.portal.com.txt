@@ -6,7 +6,7 @@ specific remailer.  However, it doesn't go to the crux of the problem.
 
 From my experience operating two remailers, ALL complaints are the result
 of SENDING messages, not RECEIVING them.  This is how I can tell: my two
-remailers, hal@alumni.caltech.edu and hfinney@shell.portal.com, are
+remailers, are
 different.  The first one is run on a "free" account whereas the second I
 pay $20 to $50 a month for.  Also, the management at Portal has
 demonstrated commitment to cypherpunk type goals.  So I view that

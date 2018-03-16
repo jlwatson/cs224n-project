@@ -55,8 +55,7 @@ cellular phones, is designed to reduce privacy, not help it.
 node) security provided by a service provider offers more opportunities
 for providing law enforcement with legally authorized access than does
 security provided by the end user."  When I wrote my letter to the NRC
-during their comment period (available at <URL:
-http://www.portal.com/~hfinney/nasinput.html >) I made a similar point,
+during their comment period (available at) I made a similar point,
 but with the opposite conclusion, that end to end encryption would be
 preferred.
 

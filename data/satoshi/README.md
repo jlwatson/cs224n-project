@@ -30,9 +30,11 @@ Nick Szabo
 - [x] Cypherpunks Mailing List - `szabo@netcom.com (Nick Szabo)`
 - [ ] https://twitter.com/NickSzabo4
 
-Craig Stephen Wright
+Craig Steven Wright
 - [x] https://web.archive.org/web/20160502071722/http://www.drcraigwright.net/
 - [x] https://www.reddit.com/user/Craig_S_Wright
+- [ ] https://theconversation.com/profiles/craig-s-wright-3334/
+- [ ] https://web.archive.org/web/20120316093712/http://gse-compliance.blogspot.com/
 
 Dorian Nakamoto
 - [x] https://www.reddit.com/user/DSPNakamoto

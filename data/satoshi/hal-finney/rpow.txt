@@ -11,7 +11,3 @@ This is what creates trust in RPOWs as actually embodying their claimed values, 
 I have a lot more information about the system at rpow.net, along with downloadable source code. There is also a crude web interface which lets you exchange POWs for RPOWs without downloading the client.
 
 This system is in early beta right now so I'd appreciate any feedback if anyone has a chance to try it out. Please keep in mind that if there are problems I may need to reload the server code, which will invalidate any RPOW tokens which people have previously created. So don't go too crazy hoarding up RPOWs quite yet.
-
-Thanks very much -
-
-Hal Finney 

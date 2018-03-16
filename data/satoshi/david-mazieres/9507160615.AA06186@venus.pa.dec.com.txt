@@ -1,19 +1,5 @@
 Well, here is the proposed new ssh protocol as I understand it.
 
-  A -> B: A
-  
-  B -> A: PKb, PKsb, Cb
-
-    session_id := {PKb, PKsb, Cb}_MD5
-  
-  A -> B: Cb, {{session_id XOR Kab}_PKsb}_PKb        (*)
-  A -> B: {A}_Kab
-  A -> B: {PKa}_Kab
-  
-  B -> A: {{Nb}_PKa}_Kab
-  
-  A -> B: {{Nb, session_id}_MD5}_Kab
-
 It does seem to solve the two problems I pointed out.  However, I am
 troubled by how complicated the protocol is, and how much encryption
 is going on.  One of the principles I have heard stated says that more
@@ -40,29 +26,3 @@ to the security of the protocol.  Now granted I'm no authentication
 expert and could easily have made a mistake here, but at least it will
 be easier to catch because the protocol is simpler.  Who know what the
 implications of that XOR really are?
-
-
-
-PREAMBLE:
-
-(1)  A -> B: A
-
-(2)  B -> A: Cb, PKsb, PKb
-
-(3)  A -> B: {Kab}_PKsb, {A, B, Cb}_Kab
-
-(4)  B -> A: {{A, B, Cb, Kab, PKsb}_SKb}_Kab
-
-
-SSH_AUTH_RHOSTS:
-
-(5)  A -> B:  0
-
-SSH_AUTH_RHOSTS_RSA:
-SSH_AUTH_RSA:
-
-(5)  A -> B: {{A, B, Cb, Kab}_SKa, PKa}_Kab
-
-SSH_AUTH_PASSWORD:
-
-(5)  A -> B: {Ka}_Kab

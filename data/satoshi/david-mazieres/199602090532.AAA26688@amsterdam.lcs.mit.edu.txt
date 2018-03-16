@@ -1,6 +1,3 @@
-In article <199602062336.PAA24566@infinity.c2.org> cmca@alpha.c2.org (Chris McAuliffe) writes:
-
-
 I've gotten burned by this because it created a temp file over NFS.
 If I'd been able to read the message with my mail reader "pgp -f", I
 would not have disclosed the information.  The for your eyes only

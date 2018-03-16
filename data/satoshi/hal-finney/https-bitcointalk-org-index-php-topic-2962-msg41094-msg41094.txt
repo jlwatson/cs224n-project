@@ -1,24 +1,19 @@
 I modified the bc_key program originally by dirtyfilthy, to dump out info on
-everything in the wallet.dat file.  
-  
-https://github.com/halfinney/bc_key  
-  
+everything in the wallet.dat file.
+
 It prints out keys (as addresses), transaction hashes, key pool addresses,
-address book names, etc.  
-  
-Run it as:  
-  
-./bc_key EVERYTHING ~/.bitcoin/wallet.dat  
-  
-or wherever your wallet.dat might be. I like to pipe the output through sort.  
-  
-I've noticed two oddities in the couple of wallets I've looked at:  
-  
+address book names, etc.
+
+Run it as:
+
+or wherever your wallet.dat might be. I like to pipe the output through sort.
+
+I've noticed two oddities in the couple of wallets I've looked at:
+
 There are no wkey entries, only keys. wkeys would hold extra stuff with Merkle
 branches and all that. Is this not yet (or no longer) supported, present in
-the code for the hypothetical "lightweight client"?  
-  
+the code for the hypothetical "lightweight client"?
+
 I have a very old wallet, created by the first version of bitcoin. Recently I
 upgraded to a modern version. However, the wallet has no pool entries. I
 thought the upgrade would create 100 keypool entries?
-

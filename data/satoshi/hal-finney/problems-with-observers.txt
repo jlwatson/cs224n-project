@@ -1,6 +1,3 @@
-Down with Observers!
-22 Aug 93
-
 A lot of our discussion is influenced by the ideas of David Chaum. He pioneered technology which could protect individual privacy while allowing very flexible sorts of credentials and guarantees. He has also played a big role in the various proposals for digital cash.
 
 But I think that Chaum has gone off in the wrong direction in the last few years. More and more he is concentrating on protocols which rely on a tamper-proof, hardware implementation of a cryptographic protocol which he calls an "observer". This observer chip would sit in your computer (which could be a Newton-style PDA or a smart card) and would play an important part in the exchanges of information, cash, or credentials which you would make with others. The observer basically makes sure you are telling the truth in your transactions, that you are not double-spending your digital cash, or not claiming a credential which you don't have.

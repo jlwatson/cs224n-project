@@ -1,6 +1,6 @@
 The ISP which I have used for over five years, portal.com, is going
 out of business at the end of this month (September, 1996).  This means
-that my remailer at hfinney@shell.portal.com will cease operations.
+that my remailer at will cease operations.
 I had asked that it be removed from the remailer lists a few weeks ago
 due to some problems, so hopefully not many people have been using it
 lately.  But now it will go away for good.
@@ -14,8 +14,7 @@ use PGP.  It was a very nice system but got shut down supposedly due to
 traffic concerns, although there seemed to be some politics involved as
 well.)
 
-I have also been running a remailer from my account at
-hal@alumni.caltech.edu.  However that one cannot tolerate abuse
+I have also been running a remailer from my account.  However that one cannot tolerate abuse
 complaints, hence I have been forwarding all mail out of that remailer
 through the portal one, for a number of years.   Now that Portal is gone,
 this will be a problem.  I plan to restrict the alumni remailer to only

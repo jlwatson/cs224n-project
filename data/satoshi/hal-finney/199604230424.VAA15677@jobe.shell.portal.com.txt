@@ -1,5 +1,3 @@
 I have a Java applet which runs 10K bytes of output of pgp +makerandom
 through a noise sphere program.  It looks random to me.  I don't know how
 it compares with jf_avon's observations.  Judge for yourself.
-
-http://www.portal.com/~hfinney/java/noise/noise.html

@@ -1,5 +1,2 @@
-In article <199604251927.PAA27960@jekyll.piermont.com> "Perry E. Metzger" <perry@piermont.com> writes:
-
-
 Isn't Rabin's algorithm patented, too?  Perhaps the licensing terms
 are better.  Does anyone know for sure?
