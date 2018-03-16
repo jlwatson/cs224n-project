@@ -1,0 +1,15 @@
+Yes, and this is kind of the whole point of the protocol. It just hinges on
+defining the real stellar network. An analogous question is, "Is there a way
+for a computer to realize it has been partitioned from the real Internet?"
+Well, sure. Pick 50 web sites you think are really important--maybe a bunch
+from Alexa, plus your bank, employer, etc.--and make sure you can reach the
+vast majority of them (using https, of course, so no one can impersonate
+them).
+
+There's one sense in which FBA is stronger than the Internet analogy, however,
+it that is is actually testing transitive reachability. So instead of just
+making sure you can talk to those 50 web sites, you actually make sure all of
+those 50 web sites can talk to all the sites they consider important, and so
+on, until you get the transitive closure, which is basically the notion of an
+FBA quorum.
+

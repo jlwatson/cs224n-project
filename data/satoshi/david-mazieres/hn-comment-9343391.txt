@@ -1,0 +1,24 @@
+So first, a lot of problems with Internet routing do not really affect SCP's
+safety--for example bogus route announcements. Part of the reason is that SCP
+depends on transitive reachability. And of course part of the reason is that
+SCP is built on top of the Internet, so can already assume a basically running
+network underneath.
+
+I can't predict the future, but I do think it is likely that a bunch of de
+facto important players will emerge and have fairly complete pairwise
+dependencies. One reason is that Stellar follows a gateway model, where
+counterparties issue credits. So for example, down the line people might want
+to store their money as Chase or Citibank USD credits. So people will already
+have some notion that some participants are trustworthy enough to hold their
+USD deposits, and these institutions will emerge as important. If I'm a
+Citibank customer and you send me money, I obviously won't consider the
+payment complete until Citibank says it is. And of course Citibank is likely
+to want to depend on a bunch of institutions they do business with, so even
+just one bank should give me good transitive reachability.
+
+But the nice thing about safety is that you can reduce any individual party's
+trust by depending on more people. So for example Stellar will run a validator
+node for the foreseeable future, and their incentives are different from
+Citibank's. To gain more trust in the system, I might want to wait for both
+Stellar and Citibank to agree before considering any payment fully settled.
+

@@ -1,0 +1,2 @@
+We still haven't set which block we are taking the snapshot at. We need to talk to places like coinbase to make sure they will be able to give the stellars to their customers. And we want to give people time to get ready. 
+So somewhere between 2 and 6 months. But more details coming in the next few days.

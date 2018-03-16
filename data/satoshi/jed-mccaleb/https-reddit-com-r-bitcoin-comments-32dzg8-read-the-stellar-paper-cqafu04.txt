@@ -1,0 +1,9 @@
+(jed from stellar here) 
+Just want to help fill in a few points since I know the paper is heavy reading and I've been pouring over it for a while now:) 
+
+"but it could work if things stay well connected - otherwise you could get islands or weakly connected parts of the network with a different view of the world"
+You can see the trust graph of the whole network since every validating node broadcasts its quorum slice. This means people will be able to tell if there are vulnerable places in the graph or if a split is even possible. When this is noticed it is very easy to correct.
+
+In practice with Bitcoin you are also trusting a small group of individual entities since mining has become so centralized. Trust is automatically goes to whomever has the most mining power. You don't get to pick them. So if, as you hypothesized above, a couple are compromised or coerced by governments, Bitcoin won't be able to route around the issue. 
+
+There are certainly tradeoffs. We think each system is useful for different things. Stellar could be a useful way that people trade bitcoin for other currencies. And yeah clearly there is a ways to go with developing these decentralized protocols. Decentralized systems are hard and the cryptocurrency world hasn’t even gotten to the difficulties ahead of scaling to handle transaction volumes at the level of the likes of Visa.

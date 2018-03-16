@@ -1,0 +1,1 @@
+I think it is mostly because the orders for other coins are denominated in BTC. For example on polo the largest market for XLM the counter currency is BTC. When the price of BTC drops this means that unless people adjust their orders then the price of XLM will drop.

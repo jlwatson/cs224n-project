@@ -1,0 +1,12 @@
+In article <199601221601.IAA14610@mailx.best.com> "James A. Donald" <jamesd@echeque.com> writes:
+
+
+The problem with RC4 is that it works in OFB only.  If I need data
+integrity in the face of known plaintext, I will need to compute a MAC
+in paralell with the encryption which could significantly slow things
+down.  With a block cypher in CFB, I can just re-encrypt the last
+block of data.
+
+That said, OFB has the advantage that I can overlap computation of the
+RC4 stream with I/O, which might be a win for me.  Are there any MACs
+significantly faster than say ~50 cycles per byte?

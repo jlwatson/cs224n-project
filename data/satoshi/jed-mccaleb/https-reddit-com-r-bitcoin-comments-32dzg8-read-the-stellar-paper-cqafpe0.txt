@@ -1,0 +1,1 @@
+The trust discussed in the paper isn't about trusting people with credit or loans or anything like that. It is that each node (which may be people or entities) chooses other nodes it believes won't withhold transactions from the network.

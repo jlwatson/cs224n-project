@@ -1,0 +1,5 @@
+Well you can turn the feature off if you want. You can also set the "quality"
+of a given issuer. This means that you could apply a discount to the mtgox
+credit so it would swap out at a discount. But really it will probably just be
+turned off by default
+

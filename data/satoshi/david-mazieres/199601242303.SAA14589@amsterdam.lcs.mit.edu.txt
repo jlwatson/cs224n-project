@@ -1,0 +1,4 @@
+In article <3105FBFC.4DC9@netscape.com> Jeff Weinstein <jsw@netscape.com> writes:
+
+How did kerberos avoid this?  The "bones" distribution of kerberos
+without crypto was not regulated by ITAR, right?

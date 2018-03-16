@@ -1,0 +1,1 @@
+The public servers don't have the full transaction history right now. We will restore it at some point soon.

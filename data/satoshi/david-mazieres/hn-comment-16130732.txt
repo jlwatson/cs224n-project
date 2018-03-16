@@ -1,0 +1,16 @@
+What's interesting is that SCP implements consensus without electing a leader.
+There are, of course, numerous asynchronous protocols that do this, like Ben
+Or, Rabin, Mostéfaoui, and most recently HoneyBadger, but is rarer for
+synchronous protocols like SCP. However, it is necessary for SCP's setting,
+because if you don't even have agreement among nodes over what nodes do and
+don't exist in the system, how could you hope to elect a leader.
+
+One way to view how SCP avoids leader election is to consider that it is
+effectively emulating the leader. SCP has two phases, a nomination and a
+balloting phase. The nomination phase is effectively like one or more
+instances of an asynchronous broadcast protocol (which don't require a leader
+since multiple nodes can choose to broadcast). The balloting phase is like
+Paxos, except that the value to propose is embedded in the ballot number so
+nodes don't require a leader to tell them what is being proposed--they can
+each emulate the leader themselves.
+

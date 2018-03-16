@@ -1,0 +1,11 @@
+How is Stellar still "in the gate," more than two years after deploying their
+decentralized Byzantine agreement algorithm?
+
+Ripple has only just now, in 2018, published their decentralized consensus
+algorithm (Cobalt), which as far as I know is not even in production use yet,
+and doesn't provide optimal safety. (In settings where Cobalt is guaranteed
+Safe, SCP would be too, but not vice versa.) Their production network still
+uses a protocol that, by Ripple's own analysis
+(https://arxiv.org/pdf/1802.07242), fails to guarantee safety without >90%
+agreement on the UNL.
+

@@ -1,0 +1,7 @@
+This is an example of an approach to smart contracts that uses the Stellar
+model which keeps the bulk of the logic outside of the system so only people
+that are interested need do any processing. This should make it more scalable.
+
+I haven't thought through it yet but I think the most common case would
+actually be 1 directional. Curious if people agree or have another opinion?
+

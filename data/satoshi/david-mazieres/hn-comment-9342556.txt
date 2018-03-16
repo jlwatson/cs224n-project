@@ -1,0 +1,12 @@
+You are correct that safety requires overlapping quorums. However, the trust
+decisions are public, as this is what allows participants to discover quorums.
+The scenario you describe of two groups of 100 participants overlapping at one
+node might or might not be a problem. The most likely cause of such a topology
+is a Sybil attack, in which an attacker with one seat at the table gloms an
+extra 99 nodes onto the system that nobody trusts. The attackers' 100 nodes
+might of course diverge if they are so configured, but nobody will care.
+
+A priori, we cannot definitively answer what kind of topology will emerge. But
+there is certainly precedent for building a robust network out of pairwise
+relationships, namely inter-domain routing on the Internet.
+

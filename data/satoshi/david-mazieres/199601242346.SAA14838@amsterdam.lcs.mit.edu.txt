@@ -1,0 +1,17 @@
+So where exactly do they draw the line?  You can still construct your
+software in such a way that there is a clean boundary between the
+crypto stuff and the rest.
+
+For example, could you have an application with a  function:
+
+	authenticate_user (int file_descriptor)
+
+which in the exportable version sends a password, and in the domestic 
+version constructs some sort of authenticator?
+
+Could you have an xdr-like function which on in an exportable version
+just does argument marshaling and in a domestic version also encrypts?
+
+How exactly are crypto-hooks defined?  This restriction seems orders
+of magnitude more bogus than even the ban on exporting actual
+encryption.

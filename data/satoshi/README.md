@@ -20,6 +20,8 @@ Hal Finney
 
 Jed McCaleb
 - [x] https://bitcointalk.org/index.php?action=profile;u=5322
+- [x] https://www.reddit.com/user/Swamp12
+- [x] https://news.ycombinator.com/user?id=swamp12
 - [ ] https://twitter.com/JedMcCaleb
 
 Nick Szabo
@@ -36,8 +38,11 @@ Dorian Nakamoto
 - [x] https://www.reddit.com/user/DSPNakamoto
 
 David Mazieres
-- [ ] https://news.ycombinator.com/user?id=mazieres
-- [ ] Cypherpunks Mailing List - `David Mazieres <mazieres@pa.dec.com>`, `David Mazieres <dm@amsterdam.lcs.mit.edu>`
+- [x] https://news.ycombinator.com/user?id=mazieres
+- [x] Cypherpunks Mailing List - `David Mazieres <mazieres@pa.dec.com>`, `David Mazieres <dm@amsterdam.lcs.mit.edu>`
 
 Wei Dai
 - [ ] http://lesswrong.com/user/Wei_Dai/
+
+Micheal Clear
+- [ ] http://ciphron.netsoc.ie/

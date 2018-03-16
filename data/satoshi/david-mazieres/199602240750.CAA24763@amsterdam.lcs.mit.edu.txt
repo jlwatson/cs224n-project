@@ -1,0 +1,7 @@
+I recommend Darren Reed's IPfilter package, which comes with OpenBSD,
+and installs easily on FreeBSD and NetBSD.  It also works with SunOS
+and Solaris, and I think even more operating systems.  It is highly
+configurable.  Blocking all incoming TCP connections except to a few
+host/port pairs should be quite simple.
+
+You can get it at ftp://coombs.anu.edu.au:/pub/net/firewall/ip-filter

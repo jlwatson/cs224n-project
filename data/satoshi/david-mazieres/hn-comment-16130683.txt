@@ -1,0 +1,15 @@
+Yes. Every validator in Stellar has a copy of the complete ledger. However,
+different validators may be authoritative for different types of token. Say
+bank_A runs a validator and issues digital dollars on Stellar, while bank_B
+runs a validator and issues digital euros on Stellar. Each validator will
+store both banks' token holdings and prevent double spends. However bank_A
+should offer to redeem its digital dollars for real currency only when the
+redemption transaction commits on its own validator, and similarly for bank_B.
+
+Running a validator protects a token issuer against double redemptions, as
+might happen in a mining-based blockchain where anonymous miners fork the
+blockchain and thus create twice as many tokens. That's fine for pure crypto
+tokens, where you can create Ethereum [classic] or Bitcoin cash out of thin
+air. But if you were using colored coins or ERC20 tokens to represent claims
+on bank deposits, these forks would be a problem.
+

@@ -1,0 +1,9 @@
+Oh I think it was misunderstood. The full quote is: "Byzantine agreement
+guarantees distributed consensus despite the Byzantine failure of
+participants. However, it requires unanimous agreement on system membership by
+all participants. Each node in the network must be known and verified ahead of
+time." It is comparing SCP to Byzantine agreement protocols like paxos.
+
+As in Stellar doesn't have this requirement. Here is the white paper:
+https://www.stellar.org/papers/stellar-consensus-protocol.pd...
+

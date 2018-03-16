@@ -1,0 +1,11 @@
+Sorry guys. this caught us at a particularly bad time.
+
+From our ops guy:
+
+Hi all,
+ 
+First of all I would like to apologies for the lack of communication on our part.
+ 
+I work at the Stellar Development Foundation and have been looking into this network error. We had seen a few of our servers fail over during the last few hours and thought that the problem was resolved. Clearly it has returned and we are looking into it again.
+ 
+A bit of background: We appear to be having some issues with our Amazon Web Services instances, this in turn is causing our remaining validator servers to run out of memory. I'm going to be fixing the immediate issue now, and I'll be watching the network continuously until we're certain that stability has returned. Also expect a more detailed postmortem later — but for now, let's get things stable again.

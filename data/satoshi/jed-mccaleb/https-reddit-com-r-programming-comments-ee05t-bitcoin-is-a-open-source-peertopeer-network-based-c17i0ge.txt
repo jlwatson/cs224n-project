@@ -1,0 +1,1 @@
+The supply is controlled by the software and it is pre-determined how much supply there will be at a given time. If too many coins are being produced then it becomes hard to produce them. If too few then it becomes easier. 

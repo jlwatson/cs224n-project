@@ -1,0 +1,1 @@
+SCP is a new federated consensus algorithm. It solves a long standing CS problem. His talk is really well done if you are in SF on monday you should try to see it.

@@ -1,0 +1,1 @@
+We understand why they added partial payments. I just don't think it belongs in the core protocol. It just leads to a more complicated system and thus issues like justcoin had.

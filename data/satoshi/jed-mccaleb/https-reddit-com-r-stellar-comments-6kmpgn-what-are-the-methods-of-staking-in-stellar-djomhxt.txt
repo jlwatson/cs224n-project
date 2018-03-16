@@ -1,0 +1,1 @@
+This is how Stellar handles consensus: https://www.stellar.org/developers/guides/concepts/scp.html

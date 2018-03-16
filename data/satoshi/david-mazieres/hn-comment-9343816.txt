@@ -1,0 +1,36 @@
+At it's core, the question of whom to trust is of course crucial, as there are
+clearly at least straw-man answers that have undesirable effects. But the
+trust topology affects more than safety, it affects the scenarios in which a
+consensus protocol is useful. E.g., if I issue some scrip and trade it on the
+Stellar network, I don't necessarily want to depend on mining rigs in other
+parts of the world for my ledger safety. I want to tell people "trust whomever
+you want, but be sure to include me as well, because I won't let you redeem
+the scrip if you don't have it on my ledger."
+
+Part of the goal of SCP is to leave such policy questions up to the market and
+see what kind of architecture emerges. Our hope is that this flexibility
+combined with the lower barrier to entry will lead to greater financial
+inclusion as people build on our platform. But if we add too many policy
+restrictions, we risk heading off unanticipated innovations. (Heck, someone
+might literally replicate the Bitcoin policy and configure their quorum slices
+to trust 67% of whoever mined a Bitcoin block in the past week. That wouldn't
+really make sense, but it's possible.)
+
+That said, what you're getting at is that with flexibility comes risk. We
+can't a priori rule out the possibility that organizations will choose bad
+quorum slices that violate safety. But we need to ask under what circumstances
+people care about safety and why. People obviously won't care about forks if
+one of the branches is purely a Sybil attack. But they likely will care if
+"real organizations" diverge, for some notion of that term. The reason, again,
+is that at some point the "real organizations" will affect one another in the
+network, however indirectly--maybe after a chain of five payments. That kind
+of indirect link is precisely what FBA quorums capture in the transitive
+closure of slices. So if everyone depends on the financial institutions they
+expect to do business with, and the whole economy is in fact interconnected,
+then Stellar will be safe.
+
+I obviously believe such interdependence exists, and fully expect Stellar to
+be safe, but I can't predict exactly what the network will look like. Nor do I
+want to, as this could limit innovation. Only time will tell how this plays
+out.
+

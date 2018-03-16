@@ -1,0 +1,1 @@
+This isn't a clone of ripple. It is a completely new codebase

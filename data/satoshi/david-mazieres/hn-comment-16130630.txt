@@ -1,0 +1,34 @@
+To be more precise about this, the Ripple consensus paper
+(https://ripple.com/files/ripple_consensus_whitepaper.pdf) says in Section
+3.3, "Since the UNLs for each server can be different, agreement is not
+inherently guaranteed by the correctness proof." This of course doesn't mean
+that Ripple is never safe if UNLs disagree. (A node's UNL in Ripple serves the
+same function as a node's quorum slices in SCP.) It just means that the
+analysis from Section 3.2 does not apply. SCP was designed to be decentralized
+in the sense that we assumed different nodes would want to chose different
+quorum slices and wanted to achieve the best possible safety for any such
+choice.
+
+A particular concern with Ripple is what would happen if Ripple validators
+failed not by crashing, but by getting compromised and acting maliciously (so-
+called Byzantine failure). The Ripple paper states in Section 3.2 that "it
+would take (4n + 1)/5 Byzantine failures for an incorrect transaction to be
+confirmed" (where all nodes are assumed to have identical UNLs and n is the
+size of that UNL). I believe this is an error, as with a quorum size of 80% of
+n, it is easy to construct a counter-example. Suppose nodes v_1 and v_10 are
+honest, while v_2, ..., v_9 maliciously deviate from the protocol. Now
+consider the two 80% sets (v_1, ..., v_8) and (v_3, ..., v_10). Those two sets
+overlap at only malicious nodes that could prevent v_1 and v_10 from hearing
+about each other's transactions.
+
+The nice thing about SCP is that it is optimally safe (Theorem 13 in the
+paper). That doesn't mean it guarantees safety under all possible
+configurations (e.g., two disjoint sets of nodes that don't know about each
+other). But it means that in any configuration where there exists some
+protocol that could guarantee safety, SCP will guarantee safety as well. That
+includes Byzantine failure scenarios. So you could translate UNLs into quorum
+slices and substitute SCP for Ripple's consensus algorithm, and if RPCA was
+already guaranteed safe, then SCP will be, too. The converse is not
+guaranteed; you could choose a configuration that is safe under SCP and risks
+forking under RPCA.
+

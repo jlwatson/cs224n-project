@@ -1,0 +1,6 @@
+Your point may be valid, but who is attacking a 40 bit key?  Is
+cracking 40 out of 64 bits of a 64-bit RC4 key as hard as cracking a
+40 bit key, or does knowing a significant portion of the key make the
+search considerably easier than brute force?  I've never heard anyone
+make an assertion either way, except that some people seem to assume a
+the difficulties are the same.
