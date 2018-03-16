@@ -1,0 +1,19 @@
+What is the value of a Bitcoin blockchain alternative? Many propositions add alternative states, which must be included in the evaluation of the resulting overall utility and welfare. Because no two parties will see the same utility resulting from the same expenditure, a social choice problem occurs. Condorcet’s paradox and Arrow’s Impossibility Theorem are subjects for discussion.
+
+There are many alternatives to the Bitcoin blockchain. Some propositions use scenarios with value that goes beyond the problems that threaten network security. Some altcoins have proposed SETI@home- style solutions for all types of problems including the search for a cancer cure. Whenever we add additional states, these states must be considered along with the overall utility and welfare that results. This creates a social choice problem.
+
+Bitcoin was simplified to include only the solution that would ensure that no alternative could diminish the system’s security. That is, Bitcoin forms a simple two-good, two-person Edgeworth box economy form of a distribution problem. At each point, there is a known solution representing goods distributing between members.
+
+Each of these states is mutually exclusive. Although each agent expresses their own preference for alternative uses, determining the overall maximal returns is straightforward. Without alternatives, the mining solution becomes Pareto efficient.
+
+The alternative of adding so-called “useful” puzzles to Bitcoin creates a scenario where there is an additional utility to the solution itself. This additional created utility varies among network users, and no two individuals will have the same preference for a particular use. This even assumes a single-use alternative and precludes the addition of multiple competing solutions.
+
+We encounter problems such as Condorcet’s paradox in the scenarios. I point the dedicated reader towards “Advanced MicroEconomic Theory” (Jehele & Reny, 2000) where, in Chapter 6 of this book, the authors address Arrow’s Impossibility Theorem, which is touched on only lightly in this post.
+
+The primary problem with the addition of alternate forms of utility is choosing which form to include, how much of the form to include, and who should decide. In locking any alternative into the protocol, we incorporate the possibility of debate on profitability and utility. The problem here is that no two parties will see the same utility resulting from the same expenditure.
+
+The most important consideration is that any additional inclusion is either of no utility and, thus, should not be incorporated, or of utility that can be expressed across a market in the form of profit. In the form of profit, the miner will benefit from the redistribution of Bitcoin wealth in the allocation that comes from the discovery of a block solution, and from the utility associated with the alternate use. The end result is that miners will still seek to maximise profit. This rational behaviour leads them to the optimal strategy, seeking returns that are just over the risk-free rate as other miners enter the market.
+
+When the utility is split between securing the network and alternative uses, the natural end result must be that the investment in network security in a mixed-use environment is less that the investment that will occur in a pure single-use environment. The overall consequence is that Bitcoin becomes less secure because the investment in mining infrastructure that would otherwise secure the network is split between securing the network and other uses that have been tacked onto the network.
+
+Simply put, the value of mining is not only wasted, but it is incorporated into the value that we gain in a new transactional medium. The value of mining is the security of the Bitcoin network.

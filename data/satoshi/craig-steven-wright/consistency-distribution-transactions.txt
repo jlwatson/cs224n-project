@@ -1,0 +1,87 @@
+Misunderstandings in the bitcoin community have led to false conclusions about the way that bitcoin works. The bitcoin mining process is fundamentally competitive, and personal gains are made through competition, regardless of how it appears. The complex reality is counter-intuitive, but understanding the differences among miners’ approaches to processing can disabuse us of the notion of a ‘standard’ block. Comparing the bitcoin to Hashcash eliminates false beliefs about the bitcoin hashing algorithm, verifies that each individual block is unique, and demonstrates that each individual miner acts independently of the others.
+
+Many common but false beliefs in the bitcoin community have led to common misunderstandings, such as the ‘selfish miner attack’ [1]. Some of these beliefs arise from misunderstandings about the bitcoin block. These misunderstandings have led, in turn, to false conclusions on blocksize debates and an incorrect understanding of the way that bitcoin works. Simply put, there is no such thing as a consistent block before it is mined and included within the chain.
+
+In fact, a consistent block is not even maintained across a single mining entity, let alone across a pool of miners or in the overall network. Individual blocks are not consistent series of transactions with a nonce; rather, each block is a series of transactions that changes moment by moment. In addition, there is no need for consistency within a block before it is mined. Each attempt to solve the next block remains independent of the previous attempt. Therefore, adding a transaction to a block has no effect on the overall time required for solving that block. The result is that individual miners experience discrepancies in the information that they are solving.
+
+The order in which miners receive information leads to radically different solutions to the block puzzle. For example, if two miners were to receive two separate transactions that were released from slightly different locations and at slightly different times, it is likely that one miner would exhibit a different transactional order than the other miner in the block that they were attempting to solve.
+
+The original bitcoin paper [2] notes transactional order within blocks, particularly on pages 2, 3, and 4. The error of using this format for describing unmined blocks derives from a misunderstanding of the bitcoin code implementation. The paper describes solved blocks, in which the transaction order is fixed. The nature of the hashing algorithm is such that any alteration or change to the order [3] creates a widely divergent numerical output. This means that changing the order of Tx0, Tx1, and other transactions in a solved block leads to a widely divergent hash unlikely to represent a solution to the hashing puzzle that, therefore, would not be considered a validly mined block.
+
+What seems to be misunderstood here is that separate miners can mine transactional data in any order. The addition of a nonce to seek a solution provides miners with the ability to add verified transactions in any order while they equally and fairly compete using their levels of computational power. As a consequence, miners do not benefit by pruning transactions in blocks or by seeking a common ordering of transactions. If a miner were to seek to align a transactional order with other miners, the likely result would be a scenario in which any miner seeking to align transactional positions would be economically disadvantaged due to the extra cost of this pre-processing.
+
+Furthermore, a miner who selects random transactional orders based on the time of receipt of each transaction would have a slight advantage and be able to apply the computational power that he or she controls to solving more hash puzzles than miners who seek an aligned strategy. The costs of coordinating transactions among miners add latency to the communications as well as a high degree of inefficiency. In such a process, a miner would need to discard many possible solutions that could be solved while negotiating a consistent strategy with other miners.
+
+The mining process is competitive. Miners seek to maximise their personal gains by competing with other miners. The competitive process verifies and disseminates a consistent ledger throughout the system.
+What is a block?
+
+A block does not emerge until a hash puzzle has been solved. In attempting to solve a proof or work a puzzle, each miner takes a set of transactions, adds a timestamp, and then adds a nonce. This is a highly simplified version of what actually occurs, but this process captures the basics of the block creation process. For several reasons, there is flexibility in the timestamping protocol. First, there is latency between nodes and, more importantly, exact timekeeping is not required. Nodes are allowed some variation in their system times if they remain within an acceptable range. The time range function used by bitcoin mirrors several authentication protocols such as Kerberos [4] but with a wider drift range. Bitcoin is a far more forgiving protocol [6].
+
+The bitcoin protocol is designed to allow for a wide range of time discrepancies, and it discards any discovered block that incorporates a timestamp outside its large defined range. This range is calculated based on two factors.
+
+    The timestamp in a block must be larger than the median distance from the timestamps recorded in the previous 11 mined blocks.
+    It must be lower than the ‘network-adjusted time’ plus 7,200 seconds.
+
+Note that the median timestamping function has a limiting adjustment in which a difference limit of 4,200 seconds is the maximum possible adjustment allowed.
+
+Each node polls the nodes to which it is connected using a ‘network-adjusted time’ function, which is calculated using the median of the timestamps returned by all the nodes connected to the local node.
+
+Proof of Work Formula see [12] for details
+Thus, a block is formed from the proof of work (PoW) solution to the ordered transaction data. This incorporates four items.
+
+    A set of transactions that can be in any order, although each order comprises a separate possible solution to the hash puzzle.
+    A timestamp that is limited in range by the bitcoin time adjustment functions and that is accurate to the second.
+    The 256-bit hash of the preceding block, which limits the discovery of a solution to the proof of the work puzzle to the chain of discovered blocks. With this limitation, there is no way that an attacker can circumvent the PoW limitations by pre-mining or adding targeted solutions.
+    A nonce sufficient to limit the hash of the block cannot exceed the current difficulty target.
+
+The timestamp function utilized in the block structure is an open-source IEC 61850 ‘uint32_t’ implementation [5]. The accuracy of this function is derived as a 32-bit calculation of the number of seconds since 1970. It differs from the ‘uint64_t’ bit value because ‘uint32_t’ is accurate to the second whereas ‘uint64_t’ is accurate to the millisecond. Because this is an unsigned integer, the bitcoin network supports twice the total number of seconds as the standard Unix time format.
+
+There are standardized orders to the way that the blocks are presented, but the protocol allows for a wide variety of methodologies for solving the hash puzzle of an individual block.
+
+It is highly unlikely that we would find the following strategy used by a miner because it is more difficult to ensure sorting order than to update a nonce. However, we present it for illustrative purposes.
+
+It is feasible to set a standard nonce that is never updated and update the order of transactions. Each possible ordering of transactions in a possible block solution will lead to a separate proof or attempt at a work solution. Simply changing the order of transactions without updating the nonce is, in itself, a way to create a new hash value that can be checked against the PoW difficulty requirements. Reordering of transactions is a combinatorial permutation problem [6]. The difficulty with this scheme would be in creating a system faster than the existing mining solutions based on ASIC hardware.
+
+The number of possible solutions to a reordering of transactions is derived from a factorial calculation of the number of transactions in the possible block. Moreover, because there is a wide range of acceptable timestamps, these could be adjusted to each possible solution based on permutations in the time range to further extend the number of possible PoW solutions. Ignoring the increased number of permutations that derive from a change in timestamps, we can calculate the number of possible permutations that can be used as a possible block solution as follows:
+n=(ti)!n = \left( {{t_i}} \right)!n=(t​i​​)!
+
+where nnn indicates the number of possible permutations obtained through reordering transactions and (ti)({t_i})(t​i​​) indicates the set of combinational permutations of the transactions for block iii.
+
+If we estimate the maximum number of transactions in a 1MB block to be defined as (1) five transactions/second and (2) 600 seconds (average)/block, we obtain 3,000 transactions/block, which equates to n=[(ti)!]=3000!=4.149×109130n = \left[ {\left( {{t_i}} \right)!} \right] = 3000! = 4.149 \times {10^{9130}}n=[(t​i​​)!]=3000!=4.149×10​9130​​ possible transaction combinations even before accounting for the timestamps. A more accurate calculation based on existing conditions would be derived through a range based on the existing moving average target of the mean rate of transactions that are included in a block. At the time of writing, this range is 1,049–1,760 with an expected range based on α=5%\alpha=5\%α=5% confidence interval.
+
+At this level, we still observe the range of permutations in the order of [1.343×102715,5.833×104949]\left[ {1.343 \times {{10}^{2715}},5.833 \times {{10}^{4949}}} \right][1.343×10​2715​​,5.833×10​4949​​] permutations. Even at the lower bound, this order of difficulty exceeds the calculations of the hash itself. In fact, the lowest number of transactions that have been included in a block in the previous two-year period was 248 transactions. At this volume, the number of combinations would be n=5.193×10487n = 5.193 \times {10^{487}}n=5.193×10​487​​.
+
+Through this exercise, we can quickly recognize that the probability of two mining nodes working on the same transaction order at the same time is phenomenally small. It is more likely that the same SHA-256 value would be returned as a collision between two separate blocks than within a single block to be calculated in two locations.
+
+This logic might seem counterintuitive to many people because it seems likely that each miner would process the same transaction data in the same order. However, reality is more complex. If a transaction were broadcast close to one mining node and were more distant, in terms of latency, than another, then there would be a delay in the receipt of the transaction at the more distant node.
+
+When we then incorporate other transactions that might be closer to the second node than to the first node, we can quickly obtain an intuitive understanding of the differences in ordering. At node 1, we would expect the following order to result,
+
+The change is extremely small, but the important thing is that, even if this change were a single transactional difference in the entire block, it would lead to a completely different hash value. When each of the nodes calculates the hash value of these two transactions, the numerical outcome will not be the same and, because this is propagated through the Merkle route calculation, the value that is finally returned in the block as the hashMerkleRoot will be completely different for each node.
+
+Widespread misunderstanding of this point has led to the common belief that a particular block is competitively solved. However, the fact is that no standard block exists before the solution of the PoW through the addition of a nonce with the corresponding values of the blockhead that must be included.
+
+This error in understanding leads to the false belief that a node can hide information from other nodes to gain a competitive advantage. Two nodes each independently attempt to solve a PoW puzzle, but this puzzle is independent in each instance [8]. Therefore, the problem is a competing Poisson problem. The rate of discovery for a mining node is defined by λ1{\lambda _1}λ​1​​, where the rate of discovery is set to λ2{\lambda _2}λ​2​​ for the sum of all other nodes in the network.
+
+Together, we obtain a rate for an individual mining node of λ1λ1+λ2\frac{{{\lambda _1}}}{{{\lambda _1} + {\lambda _2}}}​λ​1​​+λ​2​​​​λ​1​​​​. For example, if we had a large mining pool with 13\frac{1}{3}​3​​1​​ of the total computational power of a given difficulty period, we would have a value of λ1=2{\lambda _1} = 2λ​1​​=2 and λ2=4{\lambda _2} = 4λ​2​​=4 for the corresponding nodes. This result derives from the expected discovery rates. The mining pool with 13\frac{1}{3}​3​​1​​ of the total hashrate would be expected to solve two blocks per hour from a system with a difficulty that overall leads to six blocks being solved (on average) per hour. This results in the remainder of the mining nodes solving λ2=λ−λ1{\lambda _2}=\lambda-{\lambda _1}λ​2​​=λ−λ​1​​, or four blocks. The overall system discovery rate would be defined in the protocol as λ=6\lambda=6λ=6.
+
+One of the properties of the Poisson process is in an area referred to as ‘competing processes’. If we assume that N1(t),t≥0{N_1}\left( t \right),t \ge 0N​1​​(t),t≥0 and N2(t),t≥0{N_2}\left( t \right),t \ge 0N​2​​(t),t≥0 are independent Poisson processes with the respective rates of λ\lambda λ and λ2{\lambda _2}λ​2​​ (as defined above), and we let SniS_n^iS​n​i​​ represent the nth{n^{th}}n​th​​ event (or discovery of a valid block) for process i,j=1,2i, j = 1, 2i,j=1,2, then we have the well-known condition [9, 10, 11]:
+P[Sn1<Sm2]=∑k=nn+m−1(n+m=1k=n)(λ1λ1+λ2)k(λ2λ1+λ2)n+m−1−kP\left[ {S_n^1 < S_m^2} \right] = \sum\nolimits_{k = n}^{n + m - 1} \binom{n+m=1}{k=n}\left( {\frac{{{\lambda _1}}}{{{\lambda _1} + {\lambda _2}}}} \right)^k\left( {\frac{{{\lambda _2}}}{{{\lambda _1} + {\lambda _2}}}} \right)^{n + m - 1 - k}P[S​n​1​​<S​m​2​​]=∑​k=n​n+m−1​​(​k=n​n+m=1​​)(​λ​1​​+λ​2​​​​λ​1​​​​)​k​​(​λ​1​​+λ​2​​​​λ​2​​​​)​n+m−1−k​​
+
+This equation can be used to determine the probability of a node calculating one or more blocks before the rest of the network.
+The hashing algorithm used in bitcoin.
+
+There is a common, but false, belief that Adam Back is the original source of the hash puzzle used in bitcoin. This belief derives from the paper’s references to ‘Hashcash’ [2]. Instead, we find the base algorithm defined on page 4 of ‘DOS-resistant authentication with client puzzles’ [12]. The authors did not release code, and a modified protocol and code were used in the bitcoin core release of 2009.
+
+The original implementation of Hashcash is available via the Internet Archive project here and the original code here. The false belief that Hashcash was ‘used as the mining function in bitcoin’ can be quickly dispelled by comparing the codes used in each.
+
+This exercise will demonstrate that the variables and functions written for bitcoin, such as nTotalLower and nTargetValue, differ radically from the functions used in Hashcash.
+
+It was implemented simply in bitcoin, where comparisons, such as the following, were used instead of schemes that are more difficult to implement:
+
+Other methods, including seeking matched hash collisions, such as are found in Hashcash, could have been incorporated; but this would have involved additional changes that would have made the initial implementation of bitcoin more difficult. The originally incorporated code derives from implementations developed by Wei Dai and Steve Reid.
+Blocks are unique
+
+What the reader should take away from this exercise is that each individual block is unique. This has become more complicated since the introduction of mining pools, in which groups of individual miners act in a concerted manner to solve a shared problem. However, that scenario does not change the way that transactions are distributed in a block. The effect is that each mining pool mimics a large mining node.
+
+To many people, it seems counterintuitive; however, it is critically important to remember that each individual miner acts independently of all other miners in the system. What is even more counterintuitive is that each individual attempt is completely independent and unrelated to all previous attempts. Each attempt to solve a bitcoin block puzzle is like a coin toss in the sense that the results are truly independent from all other coin tosses.

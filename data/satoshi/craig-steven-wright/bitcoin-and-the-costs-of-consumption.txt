@@ -1,0 +1,118 @@
+Bitcoin is under attack, but the arguments are misdirected at the ‘strawman’ of total consumption. Bitcoin is painted as a wasteful system that uses too much electricity. The question of bitcoin’s efficiency can only be answered by addressing its comparative efficiency. By considering the cases of Denmark and bitcoin in a global context of countries, banking institutions, and business enterprises, absolute and relative contrasts focus on the real questions. Only a purely economic approach that considers specialisation and the zero-sum nature of the context can correctly determine the bitcoin costs and benefits.
+
+In a long line of attacks, it was recently noted that Bitcoin Could Consume as Much Electricity as Denmark by 2020.
+
+This is not the first, nor will it be the last, attack on bitcoin and its perceived inefficiencies. These attacks take the form of a type of logical fallacy known as the ‘strawman’. In this type of attack, rather than arguing against the actual opposition, a third-party opposition is created and attacked. The third-party ‘strawman’ is purposefully easy to defeat. Once defeated, a victory over the actual opponent is claimed. A ‘strawman’ is employed to falsely refute and defeat the real opponent. The attacks are rhetorical flourishes designed to divert attention away from the truth, which most often is that the actual opposition is too strong an opponent to be defeated.
+
+Douglas Adams proposed, in his Hitchhiker’s Guide to the Galaxy series, that the meaning of life could be found in the number 42. The main point of his argument was that any answer is irrelevant unless the question is valid and cogent.
+
+The question of the efficiency of the bitcoin system is not related to the total consumption of the solution, but, rather, to its comparative efficiency. A solution is not optimal based on its overall use of a consumable item, but as a comparative solution. To assess bitcoin, we must analyse and compare the costs to the benefits in context. To assume that electricity can be made to run more efficiently in an alternative protocol is the logical flaw of the argument, and it is the ‘strawman’ in all of the attacks.
+
+We understand the ‘strawman’ fallacy better by understanding its structure as provided by Wikipedia:
+
+The straw man fallacy occurs in the following pattern of argument:
+
+Person 1 asserts proposition X.
+
+Person 2 argues against a superficially similar proposition Y, falsely, as if an argument against Y were an argument against X.
+
+This reasoning is a fallacy of relevance: it fails to address the proposition in question by misrepresenting the opposing position.
+
+The real issue of bitcoin is its relative efficiency. It is not whether bitcoin is using large amounts of electricity, but, rather, whether it is more or less efficient than the options with which it competes. For instance, we should consider whether bitcoin is optimally efficient compared to the existing (brick-and-mortar and virtual) banking and payment system. Therefore, this post analyses the usages of power within the bitcoin network as it has been extrapolated for growth and compared to the overall power usages and efficiencies of the alternatives, including the existing banking system.
+
+The portrait commonly painted of bitcoin is as a system that wastefully performs calculations for no particular reason. It has been argued (and this particular fallacy has resulted in the creation of many altcoins) that a more efficient system could be created that uses less electricity. This post responds by examining the costs associated with the existing system, how they compare to bitcoin’s costs, and assessing the effects of using an alternative system that requires less electricity per calculation.
+Power usage in Denmark
+
+Denmark consumes about 34,000 GWhr per year of electricity, making it a net producer of electricity, which is then exported to other parts of Europe. These figures are derived from data that can be obtained from the US Department of Energy (DOE). To obtain information closer to the source, the Danish Energy Agency (DEA) could be used.
+Graph showing the power consumption by type in Denmark
+
+Power consumption in Denmark
+
+The above graph was created using a DEA 2008 Energy Statistics report that contains links to a set of Excel worksheets.  The current annual statistics covering this period are available online.  The data end at 2008, and an analysis of the DEA data demonstrates that it is unlikely that Denmark would exceed 40,000 GWhr of electricity consumption per year by 2020.
+
+During past particularly volatile economic periods, Denmark has experienced relatively more volatility. For the purposes of our argument, and to ensure that we avoid a ‘strawman’ argument against our opponents, we simplify the calculations in this analysis by rounding up the total energy usage in Denmark to 50,000 GWhr. This is more electricity than Denmark is likely to use, and rounding this way increases our burden because it adds weight to our opponents’ position. However, we use it to unconditionally demonstrate the many flaws in the arguments presented against bitcoin. Our first step is to draw attention to the value of using Denmark to make our point.
+
+Denmark is a country of just over 5.7 million people. It is 113th in the ranking of countries by population; in contrast, Europe has a population of just under 750 million people. As such, Denmark comprises a little less than 1% of Europe’s total population. Importantly, if we analyse the graph below of electricity usage in a number of European countries, Denmark is the lowest electricity consumer in its region. Germany alone consumes more than 16 times the electricity consumed by Denmark.
+
+The foundation of this argument could be interpreted as ‘cherry picking’ a small country to obtain a ‘strawman’. Indeed, Denmark is a country, not an enterprise, which evokes an emotional response to a logical question. However, we chose to examine Denmark because we argue that countries are similar to large enterprises in many ways.
+Graph showing energy production comparison between Germany, Denmark, Norway & Sweden
+
+Electricity comparison between selected European countries
+
+By classing Denmark as one of many entities, the argument repositions the rhetorical context from a logical to an emotional base. Despite its comparative position, the absolute energy consumption of this small country is significant. Therefore, we must analyse more than Denmark’s absolute consumption; we must examine its usages of electrical energy and how they compare.
+
+For our first comparison, we examine the energy consumption of a modern supercomputer. Tianne-2 has topped the current top 500 list with its power consumption rating of 17.8 kW/Hr. If we combine the entire power consumptions of all of the computers in the top 500 list, we total a little more than 46GWhr annual consumption. That is about 0.1% of the combined power consumption projected for the bitcoin network and by Denmark in 2020. Below, we return to these figures when we examine the amount of energy used in calculations.
+
+In contrast, CitiBank uses 1,600 GWhr in the 20 datacentres it has retained (which is down from 70). This is not an unusual usage level, and, based on the financial figures reported by US banks, it is possible to get a low-end estimate of the largest 100 US banks. When total expenditures on energy usage in data centres (separate from and excluding office usage) reported by these 100 financial institutions are divided by the retail energy price (which far exceeds that paid in bulk purchases), we obtain a total electricity usage of 60,058 GWhr for the largest 100 of the 5,309 commercial banks in the US.
+
+It is obvious that bitcoin’s projected electricity usage for 2020 would be far more efficient than that of US commercial banks. We recognise that, in this analysis, we are bypassing many associated aspects of a complete bitcoin-based banking environment. It is not just about having a data centre and comparing that to the power calculations; it requires an analysis of the entire system.
+
+Therefore, this is what we must analyse. We must ask: What causes bitcoin to use so much electricity? In the case of the data centres supporting the large banks, electricity usage is related to the transaction processing associated with storing large database files and related information. Much of this processing is not eliminated with bitcoin, and, as is true for all electronic systems that are growing in our increasingly Internet-connected age, electricity is a key fundamental resource.
+Red herring
+
+The purposeful use of Denmark in this argument is particularly cogent. Other sources, such as those reported on motherboard.com, are far more damning. Some of the articles even bring the climate change argument into play by claiming that bitcoin will lead to the anthropogenic climate change collapse of global society. For perspective, statistics from the DOE indicate that the US consumes 4,110,000 GWhr of electricity.
+
+This fact alone implies that comparing to Denmark is a little like comparing apples to motorbikes. Extending this to the argument on climate change and global dystopian collapse, we see that electricity usage associated with global bitcoin could increase to as much as 0.1% of US electricity usage. At that rate, bitcoin usage would be as high as 0.8% of the predicted US electricity usage by 2020.
+
+For a wider perspective and a better comparison to global energy, it is clear that, by 2020, bitcoin will most likely consume 0.0016% of the electricity consumed across all nations. Extrapolated, it is a mere 0.0000899% of the total energy consumed.
+
+However, we can compare bitcoin to something more cogent … business enterprises. Google alone uses 0.01% of global energy [6]. That is 1,000 times the utilisation and consumption of electricity of Denmark at present. Amazon and Facebook are on the same scale.
+To question why
+
+It is pretty easy to toss out large mind-blowing complex statistics. It’s a common tactic used to distract us from the real questions being asked. The real question here is begging for an answer we can provide and for a prediction of what might happen as the size of the blockchain increases. It is a question that, when posed, allows us to evaluate the energy usage and total costs associated with solutions, such as bitcoin.
+
+The important questions to ask are: Why is bitcoin using so much electricity and what are the anticipated effects of increased electricity usage? The reason that bitcoin uses the projected rates of electricity is not simply about computational complexity; it is about economics. Computational complexity is nothing more than a mechanism that allows for the standardised exchange of prices within the system. It is a means of signalling. This function of computational complexity has been overlooked.
+
+It does not matter how efficient the algorithm within bitcoin is nor does integrating problem solutions that have a market-based value lead to a more cost-effective system.
+
+First, if bitcoin were to use a more efficient algorithm, the market would equally adopt the efficiency gains, increasing the amount of processing in that system. Overall, the volume of calculation and computation would increase to the level of profitability. In this scenario, the cost would again increase as more systems were deployed. The overall electricity usage would remain similar to that of the less efficient algorithm. There are arguments that bitcoin security comes at a disadvantage because the algorithm has little real world value. A small percentage of those who take that position actually understand that the bitcoin mining process is associated with the security of the network. What they do not understand is that there is no advantage gained from solutions with alternative uses. If a society is willing to invest in these other uses of the network, they can do so now. However, adding alternative uses to the bitcoin network increases the cost of mining and, although the effect is rather insidious, it is one that is commonly overlooked.
+
+The problem emerges from an analysis performed from the perspective of a cryptographer as opposed to an economist. To a cryptographer, total network security is a seemingly pure combinatorial problem. It is about the number of permutations that need to be solved, and, by increasing the number of permutations solved, the network becomes more secure. What is missing from this reasoning is the cost per permutation. Bitcoin is not simply the calculation of difficult permutations. It includes the cost of the calculations.
+
+As was noted in section 6 of the 2008 paper, an attacker ‘ought to find it more profitable to play by the rules’. This is the key to the problem. The issue is not one of simple calculations; it is one of economics. As it becomes more efficient to mine a protocol or algorithm, the spot profitability will increase for the miner.  As this profitability level increases, more miners and companies start to compete, driving the total profitability down to a level that is commensurate to a combination of the industry risk and the risk free rate.
+A zero-sum game
+
+In future blogs, we will delve more deeply into the details to explain the following section to the lay non-economist readers. Here, we begin with a cost-benefit analysis. Across a society, transaction costs, benefits, and losses through compromise are incorporated into the total costs of damages and damage prevention. Damage prevention in this context incorporates a stronger blockchain. In this scenario, the miner and the user of the service are in a type of competition related to the payments made across the network. In a later paper, we provide details of the complete cost allocation equations, but these details are beyond the scope of this particular post, and we present a simplified version here.
+
+The allocation of bitcoin to a miner does not create wealth; it reallocates existing wealth. If we already have nnn bitcoin at time ttt, then at time t+1t + 1t+1 (defined by the creation of a new block and the allocation of rewards for mining), we would have the same wealth, WWW, but it would be more widely distributed. At present, the mining reward (at the time of writing) is r=25BTCr = 25BTCr=25BTC plus transaction fees. Transaction fees should be understood as preferential payments to ensure that those transactions are processed more rapidly than transactions without fees. Consequently, we ignore transaction fees for the purposes of this post because they do not change the overall outcome.
+
+The mining of bitcoin is a security service that alone creates no wealth. Consequently, those using the network pay for the service. If we consider that the changes in overall wealth are influenced by the loss of bitcoin or, when not truly lost, the overall impact of bitcoin not being moved plus the change in the utility of bitcoin, we can add values xxx and yyy to the overall wealth equation as follows.
+Wi+1=Wi+x+y{W_{i + 1}} = {W_i} + x + yW​i+1​​=W​i​​+x+y
+
+At time ti+1{t_{i + 1}}t​i+1​​ or block (i+1)\left( {i + 1} \right)(i+1), we obtain a level of wealth Wi+1{W_{i + 1}}W​i+1​​. Assuming that the demand for bitcoin remains static between times ti{t_i}t​i​​ and ti+1{t_{i + 1}}t​i+1​​, we can, for the purposes of this argument, assume that x+y=0x + y = 0x+y=0.
+
+At time ti+1{t_{i + 1}}t​i+1​​, we change from n=nin = {n_i}n=n​i​​ to n=ni+1=ni+rn = {n_{i + 1}} = {n_i} + rn=n​i+1​​=n​i​​+r bitcoin in circulation. Here, Wi=niωi{W_i} = {n_i}{\omega _i}W​i​​=n​i​​ω​i​​ is a statement that the product of ωi{\omega _i}ω​i​​ (the value of each bitcoin) and the number of bitcoin in circulation reflects the total wealth value associated with bitcoin. Because the wealth function remains constant in this period, or can be approximated to be so, we can state that:
+ωi+1=niωi(ni+r)+ε{\omega _{i + 1}} = \frac{{{n_i}{\omega _i}}}{{\left( {{n_i} + r} \right)}} + \varepsilon ω​i+1​​=​(n​i​​+r)​​n​i​​ω​i​​​​+ε
+
+In this equation, ε\varepsilon ε accounts for the standard error in market reporting processes and would, therefore, account for variability in the result.
+
+For all periods where n=ni≥0n = {n_i} \ge 0n=n​i​​≥0, we have the result that ni(ni+r)≤1\frac{{{n_i}}}{{\left( {{n_i} + r} \right)}} \le 1​(n​i​​+r)​​n​i​​​​≤1 and, hence, the value of  ωi{\omega _i}ω​i​​ is diminishing without an increase in utility associated with the protocol. At the time of writing, there is a total of 15,446,950 allocated bitcoin with an imminent change in allocation rate of r=25r = 25r=25.
+
+This leads to the change rate of:
+ni(ni+r)=15446950(15446950+25)=0.99999838156\frac{{{n_i}}}{{\left( {{n_i} + r} \right)}} = \frac{{15446950}}{{\left( {15446950 + 25} \right)}} = 0.99999838156​(n​i​​+r)​​n​i​​​​=​(15446950+25)​​15446950​​=0.99999838156
+
+The change to market each 10-minute period equates to approximately 0.000162% lost and redistributed as a security function. This is the cost of mining, and it sets limits to the profitability that a miner could experience. This transfer of wealth to the miners accounts for the total cost paid by the network to ensure the security of the network at any given time. This is not the level of profitability; it is the cost function.
+
+This calculation is a zero-sum game. The reallocation of wealth as a payment for the service is a market transaction cost. In any reallocation, the miner is expected to reap a profit defined by the miner’s share of the market (λ1λ1+λ2)\left( {\frac{{{\lambda _1}}}{{{\lambda _1} + {\lambda _2}}}} \right)(​λ​1​​+λ​2​​​​λ​1​​​​), where λ1{\lambda _1}λ​1​​ accounts for the miner’s total hash power and the hash power of the network is defined by (λ1+λ2)\left( {{\lambda _1} + {\lambda _2}} \right)(λ​1​​+λ​2​​). From this, we see that the total revenue achieved as a mining strategy is defined by the following formula:
+
+Rm=(λ1λ1+λ2)(1−ni(ni+r))ωi{R_m} = \left( {\frac{{{\lambda _1}}}{{{\lambda _1} + {\lambda _2}}}} \right)\left( {1 - \frac{{{n_i}}}{{\left( {{n_i} + r} \right)}}} \right){\omega _i}R​m​​=(​λ​1​​+λ​2​​​​λ​1​​​​)(1−​(n​i​​+r)​​n​i​​​​)ω​i​​,
+
+and, because Pm=Rm−Cm{P_m} = {R_m} - {C_m}P​m​​=R​m​​−C​m​​, which defines the profit of the miner (P)\left( P \right)(P) and the cost borne by the miner (C)\left( C \right)(C), we obtain the profitability calculation that provides the average profitability that can be expected for any period (i)(i)(i):
+Pm=(λ1λ1+λ2)(1−ni(ni+r))ωi−Cm{P_m} = \left( {\frac{{{\lambda _1}}}{{{\lambda _1} + {\lambda _2}}}} \right)\left( {1 - \frac{{{n_i}}}{{\left( {{n_i} + r} \right)}}} \right){\omega _i} - {C_m}P​m​​=(​λ​1​​+λ​2​​​​λ​1​​​​)(1−​(n​i​​+r)​​n​i​​​​)ω​i​​−C​m​​
+
+In this equation, the miner has fixed and variable costs. If we were to add any so-called ‘side benefits’ to mining bitcoin, then we would end up with an altered equation. The utility of mining bitcoin then becomes a combination of the profit obtained through mining bitcoin as derived from the utility factor associated with mining bitcoin plus the profit or added utility associated with the alternative strategy. In this scenario, as the profitability associated with a joint mining strategy increases, more players would seek to maximise their revenues and, hence, their profits, up to a point where the profitability of each miner’s returns to the returns expected from the risk-free rate plus the incentive for the risk taken in the capital investment and Pm+U=Pm+PU{P_{m + U}} = {P_m} + {P_U}P​m+U​​=P​m​​+P​U​​.
+
+Over time, we expect the profitability to establish an equilibrium based on the risk associated with mining and the capital investment. The total revenue received by a miner would incorporate the cost to the bitcoin community, which is providing the service, plus the cost of the additional utility added to the service. This capital allocation suffers transaction costs, and the addition of the added benefits is transferred at less than their costs. Furthermore, the effect is transference of unwanted services to all users of the bitcoin network.
+Specialisation
+
+Since Adam Smith, economists have known that we enrich ourselves and, hence, society through specialisation. Specialisation focuses on specific areas of production and trade. To enrich ourselves, we look at peaceful activities that utilise resources and goods produced along the lines of what we freely choose.
+
+The real issues associated with mining bitcoin for purposes other than the security of the network relate to the inability to correctly determine the costs of the inputs and outputs to the network. Not all parties will equally value additional output and the result will be a series of conflicting prices. The truth of the matter is that bitcoin mining provides a service in itself. The value of that service is reflected in the amounts that people are willing to pay for bitcoin for its utility in securing the network. When we start taxing the network by adding additional services of somewhat dubious value, we start to increase the cost of the network and, hence, diminish the overall benefit.
+
+Data obtained from the US Mint indicate that the total USD Coins in Circulation (production 1999–2014) was 380,344 tonnes. In future posts, we will examine the costs of paper-, plastic-, and coin-based currencies. However, here we must consider that the perceived cost of bitcoin mining is not limited to analysis of the bitcoin network alone; to understand it, it cannot be investigated in isolation. Any analysis should be performed relative to the alternatives. Indeed, everything in economics is a relative equation that contrast related options. The choice to use bitcoin is not a choice to use bitcoin or nothing; it is the choice to use electronic currency as opposed to the pre-existing system.
+
+It is very easy to pick an isolated event and to use it out of context. In the future, we will continue this discussion as a series of posts on this topic. In this process, we will analyse and link the costs of paper, the costs of metals and coins, the fraud and transactional losses associated with traditional and online banking that currently affect credit cards, and many more related topics.
+
+As F. Bastiat noted in his seminal essay ‘What is Seen and What is not Seen’: ‘I am sorry to upset’ [those] ‘ingenious calculations, especially since their spirit has passed into our legislation. But I beg’ [you] ‘to begin them again, entering what is not seen in the ledger beside what is seen’.
+
+With this foundation, we can start to analyse the costs of bitcoin in contrast to its alternatives.

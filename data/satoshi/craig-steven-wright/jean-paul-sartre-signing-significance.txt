@@ -1,0 +1,86 @@
+I remember reading that quote many years ago, and I have carried it with me uncomfortably ever since. However, after many years, and having experienced the ebb and flow of life those years have brought, I think I am finally at peace with what he meant. If I sign Craig Wright, it is not the same as if I sign Craig Wright, Satoshi.
+
+I think this is true, but in my heart I wish it wasn’t.
+
+I have been staring at my screen for hours, but I cannot summon the words to express the depth of my gratitude to those that have supported the bitcoin project from its inception – too many names to list. You have dedicated vast swathes of your time, committed your gifts, sacrificed relationships and REM sleep for years to an open source project that could have come to nothing. And yet still you fought. This incredible community’s passion and intellect and perseverance has taken my small contribution and nurtured it, enhanced it, breathed life into it. You have given the world a great gift. Thank you.
+
+Be assured, just as you have worked, I have not been idle during these many years. Since those early days, after distancing myself from the public persona that was Satoshi, I have poured every measure of myself into research. I have been silent, but I have not been absent. I have been engaged with an exceptional group and look forward to sharing our remarkable work when they are ready.
+
+Satoshi is dead.
+
+But this is only the beginning.
+
+In the remainder of this post, I will explain the process of verifying a set of cryptographic keys.
+
+To ensure that we can successfully sign and validate messages using the correct elliptic curve parameters in OpenSSL, it is necessary to ensure that the secp256k1 curve is loaded. This is not the default on Centos Linux. I will not detail this process here. I do point out that RPMForge maintains binaries that have already been patched. My recommendation would be to download both the source files from the OpenSSL website and the patch, if, like me you’re running Centos.
+
+I will also point the reader to the following websites for some preliminary reading:
+
+The first stage of this exercise will be to explain hash functions. In the figure below we’re displaying a file called “sn7-message.txt”.
+Script fragment regarding hash functions
+
+The series of hexadecimal values displayed in the figure above represents the SHA256 hash of an input value. A good hash algorithm will produce a large string of values that cannot be determined in advance. The amount of information and possible permutations always exceeds the range of imitations that can be output from any hash function and as a result, collisions will always exist. What makes a hash function such as SHA256 useful and considered “secure” is that it is infeasible given the current state of technology to determine and find a set of input values to the hash function that collides with the same value that is returned as output.
+
+The SHA256 algorithm provides for a maximum message size of (2128−1)\left (2^{128}-1\right )(2​128​​−1) bits of information whilst returning 32 bytes or 256 bits as an output value. The number of possible messages that can be input into the SHA256 hash function totals (2128−1)!\left (2^{128}-1\right )!(2​128​​−1)! possible input values ranging in size from 0 bits through to the maximal acceptable range that we noted above.
+
+In determining the possible range of collisions that would be available on average, we have a binomial coefficient (nk)\binom{n}{k}(​k​n​​) that determines the permutations through a process known as combinatorics [1].
+
+I will leave it to a later post to detail the mathematics associated with collision detection. It is important to note though that there are an incredibly large number of colliding values associated with each hash but that the probability of finding two colliding values or determining them in advance is infinitesimally small. Next week, I will follow-up with a post based on combinatorics and probability theory demonstrating the likelihood of finding collisions for “secure” hashing algorithms.
+Hashing
+
+Hash functions are relatively simple and can be done by hand. This of course belies the complexity that is required to reverse them. A good hash function is simple to use and yet is infeasible to reverse. In the figure below we have run the Linux hash routine “sha256sum”. This simple program will return a unique value that corresponds to a set and fixed input.
+
+In the figure above, we have run this on several files including one that we are using for this OpenSSL signature exercise. The particular file that we will be using is one that we have called Sartre. The contents of this file have been displayed in the figure below.
+
+Digital signature algorithms sign the hash of the message. It is possible to sign the message itself but in signing the hash it is possible to ensure the integrity of the message and validate that the message has not changed. If even a single space or “.” was to be altered, the hash will be radically different to the value returned initially.
+
+In order write this value and save it to a file, we can use the Linux command, xxd. This will write the ASCII values into a hexadecimal binary file. In the command below we would be writing a string of zeros into a file called “file.name”.
+
+In doing this, we can change the string we received as output from the hashing algorithm into a hex encoded file. This will be the message we can sign and verify. It is important to validate the string of numbers that you are putting into the echo command above. If a single digit has been typed incorrectly then the message will not verify.
+Public Keys
+
+In order to verify a digitally signed message we need number of components. These include:
+
+The first part of this, the algorithm is obtained through the installation of OpenSSL with the incorporation of the secp256k1 curve patch. In the step above we covered the creation of a hashed message. In the next section we will cover the use of ECDSA public keys.
+
+For this exercise I am using a public-private key pair that is saved is a PEM file in OpenSSL. David Derosa has written an excellent page defining the creation of an elliptic curve key pair in OpenSSL. In the figure above you can see the particular PEM format public key that is associated with the key pair used in signing the message in this exercise. A thorough reading of David’s page will provide all of the information for the reader detailing how a private key pair used in bitcoin transaction can be formatted as a PEM file. This page details the creation of a new private key and not how an existing private key can be imported into OpenSSL. I shall cover this additional process and demonstrate how an existing private key pair based on elliptic curve cryptography can be imported into a ASN.1 format for use with OpenSSL directly.
+
+The command to export our public key is given below.
+
+The string returned is the public key value used by programs including bitcoin for the verification and addressing of the signing function.
+
+Casascius has developed a nifty tool that will help you decode this public key and return the associated bitcoin address that it maps to. We have a blog on this site that will help you understand the technical aspects of how bitcoin addresses derived from the public and private keys. Several online tools are also available that can calculate the bitcoin address from the public key.
+Signing
+
+The process of digitally signing a message using OpenSSL requires that the party signing the message has access to the private key. I will document and cover this process further in a later post. In recent sessions, I have used a total of 10 private keys are associated with bitcoin addresses. These were loaded into Electrum, an SPV wallet. In one of the exercises, I signed messages that I will not detail on this post for a number of individuals. These were not messages that I personally selected, but rather ones that other people had selected. In some instances, we ensure the integrity of the process by downloading a new version of the electrum program, installing it on a fresh laptop that has just been unboxed having been purchased that afternoon and validating the signed messages on the new machine.
+
+The version of electrum that I run is on Centos Linux v7 and runs via Python. For the exercise I noted above we used Windows 7 and Windows 10 on different occurrences.
+Signature Verification
+
+The final component that we need to cover is the signature itself. We will be using the following command to convert our base64 format signature into a file format that can be loaded into OpenSSL.
+
+The signature filed we will be verifying contains the following data.
+
+In the figure below we display the signature file as it is stored on the computer that was used for this process and we see the result of the verification exercise. In saving this file, you could cut-and-paste the encoded signature and insert it into a saved file using an editor program such as vim. Not that I’m looking at getting into a holy war over the choice of editing programs.
+
+There are two possible outputs from this process that concern us. OpenSSL will either return as “Verified OK” where we have validly verified the signature. All of the information that is required to import the public key, the message and the message signature used in this post is available on this post.
+
+I could have simply signed a message in electrum as I did in private sessions. Loading such a message would have been far simpler. I am known for a long history of “being difficult” and disliking being told what “I need to do”. The consequence of all of this is that I will not make it simple.
+Some scripts
+
+In order to simplify this process, I have included two shell scripts. For variations on scripts like these, please visit a site such as the one hosted by Enrico Zimuel. This site is not particularly focused on elliptic curve cryptography but it is not too difficult to update his code for the use on a bitcoin based system.
+Signing
+
+For you to try and test this at your leisure I have included the signing script below. To use this script, the input consists of the variable <file> which signifies the file that you desire to sign using a selected <private_key> under your control. In this command, the <private_key> variable represents the file containing the private key to be used in signing the message and which will output the signature.
+
+The output from this shell script consists of the signature saved as a Base64 encoded file. This will be saved to your hard drive or other location using Base64 format as a file named <signature.der>.
+
+We can use a similar process to verify the signature we have created using the script that I have included below.
+
+In this commandline, the variable <file> is used to signify the name of the file we seek to verify. The variable <signature> represents the file where we have saved the signature (and coded using Base64), and the final variable, <public_key> contains the PEM formatted public key. We use these files together and if they are valid and correct they will allow us to successfully to verify the digital signature.
+
+The signature format used within bitcoin is based on DER encoding. Other methods have been applied in the original code has changed significantly in the last seven years. The choice of DER encoding for the signatures and other information was based on a desire to ensure that information could be shared between incompatible systems. It is not the most efficient means of storing information but it does allow for disparate systems to communicate efficiently.
+
+Like many open source projects, OpenSSL is poorly documented in many areas. bitcoin addressing and the storage of key pairs could have been far more efficient and the code has been updated to ensure that this is now the case. But like every new system it is far better to have something that is working on something that is not available but is aiming at perfection.
+
+Security is always a risk function and not an absolute.

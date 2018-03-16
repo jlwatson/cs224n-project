@@ -1,0 +1,98 @@
+Although several good Bitcoin libraries are available, to ensure the compatibility and security of software using Bitcoin, it is important to understand how a Bitcoin address is generated. In this post, we show how to generate a Bitcoin address step by step, covering the various Bitcoin address formats as well.
+
+When writing software that uses Bitcoin, it is important to understand the process to ensure the security and compatibility of the transactions. In this post, we show the reader how a Bitcoin address is generated step by step.  The input field within the generator page generates an example bitcoin private key and public address.  Together, these enable secure bitcoin transactions.
+
+Here, we use several of the JavaScript libraries that are publicly available.
+Random numbers
+
+Random number generation is important because it is the basis of most cryptography. When numbers are not suitably random, the amount of entropy is low, and it becomes simple to guess the private keys associated with your publicly known key. The most commonly function used on many systems is Math.random(), which generates predictable numbers that can be attacked. Many alternatives including hardware based-RNGs exist, but we will discuss good random number generation in detail a later article. Ultimately, the security of your Bitcoin address relies on ensuring that you have a secure random number generator.
+
+This post takes you through the creation of a Bitcoin address, assuming that a good random number has already been selected. One widely deployed method of creating a Bitcoin address relies on the use of matched word phrases. These are easier for people to remember, but also need to be difficult to guess.  This is the approach used within the Bitcoin Address Generator.
+Bitcoin keys, addresses, and formats
+
+Bitcoin uses a public key cryptographic scheme based on elliptic curve cryptography.  This scheme is more efficient than several other widely deployed public key systems such as RSA.
+
+Spec. 2.2.1 provides the generalized equation used in all elliptic curve cryptography:
+
+Here, the elliptic curve domain is defined as a sextuple of the form:
+
+The particular curve deployed within Bitcoin is defined under the secp256k1 standard, which is based on the use of Koblitz curves. In these curves, our sextuple parameters are defined using the following values:
+
+Inserting these values into the equation above gives us the final reduced form equation used in Bitcoin:
+
+In the section below, we take you through the creation of a Bitcoin private key and its associated public keys given a suitable random number.
+
+The private key is the part of the key pair that needs to remain secret. This key is used to sign messages, including those that authorize the movement of bitcoins or, more accurately, the creation of a transaction that assigns entries in the blockchain ledger to another address.
+
+In the generator application, there is a passphrase entry box.
+
+A private key ddd is generated from the passphrase consisting of an integer that lies within the range [1,(n−1)]\left[ {1,\left( {n - 1} \right)} \right][1,(n−1)], where nnn is 22562^{256}2​256​​, which is the largest number that can be returned by the SHA256 hash function.
+Code fragment
+
+The elliptic curve key pair that we create takes the form of (d,Q)\left( {d,Q} \right)(d,Q) where QQQ represents the public key that we create later.
+
+Private keys have been standardized to use a format defined under the Wallet Import Format (WIF).
+
+The first part of this format is to take the number we created in step 1.2 and add a version number.  This is done by adding a byte of hex value 0x80 to the start of the WIF format private key.
+
+A list of the address prefixes is available from the Bitcoin wiki.
+
+In the WIF, a compression flag is also appended to the private key. The least significant bit of a byte added to the end of the key functions as the compressed private key flag and takes the following values:
+
+Some of the details for this specification are defined here.
+
+When Bitcoin was first created, compressed keys were not used. This resulted in a larger public key (65 bytes rather than the compressed 33 byte format). There are no compatibility or security issues resulting from using compressed keys. The fact that keys could be compressed was simply missed because of the poor documentation on OpenSSL at the time. Some minor additional computation is required, but this is minimal.
+
+The original format used to represent private keys was a Base58 form (detailed later) that would typically begin with the value ”5.” In the Bitcoin Address Generator as the private key is incorporated into the compressed encoding of the public key, it is changed to incorporate an extra 0x01 byte at the end. This results in a Base58 form that starts with a “K” or “L.”
+
+Later versions of this page will update the code to allow for this change and to represent the keys on the page in both formats.
+
+Finally, a checksum is appended to the end of the string. This is calculated using the first four bytes of a double SHA256 hash process that takes the private key of whatever is being validated by the checksum.
+Code fragment
+
+Lastly, an encoding scheme known as Base58 is used to convert the data from binary to text. This final form of a private key is easier to manage. In this format, the code is able to be used in a wide variety of applications.
+
+As a result of prepending the version number, the available range of private keys in the Base58 encoded format is limited to the following:
+
+The lower value is the one that you will notice in the form on this page when no values have been entered. On the Base58 proposal page in the Bitcoin wiki, we can see some other possible ranges for alternative private key formats.
+
+The elliptic curve public key is generated using our private key generated in step 1.2.  This key Q=(xQ,yQ)Q = \left( {{x_{Q}},{y_{Q}}} \right)Q=(x​Q​​,y​Q​​) forms the point Q=dGQ=dGQ=dG.
+
+In order to obtain the public key, we need to multiply the private key by the elliptic curve point generator. The public key is formed from the x and y coordinates of a point on the elliptic curve, and is a 65-byte long value consisting of a leading 0x04 and x and y coordinates of 32 bytes each.
+
+The full public key is defined as kpubk_{pub}k​pub​​ and this is shown in step 3.1.
+
+From this value, we can obtain the x and y coordinates as demonstrated in step 3.2.
+
+The code to generate the public key co-ordinates is as follows:
+
+Javascript fragment to plot public key co-ordinates
+
+The first versions of the Bitcoin client used the public key directly. Bitcoin addresses are a simpler method to allow people to exchange bitcoins. A Bitcoin address consists of a Base58 encoded string of a 25-byte binary address. An example of this is shown in final Base58 encoding in step 5.3.
+
+All standard addresses start with a “1.” Other formats are available, including multisig addressing, which is not covered in this post.
+
+We use the parity of our y coordinate to calculate a flag that is added to the front of our string.
+
+If the y coordinate or value is odd, we add 0x03. If it is even, we add 0x02 in front of the complete x coordinate. We use this string to represent the public key.
+
+An alternative string is created by taking the corresponding public key generated above as a string formed using:
+
+To create the address, we take the value created in Step 4.2 and hash the public key twice.  Step 4.3 applies a SHA256 hash, and step 4.4 applies a RIPEMD160 hash over the result.
+
+This obfuscates the public key as well as making it simpler to use.  There have been many attacks against hashing algorithms. Some, such as MD5 and SHA1, have been widely attacked and shown to be vulnerable to collision attacks. However, no hash has been shown to have an attack that aligns with the hash of another family of algorithms. As a result, it is infeasible for an attack to succeed against one family of hash algorithms used simultaneously with another family.
+
+The double hash shown below should be robust to length extension attacks.
+
+The version is added to the front of the hash value. The public key version number that is added to the address calculation is not the same as the one used in the private key. Details are available here.
+
+The checksum is calculated in the same manner as in step 2.3 and appended to the end of the hash value.
+
+The code to apply the double hash, prepend the version and calculate and append the checksum is as follows:
+
+Code fragment in javascript to generate and encode a private key
+
+The hashed value with the prepended version and appended checksum is encoded using the Base58 process. This ensures that the final address is easy to read and copy.
+Conclusion
+
+In this post, we have stepped through the creation of a Bitcoin address with its associated public and private keys. You should now be able to see the differences between the address formats and how the values are calculated at each stage of the process. In later posts, we will cover the creation of secure random numbers and bitcoin transactions.
