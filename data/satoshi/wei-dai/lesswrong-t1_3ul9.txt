@@ -1,0 +1,3 @@
+&gt;"Hey, we have cryptanalytic methods that can infer any cipher, key, or plaintext unless you intelligently destroy as many patterns in the ciphertext as you can."
+
+Where did you get this? In modern cryptanalysis, it's counted as a win for the cryptanalyst if he or she can find *any* pattern in the ciphertext (i.e., give an algorithm that can distinguish a ciphertext from a random string with probability &gt; .5). But even when this is true, it's usually not the case that one can then go on to infer the full key or plaintext.

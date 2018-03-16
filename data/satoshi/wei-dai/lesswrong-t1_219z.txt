@@ -1,0 +1,5 @@
+Since UDT receives environment parametrized by the source code, there is no way to tell what agent's source code is, and so there is no way of stating that environment contains another instance of agent's source code or of a program that does the same thing as agent's program, apart from giving the explicit dependence already. Explicit parametrization here implies absence of information about the parameter. UDT is in a strange situation of having to compute its own source code, when, philosophically, that doesn't make sense. (And it also doesn't know its own source code when, in principle, it's not a big deal.)
+
+So the question of whether UDT is able to work with slightly different source code passed to Omega, or the same source code labeled differently, is not in the domain of UDT, it is something decided "manually" before the formal problem statement is given to UDT.
+
+**Edit**: This is not quite right. See [Wei Dai's clarification](http://lesswrong.com/lw/294/what_is_wei_dais_updateless_decision_theory/21c0) and [my response](http://lesswrong.com/lw/294/what_is_wei_dais_updateless_decision_theory/21ci).

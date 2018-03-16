@@ -1,0 +1,3 @@
+&gt; Eliezer says that when he uses words like "moral", "right", and "should", he's referring to properties of a specific computation. That computation is essentially an idealized version of himself (e.g., with additional resources and safeguards).
+
+When we use words like "right", we don't refer to "right", we refer to particular heuristics that allow us to make right decisions. These heuristics are indeed properties of us, and improved heuristics are properties of idealized versions of us. But "right" itself is not a property of humans, or the kind of thing we can build or imagine. It's a different kind of referent from the usual concepts, for some reason. We don't refer to "right", we use it through particular heuristics.

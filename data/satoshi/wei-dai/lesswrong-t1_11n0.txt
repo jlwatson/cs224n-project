@@ -1,0 +1,7 @@
+&gt; Suppose what you say is correct, that the Winning Thing is to play cooperate in one-shot PD. Then what happens when some player happens to get a brain lesion that causes him to unconsciously play defect without affecting his AI building abilities? He would take everyone else's lunch money.
+
+Possibly.  But it has to be an unpredictable brain lesion - one that is expected to happen with very low frequency.  A predictable decision to do this just means that TDTs defect against you.  If enough AI-builders do this then TDTs in general defect against each other (with a frequency threshold dependent on relative payoffs) because they have insufficient confidence that they are playing against TDTs rather than special cases in code.
+
+&gt; Or if he builds his AI to play defect while everyone else builds their AIs to play cooperate, his AI then takes over the world.
+
+*No one* is talking about building AIs *to cooperate*.  You do not want AIs that *cooperate* on the one-shot true PD.  You want AIs that cooperate if and only if the opponent cooperates if and only if your AI cooperates.  So yes, if you defect when others expect you to cooperate, you can pwn them; but why do you expect that AIs would expect you to cooperate (conditional on their cooperation) if "the smart thing to do" is to build an AI that defects?  AIs with good epistemic models would then just expect other AIs that defect.

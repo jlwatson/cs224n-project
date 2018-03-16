@@ -1,0 +1,12 @@
+Maybe this is a good place to ask something I wonder about: does Aumann's agreement theorem really have practical significance for disputes between people?
+
+It assumes that the agents involved are Bayesian reasoners, have the same priors, and have common knowledge of each other's posteriors. The last condition might hold for people who disagree about something (although arguers routinely misinterpret each other, so maybe even that's too optimistic), but I'd expect people in a serious argument to have different priors most of the time, and [nobody is a perfect Bayesian reasoner](http://wiki.lesswrong.com/wiki/Bias). As far as I can tell, that means two of the theorem's prerequisites are routinely violated when people disagree, and the one that's left over is often arguable too.
+
+This makes me sceptical when I see people refer to "Aumanning" or the irrationality of agreeing to disagree. Still, there are two obvious ways I could be going wrong here:
+
+1. not knowing about a generalization of AAT that weakens its assumptions (although if so it would be less confusing to stop referring to Aumann's original theorem alone)
+2. being mistaken about the implausibility of AAT's assumptions
+
+[The theorem's Wikipedia page](https://secure.wikimedia.org/wikipedia/en/wiki/Aumann%27s_agreement_theorem) references papers by Scott Aaronson &amp; Robin Hanson. Aaronson's doesn't sound relevant (it seems to be about the rate of agreement, not whether eventual agreement is assured), but Hanson's looks like it might drain the force out of the common priors assumption by arguing that rational Bayesians should always have the same priors.
+
+I haven't read Hanson's paper, but even if I assume that I don't have to worry about the equal priors assumption, I still have to contend with the assumption that the arguers are Bayesian. I can only think of one way for someone in an argument to be sure that the others calculated their posteriors Bayesianly: by sitting down and explicitly re-deriving them from everybody's likelihoods. *But that defeats the point of the theorem!* I feel like I'm missing something here but can't see what.

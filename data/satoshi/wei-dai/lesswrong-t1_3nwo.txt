@@ -1,0 +1,5 @@
+I see several people telling you to definitely choose a first rank university. I'm not sure I agree.
+
+Here's my experience. I applied to just MIT and my state university (University of Washington). I got on MIT's waiting list but was ultimately not accepted, so went to UW. I would certainly have gone to MIT had I been accepted, but my thinking now is that if I did that, I would not have had enough free time in college to write [Crypto++](http://www.cryptopp.com/) and think about anonymous protocols, Tegmark's multiverse, anthropic reasoning, etc., and these spare-time efforts have probably done more for my "career" than the MIT name or what I might have learned there.
+
+So if you are someone who can use free time productively, you might want to consider going to a college where you don't have to spend too much effort on your classes, where, face it, a lot of the stuff you learn will ultimately turn out to be not very useful for what you end up doing.

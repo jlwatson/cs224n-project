@@ -1,0 +1,9 @@
+&gt;I would argue that anthropic considerations should not move us on such logical facts.
+
+Unless you move fully to UDT (which you don’t seem willing to do, at least for the purposes of this post), such a rule will lead you astray. Consider this thought experiment:
+
+Omega appears and says that a minute ago he generated a physically random number R between 10^9 and 10^10, and if the R-th bit of π is 1, made 100 copies of Earth and scattered them throughout the universe. (He’s appearing to you in all 100 copies if that’s the case.) A minute from now, he will reveal R to you, and then you’ll be given an opportunity to bet $100 on the R-th bit of π being 1 at 1:1 odds.
+
+What do you want your future self to do? If you apply SSA/SIA now, you would conclude that you’re likely to live in a universe where Omega made 100 copies of Earth, in other words a universe where the number R that Omega generated is such that the R-th bit of π is 1. So you have a greater expected utility if your future self were to take the bet.
+
+But once you learn R, and if you follow the proposed rule, you’d become indifferent between taking the bet and not taking it, because whatever R turns out to be, you’d think that the R-th bit of π being 1 has probability .5, since that’s a reasonable prior and you’re not willing to let anthropic considerations move you on that purely logical fact.

@@ -1,0 +1,7 @@
+&gt; What's your estimate? And what do you think the first such choices will be?
+
+I think that we are facing some issues all of the time (e.g. some of these questions probably bear on "how much should we prioritize fast technological development?" or "how concerned should we be with physics disasters?" or so on), but that it will be a long time before we face really big expected costs from getting these wrong. My best guess is that we will get to do many-centuries-of-current-humanity worth of thinking before we really need to get any of these questions right.
+
+I don't have a clear sense of what the first choices will be. My view is largely coming from not seeing any serious candidates for critical choices.
+
+Anything to do with expansion into space looks like it will be very far away in subjective time (though perhaps not far in calendar time). Maybe there is some stuff with simulations, or value drift, but neither of those look very big in expectation for now. Maybe all of these issues together make 5% difference in expectation over the next few hundred subjective issues? (Though this is a pretty unstable estimate.)

@@ -1,0 +1,7 @@
+I think the following is the unique [proper equilibrium](http://en.wikipedia.org/wiki/Proper_equilibrium) of this game:
+
+Player One plays A with probability 1-ϵ, B with probability 1/3 ϵ, C with probability 2/3 ϵ. Player Two plays X with probability 2/3 and Y with probability 1/3.
+
+[JGWeissman](http://lesswrong.com/lw/kkb/a_simple_game_that_has_no_solution/b4r7) had essentially the right idea, but used the wrong terminology.
+
+ETA: I've changed my mind and no longer think the proper equilibrium solution makes sense for this game. See later in this thread as well as [this comment](http://lesswrong.com/lw/kkb/a_simple_game_that_has_no_solution/b513) for the explanation.

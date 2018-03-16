@@ -1,0 +1,17 @@
+&gt; The CMB is just microwave radiation right? So reflective shielding can block most of that.
+
+I'm afraid it can't. The 'shielding' itself would soon reach equilibrium with the CMB and begin emitting at 2.7 K. It makes no difference what it's made of. You can't keep an object cooler than the background temperature indefinitely without expending energy. If you could, you would violate conservation of energy.
+
+And, again, the process of generating that energy would produce a lot of heat and preclude stealth.
+
+&gt; Some current telescopes cool down subcomponents to very low temperatures without requiring large fusion reactors.
+
+But the gross mass of the telescope is never lower than (or even equal to) the background temperature. JWST, for instance, is designed for 50 K operating temperature (which emits radiation at about 100,000 times the background level according to the Stefan-Boltzmann law).
+
+&gt; If the physical limits of passive shielding are non-generous, this just changes the ideal designs to use more active cooling than they otherwise would and limit the ratio of quantum computing stuff to other stuff
+
+Again, this would just make the problem worse, as a decrease in entropy in one part of the system must be balanced by a larger increase in entropy elsewhere. I'm talking about the possibility of stealth here (while maintaining large-scale computation).
+
+&gt;  but that budget can still be very small and the final device temperature could even be less than CMB.
+
+This is a non-obvious statement to me. It seems that a computation on the level you're describing (much larger in scale than the combined brainpower of current human civilization by orders of magnitude) would require a large amount of mass and/or energy and would thus create a very visible heat signature. It would be great if you could offer some calculations to back up your claim.

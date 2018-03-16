@@ -1,0 +1,16 @@
+Originally, it sounded like you were making one of these claims:
+
+- (a) There is no semantic candidate for the word 'fairness.' It's just noise attempting to goad people into behaving a certain way.
+- (b) No semantic candidate for 'fairness' can be rendered logically precise.
+- (c) Even if we precisify a candidate meaning for 'fairness,' it won't really be a Logical Idea, because the subject matter of morality is intrinsically less logicy than the subject matter of mathematics.
+- (d) *Metaphysically* speaking, there are quantitative universals or Forms in Plato's Heaven, but there are no moral universals or Forms.
+- (e) No semantic candidate for 'fairness' can avoid including an argument place for a judge-of-fairness.
+- (f) No *logically precise* semantic candidate for 'fairness' can avoid including such an argument place.
+
+All of these claims are implausible. But now it sounds like you're instead just claiming: (g) There are multiple semantic candidates for 'fairness,' and I'm not totally clear on which one Eliezer is talking about. So I'd appreciate it if he were a bit clearer about what he means.
+
+If (g) is all you meant to argue this whole time, then we're in agreement. Specificity is of course a virtue.
+
+&gt; Saying "geometry with the parallel postulate is Euclidean" is not regarded a power grab because the axioms and their consequences are useful or useless independent of the label ascribed to them.
+
+Mathematical definitions are a power grab just as moral definitions are; the only difference is that people *care* more about the moral power-grabs than about the mathematical ones. Mathematical authorities assert their dominance, assert their right to participate in establishing General Mathematical Practice regarding definitions, inference rules, etc., every time they endorse one usage as opposed to another. It's only because their authority goes relatively unchallenged that we don't see foundational disputes over mathematical definitions as often as we see foundational disputes over moral definitions. Each constrains practice, after all.

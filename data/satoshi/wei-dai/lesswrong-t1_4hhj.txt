@@ -1,0 +1,20 @@
+I do accept that 'wants' imply 'oughts'. It's an oversimplification, but the thought is that statements such as 
+
+* X's wanting that X eat an apple implies (many other things being equal) that X ought to eat an apple.
+
+are intuitively plausible. If wanting carries no implications for what one ought to do, I don't see how motivation can get off the ground.
+
+Now, if we have 
+
+1) wanting that P implies one ought to do Q, 
+
+ and
+
+2) being in physical state ABC implies wanting that P
+
+then, by transitivity of implication, we get
+
+3) being in physical state ABC implies one ought to do Q
+
+And this is just the kind of implication I'm trying to show is problematic.
+

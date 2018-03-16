@@ -1,0 +1,11 @@
+&gt; Private_messaging earned a "Do Not Feed!" tag itself through consistent trolling
+
+What does it matter what his motives are, ulterior (trolling) as they may be, as long as he raises salient points and/or provides at least thought-provoking insights with an acceptable ratio?
+
+If I were to try to construct some repertoire model of him (e.g. signalling intellectual superiority by contradicting the alphas, seems like a standard contrarian mindset), it might be a good match. But frankly: Why care, his points should stand or fall on their own merit, regardless of why he chose to make them.
+
+He raised some excellent points regarding e.g. Solomonoff induction that I've yet to see answered, (e.g. accepting simple models with assumed noise over complex models with assumed less noise, given the enourmously punishing discounting for length that may only work out in theoretical complexity class calculations and Monte Carlo approximations with a trivial solution) and while this is a CS dominated audience, additional math proficiency should be highly sought after -- especially for contrarians, since it makes their criticisms that much more valuable.
+
+Is he a consistent fountain of wisdom? No. Is anyone? 
+
+I will not defend sockpuppet abuse here, though, that's a different issue and one I can get behind. Don't take this comment personal, the sentiment was spawned from when he just had 2 known accounts but was already met with high levels of "do not feed!", your comment just now seemed as good a place as any to voice it.

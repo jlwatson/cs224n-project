@@ -1,0 +1,7 @@
+&gt; But even one epistemic error is enough to cause an arbitrarily large loss in utility. 
+
+This is always true.
+
+&gt; Since you can't update away this belief until it's too late, it does seem important to have "reasonable" priors instead of just a non-superexponentially-tiny probability to "induction works".
+
+I'd say more that besides your one reasonable prior you also need to not make various sorts of specifically harmful mistakes, but this only becomes true when instrumental welfare as well as epistemic welfare are being taken into account.  :)

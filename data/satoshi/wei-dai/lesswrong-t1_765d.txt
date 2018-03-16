@@ -1,0 +1,3 @@
+&gt; We don't see a lot of this today...it's not even close to 2x much less 21x.
+
+We see plenty of this today. Every processor you use with multiple slower cores rather than a single core screaming at 4ghz is making the slow parallel vs fast serial tradeoff. Processor migration and power-saving modes are other examples where the tradeoff is made dynamically ARM processors are hugely abundant in embedded and mobile spaces, and the ARM design is an example of trading off CPU time for other things like reduced transistor count or (especially) power consumption. ARM or Atom chips are making inroads into datacenters because power consumption &amp; cooling are becoming such issues, and we can expect parallelisation to continue for power saving.

@@ -1,0 +1,7 @@
+&gt;Results are revealed and tallied up, and a budget will be drawn up accordingly.
+
+I'm having trouble figuring out what algorithm you have in mind for drawing up the budget from the voting results. Please be more specific? For example, what happens if everyone votes to "cut" the same items, as a result of which the "cut" items do not add up to $D?
+
+&gt;Is there a meta-game to use to build such games?
+
+How to build such games is studied under the name [mechanism design](http://en.wikipedia.org/wiki/Mechanism_design), so I guess one could consider that whole academic field to be such a meta-game.

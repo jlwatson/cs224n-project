@@ -1,0 +1,5 @@
+Still, universal prior does seem to be a universal way of eliciting what the human concept of prediction (expectation, probability) is, to the limit of our ability to train such a device, for exactly the [reasons](http://lesswrong.com/lw/2id/metaphilosophical_mysteries/2bvp?c=1) Eliezer gives: whatever is the concept we use, it's in there, among the programs universal prior weights.
+
+ETA: On the other hand, the concept thus reconstructed would be limited to talk about observations, and so won't be a general concept, while human expectation is probably more general than that, and you'd need a general logical language to capture it (and a language of unknown expressive power to capture it faithfully).
+
+ETA2: Predictions might still be a necessary concept to express the *decisions* that agent makes, to connect formal statements with what the agent actually does, and so express what the agent actually does as formal statements. We might have to deal with reality because the initial implementation of FAI has to be constructed specifically in reality.

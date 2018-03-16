@@ -1,0 +1,12 @@
+Wei_Dai:
+&gt; LW does seem to be working to some extent, in the core areas related to rationality. 
+
+What would be the concrete examples you have in mind, if by "working" we mean making progress in some hard area, or at least doing something that might plausibly lead to such progress (i.e. your above expressed benchmark of success)? 
+
+The only things I can think of are occasional threads on mathy topics like decision theory and AI cooperation, but in such cases, what we see is a clearly distinguished informal group of several people who are up to date with the relevant knowledge, and whose internal discussions are mostly impenetrable to the overwhelming majority of other participants here. In effect, we see a closely-knit expert group with a very high bar for joining, which merely uses a forum with a much wider membership base as its communication medium. 
+
+I don't think this situation is necessarily bad, though it does generate frustration whenever non-expert members try joining such discussions and end up just muddling them. However, if the goal of LW is defined as progress in hard areas -- let alone progress of wider-society-influencing magnitude -- then it is an unavoidable conclusion that most of what actually happens here is sheer dead weight, imposed by the open nature of the forum that is inherently in conflict with such goals. 
+
+&gt; Also, I believe Math Overflow has previously been cited as another such site, although I'm not personally familiar with it.
+
+I wouldn't say that Math Overflow is a good counterexample to my claims. First, from what I understand, it's a place where people exchange information about the existing mathematical knowledge, rather than a community of researchers collaborating on novel problems. Second, it requires extremely high qualifications from participants, and the discourse is rigorously limited to making technical points strictly pertinent to the topic at hand. That's an extremely different sort of community than LW, which would have to undergo a very radical transformation to be turned into something like that. 

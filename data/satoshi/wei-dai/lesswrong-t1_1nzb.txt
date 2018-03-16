@@ -1,0 +1,5 @@
+&gt;It is attested by numerous sources that this experience, being the first person to solve a major mystery, is a tremendous high.
+
+I would guess that most people who feel this high haven't *really* solved a major mystery, but just *think* that they did, because for every person who truly solves a big mystery, there are many others who erroneously think that they did. For me, whenever I think I may have solved some problem, I'm always worried that I have made a mistake in my reasoning somewhere, and it takes days to years to convince myself that I was right after all, so I never really get that big momentary high. (One exception is when I'm doing crypto optimization, where I can easily verify the correctness of some idea just by benchmarking the resulting code.)
+
+I think I'm motivated to work on a problem mostly because I want to get rid of a feeling of confusion, and I'd be happy to let others do the work for me and just learn from textbooks. So I'm quite alarmed at Eliezer's suggestion that in the future, knowledge should be hidden from people to make their life more fun.

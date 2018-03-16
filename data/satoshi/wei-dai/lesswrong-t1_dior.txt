@@ -1,0 +1,20 @@
+&gt; How do you expect this to happen?
+
+I think there are two mechanisms:
+
+* Public image is important to companies like Facebook and Google. I don't think that they will charge for a user-aligned version, but I also don't think there would be much cost to ad revenue from moving in this direction. E.g. I think they might cave on the fake news thing modulo the proposed fixes mostly being terrible ideas. Optimizing user preferences may be worth it in the interests of a positive public image alone.
+* I don't think that Facebook ownership and engineers are entirely profit-focused, they will sometimes do things just because they feel like it makes the world better at modest cost. (I know more people in Google and am less informed about FB.)
+
+Relating the two, if e.g. Google organized its services in this way, if the benefits were broadly and understood, and if Facebook publicly continued to optimize for things that its users don't want optimized, I think it could be bad for the image of Facebook (with customers, and especially with hires).
+
+&gt; I'd be quite surprised if any of these happened.
+
+Does this bear on our other disagreements about how optimistic to be about humanity? Is it worth trying to find a precise statement and making a bet?
+
+I'm probably willing to give &gt; 50% on something like: "Within 5 years, there is a Google or Facebook service that conducts detailed surveys of user preferences about what content to display and explicitly optimizes for those preferences."  I could probably also make stronger statements re: scope of adoption.
+
+&gt; And why isn't it a bad sign that Facebook hasn't already done what you suggested in your post?
+
+I think these mechanisms probably weren't nearly as feasible 5 years ago as they are today, based on gradual shifts in organization and culture at tech companies (especially concerning ML). And public appetite for more responsible optimization has been rapidly increasing. So I don't think non-action so far is a very strong sign.
+
+Also, Facebook seems to sometimes do things like survey users on how much they like content, and include ad hoc adjustments to their optimization in order to produce more-liked content (e.g. downweighting like-baiting posts). In in some sense this is just a formalization of that procedure. I expect in general that formalizing optimizations will become more common over the coming years, due to a combination of increasing usefulness of ML and cultural change to accommodate ML progress.

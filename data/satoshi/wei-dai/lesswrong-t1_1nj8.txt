@@ -1,0 +1,6 @@
+The next few posts on my blog are going to be basically about approaching this problem (and given the occasion, I may as well commit to writing the first post today).
+
+You should read \[*\] to get a better idea of why I see "preference over all mathematical structures" as a bad call. We can't say what "all mathematical structures" is, any given foundation only covers a portion of what we could invent. As the real world, mathematics that we might someday encounter can only be completely defined by the process of discovery (but if you capture this process, you may need nothing else).
+
+--  
+\[*\] S. Awodey (2004). `[An Answer to Hellman's Question: 'Does Category Theory Provide a Framework for Mathematical Structuralism?](http://www.andrew.cmu.edu/user/awodey/preprints/awodeyVhellman.pdf)". Philosophia Mathematica 12(1):54-64.

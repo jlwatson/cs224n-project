@@ -1,0 +1,1 @@
+To be precise, in every case where the environment only cares about your actions and not what algorithm you use to produce them, any algorithm that can be improved by randomization can always be improved further by derandomization.

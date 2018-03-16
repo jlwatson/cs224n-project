@@ -1,0 +1,17 @@
+(sigh) Sure, agreed... if our intention is to build an FAI to do what is right, it's important that "what is right" mean something. And I could ask why we should build an FAI that way, and you could tell me that that's what it means to be Friendly, and on and on.
+
+I'm not trying to be pedantic here, but this does seem sort of pointlessly circular... a discussion about words rather than things. 
+
+When a Jewish theist says "God has commanded me to save that child," they may be entirely sincere, but that doesn't in and of itself constitute evidence that "God" has a referent, let alone that the referent of "God" (supposing it exists) actually so commanded them. 
+
+When you say "It's right for me to save that child," the situation _may_ be different, but the mere fact that you can utter that sentence with sincerity doesn't constitute evidence of difference.
+
+If we really want to save children, I would say we should talk about how most effectively to save children, and design our systems to save children, and that talking about whether God commanded us to save children or whether it's right to save children adds nothing of value to the process.
+
+More generally, if we actually knew everything we wanted, as individuals and groups, then we could talk about how most effectively to achieve _that_ and design our FAIs to achieve _that_ and discussions about whether it's right would seem as extraneous as discussions about discussions about whether it's God-willed. 
+
+The problem is that  we _don't_ know what we want. So we attach labels to that-thing-we-don't-understand, and over time those labels adopt all kinds of connotations that make discussion difficult. The analogy to theism applies here as well.
+
+At some point, it becomes useful to discard those labels.
+
+A CEV-implementing FAI, supposing such a thing is possible, will do what we collectively want done, whatever that turns out to be. A FAI implementing some other strategy will do something else. Whether those things are right is just as useless to talk about as whether they are God's will; those terms add nothing to the conversation. 

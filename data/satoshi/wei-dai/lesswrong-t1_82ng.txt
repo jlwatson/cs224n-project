@@ -1,0 +1,9 @@
+Here's my understanding of the post:
+
+&gt;Consider two types of possible FAI designs. A Type 1 FAI has its values coded as a logical function from the time it's turned on, either a standard utility function, or all the information needed to run a simulation of a human that is eventually supposed to provide such a function, or something like that. A Type 2 FAI tries to learn its values from its inputs. For example it might be programmed to seek out a nearby human, scan their brain, and then try to extract a utility function from the scan, going to a controlled shutdown if it encounters any errors in this process. A human is more like a Type 1 FAI than a Type 2 FAI so it doesn't matter that there is no God/Stone Tablet out in the universe that we can extract morality from.
+
+If this is fair, I have two objections:
+
+1. When humans are sufficiently young they are surely more like a Type 2 FAI than a Type 1 FAI. We're obviously not born with Frankena's list of terminal values. Maybe one can argue that an adult human is like a Type 2 FAI that has completed its value learning process and has "locked down" its utility function and won't change its values or go into shutdown even if it subsequently learns that the original brain scan was actually full of errors. But this is far from clear, to say the least.
+
+2. The difference between Type 1 FAI and Type 2 FAI (which is my understanding of the distinction the OP's trying to draw between "logical" and "physical") doesn't seem to get at the heart of what separates "morality" from "things that are not morality". If meta-ethics is supposed to make me less confused about morality, I just can't call this a "solution".

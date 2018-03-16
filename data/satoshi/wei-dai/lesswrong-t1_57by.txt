@@ -1,0 +1,17 @@
+&gt;I'd be interested to know if you think your own efforts on LW are less appreciated than other people's. 
+
+If you are asking whether I believe my status here or my karma score is __unfairly__ low, the answer is no.
+
+When I wrote in great great grandparent that "I have been feeling that my efforts on LW are unappreciated," I meant that my karma score and my perception of my own status here is insufficiently high to continue to motivate me to point out errors here, give thoughtful answers to questions here, etc.
+
+Parenthetically, I would probably have an easier time motivating myself to continue participating on LW if LW were not growing with the result that comments by people I have gotten to know and like, such as jimrandomh and yourself, are mixed in with many comments by people I know nothing about. Of course there is significant global expected utility in attracting many new people to LW that trumps my personal preferences.  __ADDED__. "Continuing to participate" was the wrong phrasing because I will almost certainly keep on using LW to help me learn. The thing I am having trouble motivating myself to continue to do (partly because there's no objective indication I'm doing significant good) is to use LW help others learn, help others realize there is a flaw in their plan to improve the world, etc.
+
+&gt;I'm curious what you had in mind when you said "replace ... with some other way for me to try to improve the world".
+
+Well, I could spend the time I would have spent trying to help people on LW on open-source software development. I am confused about what you are after with this question, so I won't say more yet.
+
+&gt;I would tend to think that pointing out errors in LW comments is one of the better deals currently available in terms of social reward per unit of effort
+
+When I started to do it, I believed that it is one of the better deals in terms of expected increase in global utility per unit of my effort, but the lowness of the rate at which I am being upvoted contradicts that original belief, and it would be unwise of me to ignore that metric of how effective I am at achieving what I set out to achieve given that I can find other ways of improving the world that also have good metrics attached to them that I might do better at.
+
+Finally, I declare Crocker's rules.

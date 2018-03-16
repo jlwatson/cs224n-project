@@ -1,0 +1,5 @@
+&gt;The AGI community has ignored it, not because it is indisputable, but because people have not bothered to criticize it.
+
+Here's Bill Hibbard [criticizing](http://www.ssec.wisc.edu/~billh/g/SIAI_CV_critique.html) FAI, and Ben Goertzel [doing the same](http://hplusmagazine.com/2011/08/17/does-humanity-need-an-ai-nanny/), and [Shane Legg](http://www.vetta.org/2006/09/unprovability-of-friendly-ai/). Surely Pei would consider all of these people to be part of the AGI community? Perhaps Pei means that *most* of the AGI community has not bothered to criticize FAI, but then most of the AGI community has not bothered to criticize any particular AGI proposal, including his own NARS.
+
+Does anyone see any other interpretation, besides that Pei is just mistaken about this?

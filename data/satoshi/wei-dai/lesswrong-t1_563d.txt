@@ -1,0 +1,5 @@
+I think people should discount risk estimates fairly heavily when an organisation is based around doom mongering.  For instance, *The Singularity Institute*, *The Future of Humanity Institute* and the *Bulletin of the Atomic Scientists* all seem pretty heavily oriented around doom.  Such organisations initially attract those with high risk estimates, and they then actively try and "sell" their estimates to others.
+
+Obtaining less biased estimates seems rather challenging.  The end of the would would obviously be an unprecidented event.
+
+The usual way of eliciting probability is with bets. However, with an apocalypse, this doesn't work too well.  [Attempts](http://lesswrong.com/lw/ie/the_apocalypse_bet/) to use bets have some [serious](http://lesswrong.com/lw/ie/the_apocalypse_bet/ekw) [problems](http://lesswrong.com/lw/ie/the_apocalypse_bet/5659).

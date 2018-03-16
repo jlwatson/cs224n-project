@@ -1,0 +1,3 @@
+Short answer: The Kolmogorov axioms are just mathematical. They have nothing inherently to do with the real world. P(A|B)=P(A∩B)/P(B) is the definition of P(A|B). There is a compelling argument that the beliefs of a rational agent should obey the Kolmogorov axioms, with P(A|B) corresponding to the degree of belief in A when B is known.
+
+Long answer: I have a sequence of posts coming up.

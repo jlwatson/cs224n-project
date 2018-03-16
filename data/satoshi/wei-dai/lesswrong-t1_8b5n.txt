@@ -1,0 +1,10 @@
+It may be interesting to note that this outline implies that when we discuss questions like "What's your utility function?" or "Do humans have utility functions?" we should be careful to distinguish what kind of utility function we are talking about. Examples:
+
+* a utility function that represents my revealed preferences
+* the utility function implied by my consequentialist moral principles
+* the utility function that corresponds to my intuitions about the desirabilities of various specific outcomes
+* the utility function I actually use when I engage in explicit consequentialist reasoning
+* the utility function I actually use when I engage in subconscious model-based decision making
+* the utility function I would eventually decide upon if I thought about it for a long time
+* the utility function that best captures my intuitions about what "my real values" means
+* the utility function that represents my real values (this may seem equivalent to the one above, except that I don't seem to have clear intuitions in the matter, what intuitions I do have seem subject to change, and maybe there is a fact of the matter about what my real values are beyond my intuitions about it?)

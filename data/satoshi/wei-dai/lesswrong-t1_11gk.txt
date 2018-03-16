@@ -1,0 +1,5 @@
+The "oracle" helps make the problem tractable: a) it prevents other, non-optimal programs from naively trying to simulate the world and going into infinite recursion; b) it makes the general solution algorithm implementable by unambiguously identifying the spots in the world program that are are actually "oracle" invocations, which would be impossible otherwise (Rice's theorem).
+
+I don't really get the point of "decision theories", so try to reduce all similar problems to "algorithmic game theory" (is that an existing area?).
+
+Edited to add: I couldn't make up a rigorous game-theoretic formulation without an oracle.

@@ -1,0 +1,7 @@
+Well for instance, certain approaches to AGI are more likely to lead to something friendly than other approaches are. If you believe that approach A is 1% less likely to lead to a bad outcome than approach B, then funding research in approach A is already compelling.
+
+In my mind, a well-reasoned statistical approach with good software engineering methodologies is the mainstream approach that is least likely to lead to a bad outcome. It has the advantage that there is already a large amount of related research being done, hence there is actually a reasonable chance that such an AGI would be the first to be implemented. My personal estimate is that such an approach carries about 10% less risk than an alternative approach where the statistics and software are both hacked together.
+
+In contrast, I estimate that SIAI's FAI approach would carry about 90% less risk if implemented than a hacked-together AGI. However, I assign very low probability to SIAI's current approach succeeding in time. I therefore consider the above-mentioned approach more effective.
+
+Another alternative to SIAI that doesn't require estimates about any specific research program would be to fund the creation of high-status AI researchers who care about Friendliness. Then they are free to steer the field as a whole towards whatever direction is determined to carry the least risk, after we have the chance to do further research to determine that direction.

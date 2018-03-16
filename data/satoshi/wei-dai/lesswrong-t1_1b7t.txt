@@ -1,0 +1,1 @@
+My Bayesian wannabe paper is an argument against disagreement based on computation differences.  You can "resolve" a disagreement by moving your opinion in the direction of the other opinion.  If failing to do this reduces your average accuracy, I feel I can call that failure "irrational". 

@@ -1,0 +1,15 @@
+&gt; The first is that expected utility maximization isn't the same thing as utilitarianism. 
+
+The problem is that if I adopt unbounded utility maximization, then I perceive it to converge with utilitarianism. Even completely selfish values seem to converge with utilitarian motives. Not only does every human, however selfish, care about other humans, but they are also instrumental to their own terminal values. 
+
+Solving friendly AI means to survive. As long as you don't expect to be able to overpower all other agents, by creating your own FOOMing AI, the best move is to play the altruism card and argue in favor of making an AI friendly_human. 
+
+Another important aspect is that it might be rational to treat copies of you, or agents with similar utility-functions (or ultimate preferences), as yourself (or at least assign non-negligible weight to them). One argument in favor of this is that the goals of rational agents with the same preferences will ultimately converge and are therefore instrumental in realizing what you want.
+
+But even if you only care little about anything but near-term goals revealed to you by naive introspection, taking into account infinite (or nearly infinite, e.g. 3^^^^3) scenarios can easily outweigh those goals. 
+
+All in all, if you adopt unbounded utility maximization and you are not completely alien, you might very well end up pursuing utilitarian motives. 
+
+A real world example is my vegetarianism. I assign some weight to sub-human suffering, enough to outweigh the joy of eating meat. Yet I am willing to consume medical comforts that are a result of animal experimentation. I would also eat meat if I would otherwise die. Yet, if the suffering was big enough I would die even for sub-human beings, e.g. 3^^^^3 pigs being eaten. As a result, if I take into account infinite scenarios, my terminal values converge with that of someone subscribed to utilitarianism.
+
+The problem, my problem, is that if all beings would think like this and sacrifice their own life's, no being would end up maximizing utility. This is contradictory. One might argue that it is incredible unlikely to be in the position to influence so many other beings, and therefore devote some resources to selfish near-term values. But charities like the SIAI claim that I am in the position to influence enough beings to outweigh any other goals. At the end of the day I am left with the decision to either abandon unbounded utility maximization or indulge myself into the craziness of infinite ethics. 

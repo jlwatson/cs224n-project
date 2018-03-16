@@ -1,0 +1,3 @@
+Is Bitcoin's monetary policy really expected to be a problem?  If it were to reach a steady state adoption and usage level, I imagine Bitcoin's price would stabilize around some constant fraction of (the present value of) the market's expectation of future world GDP.  Is that not what you would predict?
+
+Or is the problem that you don't think Bitcoin can reach widespread adoption without users reasonably being able to price goods in BTC?

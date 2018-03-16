@@ -1,0 +1,3 @@
+&gt; Also, it's not clear to me that strict Period Independence is a good thing. It seems reasonable to not value a time period as much if you knew it was an exact repetition of a previous time period. I wrote a post that's related to this.
+
+I agree that Period Independence may break in the kind of case you describe, though I'm not sure. I don't think that the kind of case you are describing here is a strong consideration against using Period Independence in cases that don't involve exact repetition. I think your main example in the post is excellent.

@@ -1,0 +1,15 @@
+&gt; Suppose act-based designs are as successful as you expect them to be. 
+
+It's not so much that I have confidence in these approaches, but that I think (1) they are the most natural to explore at the moment, and (2) issues that seem like they can be cleanly avoided for these approaches seem less likely to be fundamental obstructions in general.
+
+&gt; We still need to understand issues like the one described in Eliezer's post (or solve the meta-problem of understanding philosophical reasoning) at some point, right? When do you think that will be?
+
+Whenever such issues bear directly on our decision-making in such a way that making errors would be really bad. For example, when we encounter a situation where we face a small probability of a very large payoff, then it matters how well we understand the particular tradeoff at hand. The goal / best case is that the development of AI doesn't depend on sorting out these kinds of considerations for its own sake, only insofar as the AI has to actually make critical choices that depend on these considerations.
+
+&gt; The dependence on humans and lack of full autonomy in act-based agents seem likely to cause a significant weakness in at least one crucial area of this competition, 
+
+I wrote a little bit about efficiency [here](https://medium.com/ai-control/ai-control-on-the-cheap-3425b148daf0#.wdl897a3b). I don't see why an approval-directed agent would be at a serious disadvantage compared to an RL agent (though I do see why an imitation learner would be at a disadvantage by default, and why an approval-directed agent may be unsatisfying from a safety perspective for non-philosophical reasons).
+
+Ideally you would [synthesize data](https://medium.com/ai-control/synthesizing-training-data-f92a637dc1b4) in advance in order to operate without access to counterfactual human feedback at runtime---it's not clear if this is possible, but it seems at least plausible. But it's also not clear to me it is necessary, as long as we can tolerate very modest (&lt;1%) overhead from oversight.
+
+Of course if such a period goes on long enough then it will be a problem, but that is a slow-burning problem that a superintelligent civilization can address at its leisure. In terms of technical solutions, anything we can think of now will easily be thought of in this future scenario. It seems like the only thing we really lose is the option of technological relinquishment or serious slow-down, which don't look very attractive/feasible at the moment.

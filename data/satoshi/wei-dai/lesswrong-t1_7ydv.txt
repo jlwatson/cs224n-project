@@ -1,0 +1,3 @@
+&gt; Hmm, re-reading Timeless Causality, I don't see how I could have learned that the idea belongs to Barbour and that you disagree with him. It sure sounds like it was your idea.
+
+This sounds like a high-priority problem, but actually I don't see *any* reference to reduction-to-similarity in Timeless Causality, although there's a lot in Barbour's book about it.  What do you mean by "mind reduces to computation which reduces to causal arrows which reduces to some sort of similarity relationship between configurations"?  Unless this is just in the sense that causal mechanisms are logical relations?

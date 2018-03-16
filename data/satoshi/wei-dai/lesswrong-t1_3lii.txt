@@ -1,0 +1,5 @@
+&gt; The most obvious problem is that AIXI is uncomputable, so a UDT-AIXI will probably also be uncomputable. But how does an uncomputable agent get to find itself embedded in a computable universe?
+
+You are interpreting AIXI too literally. Think of it as advice to aspiring superintelligences, not a magical uncomputable algorithm. It is normative decision theory, definition of the action that should be taken as a mathematical structure, even though it's not possible to have an agent that actually takes only the actions that should be taken, to compute all the necessary properties of this mathematical structure. 
+
+An UDT-AIXI would say which action a given reinforcement-learning agent should take. It's all already in the UDT post, just add UDT 1.1 provision that one *really* shouldn't update on observations and optimize over strategies instead, stipulate that you use a universal prior over programs, and assign utility according to expected reward, where reward is one of the channels of observation, and is counted over world-programs that "contain" corresponding agent. And then do some AIXI-style math to explore properties of the resulting structure.

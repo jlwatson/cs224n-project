@@ -1,0 +1,19 @@
+&gt;By "people" do you mean at least one person, at least a few people, most people, most elites, or something else? What are we arguing about here, and what's the strategic relevance of the question?
+
+I mean if you suggested "Technology X will have a huge economic impact in the near future" to a smart person who knew something about the area, they would think that was plausible and have reasonable estimates for the plausible magnitude of that impact. 
+
+The question is whether AI researchers and other elites who take them seriously will basically predict that human-level AI is coming, so that there will be good-faith attempts to mitigate impacts. I think this is very likely, and that improving society's capability to handle problems they recognize (e.g. to reason about them effectively) has a big impact on improving the probability that they will handle a transition to AI well. Eliezer tends to think this doesn't much matter, and that if lone heroes don't resolve the problems then there isn't much hope.
+
+&gt;Which piece?
+
+On my blog I made some remarks about AI, in particular saying that in the mainline people expect human-level AI before it happens. But I think the discussion makes sense without that.
+
+&gt;Would you consider Bitcoin to be a counterexample, at least potentially, if its economic impact keeps growing? (Although in general I think you're probably right, as it's hard to think of another similar example. There was some discussion about this here.)
+
+- The economic impact of bitcoin to date is modest, and I expect it to increase continuously over a scale of years rather than jumping surprisingly. 
+- I don't think people would have confidently predicted no digital currency prior to bitcoin, nor that they would predict that now. So if e.g. the emergence of digital currency was associated with big policy issues which warranted a pre-emptive response, and this was actually an important issue, I would expect people arguing for that policy response would get traction.
+- Bitcoin is probably still unusually extreme. 
+
+If Bitcoin precipitated a surprising shift in the economic organization of the world, then that would count. 
+
+I guess this part does depend a bit on context, since "surprising" depends on timescale. But Eliezer was referring to predictions of "a few years" of warning (which I think is on the very short end, and he thinks is on the very long end).

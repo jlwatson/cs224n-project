@@ -1,0 +1,26 @@
+I kept having [nightmares](http://xkcd.com/557/) for about a decade after completing my last university course, so I find it hard to understand anyone wanting to go back to school. Ok, now that I've gotten that off my chest...
+
+When I visited SIAI a few months ago, I participated in drafting a list of study topics for visiting fellows. I think it's now being used by SIAI internally, but perhaps eventually a version will be produced for public consumption. For now I'll just try to answer 2 and 4.
+
+&gt;What learning actually facilitates achieving something useful or otherwise fulfilling one's CEV? 
+
+It seems to me that an important but easily overlooked step to fulfilling one's EV is to figure out what it is. Philosophers haven't found the answer yet, but studying philosophy at least gives you some idea of what kinds of answers people have already considered and found unsatisfactory. I would prefer to do this by reading/skimming books, but if you must take a course...
+
+&gt;Which course do you just happen to like?
+
+My favorite university courses were:
+
+* C++
+* theory of computation
+* game theory (graduate level)
+* [industrial organization](http://en.wikipedia.org/wiki/Industrial_organization) (graduate level)
+
+My favorite self-taught topics are:
+
+* micro- and macro-economics
+* cryptography
+* algorithmic information theory
+* decision theory
+* philosophy of science/mind/mathematics/etc.
+
+By "favorite" I mean courses/topics that I had the most fun learning, but these also turned out to be quite useful for my purposes. I might just have been lucky, but you should perhaps consider the possibility that your "impulsive unconscious preference satisfaction" knows what it's doing, and put some thought into what courses would be fun for you.

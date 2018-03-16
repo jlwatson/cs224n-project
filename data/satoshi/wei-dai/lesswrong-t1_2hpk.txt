@@ -1,0 +1,5 @@
+The situation with UDT is mysterious.
+
+1. A UDT agent is a sort of ethereal thing, a class of logically-equivalent algorithms (up to rewriting and such) that can never believe it "sees" one universe - only the equivalence class of universes that gave it equivalent sensory inputs up to now. Okay, I can agree that it's meaningless to ask "where" you are in the universe. But it doesn't *seem* meaningless to ask you for your beliefs about your future sensory input #11, given sensory inputs #1-#10. Unfortunately, it's hard to see how you can define such credences - the naive idea is to count different instantiations of the algorithm within the world program, but we just threw away our concept of what counts as an "instance".
+
+3. The equivalence class of algorithms is wider than one might think. For example, if (by way of some tricky mathematical fact) the algorithm's output is in fact independent from the value of one of the inputs, say input #11, then the algorithm cannot "perceive" that input. In other words, you cannot register any sensation that doesn't end up affecting your actions in the future. Weird, huh.

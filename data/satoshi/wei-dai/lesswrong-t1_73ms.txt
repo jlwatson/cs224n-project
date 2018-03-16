@@ -1,0 +1,9 @@
+Wei, you and others here interested in my opinions on this topic would benefit from understanding more about where I'm coming from, which you can mainly do by reading my old essays (especially the three philosophy essays I've just linked to on Unenumerated). It's a very different world view than the typical "Less Wrong" worldview: based far more on accumulated knowledge and far less on superficial hyper-rationality. You can ask any questions that you have of me there, as I don't typically hang out here.  As for your questions on this topic:
+
+(1) There is insufficient evidence to distinguish it from an arbitrarily low probability.
+
+(2) To state a probability would be an exercise in false precision, but at least it's a clearly stated goal that one can start gathering evidence for and against.
+
+(3) It depends on how clearly and formally the goal is stated, including the design of observatons and/or experiments that can be done to accurately (not just precisely) measure progress towards and attainment or non-attainment of that goal.
+
+As for what I'm currently working on, my blog Unenumerated is a good indication of my publicly accessible work.  Also feel free to ask any follow-up questions or comments you have stemming from this thread there.

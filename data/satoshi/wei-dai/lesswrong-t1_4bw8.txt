@@ -1,0 +1,21 @@
+I'm not planning to list all the reductions of normative language. There are too many. People use normative language in too many ways.
+
+Also, I should clarify that when I talk about reducing ought statements into physical statements, I'm including logic. On my view, logic is just a feature of the language we use to talk about physical facts. (More on that if needed.)
+
+&gt; Most of these ways can be "reducible to physics"... without losing any of the intended meaning.
+
+I'm not sure I would say "most."
+
+&gt; But there may be other usages that can't be so reduced, and which are not clearly safe to ignore.
+
+What do you mean by "safe to ignore"?
+
+If you're talking about something that doesn't reduce (even theoretically) into physics and/or a logical-mathematical function, then what are you talking about? Fiction? Magic? Those are fine things to talk about, as long as we understand we're talking about fiction or magic.
+
+&gt; Should I consider the lives of random strangers to have (terminal) value?
+
+What about this is hard to reduce? We can ask for what you mean by 'should' in this question, and reduce it if possible. Perhaps what you have in mind isn't reducible (divine commands), but then your question is without an answer.
+
+Or perhaps you're asking the question in the sense of "Please fix my broken question for me. I don't know what I mean by 'should'. Would you please do a stack trace on the cognitive algorithms that generated that question, fix my question, and then answer it for me?" And in that case we're doing empathic metaethics.
+
+I'm still confused as to what your objection is. Will you clarify?

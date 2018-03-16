@@ -1,0 +1,15 @@
+&gt;If the machine prints out 50 1's, and then someone runs in and smashes it beyond repair, before it has a chance to continue, will you walk away, saying, "There is a chance at most of 1 in 60,000 that Islam is true?"
+
+&gt;If so, are you serious?
+
+Of course I'm serious (and I hardly need to point out the inadequacy of the argument from the incredulous stare). If I'm not going to take my model of the world seriously, then it wasn't actually my model to begin with.
+
+[Sewing-Machine's comment below](http://lesswrong.com/lw/2lr/the_importance_of_selfdoubt/2i1b?c=1) basically reflects my view, except for the doubts about numbers as a representation of beliefs. What this ultimately comes down to is that you are using a model of the universe according to which the beliefs of Muslims are entangled with reality to a *vastly* greater degree than on my model. Modulo the obvious issues about setting up an experiment like the one you describe in a universe that works the way I think it does, I really don't have a problem waiting for 66 or more 1's before converting to Islam. Honest. If I did,  it would mean I had a different understanding of the causal structure of the universe than I do.
+
+Further below you say this, which I find revealing:
+
+&gt;If this actually happened to you, and you walked away and did not convert, would you have some fear of being condemned to hell for seeing this and not converting? Even a little bit of fear? If you would, then your probability that Islam is true must be much higher than 10^-20, since we're not afraid of things that have a one in a hundred billion chance of happening.
+
+As it happens, given my own particular personality, I'd probably be terrified. The [voice in my head](http://lesswrong.com/lw/1j7/the_amanda_knox_test_how_an_hour_on_the_internet/) would be screaming. In fact, at that point I might even be tempted to conclude that expected utilities favor conversion, given the particular nature of Islam. 
+
+But from an epistemic point of view, this doesn't actually change anything. As I argued in [Advancing Certainty](http://lesswrong.com/lw/1mw/advancing_certainty/), there is such a thing as epistemically shutting up and multiplying. Bayes' Theorem says the updated probability is one in a hundred billion, my emotions notwithstanding. This is precisely the kind of thing we have to learn to do in order to escape the low-Earth orbit of our primitive evolved epistemology -- our entire project here, mind you -- which, unlike you (it appears), I actually believe is possible.

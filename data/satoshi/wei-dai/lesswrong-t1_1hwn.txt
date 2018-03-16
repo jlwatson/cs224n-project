@@ -1,0 +1,5 @@
+What exactly is "equal bargaining power" is vague. If you "instantiate" multiple AIs, their "bargaining power" may well depend on their "positions" relative to each other, the particular values in each of them, etc.
+
+&gt; Then set a time in the future when one of those AIs will be randomly selected and allowed to take over the universe.
+
+Why this requirement? A cooperation of AIs might as well be one AI. Cooperation between AIs is just a special case of operation of each AI in the environment, and where you draw the boundary between AI and environment is largely arbitrary.

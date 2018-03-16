@@ -1,0 +1,3 @@
+&gt; But how do you specify an idealized version of yourself that reasons about morality without using words like "moral", "right" and "should"?
+
+You don't use those words, you refer to your brain as a whole, which happens to already contain those things, and specify extrapolation operations like time passing that it might go through. (Note that no one has nailed down what exactly the ideal extrapolation procedure would be, although there's some intuition about what is and isn't allowed. There is an implied claim there that different extrapolation procedures will tend to converge on similar results, although this is unlikely to be the case for every moral question or for quantitative moral questions at high precision.)

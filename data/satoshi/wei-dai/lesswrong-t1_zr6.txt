@@ -1,0 +1,1 @@
+In your second case one party can still cheat by being out of town when the "1" message arrives. It seems to me that the whole endeavor hinges on the success of the exchange being common knowledge.

@@ -1,0 +1,13 @@
+Assertion for the purpose of establishing the nature of [possible substantive disagreement](http://lesswrong.com/lw/1um/individual_vs_group_epistemic_rationality/1pj3):
+
+*Anything an irrational agent can do due to an epistemic flaw a rational agent can do because it is the best thing for it to do.*
+
+(Agree?)
+
+ETA: The reason I ask is that I think the below:
+
+&gt; But I argue that from a group perspective, it's sometimes better to have a spread of individual levels of confidence about the individually rational level. Perhaps paradoxically, disagreements among individuals can be good for the group.
+
+... applies to humans and not pure rational agents. It seems to me that individuals can *act as if* they have a spread of confidence about the individually rational level without individually differing from the ideal subjectively-objective beliefs that epistemic rationality prescribes to them.
+
+I am trying to establish whether you agree with my original assertion (I think you do) and then work out whether we agree that it follows that all the benefits from having individuals act as if they differ from the individually rational level is just as good as having them actually have the wrong confidence levels. If not then I am trying to understand why we disagree.

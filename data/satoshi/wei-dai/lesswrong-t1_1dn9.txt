@@ -1,0 +1,7 @@
+&gt; Even if not, it's a long way between how the agent (in its craziness and stupidity) actually changes the environment, and how it would prefer (on reflection, if it was smarter and saner) the environment to change
+
+That is true. If the agent has a well-defined "predictive module" which has a "map" (probability distribution over the environment given an interaction history), and some "other stuff", then you can clamp the predictive module down to the truth, and then perform what I said before:
+
+&gt; look at the difference between the tendencies of the environment without the optimizer, and the tendencies of the environment with the optimizer. If the difference is well-approximated by a function that optimizes for a preferred state, for some value of "preferred state", then you have an optimizer.
+
+And you probably also want to somehow formalize the idea that there is a difference between what an agent will try to achieve if it has only limited means - e.g. a lone human in a forest with no tools, clothes or other humans - and what the agent will try to achieve with more powerful means - e.g, with machinery and tools, or in the limit, with a whole technological infrastructure, and unlimited computing power at it's disposal. 

@@ -1,0 +1,7 @@
+&gt;I think a highly rational person would have high moral uncertainty at this point and not necessarily be described as "altruistic".
+
+Do you think the correct level of moral uncertainty would place so much probability on egoism-like hypotheses that the behavior it outputs, even after taking into account various game-theoretical concerns about cooperation as well as the surprisingly large apparent asymmetry between the size of altruistic returns available vs. the size of egoistic returns available, doesn't end up behaving substantially more altruistically than a typical human or a typical math genius is likely to behave? It seems implausible to me, but I'm not that confident, and as I've been saying earlier, the topic is weirdly neglected here for one with such high import.
+
+&gt;Given a choice between a more altruistic candidate and a more rational candidate, I think SI ought to choose the latter.
+
+Surely it depends on *how much* more altruistic and *how much* more rational.

@@ -1,0 +1,7 @@
+You read the paper! Thanks for pointing out that we know somehow that only a finite number of particles will ever be found.
+
+To explain the "oneicle" problem: It seems like how a scenario is coded into a game matters. For example, if you viewed the timed particles game as having two possible worlds "The device will always emit a particle every 10 seconds." and "The device will sometimes emit a particle every 10 seconds.", then the first world cannot pretend to be the second world, but the second world can camouflage itself as the first world for a time, and so (Kelly's version of) Occam's razor says the first is simpler - we get the intuitively correct answer. 
+
+The alternative coding is somewhat analogous to the color "grue" (which is green up until some date, and blue thereafter). You recode the problem to talk about "oneicles", a concept that refers to non-particles up to time 1, and particles thereafter. If you allow this sort of recoding, then you would also allow "twoticles", and the infinite hierarchy of symmetric re-codings causes a problem. I tend to think this is a technical problem that is unlikely to expand into the philosophy part of the theory, but I'm kindof an idiot, and I may be missing something - certainly we would like to avoid coding-dependence.
+
+That's a problem (the first problem Kelly mentioned in that paper), but do you really require a theory to have no problems remaining in order for it to be counted as insightful? No one else addresses the question "Where does the prior come from?".

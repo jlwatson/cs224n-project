@@ -1,0 +1,7 @@
+OK. Let's suppose you successfully write an algorithm a() that can do everything that you said.
+
+Now let's make some changes. Suppose you were, in the course of your search of proof space, to come across a proof that a() returned 0? You could simply return 0 at that point rather than continuing to search for proofs that a() returned 1. So let's make that change.
+
+Now comes the fun bit. Change your algorithm a() such that it returns 1 when it hits the iteration limit instead of 0. Not that hard.
+
+Now comes the really fun bit. Invert the output of this algorithm. Let's call it b(). This function now has the interesting property that it returns 1 when a() returns 0, and vice versa - except in the case where no proofs can be found of a value for a() short of the termination condition, where both now return 0, It's also interesting that it has exactly the same definition as a() does....

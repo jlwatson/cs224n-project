@@ -1,0 +1,9 @@
+I should ask this question now rather than later:  Is there a concrete policy alternative being considered by you?
+
+&gt; Every AGI researcher is unconvinced by that, about their own work.
+
+And on one obvious 'outside view', they'd be right - it's a very strange and unusual situation, which took me years to acknowledge, that this one particular class of science research could have perverse results.  There's many attempted good deeds which have no effect, but complete backfires make the news because they're rare.
+
+(Hey, maybe the priors in favor of good outcomes from the broad reference class of scientific research are so high that we should just ignore the inside view which says that AGI research will have a different result!)
+
+And even AGI research doesn't end up making it *less likely* that AGI will be developed, please note - it's not *that* perverse in its outcome.

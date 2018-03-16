@@ -1,0 +1,4 @@
+Couple of comments:
+
+* The section "Bayesian Orthogonality thesis" doesn't seem right, since a Bayesian would think in terms of probabilities rather than possibilities ("could construct superintelligent AIs with more or less any goals"). If you're saying that we should assign a uniform distribution for what AI goals will be realized in the future, that's clearly wrong.
+* I think the typical AI researcher, after reading this paper, will think "sure, it might be possible to build agents with arbitrary goals if one tried, but *my* approach will probably lead to a benevolent AI". (See [here](http://lesswrong.com/lw/c7h/muehlhausergoertzel_dialogue_part_2/) for an example of this.) So I'm not sure why you're putting so much effort into this particular line of argument.

@@ -1,0 +1,15 @@
+&gt;At what level of talent do you think an attempt to build an FAI would start to do more (expected) good than harm?
+
+I'm not sure that scientific talent is the relevant variable here. More talented folk are more likely to achieve both positive and negative outcomes. I would place more weight on epistemic rationality, motivations (personality, background checks), institutional setup and culture, the strategy of first trying to get test the tractability of robust FAI theory and then advancing FAI before code (with emphasis on the more-FAI-less-AGI problems first), and similar variables.
+
+&gt;Do you think this concern is reasonable?
+
+Certainly it's a reasonable concern from a distance. Folk do try to estimate and reduce the risks you mentioned, and to investigate alternative non-FAI interventions. My personal sense is that these efforts have been reasonable but need to be bolstered along with the FAI research team. If it looks like a credible (to me) team may be assembled my plan would be (and has been) to monitor and influence team composition, culture, and exposure to information. In other words, I'd like to select folk ready to reevaluate as well as to make progress, and to work hard to build that culture as researchers join up.
+
+&gt;If so, I think it would help a lot if SIAI got into the habit of making its strategic thinking more transparent.
+
+I can't speak for everyone, but I am happy to see SIAI become more transparent in various ways. The publication of the strategic plan is part of that, and I believe Luke is keen (with encouragement from others) to increase communication and transparency in other ways.
+
+&gt; publish the meeting minutes
+
+This one would be a decision for the board, but I'll give my personal take again. Personally, I like the recorded GiveWell meetings and see the virtues of transparency in being more credible to observers, and in providing external incentives. However, I would also worry that signalling issues with a diverse external audience can hinder accurate discussion of important topics, e.g. frank discussions of the strengths and weaknesses of potential Summit speakers, partners, and potential hires that could cause hurt feelings and damage valuable relationships. Because of this problem I would be more wholehearted in supporting other forms of transparency, e.g. more frequent and detailed reporting on activities, financial transparency, the strategic plan, things like Luke's Q&amp;A, etc. But I wouldn't be surprised if this happens too.

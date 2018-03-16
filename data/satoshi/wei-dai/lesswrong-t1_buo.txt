@@ -1,0 +1,3 @@
+Scott Aaronson and many others in his field have essentially bet their careers that P ≠ NP (at least, *I think* the whole hierarchy of complexity classes would collapse if P = NP), while only a bunch of cranks (so far as I've heard) have bet a substantial amount of their life's efforts on P = NP.  That's as good a statement of betting odds as any.
+
+As for whether it's legitimate to do so, well, that's Bayesian probability for you.  You've got to have some way of dealing with subjective uncertainty, and you get better results in the long run if your method of dealing with it is like unto the laws of probability.

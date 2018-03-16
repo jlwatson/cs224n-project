@@ -1,0 +1,17 @@
+&gt;But in practice, SGD is extremely good at optimizing NNs, and the local optima issue isn't a huge problem.
+
+That's not even true. In practice, it's the best we've got, but it's still terrible in most interesting settings (or else you could solve NP-hard problems in practice, which you can't).
+
+&gt;As to why we can have decent machine learning and not AGI, I don't know.
+
+It's because the neural net algorithms are not even close to finding the optimal neural net in complex situations.
+
+&gt;Approximating SI isn't sufficient for one, you need to act on the models you find.
+
+That's trivial to do. It's not the problem here.
+
+&gt;Everything approximates Bayesian inference, it's just a matter of how ideal the approximation is.
+
+This might be true in some sense, but not in a meaningful one. PAC learning, for instance, is fundamentally non-Bayesian. Saying that PAC learning approximates Bayesian inference is the same as saying that Bayesian inference approximates PAC learning. It's not a very meaningful statement.
+
+People on LW tend to be hard-core Bayesians who have never even heard of PAC learning, which is an entire branch of learning theory. I find it rather strange.

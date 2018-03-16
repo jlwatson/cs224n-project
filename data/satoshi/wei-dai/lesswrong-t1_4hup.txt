@@ -1,0 +1,11 @@
+It's not actually that easy.
+
+Tires can only get so much friction with the road and after that, brakes lock up. Purpose built skids wouldn't be any better. We're easily at that limit. I'm already seeing commercials for cars that hit the brakes for you, but I'm not sure how much time they shave off or what the unintended consequences will be.
+
+If you want to decelerate at more than ~1G you need other ways of doing it. A maximally efficient 10x10 parachute would have to be ~16' diameter to get 1G for a small car at 60mph. At 30mph you're down to a quarter G.
+
+Other methods I can think of would be forward facing rockets (~40lb worth of fuel) with their obvious downsides, an explosively fired anchor and winch system, or a rail on every street everywhere for the brake to grab (like the "driving" ride at disneyland). Nothing easy..
+
+If the obstacle in front of you is a car limited to 1G, then to first order all you have to do is start braking at the same point he started braking. Computers can probably get really good at this. If your problem is that you're driving into trees and poles, then stop driving your car into trees and poles.
+
+

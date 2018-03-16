@@ -1,0 +1,11 @@
+&gt; Holden presumably thinks that many academic AGI approaches are too risky since they are agent designs:
+
+He's an example of biased selection in critics. No detailed critique from him wouldn't have been heard if he didn't take it seriously enough in the first place.
+
+&gt; Nick Szabo thinks working on mind uploading is a waste of time.
+
+You don't work on mind uploading today, you work on neurology, that solves a lot of practical problems including treatments for disorders, and which may lead to uploading, or not. I am rather sceptical that the future mind uploading is a significant contributor to the utility of such work.
+
+&gt;I personally promoted intelligence amplification and argued that working on security is of little utility.
+
+I do think it is of little utility because I do not believe in some over the internet foom. But if such foom is given, then security can stop it (or rather, work on the tools that would allow provably unhackable software). Ultimately the topic is entirely speculative and you only make arguments by adopting some of the assumptions. With regards to 'provably friendly AGI', once again the important bit here is 'provably', that requires techniques and tools that are over the board useful what ever comes in the future (by improving our degree of reliable understanding and control over our creations of any kind), while the 'friendly' is something you can't even work on without knowing how the 'provably' is going to be accomplished. 

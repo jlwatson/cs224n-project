@@ -1,0 +1,5 @@
+Thanks for adding an example. Let me rephrase it:
+
+You have been invited to take part in a game theory experiment. You are placed in an empty room with three buttons labeled "1", "2" and "my room number". Another test subject is in another room with identical buttons. You don't know your room number, or theirs, but experimenters swear they're different. If you two press buttons corresponding to different numbers, you are both awarded $100 on exit, otherwise zero.
+
+...What was so interesting about this problem, again?

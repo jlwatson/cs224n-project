@@ -1,0 +1,15 @@
+&gt; I don't know of a strong argument that we should care about each part of the multiverse exactly according to a Solomonoff measure. To me, it currently only seems plausible in that role due to the absence of good alternatives.
+
+One way to think about it is viewing each universe as existing in many instances "simulated" by different other processes/universes. Parts within the universe which can be "easily located" are the parts where more of these simulations are instantiated.
+
+&gt; ...suppose the artifact always returns an answer within a fixed amount of time, never provably contradicts ZFC or itself, and also gives "reasonable" answers when ZFC doesn't say anything (e.g., it tends to return 0 for P when there is no proof in ZFC whether P halts or not, but P is implied not to halt by ZFC + other plausible axioms).
+
+This would only make me assume that the artifact runs on a theory more powerful than ZFC, possibly a relatively simple theory that is more powerful than anything we can formulate.
+
+&gt; Can you give an argument that we don't need "more universal" measures than Solomonoff's, even taking into account reasoning about logical uncertainty?
+
+I don't think logical uncertainty is going to be a magic wand that makes Goedelian problems go away. I think logical uncertainty is going to be just a way to estimate hard computations with scarce resources. See also [my comment to Nate](http://lesswrong.com/lw/lgd/questions_of_reasoning_under_logical_uncertainty/bydu).
+
+&gt; You could very well be right, but I'd need much stronger arguments than the ones I'm aware of before thinking it would be a good idea to build this into an FAI as a fundamental assumption (which the FAI may not be able to reason its way out of if it turns out to be wrong).
+
+I understand your concern, but this is just one aspect of a wider problem. Human reasoning is not based on a well-defined set of formal assumptions. However, FAI (apparently) *will* be based on a well-defined set of formal assumptions. Therefore it seems inevitable that there will be some "information loss" when we "hand over control" to FAI. I don't know how to solve this except maybe finding a way to somehow directly fuse the messy foundations of human reasoning with a much more powerful engine of cognition. And I'm not sure whether the latter really makes sense and whether it's feasible even if it makes sense in theory.

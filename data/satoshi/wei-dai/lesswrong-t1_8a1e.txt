@@ -1,0 +1,9 @@
+Let's postulate an additional law of physics that says any branch of the wavefunction that tunnels into true vacuum is dropped and the rest is renormalized to measure 1. The complexity penalty of this additional law seems low enough that we'd expect to be in this kind of universe pretty quickly (if we had evidence indicating highly unstable false vacuum). This is sort of covered by #4, I guess, so I'll answer the questions given there.
+
+&gt;This can get tricky if, for instance the vacuum collapsed more slowly that a factor of a trillion a second. Would you be in a situation where you should behave as if you believed vacuum collapse for another decade, say, and then switch to a behaviour that assumed non-collapse afterwards?
+
+I don't see why that would happen, since the universe has already existed for billions of years. Wouldn't the transition either have happened long ago, or be so smooth that the probabilities are essentially constant within human timeframes?
+
+&gt;Also, would you take seemingly stupid bets, like bets at a trillion trillion trillion to one that the next piece of evidence will show no collapse (if you lose, you're likely in the low measure universe anyway, so the loss is minute)?
+
+I don't think the law of physics postulated above would provide any evidence that you can bet on.

@@ -1,0 +1,11 @@
+"rather there's a tendency to assume that complexity of value must lead to complexity of outcome"
+
+The *main* problem I see here is the other way around: 
+
+There's a tendency to assume that complexity of outcome *must* have been produced by complexity of value.
+
+AFAICS, it is only members of this community that think this way.  Noboby else seems to have a problem with the idea of goals that can be concisely expressed - like: "trying to have as many offspring as possible" - leading to immense diversity and complexity.
+
+This is a facet of an even more basic principle - that extremely simple rules can produce extremely complex outcomes - e.g. see the r-pentomino in the game of life.
+
+You can see it clearly in the case of simple goals like "winning games of go".  The simple goal leads to an explosion of complexity - in the form of the resulting go-playing programs.

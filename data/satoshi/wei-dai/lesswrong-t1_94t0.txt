@@ -1,0 +1,11 @@
+&gt;I read that paper before but it doesn't say why its proposed way of handling logical uncertainty is the correct one, except that it "seem to have some good properties".
+
+This is basically the same as the situation with respect to indexical probabilities. There are dominance arguments for betting odds etc. that don't quite go through, but it seems like probabilities are still distinguished as a good best guess, and worth fleshing out. And if you accept probabilities prior specification is the clear next question.
+
+&gt;I'm not entirely clear on your position. Are you saying that theoretical AI work by safety-concerned folks has a net social cost, accounting for reputation impacts, or excluding reputation impacts?
+
+I think it's plausible there are net social costs, excluding reputational impacts, and would certainly prefer to think more about it first. But with reputational impacts it seems like the case is relatively clear (of course this is potentially self-serving reasoning), and there are similar gains in terms of making things seem more concrete etc.
+
+&gt;Maybe I'm just being dense but I'm still not really getting why you think that (despite your past attempts to explain it to me in conversation). The current paper doesn't seem to make a strong attempt to explain it either.
+
+Well, the first claim was that without the epsilons (i.e. with closed instead of open intervals) it would be exactly what you wanted (you would have an inner symbol that exactly corresponded to reality), and the second claim was that the epsilons aren't so bad (e.g. because exact comparisons between floats are kind of silly anyway). Probably those could be more explicit in the writeup,  but it would be helpful to know which steps seem shakiest.

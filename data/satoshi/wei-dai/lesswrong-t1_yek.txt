@@ -1,0 +1,3 @@
+I suggest that the students aren't as irrational as they appear. After all, why would the designer of the test incorporate a "don't know" option and a penalty for wrong answers, except to discourage guessing on questions that you're clueless on? And if I were a random student (instead of someone especially interested in the mathematics of decision theory), why should I take the trouble to second guess the test designer, instead of assuming that (with high probability) he is rational and competent at his job?
+
+ETA: Also, you're supposed to maximize expected utility, not expected number of points. Increasing the variance of your score may decrease expected utility, even if it keeps the expected score the same. (I see that John Maxwell IV has made a similar point.)

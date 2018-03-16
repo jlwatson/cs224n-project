@@ -1,0 +1,16 @@
+I think you're collapsing some levels here, but it's making my head hurt to think about it, having the definition-deriver and the subject be the same person.
+
+Making this concrete: let 'foobar' refer to the set {1, 2, 3} in a shared language used by us and our subject, Alice. Alice would agree that it is true that "foobar = what X would say about 'foobar' after being exposed to every possible argument concerning 'foobar'" where X is some algorithmic description of Alice. She would say something like "foobar = {1, 2, 3}, X would say {1, 2, 3}, {1, 2, 3} = {1, 2, 3} so this all checks out."
+
+Clearly then, any procedure that correctly determines what X would say about 'foobar' should result in the correct definition of foobar, namely {1, 2, 3}. This is what theoretically lets our "simple" solution work.
+
+However, Alice would not agree that "what X would say about 'foobar' after being exposed to every possible argument concerning 'foobar'" is a correct *definition* of 'foobar'. The issue is that this definition has the wrong properties when we consider counterfactuals concerning X. It is *in fact* the case that foobar is {1, 2, 3}, and further that 'foobar' means {1, 2, 3} in our current language, as stipulated at the beginning of this thought experiment. If-counterfactually X would say '{4, 5, 6}', foobar is still {1, 2, 3}, because what we mean by 'foobar' is {1, 2, 3} and {1, 2, 3} is {1, 2, 3} regardless of what X says.
+
+
+Having written that, I now think I can return to *your* question. The answer is that firstly, by replacing the true definition "foobar = {1, 2, 3}" with "foobar is what X would say about 'foobar' after being exposed to every possible argument concerning 'foobar'" in the subject's mind, you have just deleted the only reference to foobar that actually exists in the thought experiment. The subject has to reason about 'foobar' using their built in definition, since that is the only thing that actually points directly to the target object.
+
+Secondly, as described above "foobar is what X would say about 'foobar' after being exposed to every possible argument concerning 'foobar'" is an *inaccurate* definition of foobar when considering counterfactuals concerning what X would say about foobar. Which is exactly what you are doing when reasoning that "if-counterfactually I say {4, 5, 6} about foobar, then what X would say about 'foobar' is {4, 5, 6}, so {4, 5, 6} is correct."
+
+Which is to say that, analogising, the contents of our subject's head is a pointer (in the programming sense) to the object itself, while "what X would say about 'foobar' after being exposed to every possible argument concerning 'foobar'" is a pointer to the first pointer. You can dereference it, and get the right answer, but you can't just substitute it in for the first pointer. That gives you nothing but a pointer referring to itself.
+
+ETA: Dear god, this turned into a long post. Sorry! I don't think I can shorten it without making it worse though.

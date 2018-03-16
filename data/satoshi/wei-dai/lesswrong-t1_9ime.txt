@@ -1,0 +1,7 @@
+Yes, it can. But a Singleton is not guaranteed; and conditional on the future existence of a Singleton, friendliness is not guaranteed. What I meant was that astronomical population expansion clearly produces an astronomical number of most miserable, tortured lives *in expectation*.
+
+Lots of dystopian future scenarios are possible. [Here](http://felicifia.org/viewtopic.php?p=4454) are *some* of them. 
+
+How many happy people for one miserable existence? - I take the zero option very seriously because I don't think that (anticipated) non-existence poses any moral problem or generates any moral urgency to act, while (anticipated) miserable existence clearly does. I don't think it would have been any intrinsic problem whatsoever had I never been born; but it clearly would have been a problem had I been born into miserable circumstances. 
+
+But even if you do believe that non-existence poses a moral problem and creates an urgency to act, it's not clear yet that the value of the future is net positive. If the number of happy people you require for one miserable existence is sufficiently great and/or if dystopian scenarios are sufficiently likely, the future will be negative in expectation. Beware optimism bias, illusion of control, etc.

@@ -1,0 +1,5 @@
+This is essentially PD (in the aspects relevant to this post), but without magical identification of Player1.Cooperate and Player2.Cooperate by virtue of using the same label "Cooperate". Consider what happens with your thought experiment if the rule given by Omega is "You should give the same answer", given that they already have differentiating info (assigned number). This distinction shouldn't matter. 
+
+Recursion through decision-making of all relevant agents seems conceptually indispensable. When Player1 sees itself again through the eyes of Player2, symmetry or asymmetry between the players (as opposed to identity of the recursive copies of each player) becomes irrelevant. 
+
+Consider: if players are different, then Player1 knows about Player2 that knows about Player1 (recursion, a site of TDT-like acausal control); if players are the same, then Player1 knows about identical Player2 (recursion at the first step). If we go the first road, not much is lost, but we get more generality.

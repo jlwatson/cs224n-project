@@ -1,0 +1,6 @@
+You seem to be making this a more complicated example than it has to be.  All that has to be done to show the difference between these resolution strategies is to have the following setup:
+
+You're unsure of how your values treat the utility of an action A; you give 99.9% odds that it has expected utility 0 and 0.1% odds that it has utility 1,000,000.
+You're sure that an action B has expected utility 1 by your values.
+
+But in this format, it looks silly to do anything but treat it as the simple expected-utility problem *a la* Robin.  Is this somehow not a correct version of your dilemma, or is there some reason we should be horrified at the result of choosing A?

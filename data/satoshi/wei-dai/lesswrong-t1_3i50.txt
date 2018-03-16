@@ -1,0 +1,9 @@
+Maybe I started sounding a little thick-headed to you, as I have in the past, so let me try to rephrase my criticism more substantively.
+
+For the class of questions you're referring to, I believe that as you gain more and more knowledge, and are able to better refine what you're asking for in light of what you (and future self-modifications) want, it will turn out that the thing you're actually looking for is better described as "confusion extinguishment" rather than "truth".
+
+This is because, at a universal-enough level of knowledge, "truth" becomes ill-defined, and what you really want is an understandable mapping from yourself to reality.  In our current state, with a specific ontology and language assumed, we can take an arbitrary utterance and classify it as true or false (edit: or unknown or meaningless).  But as that ontology adjusts to account for new knowledge, there is no natural grounding from which to judge statements, and so you "cut out the middle" and search directly for the mapping from an encoding to useful predictions about reality, in which the encoding is only true or false relative to a model (or "decompressor").
+
+(Similarly, whether I'm lying to you depends on whether you are aware of the encoding I'm using, and whether I'm aware of this awareness.  If the truth is "yes", but you already know I'll say "no" if I mean "yes", it is not lying for me to say "no".  Likewise, it *is* lying if I predicate my answer on a coinflip [when you're not asking about a coin flip] -- even if the coinflip results in giving me the correct answer.  Entanglement, not truth, is the key concept here.)
+
+Therefore, in the limit of infinite knowledge, the goal you will be seeking will look more like "confusion extinguishment" than "truth".

@@ -1,0 +1,7 @@
+Machine superintelligence appears to be a uniquely foreseeable and impactful source of stable trajectory change.
+
+*If* you think (as I do) that a machine superintelligence is largely inevitable ([Bostrom forthcoming](http://lesswrong.com/lw/bd6/ai_risk_opportunity_a_timeline_of_early_ideas_and/91zl)), then it seems our effects on the far future must almost entirely pass through our effects on the development of machine superintelligence.
+
+Someone once told me they thought that giving to the [Against Malaria Foundation](http://www.givewell.org/international/top-charities/AMF) is, via a variety of ripple effects, more likely to positively affect the development of machine superintelligence than direct work on [AI risk strategy and Friendly AI math](http://intelligence.org/research/). I must say I find this implausible, but I'll also admit that humanity's current understanding of ripple effects in general, and our understanding of how MIRI/FHI-style research in particular will affect the world, leaves much to be desired.
+
+So I'm glad that [Givewell](http://blog.givewell.org/2013/05/15/flow-through-effects/), MIRI, FHI, Nick Beckstead, and others are investing resources to figure out how these things work.

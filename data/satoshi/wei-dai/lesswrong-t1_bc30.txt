@@ -1,0 +1,6 @@
+Actually, here's a better counter-example, one that actually exemplifies some of the claims of CDT optimality. Suppose that the universe consists of a bunch of agents (who do not know each others' identities) playing one-off PDs against each other. Now 99% of these agents are UDT agents and 1% are CDT agents.
+
+The CDT agents defect for the standard reason.
+The UDT agents reason that my opponent will do the same thing that I do with 99% probability, therefore, I should cooperate.
+
+CDT agents get 99% DC and 1% DD. UDT agents get 99% CC and 1% CD. The CDT agents in this universe do better than the UDT agents, yet they are facing a perfectly symmetrical scenario with no mind reading involved.

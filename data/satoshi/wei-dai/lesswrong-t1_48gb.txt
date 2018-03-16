@@ -1,0 +1,3 @@
+&gt; If Y is sufficiently powerful, it may be able to deduce the laws of physics and the initial conditions of the universe, and then obtain X's source code by simulating the universe up to when X is created.
+
+Unless there have been some specific assumptions made about the universe that will not work. Simulating the entire universe does not tell Y which part of the universe it inhabits. It will give Y a set of possible parts of the universe which match Y's observations. While the simulation strategy will allow the best possible prediction  about what X's source code is given what Y already knows it does not give evidence to Y that it didn't already have. 

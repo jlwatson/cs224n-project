@@ -1,0 +1,8 @@
+&gt; Due to the fact that moderate and fast takeoffs are more likely than slow ones,
+
+That's a big assumption.
+
+&gt; Thus, if a given project is not in the lead, it might start lessening it's safety protocol in favor of speed (not to mention standard cloak and dagger actions, or even militaristic scenarios). Is not good, gets extinction.
+
+Nobody desires extinction, and nobody is better off if extinction comes form their own AI project rather than the AI project of somebody else, hence there is no [tragedy of the commons](https://en.wikipedia.org/wiki/Tragedy_of_the_commons) scenario.  
+People are not going to make an AI capable of causing major disasters without being reasonable sure that they can control it.

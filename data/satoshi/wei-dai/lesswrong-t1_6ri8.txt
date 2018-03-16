@@ -1,0 +1,3 @@
+&gt; Consider an arbitrary probability distribution P, and the smallest integer (or the lexicographically least object) x such that P(x) &lt; 1/3^^^3 (in Knuth's up-arrow notation). Since x has a short description, a universal distribution shouldn't assign it such a low probability, but P does, so P can't be a universal distribution.
+
+Solomonoff Induction would not consider this a description of x as it cannot be used to compute x.

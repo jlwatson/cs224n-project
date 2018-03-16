@@ -1,0 +1,15 @@
+*You're right: recalculating...*
+
+Let **E(A)** be the expected value of the lottery that you should use in determining your actions. Let **E(a)** be the expected value you calculate. Let **p** be your confidence in your calculation (a probability in the Bayesian sense).
+
+If we want to account for the possibility of calculating wrong, we are tempted to write something like
+
+    E(A) = p * E(a) + (1-p) * x
+
+where **x** is what you would expect the lottery to be worth if your calculation was wrong.
+
+The naive calculation - the one which says, "play the lottery" - takes *x* as equal to the jackpot. This is not justified. The correct value for *x* is closer to your *reference-class prediction*.
+
+Setting *x* equal to "negative the cost of the ticket plus epsilon", then, it becomes abundantly clear that your ignorance does not make the lottery a good bet.
+
+**Edit:** This also explains why you check your math before betting when it looks like a lottery *is* a good bet, [which is nice](http://lesswrong.com/lw/1g4/tips_and_tricks_for_answering_hard_questions/1gp6).

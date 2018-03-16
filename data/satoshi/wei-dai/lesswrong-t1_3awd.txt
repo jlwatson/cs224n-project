@@ -1,0 +1,9 @@
+&gt; (1) is false, but easily close enough to truth for our purposes.
+
+I suspect that this claim is at the heart of the dispute.  I think that it is far from close enough to the truth.  
+
+The reason people don't shoplift is that they fear the consequences.  There is no mystery to be explained.  Except perhaps why people are sufficiently motivated by fear of being temporarily physically constrained by a store-owner or security guard and publicly shamed (typical punishment for a first offense).
+
+&gt; Btw, what does "normative" add to your meaning here.
+
+It serves to emphasize the type-error that I see in your request.  You seem to be criticizing one normative theory (CDT) while promoting another (UDT/TDT).  But you are doing so by asking whether the normative theory is satisfactory when used as a descriptive theory.  And you are asking that it function descriptively in a fictitious universe in which shoplifters are rarely caught and mildly punished. 

@@ -1,0 +1,7 @@
+Can I plug Wikimedia at this point? As I've noted, that's more analogous to a software project than an ordinary charity - your money is useful and most welcomed, but the real contribution is your *knowledge*.
+
+(Then we need to fix the things wrong with the editor experience on Wikipedia ... though the Wikimedia Foundation is paying serious attention to that as well of late.)
+
+Or, more generally: create educational material under a [free content licence](http://freedomdefined.org/Definition). If it's CC-by-sa, CC-by or PD, it can interbreed.
+
+I suggest you make your comment a discussion post.

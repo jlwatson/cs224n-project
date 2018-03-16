@@ -1,0 +1,11 @@
+&gt; This is not making sense for me. Maybe you could expand the argument into a longer comment or post?
+
+One way to think of Tegmark Level IV is as if there is literally a universal Turing machine which is executed on inputs made of random bits. The outputs are the various universes. Low complexity time segments of a universe will frequently appear as the beginning of such an output. I don't have a deep point here, just trying to bridge the gap with intuition.
+
+&gt; If it was running on a formal theory, it would fail to give answers for some P's, but this one never fails to do that. With enough time it would be possible to rule out the artifact running any simple theory, and the hypothesis of it being a true halting oracle should become increasingly likely (unless we give that a zero prior, like you're proposing here).
+
+But we can never know that the theory T in question cannot decide a given instance of the halting problem (since we don't have explicit grasp of it and cannot consider something like T+1), therefore the associated probability will not fall to 0.
+
+&gt; ...when we fully understand logical uncertainty, presumably we will have a method to assign a probability for any P halting or not halting.
+
+I realize this is a part of the logic uncertainty program. I just think this part will never come to fruition. That is, we will never have a computable object that can be reasonably interpreted as "the probability of P halting".

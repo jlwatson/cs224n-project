@@ -1,0 +1,5 @@
+&gt; If it succeeds in being the first to do so, the other side then has no choice but to accept.
+
+This presumes that the other side obeys standard causal decision theory; in fact, it's an illustration of why causal decision theory is vulnerable to exploitation if precommitment is available, and suggests that two selfish rational CDT agents who each have precommitment options will generally wind up sabotaging each other.
+
+This is a reason to reject CDT as the basis for instrumental rationality, even if you're not worried that Omega is lurking around the corner.

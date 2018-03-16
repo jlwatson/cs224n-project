@@ -1,0 +1,24 @@
+I think this is an excellent question.  I'm hoping it leads to more actual discussion of the possible timeline of GAI.
+
+Here's my answer, important points first, and not quite as briefly as I'd hoped.
+
+1) even if uFAI isn't the biggest existential risk, the very low investment and interest in it might make it the best marginal value for investment of time or money.  As someone noted, having at least a few people thinking about the risk far in advance seems like a great strategy if the risk is unknown.
+
+2) No one but SIAI is taking donations to mitigate the risk (as far as I know) so your point 2 is all but immaterial right now.
+
+3) I personally estimate the risk of uFAI to be vastly higher than any other, although I am as you point out quite biased in that direction. I don't think other existential threats come close (although I don't have the expertise to evaluate "gray goo" self replicator dangers) .
+   a) AI is a new risk; (plagues and nuclear wars have failed to get us so far)
+   b) it can be deadly in new ways (outsmarting/out-teching us);
+   c) we don't know for certain that it won't happen soon.
+
+How hard is AI?  We actually don't know.   I study not just the brain but how it gets computation and thinking done (a rare and fortunate job; most neuroscientists study neurons, not the whole mind) - and I think that its principles aren't actually all that complex. To put it this way: algorithms are rapidly approaching the human level in speech and vision, and the principles of higher-level thinking appear to be similar.  (as an aside, EYs now-outdated Levels of General Intelligence does a remarkably good job of converging with my independently-developed opinion on principles of brain function)  In my limited (and biased) experience, those with similar jobs tend to have similar opinions.  But the bottom line is that we don't know either how hard, or how easy, it could turn out to be.  Failure to this point is not strong evidence of continued failure.
+
+And people will certainly try.  The financial and power incentives are such that people will continue their efforts on narrow AI, and proceed to general AI when it helps solve problems.  Recent military and intelligence grants indicate a trend in increasing interest in getting beyond narrow AI to get more useful AI; things that can make intelligence and military decisions and actions more cheaply (and eventually reliably) than a human.  Industry similarly has a strong interest in narrow AI (e.g, sensory processing) but they will probably be a bit later to the GAI party given their track record of short term thinking.  Academics are certainly are doing GAI research, in addition to lots of narrow AI stuff.  Have a look at the BICA (biologically inspired cognitive architecture) conference for some academic enthusiasts with baby GAI projects. 
+
+So, it could happen soon.  If it gets much smarter than us, it will do whatever it wants; and if we didn't build its motivational system veeery carefully, doing what it wants will eventually involve using all the stuff we need to live.
+
+Therefore, I'd say the threat is on the order of 10-50%, depending on how fast it develops, how easy making GAI friendly turns out to be, and how much attention the issue gets.  That seems huge relative to other truly existential threats.
+
+If it matters, I believed very similar things before stumbling on LW and EY's writings.
+
+I hope this thread is attracting some of the GAI sceptics; I'd like to stress-test this thinking.

@@ -1,0 +1,5 @@
+&gt; differences (between the sexes) in engineering aptitude in the general population says *nothing* about differences in engineering skill among people who have already been hired as engineers
+
+I think Bayes would disagree a little :-) If your prior says blue weasels are generally better at C++ than red weasels, then a red weasel's high test score is more likely to be a random fluke than a blue weasel's equally high score.
+
+**ETA:** it seems Robin made a similar point [a while ago](http://www.overcomingbias.com/2008/08/variance-induce.html) and got crucified for it because he didn't use weasels!

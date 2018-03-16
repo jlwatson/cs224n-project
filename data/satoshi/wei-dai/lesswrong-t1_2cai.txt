@@ -1,0 +1,5 @@
+Oh.
+
+I feel stupid now.
+
+EDIT: Wouldn't it also break even by predicting the next Busy Beaver number? "All 1's except for BB(1...2^n+1)" is also only slightly less likely. EDIT: I feel more stupid.

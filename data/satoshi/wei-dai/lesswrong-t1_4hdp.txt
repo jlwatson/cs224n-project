@@ -1,0 +1,9 @@
+This seems reasonable, but I have to ask about "correctly describes". The statement
+
+"want to eat an apple" *implies* being in brain state ABC or computational state DEF (or something of that nature) 
+
+is plausible to me. I think the reverse implication, though raises a problem:
+
+being in brain state ABC or computational state DEF (or something of that nature) implies "want to eat an apple"
+
+But maybe neither of these is what you have in mind?

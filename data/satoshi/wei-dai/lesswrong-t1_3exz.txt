@@ -1,0 +1,12 @@
+It's not true that Amazon product URLs must contain "/dp/". According to http://en.wikipedia.org/wiki/Amazon_Standard_Identification_Number , product URLs may have the following formats:
+
+* http://amazon.com/gp/product/ASIN-VALUE-HERE
+* http://amazon.com/exec/obidos/tg/detail/-/ASIN-VALUE-HERE
+* http://amazon.com/o/ASIN/ASIN-VALUE-HERE
+* http://amazon.com/dp/ASIN-VALUE-HERE
+
+Which is not even a complete list because I've also seen:
+
+* http://www.amazon.com/exec/obidos/ASIN/ASIN-VALUE-HERE
+
+Instead of trying to parse all these formats, I suggest just adding "?tag=lesswrong-20" or "&amp;tag=lesswrong" (depending on whether the URL already contains a "?") to the end of every Amazon.com URL. Also, "ref=nosim" is obsolete and can be omitted.

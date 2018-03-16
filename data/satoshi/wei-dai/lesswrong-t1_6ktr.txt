@@ -1,0 +1,1 @@
+Ok so I'm presuming that an extremely fine grained scan stored with some naive compression is massively more than 10^14 synapse-bits. In order to store all that now in the information theoretic minimum, don't we need some kind of incredibly awesome compression algorithm NOW that we simply don't have?

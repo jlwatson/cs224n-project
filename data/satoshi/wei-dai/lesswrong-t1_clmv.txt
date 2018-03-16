@@ -1,0 +1,54 @@
+&gt;&gt;One question/concern I have been monitoring for a while now is the response from conservative Christianity. It's not looking good. Google "Singularity image of the beast" to get an idea.
+
+&gt; What kind of problems do you think this will lead to, down the line?
+
+Hopefully none - but the conservative protestant faction seems to have considerable political power in the US, which could lead to policy blunders.  Due to that one stupid book (revelations), the xian biblical worldview is almost programmed to lash out at any future system which offers actual immortality.  The controversy over stem cells and cloning is perhaps just the beginning.  
+
+On the other hand, out of all religions, liberal xtianity is perhaps closest to transhumanism, and could be its greatest ally.
+
+As an example, consider this quote:
+
+&gt;It is a serious thing to live in a society of possible gods and goddesses, to remember that the dullest and most uninteresting person you talk to may one day be a creature which, if you saw it now, you would be strongly tempted to worship.
+
+This sounds like something a transhumanist might say, but it's actually from C.S. Lewis:
+
+&gt;The command Be ye perfect is not idealistic gas. Nor is it a command to do the impossible. He is going to make us into creatures that can obey that command. He said (in the Bible) that we were "gods" and He is going to make good His words. If we let Him—for we can prevent Him, if we choose—He will make the feeblest and filthiest of us into a god or goddess, dazzling, radiant, immortal creature, pulsating all through with such energy and joy and wisdom and love as we cannot now imagine, a bright stainless mirror which reflects back to God perfectly (though, of course, on a smaller scale) His own boundless power and delight and goodness. The process will be long and in parts very painful; but that is what we are in for. Nothing less. He meant what He said.
+
+[Divinization](https://en.wikipedia.org/wiki/Divinization) or apotheosis is one of the main belief currents underlying xtianity, emphasized to varying degrees across sub-variations and across time.
+
+..
+&gt;&gt; [We alread create lots of new agents with different beliefs ...]
+
+&gt; This is true, but:
+
+&gt; 1. I'm not comparing ANN-based AGI to the status quo, but to a future with some sort of near-optimal FAI.
+
+The practical real world FAI that we can create is going to be a civilization that evolves from what we have now - a complex system of agents and hierarchies of agents.  ANN-based AGI is a new component, but there is more to a civilization than just the brain hardware.
+
+&gt;2. The new agents we currently create aren't much more powerful than ourselves, and cannot take over the universe and foreclose the possibility of a better outcome.
+
+Humanity today is enormously more powerful than our ancestors from say a few thousand years ago.  AGI just continues the exponential time-acceleration trend, it doesn't necessarily change the trend.
+
+From the perspective of humanity of a thousand years ago, friendliness mainly boils down to a single factor: will the future posthuman civ ressurrect them into a heaven sim?
+
+&gt;3. Humans or humanity as a whole seem capable of making moral and philosophical progress, and this capability is likely to persist in future generations. I'm not sure the same will be true of ANN-based AGIs.
+
+Why not?
+
+One of the main implications of the brain being a ULM is that friendliness is not just a hardware issue.  There is a hardware component in terms of the value learning subsystem, but once you solve that, it is mostly a software issue.  It's a culture/worldview/education issue.  The memetic software of humanity is the same software that we will instill into AGI.
+
+&gt; &gt;That being said, I do believe that the AGI we create will be far more aligned with our values than our children are.
+
+&gt;I look forward to your post explaining this, but again my fear is that since to a large extent I don't know what my own values are (especially when it comes to post-Singularity problems like how to reorganize the universe on a large scale . .
+
+I don't see how that is a problem.  You may not know yourself completely, but have some estimation or distribution over your values.  As long as you continue to exist into the future, and as long as you have a significant share in the future decision structure (ie wealth or voting rights), then that should suffice - you will have time to figure out your long term values.
+
+&gt;Are you not worried that during this time, the AGIs will take over the universe and reorganize it according to their imperfect understanding of our values, which will look disastrous when we become superintelligences ourselves and figure out what we really want?
+
+This is a potential worry, but it can probably be prevented.  
+
+The brain is reasonably efficient in terms of intelligence per unit energy.  Brains evolved from the bottom up, and biological cells are near optimal nanocomputers (near optimal in terms of both storage density in DNA, and near optimal in terms of energy cost per irreversible bit op in DNA copying and protein computations).  The energetic cost of computation in brains and modern computers alike is dominated by wire energy dissipation in terms of bits/J/mm.  Moore's law is approaching it's end which will result in hardware that is on par a little better than the brain.  With huge investments into software cleverness, we can close the gap and achieve AGI.  In 5 years or so, lets say that 1 AGI runs amortized on 1 GPU (neuromorphics doesn't change this picture dramatically).  That means an AGI will only require 100 watts of energy and say $1,000/year.  That is about a 100x productivity increase, but in a pinch humans can survive on only $10,000 a year.
+
+Today the foundry industry produces about 10 million mid-high end GPUs per year.  There are about 100 million human births per year, and around 4 million per year in the US.  Of course if we consider only humans with IQ &gt; 135, then there are only 1 million high IQ humans born per year.  This puts some constraints on the likely transition time, and it is likely measured in years.  
+
+We don't need to instill values so perfectly that we can rely on our AGI to solve all of our problems until the end of time - we just need AGI to be similar enough to us that it can function as *at least* a replacement for future human generations and fulfill the game theoretic pact across time of FAI/god/resurrection.

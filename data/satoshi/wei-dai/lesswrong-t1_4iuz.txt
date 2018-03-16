@@ -1,0 +1,10 @@
+Suppose Omega appears to you and says that you're living in a deterministic simulation. (Apparent quantum randomness is coming from a pseudorandom number generator.) He gives you two options:
+
+A. He'll create an FAI inside the simulation to serve you, essentially turning the simulation into your personal heaven.  
+B. He'll do A, and also make a billion identical copies of the unmodified simulation (without the FAI), and scatter them around the outside universe. (He tells you that in the unmodified simulation, no FAI will be invented by humanity, so you'll just live an ordinary human life and then die.)
+
+Is it obvious that choosing A is "crazy"? (Call this thought experiment 1.)
+
+Suppose someone chooses A, and then Omega says "Whoops, I forgot to tell you that the billion copies of the unmodified simulation have already been created, just a few minutes ago, and I'm actually appearing to you in all of them. If you choose A, I'll just instantly shut off the extra copies. Do you still want A?" (Call this thought experiment 2.)
+
+Thought experiment 1 seems essentially the same as thought experiment 2, which seems similar to quantum suicide. (In other words, I agree with Carl that the situation is not actually as clear as you make it out to be.)

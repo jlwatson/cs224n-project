@@ -1,0 +1,13 @@
+Thanks for those thoughts.
+
+Nick Bostrom uses the term in his book, and it's convenient for separating out pre-existing problems with "we don't know what to do with our society long term, nor is it engineered to achieve that" and the particular issues raised by AI.
+
+&gt;But I think we have reason to believe this is not the case, that in short "safety for superintelligent AIs" = "solving philosophy/metaphilosophy" which can't be done by "incremental improvements to the control mechanisms being used initially".
+
+In the situation I mentioned, not vastly superintelligent initially (and capabilities can vary along multiple dimensions, e.g. one can have many compartmentalized copies of an AI system that collectively deliver a huge number of worker-years without any one of them possessing extraordinary capabilities.
+
+What is your take on the strategy-swallowing point: if humans can do it, then not very superintelligent AIs can.
+
+&gt;"Control" suggests that the problem falls in the realm of engineering (i.e., belongs to the reference class of "control problems" in engineering, such as "aircraft flight control")...I'm concerned that people will underestimate the difficulty of the problem or overestimate the degree to which it's parallelizable or generally amenable to scaling with financial/human resources, if the problem becomes known as "AI control".
+
+There is an ambiguity there. I'll mention it to Nick. But, e.g. Friendliness just sounds silly. I use "safe" too, but safety can be achieved just by limiting capabilities, which doesn't reflect the desire to realize the benefits.

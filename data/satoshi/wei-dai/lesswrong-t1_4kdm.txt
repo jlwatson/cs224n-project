@@ -1,0 +1,7 @@
+Are there abstracts for these talks anywhere? The closest I could find was a couple of paragraphs in the conference report:
+
+&gt;Professor Bryce Huebner challenged common notions of collective intelligence, showing the need for certain forms of internal architecture and not merely aggregating people together. Professor Garrett Jones dealt with the paradox of the benefits of intelligence: higher cognitive ability appears to benefit your society more than it benefits you – possibly because intelligence helps build cooperation. Professor Jürgen Schmidthuber outlined how theoretical computer science might give challenging new ideas about the nature of intelligence, creativity, and consciousness.
+&gt;
+&gt;During the session on the future of machine intelligence, the state of the art within machine perception and learning were described by Dr Matthew Blaschko and Professor Ben Kuipers, leading to a discussion about ways in which embodiment enables and limits the development of advanced artificial intelligence. Dr Moshe Looks from Google described how “big data” – the availability of enormous data sets from the Internet, smart objects, and people’s recordings – may lead to forms of statistical “intelligence” very different from the traditional view of AI. Professor Nick Bostrom and Eliezer Yudkowsky further discussed the foresight needed to navigate towards safe and beneficial AI.
+
+Also, anyone want to point out some talks that were particularly interesting?

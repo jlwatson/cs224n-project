@@ -1,0 +1,3 @@
+What do you make of the decision to use C++?
+
+Do you have any opinions of the original coding beyond the 'inelegant but amazingly resilient' meme? Was there anything that stood out about it?

@@ -1,0 +1,3 @@
+Ah, you mean [this](http://en.wikipedia.org/wiki/Bayesian_game). Okay.
+
+If you're thinking about alternate formulations, it might interest you that programs that know each other's source code can use the quining trick to emulate any mutually-agreed rule for resolving conflicts, e.g. "play a game of chess to decide who gets the money". (Quining ensures that both players' internal representations of other players move the chess pieces correctly.) More generally, they can agree on any common algorithm that takes input strings supplied by individual players (e.g. chess-playing strategies). I guess this counts as "merging"? Another application is generating common cryptographically secure random numbers. This stuff is almost *too* powerful.

@@ -1,0 +1,5 @@
+Ok, I've read the paper(most of it) and Wei-Dai's article now.  Two points.
+
+1. In a sense, I understand how you might think that the Absent Minded Driver is no less contrived and unrealistic than Newcomb's Paradox.  Maybe different people have different intuitions as to what toy examples are informative and which are misleading.  Someone else (on this thread?) responded to me recently with the example of frictionless pulleys and the like from physics.  All I can tell you is that my intuition tells me that the AMD, the PD, frictionless pulleys,and even Parfit's Hitchhiker all strike me as admirable teaching tools, whereas Newcomb problems and the old questions of irrestable force vs immovable object in physics are simply *wrong problems* which can only create confusion.
+
+2.  Reading Wei-Dai's snarking about how the LW approach to decision theory (with zero published papers to date) is so superior to the confusion in which mere misguided Nobel laureates struggle - well, I almost threw up.  It is extremely doubtful that I will continue posting here for long.

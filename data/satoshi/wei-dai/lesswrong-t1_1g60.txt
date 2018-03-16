@@ -1,0 +1,3 @@
+For useful-tool AI, learn stuff from statistics and machine learning before making any further moves. 
+
+For self-improving AI, just don't do it as AI, FAI is not quite an AI problem, and anyway most techniques associated with "AI" don't work for FAI. Instead, learn fundamental math and computer science, to a good level -- that's my current best in-a-few-words advice for would-be FAI researchers.

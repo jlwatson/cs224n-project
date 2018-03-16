@@ -1,0 +1,31 @@
+(Sorry about the late reply. I'm not sure how I missed this post.)
+
+Suppose you're right and we do want to build an AI that would not press the button in this scenario. How do we go about it?
+
+1. We can't program "the umpteenth digit of pi is odd" into the AI as an axiom, because we don't know this scenario will occur yet.
+2. We also can't just tell the AI "I am conscious and I have observed Alpha Centari as not purple", because presumably when Omega was predicting the AI's decision a million years ago, it was predicting the AI's output when given "I am conscious and I have observed Alpha Centari as not purple" as part of its input.
+3. What we *can* do is, give the AI an utility function that does not terminally value beings who are living in a universe with a purple Alpha Centauri.
+
+Do you agree with the above reasoning? If so, we can go on to talk about whether doing 3 is a good idea or not. Or do you have some other method in mind?
+
+BTW, I find it helpful to write down such problems as world programs so I can see the whole structure at a glance. This is not essential to the discussion, but if you don't mind I'll reproduce it here for my own future reference.
+
+	def P():
+		if IsEven(Pi(10^100)):
+			if OmegaPredict(S, "Here's a button... Alpha Centauri does not look purple.") = "press":
+				MakeAlphaCentauriPurple()
+			else:
+				DestroyEarth()
+		else:
+			LetUniverseRun(10^6 years)
+			if S("Here's a button... Alpha Centauri does not look purple.") = "press":
+				DestroyEarth()
+		
+		LetUniverseRun(forever)
+
+Then, assuming our AI can't compute Pi(10^100), we have:
+
+* U("press") = .5 \* U(universe runs forever with Alpha Centauri purple) + 0.5 \* U(universe runs for 10^6 years then Earth is destroyed)
+* U("not press") = .5 \* U(Earth is destroyed right away) + 0.5 \* U(universe runs forever)
+
+And clearly U("not press") &gt; U("press") if U(universe runs forever with Alpha Centauri purple) = U(Earth is destroyed right away) = 0.

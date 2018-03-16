@@ -1,0 +1,9 @@
+ETA: This is a meta comment about some aspects of some comments on this post and what I perceive to be problems with the sort of communication/thinking that leads to the continued existence of those aspects. This comment is not meant to be taken as a critique of the original post.
+
+ETA2: This comment lacks enough concreteness to act as a serious consideration in favor of one policy over another. Please disregard it as a suggestion for how LW should normatively respond to something. Instead one might consider if one might personally benefit from enacting a policy I might be suggesting, on an individual basis.
+
+_______
+
+Why are people on Less Wrong still talking about 'their' 'values' using deviations from a model that assumes they have a 'utility function'? It's not enough to explicitly believe and disclaim that this is obviously an incorrect model, at some point you have to actually stop using the model and adopt something else. People are godshatter, they are incoherent, they are inconsistent, they are an abstraction, they are confused about morality, their revealed preferences aren't their preferences, their revealed preferences aren't even their revealed preferences, their verbally expressed preferences aren't even preferences, the beliefs of parts of them about the preferences of other parts of them aren't their preferences, the beliefs of parts of them aren't even beliefs, preferences aren't morality, predisposition isn't justification, et cetera... 
+
+Can we please avoid using the concept of a human "utility function" even as an abstraction, unless it obviously makes sense to do so? If you're specific enough and careful enough it can work out okay (e.g. see JenniferRM's comment) but generally it is just a bad idea. Am I wrong to think this is both obviously and non-obviously misleading in a multitude of ways?

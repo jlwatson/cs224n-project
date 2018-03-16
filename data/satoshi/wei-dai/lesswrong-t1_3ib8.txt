@@ -1,0 +1,9 @@
+&gt; I'm not sure how you hope to show the "absolute" version in the same way.
+
+Well, Omohundro showed that a certain collection of *instrumental* values tend to arise independently  of the 'seeded' intrinsic values.  In fact, decision making tends to be dominated by consideration of these 'convergent' instrumental values, rather than the human-inserted seed values.
+
+Next, consider that those human values themselves originated as heuristic approximations of instrumental values contributing to the intrinsic value of interest to *our* optimization process - natural selection.  The fact that we ended up with the particular heuristics that we did is not due to the fact that the intrinsic value for that process was reproductive success - every species in the biosphere evolved under the guidance of that value.  The reason why humans ended up with values like curiosity, reciprocity, and toleration has to do with the environment in which we evolved.
+
+So, my hope is that we can show that AIs will converge to human-like instrumental/heuristic values if they do their self-updating in a human-like evolutionary environment.  Regardless of the details of their seeds.
+
+That is the vision, anyways.

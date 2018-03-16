@@ -1,0 +1,17 @@
+Incomplete response:
+
+&gt;Does "FAI-focused" mean what I called code first?
+
+Jah. Well, at least determining whether or not "code first" is even reasonable, yeah, which is a difficult question in itself and only partially tied in with making direct progress on FAI.
+
+&gt;What are your thoughts on that post and its followup?
+
+You seem to have missed Oracle AI? (Eliezer's dismissal of it isn't particularly meaningful.) I agree with your concerns. This is why the main focus would at least initially be determining whether or not "code first" is a plausible approach (difficulty-wise and safety-wise). The value of information on that question is incredibly high and as you've pointed out it has not been sufficiently researched.
+
+&gt;What is this new non-profit planning to do differently from SIAI and why?
+
+Basically everything. SingInst is focused on funding a large research program and gaining the prestige necessary to influence (academic) culture and academic and political policy. They're not currently doing *any* research on Friendly AI, and their political situation is such that I don't expect them to be able to do so *effectively* for a while, if ever. I will not clarify this. (Actually their research *associates* are working on FAI-related things, but SingInst doesn't pay them to do that.) 
+
+&gt;What are the other things that you could be doing?
+
+Learning, mostly. Working with an unnamed group of x-risk-cognizant people that LW hasn't heard of, in a way unrelated to their setting up a non-profit.

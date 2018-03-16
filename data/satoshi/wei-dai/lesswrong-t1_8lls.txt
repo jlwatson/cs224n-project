@@ -1,0 +1,1 @@
+If you only assign significant probability mass to one changeover day, you behave inductively on almost all the days up to that point, and hence make relatively few epistemic errors.  To put it another way, unless you assign superexponentially-tiny probability to induction ever working, the number of anti-inductive errors you make over your lifespan will be bounded.

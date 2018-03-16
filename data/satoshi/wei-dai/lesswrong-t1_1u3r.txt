@@ -1,0 +1,3 @@
+&gt; to me, this analogy indicates that it's not mind-copying that's causing the apparent value changes, but rather Bayesian updating.
+
+Is that an area in which a TDT would describe the appropriate response using different words to a UDT, even if they suggest the same action? I'm still trying to clarify the difference between UDT, TDT and my own understanding of DT. I would not describe the-updating-that-causes-the-value-changes as 'bayesian updating', rather 'naive updating'. (But this is a terminology preference.)

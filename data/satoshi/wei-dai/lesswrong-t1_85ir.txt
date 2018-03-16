@@ -1,0 +1,9 @@
+By "true" do you mean that the physical universe semantically entails the sentence, or that the sentence is a semantic tautology of second-order logic?  I'm assuming the latter, since the former case is what I was assuming when I gave my Tarski reply.
+
+So... I'm pretty sure you can represent a set's semantic entailment of a Henkin interpretation of a second-order sentence in a first-order set theory.  I'm less sure that you can represent entailment of a second-order sentence inside a second-order set theory, but I'm having trouble seeing why you *wouldn't* be able to do that.  I also think that second-order set theories are supposed to be finitely axiomatizable, though I could be wrong about this.  But then I'm not *quite* sure why we don't get into Tarskian trouble.
+
+Let ST be the finite axiomatization of a second-order set theory.  Then in second-order logic, why doesn't the sentence (ST-&gt;"All sets: Set entails S") form a truth predicate for S?  My guess is that there's just no theorem which says, "X is *true* (entailed by the mathematical universal set / model we're currently operating inside) iff 'X' is entailed by all sets (inside the current model)".
+
+If this is so, then it looks to me like for any given set of axioms corresponding to a second-order set theory, second-order logic can represent the idea of a device that outputs sentences which are semantically entailed by every individual set *inside* that theory.  So the new answer would be that you are welcome to hypothesize that a device prints out truths of second-order logic, for any given background second-order set theory which provides a universe of models against which those sentences are judged universally semantically true.
+
+In which case the indefinite extensibility gets packed into the choice of set theory that we think this device is judging second-order validity for, if I haven't dropped the bucket somewhere along the way.

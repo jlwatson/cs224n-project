@@ -1,0 +1,1 @@
+There's a subscenario of c.ii that I think is worth considering: there turns out to be some good theoretical reason why even an AGI with access to and full-stack understanding of its own source code cannot FOOM - a limit of some sort on the rate of self-improvement. (Or is this already covered by D?)

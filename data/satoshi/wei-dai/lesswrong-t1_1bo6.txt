@@ -1,0 +1,11 @@
+Theoretically, it's not infinite because of the granularity of time/space, speed of light, and so on. 
+
+Practically, we can get around this because we only *care* about a tiny fraction of the possible variation in arrangements of the universe. In a coin flip, we only care about whether a coin is heads-up or tails-up, not the energy state of every subatomic particle in the coin.
+
+This matters in the case of a biased coin - let's say biased towards heads 66%. This, I think, is what Wei meant when he said we couldn't just give equal weights to all possible universes - the ones where the coin lands on heads and the ones where it lands on tails. But I think "universes where the coin lands on heads" and "universes where the coin lands on tails" are unnatural categories. 
+
+Consider how the probability of winning the lottery isn't .5 because we choose with equal weight between the two alternatives"I win" and "I don't win". Those are unnatural categories, and instead we need to choose with equal weight between "I win", "John Q. Smith of Little Rock Arkansas wins", "Mary Brown of San Antonio, Texas, wins" and so on to millions of other people. The unnatural category "I don't win" contains millions of more natural categories.
+
+So on the biased coin flip, the categories "the coin lands heads" and "the coin lands tails" contains a bunch of categories of lower-level events about collisions of air molecules and coin molecules and amounts of force one can use to flip a coin, and two-thirds of those events are in the "coin lands heads" category. But among *those* lower-level events, you choose with equal weight.
+
+True, beneath these lower-level categories about collisions of air molecules, there are probably even lower things like vibrations of superstrings or bits in the world-simulation or whatever the lowest level of reality is, but as long as these behave mathematically I don't see why they prevent us from basing a theory of probability on the effects of low level conditions.

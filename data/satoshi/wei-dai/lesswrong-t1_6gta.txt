@@ -1,0 +1,12 @@
+It occurs to me that we can view this proposal through the "acausal trade" lens, instead of the "indirect normativity" lens, which might give another set of useful intuitions. What Paul is proposing can be seen as creating an AGI that can exert causal control in our world but cares only about a very specific world / platonic computation defined by H and T, while the inhabitants of that world (simulated humans and their descendants) care a lot about our world but has no direct influence over it. The hoped for outcome is for the two parties to do a trade: the AGI turns our world into a utopia in return for the inhabitants of the HT World satisfying its preferences (i.e., having the computation return a high utility value).
+
+From this perspective, Paul's proposal can also be seen as an instance of what I called "Instrumentally Friendly AI" (on the decision theory list):
+
+&gt;Previous discussions about Rolf Nelson's AI Deterrence idea (or in Nesov's 
+more general terms, UFAIs trading with FAIs across possible worlds) seem to 
+assume that even at best we (or humane values) will get only a small share 
+of any world controlled by a UFAI. But what if we can do much better (i.e., 
+get almost the entire universe), by careful choice of the decision algorithm 
+and utility function of the UFAI? In that case the UFAI might be worthy of 
+the name "Instrumentally Friendly AI" (IFAI), and it might be something we'd 
+want to deliberately build.

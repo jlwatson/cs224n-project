@@ -1,0 +1,3 @@
+&gt;Definition: We call an agent wireheaded if it systematically exploits some discrepancy between its true utility calculated w.r.t reality and its substitute utility calculated w.r.t. its model of reality. We say an agent wireheads itself if it (deliberately) creates or searches for such discrepancies.
+
+What do you mean by "true utility"? In the case of an AI, we can perhaps reference the designer's intentions, but what about creatures that are not designed? Or things like neuromorphic AIs that are designed but do not have explicit hand-coded utility functions? A neuromorphic AI could probably do things that we'd intuitively call wireheading, but it's hard to see how to apply this definition.

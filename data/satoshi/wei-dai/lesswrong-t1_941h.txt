@@ -1,0 +1,12 @@
+I am very glad to see MIRI taking steps to list open problems and explain why those problems are important for making machine intelligence benefit humanity.
+
+I'm also struggling to see why this Lob problem is a reasonable problem to worry about right now (even within the space of possible AI problems). Basically, I'm skeptical that this difficulty or something similar to it will arise in practice. I'm not sure if you disagree, since you are saying you don't think this difficulty will "block AI." And if it isn’t going to arise in practice (or something similar to it), I’m not sure why this should be high on the priority list of general AI issues to think about it (edited to add: or why working on this problem now should be expected to help machine intelligence develop in a way that benefits humanity).
+
+Some major questions I have are:
+
+* What are some plausible concrete examples of self-modifications where Lob issues might cause you to stumble? I promise not to interpret your answer as "Eliezer says this is probably going to happen."
+* Do you think that people building AGI in the future will stumble over Lob issues if MIRI doesn't work on those issues? If so, why?
+
+Part of where I'm coming from on the first question is that Lobian issues only seem relevant to me if you want to argue that one set of fundamental epistemic standards is better than another, not for proving that other types of software and hardware alterations (such as building better arms, building faster computers, finding more efficient ways to compress your data, finding more efficient search algorithms, or even finding better mid-level statistical techniques) would result in more expected utility. But I would guess that once you have an agent operating with a minimally decent fundamental epistemic standards, you just can't prove that altering the agent's fundamental epistemic standards would result in an improvement. My intuition is that you can only do that when you have an inconsistent agent, and in that situation it's unclear to me how Lobian issues apply.
+
+Part of where I'm coming from on the second question is that evolutionary processes made humans who seem capable of overcoming putative Lobian obstacles to self-modification. See my other [comment](http://lesswrong.com/lw/hmt/tiling_agents_for_selfmodifying_ai_opfai_2/940y) for more detail. The other part has to do with basic questions about whether people will [adequately prepare for AI by default](http://lesswrong.com/lw/hlc/will_the_worlds_elites_navigate_the_creation_of/).

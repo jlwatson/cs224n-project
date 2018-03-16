@@ -1,0 +1,7 @@
+&gt;these are four of the seven most important themes on the site in terms of immediate advice about what to *do*
+
+What are the other three? And shouldn't there be an explanation why they are excluded from this outside view analysis? (EDIT: See Mass\_Driver's explanation [here](http://lesswrong.com/r/discussion/lw/6cx/an_outside_view_on_less_wrongs_advice/4ggl).)
+
+&gt;let's call it 'Omega' instead of God
+
+Please call it something else? Using 'Omega' seems unnecessarily confusing given that there's already a convention for using that name to denote a powerful and *trustworthy* (but not necessarily Friendly) entity in decision theory problems.

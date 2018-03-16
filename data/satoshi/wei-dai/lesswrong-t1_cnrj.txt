@@ -1,0 +1,5 @@
+We have the universal explorer - it will figure out everything, if it survives, but it'll almost certainly kill itself.
+
+We have the bad AIXI model above - it will survive for a long time, but is trapped in a bad epistemic state.
+
+What would be ideal would be a way of establishing the minimal required exploration rate.

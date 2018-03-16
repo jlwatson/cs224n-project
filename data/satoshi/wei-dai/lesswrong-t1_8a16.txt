@@ -1,0 +1,9 @@
+&gt;I still disagree with this.
+
+You disagree with the statement that we *can*, or you disagree with the implication that we *should*?
+
+&gt;Why would you do that instead of 2?
+
+In practice, I don't think you would need to. The point of the theorem is that you always can if you want to, and I'm not sure why this result is interesting to Nisan. 
+
+(Note also that this approach works for other metaethical approaches besides NBS/KSBS, and that you don't always have access to NBS/KSBS.)

@@ -1,0 +1,35 @@
+Quick note: I'm glad we're doing this. Let's keep going.
+
+&gt; I guess at this point I understand my disagreement with Eliezer and even Paul relatively well but I don't know where the core of the disagreement between the two of us lies. Do you have a better idea of this?
+
+Is it easy for you to sum up your core disagreements with Eliezer and with Paul? That would be pretty useful to my own strategic thinking.
+
+As for where *our* core strategic disagreements are… I skimmed through your posts that looked fairly strategy-relevant: [Cynical explanations of FAI critics](http://lesswrong.com/lw/e2k/cynical_explanations_of_fai_critics_including/), [Work on security instead of Friendliness?](http://lesswrong.com/lw/dq9/work_on_security_instead_of_friendliness/), [How can we ensure that a Friendly AI team will be sane enough](http://lesswrong.com/lw/cfc/how_can_we_ensure_that_a_friendly_ai_team_will_be/), [Reframing the problem of AI progress](http://lesswrong.com/lw/bob/reframing_the_problem_of_ai_progress/), [Against "AI risk"](http://lesswrong.com/lw/bnc/against_ai_risk/), [Modest superintelligences](http://lesswrong.com/lw/b10/modest_superintelligences/), [Wanted: backup plans for "see AI turns out to be easy"](http://lesswrong.com/lw/7n5/wanted_backup_plans_for_seed_ai_turns_out_to_be/), [Do we want more publicity, and if so how?](http://lesswrong.com/lw/77y/do_we_want_more_publicity_and_if_so_how/), [Some thoughts on singularity strategies](http://lesswrong.com/lw/6mi/some_thoughts_on_singularity_strategies/), [Outline of possible singularity scenarios (that are not completely disastrous)](http://lesswrong.com/lw/6j9/outline_of_possible_singularity_scenarios_that/), [Metaphilosophical Mysteries](http://lesswrong.com/lw/2id/metaphilosophical_mysteries/), [Hacking the CEV for fun and profit](http://lesswrong.com/lw/2b7/hacking_the_cev_for_fun_and_profit/), [Late great filter is not bad news](http://lesswrong.com/lw/214/late_great_filter_is_not_bad_news/), [Complexity of value ≠ complexity of outcome](http://lesswrong.com/lw/1oj/complexity_of_value_complexity_of_outcome/), [Value uncertainty and the singleton scenario](http://lesswrong.com/lw/1ns/value_uncertainty_and_the_singleton_scenario/), [Non-Malthusian scenarios](http://lesswrong.com/lw/199/nonmalthusian_scenarios/), [Outside view(s) and MIRI's FAI endgame](http://lesswrong.com/lw/ig9/outside_views_and_miris_fai_endgame/), and [Three approaches to "Friendliness"](http://lesswrong.com/lw/hzs/three_approaches_to_friendliness/).
+
+My first idea is that we might disagree about the plausibility of the alternatives to "AI-foom disaster" you list [here](http://lesswrong.com/lw/bnc/against_ai_risk/). My second idea is that some of our core disagreements are about the stuff we're talking about in this thread already.
+
+&gt; I wonder why you don't post/crosspost those things here
+
+I did this [once](http://lesswrong.com/lw/iei/transparency_in_safetycritical_systems/) and didn't get much of a response. But maybe I could do it more anyway.
+
+&gt; No that's not clear. An almost-Friendly AI could be worse than a completely indifferent AI, since "bad" ...utility functions are [closer] in design space to "good" utility functions. I think somebody made this argument before on LW but I forgot who/where.
+
+Right. I think I was persuaded of this point when we discussed it [here](http://lesswrong.com/lw/cck/holden_karnofskys_singularity_institute_objection/6kw9). I think the question *does* deserve more analysis (than I've seen written down, anyway), but I could easily see it being one of the questions that is unwise to discuss in great detail in public. I'd definitely like to know what you, Eliezer, Carl, Bostrom, etc. think about the issue.
+
+The key questions are: how *much* greater is P(eAI | FAI attempted) than P(eAI | FAI not-attempted), and what tradeoff are we willing to accept? The first part of this question is another example of a strategic question I expect work toward FAI to illuminate more effectively than any other kind of research I can think of to do.
+
+I notice that many of your worries seem to stem from a worry not about the math work MIRI is doing *now*, but perhaps from a worry about mission lock-in (from cognitive dissonance, inertia, etc.). Is that right? Anyway, I don't think even Eliezer is so self-confident that he would make a serious attempt at Yudkowskian FAI even with mounting evidence that there was a pretty good chance we'd get eAI from the attempt.
+
+&gt; There's also an argument that if acausal control/trading is possible
+
+I have no comment on this part since I haven't taken much time to familiarize myself with acausal trade arguments. And I stand by that choice.
+
+&gt; I think what may be useful is "AI safety" (for lack of a better term) research that is done explicitly under the assumption that we may have to deploy a not-quite-Friendly AI to head off a greater danger, which would involved approaches quite different Eliezer's current one
+
+It's not MIRI's *focus*, but e.g. Carl has spent a lot of time on that kind of thing over the past couple years, and I'm quite happy for FHI to be working on that kind of thing to some degree.
+
+&gt; In that case it seems like the cost of the strategic information you're seeking is really high
+
+You might be underestimating how costly it is to purchase new strategic insights at this stage. I think Bostrom &amp; Yudkowsky &amp; company picked up most of the low-hanging fruit over the past 15 years (though, most of it hasn't been written up clearly anywhere). Example 1 (of difficulty of purchasing new strategic insights): Bostrom's book has taken many person-years of work to write, but I'm not sure it contains any new-to-insiders strategic insights, it's just work that makes it easier for a wider population to build on the work that's already been done and work toward producing new strategic insights. Example 2: [Yudkowsky (2013)](http://intelligence.org/files/IEM.pdf)+[Grace (2013)](http://intelligence.org/files/AlgorithmicProgress.pdf) represents quite a lot of work, but again doesn't contain any new strategic insights; it merely sets up the problem and shows what kind of work would need to be done on a much larger scale to (maybe!) grab new strategic insights.
+
+Also, remember that MIRI's focus on math work was chosen because it purchases lots of other benefits alongside some expected strategic progress – benefits which seem to be purchased less cheaply by doing "pure" strategic research.

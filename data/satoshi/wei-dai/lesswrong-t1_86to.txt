@@ -1,0 +1,6 @@
+The intuition:
+For a high dimensional ball, most of the volume is near the surface, and most of the surface is near the equator (for any given choice of equator). The extremity of "most" and "near" increases with number of dimensions. The intersection of two equal-size balls is a ball minus a slice through the equator, and thus missing most of its volume even if it's a pretty thin slice.
+
+The calculation:
+Let ![](http://www.codecogs.com/png.latex?v\(n,r\)%20=%202\\int%20\_\{y=0\}%5E\{r\}%20v\(n\-1,\\sqrt\{r%5E2\-y%5E2\}\)%20dy%20=%20\(2%20\\pi%5E\{n/2\}%20r%5En\)%20/%20\(n%20\\Gamma\(n/2\)\)) which is the [volume of a n-dimensional ball of radius r](http://www.wolframalpha.com/input/?i=volume+of+a+hyper-sphere).  
+Then the fraction of overlap between two balls displaced by x is ![](http://www.codecogs.com/png.latex?\\tfrac\{2\\int%20\_\{y=x/2\}%5E\{r\}%20v\(n\-1,\\sqrt\{r%5E2\-y%5E2\}\)%20dy\}\{v\(n,r\)\}) (The integrand is a cross-section of the intersection (which is a lower-dimensional ball), and y proceeds along the axis of displacement.) [Numeric result.](http://www.wolframalpha.com/input/?i=2+*+%28%282+%5Cpi%5E%7B9999%2F2%7D%29+%2F+%289999+%5CGamma%289999%2F2%29%29%29+%2F+%28%282+%5Cpi%5E%7B10000%2F2%7D%29+%2F+%2810000+%5CGamma%2810000%2F2%29%29%29+*+%5Cint_%7By%3D0.05%7D%5E%7B1%7D+sqrt%281-y%5E2%29%5E9999)

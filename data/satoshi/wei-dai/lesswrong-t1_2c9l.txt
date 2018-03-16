@@ -1,0 +1,3 @@
+&gt;Umm... what about my argument that a human can represent their predictions symbolically like "P(next bit is 1)=i-th bit of BB(100)" instead of using numerals, and thereby do better than a Solomonoff predictor because the Solomonoff predictor can't incorporate this? 
+
+BB(100) is computable. Am I missing something?

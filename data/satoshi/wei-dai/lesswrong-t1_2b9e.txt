@@ -1,0 +1,9 @@
+Quoting Eliezer from the interview:
+
+&gt;That is an informal argument that most decision systems with coherent utility functions automatically preserve their utility function under self-modification if they are able to do so.  If I could prove it formally I would know a great deal more than I do right now.  
+
+I'm having trouble understanding this passage. If you could prove what formally? That *most* decision systems with coherent utility functions automatically preserve their utility function under self-modification if they are able to do so? But why is that interesting? 
+
+Or prove that some particular decision system you're planning to implement would preserve its utility function under self-modification? But you wouldn't necessarily want it to do that. For example, suppose Omega appears to the FAI and says that if you (the FAI) change your utility function to be a paperclip maximizer, it would give you a whole bunch of utils under your original utility function (that you otherwise wouldn't be able to obtain), then the FAI should do so, right?
+
+So what is Eliezer talking about here?

@@ -1,0 +1,5 @@
+&gt; It has &gt;99% probability of wireheading, and in &gt;99% of the remaining outcomes it disassembles itself with its mining claws.
+
+Wireheading is just what reinforcement learning agents are built to do, so it's not actually a problem. Hurting own hardware because anticipation admits quantum suicide is partially the same problem as relying on explicit dependencies, although it's still hard to define reward, to count the worlds that include or not include your instance (with given reward-observations), but this should be solved in any case for UDT-AIXI, and the only way to solve this that I see (which doesn't involve privileging particular physical implementation of the agent, but accepts it on any substrate within a world-program) again involves looking for ambient dependencies (namely, see if a dependence is present, and count a world-program only if it is).
+
+So these problems are also automatically taken care of in UDT-AIXI, to the extent they are problematic.

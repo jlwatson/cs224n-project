@@ -1,0 +1,7 @@
+&gt; The last step doesn't look valid to me.
+
+The conclusion follows (I think) because the Solomonoff agent is computing the posterior probability of all algorithms, including the one that implements the same computation the human implements. So after updating, the Solomonoff agent's posterior probability for that algorithm should be higher than that of any other algorithm, and it draws the same conclusion the human does.
+
+&gt; Also, there are entities that are impossible to distinguish from halting oracles using all the computational resources in the universe, which are not actually halting oracles.
+
+Given this, then *contra* Wei Dai, I don't know how any *human* attempting to internally implement Bayesian inference could possibly become convinced that a halting oracle exists.

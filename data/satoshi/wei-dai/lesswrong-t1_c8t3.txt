@@ -1,0 +1,7 @@
+Suppose that you are the AI, and the overseer is a superintelligent alien with very different values and philosophical views. How well do you think that things will end up going for the alien? (Assuming you are actually trying to win at the RL / question-answering game.)
+
+It seems to me like you can pursue the aliens' values nearly as well as if they were your own. So I'm not sure where we disagree (assuming you don't find this thought experiment convincing):
+
+1. Do you think that you couldn't satisfy the alien's values?
+2. Do you think that there is a disanalogy between your situation in the hypothetical and the situation of a subhuman AI trying to satisfy our values?
+3. Something else?

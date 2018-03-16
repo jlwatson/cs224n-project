@@ -1,0 +1,3 @@
+&gt; Can you give an example of a mathematical formulation of a void cathedral, just to show that such a thing is possible?
+
+One description is something like the following: take the space of computable universes that agree with our observations so far.  Rather than putting an Occam prior over it, put an [ultrafilter](http://en.wikipedia.org/wiki/Ultrafilter) on it.  One can pick the ultrafilter so that the set of universes where any particular level is fundamental has measure zero.

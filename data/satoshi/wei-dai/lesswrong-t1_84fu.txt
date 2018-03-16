@@ -1,0 +1,13 @@
+&gt;It seems plausible that such an AI may create some auxiliary (or "higher-level") objects in its world model to help it make predictions because it doesn't have enough computing power to just apply the fundamental laws of physics
+
+Assume it has infinite computing power. The AI thing is just a way of asking this question: if something knew all the facts about the things physical laws keep track of and directly operate on, and it were logically omniscient, would it know, for example, that this thing here is a tulip, that it's alive, etc.?
+
+If not (I gather from your post that the answer is 'no') then it seems we should conclude one of two things:
+
+1) Tulips are not in the territory, or,
+
+2) Tulips are in the territory, but (for some reason) some facts about tulips are not derivable from facts about ontologically primitive things.
+
+Which do you think is right? Or have I left out one or more possibilities?
+
+(EDIT: I changed the example from 'me' to 'tulips' to avoid the impression that this question has anything to do with consciousness)

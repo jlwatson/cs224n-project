@@ -1,0 +1,5 @@
+Hi, it's Terry again (one of the researchers on the project)
+
+The interesting thing (for me) isn't that it can shift from task to task, but that it can shift from task to task *just like the human brain*.  In other words, we're showing how a realistic neural system can shift between tasks.  That's something that's not found in other neural models, where you tend to either have it do one task or you have external (non-neural) systems modify the model for different tasks.  We're showing a way of doing that selecting routing and control in an entirely neural way that maps nicely onto the cortex-basal ganglia-thalamus loop.
+
+Oh, and, since we constrain the model with a bunch of physical parameters influencing the timing of the system (reabsorption of neurotransmitter, mostly), we can also look at how long it takes the system to switch tasks, and compare that to human brains.  It's these sorts of comparisons that let us use this sort of model to test hypotheses about what different parts of the brain are doing.

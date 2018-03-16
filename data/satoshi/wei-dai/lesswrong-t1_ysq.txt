@@ -1,0 +1,1 @@
+Since AIs can self-modify, one nice property would be if no player can obtain a better outcome for itself by modifying its utility function ahead of time. In this case, if I take the pure outcome that most favors me, and change my utility function so that I value it less, I can increase my bargaining power and possibly get a better outcome under your proposed solution. Right?

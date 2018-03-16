@@ -1,0 +1,5 @@
+I don't think the counterexample is really a counterexample to cousin_it's claim. Quoting from [Wikipedia](http://en.wikipedia.org/wiki/Nash_equilibrium):
+
+&gt;The Nash equilibrium defines stability only in terms of unilateral deviations. In cooperative games such concept is not convincing enough. Strong Nash equilibrium allows for deviations by every conceivable coalition [4]. Formally, a Strong Nash equilibrium is a Nash equilibrium in which no coalition, taking the actions of its complements as given, can cooperatively deviate in a way that benefits all of its members [5]. However, the Strong Nash concept is some times perceived too "strong" in that the environment allows for unlimited private communication. In fact, Strong Nash equilibrium has to be Pareto efficient. As a result of these requirements, Strong Nash almost never exists.
+
+The counterexample shows that 'all players run Freaky Fairness' is not a Strong Nash equilibrium but that wasn't the claim...

@@ -1,0 +1,3 @@
+&gt;In his scenario of a boss running at 21x the speed of the workers, why isn't the whole team being run at the higher speed? Does anyone understand his reasoning here?
+
+How fast you run these employees depends on the economics of your industry, I think the idea is that coordination failure is *expensive*. Thus if running bosses faster than workers avoids such failures it seems more justified running bosses faster than nearly any other kind of worker. The value of good management in a large company *is* much higher than the productivity boost any one low level worker could acheive. He touches this when he notes that it is vital the most competent people are as high up the chain as possible. 

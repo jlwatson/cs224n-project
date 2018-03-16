@@ -1,0 +1,7 @@
+I can argue pretty forcefully that (1) a causal graph in which uncertainty has been factored into uncorrelated sources, must have nodes or *some* kind of elements corresponding to logical uncertainty; (2) that in presenting Newcomblike problems, the dilemma-presenters are in fact talking of such uncertainties and correlations; (3) that human beings use logical uncertainty all the time in an intuitive sense, to what seems like good effect.
+
+Of course none of that is actually *having* a good formal theory of logical uncertainty - I just drew a boundary rope around a few simple logical inferences and grafted them onto causal graphs.  Two-way implications get represented by the same node, that sort of thing.
+
+I would be *drastically* interested in a formal theory of logical uncertainty for non-logically-omniscient Bayesians.
+
+Meanwhile - you're carrying out logical reasoning about whole other civilizations starting from a vague prior over their origins, every time you reason that most superintelligences (if any) that you encounter in faraway galaxies, will have been built in such a way as to maximize a utility function rather than say choosing the first option in alphabetical order, on the likes of true PDs.

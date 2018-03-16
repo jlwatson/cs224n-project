@@ -1,0 +1,3 @@
+Yes. That is correct. It is only strategy proof if the max bet amount is fixed.
+
+ As for the used up potential, that is common in mechanism design. It is very common to have to choose between Pareto optimality and strategy proof.

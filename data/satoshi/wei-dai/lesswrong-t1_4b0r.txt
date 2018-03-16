@@ -1,0 +1,1 @@
+This is basically how Drescher explains qualia in Good and Real (section 2.5.2). He makes a reference to [gensyms](http://en.wikipedia.org/wiki/Common_Lisp), in this context tags that can only be tested for equality and make no other semantics available.

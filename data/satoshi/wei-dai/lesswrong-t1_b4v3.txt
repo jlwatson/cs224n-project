@@ -1,0 +1,11 @@
+&gt; The domain name market is not an efficient one though, given that I'm the only person who can even see the history of bids on weidai.com.
+
+It may not be particularly efficient, although it's grown up a lot since the '90s. But being inefficient is not helpful for *you*, since you are not an expert on domain names and have no edge. As far as you are concerned, the domain name market is efficient. As I said: do you know how serious the offers are? Do you know why exactly weidai.com may be worth $100k? Do you know whether it's likely to continue increasing and what the limit is ($200k? $1m? $5m?) for it? Do you know whether additional TLDs would affect it (`wei.dai` would be a nice domain...) or whether the use for weidai.com would be affected by any increases in adoptions of Unicode or punycode domain names? If you don't know any of this, how on earth can you sit by and leave up to $100k of your money in such an asset? Such complacency baffles me.
+
+&gt; My intuitive estimate is that it's about $10k, which does not make it worthwhile for me to sell. I don't know how to do a more exact calculation. Do you?
+
+No, but my intuition (as a person with no sentimental attachment to the domain and not seeking excuses to not sell) is that the risk and opportunity cost are much larger than $10k. You have a bird in the hand, which you've never sold, don't know why it's valuable, and can easily replace. I would fling that away from myself like it was 2000 and I was holding $100k of Pets.com stock.
+
+&gt; "opaque illiquid minor hard-to-price" are arguments against trading in the asset, either buying or selling, since these attributes tend to increase transaction costs. I don't see how they are arguments for keeping my holdings in the asset class to a low level, if I started off holding a big position.
+
+All those attributes make it a very volatile and risky asset to hold, so by regular portfolio theory, you should be holding very little of that asset and in particular, should be rebalancing away from it now that it's recently doubled.

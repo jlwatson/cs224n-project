@@ -1,0 +1,7 @@
+&gt;"It's rational to believe the sky is blue" 
+&gt;-&gt; "I think the sky is blue" 
+&gt;-&gt; "The sky is blue"
+
+These sentences have different truth conditions (sets of possible worlds in which they are true). For example, in a possible world where aliens have changed the color of the sky to green and installed filters into everyone's optic nerves, "I think the sky is blue" and "It's rational to believe (in the sense of assigning the most probability to) the sky is blue" are true but "the sky is blue" is false. In a possible world where I irrationally believe the sky is blue, "I think the sky is blue" is true but "It's rational to believe the sky is blue" is false. 
+
+I think I should pick the sentence that best matches the probability distribution over possible worlds that I have. For example if I'm pretty sure that it's rational to believe the sky is blue but not highly certain the sky really is blue, I might want to say "It's rational to believe the sky is blue". If I'm not sure about either, "I think the sky is blue" would be best, etc.

@@ -1,0 +1,7 @@
+&gt; Consider a universal prior based on an arbitrary logical language L, and a device that can decide the truth value of any sentence in that language. Such a device has no finite description in L (according to Tarski's undefinability theorem), so the universal prior based on L would assign it zero probability.
+
+What do you mean by "decide the truth value"? Most statements aren't valid or unsatisfiable, there is no truth value for them. We are not assuming any models here, just assigning plausibility to (statement) elements of language's Lindenbaum algebra.
+
+&gt; Such a device has no finite description in L (according to Tarski's undefinability theorem), so the universal prior based on L would assign it zero probability.
+
+Whatever model you have in mind, it will be categorized on one side of each statement of the language. We are assigning plausibility to statements, and hence classes of structures, not individual structures (which are like individual points for a continuous distribution).

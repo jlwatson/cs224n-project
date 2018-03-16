@@ -1,0 +1,1 @@
+Parametric methods aren't any better at extrapolation. They are arguably worse, in that they make strong unjustified assumptions in regions with no data. The rule is "don't extrapolate if you can possibly avoid it". (And you avoid it by collecting relevant data.)

@@ -1,0 +1,15 @@
+&gt; I had interpreted you to mean philosophers as part of a team to build FAI.
+
+That could *also* be true, but I'm not sure.
+
+Re: "hero mathematicians" and "hero strategists", here's a more detailed version of what I currently think.
+
+Result of saying we need "hero mathematicians"? A few mathematicians (perhaps primed by *HPMoR* to be rationality heroes) come to us and learn what the technical research program looks like, help put our memes into the math community, etc.
+
+Result of saying we need "hero strategists"? I'm inundated with people who say they can contribute to singularity strategy after thinking about the issues for one month and reading less than 100 pages on the subject. SI staff wastes valuable time trying to steer amateur strategists along more valuable paths before giving up due to low ROI.
+
+Basically, the recruiting problem is different for mathematicians and strategists, and I think these problems can be tackled more effectively by tackling them separately. Mathematicians can prove themselves useful rather quickly, by offering constructive comments on the problems we will (in the next 12 months) have written up somewhat formally, or by spreading our memes in their research communities.
+
+But to tell whether someone can be a useful strategist they need to read 500 pages of material and spend months chatting regularly with SI and/or FHI, and that's very costly for both them and for SI+FHI.
+
+The best result might be if some of the mathematicians themselves turn out to be good strategists. I don't know that I can count on that, but for example I already count both you and Paul Christiano as among the few strategists whose strategy work I would spend my time reading, even though your primary life work has been in math and compsci (and not, say, civil engineering, business management, political science, or economics).

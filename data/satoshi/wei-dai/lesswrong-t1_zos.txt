@@ -1,0 +1,3 @@
+Actually the book tells about a psychological experiment conducted similarly to the situation I described, but there the subjects were told outright by the trustworthy experimenter that their partner *couldn't* learn their whereabouts. But I still think that average-rational humans would often fall for the radio trick. Expected utility suggests you don't have to believe your partner 100%; a small initial doubt reinforced over a day could suffice.
+
+And yep, the problem of making your precommitments trustworthy is also discussed in much detail in the book.

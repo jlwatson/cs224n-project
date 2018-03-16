@@ -1,0 +1,16 @@
+&gt;They \[Savage's axioms\] require that the agent's actions be consistent in commonsensical ways. 
+
+This seems to be a common "overselling" of Savage's ideas (and other axiomatic approaches to decision theory / probability). In order to decide that the axioms apply, you really need to understand them in detail rather than just accept that they are commonsensical.
+
+It appears for example that they don't apply when indexical uncertainty is involved, and that seems to be why people got nowhere trying to solve problems like Absentminded Driver and Sleeping Beauty while keeping the basic subjective probability framework intact. Ironically, the [original paper](http://scholar.google.com/scholar?hl=en&amp;q=%22On+the+Interpretation+of+Decision+Problems+with+Imperfect+Recall%22) that spawned off this whole literature actually noted that Savage's axioms don't apply:
+
+&gt;Another resolution would entail the
+rejection of expected utility maximization given consistent beliefs when the
+information set includes histories whose probabilities depend on the
+decision maker’s actions at that information set. Savage’s theory views a
+state as a description of a scenario which is independent of the act. In
+contrast, ‘‘being at the second intersection’’ is a state which is not independent
+from the action taken at the first, and, consequently, at the second
+intersection.
+
+Note that I'm not saying that logical uncertainty *shouldn't* be handled using probabilities, just that the amount of work shown in this post seems way too low to determine that it should. Also, rather than trying to determine how to handle logical uncertainty using a foundational approach, we can just try various methods and see what works out in the end, and I'm not arguing against that either.

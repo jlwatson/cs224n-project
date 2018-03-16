@@ -1,0 +1,3 @@
+I can't visualize how saying that a result is "uncertain" could make the Lobian issue go away - do you have a concrete visualization for this, and if so, can you sketch it even if very briefly?
+
+Possibly relevant:  No Turing machine can assign finite probability to the halting sequence.

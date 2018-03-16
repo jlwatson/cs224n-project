@@ -1,0 +1,1 @@
+An (insufficiently well designed) AI might use this kind of reasoning to conclude that it's not like anything to be a human. (I mentioned this as an AI risk at the bottom of [this SL4 post](http://www.sl4.org/archive/0711/17101.html).)

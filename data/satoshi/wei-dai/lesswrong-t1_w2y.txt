@@ -1,0 +1,3 @@
+I'm confused by your comment, but I'll try to answer anyway.
+
+As an agent in environment, you can consider the environment in behavioral semantics: environment is an equivalence class of all the things that behave the same as what you see. Instead of minimal model, this gives a maximal model. Everything about territory remains black box, except the structure imposed by the way you see the territory, by the way you observe things, perform actions, and value strategies. This dissolves the question about what the territory "really is".

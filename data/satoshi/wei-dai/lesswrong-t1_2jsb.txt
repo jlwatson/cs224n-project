@@ -1,0 +1,7 @@
+I haven't read your post and my understanding is still hazy, but surely at least the theorems don't depend on the agents being able to *fully* reconstruct each other's evidence? If they do, then I don't see how it could be true that the probability the agents end up agreeing on is sometimes different from the one they would have had if they were able to share information. In this sort of setting I think I'm comfortable calling it "updating on each other's opinions".
+
+Regardless of Aumann-like results, I don't see how:
+
+&gt;one can learn from knowing other people's opinions without knowing their arguments
+
+could possibly be controversial here, as long as people's opinions probabilistically depend on the truth.

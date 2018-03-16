@@ -1,0 +1,13 @@
+You conflate two very different things here, as I see.
+
+First, there are the preferences for simpler physical laws or simpler mathematical constructions. I don't doubt that they are real amongst humans; after all, there is an evolutionary advantage to using simpler models *ceteris paribus* since they are easier to memorize and easier to reason about. Such evolved preferences probably contribute to a matemathician's sense of elegance. 
+
+Second, there are preferences about the concrete evolutionarily relevant environment and the relevant agents in it. Naturally, this includes our fellow humans. Note here that we might also care about animals, uploads, AIs or aliens because of our evolved preferences and intuitions regarding humans. Of course, we don't care about aliens because of a direct evolutionary reason. Rather, we simply execute the adaptations that underlie our intuitions. For instance, we might disprefer animal suffering because it is similar enough to human suffering.
+
+This second level has very little to do with the complexity of the underlying physics. Monkeys have no conception of cellular automata; you could run them on cellular automata of vastly differing complexity and they wouldn't care. They care about the kind of simplicity that is relevant to their day-to-day environment. Humans also care about this kind of simplicity; it's just that they can *generalize* this preference to more abstract domains.
+
+(On a somewhat unrelated note, you mentioned bacteria. I think your point is a red herring; you can build agents with an assumption for the underlying physics, but that doesn't mean that the agent itself necessarily has any conception of the underlying physics, or even that the agent is *consequentialist* in any sense). 
+
+So, what I'm trying to get at: you might prefer simple physics *and* you might care about people, but it makes little sense to care less about people *because* they run on uglier physics. People are not physics; they are really high-level constructs, and a vast range of different universes could contain (more or less identical) instances of people whom I care about, or even simulations of those people. 
+
+If I assume Solomonoff induction, then it is in a way reasonable to care less about people running on convoluted physics, because then I would have to assign less "measure" to them. But you rejected this kind of reasoning in your post, and I can't exactly come to grips with the "physics racism" that seems to logically follow from that.

@@ -1,0 +1,12 @@
+Carl Shulman wrote about resetting uploads to prevent value change in his [Whole Brain Emulation and the Evolution of Superorganisms](http://intelligence.org/upload/WBE-superorganisms.pdf) (which I previously [posted](http://lesswrong.com/r/discussion/lw/5jb/link_whole_brain_emulation_and_the_evolution_of/) under discussion):
+
+&gt;The methods outlined above to enhance productivity could also be used to produce emulations
+with trusted motivations. A saved version of an emulation would have particular motives,
+loyalties, and dispositions which would be initially shared by any copies made from it. Such
+copies could be subjected to exhaustive psychological testing, staged situations, and direct
+observation of their emulation software to form clear pictures of their loyalties. Ordinarily, one
+might fear that copies of emulations would subsequently change their values in response to
+differing experiences (Hanson and Hughes, 2007). But members of a superorganism could
+consent to deletion after a limited time to preempt any such value divergence. Any number of
+copies with stable identical motivations could thus be produced, and could coordinate to solve
+collective action problems even in the absence of overarching legal constraints.

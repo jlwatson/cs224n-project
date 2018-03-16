@@ -1,0 +1,42 @@
+(So this is just about the first real post I made here and I kinda have stage fright posting here, so if its horribly bad and uninteresting and so please tell me what I did wrong, ok? Also, I've been frying to figure out the spelling and grammar and failed, sorry about that.)
+(Disclaimer: This post is humorous, and not everything should be taken all to seriously! As someone (Boxo) reviewing it put it: "it's like a contest between 3^^^3 and common sense!")
+
+1) My analysis of http://lesswrong.com/lw/kn/torture_vs_dust_specks/
+
+Lets say 1 second of torture is -1 000 000 utilions.
+Because there are about 100 000 seconds in a day, and about 20 000 days in 50 years, that makes -2*10^15 utilions.
+
+Now, I'm tempted to say a dust speck has no negative utility at all, but I'm not COMPLETELY certain I'm right. Let's say there's a 1/1000 000 chance I'm wrong*, in which case the dust speck is -1 utilion.
+That means the the dust speck option is -1 * 10^-6 * 3^^^3, which is approximately -3^^^3.
+
+-3^^^3 &lt; -10^15, therefore I chose the torture.
+
+2) The ant speck problem.
+
+The ant speck problem is like the dust speck problem, except instead of being 3^^^3 humans that get specks in their eyes, it's 3^^^3 ordinary ants, and it's a billion humans being tortured for a millennia.
+
+Now, I'm bigoted against ants, and pretty sure I don't value them as much as humans. In fact, with 99.9999% certain I don't value ants suffering at all*. 
+The remaining probability space is dominated by that moral value is equal to 1000^[the number of neurons in the entity's brain] for brains similar to earth type animals*.
+Humans have about 10^11, ants have about 10^4
+That means an ant is worth about 10^(-10^14) as much as a human, if it's worth anything at all.
+
+Now lets multiply this together...
+-1 utilions * 10^(-10^14) discount * 1/10^6 that ants are worth anything at all * 1/10^6 that dust specks are bad * 3^^^3...
+That's about -3^^^3!
+
+And for the other side: -10^15 for 50 years. Multiply that with 20, and then with the billion... about -10^25.
+
+-3^^^3 &lt; -10^25, therefore I chose the torture!
+
+((*I do not actually think this, the numbers are for the sake of argument and have little to do with my actual beliefs at all.))
+
+3) Obvious derived problems:
+There are variations of the ant problem, can you work out and post what if...
+
+ - The ants will only be tortured if also all the protons in the earth decays within one second of the choice, the torture however is certain?
+
+ - Instead of ants, you have bacteria, with behaviour as complicated as to be equivalent of 1/100 neurons?
+
+ - The source you get the info from is unreliable, there's only a 1/googol chance the specks could actual happen, while the torture, again, is certain?
+
+ - All of the above?

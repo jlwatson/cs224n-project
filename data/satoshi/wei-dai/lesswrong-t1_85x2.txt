@@ -1,0 +1,21 @@
+&gt; we don't know how to carefully reason with it yet and given our current state of knowledge, it may turn out to be impossible to carefully reason with.
+
+I agree that it's going to take a lot of work to fully clarify our concepts. I might be able to assign a less remote probability to 'morality turns out to be impossible to carefully reason with' if you could give an example of a similarly complex human discourse that turned out in the past to be 'impossible to carefully reason with'.
+
+High-quality theology is an example of the opposite; we turned out to be able to reason very carefully (though admittedly most theology is subpar) with *slightly* regimented versions of concepts in natural religion. At least, there are *some* cases where the regimentation was not completely perverse, though the crazier examples may be more salient in our memories. But the biggest problem with was *metaphysical*, not semantic; there just weren't any things in the neighborhood of our categories for us to refer to. If you have no metaphysical objections to Eliezer's treatment of morality beyond your semantic objections, then you don't think a regimented morality would be problematic for the reasons a regimented theology would be. So what's a better example of a regimentation that would fail because *we just can't be careful* about the topic in question? What symptoms and causes would be diagnostic of such cases?
+
+&gt; What's helpful in the case of decision theory is that it seems reasonable to assume that when we do come up with such a logical definition, it will be relatively *simple*.
+
+By comparison, perhaps. But it depends a whole lot on what we mean by 'morality'. For instance, do we mean:?
+
+- **Morality** is the hypothetical decision procedure that, if followed, tends to maximize the amount of positively valenced experience in the universe relative to negatively valenced experience, to a greater extent than any other decision procedure.
+
+- **Morality** is the hypothetical decision procedure that, if followed, tends to maximize the occurrence of states of affairs that agents prefer relative to states they do not prefer (taking into account that agents generally prefer not to have their preferences radically altered).
+
+- **Morality** is any decision procedure that anyone wants people in general to follow.
+
+- **Morality** is the human tendency to construct and prescribe rules they want people in general to follow.
+
+- **Morality** is anything that English-language speakers call "morality" with a certain high frequency.
+
+If "value is complex," that's a problem for prudential decision theories based on individual preferences, just as much as it is for agent-general moral decision theories. But I think we agree both there's a long way to go in regimenting decision theory, and that there's some initial plausibility and utility in trying to regiment a moralizing class of decision theories; whether we call this regimenting procedure 'logicizing' is just a terminological issue.

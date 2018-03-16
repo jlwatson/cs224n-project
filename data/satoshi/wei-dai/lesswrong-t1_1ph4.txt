@@ -1,0 +1,5 @@
+&gt;Even amongst altruists (at least human ones), excessive skepticism can be a virtue, due to the phenomenon of belief bias, in which "someone's evaluation of the logical strength of an argument is biased by their belief in the truth or falsity of the conclusion".
+
+I wonder if there are ways to either teach scientists to compartmentalize in such a way that their irrational skepticism (or skepticism-like mind state) affects only their motivation to find flaws and no other decisions, or to set up institutions that make it possible for scientists to be irrationally skeptical without having the power to let that skepticism affect anything other than their motivation to find flaws.
+
+More in general, in all these cases where it seems human psychology causes irrationality to do better than rationality, it seems like we should be able to get further improvements by sandboxing the irrationality.

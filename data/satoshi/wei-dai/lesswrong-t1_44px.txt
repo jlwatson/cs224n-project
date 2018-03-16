@@ -1,0 +1,1 @@
+It's true that control we have is limited, but a condition like "biochemicals have a *huge* impact of your thoughts" doesn't in itself argue for that claim, because the biochemicals could be implementing your own decisions. Compare with "the random seed has a *huge* impact on which solution a randomized algorithm will choose".

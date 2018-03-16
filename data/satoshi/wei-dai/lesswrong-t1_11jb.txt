@@ -1,0 +1,5 @@
+&gt; After they encounter a few smart players who defect in non-public rounds, they should learn this.
+
+Unless the smart players didn't defect in non-public rounds, in which case the dumb players who can only look at their behavior wouldn't become prejudiced against smart players, and everyone is happy.
+
+But if some of the smart players are still causal decision theorists, and the dumb players can't distinguish a TDT from a CDT but can distinguish a TDT from a dumb player, then your reward will be based on other people's assumption that your decision is correlated with something that it really isn't. Which brings us back to "the mistaken belief that smart players will defect".

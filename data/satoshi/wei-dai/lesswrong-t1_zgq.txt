@@ -1,0 +1,7 @@
+Nitpick: 
+
+&gt; the ideal, or first best, outcome for an economy ... can only occur under the conditions of “Perfect Competition” in all markets
+
+Not true. Perfect competition =&gt; Pareto Efficiency. !Perfect Competition !=&gt; !Pareto Efficiency.
+
+NB: IMHO [this post on the theory of the second best](http://legaltheorylexicon.blogspot.com/2003/11/legal-theory-lexicon-011-second.html) is slightly better than the wikipedia one.

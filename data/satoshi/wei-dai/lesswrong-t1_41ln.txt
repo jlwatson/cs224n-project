@@ -1,0 +1,1 @@
+Your idea seems to be a general method for solving unformalized problems using an NP-solver: generate phrases that an uploaded human would classify as insights. I'm still afraid that many such phrases will be mindhacks instead of genuine insights, though, and the risk gets worse as the problem gets harder (or more precisely, as the next inferential step becomes harder to hit).

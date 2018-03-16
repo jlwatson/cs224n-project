@@ -1,0 +1,3 @@
+&gt;Personally, I'm inclined to think the bigger risk is an AI with the wrong mix of abilities: say, superhuman abilities in defeating computer security, designing technology, and war planning, but sub-human abilities when it comes understanding what humans want.
+
+That seems likely, don't you think, given that evolution must have optimized us more heavily in the "understanding what humans want" department than the others areas, and understanding other humans is also easier for us since we all share the basic cognitive architecture and can understand others by "putting ourselves in their shoes" (i.e., by imagining what we'd mean by some sentence if we were in their position).

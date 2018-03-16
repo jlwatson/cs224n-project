@@ -1,0 +1,13 @@
+I think my description is basically fair, though I might be misunderstanding or just wrong.
+
+There are two ways in which Arthur’s decisions affect approval\[T\](a); one is by choosing the action a, and the other is by changing the definition of approval\[T\](a). One-step AIXI cares about both, while Arthur does not. This is what I meant by “Arthur will make no effort to manipulate these judgments.”  Note that my proposal requires Hugh to provide “counterfactual” ratings for actions that were not chosen.
+
+Arthur may be motivated to manipulate Hugh’s judgments for other reasons. This is most obvious if Hugh would approve of manipulating Hugh’s judgments, but it could also happen if someone else displaced Hugh and “approved” of actions to manipulate Hugh’s judgments (especially in order to approve of actions that helped them displace Hugh). 
+
+In a note on the original document I gave an example to illustrate: suppose that action X causes Hugh to increase all his ratings by 0.2, but that in every case action Y is rated higher than action X by 0.1. Then Arthur will do Y, not X. (Because the expectation of Y is 0.1 higher than the expectation of X, no matter what Arthur believes.) 
+
+Even in the one-step takeover case, Arthur doesn’t have an intrinsic incentive to take over. It’s just that he could introduce such an incentive for himself, and so the belief “I will kill Hugh and reward myself if I (kill Hugh and reward myself if I…)” can become a self-fulfilling prophecy. This seems like a different issue than 1 step AIXI's desire to maximize reward.i The main vulnerability is now from external actors.
+
+Incidentally, it also seems relatively easy to prevent these attacks in the case of approval-directed agents. For example, we can make actions too small to encapsulate an entire seizing-control-plan.  If you want to use something like [this](https://medium.com/@paulfchristiano/approval-directed-search-63457096f9e4) to evaluate plans then you reintroduce the issue, but now in an easier form (since you can watch the plan unfold and take other precautions). I'll write a bit more soon about how I think a reasonable overseer could behave, and in particular on how they can use access to Arthur to improve their evaluations, but for now these are not my largest concerns with the scheme.
+
+(My largest concern is the plausibility of high-level approval-directed behavior emerging from low-level approval-directed behavior. This dynamic may be more brittle than high-level goal-directed behavior emerging from low-level goal-directed behavior.)

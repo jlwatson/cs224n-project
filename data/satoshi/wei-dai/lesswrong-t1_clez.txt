@@ -1,0 +1,7 @@
+&gt;With this level of funding, we would be able to begin building an entirely new AI alignment research team working in parallel to our current team, working on different problems and taking a different approach. Our current technical agenda is not the only way to approach the challenges that lie ahead, and we would be thrilled to get the opportunity to spark a second research group.
+
+Hi Nate, can you briefly describe this second approach? (Not that I have $6M, but I'm curious what other FAI approach MIRI considers promising.)
+
+On another note, do you know anything about Elon Musk possibly having changed his mind about the threat of AI and how that might affect future funding of work in this area? From [this report](https://sites.google.com/site/deepernn/home/blog/briefsummaryofthepaneldiscussionatdlworkshopicml2015) of a panel discussion at ICML 2015:
+
+&gt;Apparently Hassabis of DeepMind has been at the core of recent AI fear from prominent figures such as Elon Musk, Stephen Hawking and Bill Gates. Hassabis introduced AI to Musk, which may have alarmed him. However, in recent months, Hassabis has convinced Musk, and also had a three-hour-long chat with Hawking about this. According to him, Hawking is less worried now. However, he emphasized that we must be ready, not fear, for the future.

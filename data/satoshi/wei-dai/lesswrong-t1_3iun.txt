@@ -1,0 +1,3 @@
+Killing observers to change the limiting frequency is cheating :-) 
+
+Consider a simpler example: I flip a coin and show you the result. Then if it came up heads, I kill you, otherwise I repeat the experiment. I think you'd be correct (in some yet-undiscovered sense) to have a "subjective anticipation" of 50% heads and 50% tails before the throw, but counting the surviving branches after many trials gives a "limiting frequency" of mostly tails. This doesn't look to me like a fair interpretation of "limiting frequency", because it arbitrarily throws away all observations made by those of you who ended up dying. If I could resurrect them and include them in the poll, I'd get a different result.

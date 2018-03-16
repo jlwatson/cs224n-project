@@ -1,0 +1,3 @@
+&gt;Has any progress been made on the points mentioned in the announcement above?
+
+See http://multiverseaccordingtoben.blogspot.com/2010/10/singularity-institutes-scary-idea-and.html (section titled "My History with SIAI") and http://en.wikipedia.org/wiki/OpenCog (which says that OpenCog incorporates the MOSES system mentioned in the 2007 post).

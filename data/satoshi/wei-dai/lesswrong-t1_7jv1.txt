@@ -1,0 +1,9 @@
+There are some kinds of truths that don't seem to be covered by truth-as-correspondence-between-map-and-territory. (Note: This general objection is well know and is given as Objection 1 in [SEP's entry](http://plato.stanford.edu/entries/truth-correspondence/#5) on Correspondence Theory.) Consider:
+
+1. modal truths if one isn't a modal realist
+2. mathematical truths if one isn't a mathematical Platonist
+3. normative truths
+
+Maybe the first two just argues for Platonism and modal realism (although I note that Eliezer explicitly [disclaimed](http://lesswrong.com/lw/eqn/the_useful_idea_of_truth/7jlv) being a modal realist). The last one is most problematic to me, because some kinds of normative statements seem to be talking about what one should do given some assumed-to-be-accurate map, and not about the map itself. For example, "You should two-box in Newcomb's problem." If I say "Alice has a false belief that she should two-box in Newcomb's problem" it doesn't seem like I'm saying that her map doesn't correspond to the territory.
+
+So, a couple of questions that seem open to me: Do we need other notions of truth, besides correspondence between map and territory? If so, is there a more general notion of truth that covers all of these as special cases?

@@ -1,0 +1,25 @@
+&gt; You can find countless examples of academics weighing in on matters they aren't really qualified for.
+
+Yes, absolutely.  See also SMBC's "send in the bishops, they can move diagonally" (chess masters on the Iraq war).
+
+&gt; is there any good way for me to know that he represents a minority or obsolete position.
+
+I don't know if Jaynes represents a minority position (there are a lot of Bayesian statisticians).  It's more like the field moved on from this argument to more interesting arguments.  Basically smart Bayesians and frequentists mostly understood each other's arguments, and considered them mostly valid.
+
+---
+
+This is the type of B vs F argument people have these days (I linked this here before):
+
+https://normaldeviate.wordpress.com/2012/08/28/robins-and-wasserman-respond-to-a-nobel-prize-winner/
+
+If you really want the gory details, you can also read the Robins/Ritov paper.  But it's a hard paper.
+
+Full disclosure: Robins was my former boss, and I am probably predisposed to liking his stuff.
+
+---
+
+Re: "what's a good way to know": I would say ask experts.  Stat profs love talking about this stuff, you can email your local one, and try to go for coffee or something.
+
+---
+
+Re: "freshman level," this was perhaps uncharitable phrasing.  I just perceive, perhaps incorrectly, a lot of LW discussions as the type of discussion that takes place in dorms everywhere.

@@ -1,0 +1,9 @@
+I don't think this is core to our disagreement, but I don't understand why philosophical questions are especially relevant here. 
+
+For example, it seems like a relatively weak AI can recognize that "don't do anything the user would find terrible; acquire resources; make sure the user remains safe and retains effective control over those resource" is a praise-winning strategy, and then do it. (Especially in the reinforcement learning setting, where we can just tell it things and it can learn that doing things we tell it is a praise-winning strategy.) This strategy also seems close to maximally efficient---the costs of keeping humans around and retaining the ability to consult them are not very large, and the cost of eliciting the needed information is not very high.
+
+So it seems to me that we should be thinking about the AI's ability to identify and execute strategies like this (and our ability to test that it is correctly executing such strategies).
+
+I discussed this issue a bit in problems #2 and #3 [here](https://medium.com/ai-control/challenges-for-safe-ai-from-rl-924b4b2ae8b9). It seems like "answers to philosophical questions" can essentially be lumped under "values," in that discussion, since the techniques for coping with unknown values also seem to cope with unknown answers to philosophical questions.
+
+ETA: my position looks superficially like a common argument that people give for why smart AI wouldn't be dangerous. But now the tables are turned---there is a strategy that the AI can follow which will cause it to earn high reward, and I am claiming that a very intelligent AI can find it, for example by understanding the intent of human language and using this as a clue about what humans will and won't approve of.

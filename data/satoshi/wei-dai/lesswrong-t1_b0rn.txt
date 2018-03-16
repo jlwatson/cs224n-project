@@ -1,0 +1,7 @@
+&gt;What other resources have increasing marginal utility?
+
+[Matter](http://lesswrong.com/lw/12v/fair_division_of_blackhole_negentropy_an/), if negentropy translates to utility by more than its square root, for example if negentropy translates linearly to increased lifespan and/or population, and we value lifespan/population linearly as well.
+
+&gt;How undervalued are they? 
+
+I'm guessing that most people do not realize the above, and therefore underestimate just how high the maximum utility of the universe can be.

@@ -1,0 +1,9 @@
+&gt; &gt; Most have seemed to think that decision theory is a very small piece of the AGI picture.
+
+&gt; I also think that's most likely the case, but there's a significant chance that it isn't. I have not heard a strong argument why decision theory must be a very small piece of the AGI picture (and I did bring up this question on the decision theory mailing list), and in my state of ignorance it doesn't seem crazy to think that maybe with the right decision theory and just a few other key pieces of technology, AGI would be possible.
+
+On one hand, machine intelligence is all about making decisions in the face of uncertainty - so from this perspective, decision theory is central.
+
+On the other hand, the *basics* of decision theory do not look that complicated - you just maximise expected utility.  The problems seem to be *mostly* down to exactly how to do that efficiently.
+
+The idea that safe machine intelligence will be assisted by  modifications to decision theory to deal with "esoteric" corner cases seems to be *mostly* down to Eliezer Yudkowsky.  I think it is a curious idea - but I am very happy that it isn't an idea that I am faced with promoting.

@@ -1,0 +1,5 @@
+Smart players know that if they make the "smart" "thing to do on predictably non-public rounds" be to defect, then non-smart players will predict this even though they can't predict which rounds are non-public; so instead they choose to make the "smart" thing (that is, the output of this "smart" decision computation) be to cooperate.
+
+The smart players can still lose out in a case where dumb players are also too dumb to simulate the smart players, have the mistaken belief that smart players will defect, and yet know infallibly who the smart players are; but this doesn't seem quite so much the correctable fault of the smart players as before.
+
+But it's only you who had in the first place the idea that smart players would defect on predictably private rounds, and you got that from a mistaken game theory in which agents only took into account the direct physical consequences of their actions, rather than the consequences of their decision computations having a particular Platonic output.

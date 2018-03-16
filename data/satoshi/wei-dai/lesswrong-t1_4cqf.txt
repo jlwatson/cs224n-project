@@ -1,0 +1,7 @@
+I'm commenting on the post-change "Is-Ought" section. It seems to me that most of the examples given of "ought" reductions do not support the conclusion that "the is-ought gap can be bridged", because the reductions are *wrong*. Anyone can propose a naturalistic definition of "ought", but at a minimum, to be *right* a translation of an "ought" statement into an "is" statement has to preserve the truth value of the "ought" statement, and most of the reductions listed fail to do so.
+
+Take the first example:
+
+&gt;"X is obligatory (by deontic logic) if you assume axiomatic imperatives Y and Z."
+
+If you give me any specific proposal for Y and Z, I'm pretty sure I can find an X such that "you ought to X" is obviously false and "X is obligatory (by deontic logic) if you assume axiomatic imperatives Y and Z" is true, or vice versa.

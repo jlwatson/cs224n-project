@@ -1,0 +1,5 @@
+&gt; I wish there is an area of science that gives reductionist explanations of morality, that is, the detailed contents of our current moral values and norms. One example that came up earlier was monogamy - why do all modern industrialized countries have monogamy as a social norm?
+
+I'm currently reading [The Moral Animal](http://www.amazon.com/exec/obidos/ASIN/0679763996) by Robert Wright, because it was [recommended by, among others, Eliezer](http://yudkowsky.net/obsolete/bookshelf.html). I'm [summarizing the chapters online](http://michaelkeenan.net/the_moral_animal.php) as I read them. The fifth chapter, noting that more human societies have been polygynous than have been monogamous, examines why monogamy is popular today; you might want to check it out.
+
+As for the wider question of reductionist explanations of morality, I'm a fan of the research of moral psychologist Jonathan Haidt ([New York Times article](http://www.nytimes.com/2007/09/18/science/18mora.html?_r=1), [very readable paper](http://web.archive.org/web/20080316213803/http://faculty.virginia.edu/haidtlab/articles/dscalepap.html)).

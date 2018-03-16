@@ -1,0 +1,16 @@
+&gt; What if this is true, because other aliens (people) have similar AIs, so the aggressive policy is considered better, in a PD-like game theoretic sense, but it would have been better for everyone if nobody had built such AIs?
+
+It seems like the question is: "How much more productive is the aggressive policy?"
+
+It looks to me like the answer is "Maybe it's 1% cheaper or something, though probably less." In this case, it doesn't seem like the AI itself is introducing (much of) a PD situation, and the coordination problem can probably be solved. 
+
+I don't know whether you are disagreeing about the likley cost of the aggressive policy, or the consequences of slight productivity advantages for the aggressive policy. I discuss this issue a bit [here](https://medium.com/@paulfchristiano/technical-and-social-approaches-to-ai-safety-5e225ca30c46), a post I wrote a few days ago but just got around to posting.
+
+
+Of course there may be orthogonal reasons that the AI faces PD-like problems, e.g. it is possible to expand in an undesirably destructive way by building an unrelated and dangerous technology. Then either:
+
+1. The alien user would want to coordinate in the prisoner's dilemma. In this case, the AI will coordinate as well (unless it makes an error leading to a lower reward).
+
+2. The alien user doesn't want to coordinate in the prisoner's dilemma. But in this case, the problem isn't with the AI at all. If the users hadn't built AI they would have faced the same problem. 
+
+I don't know which of these you have in mind. My guess is you are thinking of (2) if anything, but this doesn't really seem like an issue to do with AI control. Yes, the AI may have a differential effect on e.g. the availability of destructive tech and our ability to coordinate, and yes, we should try encourage differential progress in AI capabilities just like we want to encourage differential progress in society's capabilities more broadly. But I don't see how any solution to the AI control problem is going to address that issue, nor does it seem especially concerning when compared to the AI control problem.

@@ -1,0 +1,5 @@
+1)  Congratulations: moving to logical uncertainty and considering your decision's consequences to be the consequence of *that logical program* outputting a particular decision, is what I would call the key insight in moving to (my version of) timeless decision theory.  The rest of it (that is, the work I've done already) is showing that this answer is the only reflectively consistent one for a certain class of decision problems, and working through some of the mathematical inelegancies in mainstream decision theory that TDT seems to successfully clear up and render elegant (the original Newcomb's Problem being only one of them).
+
+Steve Rayhawk also figured out that it had to do with impossible possible worlds.
+
+Neither of you have arrived at (published?) some important remaining observations about how to integrate uncertainty about computations into decision-theoretic reasoning; so if you want to *completely* preempt my [would-be PhD thesis](http://lesswrong.com/lw/7v/formalizing_newcombs/5ml?context=1#5mb) you've still got a bit more work to do.

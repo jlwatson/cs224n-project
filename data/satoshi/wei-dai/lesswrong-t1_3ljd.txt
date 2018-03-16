@@ -1,0 +1,15 @@
+After thinking about it and looking at the current community and the surprising amount of activity being conducted in bitcoins, I estimate that bitcoin has somewhere between 0 and 0.1% chance of eventually replacing a decent size fiat currency, which would put the value of a bitcoin at anywhere upwards of $10,000 a bitcoin. (Match the existing outstanding number of whatever currency to 21m bitcoins. Many currencies have billions or trillions outstanding.)
+
+Cut that in half to $5000, and call the probability an even 0.05% (average of 0 and 0.1%), and my expected utility/value for possessing a coin is $25 a bitcoin (5000*0.005).
+
+My laptop's GPU gets ~49 megahashes a second (apparently I have one of the best-suited ATI cards), and another [calculator](http://www.alloscomp.com/bitcoin/calculator.php) says the average time to cracking a block of 50 coins is 39 days - or ~1 coin a day, averaged. So my expected utility per day is ~$25 a day.
+
+At an estimate, it took about 3 hours to get `poclbm` running properly; I value my time at about $10 an hour, so my time will be repaid after 2 or 3 coins, and I'll have a healthy expected profit after one block of 50 coins.
+
+How robust is this calculation? Let's assume that I reinstall once a year and spend 3 hours every time. (Hopefully installation will get easier as libraries mature, but I will also waste time checking in on progress and writing comments (like this one!).)
+
+Difficulty will go up, of course. Let's assume over the next year I'll mine 0.2 bitcoins per day on average. That's ~74 coins rather than &gt;365 coins, and 74*25=$1850 in exchange for $30 of time.
+
+To make this a net loss for me, you can play with the numbers. We already cut the payoff by 80% by dropping the daily rate to 0.2 from &gt;1, but how much more do we need to cut before it's a loss?
+
+Your basic equation is 74\*(probability\*payoff)&lt;=30. If we fix payoff at 500, then the probability is 74\*(500\*x)&lt;=30, 37000*x&lt;=30, x&lt;=0.08%. So even with a very small and then halved payoff, and a small and then cut by 80% accumulation rate, I still calculate a net positive expected utility of mining.

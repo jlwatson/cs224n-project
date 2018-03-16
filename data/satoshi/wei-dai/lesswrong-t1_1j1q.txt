@@ -1,0 +1,9 @@
+&gt;&gt; For now, I'm focusing on getting a better idea of what kind of mathematical structure preference should be
+
+&gt; What is/are your approach(es) for attacking this problem, if you don't mind sharing?
+
+Since I don't have self-contained *results*, I can't describe what I'm searching for concisely, and the working hypotheses and hunches are too messy to summarize in a blog comment. I'll give some of the motivations I found towards the end of the current blog sequence, and possibly will elaborate in the next one if the ideas sufficiently mature.
+
+&gt; In my UDT1 post I suggested that the mathematical structure of preference could be an ordering on all possible (vectors of) execution histories of all possible computations. This seems general enough to represent any conceivable kind of preference (except preferences about uncomputable universes), but also appears rather useless for answering the question of how preferences should be merged.
+
+Yes, this is not very helpful. Consider the question: what is the difference between (1) preference, (2) strategy that the agent will follow, and the (3) whole of agent's algorithm? Histories of the universe could play a role in semantics of (1), but they are problematic in principle, because we don't know, nor will ever know with certainty, the true laws of the universe. And what we really want is to get to (3), not (1), but with good understanding of (1) so that we know (3) to be based on our (1).

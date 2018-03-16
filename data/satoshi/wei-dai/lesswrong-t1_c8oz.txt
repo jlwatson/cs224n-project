@@ -1,0 +1,1 @@
+Do you have thoughts on the other approaches described [here](https://medium.com/ai-control/the-state-of-the-steering-problem-9d4a9e662db5)? It seems to me that black box metaphilosophical AI, in your taxonomy, need not be untestable nor dangerous during a transient period.

@@ -1,0 +1,19 @@
+The three examples from The Art of Strategy don't seem to measure up to the book's reputation.
+
+**The Evil Plutocrat**
+
+&gt;Meanwhile, in their meeting, the Republicans think the same thing. The vote ends with all members of Congress supporting your bill, and you don't end up having to pay any money at all.
+
+This isn't a Nash equilibrium. If I'm a congressman and I expect everyone else to vote for the bill, then I should vote against it since in that case doing so has no bad financial consequences and I get to represent my constituents.
+
+**The Hostile Takeover**
+
+&gt;Suppose the investor believes you will succeed in taking over the company. That means your competitor will not take over the company, and its $101 offer will not apply. That means that the new value of the shares will be $90, the offer you've made for the second half of shares.
+
+It was mentioned that the stock is currently worth $100 on the open market, so why should I sell my shares to you for $90 instead of selling them on the open market? Is it assumed that there aren't legal protections for minority shareholders so whoever buys 50% of the shares can plunder the company and diminish its value for the other shareholders?
+
+**The Hostile Takeover, Part II**
+
+&gt;if the motion passes 3-2, then the two 'no' voters get no compensation and the three 'yes' voters may remain on the board and will also get a spectacular prize - to wit, our company's 51% share in your company divided up evenly among them.
+
+Presumably the board has no power to split your shares among themselves, so what you're doing is making a promise that if the board votes that way, then you will split you shares among them. But if the board members reason backwards, they would think that if they did vote that way, you'd have no reason to actually fulfill your promise. So what the author seems to be doing is exempting the "evil villain" from backwards reasoning (or equivalently, giving him alone the power of making credible promises).

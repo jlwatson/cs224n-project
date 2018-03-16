@@ -1,0 +1,3 @@
+Yeah, it's weird that Eliezer's metaethics and FAI seem to rely on figuring out "true meanings" of certain words, when Eliezer also wrote a whole sequence explaining that words don't have "true meanings".
+
+For example, Eliezer's metaethical approach (if it worked) could be used to actually answer questions like "if a tree falls in the forest and no one's there, does it make a sound?", not just declare them meaningless :-) Namely, it would say that "sound" is not a confused jumble of "vibrations of air" and "auditory experiences", but a coherent concept that you can extrapolate by examining lots of human brains. Funny I didn't notice this tension until now.

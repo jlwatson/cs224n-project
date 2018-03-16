@@ -1,0 +1,10 @@
+As a meta-remark, I think that you're being unnecessarily combative / aggressive.
+
+&gt; This seems like a poor excuse, given that the statement in question was part of the main conclusions of the Wiener project, not a tangential remark, which is why Luke chose to repeat it for public consumption.
+
+To my mind, the key takeaway from the Wiener case study is that the juxtaposition of 
+
+(i) Automation hasn't dramatically increased unemployment 
+(ii) Wiener expressed concern that automation would dramatically increase unemployment.
+
+shouldn't be taken as evidence that it's not possible to make predictions about AI. My original justification for this takeaway was "Wiener was wrong, but his methodology was bad." Your view seems to be "Wiener wasn't wrong," but while different from what I said, this is is also a justification for the takeaway. So I don't think that it matters much either way.

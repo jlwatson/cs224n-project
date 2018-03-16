@@ -1,0 +1,1 @@
+How is the agent supposed to know which parts of the world are "opponents" that it should make unpredictable? This seems like a potentially show-stopping problem with your approach and I'm surprised it's not listed under open problems. Is there something obvious that I'm missing?

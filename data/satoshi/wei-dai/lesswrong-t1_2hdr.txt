@@ -1,0 +1,17 @@
+Relevance of Subgame perfection.  Seldin suggested subgame perfection as a refinement of Nash equilibrium which requires that decisions that seemed rational at the planning stage ought to still seem rational at the action stage.  This at least suggests that we might want to consider requiring "subgame perfection" even if we only have a single player making two successive decisions.
+
+Relevance of Footnote #4.  This points out that one way to think of problems where a single player makes a series of decisions is to *pretend* that the problem has a series of players making the decisions - one decision per player, but that these fictitious players are linked in that *they all share the same payoffs* (but not necessarily the same information).  This is a standard "trick" in game theory, but the footnote points out that in this case, since both fictitious players have the same information (because of the absent-mindedness) the game between driver-version-1 and driver-version-2 is symmetric, and that is equivalent to the constraint p1 = p2.
+
+Does Footnote #4 really amount to "they had already argued for [just recalculating the planning-optimal solution]"?  Well, no it doesn't really.  I blew it in offering that as evidence.  (Still think it is cool, though!)
+
+Do they "argue for it" anywhere else?  Yes, they do.  Section 5, where they apply their methods to a slightly more complicated example, is an extended argument for the superiority of the planning-optimal solution to the action-optimal solutions.  As they explain, there can be multiple action-optimal solutions, even if there is only one (correct) planning-optimal solution, and some of those action-optimal solutions are wrong *even though they appear to promise a higher expected payoff than does the planning optimal solution.
+
+&gt;I can't see where they made this point. At the top of Section 4, they say "How, then, should the driver reason at the action stage?" and go on directly to describe action-optimality. If they said something like "One possibility is to just recompute and apply the planning-optimal solution. But if you insist ..." please point out where. See also page 108:
+
+&gt;&gt;  In our case, there is only one player, who acts at different times. Because of his absent-mindedness, he had better coordinate his actions; this coordination can take place only before he starts out at the planning stage. At that point, he should choose p1 . If indeed he chose p1 , there is no problem. If by mistake he chose p2 or p3 , then that is what he should do at the action stage. (If he chose something else, or nothing at all, then at the action stage he will have some hard thinking to do.)
+
+&gt;If Aumann et al. endorse using planning-optimality at the action stage, why would they say the driver has some hard thinking to do? Again, why not just recompute and apply the planning-optimal solution?
+
+I really don't see why you are having so much trouble parsing this.  "If indeed he chose p1 , there is no problem" is an endorsement of the correctness of the planning-optimal solution.  The sentence dealing with p2 and p3 asserts that, if you mistakenly used p2 for your first decision, then you best follow-up is to remain consistent and use p2 for your remaining two choices.  The paragraph you quote to make your case is one I might well choose myself to make my case.
+
+Edit: There are some asterisks in variable names in the original paper which I was unable to make work with the italics rules on this site.  So "p2" above should be read as "p &lt;asterisk&gt; 2"

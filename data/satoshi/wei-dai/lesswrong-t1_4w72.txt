@@ -1,0 +1,5 @@
+This post seems confused, or just confusing.
+
+I don't think there are many people who think that the main problem with aggregating the preferences of different people is ordinal utilities and Arrow's impossibility theorem. Modern economists tend to think about preferences in the von Neumann-Morgenstern tradition, where one's preferences are represented as a utility function from outcomes to real numbers, but any two utility functions that are linear transformations of each other are equivalent (so really each person's preferences are represented by an infinite family of utility functions are that all linear transformations of each other).
+
+How to aggregate preferences of individuals with vNM preferences is still considered an open problem, because there is no obvious "natural" way to combine two such infinite families of utility functions. A given agent might internally represent its preferences using one particular utility function out of the infinite family of equivalent utility functions, but it seems morally indefensible to use that as the basis for aggregating utility.

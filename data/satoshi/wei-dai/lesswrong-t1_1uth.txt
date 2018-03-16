@@ -1,0 +1,11 @@
+Understanding check:
+
+&gt;Note that Bayesian updating is not done explicitly in this decision theory. When the decision algorithm receives input X, it may determine that a subset of programs it has preferences about never calls it with X and are also logically independent of its output, and therefore it can safely ignore them when computing the consequences of a choice. There is no need to set the probabilities of those programs to 0 and renormalize.
+
+But does the Bayesian update occur if the input X affects the relative probabilities of the programs without setting any of these probabilities to 0?  If it doesn't, why not, and how is this change in the distribution over P_i's taken into account?
+
+ETA:  Is the following correct?
+ 
+If there is only one possible program (P), then there is no need for anything like Baysian updating, you can just look directly into the program and find the output Y that maximizes utility.  When there are multiple possible programs &lt;P1, P2, ... , Pn&gt; then something like Bayesian updating needs to occur to take into account the effect of outputing Y1 over Y2.  This is done implicitly when maximizing Sum P_Y1(&lt;E1, E2, E3, …&gt;) U(&lt;E1, E2, E3, …&gt;) since the probability distribution over the Ei's depends on Y.
+
+If all that's correct, how do you get this distribution?

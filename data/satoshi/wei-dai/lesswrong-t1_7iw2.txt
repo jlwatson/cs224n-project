@@ -1,0 +1,13 @@
+Nick Szabo's [Objective Versus Intersubjective Truth](http://szabo.best.vwh.net/tradition.html) seem relevant here:
+
+&gt;Post-Hayek and algorithmic information theory, we recognize that information-bearing codes can be computed (and in particular, ideas evolved from the interaction of people with each other over many lifetimes), which are
+&gt;
+&gt;* (a) not feasibly rederivable from first principles,
+&gt;* (b) not feasibly and accurately refutable 	(given the existence of the code to be refuted)
+&gt;* (c) not even feasibly and accurately justifiable	(given the existence of the code to justify)
+&gt;
+&gt;("Feasibility" is a measure of cost, especially the costs of computation and empircal experiment. "Not feasibly" means "cost not within the order of magnitude of being economically efficient": for example, not solvable within a single human lifetime. Usually the constraints are empirical rather than merely computational).
+&gt;
+&gt;(a) and (b) are ubiqitous among highly evolved systems of interactions among richly encoded entities (whether that information is genetic or memetic). (c) is rarer, since many of these interpersonal games are likely no more diffult than NP-complete: solutions cannot be feasibly derived from scratch, but known solutions can be verified in feasible time. However, there are many problems, especially empirical problems requiring a "medical trial" over one or more full lifetimes, that don't even meet (c): it's infeasible to create a scientifically repeatable experiment. For the same reason a scientific experiment cannot refute _any_ tradition dealing with interpersonal problems (b), because it may not have run over enough lifetimes, and we don't know which computational or empirical class the interpersonal problem solved by the tradition falls into. One can scientifically refute traditional claims of a non-interpersonal nature, e.g. "God created the world in 4004 B.C.", but one cannot accurately refute metaphorical interpretations or imperative statements which apply to interpersonal relationships.
+
+I tend to think that Nick is overstating his case somewhat in this essay, but it seems hard to deny that there must be many truths that are not feasibly rederivable from first principles, and highly evolved traditions related to to interpersonal behavior is a likely place to find them. Additionally, I think the kind of "re-derivations from first principles" that we can actually do often just amount to handwaving ("Courage" in the OP is a good example of this) and offers rather little evidence that the rule or heuristic we're trying to derive is actually correct. Overall I caution against being overconfident about deriving things from first principles.

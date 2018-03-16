@@ -1,0 +1,9 @@
+When you say "PA+i" you must mean a finite fragment of PA+i (e.g., PA+i with a limit on proof length), otherwise I don't see how FairBot ever gets to execute the second "if" statement. But the Löbian cycle:
+
+&gt;if we have a formal system S, and "if S proves A, then B" and "if S proves B, then A" are theorems of S, then S indeed proves both A and B.
+
+isn't a theorem when S is a finite fragment of a formal system, because for example S may "barely" prove "if S proves A, then B" and "if S proves B, then A", and run out of proof length to prove A and B from them. I think to be rigorous you need to consider proof lengths explicitly (like cousin_it did with his proofs).
+
+&gt;And of course, "if 'M(FB)=C' is provable in PA+3, then FB(M)=C" is provable in PA+3, since again PA+3 can prove that PA through PA+2 won't have found proofs of contrary conclusions before it gets around to trying to find cooperation in PA+3.
+
+I'm not seeing how this goes through. Can you explain how PA+3 can prove that PA through PA+2 won't have found proofs of contrary conclusions? (If they did, that would imply that PA+3 is inconsistent, but PA+3 can't assume that PA+3 is consistent. How else can PA+3 prove this?)

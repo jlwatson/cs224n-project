@@ -1,0 +1,17 @@
+&gt;Let's say A="Knox killed Kercher", B="Kercher has been killed and Knoxed lived in Italy and is an intelligent 20-year-old female college student with no criminal history", C="evidence against Guede", D="Knox and Kercher were roommates", E="evidence of a staged burglary", F="bra and clasp", G="all other information about the case". 
+
+I'll redefine slightly:
+
+* A := "Knox killed Kercher, given background info about both, but not the fact of their acquaintance". P(A) = tiny.
+
+* B := "Kercher killed". P(A|B) = approximately P(A). (We are not yet given that they were roommates.)
+
+* C := "evidence against Guede". P(A|B&amp;C) = approximately P(A). (No significant connection between Guede and Knox.)
+
+* D := "Knox and Kercher were roommates". P(A|B&amp;C&amp;D) = slightly higher than P(A), but still well below the threshold of consideration.
+
+* E := "Facts cited as evidence of staged burglary". P(A|B&amp;C&amp;D&amp;E) = approximately P(A|B&amp;C&amp;D). (Likelihood ratios involved are close to unity; certainly small relative to P(~A)/P(A).)
+
+* F := "bra clasp and knife". P(A|B&amp;C&amp;D&amp;E&amp;F) = possibly as much as an order of magnitude higher than P(A|B&amp;C&amp;D). (Explaining results is a minor puzzle.)
+
+* G := "all other information". P(A|B&amp;C&amp;D&amp;E&amp;F&amp;G) = approximately P(A|B&amp;C&amp;D&amp;E&amp;F). (Other evidence weak; slightly inculpatory facts canceled out by slightly exculpatory facts.)

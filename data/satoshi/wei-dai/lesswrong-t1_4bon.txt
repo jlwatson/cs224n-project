@@ -1,0 +1,3 @@
+What the "2" in the output of the calculator means depends on the algorithm that produces numerical judgements. But what the "2" in the input means depends on the algorithm that uses numerical inputs.
+
+It seems like we know pretty well how the algorithm that uses moral judgements works. It, in most cases, causes us to do X when we think X is moral.

@@ -1,0 +1,5 @@
+&gt; Instead of trying to build a consensus, Eliezer could have asked the community "Here are the consequences I intend/foresee with this change. Are there any important ones I may have overlooked?", which has no obvious downsides that I can see, other than the opportunity cost of writing out the question.
+
+The obvious downside in such cases is that asking for and being told what the downsides are *and then ignoring them* is often perceived as even worse than not asking at all. If Eliezer anticipated that he would go ahead with his change regardless of what downsides are pointed out then it could be detrimental to ask.
+
+(Note: That is the downside of asking, not a claim that asking would be a net negative.)

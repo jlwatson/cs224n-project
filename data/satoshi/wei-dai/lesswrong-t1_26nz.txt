@@ -1,0 +1,3 @@
+&gt; Both we and the smiley-face maximizer would be better off if we did allow it to be built, and then it gives our preferences some control (enough for us to be better off than the no-AI future). It's not clear that this opportunity for trade can be realized, but we should spend some time thinking about it before ruling it out.
+
+Sounds like Drescher's bounded Newcomb. This perspective suddenly painted it FAI-complete.

@@ -1,0 +1,5 @@
+&gt; due to its deficient monetary policy and associated price volatility it can't grow to very large scales, and by taking over the cryptocurrency niche
+
+I'm also quite worried about this, but on the other hand Bitcoin creates an obvious entry gateway into more advanced cryptographic currencies (i.e. once Bitcoin infrastructure is set up, other currencies can use Bitcoin infrastructure if there's a way to exchange them with Bitcoins, lowering the bar to entry).
+
+I've had all sorts of ideas along these lines, in fact.  The main reason I haven't published them is that I'm not sure that more advanced cryptocurrency advances FAI over AGI.  In fact, you'd think it would be the reverse - the Great Stagnation may be all that's keeping us alive right now.

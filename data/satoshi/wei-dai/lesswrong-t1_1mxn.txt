@@ -1,0 +1,17 @@
+&gt; A way to choose what subset of humanity gets included in CEV that doesn't include too many superstitious/demented/vengeful/religious nutjobs and land those who implement it in infinite perfect hell.
+
+What you're looking for is a *way to construe the extrapolated volition* that washes out superstition and dementation.
+
+To the extent that vengefulness turns out to be a simple direct value that survives under many reasonable construals, it seems to me that one simple and morally elegant solution would be to filter, not the people, but the spread of their volitions, by the test, "Would your volition take into account the volition of a human who would unconditionally take into account yours?"  This filters out extrapolations that end up perfectly selfish and those which end up with frozen values irrespective of what other people think - something of a hack, but it might be that many genuine reflective equilibria are just like that, and only a values-based decision can rule them out.  The "unconditional" qualifier is meant to rule out TDT-like considerations, or they could just be ruled out by fiat, i.e., we want to test for cooperation in the Prisoner's Dilemma, not in the True Prisoner's Dilemma.
+
+&gt; An AI that can solve philosophy problems that are beyond the ability of the designers to even conceive
+
+It's possible that having a complete mind design on hand would mean that there were no philosophy problems left, since the resources that human minds have to solve philosophy problems are finite, and knowing the exact method to use to solve a philosophy problem usually makes solving it pretty straightforward (the limiting factor on philosophy problems is never computing power).  The reason why I pick on this particular cited problem as problematic is that, as stated, it involves *an inherent asymmetry between the problems you want the AI to solve and your own understanding of how to meta-approach those problems*, which is indeed a difficult and dangerous sort of state.
+
+&gt; All of the above working first time, without testing the entire superintelligence. (though you can test small subcomponents)
+
+*All* approaches to superintelligence, *without exception*, have this problem.  It is not quite as automatically lethal as it sounds (though it is certainly automatically lethal to all other parties' proposals for building superintelligence).  You can build in test cases and warning criteria beforehand to your heart's content.  You can detect incoherence and fail safely instead of doing something incoherent.  You could, though it carries with its own set of dangers, build human checking into the system at various stages and with various degrees of information exposure.  But it is the *fundamental* problem of superintelligence, not a problem of CEV.
+
+&gt; And, to make it worse, if major political powers are involved, you have to solve the political problem of getting them to agree on how to skew the CEV towards a geopolitical-power-weighted set of volitions to extrapolate
+
+I will not lend my skills to any such thing.

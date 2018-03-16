@@ -1,0 +1,3 @@
+&gt; 4 Dishonest signalling isn’t worth it.
+
+I seem to recall seeing some game theoretic signaling models with wasteful pooling equilibria, where everyone sends the same costly signal and the receiver can't distinguish between the senders of different qualities. Can't find a specific model now, but [here](http://www.lsw.wiso.uni-erlangen.de/BGPE/texte/pdf/kessler_adverse_selection.pdf) is a slide that mentions this fact on page 20.

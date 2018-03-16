@@ -1,0 +1,3 @@
+&gt; A main form of insight is a hypothesis that one hadn't previously entertained, but should be assigned a non-negligible prior probability.
+
+Why use "prior probability" here instead of just "probability"?

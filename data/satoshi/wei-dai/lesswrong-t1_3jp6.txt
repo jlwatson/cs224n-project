@@ -1,0 +1,1 @@
+There definitely are some intuitions that are wrong on reflection, like scope insensitivity.

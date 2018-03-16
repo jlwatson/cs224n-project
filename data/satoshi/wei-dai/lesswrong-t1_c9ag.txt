@@ -1,0 +1,13 @@
+&gt; A cautious overseer might demand an explanation of the improvement and why it's safe, in terms that he can understand
+
+In this proposal:
+
+1. A cautious overseer demands such an argument with very small probability. I'll write soon about just how small I think this probability can safely be, I think in the original post I suggested 1%, but I think it could be much lower. If the check is only done with probability 1/10000, then it's fine if the cost is 10,000% of the cost of implementing the project.
+
+2. The human overseer has very little role in the early stages of the evaluation, and certainly they don't have to understand the whole proposal. In my proposal as written she has to relay questions between different AI's, but of course you could automate that completely, so that the first stages of evaluation are just done by other AI's (whose evaluations are accountable to other AI's, whose evaluations are accountable to other AI's... whose evaluations are accountable to the overseer). At worst, the overseer's role is similar to the arbirtrator in [this scheme](https://medium.com/@paulfchristiano/of-arguments-and-wagers-ee16a0e84cf7), though she has many additional techniques at her disposal.
+
+If the world is moving fast, the main problem is probably the latency of the human evaluation. But there are a bunch of plausible-seeming techniques for getting to low latency. I hope to write about this soon as well.
+
+ETA: What I should have said is that an overseer requests explanations very rarely during normal, intended operation. But this relies on the AI's ability to find a policy which the overseer will predictably approve of.
+
+Perhaps your point is that a more cautious overseer should request explanations more often, owing to the AI's limited ability to predict the overseer's reaction. But if so, we are going around in circles. What is the nature of these improvements, such that whether they are a good idea or not depends in such a detailed way on the values or philosophical views of the overseer?  Why can't one AI build an improved AI which also follows an innocuous policy like "don't do anything terrible; acquire resources; let the user control those resources"?

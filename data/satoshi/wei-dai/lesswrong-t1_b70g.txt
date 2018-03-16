@@ -1,0 +1,5 @@
+I found this a useful summary of (at least some of) the possibilities.
+
+A small issue is that I find that it's clearer to avoid using the word 'should' as much as possible when discussing meta-ethics, since leaving the goal implied ('should' do X for what end?) can be ambiguous. I think it's clearer to talk about what will happen if a being uses such-and-such a decision theory/ethics/etc, and when translating that to 'should' to be very clear what goal is being targeted.
+
+edit: To give a specific example, using an unqualified 'should' can lead to (intentionally or unintentionally) equivocating between the values of the being under discussion and the values of its species/humanity/the author/some other ideal.

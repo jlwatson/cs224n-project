@@ -1,0 +1,9 @@
+&gt; Suppose it expects to face a TDT agent in the future. Whether that agent will play C or D against it is independent of what it decides now.
+
+Unless that agent already knows or can guess your source code, in which case it is simulating you or something highly correlated to you, and in which case "modify to play C only if I expect that other agent simulating me to play C iff I modify to play C" is a superior strategy to "just D" because an agent who simulates you making the former choice (and which expects to be correctly simulated itself) will play C against you, while if it simulates you making the latter choice it will play D against you.
+
+&gt; If it does self-modify into TDT, then it might play C against the other TDT where it otherwise would have played D, and since the payoff for C is lower than for D, holding the other player's choice constant, it will decide not to self-modify into TDT.
+
+The whole point is that the other player's choice is *not* constant.  Otherwise there is no reason ever for anyone to play C in a one-shot true PD!  Simulation introduces logical dependencies - that's the *whole point* and to the extent it is *not* true even TDT agents will play D.
+
+"Holding the other player's choice constant" here is the equivalent of "holding the contents of the boxes constant" in Newcomb's Problem.  It presumes the answer.

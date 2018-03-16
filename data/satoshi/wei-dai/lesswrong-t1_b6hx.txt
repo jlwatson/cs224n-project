@@ -1,0 +1,1 @@
+If you're going to design an agent with an adaptable utility (eg a value loader) then something like an unlosing design seems indicated.

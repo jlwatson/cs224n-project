@@ -1,0 +1,7 @@
+Among the [four axioms](http://en.wikipedia.org/wiki/Expected_utility_hypothesis#von-Neumann_Morgenstern_formulation) used to derive the von Neumann-Morgenstern theorem, one stands out as not being axiomatic when applied to the aggregation of individual utilities into a social utility:
+
+Axiom (Independence): Let A and B be two lotteries with A &gt; B, and let t \in (0, 1] then tA + (1 − t)C &gt; tB + (1 − t)C .
+
+In terms of preferences over social outcomes, this axiom means that if you prefer A to B, then you must prefer A+C to B+C for all C, with A+C meaning adding another group of people with outcome C to outcome A.
+
+It's the social version of this axiom that implies "equity of utility, even among equals, has no utility". To see that considerations of equity violates the social Axiom of Independence, suppose my u(outcome) = difference between the highest and lowest individual utilities in outcome. In other words, I prefer A to B as long as A has a smaller range of individual utilities than B, regardless of their averages. It should be easy to see that adding a person C to both A and B can cause A’s range to increase more than B’s, thereby reversing my preference between them.

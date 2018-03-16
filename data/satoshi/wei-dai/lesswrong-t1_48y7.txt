@@ -1,0 +1,3 @@
+I'm running Greasemonkey 0.9.3 and Firefox 4.0.1.  My OS is Mac OS X 10.6.7.  Like [gimpf](http://lesswrong.com/r/discussion/lw/5uz/lesswrong_power_reader_greasemonkey_script_updated/48uy), I had to install the script manually.  It now shows up in the Greasemonkey menu as "LessWrong Power Reader" when I go to http://lesswrong.com/reader.  However, all that I see on that page is the LW banner, the navigation bar (with "PROMOTED", "NEW", etc.), the message "The page you requested does not exist", and the standard LW footer.  The page is otherwise blank.
+
+Might NoScript be interfering somehow?  Also, does your LW account have special administrative privileges?  Are you able to access the page with a normal user account?

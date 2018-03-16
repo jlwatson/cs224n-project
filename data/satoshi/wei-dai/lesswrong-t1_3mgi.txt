@@ -1,0 +1,7 @@
+&gt;EFF accepts donations in Bitcoin, so their lawyers must have decided that it's not clearly illegal or bad PR. 
+
+I'm not sure that follows.  What's more, if people generally use that reasoning, and EFF is wrong (or lacked due diligence in such an estimation), then people will now be able to cite **both** SIAI's and EFF's actions when using such reasoning.
+
+And then you have an information cascade, where everyone believes Bitcoin "must be okay", all based on an expert judgment that never existed.
+
+Have any other cryptography experts published critiques of Bitcoin?  I'd contribute to a fund to get Bruce Schneier to spend more time on this.

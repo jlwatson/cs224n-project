@@ -1,0 +1,27 @@
+&gt; Yes, because it implies that building FAI is even harder than it looked before.
+
+I'm not sure this is true for me. I've always had the model that FAI is super-hard and probably requires enormous resources, including resources for information security, for scrutinizing philosophical reasoning far more thoroughly and effectively than is done in philosophy departments, for doing the strictly-harder job of FAI before others build uFAI, etc. The chances that a non-profit will build FAI before the whole world builds AGI, or even that a non-profit will meaningfully accelerate AGI progress, look pretty slim to me. That's probably not where MIRI's value is coming from, at least as I see things today.
+
+Maybe this is [another case](http://lesswrong.com/lw/ig9/outside_views_and_miris_fai_endgame/9nsc) where the OP was written for Eliezer, but now somebody else is responding from a different perspective.
+
+&gt; almost no efforts to make people more interested in strategy.
+
+First: I think "almost no efforts" is wrong. Remember, I'm the one who began writing [AI Risk &amp; Opportunity: A Strategic Analysis](http://lesswrong.com/lw/ajm/ai_risk_and_opportunity_a_strategic_analysis/), who writes fairly thoroughly-researched strategic analyses [on MIRI's blog](http://intelligence.org/category/analysis/), who [interviews experts](http://intelligence.org/category/conversations/) *mostly* about strategic issues, etc. I've been supervising additional strategic research that hasn't been published yet, too. MIRI has also been paying Carl's salary for years, and Carl mostly does strategic research. Most of [MIRI's publications](http://intelligence.org/all-publications/) are about strategy, not about FAI.
+
+Second: Some reasons we ended up emphasizing math research in 2013 are given [here](http://intelligence.org/2013/04/13/miris-strategy-for-2013/), and in an earlier strategic document (which you were shown, since I asked for your feedback during our 2013 planning).
+
+Third: Even if FAI is super-hard, wouldn't you rather have an AI that had 120 points of safety/friendliness effort put into it over an AI that had 40 points of safety/friendliness effort put into it? If MIRI or a successor successfully builds FAI before the world builds uFAI, it sure as heck isn't going to be with a big lead time. (I suspect you've responded to this point elsewhere; I just don't recall. Feel free to link me to another comment.)
+
+&gt; What strategic information have you obtained from the FAI work (e.g., workshops held) so far? 
+
+Very little so far; we haven't been doing this for long.
+
+&gt; What further strategic information are you hoping for at this point and what strategic problems are you hoping to solve with that information?
+
+What kinds of researchers are needed for FAI progress? How mathematically hard is FAI progress? How philosophically hard is FAI progress? How subtle is FAI when you actually try to make progress toward building it? (e.g. maybe it turns out to be not as subtle as Eliezer expects, and we can call in Google to help with most of it) How "outsourceable" is FAI work, and which parts are most outsourceable? Which problems contain hidden dangers, such that they should be kept secret if possible?
+
+Also, some kinds of technical progress (e.g. on decision theory and anthropic reasoning) are not just useful for FAI, but also useful for thinking about the relevant strategic issues.
+
+&gt; I don't understand the relevance of the linked post to the issue at hand. Can you explain?
+
+The chosen focus on technical research is also, in part, drawing from priors about what kinds of work typically lead to progress. Example 1: when you're starting a highly uncertain business venture, you should do *some* analysis, but at some point you just need to *start building the product* because that will teach you things you couldn't get from a prior-to-building-work analysis. Example 2: philosophers commenting on another domain often do less well than scientists working within the domain who are capable of some high-level thinking about it, because it often "[takes intimate involvement with the scientific domain in order to do the philosophical thinking](http://lesswrong.com/lw/pg/where_philosophy_meets_science/)." E.g. if you reason rather distantly about what's needed for safe AI you might come up with Tool AI, and it's only when you think through the details of what it would take to *build* a safe AI that you notice some subtler complications like those in section 2 of [this post](http://lesswrong.com/lw/cze/reply_to_holden_on_tool_ai/). Example 3: one might reason from a distance that the greatest risk from molecular nanotechnology is the "grey goo" scenario, but when you think through the physical details of what it would take to build self-replicating machines capable of a grey goo scenario, you realize that grey goo is probably easier to avoid than some other dangers from molecular nanotechnology, and this has strategic implications for what kind of risk mitigation work to focus one's efforts on.

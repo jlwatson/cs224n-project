@@ -1,0 +1,7 @@
+&gt;I'm referring especially to the parts of psychology that consisted of people just making up whatever sounded good.
+
+I quite obviously don't think that they're wrong.
+
+&gt;Your focus on ontology and meta-ontology is interesting, could you explain more how it's related to friendliness?
+
+It seems that a large part of what makes Steve Rayhawk so awesome is that he can make insightful connections between disparate fields by way of reasoning about them in the terms of a larger and consistent framework. Same goes for e.g. Michael Vassar and Peter de Blanc. That said, it's probable that their ontologies don't carve reality at its joints in the way that would be most conducive to reasoning about Friendliness... and most rationalists I talk to just seem to lack a coherent ontology entirely, which makes it damn hard to propagate belief updates between domains, and hard to see potential patterns or hypotheses that suggest themselves. (Think of the state of what should have been known as evolutionary biology, before Darwin discovered it.) It seems like it'd be useful to better understand what's going into how they managed to construct their ontologies (and metaontologies). It's also confusing that ontology has become so tied up with algorithmic probability theoretic cosmology and what not. Meanwhile we're still using words like 'reality fluid' while trusting our Occamian intuitions about which ontologies are elegant.

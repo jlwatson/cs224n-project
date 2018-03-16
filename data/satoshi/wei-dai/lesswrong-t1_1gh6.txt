@@ -1,0 +1,7 @@
+[This article](http://www.goertzel.org/benzine/WakingUpFromTheEconomyOfDreams.htm) (which I happened across today) written by Ben Goertzel should make interesting reading for a would-be AI maker. It details Ben's experience trying to build an AGI during the dot-com bubble. His startup company, Webmind, Inc., apparently had up to 130 (!) employees at its peak.
+
+According to the article, the AGI was almost completed, and the main reason his effort failed was that the company ran out of money due to the bursting of the bubble. Together with the anthropic principle, this seems to imply that Ben is *the* person responsible for the stock market crash of 2000.
+
+I was always puzzled why SIAI hired Ben Goertzel to be its [research director](http://intelligence.org/aboutus/team), and this article only deepens the mystery. If Ben has done an Eliezer-style mind-change since writing that article, I think I've missed it.
+
+ETA: [Apparently](http://hplusmagazine.com/articles/ai/chinese-singularity) Ben has recently been helping his friend Hugo de Garis build an AI at Xiamen University under a grant from the Chinese government. How do you convince someone to give up building an AGI when your own research director is essentially helping the Chinese government build one?

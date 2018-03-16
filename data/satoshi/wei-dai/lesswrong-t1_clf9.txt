@@ -1,0 +1,18 @@
+&gt;Other agents are dangerous to me to the extent that (1) they don't share my values/goals, and (2) they are powerful enough that in pursuing their own goals, they have little need to take game theoretic consideration of my values. ANN based AI will be similar to other humans in (1), and regarding (2) they are likely to be more powerful than humans since they'll be running on faster, more capable hardware than human brains, and probably have better algorithms as well.
+
+Your points 1 and 2 are true but only in degrees.  Humans vary significantly in terms of altruism (1) and power (2).  Hitler - from what I've read - is a good example of a powerful, non-altruistic human.  Martin Luther King and Ghandi are examples of highly altruistic humans (the first patterned directly after Jesus, the second patterned after Jesus and Bhudda).  Now, it could be the case that these two were more selfish than they appear at first, because they were motivated by reward in the afterlife.  Well perhaps to a degree, but that line of argument mostly fails as a complete explanation (and even if true, could also potentially become a strategy).
+
+Finally, brain inspired ANNs != human brains.  We can take inspiration from the best examples of human capabilities and qualities while avoiding the worst, and then extrapolate to superhuman dimensions.
+
+Altruism can be formalized by group decision/utility functions, where the agent's utility function implements some approximation of the ideal aggregate of some vector of N individual functions (ala mechanism design, and clarke tax style policies in particular).
+
+&gt;What's your best case scenario?
+
+
+We explore AGI mind space and eventually create millions and then billions of super-wise/smart/benevolent AI's.  This leads to a new political system - perhaps based on fast cryptoprotocols and new approximations of ideal group decision policies from mechanism design.  Operating systems as we know them are replaced with AIs which eventually become something like mental twins, friends, trusted advisers, and political representatives.  The main long term objective of the new AI governance is universal resurrection - implemented perhaps in a 100 years or so by turning the moon into a large computing facility.  Well before that, existing humans begin uploading into the metaverse.   
+
+The average person alive today becomes a basically immortal sim but possesses only upper human intelligence.  Those who invested wisely and get in at the right time become entire civilizations unto themselves (gods) - billions or trillions of times more powerful.  The power/wealth gap grows without bound.  It's like Jesus said: "To him who has is given more, and from him who has nothing is taken all."
+
+However, allocating all of future wealth based on however much wealth someone had on the eve of the singularity is probably sub-optimal.  The best case would probably also involve some sort of social welfare allocation policy, where the AIs spend a bunch of time evaluating and judging humans to determine a share of some huge wealth allocation.  All the dead people who are recreated as sims will need wealth/resources, so decisions need to be made concerning how much wealth each person gets in the afterlife.  There are very strong arguments for the need for wealth/money as an intrinsic component of any practical distributed group decision mechanism.
+
+Perhaps the strongest argument against UFAI likelihood is sim-anthropic: the benevolent posthuman civs/gods (re)create far more historical observers than the UFAIs, as part of universal resurrection.  Of course, this still depends on us doing everything in our power to create FAI.

@@ -1,0 +1,43 @@
+&gt; My understanding is that waitingforgodel doesn't particularly want to discuss that topic, but thinks that it's important that LW's moderation policy be changed in the future for other reasons.
+
+See waitingforgodel's [actual words on the subject](http://lesswrong.com/lw/2ft/open_thread_july_2010_part_2/2o3v?c=1). We could speculate that these "aren't his real reasons" but they certainly are sane reasons and it isn't usually useful to presume we know what people want despite what they say. At least for the purpose of good faith discussion if not for out personal judgement.
+
+&gt; In that case it appears to me the best way to go about it is to try to convince Eliezer using rational arguments.
+
+Waitingforgodel's general goals could be achieved without relying on LW itself but in a way that essentially nullifies the censorship influence (at least in an 'opt in' manner), even ensuring a negligible onging [trivial inconvenience](http://lesswrong.com/lw/f1/beware_trivial_inconveniences/). This wouldn't be easy or likely for him to achieve but see below for a possible option. Assuming an outcome was achieved that ensured overt censorship created more discussion rather than less ([Streisand Effect](http://en.wikipedia.org/wiki/Streisand_effect)) it may actually become in Eliezer's interest to allow such discussions on LW. That would remove attention from the other location and put it back to a place where he can express a greater but still sub-censorship form of influence.
+
+&gt; Commitment to a particular moderation policy?
+
+More so on this specific topic than the general case. You are right that it wouldn't be violating a public commitment to *not* censor something unrelated.
+
+Now, there is a distinction to be made that I consider important. Let's not pretend this is about *moderation*. Moderation in any remotely conventional sense would be something that applied to Eliezer's reply and not Roko's post. There hasn't been an instance of more dramatic personal abuse. The response was anything but 'moderate'. Without for the purpose of this point labelling it good or bad this is about censoring an idea. I don't think those who are most in support of the banning would put this in the same category as moderation.
+
+&gt; I'm inclined to agree, but do you have an argument that he is biased (instead of us)?
+
+Not right now but it is true that 'him or us' is something to consider if I was focusing on this issue. I actually typed some examples in the grandparent but removed them. I present the 'secrecy bias' as a premise which the reader would either share or not without getting distracted by disagreement with respect to underlying reasoning.
+
+&gt; True, but I've been able to change his mind on occasion (whereas I don't think I've ever succeeded in changing Robin Hanson's for example).
+
+This is true and I should take the time to say I'm impressed with how well Eliezer works to counter the status effect. This is something that is important to him and he handles it better than most.
+
+I model Robin as an academic, actually using Robin's theories on how academics can be expected to behave to make reasonably good predictions about his behavior. It isn't often that saying someone has irrational biases actually constitutes a *compliment*. :)
+
+&gt; Overall, I agree that Eliezer is unlikely to be persuaded, but it still seems to be a better chance than anything else waitingforgodel can do.
+
+Absolutely. But then, who really thought he could significantly increase existential risk anyway?
+
+It probably would be at least be possible for him to develop the skills and connections to create either a public place for discussion of anything and everything forbidden here *and make it sufficiently visible that censorship actually increases visibility*. He could even modify your new comments viewer such that it also displays discussion of the censored topics, probably highlighted for visibility.
+
+Alternately, he could arrange a way to cooperate with other interested parties to collectively condition all their existential risk donation on certain minimum standards of behavior. This is again not coercive, just practical action. It makes a lot of sense to refrain from providing assistance to an organisation that censors all discussion regarding *whether the AI they wish to create would torture people who didn't give them all their money*. It also doesn't mean that the charitable contributors are committing to wasting the money on crack and hookers if they do not get their way. Contributions could be invested wisely and remain available to the first existential risk and opportunity organisation that meets a standard of predicted effectiveness and acceptable ethical behavior.
+
+&gt; I doubt that waitingforgodel has any arguments involving the forbidden topic itself. 
+
+He probably doesn't. Others, including myself, *do* and analyzing the subject would produce more (for and against). This suggests that it would be a *bad idea* for wfg to try to persuade Eliezer with rational argument himself. If his belief is that *other people* have arguments that are worth hearing then he is best off seeking to find a way to make them heard. 
+
+People should never limit themselves to actions that are ineffective, except when the 'choke' effect is in play and you need to signal low status. That actually seems to be the main reason we would try to make him work within the LW power structure. We wouldn't, for example, tell Robin Hanson or even yourself that you should limit yourself to persuading the authority figures. We'd expect you to do what works.
+
+I don't think waitingforgodel will do any of these things and we could say that he *could* not do these things given that the motivation to gain the skills required for that sort of social influence is a trait that few people have and wfg (and most people) is unlikely to be willing to engage in the personal development that leads him in that direction.
+
+(Thankyou for the well reasoned and non-aggressive responses. I value being able to explore the practical implications of the issue. This strikes at the core of important elements of instrumental rationality.)
+
+(A random note: I had to look up the name for the Streisand Effect from a comment made here yesterday by Kodos. I was surprised to discover just how many comments have been made since then. I didn't keep a count but it was a *lot*.)

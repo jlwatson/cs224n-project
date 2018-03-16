@@ -1,0 +1,8 @@
+&gt; 1) Construct a full-blown DAG of math and Platonic facts, an account of which mathematical facts make other mathematical facts true, so that we can compute mathematical counterfactuals. 
+
+“Makes true” means logically implies? Why would that graph be acyclic?
+[EDIT: Wait, maybe I see what you mean. If you take a pdf of your beliefs about various mathematical facts, and run Pearl's algorithm, you should be able to construct an acyclic graph.]
+
+Although I know of no worked-out theory that I find convincing, I believe that  counterfactual inference (of the sort that's appropriate to use in the decision computation) makes sense with regard to events in universes characterized by certain kinds of physical laws. But when you speak of mathematical counterfactuals more generally, it's not clear to me that that's even coherent.
+
+Plus, if you did have a general math-counterfactual-solving module, why would you relegate it to the logical-dependency-finding subproblem in TDT, and then return to the original factored causal graph? Instead, why not cast the whole problem as a mathematical abstraction, and then directly ask your math-counterfactual-solving module whether, say, (Platonic) C's one-boxing counterfactually entails (Platonic) $1M? (Then do the argmax over the respective math-counterfactual consequences of C's candidate outputs.)

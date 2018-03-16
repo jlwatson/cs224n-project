@@ -1,0 +1,20 @@
+Just to highlight where the theoretical analysis goes wrong:
+
+* We have some tradeoff between "letting spam through" (of the type these attackers are posting) and "blocking good content."
+* The attackers here are able to create arbitrary amounts of spam.
+* So the worst case is already arbitrarily bad.  (Assuming our loss function is really a sum over posts.)
+
+So the issue is mostly incentives: this gives an incentive for an attacker to generate large amounts of innocuous but quality-lowering spam. It still doesn't make the worst case any worse, if you had actual adversarial users you were screwed all along under these assumptions.
+
+In my dissertation research I usually make some limiting assumption on the attacker that prevents this kind of attack, in particular I assume one of:
+
+* At least some small fraction (say 10%) of users of the system are honest---the attacker can't completely overwhelm honest users.
+* We have access to an external social network, and at least some small fraction (say 10%) of *friends of honest users* are honest---the attacker can't completely swamp the social networks of honest users.
+
+Under these conditions we can potentially keep the work per honest user modest (each person must stomp out 10 crappy responses). Obviously it is better if you can get the 10% up to 50% or 90%, e.g. by imposing a cost for account creation, and without such costs it's not even clear if you can get 10%. Realistically I think that the most workable solution is to mostly use outside relationships (e.g. FB friendships), and then to allow complete outsiders to join by paying a modest cost or using a verifiable real-world identity.
+
+I haven't analyzed virtual moderation under these kinds of assumptions though I expect we could.
+
+I agree that virtual moderation may create stronger incentives for spam+manipulation and so hasten the day when you need to start being more serious about security, and that over the short term that could be a fatal problem. But again, if there is someone with an incentive to destroy your forum and they are able to create an arbitrary number of perfect shills, you need to somehow limit their ability anyway, there just isn't any way around it.
+
+(For reference, I don't think the LW shills are near this level of sophistication.)

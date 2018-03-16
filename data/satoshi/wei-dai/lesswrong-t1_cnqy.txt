@@ -1,0 +1,5 @@
+There is no such thing as an "actual" or "right" or "correct" prior. A lot of the arguments for frequentist statistical methods were that bayesians require a subjective prior, and there is no way to make priors not subjective.
+
+What would it even mean for there to be a universal prior? You only exist in this one universe. How good a prior is, is simply how much probability it assigns to this universe. You could try to find a prior empirically, by testing different priors and seeing how well they fit the data. But then you still need a prior over those priors.
+
+But we can still pick a *reasonable* prior. Like a uniform distribution over all possible LISP programs, biased towards simplicity. If you use this as your prior of priors, then any crazy prior you can think of should have some probability. Enough that a little evidence should cause it to become favored.

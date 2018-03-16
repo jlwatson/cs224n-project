@@ -1,0 +1,51 @@
+&gt; I had no intention of doing anyone any harm. 
+
+I know.  
+
+&gt; could you please stop saying that I advocate killing people?
+
+*reviews my wording very carefully*
+
+"If virtualizing people is violence ... Wei_Dai ... seems to be advocating "
+
+"Advocating for an AGI that *will* kill all of humanity (in the context of this is **not** what you said) vs. advocating for an AGI that *could* kill all of humanity (context: **this** is what you said)"
+
+My understanding is that it's your perspective that copying people and removing the physical original might not be killing them, so my statements reflect that but maybe it would make you feel better if I did this:
+
+"If virtualizing people is violence ... Wei_Dai ... seems to be advocating ... kill the entire population of earth (though he isn't convinced that they would die)" 
+
+And likewise with the other statement.
+
+Sorry for the upset that has probably caused.  It wasn't my intent to accuse you of actually wanting to kill everyone.  I just disagree with you and am very concerned about how your statement looks to others with my perspective.  More importantly, I feel concerned about the existential risk if people such as yourself (who are prominent here and connected with SIAI) are willing to have an AGI that could (in my view) potentially kill the entire human race.  My feeling is not that you are violent or intend any harm, but that you appear to be confused in a way that I deem dangerous.  Someone I'm close to holds a view similar to yours and although I find this disturbing, I accept him anyway.  My disagreement with you is not personal, it's not a judgment about your moral character, it's an intellectual disagreement with your viewpoint.
+
+&gt; As I clarified in a subsequent comment in that thread, "if the FAI concludes that replacing a physical person with a software copy isn't a harmless operation, it could instead keep physical humans around and place them into virtual environments Matrix-style."
+
+I think the purpose of this part is to support your statement that you have no intention to harm anyone, but if it's an argument against some specific part of my comment, would you mind matching them up because I don't see how this refutes any of my points.
+
+&gt; I've never received any money from them and am not even a Research Associate. I have independently done work that may be useful for SIAI, but I don't think that's the same thing from a PR perspective.
+
+It's not easy for me to determine your level of involvement from the website.  This here suggests that you've done important work for SIAI:
+
+&gt; Vladimir Nesov, a decision theory researcher, holds an M.S. in applied mathematics and physics from Moscow Institute of Physics and Technology. He has worked on Wei Dai’s updateless decision theory, in pursuit of one of the Singularity Institute’s core research goals: that of developing a “reflective decision theory.”
+
+http://singularity.org/blog/2011/07/22/announcing-the-research-associates-program/
+
+*If* one is informed of the exact relationship between you and SIAI, it is not as bad, but:
+
+A. If someone very prominent on LessWrong (a top contributor) who has been contributing to SIAI's decision theory ideas (independently) does something that looks bad, it still makes them look bad.  
+
+B. The PR effect for SIAI could be much worse considering that there are probably lots of people who read the site and see a connection there but do not know the specifics of the relationship.
+
+&gt; "Let's work out all the problems involved in letting the AGI decide what is ethical."
+
+Okay but how will you know it's making the right decision if you do not even know what the right decision is for yourself?  If you do not think it is safe to simply give the AGI an algorithm that looks good without testing to see whether running the algorithm outputs choices that we want it to make, then how do you test it?  How do you even reason about the algorithm?  How do you make those beliefs "pay rent", as the [sequence post](http://lesswrong.com/lw/i3/making_beliefs_pay_rent_in_anticipated_experiences/) puts it?
+
+I see now that the statement could be interpreted in one of two ways:
+
+"Let's work out all the problems involved in letting the AGI *define ethics*."
+
+"Let's work out all the problems involved in letting the AGI *make decisions on it's own without doing any of the things that are wrong by our definition of what's ethical*."
+
+Do you not think it better to determine for ourselves whether virtualizing everyone means killing them, and then ensure that the AGI makes the correct decision?  Perhaps the reason you approach it this way is because you don't think it's possible for humans to determine whether virtualizing everyone is ethical?
+
+I do think it is possible, so if you don't think it is possible, let's debate that.  

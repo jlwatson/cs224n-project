@@ -1,0 +1,24 @@
+I was informed by Justin Shovelain that recently he independently circulated a document arguing for "IA first", and that most of the two dozen people he showed it to agreed with it, or nearly so.
+
+I'm a bit surprised there hasn't been more people arguing (or at least stating their intuition) that "AI first" is the better strategy.
+
+But I did find that Eliezer had written an argument explaining why he chose the "AI first" strategy in [Artificial Intelligence as a Positive and Negative Factor in Global Risk](http://intelligence.org/upload/artificial-intelligence-risk.pdf) (pages 31-35). Here's the conclusion from that section:
+
+&gt;I would be pleasantly surprised if augmented humans showed up and built a Friendly AI
+before anyone else got the chance. But someone who would like to see this outcome will
+probably have to work hard to speed up intelligence enhancement technologies; it would be
+difficult to convince me to slow down. If AI is naturally far more difficult than intelligence
+enhancement, no harm done; if building a 747 is naturally easier than inflating a bird, then
+the wait could be fatal. There is a relatively small region of possibility within which
+deliberately not working on Friendly AI could possibly help, and a large region within
+which it would be either irrelevant or harmful. Even if human intelligence enhancement is
+possible, there are real, difficult safety considerations; I would have to seriously ask
+whether we wanted Friendly AI to precede intelligence enhancement, rather than vice versa.
+&gt;
+&gt;I do not assign strong confidence to the assertion that Friendly AI is easier than human
+augmentation, or that it is safer. There are many conceivable pathways for augmenting a
+human. Perhaps there is a technique which is easier and safer than AI, which is also
+powerful enough to make a difference to existential risk. If so, I may switch jobs. But I
+did wish to point out some considerations which argue against the unquestioned
+assumption that human intelligence enhancement is easier, safer, and powerful enough to
+make a difference.

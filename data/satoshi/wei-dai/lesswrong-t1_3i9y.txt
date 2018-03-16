@@ -1,0 +1,3 @@
+Thanks for that link, I'd read it but then forgot about it for some reason. it definitely belongs here :-)
+
+The problem is, I just can't accept the idea that anthropic/ethical problems are "indeterminate" and that we should rely on our "intuitions". It seems that some anthropic problems must have well-defined solutions. If you take part in many successive experiments with observer-splitting, you will observe some limiting frequencies, but we have no clue what these frequencies will be. Do they depend on the thickness of the silicon wafers used to build our computers? Or do they depend on the algorithms running within our brains?

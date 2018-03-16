@@ -1,0 +1,13 @@
+Someone asked me via PM, in reference to this post, "Do you have any specific recommendations on the most useful fields, ideas, or techniques thus far [for solving FAI-related philosophical problems]?" I figure I'd answer here publicly in case anyone else finds my answer helpful. This is a list of topics that I studied over the years that I think contributed most to what philosophical progress I managed to make. (The order given here is not very significant. It's just roughly the order in which I encountered and started studying these topics.)
+
+* evolutionary biology and psychology
+* computer science (theory of computation, algorithms, data structures, OS, compiler, languages) 
+* math (number theory, probability, statistics)
+* cryptography
+* game theory
+* anthropic reasoning / indexical uncertainty
+* Tegmark's Ultimate Ensemble
+* algorithmic information theory, AIXI
+* logic, recusion theory
+* decision theory
+* philosophy of science, philosophy of math, ethics

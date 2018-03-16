@@ -1,0 +1,5 @@
+Bugreport (regression since 1.0.4): The like/dislike_author buttons don't work. They do update the "authorPreferences" key in webappstore.sqlite, but they don't affect the display of comments, nor is there any form of UI feedback that the button has been pressed (such as the bolding that used to happen).
+
+Another bug: If there are more than 800 new comments, and I scroll to the bottom of the first page of 800, there's a dynamically generated "There are more comments available" link. If I scroll to the new bottom (which is slightly further along after that link has been appended to the page), then another copy of the same link is appended. Etc.
+
+Linux / Firefox 7.0.1 / LessWrong Power Reader 1.0.6

@@ -1,0 +1,1 @@
+Let's say the theory is ZFC. Does the string "0 if the continuum hypothesis if true, otherwise 1" contribute to the probability of 0, or the probability of 1?

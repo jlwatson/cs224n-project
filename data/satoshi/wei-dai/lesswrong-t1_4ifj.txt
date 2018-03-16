@@ -1,0 +1,7 @@
+&gt;Well its important for the cause of refining rationality that we don't get caught with associating the notion of rationality with certain goals. 
+
+A central idea floating around here (which I'm not sure anyone has made explicit before) is that we should take a broad view of rationality and try to extend it to as many applications as possible, for example to morality, meta-ethics, or philosophy in general, instead of the view that economists tend to take, in which rationality is just about updating beliefs about the state of the world given a prior and empirical evidence, and choosing decisions given beliefs and a utility function. This stems from the idea that we know humans have cognitive biases (or just often make mistakes) which we can try to correct, and these mistakes must occur in more areas than just updating empirical beliefs or choosing decisions.
+
+So I think it's not necessarily wrong, in principle, to say that certain goals are more rational than others, even if in practice people might be overconfident in making such declarations or implicit assumptions.
+
+Also, I guess some people might phrase their questions as "Should rationalists do X?" without intending to associate rationality with certain goals. What they probably mean is, "What advice (and the rationale behind that) would you give to someone about X, given that they already accept the basic principles of rationality?" but that is a bit too long to put in a title.

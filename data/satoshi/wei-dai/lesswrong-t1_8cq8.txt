@@ -1,0 +1,17 @@
+&gt;What does it mean for something to be labeled as a certain amount of "awesome" or "good" or "utility"?
+
+"Awesome" is an emotional reaction whereas "utility" (as you point out in this post) is a technical and not entirely intuitive concept in decision theory. Maybe one ought to be derived from the other, but it's not right to just implicitly assume that they are the same thing.
+
+&gt;Each outcome has a utility
+
+Unlike some recent posts about VNM, you don't say what "outcome" means. If we take an outcome to be a world history, then "being turned into a whale for a day" isn't an outcome.
+
+&gt;As far as I can tell, the great project of moral philosophy is an adult problem, not suited for mere mortals like me.
+
+I'm having trouble reconciling this with 'You already know that you know how to compute "Awesomeness", and it doesn't feel like it has a mysterious essence that you need to study to discover.'
+
+&gt;VNM says nothing about your utility function. Consequentialism, hedonism, utilitarianism, etc are up to you.
+
+I'm pretty sure VNM, or just the concept of utility function, implies consequentialism (but not the other two).
+
+(These comments occurred to me as I read the OP right after it was posted, but I waited a while to see if anyone else would make the same points. No one did, which makes me wonder why.)

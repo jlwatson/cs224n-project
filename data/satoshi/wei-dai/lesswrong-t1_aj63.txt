@@ -1,0 +1,1 @@
+To clarify my point, I meant that Solomonoff induction can justify caring less about some agents (and I'm largely aware of the scheme you described), but simultaneously rejecting Solomonoff and caring less about agents running on more complex physics is not justified. 

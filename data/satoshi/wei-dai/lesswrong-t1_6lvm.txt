@@ -1,0 +1,5 @@
+&gt;One major element of philosophical reasoning seems to be a distaste for and tendency to avoid arbitrariness.
+
+If an agent has goal G1 and sufficient introspective access to know its own goal, how would avoiding arbirtrariness in its goals help it achieve goal G1 better than keeping goal G1 as its goal?
+
+I suspect we humans are driven to philosophize about what our goals ought to be by our lack of introspective access, and that searching for some universal goal, rather than what we ourselves want, is a failure mode of this philosophical inquiry.

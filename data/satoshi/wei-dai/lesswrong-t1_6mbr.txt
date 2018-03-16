@@ -1,0 +1,1 @@
+Yes, I object less to CEV if you go one or two levels meta.  But if evolution of values is your core value, you find that it's pretty hard to do better than to just not interfere except to keep the ecosystem from collapsing.  See John Holland's book and its theorems showing that an evolutionary algorithm as described does optimal search.

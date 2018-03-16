@@ -1,0 +1,5 @@
+This is all philosophy of language, yo.
+
+I tend toward Searle's approach to the subject. I think that investing much more than he does into the concept of 'meaning' is a mistake. "What does 'right' mean?" is a wrong question. The correct question is: "What do you mean by 'right'?" Or, more generally: "What effect do you hope to achieve by invoking the communication symbol of 'right' in your speech act?"
+
+Which is, incidentally, why I find Eliezer's meta-ethical move of rigid designation for the meaning of "right" so unnecessary. My current attitude is that things would be clearer if we Taboo-ed the entire field of ethics.

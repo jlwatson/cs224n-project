@@ -1,0 +1,5 @@
+Eliezer stated his reasons [here](http://www.sl4.org/archive/0602/14076.html):
+
+&gt; ...a constructive theory of the world's second most important math problem, reflective decision systems, is necessarily a constructive theory of seed AI; and constitutes, in itself, a weapon of math destruction, which can be used for destruction more *quickly* than to any good purpose. Any Singularity-value I attach to publicizing Friendly AI would go into explaining the *problem*. Solutions are far harder than this and will be specialized on particular constructive architectures.
+
+So in a nutshell, he thinks solving decision theory will make building unfriendly AIs much easier. This doesn't sound right to me because we already have idealized models like Solomonoff induction or AIXI, and they don't help much with building real-world approximations to these ideals, so an idealized perfect solution to decision theory isn't likely to help much either. But maybe he has some insight that I don't.

@@ -1,0 +1,5 @@
+Is it just me, or does your comment sound like a retreat from "we need to spread rationality because it's a good idea" to "we need to spread rationality to figure out if it's a good idea"?
+
+If yes, then note that LW has existed for years and has thousands of users. Yvain was among the first contributors to LW and his early posts were already excellent. Many other good contributors, like Wei Dai (invented UDT, independently invented cryptocurrency) or Paul Christiano (IMO participant), were also good before they joined... As Yvain's post said, it seems hard to find people who benefited a lot from LW-rationality.
+
+I'm not sure we need more information about the usefulness of LW-rationality before we can make a conclusion. We already have a lot of evidence pointing one way, look at all the LWers who didn't benefit. Besides, what makes you think that a study with more participants and longer duration would give different results? If anything, it's probably going to be closer to the mean, because LW folks are self-selected, not randomly selected from the population.

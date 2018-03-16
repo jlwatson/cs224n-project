@@ -1,0 +1,3 @@
+In my view, we could make [act-based agents](https://medium.com/ai-control/act-based-agents-8ec926c79e9c#.vhu6az78z) without answering this or any similar questions. So I'm much less interested in answering them then I used to be. (There are possible approaches that do have to answer all of these questions, but at this point they seem very much less promising to me.)
+
+We've briefly discussed this issue in the abstract, but I'm curious to get your take in a concrete case. Does that seem right to you? Do you think that we need to understand issues like this one, and have confidence in that understanding, prior to building powerful AI systems?

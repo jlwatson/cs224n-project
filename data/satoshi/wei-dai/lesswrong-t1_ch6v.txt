@@ -1,0 +1,13 @@
+&gt; My reaction when I first came across IRL is similar to this author's:
+
+As a side note, that author's attempt at value learning is likely to suffer from the same problem Christiano brought up in this thread - there is nothing to enforce that the optimization process will actually nicely separate the reward and agent functionality.  Doing that requires some more complex priors and or training tricks.
+
+The author's critique about limiting assumptions may or may not be true, but the author only quotes a single paper from the IRL field - and its from 2000.  That paper and it's follow up both each have 500+ citations, and some of the newer work with IRL in the title is from 2008 or later.  Also - most of the related research doesn't use IRL in the title - ie "Probabilistic reasoning from observed context-aware behavior".
+
+&gt;But maybe it's not a bad approach for solving a hard problem to first solve a very simplified version of it, then gradually relax the simplifying assumptions and try to build up to a solution of the full problem.
+
+This is actually the mainline successful approach in machine learning - scaling up.  MNIST is a small 'toy' visual learning problem, but it lead to CIFAR10/100 and eventually ImageNet.  The systems that do well on ImageNet descend from the techniques that did well on MNIST decades ago.
+
+MIRI/LW seems much more focused on starting with a top-down approach where you solve the full problem in an unrealistic model - given infinite compute - and then scale down by developing some approximation.
+
+Compare MIRI/LW's fascination with AIXI vs the machine learning community.  Searching for "AIXI" on r/machinelearning gets a single hit vs 634 results on lesswrong.  Based on #citations of around 150 or so, AIXI is a minor/average paper in ML (more minor than IRL), and doesn't appear to have lead to great new insights in terms of fast approximations to bayesian inference (a very active field that connects mostly to ANN research).

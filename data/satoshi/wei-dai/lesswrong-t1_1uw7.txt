@@ -1,0 +1,9 @@
+I'm late to the thread, but I just had to leave a few thoughts.
+
+Firstly, a well written post and I've thought about something similar too, as I suspect many have. I look forward to reading the Tegmark paper, which I have not yet done.
+
+At least a couple of commenters opposed the jump from one to n to zero simulations, but I find it very intuitive. One can think about it like this: Suppose there is a non-iterative non-recursive formula for calculating the state of a deterministic universe at time t. This is analogous to having a [digit extraction formula for pi](http://en.wikipedia.org/wiki/Numerical_approximations_of_%CF%80#Digit_extraction_methods). The simulation can then be stopped, rewound of forwarded at will, without any change to the actual results of the simulation. Someone inside the simulation would still exist as if the simulation had been played out in order.
+
+The idea of universes as purely mathematical objects is also rather natural. If the state of the universe (including the laws governing it) can be encoded in numbers, it can be equivalently encoded in a single set. Then all possible universes are trivially contained in the universal set.
+
+Where this whole idea begins to break down (or at least becomes non-trivial) is with non-deterministic universes. The result of such a simulation by definition depends on the machine/RNG running it, so they do not similarly exist as a sequence of states that could be navigated at will. Ours seems to be such a universe... Even in a non-deterministic universe each state would exist as a mathematical object, so maybe I just haven't thought about this enough.

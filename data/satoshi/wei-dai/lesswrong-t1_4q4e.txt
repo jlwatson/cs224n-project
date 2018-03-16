@@ -1,0 +1,13 @@
+I think I understand why 
+
+&gt;“hard step” models predict few sequential hard steps in the few hundred million years since that ancestor
+
+but I do not see why this
+
+&gt;count against extreme evolutionary challenge in developing human-level intelligence
+
+I think it's explained in this passage, but I'm having trouble following the reasoning:
+
+&gt;Thus, the “hard steps” model rules out a number of possible “hard intelligence” scenarios: evolution typically may take prohibitively long to get through certain “hard steps”, but, between those steps, the ordinary process of evolution suffices, even without observation selection effects, to create something like the progression we see on Earth. If Earth’s remaining habitable period is close to that given by estimates of the sun’s expansion, observation selection effects could not have given us hundreds or thousands of steps of acceleration, and so could not, for example, have uniformly accelerated the evolution of human intelligence across the last few billion years.
+
+Could the authors, or someone who does understand it, expand on it a bit?

@@ -1,0 +1,5 @@
+Something weird is going on with bolding followed by use of underscore. For example:
+
+**ETA:** I just noticed that cousin_it's
+
+There should be an underscore between "cousin" and "it's", but instead the underscore doesn't appear and "it's" is italicized. Hmm, it's not happening here, but was happening in http://lesswrong.com/lw/13o/fairness_and_geometry/yw4 until I removed the underscore.

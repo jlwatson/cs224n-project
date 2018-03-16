@@ -1,0 +1,12 @@
+Consider taking a job as a database/web developer at a university department. This gets you around journal paywalls, and is a low-stress job (assuming you have or can obtain above-average coding skills) that leaves you plenty of time to do your research. (My wife has such a job.) I'm not familiar with freelance journalism at all, but I'd still guess that going the software development route is lower risk.
+
+Some comments on your list of advantages/disadvantages:
+
+* Harder to network effectively. - I guess this depends on what kind of research you want to do. For the areas I've been interested in, networking does not seem to matter much (unless you count participating in online forums as networking :).
+* Journals might be biased against freelance researchers. - I publish my results online, informally, and somehow they've usually found an interested audience. Also, the journals I'm familiar with require anonymous submissions. Is this not universal?
+* Harder to combat akrasia. - Actually, might be [easier](http://lesswrong.com/r/discussion/lw/3nt/why_do_some_kinds_of_work_not_feel_like_work/).
+
+A couple other advantages of the non-traditional path:
+
+* If you get bored you can switch topics easily. 
+* I think it's crazy to base one's income on making research progress. How do you stay objective when you depend on your ideas being accepted as correct for food and shelter? Also, you'd be forced to pick research goals that have high probability of success (so you can publish and keep your job) instead of high expected benefit for humanity (or for your intellectual interests).

@@ -1,0 +1,9 @@
+AI is complex. Complexity means bugs. Bugs in smart contracts are exactly what you need to avoid. 
+
+What is needed the most is mathematically proving code. 
+
+For certain contract types you're going to need some way of confirming that, say, physical goods have been delivered but you gain nothing my adding AI to the mix.
+
+Without AI you have a switch someone has to toggle or some other signal that someone might hack. With AI you just have some other input stream that someone might tamper with. Either way you need to accept information into the system somehow and it may not be accurate. AI does not solve the problem. It just adds complexity which makes mistakes more likely. 
+
+When all you have is a hammer, everything looks like a nail, when all you have is AI theories everything looks like a problem to throw AI at. 

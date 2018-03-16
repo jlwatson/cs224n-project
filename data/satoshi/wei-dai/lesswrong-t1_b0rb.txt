@@ -1,0 +1,3 @@
+Another problem with this proposal: what if egoism is the right morality, or at least that our "actual" values have a large selfish component? If that is the case, then presumably the simulated humans inside the proposed AI will eventually realize it, and then cause the AI to value them (the simulations) instead of us (biological humans).
+
+It seems difficult for approaches to FAI based on indirect normativity (e.g., CEV) to capture selfish values (with the correct indexical references), so it's not just a problem for this specific proposal, but I don't seem to recall seeing the issue mentioned anywhere before.

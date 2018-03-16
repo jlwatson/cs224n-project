@@ -1,0 +1,7 @@
+&gt; Your proposed FAI, after it has extracted human values, will still have to solve the ontological problem, right? If it can, then why can't we?
+
+I don't believe even superintelligence can solve the ontology problem completely.
+
+&gt; You advocate "being lazy" as FAI programmers and handing off as many problems as we can to the FAI, but I'm still skeptical that any FAI approach will succeed in the near future, and in the mean time, I'd like to try to better understand what my own values are, and how I should make decisions.
+
+A fine goal, but I doubt it can contribute to FAI design (which, even it'll take more than a century to finish, still has to be tackled to make that possible). Am I right in thinking that you agree with that?

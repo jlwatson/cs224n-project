@@ -1,0 +1,10 @@
+&gt;What about the agent using Solomonoff's distribution? After seeing 
+BB(1),...,BB(2^n), the algorithmic complexity of BB(1),...,BB(2^n) is sunk, 
+so to speak.** It will predict a higher expected payoff for playing 0 in any 
+round i where the conditional complexity K(i | BB(1),...,BB(2^n)) &lt; 100. **
+This includes for example 2*BB(2^n), 2*BB(2^n)+1, BB(2^n)^2 * 3 + 4, 
+BB(2^n)^^^3, etc. It will bet on 0 in these rounds (erroneously, since 
+K(BB(2^(n+1)) | BB(2^n)) &gt; 100 for large n), and therefore lose relative to 
+a human. 
+
+I don't understand how the bolded part follows. The best explanation by round BB(2^n) would be "All 1's except for the Busy Beaver numbers up to 2^n", right?

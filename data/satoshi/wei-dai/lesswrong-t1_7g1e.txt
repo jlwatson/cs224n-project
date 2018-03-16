@@ -1,0 +1,74 @@
+&gt; the OP is vastly overstating how much of the Sequences are similar to the standard stuff out there... I think Luke is being extremely charitable in his construal of what's "already" been done in academia
+
+Do you have a Greasemonkey script that rips all the qualifying words out of my post, or something? I said things like:
+
+* "Eliezer's posts on evolution *mostly* cover material you can find in any good evolutionary biology textbook"
+* "*much* of the Quantum Physics sequence can be found in quantum physics textbooks"
+* "Eliezer's metaethics sequences includes dozens of *lemmas* previously discussed by philosophers"
+* "Eliezer's free will mini-sequence *includes coverage of topics not usually mentioned when philosophers discuss free will* (e.g. Judea Pearl's work on causality), but the conclusion is standard compatibilism."
+* "[Eliezer's posts] suggest that many philosophical problems can be dissolved into inquiries into the cognitive mechanisms that produce them, *as also discussed in*"
+* "[Eliezer's posts] make the point that value is complex, *a topic explored in more detail in*..."
+
+Your comment above seems to be reacting to a *different* post that I *didn't* write, one that includes (false) claims like: "The motivations, the arguments by which things are pinned down, the exact form of the conclusions are mostly the same between The Sequences and previous work in mainstream academia."
+
+&gt; I have yet to encounter anyone who thinks the Sequences are more original than they are.
+
+Really? This is the *default* reaction I encounter. Notice that when the user 'Thomas' below [tried](http://lesswrong.com/r/discussion/lw/eik/eliezers_sequences_and_mainstream_academia/7fxp) to name just two things he thought were original with you, he got both of them wrong.
+
+Here's a report of my experiences:
+
+* People have been talking about TDT for years but nobody seems to have noticed Spohn until HamletHenna and I [independently stumbled on him](http://lesswrong.com/lw/ddv/open_thread_july_115_2012/76u0) this summer.
+
+* I *do* find it hard to interpret the metaethics sequence, so I'm not sure I grok everything you're trying to say there. Maybe you can explain it to me sometime. In any case, when it comes to the *pieces* of it that can be found elsewhere, I *almost never* encounter anyone who knows their earlier counterparts in (e.g.) Railton &amp; Jackson — unless I'm speaking to someone who has studied metaethics before, like Carl.
+
+* A sizable minority of people I talk to about dissolving questions are familiar with the logical positivists, but almost none of them are familiar with the recent cogsci-informed stuff, like Shafir (1998) or Talbot (2009).
+
+* As I recall, Less Wrong had never mentioned the field of "Bayesian epistemology" until my first post, [The Neglected Virtue of Scholarship](http://lesswrong.com/lw/3m3/the_neglected_virtue_of_scholarship/).
+
+* Here's a specific story. I once told Anna that once I read about intelligence explosion I understood right away that it would be disastrous by default, because human values are incredibly complex. She seemed surprised and a bit suspicious and said "Why, had you read Joshua Greene?" I said "Sure, but he's just one tip of a very large iceberg of philosophical and scientific work demonstrating the complexity of value. I was convinced of the complexity of value long ago by metaethics and moral psychology in general."
+
+&gt; Several of these citations are from after the originals were written! Why not (falsely) claim that academia is just agreeing with the Sequences, instead?
+
+Let's look at them more closely:
+
+* Lots of cited textbooks were written after the Sequences, because I wanted to point people to up-to-date sources, but of course they mostly summarize results that are a decade old or older. This includes books like Glimcher (2010) and Dolan &amp; Sharot (2011).
+
+* Batson (2011) is a summary of Batson's life's work on altruism in humans, almost all of which was published prior to the Sequences.
+
+* Spohn (2012) is just an update to Spohn's pre-Sequences on work on his TDT-ish decision theory, included for completeness.
+
+* Talbot (2009) is the only one I see that is almost entirely composed of content that originates *after* the Sequences, and it too was included for completeness immediately after another work written before the Sequences: Sharif (1998).
+
+&gt; I don't understand what the purpose of this post was supposed to be - what positive consequence it was supposed to have.
+
+That's too bad, since I answered this question at the top of the post. I am trying to counteract these three effects:
+
+1. Some readers will mistakenly think that common Less Wrong views are more parochial than they really are.
+2. Some readers will mistakenly think Eliezer's Sequences are more original than they really are.
+3. If readers want to know more about the topic of a given article, it will be more difficult for them to find the related works in academia than if those works had been cited in Eliezer's article.
+
+I find problem #1 to be *very* common, and a contributor to the harmful, false, and popular idea that Less Wrong is a [phyg](http://www.rot13.com/). I've been in many conversations in which (1) someone starts out talking as though Less Wrong views are parochial and weird, and then (2) I explain the mainstream work behind or similar to every point they raise as parochial and weird, and then (3) after this happens *5 times in a row* they seem kind of embarrassed and try to pretend like they never said things suggesting that Less Wrong views are parochial and weird, and ask me to email them some non-LW works on these subjects.
+
+Problem #2 is common (see the first part of this comment), and seems to lead to phygish hero worship, [as has been pointed out before](http://lesswrong.com/lw/4b/dont_revere_the_bearer_of_good_info/).
+
+Problem #3, I should think, is uncontroversial. Many of your posts have citations to related work, most of them do not (as is standard practice in the blogosphere), and like I said I don't think it would have been a good idea for *you* to spend time digging up citations instead of writing the next blog post.
+
+&gt; writing something that predictably causes some readers to get the impression that ideas presented within the Sequences are just redoing the work of other academics, so that they predictably tweet ...I do not think the creation of this misunderstanding benefits anyone
+
+Predictable misunderstandings are the default outcome of almost anything 100+ people read. There's always a trade-off between maximal clarity, readability, and other factors. But, I'm happy to tweak my original post to try to counteract this specific misunderstanding. I've added the line: "(*edit*: probably *most* of their content is original)".
+
+&gt; [Further reading, I would guess] gave Luke an epiphany he's trying to share - *there's a whole world out there, not just LW the way I first thought*.
+
+Remember that I came to LW with a philosophy and cogsci (especially rationality) background, and had been blogging about biases and metaethics and probability theory and so on at CommonSenseAtheism.com for years prior to encountering LW.
+
+&gt; I get what this is trying to do. There's a spirit in LW which really is a spirit that exists in many other places, you can get it from Feynman, Hofstadter, the better class of science fiction, Tooby and Cosmides, many beautiful papers that were truly written to explain things as simply as possible, the same place I got it.
+
+That is *definitely not* the spirit of my post. If you'll recall, I once told you that if all human writing were about to be destroyed except for one book of our choosing, I'd go with The Sequences. You can't get the kind of thing that [CFAR](http://appliedrationality.org/) is doing solely from Feynman, Kahneman, Stanovich, etc. And you can't get FAI solely from Good, Minsky, and Wallach — not even close.  Again, I get the sense you're reacting to a post with different phrasing than the one I *actually* wrote.
+
+&gt; So they won't actually read the literature and find out for themselves that it's not what they've already read.
+
+*Most* people won't read the literature either you or I link to. But many people will, [like Wei Dai](http://lesswrong.com/r/discussion/lw/eik/eliezers_sequences_and_mainstream_academia/7g0p).
+
+Case in point: Remember [Benja's recent post on UDT](http://lesswrong.com/lw/eaa/a_model_of_udt_with_a_concrete_prior_over_logical/) that you [praised](http://lesswrong.com/lw/eaa/a_model_of_udt_with_a_concrete_prior_over_logical/7afd) as "Original scientific research on saving the world"? Benja himself [wrote](http://lesswrong.com/lw/eaa/a_model_of_udt_with_a_concrete_prior_over_logical/) that the idea for that post clicked for him as a result of reading one of the papers on logical uncertainty I linked to from [So You Want to Save the World](http://lukeprog.com/SaveTheWorld.html).
+
+*Most* people won't read my references. But some of those who do will go on to make a sizable difference as a result. And *that* is one of the reasons I cite so many related works, even if they're not perfectly identical to the thing me or somebody else is doing.

@@ -1,0 +1,10 @@
+&gt; Solving this problem alone could easily take a team several years to accomplish, so how do you hope to produce the strategic recommendations, which must take into account many such issues, in 2 years?
+
+Two answers:
+
+1. Obviously, our recommendations won't be final, and we'll try to avoid being overconfident — especially where the recommendations depend on highly uncertain variables.
+2. In many (most?) cases, I suspect our recommendations will be for policies that play a dual role of (1) making progress in directions that look promising from where we stand now, and also (2) purchasing highly valuable information, like how feasible an NGO FAI team is, how hard FAI really is, what the failure modes look like, how plausible alternative approaches are, etc.
+
+SI, FHI, you, others — we're working on tough problems with many unknown and uncertain strategic variables. Those challenges are not unique to AI risk. Humans have [many](http://www.amazon.com/Handbook-Risk-Theory-Epistemology-Implications/dp/9400714327/) [tools](http://www.amazon.com/Catastrophe-Response-Richard-A-Posner/dp/0195306473/) for doing the best they can while running on spaghetti code and facing decision problems under uncertainty, and we're gaining [new tools](http://www.amazon.com/Antifragile-Things-That-Gain-Disorder/dp/1400067820/) all the time.
+
+I don't mean to minimize your concerns, though. Right now I *expect* to fail. I *expect* us all to get paperclipped (or [turned off](http://www.simulation-argument.com/)), though I'll be happy to update in favor of positive outcomes if (1) research shows the problem isn't as hard as I now think, (2) financial support for x-risk reduction increases, (3) etc.

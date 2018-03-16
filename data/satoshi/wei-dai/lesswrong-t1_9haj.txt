@@ -1,0 +1,33 @@
+I found an early description of b-money in parable form, which was sent on Jan 16, 1998 to a private mailing list (libtech) run by Nick Szabo. It may still be useful for getting an intuitive understanding of the basic principles behind b-money as well as Bitcoin (to some extent), so it seems a shame to just let it sit in my email archives.
+
+Imagine that you are the first person to contact a previously isolated
+civilization. You discover that its people have not yet invented either
+commodity money or fiat money. Yet they do not use direct barter either.
+Instead everyone simply "remembers" how much money everyone else has. When
+Alice needs to pay Bob for services rendered, she simply shouts out "I
+give x dollars to Bob." and everyone else mentally subtracts x dollars
+from the amount of money Alice has and adds x dollars to the amount of
+money Bob has. (Everyone in this civilization is always within shouting
+distance of everyone else.) It is not possible for someone to have
+negative money, because everyone can easily alter their voice and
+appearance and create a new identity.
+
+You find that disputes are resolved without any institutions vested with
+special powers. If Alice has a complaint about Bob, they each shout out
+their arguments. Everyone else makes a decision about what awards, if any,
+Bob should pay to Alice. Then they mentally subtract this from the amount
+of money Bob has and add it to the amount of money Alice has.
+
+In this civilization, money is created around a fire where everyone
+gathers in the evenings. Anyone who wishes to create money brings some
+valuable good, which must be traded in a competitive market, and throws it
+into the fire. Others mentally add the market value of the good to the
+amount of money that person has.
+
+As you leave this charming civilization, you realize that you forgot to
+ask some important questions. How do these people decide when to create
+new money? Do prices generally inflate or deflate? Would there be large
+scale fraud by established businesses if/when prices rise sharply and
+suddenly? What would happen if the civilization starts having more regular
+contact with the outside world? You hope your economist friends can help
+you out...

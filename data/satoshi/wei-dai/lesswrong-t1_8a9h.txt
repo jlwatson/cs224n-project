@@ -1,0 +1,11 @@
+&gt;I guess the key question here is whether the weights ought to logically depend on the actual shape of the Pareto frontier.
+
+Yes, whether a set of weights leads to Pareto-dominance depends logically on the shape of the Pareto frontier. So the theorem does not help with the computational part of figuring out what one's values are.
+
+&gt;I have a choice between (A) a solution known to be optimal along some dimensions not including considerations of logical uncertainty and dynamical consistency, or (B) a very imperfectly optimized solution that nevertheless probably does take them into account to some degree (i.e., the native decision making machinery that evolution gave me). Sticking with B for now doesn't seem unreasonable to me
+
+Sticking with B by default sounds reasonable except when we know something about the ways in which B falls short of optimality and the ways in which B takes dynamical consistency issues into account. E.g., I can pretty confidently recommend that minor philanthropists donate all their charity to the single best cause, modulo a number of important caveats and exceptions. It's natural to feel that one should diversify their (altruistic, outcome-oriented) giving; but once one sees the theoretical justification for single-cause giving under ideal conditions *and* one explains away their intuitions with motives they don't endorse and heuristics that work okay in the EAA but not on this particular problem, I think they have a good reason to go with choice A.
+
+Even then, the philanthropist still has to decide which cause to donate to. It's possible that once they believe they should construct a utility function for a particular domain, they'll be able to use other tools to come up with a utility function they're happy with. But this theorem doesn't guarantee that.
+
+I tried not to claim too much in the OP. I hope no one reads this post and makes a really bad decision because of an overly-naive expected-utility calculation.

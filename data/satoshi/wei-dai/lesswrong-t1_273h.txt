@@ -1,0 +1,13 @@
+Another way to think about this is that many of us seem to share the follow three intuitions about non-interacting extra copies, out of which we have to give up at least one to retain logical consistency:
+
+1. We value extra copies in other quantum branches.
+2. We don't value extra copies that are just spatially separated from us (and are not too far away).
+3. We ought to value both kinds of copies the same way.
+
+_
+
+* Giving up 1 is the position of "quantum immortality".
+* Giving up 2 seems to be Roko's position in this post.
+* Giving up 3 would imply that our values are rather arbitrary: there seems to be no morally relevant differences between these two kinds of copies, so why should we value one and not the other? But according to the "complexity of value" position, perhaps this isn't really a big problem.
+
+Another possibility is to hold a probabilistic superposition of these three positions, depending on the relative strengths of the relevant intuitions in your mind.

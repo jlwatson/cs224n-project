@@ -1,0 +1,33 @@
+Thanks k, today I'll give my thoughts on the knife. I'm sure there are some mistakes in my analysis below, but let's see if we can start to pinpoint areas of disagreement. Let "ddk.lc" be the specific hypothesis that the double-dna knife was accidentally contaminated in the laboratory, and "a.g" be the hypothesis that Amanda is guilty.
+
+I want to estimate the base rate of lab cross-contamination in the late 2000's. Two observations:
+
+1. Looks like Washington State only admitted to one case of laboratory cross-contamination in homicide cases from around 2001-2003, based on [SPI](http://www.seattlepi.com/local/article/DNA-testing-mistakes-at-the-State-Patrol-crime-1149846.php). Maybe there were 2 to 5 that weren't noticed or otherwise were unreported. Washington State has about 200 homicides/year, I'd guess about 1/3 go to state labs?
+
+2. Cases of mistaken "cold matches" that are investigated by the police but turn out to be cross-contamination seem to be extremely rare.
+
+Contamination rates have probably declined slightly since 2001-2004, (widespread DNA forensics is relatively new), so I'm guessing a base-rate of about one accidental cross-contamination per 50 homicides.
+
+(Can that base rate be applied to this case? I could lower it a little based on the first independent report [EDIT: Sorry, I mean the trial judges' sentencing report] affirming the results, on it being a high-profile case, on the defense being allowed to participate in the testing but declining to fully participate, on no "smoking gun" piece of sloppiness found, and on the defense not stressing any history of past contamination. I could raise it a little based on the second independent report criticizing the lab for not following "international protocols" (though I wouldn't particularly expect them to), and on the low-count DNA. Not having much data here, I'll stick with the base rate as my "wild-ass guess".)
+
+Here's some more WAGs. If there's a single lab contamination, the odds that it contaminates a likely murder weapon at the cottage is about .002. The odds that the DNA spread is Meredith's, rather than one of the many people associated with this case or with other cases the lab is processing in parallel, is about .05.
+
+So I assess P(lc) as .02, and P(ddk.lc | lc) as .0001, which gives P(ddk.lc) as .00002, assuming complete innocence.
+
+In contrast, I estimate P(ddk | a.g) is about .05. So if we exclude the large "systemic uncertainty" of my analysis, the DNA evidence on the double-dna knife alone would make me shift by a factor of 2500 to 1 in favor of a.g rather than ddk.lc.
+
+Let me touch on the circumstantial evidence around the knife, with the caveat that there's even more systemic uncertainty than in my DNA analysis.
+
+1. The knife was on top of the other knives, and matched one of the murder weapons: meh, shift by a factor of 2 to 1 in favor of a.g over ddk.lc.
+
+2. The same knife was bleached, and the other knives weren't: Shift by a factor of 5 to 1.
+
+3. Raffaele, at one point, claimed that Meredith visited his cottage and pricked herself on the knife: Shift by a factor of 100.
+
+4. Amanda's reaction to the knife: Shift by 10.
+
+5. Where Amanda's DNA was found on the handle suggests someone stabbing rather than cooking with it: meh, shift by 2.
+
+6. Amanda wrote in her diary speculating whether Raffaele may have framed her by pressing the knife in her hand while she slept: Shift by 10, this is not something you'd write if you knew the knife isn't a murder weapon.
+
+So for the non-DNA evidence around the knife I give a slightly larger shift (200000 to 1), but paradoxically I assign it less importance because there's more systemic uncertainty and more guess-work on my part, compared with the DNA evidence.

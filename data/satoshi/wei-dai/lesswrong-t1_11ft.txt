@@ -1,0 +1,1 @@
+Why do you insist on making life harder on yourself? If the problem isn't solved satisfactorily in a simple world model, e.g. a deterministic finite process with however good mathematical properties you'd like, it's not yet time to consider more complicated situations, with various poorly-understood kinds of uncertainty, platonic mathematical objects, and so on and so forth.

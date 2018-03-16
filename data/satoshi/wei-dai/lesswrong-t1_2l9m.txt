@@ -1,0 +1,20 @@
+An Alternative To "Recent Comments"
+
+For those who may be having trouble keeping up with "Recent Comments" or finding the interface a bit plain, I've written a [Greasemonkey](http://en.wikipedia.org/wiki/Greasemonkey) script to make it easier/prettier. Here is a [screenshot](http://www.ibiblio.org/weidai/lw_screenshot.png).
+
+Explanation of features:
+
+* loads and threads up to 400 most recent comments on one screen
+* use [↑] and [↓] to mark favored/disfavored authors
+* comments are color coded based on author/points (pink) and recency (yellow)
+* replies to you are outlined in red
+* hover over [+] to view single collapsed comment
+* hover over/click [^] to highlight/scroll to parent comment
+* marks comments read (grey) based on scrolling
+* shows only new/unread comments upon refresh
+* date/time are converted to your local time zone
+* click comment date/time for permalink
+
+To install, first get Greasemonkey, then click [here](http://www.ibiblio.org/weidai/lesswrong_comments_reade.user.js). Once that's done, use [this link](http://lesswrong.com/reader) to get to the reader interface.
+
+ETA: I've placed the script is in the public domain. Chrome is not supported.

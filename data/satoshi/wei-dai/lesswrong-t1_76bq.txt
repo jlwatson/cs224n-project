@@ -1,0 +1,12 @@
+&gt; certainly don't disagree when you put it like that, but I think the convention around here is when we say "SI/AIXI will do X" we are usually referring to the theoretical (uncomputable) construct
+
+edit: and for clarification, in this thread you spoke of practical: "but not necessarily a practical one (as he claims)", so that's why I focussed on the practical.
+
+The theoretical S.I. may well be unable to pull 'simulate from big bang' trick if the environment contains sufficient true entropy in initial state, if the environment contains true reals, or perhaps inside a branch of MWI (locating which requires enormous amounts of data), and so on. Then we're back to a system that has noise in it's input and has rather special model of humans, which it may well reuse to cut down the code size by creating its grand unified theory via intelligent design. And it may well need literally astronomical amounts of data to overcome this. By astronomical, I mean, sufficient to start predicting thermal noise. Basically, you believe things about what is rational, and then you claim that SI will amount to this, which it well might, but it just as well may not, in a zillion weird ways that are not readily available for consideration. edit: elaborated by email. it's even messier because the from-big-bang-to-present sims are extremely numerous.
+
+
+edit:
+
+&gt;The reason for saying "SI/AIXI will do X" may for example be to point out how even a simple theoretical model can behave in potentially dangerous ways that its designer didn't expect
+
+I believe that Hutter et all were rightfully careful not to *expect* something specific, i.e. not to expect it to not kill him, not to expect it to kill him, etc etc. Those are questions to be, at last, formally approached.

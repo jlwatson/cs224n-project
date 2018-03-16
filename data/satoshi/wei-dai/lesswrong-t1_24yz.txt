@@ -1,0 +1,1 @@
+No, you can't represent an interactive strategy by a single input to output mapping. That post made a step in the right direction, but stopped short of victory :-). But I must admit, I forgot about that detail in the second post, so you've correctly rendered Wei's algorithm, although using untyped strategies would further improve on that.

@@ -1,0 +1,5 @@
+&gt; I sometimes think of game theory as being roughly divided in three parts, like Gaul. There's competitive zero-sum game theory, there's  cooperative game theory, and there are games where players compete but also have some shared interest.
+
+I'm still trying to figure out a good description of "cooperative game theory". What do you think of this:
+
+Cooperative game theory studies situations where agreements to cooperate can be enforced, and asks which agreements and outcomes will result. This typically involves considerations of individual rationality and fairness.

@@ -1,0 +1,3 @@
+Cousin_it, I don't know if you're still thinking about this problem, but I found a paper that takes an approach that is very similar to the one in this post. It's [Twofold optimality of the relative utilitarian bargaining solution](http://mpra.ub.uni-muenchen.de/2637/1/MPRA_paper_2637.pdf).
+
+See also [this review paper](http://rcer.econ.rochester.edu/RCERPAPERS/rcer_554.pdf) which I found by looking for citations of the above paper.

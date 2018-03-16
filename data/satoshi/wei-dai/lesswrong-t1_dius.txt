@@ -1,0 +1,7 @@
+&gt; These days I think the answer is actually wrong
+
+How so? Since security cannot be absolute, the threat model is basically just placing the problem into appropriate context. You don't need to formalize all the capabilities of attackers, but you need to have at least *some* idea of what they are.
+
+&gt; and think, ok, we're secure under this threat model, hence we're probably secure
+
+That's actually the reverse: hardening up under your current threat models makes you more secure against the threats you listed but doesn't help you against adversaries which your threat model ignores. E.g. if you threat model doesn't include a nation-state, you're very probably insecure against a nation-state.

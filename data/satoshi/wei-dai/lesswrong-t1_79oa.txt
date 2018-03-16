@@ -1,0 +1,7 @@
+FAI is a security risk not a fix:
+
+"One way to think about Friendly AI is that it's an offensive approach to the problem of security (i.e., take over the world), instead of a defensive one."
+
+Not if the AI itself is vulnerable to penetration.  By your own reasoning, we have no reason to think they won't be.  They may turn out to be one of the biggest security liabilities because the way it executes tasks may be very intelligent and there's no reason to believe they won't be reprogrammed to do unfriendly things.
+
+Friendly AI is only friendly until a human figures out how to abuse it.

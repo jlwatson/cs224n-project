@@ -1,0 +1,19 @@
+&gt; Isn't it possible that it only looks like "heuristics all the way down" because we haven't dug deep enough yet?
+
+Everything's possible, but doesn't seem plausible at this point, and certainly not at human level. To conclude that something is not a heuristic, but the thing itself, one would need too much certainty to be expected of such a question.
+
+&gt; What is the nature of morality according to your approach? You say that a human can't know what they care about (which I assume you use interchangeably with "right", correct me if I'm wrong here). 
+
+I did use that interchangeably.
+
+&gt; Is it because they can't, in principle, fully unfold the logical definition of right, or is it that they can't even define "right" in any precise way?
+
+Both (the latter). Having an explicit definition would correspond to "preference" which I discussed in the grandparent comment. But when we talk of merely "precise", at least in principle we could hope to obtain a significantly more precise description, maybe even on human level, which is what meta-ethics should strive to give us. Every useful heuristic is an element of such a description, and some of the heuristics, such as laws of physics, are very precise.
+
+&gt; How is an agent supposed to design a set of heuristics without such a precise definition to guide it? 
+
+The current heuristics, its current implementation, which is understood to be fallible.
+
+&gt; Also, if the agent itself uses the words "morality" or "right", what do they refer to?
+
+Don't know (knowing would give a definition). To the extent it's known, see the current heuristics (long list), maybe brains.

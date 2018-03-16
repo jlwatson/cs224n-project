@@ -1,0 +1,16 @@
+Thank you for this elaborate response!!
+
+&gt;Omega picks a random gene look at (from a list of all human genes), and puts $1M in box B for you if you don't have that gene
+
+Why would Omega look at other human genes and not the two-boxing (correlated) gene(s) in any world?
+
+&gt;Under this assumption, the second type of multiverse is better because the number and distribution of boxes containing $1M is exactly the same in both multiverses, but in the second type of multiverse UDT agents get the additional $1K.
+
+Maybe I overlook something or did not describe the problem very well, but in the second multiverse UDT agents two-box, therefore UDT agents (probably) have the two-boxing gene and don't get the $1M. In the first multiverse, UDT agents one-box, therefore UDT agents (probably) don't have the one-boxing gene and get the $1M. So, the first multiverse seems to be better than the second.
+
+&gt;I think the reason we have an intuition that we should one-box in the GNP is that when we first read the story, we implicitly assume something else about what Omega is doing. For example, suppose instead of the above, in each world Omega looks at the most common gene correlated with two-boxing and puts $1M in box B if you don't have that gene.
+
+Yes, this is more or less the scenario, I was trying to describe. Specifically, I wrote:
+&gt;Omega has only looked at your DNA: If you don't have the "two-boxing gene", Omega puts $1M into box B, otherwise box B is empty.
+
+So, it's part of the GNP that Omega has looked at the "two-boxing gene" or (more realistically perhaps) the "most common gene correlated with two-boxing".

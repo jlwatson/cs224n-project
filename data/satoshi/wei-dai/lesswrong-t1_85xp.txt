@@ -1,0 +1,9 @@
+You can implement *A* simulation.  But that simulation having anything to do with any *particular* thing that has existed in the real world is harder.  
+
+Physics itself is not hard.  Applying it to large numbers of particles is hard.
+
+As for non-DNA molecules, there are all kinds of small molecule metabolites which are constantly being converted back and forth, some of which are very important (they bind to the big molecules, are part of metabolism, and I have seen some brand new research about particular proteins that only fold properly around a 'nucleus' formed by a particular 6-carbon molecule).  But my main point I was trying to make was more along the lines of (addressing the third bullet):
+
+Shape is more detailed than general cell shape.  There is fine structure in terms of internal fibers, distributions of molecules, impermiable barriers that segregate things, etc.  Some of this, like the aforementioned membranes in bacteria, the self-perpetuating but never-made-from-scratch compartments that distill out their components from the general cell mileu, don't necessarily have the DNA as a determinant but rather as something that sets up the circumstance in which it is stable.  Other things like the amounts and simple distributions of molecules all come from pervious states and most possible distributions dont correspond to any real state (though doubtless many of them would be unstable and collapse down to one attractor or another that normally exists once you instantiate them).
+
+I have a hard time trying to think of the nature of the correspondence between these things and bits for a simulation besides positions of molecules, and I'm not sure in what context those bits are specified.  A little help?

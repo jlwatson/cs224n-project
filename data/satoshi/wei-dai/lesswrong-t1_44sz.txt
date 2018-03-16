@@ -1,0 +1,8 @@
+Luke, this sequence of posts seems to touch upon (although from a very different angel) some of the same issues raised in my post [Metaphilosophical Mysteries](http://lesswrong.com/lw/2id/metaphilosophical_mysteries/). I'm curious if you have any thoughts on that post.
+
+&gt;Next time, we'll examine in more detail why intuitions are so unsuited for use in philosophy.
+
+A couple of possibly premature comments:
+
+1. If intuitions are unsuited for use in philosophy, what *is* suited? Until we have at least a rough outline of an algorithm for doing philosophy, how can we possibly avoid using philosophical intuitions? Or do you just mean that we shouldn't uncritically rely upon our intuitions in philosophical matters?
+2. It's sometimes claimed around here that some people (e.g., [Eliezer](http://lesswrong.com/lw/ua/the_level_above_mine/nj6)) have better philosophical intuitions than others. Do you think this is a real phenomenon? If so, perhaps there is a source of "good" philosophical intuitions besides the three sources that you list, and we just do not understand it yet?

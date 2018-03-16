@@ -1,0 +1,5 @@
+Bugreport: I'm getting intermittent failures, wherein http://lesswrong.com/reader instantly returns a blank page (no header, no "Please wait while new comments are being loaded"). When this happens, it also forgets my history of read comments.
+
+Attempted trace: http://www.ibiblio.org/weidai/lesswrong_comments2.php returned http error 500. The forgetting consists of the "remove old ids" loop running on an empty list of new comments, thus thinking that everything is old.
+
+Linux / Firefox 3.6.13 / LessWrong Power Reader 1.0.4

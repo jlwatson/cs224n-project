@@ -1,0 +1,10 @@
+A question about preference utilitarianism in general: what question is it trying to answer? It's common to divide the question "What should I do?" into two parts:
+
+1. What should I value/prefer?
+2. How can I best maximize my values or satisfy my preferences?
+
+So for example ethical theories like hedonic egoism or hedonic utilitarianism attempt to answer 1, while decision theories like CDT and UDT attempt to answer 2. Is preference utilitarianism trying to answer question 1 or question 2? Or something else outside of this framework?
+
+Preference utilitarianism is usually contrasted with hedonic utilitarianism, which suggests it might be trying to answer question 1. But I can't make sense of that, because if I'm supposed to prefer that everyone else satisfy their preferences, and presumably by symmetry they are also supposed to prefer that everyone else satisfy *their* preferences, that seems to cause an infinite recursion and nobody ends up having any concrete preferences at all.
+
+So is it trying to answer question 2? Do preference utilitarians argue that trying to maximize an average of everyone's utility is the best way to satisfy one's own selfish or idiosyncratic preferences? (I think Gary Drescher has given an argument like this in his book, but what's the mainstream view among preference utilitarians?) I note that if this is the case, then preference utilitarianism is perfectly compatible with hedonic egoism or hedonic utilitarianism, but I don't seem to recall this point being made in any articles I've read about preference utilitarianism.

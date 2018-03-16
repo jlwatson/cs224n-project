@@ -1,0 +1,3 @@
+&gt;In practice, however, we mostly don't see people doing this, and I think that's actually very reasonable.
+
+Besides the reason you mention here, which I agree with, consumption smoothing is also very costly and impractical to do on a large scale. "Low interest" credit cards have interest rates around [10%](http://www.creditcards.com/credit-card-news/interest-rate-report-060513-fall-2121.php), which carried over 20 years (from one's 20s into the 40s) would compound to over 500%. And it's hard or impossible to obtain unsecured debt that total several times one's annual income.

@@ -1,0 +1,7 @@
+&gt;especially if we push the right techs so that lo-fi WBE and hi-fi WBE arrive at nearly the same time.
+
+This seems to me likely to be very hard, without something like a singleton or a project with a massive lead over its competitors that can take its time and is willing to despite the strangeness and difficulty of the problem, competitive pressures, etc. 
+
+A boost to neuroimaging goes into the public tech base, accelerating all WBE projects without any special advantage to the safety-oriented. The thought with decision theory is that the combination of its direct effects, and its role in bringing talented people to work on AI safety, will be much more targeted.
+
+If you were convinced that the growth of the AI risk research community, and a closed FAI research team, were of near-zero value, and that decision theory of the sort people have published is likely to be a major factor for building AGI, the argument would not go through. But I would still rather build fungible resources and analytic capacities in that situation than push neuroimaging forward, given my current state of knowledge.

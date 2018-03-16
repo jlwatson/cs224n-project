@@ -1,0 +1,1 @@
+CEV is not any old set of evolved values. It is the optimal set of evolved values; the set you get when everything goes exactly right. Of your two proposed futures, one of them is a better approximation to this than the other; I just can't say which one, at this time, because of lack of computational power. That's what we want a FAI for. :) 

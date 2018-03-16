@@ -1,0 +1,1 @@
+Yes, they do. In this case you just got lucky and the probabilities factored out of the calculations. The general case where they don't necessarily factor out is called [evolutionary game theory](http://en.wikipedia.org/wiki/Evolutionary_game_theory): indexical probabilities correspond to replicator frequencies, utility corresponds to fitness.

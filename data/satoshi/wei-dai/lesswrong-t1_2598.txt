@@ -1,0 +1,20 @@
+Wei_Dai:
+&gt; I typically find myself wanting to verify every single fact or idea that I hadn't heard of before, and say either "hold on, I need to think about that for a few minutes" or "let me check that on Google/Wikipedia". 
+
+But this seems to me, at the very least, irrationally inefficient. You have a finite amount of time, and it can surely be put to use much more efficiently than verifying *every single* new fact and idea. (Also, why stop there? Even after you've checked the first few references that come up on Google, there is always some non-zero chance that more time invested in research could unearth relevant contrary evidence. So clearly there's a time-saving trade-off involved.)
+
+&gt; It's not that I think people are deceptive but I don't trust their memory and/or judgment. Asking for evidence isn't that helpful because (1) they may have misremembered or misheard from someone else and (2) there may be a lot more evidence in the other direction that they're not aware of and never thought of looking up.
+
+Sometimes, yes. But often it's not the case. There are good heuristics to determine if someone really knows what he's talking about. If they give a positive result, what you've been told in a live conversation is only marginally less reliable than what a reasonable time spent googling will tell you. This is an immensely useful and efficient way of saving time. 
+
+Also, many claims are very hard to verify by googling. For example, if someone gives you general claims about the state of the art in some area, based on generalizations from his own broad knowledge and experience, you must judge the reliability of these claims heuristically, unless you're willing to take a lot of time and effort to educate yourself about the field in question so you can make similar conclusions yourself. Google cannot (yet?) be asked to give such judgments from the indexed evidence.
+
+&gt; I think we covered that [signaling elements of live communication] in an earlier discussion. :)
+
+Yes, but you've asked about the motivations of typical people. For everyone except a very small number of outliers, this is a highly relevant factor. 
+
+&gt; But why do people find random elements in the environment interesting?
+
+Are you asking for an answer in everyday human terms, or an evolutionary explanation?
+
+In this particular context, it should be noted that human conversations whose purpose is fun, rather than achieving a predetermined goal, typically have a natural and seemingly disorganized flow, jumping from one topic to another in a loose sequence. Comments on various observations from the environment can guide this flow in interesting fun-enhancing ways, which is not possible when people are just exchanging written messages at a distance. 

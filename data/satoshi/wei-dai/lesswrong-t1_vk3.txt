@@ -1,0 +1,1 @@
+k-nearest-neighbors seems to be a reasonable method of interpolation, but what about extrapolation? I'm having trouble seeing how nonparametric methods can deal with regions far away from existing data points.

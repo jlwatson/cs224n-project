@@ -1,0 +1,1 @@
+Conceptually, I treat logical uncertainty as I do prior+utility, a representation of preference, in this more general case over mathematical structures. The problems of representing this preference compactly and extracting human preference don't hinder these particular explorations.

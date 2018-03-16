@@ -1,0 +1,3 @@
+The Philosophical Insight Generator - Using a model of a volunteer's mind, generate short (&lt;200 characters, say) strings that the model rates as highly insightful after read each string by itself, and print out the top 100000 such strings (after applying some semantic distance criteria or using the model to filter out duplicate insights) after running for a certain number of ticks.
+
+Have the volunteer read these insights along with the rest of the FAI team in random order, discuss, update the model, then repeat as needed.

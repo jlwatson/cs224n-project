@@ -1,0 +1,3 @@
+The point about demarcating individuals is important for ethical theories generally (and decision theories that make use of spooky 'reference classes').  Bostrom's [Duplication of experience paper](http://www.nickbostrom.com/papers/experience.pdf) illustrates the problem further.
+
+Also, insofar as CEV is just a sort of idealized deliberative democracy, this points to the problem of emulations with systematically unrepresentative values rapidly becoming the majority when emulation hardware is cheap.

@@ -1,0 +1,5 @@
+&gt; How is FAI a math problem?
+
+In the same sense AIXI is a mathematical formulation of a solution to the AGI problem, we don't have a good idea of what FAI is supposed to be. As a working problem statement, I'm thinking of how to define "preference" for a given program (formal term), with this program representing an agent that imperfectly implements that preference, for example a human upload could be such a program. This "preference" needs to define criteria for decision-making on the unknown-physics real world from within a (temporary) computer environment with known semantics, in the same sense that a human could learn about what could/should be done in the real world while remaining inside a computer simulation, but having an I/O channel to interact with the outside, without prior knowledge of the physical laws.
+
+I'm gradually writing up the idea of this direction of research on my [blog](http://causalityrelay.wordpress.com/sequences/friendly-ai-problem/). It's vague, but there is some hope that it can put people into a more constructive state of mind about how to approach FAI.

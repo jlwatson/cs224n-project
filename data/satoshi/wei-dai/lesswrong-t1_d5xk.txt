@@ -1,0 +1,16 @@
+Do you have a concise explanation of skepticism about the overall approach, e.g. a statement of the difficulty or difficulties you think will be hardest to overcome by this route?
+
+Or is your view more like "most things don't work, and there isn't much reason to think this would work"?
+
+In discussion you most often push on the difficulty of doing reflection / philosophy. Would you say this is your main concern?
+
+My take has been that we just need to meet the lower bar of "wants to defer to human views about philosophy, and has a rough understanding of how humans want to reflect and want to manage their uncertainty in the interim."
+
+Regarding philosophy/metaphilosophy, is it fair to describe your concern as one of:
+
+1. The approach I am pursuing can't realistically meet even my lower bar,
+2. Meeting my lower bar won't suffice for converging to correct philosophical views,
+3. Our lack of philosophical understanding will cause problems soon in subjective time (we seem to have some disagreement here, but I don't feel like adopting your view would change my outlook substantially), or
+4. AI systems will be much better at helping humans solve technical than philosophical problems, driving a potentially long-lasting (in subjective time) wedge between our technical and philosophical capability, even if ultimately we would end up at the right place?
+
+My hope is that thinking and talking more about bootstrapping procedures would go a long way to resolving the disagreements between us (either leaving you more optimistic or me more pessimistic). I think this is most plausible if #1 is the main disagreement. If our disagreement is somewhere else, it may be worth also spending some time focusing somewhere else. Or it may be necessary to better define my lower bar in order to tell where the disagreement is.

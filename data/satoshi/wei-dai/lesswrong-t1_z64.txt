@@ -1,0 +1,5 @@
+I think maybe status is the wrong approach. Status sounds neutral enough and easily changed. But if we swap it out for the word 'power', then it works better, and now we can handle arguments *about* status, why people won't change their linguistic ways, etc.
+
+I have an old essay on this at http://www.gwern.net/On%20Disrespect
+
+I didn't think it appropriate for LW because it seemed a bit too fluffy and based on personal experience, but maybe this post shows I was wrong in that.

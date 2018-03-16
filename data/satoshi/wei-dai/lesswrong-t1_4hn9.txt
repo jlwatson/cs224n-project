@@ -1,0 +1,3 @@
+&gt;To take another example, does your prior take into account the gender of the suspect? (Females commit far fewer murders than males.) Or is that also screened off by some other evidence?
+
+A reference class that gives an upper bound for my prior would be "intelligent 20-year-old female college student with no criminal history commits murder". 

@@ -1,0 +1,5 @@
+Being logically second only keeps being a disadvantage because examples keep being chosen to be of the kind that make it so.
+
+One category of counterexample comes from warfare, where if you know what the enemy will do and he doesn't know what you will do, you have the upper hand. (The logical versus temporal distinction is clear here: being temporally the first to reach an objective can be a big advantage.)
+
+Another counterexample is in negotiation where a buyer and seller are both uncertain about fair market price; each may prefer the other to be first to suggest a price. (In practice this is often resolved by the party with more knowledge, or more at stake, or both - usually the seller - being first to suggest a price.)

@@ -1,0 +1,7 @@
+You're right, I was being unclear. Sorry.
+
+When I originally said that moral judgments couldn't be right or wrong, I was defining "ought" in the common sense meaning of the word, which I believe to roughly correspond to [emotivism](http://lesswrong.com/lw/bk/the_trouble_with_good/).
+
+When I said that we shouldn't use the word correctness to refer to stability, and that we might have various criteria for correctness, I meant "ought" or "correct" in the sense of some hypothetical goal system we may wish to give an AI.
+
+There's some sort of a complex overlap/interaction between those two meanings in my mind, which contributed to my initial unclear usage and which prompted the mention in my original comment. Right now I'm unable to untangle my intuitions about that connection, as I hadn't realized the existence of the issue before reading your comment.

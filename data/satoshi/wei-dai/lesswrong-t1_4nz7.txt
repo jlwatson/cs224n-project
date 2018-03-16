@@ -1,0 +1,9 @@
+I was having trouble understanding the first example of EEV, until I read this part of Will Crouch's original comment:
+
+&gt;We tend to assume, in the absence of other
+information, that charities are average at implementing their
+intervention, whereas you seem to assume that charities are bad at
+implementing their intervention, until you have been shown concrete
+evidence that they are not bad at implementing their intervention.
+
+I agree this is wrong. They failed to consider that charities that are above average will tend to make information available showing that they are above average, so absence of information in this case is Bayesian evidence that a charity is below average. Relevant LW post: http://lesswrong.com/lw/ih/absence_of_evidence_is_evidence_of_absence/

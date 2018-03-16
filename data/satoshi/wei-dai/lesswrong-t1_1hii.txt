@@ -1,0 +1,12 @@
+Suppose we want to program an AI to represent the interest of a group. The standard utilitarian solution is to give the AI a utility function that is an average of the utility functions of the individual in the group, but that runs into the interpersonal comparison of utility problem.  (Was there ever a post about this? Does Eliezer have a preferred approach?)
+
+Here's my idea for how to solve this. Create N AIs, one for each individual in the group, and program it with the utility function of that individual. Then set a time in the future when one of those AIs will be randomly selected and allowed to take over the universe. In the mean time the N AIs are to negotiate amongst themselves, and if necessary, [given help](http://lesswrong.com/lw/14d/an_alternative_approach_to_ai_cooperation/) to enforce their agreements.
+
+The advantages of this approach are:
+
+* AIs will need to know how to negotiate with each other anyway, so we can build on top of that "for free".
+* There seems little question that the scheme is fair, since everyone is given an equal amount of bargaining power.
+
+Comments?
+
+**ETA:** I found a [very similar idea](http://www.overcomingbias.com/2009/01/moral-uncertainty-towards-a-solution.html#comment-389330) mentioned before by Eliezer.

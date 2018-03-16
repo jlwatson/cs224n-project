@@ -1,0 +1,3 @@
+I'm in essential agreement with Wei here.  Nonparametric extrapolation sounds like a contradiction to me (though I'm open to counterexamples).
+
+The "nonparametric" part of the FAI process is where you capture a *detailed* picture of human psychology as a *starting point* for extrapolation, instead of trying to give the AI Four Great Moral Principles.  Applying extrapolative processes like "reflect to obtain self-judgments" or "update for the AI's superior knowledge" to this picture is not particularly nonparametric - in a sense it's not an estimator at all, it's a constructor.  But yes, the "extrapolation" part is definitely not a nonparametric extrapolation, I'm not really sure what that would mean.

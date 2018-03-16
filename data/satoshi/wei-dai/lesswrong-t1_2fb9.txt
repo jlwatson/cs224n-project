@@ -1,0 +1,3 @@
+Sorry, my previous reply was based on a misparsing of your comment, so I deleted it.
+
+So the "mathematical intuition module" can be 100% truthful and evil at the same time, because making *true* statements isn't the same as making *provable* statements. Funny. It seems the truth vs provability distinction is actually the heart of decision theory.

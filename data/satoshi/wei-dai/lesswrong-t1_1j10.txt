@@ -1,0 +1,6 @@
+I originally didn't bother to do so explicitly, only wrote [this reply](http://lesswrong.com/lw/1mh/that_magical_click/1inz) that seems to have not been understood, but in light of Eliezer's [post about flow of the argument](http://lesswrong.com/lw/1p1/logical_rudeness/), I'll recast the structure I see in the last few comments:
+
+[Wei](http://lesswrong.com/lw/1mh/that_magical_click/1ic7): Bridge-building is a game, because FAI could just flick a switch. (Y leads to X having property S; Y="could flick a switch", X="FAI's world", S="is a game")  
+[Vlad](http://lesswrong.com/lw/1mh/that_magical_click/1inj): No it couldn't, its preference (for us having to make an effort) makes it impossible for that to happen. (Y doesn't hold for X)  
+[Wei](http://lesswrong.com/lw/1mh/that_magical_click/1inv): But there are games where players don't get free charity as well. (Z have property S without needing Y)  
+[Vlad](http://lesswrong.com/lw/1mh/that_magical_click/1inz): I'm merely saying that Y doesn't hold, so if Y held any weight in the argument that "Y leads to X having property S", then having established not-Y, I've weakened the support for X having property S, and at least refuted the particular argument for X having property S, even if I haven't convincingly argued that X doesn't have property S overall.

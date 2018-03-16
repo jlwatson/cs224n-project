@@ -1,0 +1,7 @@
+&gt;The intuitive answer is &lt;$0.99, but section 3.3.3 says the answer should be &lt;$0.50
+
+? I don't see this at all.
+
+By section 3.3.3, I assume you mean the isomorphism between selfish and average-utilitarian? From an average utilitarian perspective (which is the same as a total utilitarian for fixed populations), buying that ticket for x after hearing "heads" will lose one person x in the tails world, and gain 99 people 1-x in the heads world. So the expected utility is (1/2)(1/100)(-x+99(1-x)), which is positive for x&lt; 99/100.
+
+ADT is supposed to reduce to a simplified version of UDT in non-anthropic situations; I didn't emphasise this aspect, as I know you don't want UDT published.

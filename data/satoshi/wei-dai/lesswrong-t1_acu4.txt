@@ -1,0 +1,7 @@
+&gt;Instead, I take the position that you can never conclude anything from your own existence except that you exist. That is, I eliminate all hypotheses that don’t predict my existence, and leave it at that, in accordance with SHA. 
+
+This is an idea that I had considered and rejected before settling on UDT.
+
+&gt;And the presumptuous philosopher is an idiot because both theories are consistent with us existing, so again we get no relative update.
+
+This is wrong. Recall that both T1 and T2 are theories with finite universes and finite numbers of observers. Also, T1 and T2 are not complete hypothesis which can generate predictions, but actually classes of hypotheses, because in order to generate predictions you need initial conditions in addition to a theory. Now if you take a random hypothesis in the T1 class (i.e., the theory T1 along with some random initial conditions), it's much less likely to predict a universe that contains someone with your exact history of observations compared to a random hypothesis in the T2 class since each T2 universe contains many more observers than a T1 universe. In order words, "updating" on your observations by ruling out hypotheses that don't predict the existence of someone with your observations would cause you to rule out a much greater fraction of T1 hypotheses than T2 hypotheses, thereby causing you to update heavily in the direction of the T2 theory being correct.

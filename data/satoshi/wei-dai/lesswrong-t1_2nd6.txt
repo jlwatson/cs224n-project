@@ -1,0 +1,29 @@
+In my last post on Health Optimization, one commenter inadverntently brought up a topic which I find interesting, although it is highly contraversial - which is HIV/AIDS skepticism and rationality in science.
+
+The particular part of that which I am interested in is proper levels of uncertainty and rationality errors in medical science.
+
+I have some skepticism for the HIV/AIDS theory, perhaps on the level of say 20-30%.  More concretely, I would roughly say I am only about 70% confident that HIV is the *sole* cause of AIDS, or 70% confident that the mainstream theory of HIV/AIDS is *solid*.
+
+Most of that doubt comes from one particular flaw I in the current mainstream theory which I find *particularly* damning.
+
+It is claimed that HIV is a *sexually transmitted* disease.  However, the typical estimates of transmission rate are *extremely* low:
+0.05%    / 0.1% per insertive/receptive P/V sex act
+0.065% / 0.5% per insertive/receptive P/A sex act
+
+This data is from [wikipedia](http://en.wikipedia.org/wiki/Aids#Prevention) - it lists a single paper as a source, but from what I recall this matches the official statistics from the CDC and what not.
+
+For comparison, from the wikipedia entry on Gonorrhea, a conventional STD:
+
+&gt;Men have a 20% risk of getting the infection from a single act of vaginal intercourse with a woman infected with gonorrhea. Women have a 60–80% risk of getting the infection from a single act of vaginal intercourse with a man infected with gonorrhea.[7] 
+
+So it would appear that HIV is roughly 100-500 times less sexually transmittable than a conventional STD like gonorrhea.
+
+So in my mind this makes it technically *impossible* for HIV to be an STD.  These transmission rates are so *astronomically* low that for it to spread from one infected person to an uninfected partner would take years and years of *unprotected* sex.
+
+If you plug that it to a simulation, it just never can spread - even if *everyone* was having *unprotected* sex with a random stranger *every single day*, it would still require an unrealistic initial foothold in the population by other means before it could ever spread sexually.  
+
+And of course, if you plug in actual realistic data about frequency of unprotected sexual intercourse with strangers, it's just completely impossible.  Bogus.  It doesn't work.  It can not be an STD.
+
+As gonorrhea (and I presume other STDs) are *hundreds of times* more transmissable than HIV, their low rates in the population place bounds on HIV's sexual transmission.
+
+Finally, these rates of transmission are *so low* that one should question the uncertainty and issues with false positives - how accurate are these numbers really? 

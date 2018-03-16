@@ -1,0 +1,1 @@
+Scenario 2 seems to share some similarities with [Rolf Nelson's AI Deterrence Problem](http://aibeliefs.blogspot.com/2007/11/non-technical-introduction-to-ai.html). You might want to check it out if you haven't already.

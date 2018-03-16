@@ -1,0 +1,5 @@
+You don't sound like you're now much less confident you're right about this, and I'm a bit surprised by that! 
+
+I got the ladder down so I could get down my copy of Goldreich's "Foundations of Cryptography", but I don't quite feel like typing chunks out from it.  Briefly, a pseudorandom generator is an algorithm that turns a small secret into a larger number of pseudorandom bits. It's secure if every distinguisher's advantage shrinks faster than the reciprocal of any polynomial function.  Pseudorandom generators exist iff one-way functions exist, and if one-way functions exist then P != NP.
+
+If you're not familiar with PRGs, distinguishers, advantage, negligible functions etc I'd be happy to Skype you and give you a brief intro to these things.

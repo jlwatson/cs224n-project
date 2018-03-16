@@ -1,0 +1,3 @@
+Is there a best language in which to express complexity for use in the context of Occam's razor.
+
+If there is a best language in which to express complexity for use in the context of Occam's razor, what is that language?

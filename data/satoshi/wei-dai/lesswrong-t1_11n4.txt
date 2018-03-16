@@ -1,0 +1,7 @@
+&gt; 1.  TDT couldn't have arisen by evolution.
+
+It's too elegant to arise by evolution, and it also deals with *one-shot* PDs with no knock-on effects which is an extremely nonancestral condition - evolution by its nature deals with events that repeat many times; sexual evolution by its nature deals with organisms that interbreed; so "one-shot true PDs" is in general a condition unlikely to arise with sufficient frequency that evolution deals with it at all.
+
+&gt; Taking into account that TDT can't arise from evolution, and not seeing any reason for evolution to create a meta-DT that would pick TDT upon discovering it
+
+This may perhaps embody the main point of disagreement.  A self-modifying CDT which, at 7am, expects to encounter a future Newcomb's Problem or Parfit's Hitchhiker in which the Omega gets a glimpse at the source code *after* 7am, will modify to use TDT for all decisions in which Omega glimpses the source code after 7am.  A bit of "common sense" would tell you to just realize that "you should have been using TDT from the beginning regardless of when Omega glimpsed your source code and the whole CDT thing was a mistake" but this kind of common sense is not embodied in CDT.  Nonetheless, TDT is a unique reflectively consistent answer for a certain class of decision problems, and a wide variety of initial points is likely to converge to it.  The *exact* proportion, which determines under what conditions of payoff and loss stranger-AIs will cooperate with each other, is best left up to AIs to calculate, I think.

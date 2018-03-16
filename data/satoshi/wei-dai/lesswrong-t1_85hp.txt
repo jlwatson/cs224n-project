@@ -1,0 +1,9 @@
+&gt; Suppose we define a generalized version of Solomonoff Induction based on some second-order logic. The truth predicate for this logic can’t be defined within the logic and therefore a device that can decide the truth value of arbitrary statements in this logical has no finite description within this logic. If an alien claimed to have such a device, this generalized Solomonoff induction would assign the hypothesis that they're telling the truth zero probability, whereas we would assign it some small but positive probability.
+
+It seems to me that the paradox may lie within this problem setup, not within the agent doing the induction.
+
+We first consider that, rather than this device being assigned zero probability, it should actually be *inconceivable* to the agent - there should not be a finitely describable thingy that the agent assigns zero probability of having a finitely describable property.
+
+Why would an agent using a second-order analogue of Solomonoff induction have such conceptual problems?  Well, considering how Tarski's original undefinability theorems worked, perhaps what goes wrong is this: we want to believe that the device outputs the truth of statements about the universe.  But we also want to believe this device is *in* the universe.  So what happens if we ask the device, "Does the universe entail the sentence stating that &lt;reference to the object which is the device&gt; outputs 'No' in response to a question which looks like &lt;recipe which generates a copy of this question&gt;?"
+
+Thus, such a device is inconceivable in the first place since it has no consistent model, and we are actually correct to assign zero probability to the alien's assertion that the device produces correct questions to all questions about the universe including questions about the device itself.

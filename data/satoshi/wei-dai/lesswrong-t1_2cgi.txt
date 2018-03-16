@@ -1,0 +1,1 @@
+Cousin_it, do you have an argument that n1 ... n6 &lt; nmax? It seems like one way for the proof to fail is if no matter what nmax is, step 11 forces n1 &gt; nmax.

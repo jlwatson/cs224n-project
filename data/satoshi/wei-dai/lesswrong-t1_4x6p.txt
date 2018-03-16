@@ -1,0 +1,1 @@
+I don't have a very good answer yet, but combining Vivid's and Randaly's proposals with mine seems to yield a reasonably safe and fast scenario: sandbox the AI to get a formal problem solver, use that to quickly advance uploading tech, then upload some good humans and let them FOOM.

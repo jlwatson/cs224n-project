@@ -1,0 +1,19 @@
+&gt;MIRI is taking the top-down approach since that seems to be the best way to eventually obtain an AI for which you can derive theoretical guarantees.
+
+I for one remain skeptical such theoretical guarantees are possible in principle for the domain of general AI.  The utility of formal math towards a domain tends to vary inversely with domain complexity.  For example in some cases it may be practically possible to derive formal guarantees about the full output space of a program, but not when that program is as complex as a modern video game, or let alone a human.  The equivalent of theoretical guarantees may be possible/useful for something like a bridge, but less so for an airplane or a city.  
+
+For complex systems simulations are the key tool that enables predictions about future behavior.
+
+&gt; In the absence of such guarantees, we can't be confident that an AI will behave correctly when it's able to think of strategies or reach world states that are very far outside of its training and testing data sets.
+
+This indeed would be a problem if the AI's training ever stopped, but I find this extremely unlikely.  Some AI systems already learn continuously - whether using online learning directly or by just frequently patching the AI with the results of updated training data.  Future AI systems will continue this trend - and learn continuously like humans.
+
+Much depends on one's particular models for how the future of AI will pan out.  I contend that AI does not need to be perfect, just better than humans.  AI drivers don't need to make optimal driving decisions - they just need to drive better than humans.  Likewise AI software engineers just need to code better than human coders, and AI AI researchers just need to do their research better than humans.  And so on.
+
+&gt;The price for pursuing such guarantees may well be slower progress in making efficient and capable AIs, with impressive and/or profitable applications, which would explain why the mainstream research community isn't very interested in this approach.
+
+For the record, I do believe that MIRI is/should be funded at some level - it's sort of a moonshot, but one worth taking given the reasonable price.  Mainstream opinion on the safety issue is diverse, and their are increasingly complex PR and career issues to consider.  For example corporations are motivated to downplay long term existential risks, and in the future will be motivated to downplay similarity between AI and human cognition to avoid regulation.
+
+&gt;If you're thinking about writing a post about recent progress in IRL and related ideas, I'd be very interested to see it.
+
+Cool - I'm working up to it.

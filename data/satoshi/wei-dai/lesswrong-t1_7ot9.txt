@@ -1,0 +1,3 @@
+&gt;A CDT-agent needs a "finding copies of me in the world" module. It's unclear how to design this, even in principle.
+
+Has UDT now solved that problem?

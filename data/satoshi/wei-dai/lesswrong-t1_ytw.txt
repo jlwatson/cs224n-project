@@ -1,0 +1,3 @@
+Yes. But I don't see this as a very grave objection, because equilibria in non-zero-sum games are *typically* vulnerable to manipulation by self-handicapping. A great book on this topic is "Strategy of Conflict" by Thomas Schelling, can't recommend it enough.
+
+Of course, if I invented a system that was resistant to manipulation, there'd be much rejoicing. But this goal seems still far away if at all possible.

@@ -1,0 +1,1 @@
+Could you explain further? Why "ought" it assign it such a probability? As stated, this seems more convincing as an argument that it "ought not" to assign a probability &gt; 1/3^^^3, despite the short "description". 

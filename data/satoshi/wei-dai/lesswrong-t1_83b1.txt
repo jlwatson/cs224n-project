@@ -1,0 +1,17 @@
+&gt;A sentient brain constructed to atomic precision, and copied with atomic precision, could undergo a quantum evolution along with its "copy", such that, afterward, there would exist no fact of the matter as to which of the two brains was the "original".  
+
+On the other hand, an ordinary human brain could undergo 100 years worth of ordinary quantum evolution along with its "copy", and probably 99 out of 100 naive human observers would still agree which one is the "original" and which is the "copy". It seems there must be a fact of the matter in this case, or else how did they reach agreement? By magic?
+
+Given that physical continuity is an obvious fact of daily life, in our EEA and now, why can't "caring about physical continuity" be a part of our preferences/morality? In other words, if the above specially constructed sentient brain were to host a human mind, it doesn't seem implausible that it would consider both post-evolution versions of itself to be less valuable "copies" (due to loss of clear physical continuity) and would choose to avoid undergoing such quantum evolution if it could. This "physical continuity" may not have a simple definition in terms of fundamental physics, but then nobody said our values had to be simple...
+
+EDIT: I've expanded this criticism into a [discussion post](http://lesswrong.com/r/discussion/lw/g0w/beware_selective_nihilism/).
+
+&gt;&gt;"Consider another range of possible cases: the Physical Spectrum.  These cases involve all of the different possible degrees of physical continuity...
+&gt;&gt;
+&gt;&gt;"In a case close to the near end, scientists would replace 1% of the cells in my brain and body with exact duplicates.  In the case in the middle of the spectrum, they would replace 50%.  In a case near the far end, they would replace 99%, leaving only 1% of my original brain and body.  At the far end, the 'replacement' would involve the complete destruction of my brain and body, and the creation out of new organic matter of a Replica of me."
+&gt;&gt;
+&gt;&gt;(Reasons and Persons, p. 234.)
+&gt;
+&gt;Parfit uses this to argue against the intuition of physical continuity pumped by the first experiment: if your identity depends on physical continuity, where is the exact threshold at which you cease to be "you"?
+
+Isn't this just a variant of the Sorites paradox? (I can use it to argue that identity can't have anything to do with synapse connections: suppose I destroy your synapses one at a time, where is the exact threshold at which you cease to be "you"?) I'm surprised at Parfit's high reputation if he made arguments like this one.

@@ -1,0 +1,21 @@
+&gt; The default Singularity scenario is probably a bad one, and most scientific/technological progress just brings the Singularity closer without making a positive scenario more likely.
+
+How much of modern science brings one closer to a potential intelligence explosion type Singularity event? If such an event is something that is likely to occur it would need to not be dependent on a lot of different technologies.
+
+So what technologies could actively be a problem? 
+
+Well one obvious one is faster computers. The nightmare scenario is that we find some little clever trick we're missing to run smart AI and the first one we turn on thinks hundreds of times faster than us at the start.  
+
+The next possible really bad set of technologies are nanotech stuff. If the AI finds an easy way to get access to highly flexible nanotech based on methods we have then we're sort of screwed. (This one seems extremely unlikely to me. The vast majority of people in nanotech keep emphasizing how difficult any sort of constructor bot would be.) The next issue is possible advanced mathematical algorithms. The really bad case here is that an AI gets to look at the arXiv and quickly sees a set of papers which when put together give something like a general SAT solver that solves 3-SAT with n conditionals in Kn^2 steps for some really small constant K. This is bad.
+
+Similar remarks apply to an AI that finds a really fast quantum algorithm to effectively solve some NP hard problem. Seriously, one of the worst possible ideas you can have in the world is to run an AI on a functioning quantum computer or give it access to one. Please don't do this. I'm someone who considers fooming-AI to be unlikely, and believe that BQP is a proper subset of NP and this possibility makes me want to run out and scream at people like Roger Penrose who specifically want to see if we need a quantum computer for intelligence to work. Let's not test this.
+
+But outside these four possibilities the remaining issues are all more exotic and less likely. For example, I'm not worried that an AI will right out of the box figure out a way to make small wormholes and take advantage of closed-time like curves simply because if it has that sort of tech level then it has already won. 
+
+So the vast majority of scientific research seems to do very little for helping an AI go foom.
+
+But it does seem that continued scientific research does help us understand which sort of AI threats are more likely. For example if we end up proving some very strong version of P!=NP, then this will make the clever algorithms attack much less likely. If BQP is strictly less than NP in a strong sense, and room temperature strong nanotech turns out to be not doable then most of the nasty foom scenarios go away. Similarly improving computer security directly reduces the chance that an AI will manage to get access to internet things it shouldn't (although again, basic sanity says anything like a strong AI should not be turned on with internet access, so if it gets internet access it has possibly already won. This is reduces the chance of a problem in one specific scenario that isn't terribly likely but it does reduce it.) 
+
+Furthermore, scientific progress helps us deal with other existential risks as well as get more of a handle on which existential risks are a problem. Astronomy, astrophysics and astrobiology all help us get a better handle on whether the great filter lies behind us or in front of us and what the main causes are. It wouldn't for example surprise me if in 30 or 40 years we will have good enough telescopes that we can not only see Earth like planets we can see if they had massive nuclear wars (indicating that that might be a possible major filtration event) or that the planet's surface is somehow covered with something like diamond (indicating some point possibly in the very far past, a serious nanotech disaster occurred).  A better space program also helps deal with astronomical existential risks like asteroids. 
+
+So, overall it seems that most science is neutral to a Singularity situation. Of the remainder some might increase the chance of a near term Singularity and some might decrease it. A lot of science though helps deal with other existential risks and associated problems. 

@@ -1,0 +1,3 @@
+If one of the PD players has a third option of "get two bucks guaranteed and screw everyone else" - if the game structure doesn't allow other players to punish him - then no algorithm at all can punish him. Or did you mean something else?
+
+Yep, I know what the core is, and it does seem relevant. But seeing as my solution is definitely wrong for stability reasons, I'm currently trying to think of *any* stable solution (continuous under small changes in game payoffs), and failing so far. Will think about the core later.

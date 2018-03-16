@@ -1,0 +1,1 @@
+Interesting problem, thanks! I personally felt that there could be a good case made for insisting your utility be bounded, and that paper's an argument in that direction.

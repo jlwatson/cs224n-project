@@ -1,0 +1,9 @@
+&gt;What would be the only correct policy? What I wrote after "According to my reading of that paragraph"? 
+
+Yes.
+
+&gt;If so, I don't understand your "cases where the planning-optimal solution is not a sequential equilibrium". Please explain.
+
+I would have thought it would be self explanatory.
+
+It looks like I will need to construct and analyze examples slightly more complicated that the Absent Minded Driver.  That may take a while.  Questions before I start:  Does UDT encompass game theory, or is it limited to analyzing single-player situations?  Is UDT completely explained in your postings, or is it, like TDT, still in the process of being written up?

@@ -1,0 +1,9 @@
+&gt;I'm curious what you mean by "approachable technical details". Can you give some examples?
+
+For example, suppose you have an algorithm that does inference for some amount of time, and then is able to answer queries of the form "What is the probability of A," implicitly representing a (not very consistent) probability distribution.  You could use this algorithm in place of a theorem prover when controlling a constant program, to choose the action that maximizes the expected utility of the implicit conditional probability distribution. I was thinking that there would be some technical issues in formalizing this, but I guess the only issue is in the first example I gave. 
+
+That said, there are fundamental seeming questions about UDT which this change might affect. For example, what properties of the inference engine might allow you to prove cooperation between two UDT agents playing a prisoner's dilemma? As far as I know, no such conditions are known for explicit reasoners, and it seems like the difficulties there are fundamental. 
+
+&gt;What I've been thinking about lately is whether it makes sense to assign probabilities to mathematical statements at all.
+
+For each statement, consider the maximal odds at which you would bet on it? Seems like that rule associates a number to every mathematical statement. I don't know what you call those numbers, but it seems like you should be doing inference with them.

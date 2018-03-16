@@ -1,0 +1,7 @@
+Well, I'm pretty sure that the smart money is all on one side of the question *because* of certain heuristic evidence that becomes very clear when you've worked with these complexity classes for a long while.
+
+It's the same reason the smart money was on Fermat's Last Theorem being true (prior to the proof being found); not only would it have been very unusual in mathematics for this simple Diophantine equation to have its first nontrivial solution only when the numbers became absurdly large, but it is equivalent to a beautiful conjecture in elliptic curves which seemed to admit of no counterexamples.
+
+There's plenty of inductive evidence found and used in the actual doing of mathematics; it just doesn't make the textbooks (since you generally don't publish on a subject unless you've found a proof, at which point the inductive evidence is utterly redundant).  Yet it guides the intuition of all mathematicians when they decide what to try proving next.
+
+Compare [Einstein's Arrogance](http://www.overcomingbias.com/2007/09/einsteins-arrog.html).

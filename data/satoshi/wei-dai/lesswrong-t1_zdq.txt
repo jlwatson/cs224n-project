@@ -1,0 +1,7 @@
+&gt; It's not clear to me that the decision-algorithm-chooser problem is more compact than the decision-algorithm problem.
+
+Perhaps they're not *different* problems.  If we solve the decision problem and then the algorithm just replicates itself when we tell it to decide between decision algorithms, this suggests that the philosophy "behind" was actually not behind at all.  But one way or the other, you don't want to be stuck with the problem of trying to choose according to a *higher* criterion using only human wisdom.  A quining algorithm could plausibly represent having hit bottom.  But if there are leftover dilemmas then you haven't hit bottom.  Then you want to step *back* and try to compact further.
+
+&gt; ETA: Do you have the intuition that philosophy can be formalized, and in a compact way?
+
+I have an intuition that the *functional* parts can be formalized in a compact way, and that the rest is our own confusion.

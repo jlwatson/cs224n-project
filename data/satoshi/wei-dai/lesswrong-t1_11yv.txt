@@ -1,0 +1,21 @@
+&gt; And I think I can still show that if you run TDT, you will decide to self-modify into CDT before starting this game
+
+Well *that* should never happen.  Anything that would make a TDT want to self-modify into CDT should make it just want to play D, no need for self-modification.  It should give the same answer at different times, that's what makes it a timeless decision theory.  If you can break that without direct explicit dependence on the algorithm apart from its decisions, then I am in trouble!  But it seems to me that I can substitute "play D" for "self-modify" in all cases above.
+
+&gt; First, if Omega's AIs know that you run TDT at the beginning, then they can use that "play D if you self-modify" strategy to deter you from self-modifying.
+
+E.g., "play D if you play D to deter you from playing D" seems like the same idea, the self-modification doesn't add anything.
+
+&gt; So who wins this game? (If someone moves first logically, then he wins, but what if everyone moves simultaneously in the logical sense, which seems to be the case in this game?)
+
+Well... it partially seems to me that, in assuming certain decisions are made without logical consequences - because you move logically first, or because the TDT agents have fixed wrong priors, etc. - you are trying to reduce the game to a Prisoner's Dilemma in which you have a certain chance of playing against a piece of cardboard with "D" written on it.  Even a uniform population of TDTs may go on playing C in this case, of course, if the probability of facing cardboard is low enough.  But by the same token, the fact that the cardboard sometimes "wins" does not make it smarter or more rational than the TDT agents.
+
+Now, I want to be very careful about how I use this argument, because indeed a piece of cardboard with "only take box B" written on it, is smarter than CDT agents on Newcomb's Problem.  But who writes that piece of cardboard, rather than a different one?
+
+An authorless piece of cardboard genuinely *does* go logically first, but at the expense of being a piece of cardboard, which makes it unable to adapt to more complex situations.  A true CDT agent goes logically first, but at the expense of losing on Newcomb's Problem.  And *your* choice to put forth a piece of cardboard marked "D" relies on *you* expecting the TDT agents to make a certain response, which makes the claim that it's *really* just a piece of cardboard and therefore gets to go logically first, somewhat questionable.
+
+Roughly, what I'm trying to reply is that you're reasoning about the response of the TDT agents to your choosing the CDT algorithm, which makes *you* TDT, but you're also trying to *force* your choice of the CDT algorithm to go logically first, but this is begging the question.
+
+I would, perhaps, go so far as to agree that in an extension of TDT to cases in which certain agents *magically get to go logically first*, then if those agents are part of a small group uncorrelated with yet observationally indistinguishable from a large group, the small group might make a correlated decision to defect "no matter what" the large group does, knowing that the large group will decide to cooperate anyway given the payoff matrix.  But the key assumption here is the ability to go logically first.
+
+It seems to me that the incompleteness of my present theory when it comes to logical ordering is the real key issue here.

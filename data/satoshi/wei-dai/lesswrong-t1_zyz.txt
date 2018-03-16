@@ -1,0 +1,5 @@
+I made my opening claim (equivalence of reincarnation on independent vs. shared substrates) so I didn't have to fuss about notation.  Do you disagree?
+
+As for making each individual's transfer risk-free, that was my point - the new version of oneself must be substantially identical to the old one.  The only new payload should be the (uncheatable) protocol for committing to new agreements.  You've verified that your counterpart implements the same protocol, and you can make binding agreements.
+
+Of course, we assume A and B don't mind reincarnation ,and feel no angst at brief coexistence of multiple copies of themselves, or the destruction of one.

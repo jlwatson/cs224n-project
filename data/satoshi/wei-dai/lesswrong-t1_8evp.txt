@@ -1,0 +1,7 @@
+&gt;You're immortal. Tell Omega any natural number, and he will give you that much utility.
+
+You could generate a random number using a distribution that has infinite expected value, then tell Omega that number. Your expected utility of following this procedure is infinite. 
+
+But if there is a non-zero chance of an Omega existing that can grant you an arbitrary amount of utility, then there must also a non-zero chance of some Omega deciding on its own at some future time to grant you a random amount of utility using the above distribution, so you've already got infinite expected utility, no matter what you do.
+
+It doesn't seem to me the third problem ("You're immortal. Tell Omega any real number r &gt; 0, and he'll give you 1-r utility.") corresponds to any real world problems, so generalizing from the first two, the problem is just the well known problem of unbounded utility function leading to infinite or divergent expected utility. I don't understand why a lot of people seem to think very highly of this post. (What's the relevance of using ideas related to Busy Beaver to generate large numbers, if with a simple randomized strategy, or even by doing nothing, you can get infinite expected utility?)

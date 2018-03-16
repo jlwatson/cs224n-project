@@ -1,0 +1,3 @@
+Humans are (can be represented by) turing machines.  All halting turing machines are incorporated in AIXI.  Therefore, anything that humans can do to more effectively predict something than a "mere machine" is already incorporated into AIXI.
+
+More generally, anything you represent symbolically can be represented using binary strings.  That's how that string you wrote got to me in the first place.  You converted the turing operations in your head into a string of symbols, a computer turned that into a string of digits, my computer turned it back into symbols and my brain used computable algorithms to make sense of them.  What makes you think that any of this is impossible for AIXI?

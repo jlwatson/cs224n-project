@@ -1,0 +1,17 @@
+Manuel, "enroll in a grad program for AI" != "you're smart, you should go to college".
+
+Kragen, the short answer is, "It's easy to talk about the importance of effort if you happen to be Hamming."  If you can make the ante for the high-stakes table, then you can talk about how little the ante counts for, and the importance of playing your cards well.  But if you can't make the ante...
+
+Robin, it's not blind faith in math or math for the sake of impressiveness, but a specific sense that the specific next problems I have to solve, will require more math than I've used up to this point.  Not Andrew J. Wiles math, but Jaynes doesn't use Wiles-math either.  I quite share your prejudice against math for the sake of looking impressive, because that gets you the wrong math.  (Formality isn't about Precision?)
+
+Ken, it's exclusively my work that gives me the motivation to keep working on something for years, but things like pride can give me the motivation to keep working on something for the next minute.  I'll take whatever sources of motivation I can get (er, that aren't outright evil, of course).
+
+Douglas, yes, my father changed at 40.  But one of my primary sources of hope is that people have been known to do basic research later than this if they changed fields late in life, which suggests that it actually can be a matter of approach/outlook/methodology and avoiding serving on prestigious committees.
+
+Retired, I don't understand the apparent contradiction you see.  I participated in the Midwest Talent Search at a young age (not "Northwestern" anything, maybe you're confusing with Northwestern University?) and scored second-best for my grade category, but at that point I'd skipped a grade.  But I think I can recall hearing about someone who got higher SAT scores than mine, at age nine.  That would be decisive, if the SAT were a perfect noiseless measurement of ability to work on AI.
+
+&lt;blockquote&gt;Vassar: You see, for many many people it is possible to choose a weighting scheme among a dozen or so factors contribute to intellectual work such that they are the best.&lt;/blockquote&gt;
+
+Yes, this is the well-known phenomenon where asking someone "How dumb are you?" produces a different answer than "How smart are you?" because they recall a different kind of evidence.  But the question I'm trying to answer is "How much potential do you have to solve the remaining FAI problems you know about?"  As I said to Robin, I do think this is going to involve taking a step up in math level.
+
+To all commenters who observed that I don't seem to stand out from 10 other smart people they know, either you didn't comprehend the entirety of today's post, or you have very high confidence that you occupy the highest possible rank of human ability.

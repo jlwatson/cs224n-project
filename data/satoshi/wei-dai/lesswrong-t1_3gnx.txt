@@ -1,0 +1,3 @@
+&gt; I believe that in Eliezer's meta-ethics, both the extrapolation procedure and the coherence property are to be given fixed logical definitions as part of the meta-ethics, and are not just "heuristics" to be freely chosen by the subject being extrapolated.
+
+Why "part of meta-ethics"? That would make sense as part of FAI design. Surely the details are not to be chosen "freely", but still there's only one criterion for anything, and that's full morality. For any fixed logical definition, any element of any design, there's a question of what could improve it, make the consequences better.

@@ -1,0 +1,15 @@
+Let **A** represent the event when the lottery under consideration is profitable (positive expected value from playing); let **X** represent the event in which your calculation of the lottery's value is correct. What is desired is P(A). Trivially:
+
+    P(A) = P(X) * P(A|X) + P(~X) * P(A|~X)
+
+From your calculations, you know P(A|X) - this is the arbitrarily-strong confidence komponisto described. What you need to estimate is P(X) and P(A|~X).
+
+P(X) I cannot help you with. From my own experience, depending on whether I checked my work, I'd put it in the range {0.9,0.999}, but that's your business.
+
+P(A|~X) I would put in the range {1e-10, 1e-4}.
+
+In order to conclude that you should always play the lottery, you would have to put P(A|~X) close to unity.
+
+Q.E.D.
+
+Edit: The error I see is supposing that a wrong calculation gives *positive information* about the correct answer. That's practically false - if your calculation is wrong, the prior should be approximately correct.

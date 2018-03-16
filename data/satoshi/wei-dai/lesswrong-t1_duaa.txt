@@ -1,0 +1,5 @@
+I guess I didn't think about it carefully before. I assumed that s-risks were much less likely than x-risks (true) so it's okay not to worry about them (false). The mistake was that logical leap.
+
+In terms of utility, the landscape of possible human-built superintelligences might look like a big flat plain (paperclippers and other things that kill everyone without fuss), with a tall sharp peak (FAI) surrounded by a pit that's astronomically deeper (many almost-FAIs and other designs that sound natural to humans). The pit needs to be compared to the peak, not the plain. If the pit is more likely, I'd rather have the plain.
+
+Was it obvious to you all along?

@@ -1,0 +1,13 @@
+&gt; But such an agent can represent its goals/preferences in compressed form, instead of using an approximate ontology. 
+
+Yes, if it has compressible preferences, which in reality is the case for e.g. humans and many plausible AIs. 
+
+In reality problems of the form where you discover that your preferences are stated in terms of an incorrect ontology, e.g. souls, anticipated future experience, are where this really bites. 
+
+&gt; it may just be a one-time problem, where we or an AI have to translate our fuzzy human preferences into some well-defined form, instead of a problem that all agents must face over and over again.
+
+I think that depends upon the structure of reality. Maybe there will be a series of philosophical shocks as severe as the physicality of mental states, Big Worlds, quantum MWI, etc. Suspicion should definitely be directed at what horrors will be unleashed upon a human or AI that discovers a correct theory of quantum gravity. 
+
+Just as Big World cosmology can erode aggregative consequentialism, maybe the ultimate nature of quantum gravity will entirely erode any rational decision-making; perhaps some kind of ultimate ensemble theory already has.
+
+On the other hand, the idea of a one-time shock is also plausible. 

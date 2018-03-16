@@ -1,0 +1,33 @@
+&gt;There are too many things that could go wrong with such theoretical reasoning
+
+I agree that you need to rely extensively on empirical evidence to gain confidence in your system (though I think this is probably true for other plausible approaches as well).
+
+I don't fully understand the argument against using such empirical evidence, or rather I don't see how to make the argument go through without the prospect of a treacherous turn, which we haven't addressed at all.
+
+I agree that there are kinds of problems which do not arise when testing with weak systems, and these problems cannot be detected empirically until you are working with stronger systems. The main question is whether you can debug these problems while working with stronger systems.
+
+For concreteness, imagine a bug in your system for rendering answers; a malicious answer can compromise the computer and assign the answerer a high reward. Let's be pessimistic, and assume that the easiest way to compromise the computer is to create a devourer that will be released into the world, that is as smart as the answerer itself, and whose preferences are maximally destructive.
+
+(This is going to repeat ideas from the great-uncle...)
+
+It seems like this possibility is not catastrophic.
+
+--before
+
+1. The attack can probably be noticed by the only slightly weaker agents which helped you design the current system. The only problem is if the attack cannot be noticed by any agent who isn't clever enough to realize that such an attack is possible.
+
+2. You can sanitize the agent's answers using a similarly intelligent agent with more restricted outputs, e.g. one who just says "possible exploit" or "not a possible exploit."
+
+3. The execution environment itself can make extensive use of similarly smart agents, and is therefore less likely to be vulnerable to an attack even if inexpertly designed.
+
+---after
+
+4. After the attack, the devourer is not much smarter than the other AI's in the world (for whom, by hypothesis, the control system has been working OK so far). So it doesn't seem like it should do much damage before being contained.
+
+The basic issue is that agent Z is preceded by nearly-as-smart agent Y, and so the prospects for danger are not that great if agent Z (and only agent Z) fails. The argument for catastrophic risks seems to come from the big disparity in power between the AI being controlled and the human overseer.
+
+The concern seems to rest on the prospect of a treacherous turn: if agent Z is clever enough, then agent Y will also defect rather than helping you contain agent Z, even if in earlier tests agent Y seemed to be benign.
+
+But I don't see why this would happen for the RL system, and it seems like that's the crux of the argument. I agree that it would happen for the question-answering system (I was the first to admit that the question-answering system was hard to test).
+
+You may have other kinds of difficulties in mind, but all of the ones that I can think of seem to rest on a treacherous turn or something similar. Is there some other reason to expect failure to be catastrophic?

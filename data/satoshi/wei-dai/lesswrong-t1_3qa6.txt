@@ -1,0 +1,3 @@
+This isn't a Friendly Artificial General Intelligence 1) because it is not friendly; it does not act to maximize an expected utility based on human values, 2)  because it's not artificial; you've uploaded an approximate human brain and asked/forced it to evaluate stimuli, and 3) because, operationally, it does not possess any general intelligence; the Generator is not able to perform any tasks but write insightful strings.
+
+Are you instead proposing an incremental review process of asking the AI to tell us its ideas?

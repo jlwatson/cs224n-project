@@ -1,0 +1,7 @@
+(I agree with your comment.)
+
+&gt; Reduction doesn't typically involve capturing the meaning of the reduced terms - Is the (meta)ethical case special? If so, why and how?
+
+A formal logical definition often won't capture the full meaning of a mathematical structure (there may be non-standard models of the logical theory, and true statements it won't infer), yet it has the special power of allowing you to correctly infer lots of facts about that structure without knowing anything else about the intended meaning. If we are given just a little bit less, then the power to infer stuff gets reduced dramatically.
+
+It's important to get a definition of morality in a similar sense and for similar reasons: it won't capture the whole thing, yet it must be good enough to generate right actions even in currently unimaginable contexts.

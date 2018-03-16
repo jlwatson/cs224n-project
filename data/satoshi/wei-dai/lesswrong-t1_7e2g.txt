@@ -1,0 +1,18 @@
+While trying to understand Masquerade better, I came up with the following design, which seems to accomplish something similar, while being much simpler:
+
+    def OpportunisticBot(X):
+    -    if "X(OpportunisticBot)=C" is provable in PA-1:
+    --        return D
+    -    if "X(OpportunisticBot)=C" is provable in PA-2:
+    --        return C
+    -    return D
+
+where PA-1 is PA with a limit on proof length, and PA-2 is PA with a sufficiently larger limit such that it can prove all true statements of the form "X is not provable in PA-1" by exhaustive search. I claim the following:
+
+1. OB(DB)=OB(CB)=D
+2. OB(FB)=FB(OB)=C
+3. OB1(OB2)=OB2(OB1)=C
+
+Proof of 3: If either "OB1(OB2)=C" or "OB2(OB1)=C" is provable in PA-1, then PA-2 must be unsound, therefore they are not provable in PA-1. PA-2 can prove that they are not provable in PA-1 by exhaustive search which implies PA-2 can prove that both OB1(OB2) and OB2(OB1) will reach the second if statement, which sets up a Loebian circle.
+
+Can you think of a problem that the Masquerade approach solves but OB doesn't?

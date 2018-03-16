@@ -1,0 +1,5 @@
+Bully is perhaps a strong word for 'apply some degree of social pressure'.
+
+If I were to try to find examples I would probably begin with a search for the word 'should'. That term will give false positives and false negatives but it is a good start. Conversations regarding cryogenics advocacy would also produce a few hits. Some of the PUA discussions too, come to think of it but I wasn't trying to go there.
+
+Moralizing and 'shoulding' at others is just something humans do. Sometimes the Clippy persona can avoid that. It avoids the failure mode of expecting other people's utility function to be subject to debate.

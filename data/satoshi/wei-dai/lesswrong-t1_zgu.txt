@@ -1,0 +1,5 @@
+Sorry for being dim, but I'm struggling to see what many of your examples have to do with second-best theory (as opposed to just being kind of bad things). Could you maybe expand a bit on what you mean?
+
+E.g. how do the "yawning gap between individual rationality and group rationality" or Arrow's impossibility theorem reflect the idea that if you constrain one variable in your optimization problem, other variables need not take their first-best values? (Or are you just using second-best to mean "you can't always get what you want"? If so, I guess that's fine, but I think you're missing the distinguishing feature of the theory!)
+
+FWIW, to me, the most obvious potential applications of second-best theory to rationality are that, given that we have limited processing capacity, and are subject to self-serving biases, getting more information and learning about biases need not improve our decision-making. More info can overwhelm our processing capacity, and learning about individual biases can, if we're not careful, lead us to discount others' opinions as biased, while ignoring our own failings.

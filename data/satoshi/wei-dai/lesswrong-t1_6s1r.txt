@@ -1,0 +1,5 @@
+I'm going to open my clueless mouth again: Many of the problems associated with FAI haven't been defined to that well yet. Maybe solving them will require new math, but it seems possible that existing math already provides the necessary tools. Perhaps it would be a good idea to have a generalist who has limited familiarity with a large variety of mathematical tools and can direct the team towards existing tools that might solve their problem. See the section called "The Right Way To Learn Math" in this post for more:
+
+http://steve-yegge.blogspot.com/2006/03/math-for-programmers.html
+
+And a metalevel comment: Presumably folks at SI are discussing these issues independently of the discussion on Less Wrong; they don't seem to be posting here much. I'm curious why this is considered optimal. It seems to me that posting your arguments on Internet is a good way to get falsifying evidence for them. If the box does not contain a diamond, I wish to believe the box does not contain a diamond and whatnot.

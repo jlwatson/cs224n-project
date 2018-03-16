@@ -1,0 +1,11 @@
+&gt;Regarding your first point, I'm pretty sure Eliezer does not expect to solve FAI by himself. Part of the reason for creating LW was to train/recruit potential FAI researchers, and there are also plenty of Ph.D. students among SIAI visiting fellows.
+
+Right, but the historical precedent for an amateur scientist even being *at all involved* in a substantial scientific breakthrough over the past 50 years is very weak.
+
+Also, my confidence in Eliezer's ability to train/recruit potential FAI researchers has been substantially diminished for the reasons that I give in [Existential Risk and Public Relations](http://lesswrong.com/lw/2l8/existential_risk_and_public_relations/). I *personally* would be interested in working with Eliezer if he appeared to me to be well grounded. The impressions that I've gotten from my private correspondence with Eliezer and from his comments have given me a very strong impression that I would find him too difficult to work with for me to be able to do productive FAI research with him.
+
+&gt;Regarding the second point, do you want nobody to start researching FAI until AGI is *within* reach?
+
+No. I think that it would be worthwhile for somebody to do FAI research in line with Vladimir Nesov's remarks [here](http://lesswrong.com/lw/2lr/the_importance_of_selfdoubt/2hc0?c=1) and [here](http://lesswrong.com/lw/2l0/should_i_believe_what_the_siai_claims/2fp2?c=1?context=3). 
+
+But I maintain that the probability of success is very small and that the only justification for doing it is the possibility of enormous returns. If people had established an institute for the solution of Fermat's Last Theorem in the 1800's, the chances of anybody there playing a decisive role in the solution of Fermat's Last Theorem would be very small. I view the situation with FAI as analogous.

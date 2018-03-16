@@ -1,0 +1,14 @@
+
+&gt; If there's anything we can do now about the risks of superintelligent AI, then OpenAI makes humanity less safe.
+
+I feel quite strongly that people in the AI risk community are overly affected by the availability or vividness bias relating to an AI doom scenario. In this scenario some groups get into an AI arms race, build a general AI without solving the alignment problem, the AGI "fooms" and then proceeds to tile the world with paper clips. This scenario could happen, but some others could also happen: 
+
+* An asteroid is incoming and going to destroy Earth. AI solves a complex optimization problem to allow us to divert the asteroid. 
+* Terrorists engineer a virus to kill all persons with genetic trait X. An AI agent helps develop a vaccine before billions die. 
+* By analyzing systemic risk in the markets, an AI agent detects and allows us to prevent the Mother of all Financial Meltdowns, that would have led to worldwide economic collapse.
+* An AI agent helps SpaceX figure out how to build a Mars colony for a two orders of magnitude less money than otherwise, thereby enabling the colony to be built.
+* An AI system trained on vast amounts of bioinformatics and bioimaging data discovers the scientific cause of aging and also how to prevent it. 
+* An AI climate analyzer figures out how to postpone climate change for millennia by diverting heat into the deep oceans, and gives us an inexpensive way to do so.
+* etc etc etc
+
+These scenarios are equally plausible, involve vast benefit to humanity, and require only *narrow* AI. Why should we believe that these positive scenarios are less likely than the negative scenario? 

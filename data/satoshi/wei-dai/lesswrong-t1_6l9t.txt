@@ -1,0 +1,3 @@
+I added this note to the post:
+
+&gt;Given the presence of thermal noise and the fact that a set of neuroimaging data may contain redundant or irrelevant information, 10^10 bits ought to be regarded as just a rough lower bound on how much data needs to be collected and stored. Thanks to commenters who pointed this out.

@@ -1,0 +1,9 @@
+I'd like to recast the problem this way: we know we're running on error-prone hardware, but standard probability theory assumes that we're running on errorless hardware, and seems to fail, at least in some situations, when running on error-prone hardware. What is the right probability theory and/or decision theory for running on error-prone hardware?
+
+ETA: Consider [ciphergoth's example](http://lesswrong.com/lw/1mw/advancing_certainty/1gqn):
+
+&gt;do you think you could make a million statements along the lines of "I will not win the lottery" and not be wrong once? If not, you can't justify not playing the lottery, can you?
+
+This kind of reasoning can be derived from standard probability theory and would work fine on someone running errorless hardware. But it doesn't work for us.
+
+We need to investigate this problem systematically, and not just make arguments about whether we're too confident or not confident enough, trying to push the public consensus back and forth. The right answer might be completely different, like perhaps we need different kinds or multiple levels of confidence, or upper and lower bounds on probability estimates.

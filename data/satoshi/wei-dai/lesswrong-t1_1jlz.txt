@@ -1,0 +1,7 @@
+This is exactly what I refer to as a "logical fact" or "which conclusions follow from which premises".  Wasn't that clear?
+
+Actually, I guess it could be a bit less clear if you're not already used to thinking of all math as being about theorems derived from axioms which are premise-conclusion links, i.e., if the axioms are true of a model then the theorem is true of that model.  Which is, I think, conventional in mathematics, but I suppose it could be less obvious.
+
+In the case of P!=NP, you'll still need some axioms to prove it, and the axioms will identify the *subject matter* - they will let you talk about computations and running time, just as the Peano axioms identify the subject matter of the integers.  It's not that you can make 2 + 2 = 5 by believing differently about the same subject matter, but that different axioms would cause you to be talking about a different subject matter than what we name the "integers".
+
+Is this starting to sound a little familiar?

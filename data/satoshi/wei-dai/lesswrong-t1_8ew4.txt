@@ -1,0 +1,1 @@
+How does that relate to the claim in http://en.wikipedia.org/wiki/Turing_machine#Concurrency that "there is a bound on the size of integer that can be computed by an always-halting nondeterministic Turing machine starting on a blank tape"?

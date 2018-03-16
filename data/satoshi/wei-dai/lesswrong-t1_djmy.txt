@@ -1,0 +1,5 @@
+It's hard to be attack resistant and make good use of ratings from lurkers.
+
+The issues you mention with ML are also issues with deciding who to trust based on how they vote, aren't they?
+
+It's hard to make a strong argument for "shouldn't be allowed as a user setting". There's an argument for documenting the API so people can write their own clients and do whatever they like. But you have to design the site around the defaults. Because of attention conservation, I think this should be the default, and that people should *know* that it's the default when they comment.

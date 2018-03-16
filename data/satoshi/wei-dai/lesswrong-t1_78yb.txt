@@ -1,0 +1,7 @@
+**Questions about Eliezer's Metaethics**
+
+According to Eliezer’s metaethics, morality incorporates the concept of reflective equilibrium. Given that presumably every part of my mind gets entangled with my output if I reflect long enough on some topic, isn’t Eliezer’s metaethics equivalent to saying that “right” refers to the output of X, where X is a detailed object-level specification of my entire mind as a computation? 
+
+In principle, X could decide to search for some sort of inscribed-in-stone morality out in the physical universe (and adopt whatever it finds or nihilism if it finds none), so Eliezer’s metaethics doesn’t even seem to rule out that kind of "objective" morality. To me, a satisfactory solution to metaethics might be an algorithm for computing morality that can be isolated from the rest of a human mind, along with some explanation of why this algorithm can be said to compute morality, and some conclusions about what properties the algorithm and its output might have. Is Eliezer’s theory essentially a negative one, that such a solution to metaethics isn’t possible?
+
+X is supposed to be a stand-alone description of a computation and not something like “whatever computation my brain does” . But I do not have introspective access to most of my mind nor hold a copy of it as a quine. How can I mean X when I say “morality” if I don’t know what X is and also can’t give a logical/mathematical definition that unpacks into X? Is there a theory of semantics that makes it clear that words can sensibly have meanings like this?

@@ -1,0 +1,13 @@
+See [this comment](http://lesswrong.com/lw/h9b/post_ridiculous_munchkin_ideas/8yxv) of mine. While it was posted as a "ridiculous munchkin idea", it's essentially what I did, and seems to have worked out well at least for me. So I suggest adding "self-supported independent researcher" as another alternative to your list.
+
+To answer one of your questions, I considered going into academia, but didn't for a number of reasons (some of which are just personal, but I'll mention for completeness).
+
+1. I don't like to teach, and many academic positions require teaching.
+2. I didn't want to have to follow academic writing conventions, instead of just communicating in whatever way I thought best.
+3. I once submitted a paper to an academic conference (after taking the trouble to follow academic writing conventions), and it was rejected with comments from reviewers indicating a complete lack of understanding. It seemed pointless to let my ideas be "peer reviewed" by random anonymous reviewers instead of writing directly to people who would most likely understand and be interested in it.
+4. If I went into academia my livelihood would depend on either having a steady stream of new and publishable ideas, or being able to fake that. I couldn't see how to ensure the former, and was unwilling to do the latter (not just for ethical reasons, but also because it seems like a more tedious "day job" than other options).
+5. Going into academia would mean less freedom to choose what topics to work on, at least until much later, and I was unwilling to wait (or again, consider academia as a "day job" while I work on my real interests).
+
+What I ended up doing was working for a couple of Internet startups in succession, and taking a year off in between to develop a software product which I handed off to a partner to sell and to continue developing. I was hoping that one of these would make enough money for me to "retire". Eventually my stock options in the startups proved worthless but the software product started earning enough money that I could quit my job.
+
+BTW, since you are advising high school students and undergrads, I suggest that you mention to them that they can start being independent researchers before they graduate from college. For example I came up with my b-money idea (a precursor to Bitcoin) as an undergrad, and was also already thinking about some of the [questions](http://lesswrong.com/lw/cs9/list_of_problems_that_motivated_udt/) that would eventually lead to UDT.

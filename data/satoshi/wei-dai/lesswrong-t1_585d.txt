@@ -1,0 +1,11 @@
+&gt;There are essentially no academics who believe that high-quality research is happening at the Singularity Institute. 
+
+David Chalmers has said that the decision theory work is a major advance (along with various other philosophers), although he is frustrated that it hasn't been communicated more actively to the academic decision theory and philosophy communities. A number of current and former academics, including David, Stephen Omohundro, James Miller (above), and Nick Bostrom have reported that work at SIAI has been very helpful for their own research and writing in related topics. 
+
+Evan Williams, now a [professor of philosophy at Purdue](http://www.cla.purdue.edu/philosophy/directory/?p=Evan_Williams) cites, in his dissertation, three inspirations leading to the work: John Stuart Mill's "On Liberty," John Rawls' "Theory of Justice," and Eliezer Yudkowsky's "Creating Friendly AI" (2001), discussed at greater length than the others. Nick Beckstead, a Rutgers (#2 philosophy program) philosophy PhD student who works on existential risks and population ethics reported large benefits to his academic work from discussions with SIAI staff.
+
+These folk are a minority, and SIAI is not well integrated with academia (no PhDs on staff, publishing, etc), but also not negligible.
+
+&gt;In his recent Summit presentation, Eliezer states that "most things you need to know to build Friendly AI are rigorous understanding of AGI rather than Friendly parts per se". This suggests that researchers in AI and machine learning should be able to appreciate high-quality work done by SIAI.
+
+I think that work in this area has been disproportionately done by Eliezer Yudkowsky, and to a lesser extent Marcello Herreshoff. Eliezer has been heavily occupied with Overcoming BIas, Less Wrong, and his book for the last several years, in part to recruit a more substantial team for this. He also is reluctant to release work that he thinks is relevant to building AGI. Problems in recruiting and the policies of secrecy seem like the big issues here.

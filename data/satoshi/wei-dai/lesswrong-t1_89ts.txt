@@ -1,0 +1,3 @@
+&gt;I think before you make this conclusion, you have to say something about how one is supposed to pick the weights.
+
+I think these weights are descriptive, not prescriptive. Eliciting values is very important- and there's some work in the decision analysis literature on that- but there isn't much to be done theoretically, since most of the work is "how do we work around the limitations of human psychology?" rather than "how do we get the math right?".

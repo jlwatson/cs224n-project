@@ -1,0 +1,4 @@
+&gt; I guess people aren't seriously trying this because it's probably not much harder to go directly to full superconducting computers (i.e., with logic gates made out of superconductors as well) which offers a lot more benefits
+
+It takes energy to maintain cryogenic temperatures, probably much more than the energy that would be saved by eliminating wire resistance. If I understand correctly, the interest in superconducting circuits is mostly in using them to implement quantum computation.  
+Barring room temperature superconductors, there are probably no benefits of using superconducting circuits for classical computation.

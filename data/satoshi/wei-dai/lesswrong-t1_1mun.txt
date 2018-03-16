@@ -1,0 +1,21 @@
+I think that this post doesn't list the strongest objection: CEV would take a long list of scientific miracles to pull off, miracles that whilst not strictly "impossible", are each profound computer science and philosophy questions. To wit: 
+
+ - An AI that can simulate the outcome of human conscious deliberation, without actually instantiating a human consciousness, i.e. a detailed technical understanding of the problem of conscious experience
+
+ - A way to construct an AI goal system that somehow extracts new concepts from a human upload's brain, and then modifies itself to have a new set of goals defined in terms of those concepts. 
+
+ - A solution to the ontology problem in ethics
+
+ - A solution to the friendliness structure problem, i.e. a self-improving AI that can reliably self-modify without error or axiological drift.
+
+ - A solution to the problem of preference aggregation, (EDITED, thanks ciphergoth)
+
+ - A *formal* implementation of Rawlesian Reflective Equilibrium for CEV to work
+
+ - An AI that can solve philosophy problems that are beyond the ability of the designers to even conceive
+
+ - A way to choose what subset of humanity gets included in CEV that doesn't include too many superstitious/demented/vengeful/religious nutjobs and land those who implement it in infinite perfect hell. 
+
+ - All of the above working first time, without testing the entire superintelligence. (though you can test small subcomponents)
+
+And, to make it worse, if major political powers are involved, you have to solve the political problem of getting them to agree on how to skew the CEV towards a geopolitical-power-weighted set of volitions to extrapolate, without causing a thermonuclear war as greedy political leaders fight over the future of the universe. 

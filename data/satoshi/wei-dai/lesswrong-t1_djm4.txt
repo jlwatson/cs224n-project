@@ -1,0 +1,9 @@
+A few days ago I had a crazy idea that counting numbers (first, second, etc) should start with zeroth instead of first. Not only would that help with teaching programming, but also many real world confusions and off-by-one errors would go away. Compare this:
+
+&gt; The first year of the third millennium begins at 2001/01/01 00:00:00
+
+to this:
+
+&gt; The zeroth year of the 2nd millennium begins at 2000/00/00 00:00:00
+
+Of course that would never happen, but as a thought experiment, I rest my case :-)

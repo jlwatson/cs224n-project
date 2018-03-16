@@ -1,0 +1,7 @@
+(Yes, utility function over simplistic, etc.)
+
+&gt; Are you perhaps saying that we expect other people's values and goals to be more subject to debate than they actually are? If so, this is a novel idea for me. Can you give or link to a longer explanation?
+
+I refer to the difference between on one hand telling people their values are bad and on the other hand speaking as if the values of the subject can actually be determined by the speaker. The latter ignores the boundary between where one agent ends and the other begins. This is something humans often do, albeit more so outside of lesswrong than within. In my observation it is inversely correlated with maturity.
+
+One of the things about Clippy is that nobody expects him to stop caring about paperclips just because someone else says so. In this Clippy is ironically shown *more* respect than a low status human may expect.

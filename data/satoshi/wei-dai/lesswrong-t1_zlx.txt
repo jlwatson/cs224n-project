@@ -1,0 +1,1 @@
+I'm surprised that nobody has mentioned the [Universal Prior](http://www.scholarpedia.org/article/Algorithmic_probability) yet. Eliezer also wrote a [post](http://lesswrong.com/lw/jp/occams_razor/) on it.

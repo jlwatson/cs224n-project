@@ -1,0 +1,12 @@
+Currently, lots of discussions just end without the last commenter or readers knowing why.
+
+So, feature idea: add a way for the author of the parent of a comment to set an "agreement status" with the following options by clicking a button:
+
+* I don't understand this yet. Still trying.
+* I don't understand this. I give up.
+* I agree.
+* I disagree, and will write up the reasons later.
+* I disagree, but don't want to bother writing out why.
+* I need to think about this more.
+* I already addressed this before.
+* [other options if needed]

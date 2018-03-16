@@ -1,0 +1,5 @@
+What if UFAI (of the dangerous kind) is incredibly difficult compared to harmless but usable AI such as a system that can find inputs to any computable function that give maximum output, analytically (not mere bruteforcing) and which for example understands ODEs?  
+
+We can cure every disease including mortality with it, we can use it to improve it, and can use it to design the machinery for mind uploading - all with comparatively little effort as it would take off much of cognitive workload - but it won't help us make the 'utility function' in the SI sense (paperclips, etc) as this is a problem of definition. 
+
+I feel that the unfriendly AI term is a clever rhetorical technique. The above-mentioned math AI is not friendly, but neither is it unfriendly. Several units could probably be combined to cobble together a natural language processing system as well. Nothing like 'hearing a statement then adopting a real world goal to the general gist of it', though.

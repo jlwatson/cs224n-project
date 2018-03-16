@@ -1,0 +1,9 @@
+Thinking that high-fidelity WBE, magically dropped in our laps, would be a big gain is quite different from thinking that pushing WBE development will make us safer. Many people who have considered these questions buy the first claim, but not the second, since the neuroscience needed for WBE can enable AGI first ("airplanes before ornithopters," etc).
+
+Eliezer has argued that:
+
+1) High-fidelity emulations of specific people give better odds of avoiding existential risk than a distribution over "other AI, Friendly or not."
+
+2) If you push forward the enabling neuroscience and neuroimaging for brain emulation you're more likely to get brain-inspired AI or low-fidelity emulations first, which are unlikely to be safe, and a lot worse than high-fidelity emulations or Friendly AI. 
+
+3) Pushing forward the enabling technologies of WBE, in accelerating timelines, leaves less time for safety efforts to grow and work before AI, or for better information-gathering on which path to push.

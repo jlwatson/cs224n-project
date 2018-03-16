@@ -1,0 +1,7 @@
+I note that most critics of [cousin_it's recent proof](http://lesswrong.com/lw/2ip/ai_cooperation_in_practice/) (to pick a recent example) were themselves wrong. I think we can expect the typical critic to be wrong, for these reasons:
+
+* People tend to be biased towards believing ideas that, if widely accepted, would elevate their own social status.
+* People are often not smart enough to see the inherent logic in the thing that they're criticizing. This may be a proof, or a social institution (such as the markets that Marxists criticize) that has has been designed or evolved to serve vital functions.
+* People overestimate their own abilities. When they fail to see an inherent logic in something, they often erroneously infer that such logic doesn't exist.
+
+So I would qualify your conclusion a bit: let's not encourage all criticism blindly, let's encourage only *correct* criticism.

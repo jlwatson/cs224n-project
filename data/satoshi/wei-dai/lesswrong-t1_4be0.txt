@@ -1,0 +1,9 @@
+&gt;&gt;Even then, low-probability interactions between eating an apple and the nature of the likely god seem likely to lead to bizarre decision processes about apple-eating, unless you have bounded utilities.
+
+&gt;What causes you to find it so unlikely that our desires could work this way?
+
+Pay attention next time you eat something.  Do you look at the food and eat what you like or what you think will improve your health, or do you try to prioritize eating the food against sending me money because I might be a god, and against giving all of the other unlikely gods what they might want?
+
+We are human and cannot really do that.  With unbounded utilities, there are an absurdly large number of possible ways that an ordinary action can have very low-probability influence on a wide variety of very high-utility things, and you have to take them all into account and balance them properly to do the right thing.  If an AI is doing that, I have no confidence at all that it will weigh these things the way I would like, especially given that it's not likely to search all of the space.   Someone who thinks about a million unlikely gods to decide whether to eat an apple is broken.  In practice, they won't be able to do that, and their decision about whether to eat the apple will be driven by whatever unlikely gods have been brought to their attention in the last minute.  (As I said before, an improbable minor change to a likely god is an unlikely god, for the purposes of this discussion.)
+
+If utilities are bounded, then the number of alternatives you have to look at doesn't grow so pathologically large, and you look at the apple to decide whether to eat the apple.  The unlikely gods don't enter into it because you don't imagine that they can make enough of a difference to outweigh their unlikeliness.

@@ -1,0 +1,9 @@
+I'd like to pose a sort of brain-teaser about Relativity and Mach's Principle, to see if I understand them correctly.  I'll post my answer in rot13.
+
+Here goes: Assume the universe has the same rules it currently does, but instead consists of just you and two planets, which emit visible light.  You are standing on one of them and looking at the other, and can see the surface features.  It stays at the same position in the sky.
+
+As time goes by, you gradually get a rotationally-shifted view of the features.  That is, the longitudinal centerline of the side you see gradually shifts.  This change in view could result from the other planet rotating, or from your planet revolving around it while facing it.  (Remember, both planets emit light, so you don't see a different portion being in a shadow like the moon's phases.)
+
+Question: What experiment could you do to determine whether the other planet is spinning, or your planet is revolving around it while facing it?
+
+My answer (rot13): Gurer vf ab jnl gb qb fb, orpnhfr gurer vf ab snpg bs gur znggre nf gb juvpu bar vf ernyyl unccravat, naq vg vf yvgreny abafrafr gb rira guvax gung gurer vf n qvssrerapr.  Gur bayl ernfba bar zvtug guvax gurer'f n qvssrerapr vf sebz orvat npphfgbzrq gb n havirefr jvgu zber guna whfg gurfr gjb cynargf, juvpu sbez n onpxtebhaq senzr ntnvafg juvpu bar bs gurz pbhyq or pbafvqrerq fcvaavat be eribyivat.

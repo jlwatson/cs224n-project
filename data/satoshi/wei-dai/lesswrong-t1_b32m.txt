@@ -1,0 +1,1 @@
+Has anybody written up a primer on "what if utility is lexically ordered, or otherwise not quite measurable in real numbers"? Especially in regard to dust specks?

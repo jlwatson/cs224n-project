@@ -1,0 +1,13 @@
+&gt; Do you think your idea is applicable to multi-player games, which is ultimately what we're after? (I don't see how to do it myself.) Take a look at this post, which I originally wrote for another mailing list:
+&gt;
+&gt;In http://lesswrong.com/lw/1s5/explicit_optimization_of_global_strategy_fixing_a/  I gave an example of a coordination game for two identical agents with the same (non-indexical) preferences and different inputs. The two agents had to choose different outputs in order to maximize their preferences, and I tried to explain why it seemed to me that they couldn't do this by a logical correlation type reasoning alone.
+
+I think that there may have been a communication failure here.  The comment that you're replying to is specifically about that exact game, the one in your post [Explicit Optimization of Global Strategy (Fixing a Bug in UDT1)](http://lesswrong.com/lw/1s5/explicit_optimization_of_global_strategy_fixing_a/).  The communication failure is my fault, because I had assumed that you had been following along with the conversation.
+
+Here is the relevant context:
+
+In [this comment](http://lesswrong.com/lw/2bt/udt_agents_as_deontologists/251g), I re-posed your game from the "explicit optimization" post in the notation of [my write-up](http://www.scribd.com/full/32853039?access_key=key-1guiwts7k1i9m8i139ip) of UDT.  In that comment, I gave an example of a mathematical intuition such that a UDT1 agent with that mathematical intuition would win the game.
+
+In reply, Vladimir [pointed out](http://lesswrong.com/lw/2bt/udt_agents_as_deontologists/251n) that the real problem is not to show that there exists a winning mathematical intuition.  Rather, the problem is to give a general formal decision procedure that picks out a winning mathematical intuition.  Cooking up a mathematical intuition that "proves" what I already believe to be the correct conclusion is "cheating".
+
+The purpose of [the comment](http://lesswrong.com/lw/2bt/udt_agents_as_deontologists/253v) that you're replying to was to answer Vladimir's criticism.  I show that, for this particular game (the one in your "explicit optimization" post), the winning mathematical intuitions are the only ones that meet certain reasonable criteria.  The point is that these "reasonable criteria" do *not* involve any assumption about what the agent should do in the game.

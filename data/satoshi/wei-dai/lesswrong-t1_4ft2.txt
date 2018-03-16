@@ -1,0 +1,27 @@
+Excellent. We should totally be clarifying such things.
+
+There are many things we might intend to communicate when we talk about the 'meaning' of a word or phrase or sentence. Let's consider some possible concepts of 'the meaning of a sentence', in the context of declarative sentences only:
+
+(1) The 'meaning of a sentence' is what the speaker intended to assert, that assertion being captured by truth conditions the speaker would endorse when asked for them.    
+
+(2) The 'meaning of a sentence' is what the sentence asserts if the assertion is captured by truth conditions that are fixed by the sentence's syntax and the first definition of each word that is provided by the Oxford English Dictionary.    
+
+(3) The 'meaning of a sentence' is what the speaker intended to assert, that assertion being captured by truth conditions determined by a full analysis of the cognitive algorithms that produced the sentence (which are not accessible to the speaker).    
+
+There are several other possibilities, even just for declarative sentences.
+
+I tried to make it clear that when doing austere metaethics, I was taking #1 to be the meaning of a declarative moral judgment (e.g. "Murder is wrong!"), at least when the speaker of such sentences intended them to be declarative (rather than intending them to be, say, merely emotive or in other ways 'non-cognitive').
+
+The advantage of this is that we can actually answer (to some degree, in many cases) the question of what a moral judgment 'means' (in the austere metaethics sense), and thus evaluate whether it is true or untrue. After some questioning of the speaker, we might determine that meaning~1 of "Murder is wrong" in a particular case is actually "Murder is forbidden by Yahweh", in which case we can evaluate the speaker's sentence as untrue given its truth conditions (given its meaning~1).
+
+But we may very well want to know instead what is 'right' or 'wrong' or 'good' or 'bad' when evaluating sentences that use those words using the third sense of 'the meaning of a sentence' listed above. Though my third sense of meaning above is left a bit vague for now, that's roughly what I'll be doing when I start talking about empathic metaethics.
+
+Will Sawin has been talking about the 'meaning' of 'ought' sentences in a fourth sense of the word 'meaning' that is related to but not identical to meaning~3 I gave above. I might interpret Will as saying that:
+
+&gt; The meaning~4 of 'ought' in a declarative ought-sentence is determined by the cognitive algorithms that process 'ought' reasoning in a distinctive cognitive module devoted to that task, which do not include normative primitives nor reference to physical phenomena but only relate normative concepts to each other.
+
+I am not going to do a thousand years of [conceptual analysis](http://lesswrong.com/lw/5kn/conceptual_analysis_and_moral_theory/) on the English word-tool 'meaning.' I'm not going to survey which definition of 'meaning' is consistent with the greatest number of our intuitions about its meaning given a certain set of hypothetical scenarios in which we might use the term. Instead, I'm going to [taboo](http://lesswrong.com/lw/nu/taboo_your_words/) 'meaning' so that I can use the word along with others to transfer ideas from my head into the heads of others, and take ideas from their heads into mine. If there's an objection to this, I'll be tempte to invent a new word-tool that I can use in the circumstances where I currently want to use the word-tool 'meaning' to transfer ideas between brains.
+
+In discussing austere metaethics, I'm considering the 'meaning' of declarative moral judgment sentences as meaning~1. In discussing empathic metaethics, I'm considering the 'meaning' of declarative moral judgment sentences as (something like) meaning~3. I'm also happy to have additional discussions about 'ought' when considering the meaning of 'ought' as meaning~4, though the empirical assumptions underlying meaning~4 might turn out to be false. We could discuss 'meaning' as meaning~2, too, but I'm personally not that interested to do so.
+
+Before I talk about reductionism, does this comment about meaning make sense?

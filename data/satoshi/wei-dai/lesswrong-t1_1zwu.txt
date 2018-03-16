@@ -1,0 +1,5 @@
+&gt; A worse problem is that there seems to be reason to think that our actual prior is not just uncomputable, but unformalizable. See my earlier posts on this.
+
+If you make ontological claims, you are bound to get in trouble. Decision theory should speak of what the agent's algorithm should do, in terms of its behavior, not what it means for the agent to do that in terms of consequences in the real world. What the agent's algorithm does is always formalizable (as that algorithm!).
+
+(For people unfamiliar with the discussion -- see "ontology problem" in [this sequence](http://causalityrelay.wordpress.com/sequences/friendly-ai-problem/).)

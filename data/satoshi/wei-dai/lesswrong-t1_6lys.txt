@@ -1,0 +1,5 @@
+This post highlights for me that we don't have a good understanding of what things like "more rational" and "more sane" mean, in terms of what dimensions human minds tend to vary along as a result of nature, ordinary nurture, and specialized nurture of the kind CFAR is trying to do. I think more understanding here would be highly valuable, and I mostly don't think we can get it from studies of the general population. (We can locally define "more sane" as referring to whatever properties are needed to get the right answer on this specific question, of course, but then it might not correspond to definitions of "more sane" that we're using in other contexts.)
+
+Not that this answers your question, but there's a potential tension between the goal of picking people with a deep understanding of FAI issues, and the goal of picking people who are unlikely to do things like become attached to the idea of being an FAI researcher.
+
+Your post suggests that an FAI feasibility team would be made of the same people who would then (depending on their findings) go ahead and form an actual FAI team, but does that need to be the case?

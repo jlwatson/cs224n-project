@@ -1,0 +1,5 @@
+Is the intention of this project to approximate the list of questions, which if answered, would let someone build an FAI? (That seems incompatible with SIAI's traditional more secretive approach. Surely the Manhattan Project would never have published a list of questions, which if answered, would let someone build a nuclear bomb.) 
+
+If yes, is this a strategic (i.e., considered) change of plans? If so, what were the arguments that changed people's minds?
+
+Or is the intention to just define some open problems that are FAI-related, but whose answers, if made public, pose no significant danger?

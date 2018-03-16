@@ -1,0 +1,7 @@
+Speaking for myself...
+
+I don't think I have anything special or insightful to say about this. Basically, I hope this all becomes clearer as the situation develops. Right now MIRI is still years away from successfully recruiting an "FAI team," let alone "building FAI."
+
+[John Maxwell](http://lesswrong.com/lw/cfc/how_can_we_ensure_that_a_friendly_ai_team_will_be/6lzk), [philh](http://lesswrong.com/lw/cfc/how_can_we_ensure_that_a_friendly_ai_team_will_be/6lxt), and [yourself](http://lesswrong.com/lw/cfc/how_can_we_ensure_that_a_friendly_ai_team_will_be/6mcs) all presented reasonable ideas, and I expect additional opportunities to present themselves as time goes on. Shulman's "caged AGIs/WBEs working on small pieces of the problem, including critiquing each others' results" concept is another idea.
+
+Do you think the question in the OP is significantly and immediately policy-relevant? As explained previously, I'm less confident than (e.g.) Eliezer that MIRI should eventually try to build FAI itself, but in the meantime, it looks really useful to collect a bunch of young people with top cognitive ability and turn their attention to concrete research problems in FAI theory, x-risk strategy, effective altruism, etc. It also looks pretty useful to directly attack the problem of FAI, because I expect strategic information from the exercise, because [philosophy is best done from within a science](http://lesswrong.com/lw/pg/where_philosophy_meets_science/), etc.

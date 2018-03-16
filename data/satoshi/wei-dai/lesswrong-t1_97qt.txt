@@ -1,0 +1,3 @@
+&gt;It seems likely to me that the average life in the developing world is worth living, and that the value of an average year of life in the developing world is no more than 3x lower than the value of an average year of life in the developed world.
+
+I think it should be the marginal life saved by AMF that is relevant here, and it is probably of much lower quality than the average life in the developing world. AMF was chosen by GiveWell because it represents the lowest cost per life saved, which must be because it targets people with the lowest incomes, people who can't afford to purchase even very low cost disease preventions on their own behalf.

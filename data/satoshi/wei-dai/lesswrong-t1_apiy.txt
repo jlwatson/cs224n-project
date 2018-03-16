@@ -1,0 +1,5 @@
+I received this question via email earlier. Might as well answer it here as well.
+
+&gt;In bmoney you say the PoW must have no other value. Why is that? Why wouldn't it be a good idea if it were also somehow made valuable like if perhaps protein folding could be made to fit the other required criteria?
+
+In b-money the money creation rate is not fixed, but instead there are mechanisms that give people incentives to create the right amount of money to ensure price stability or maximize economic growth. I specified the PoW to have no other value in order to not give people an extra incentive to create money (beyond what the mechanism provides). But with Bitcoin this doesn't apply since the money creation rate *is* fixed. I haven't thought about this much though, so I can't say that it won't cause some other problem with Bitcoin that I'm not seeing.

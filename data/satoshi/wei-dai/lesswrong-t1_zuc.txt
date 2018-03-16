@@ -1,0 +1,12 @@
+The Theory of Bayesian Aggregation - [Bayesian Group Agents and Two Modes of Aggregation](http://ksghome.harvard.edu/~mrisse/Papers/Papers%20-%20Decision%20Theory/BayesianGroupAgentsandTwoModesofAggregation.pdf) by Mathias Risse.
+
+ABSTRACT: Suppose we have a group of Bayesian agents, and suppose that they would like for
+their group as a whole to be a Bayesian agent as well. Moreover, suppose that those agents want the
+probabilities and utilities attached to this group agent to be aggregated from the individual
+probabilities and utilities in reasonable ways. Two ways of aggregating their individual data are
+available to them, viz., ex ante aggregation and ex post aggregation. The former aggregates expected
+utilities directly, whereas the latter aggregates probabilities and utilities separately. A number of
+recent formal results show that both approaches have problematic implications. This study discusses
+the philosophical issues arising from those results. In this process, I hope to convince the reader that
+these results about Bayesian aggregation are highly significant to decision theorists, but also of
+immense interest to theorists working in areas such as ethics and political philosophy.

@@ -1,0 +1,3 @@
+&gt; Even assuming that efficiency-as-elegance is epistemically relevant, efficiency can only be defined relative to a model of computation, and there is no reason to think that the model of computation we usually have in mind, due to being familiar with such computers in our daily lives, is relevant for what is efficient/elegant for the universe.
+
+Would you also say that our observations don't necessarily follow a simplicity prior because there's no reason to think our notion of simplicity (which is also defined only relative to a model of computation) is relevant for the universe?

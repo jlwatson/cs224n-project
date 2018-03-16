@@ -1,0 +1,13 @@
+&gt; I don't really see the point of austere metaethics. Meaning~1 just doesn't seem that interesting, given that meaning~1 is not likely to be closely related to actual meaning
+
+What do you mean by 'actual meaning'?
+
+The point of pluralistic moral reductionism (austere metaethics) is to resolve lots of confused debates in metaethics that arise from doing metaethics (implicitly or explicitly) in the context of traditional conceptual analysis. It's clearing away the dust and confusion from such debates so that we can move on to figure out what I think is more important: empathic metaethics.
+
+&gt; I do not understand why you seem to assume that if we delve into the cognitive algorithms that produce a sentence like "murder is wrong" we will be able to obtain a list of truth conditions
+
+I don't assume this. Whether this can be done is an open research question.
+
+&gt; Can you show me an example of such idea transfer?
+
+My entire post 'Pluralistic Moral Reductionism' is an example of such idea transfer. First I specified that one way we can talk about morality is to stipulate what we mean by terms like 'morally good', so as to resolve debates about morality in the same way that we resolve a hypothetical debate about 'sound' by stipulating our definitions of 'sound.' Then I worked through the implications of that approach to metaethics, and suggested toward the end that it wasn't the only approach to metaethics, and that we'll explore empathic metaethics in a later post.

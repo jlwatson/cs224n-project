@@ -1,0 +1,5 @@
+Player two could simply play the equilibrium strategy for the 2x2-subgame.
+
+And to counter your response that it's all one game, not two games, I can split the game by adding an extra node without changing the structure of the game. Then, we arrive at the standard subgame perfect equilibrium, only that the 2x2 subgame is in normal form, which shouldn't really change things since we can just compute a Nash equilibrium for that.
+
+After solving the subgame, we see that player one not playing A is not credible, and we can eliminate that branch.

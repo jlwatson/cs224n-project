@@ -1,0 +1,9 @@
+The main disagreement between Aaronson's idea and LW ideas seems to be this:
+
+&gt; *If* any of these technologies—brain-uploading, teleportation, the Newcomb predictor, etc.—were actually realized, then all sorts of “woolly metaphysical questions” about personal identity and free will would start to have *practical consequences*. Should you fax yourself to Mars or not? Sitting in the hospital room, should you bet that the coin landed heads or tails? Should you expect to “wake up” as one of your backup copies, or as a simulation being run by the Newcomb Predictor? These questions all seem “empirical,” yet one can’t answer them without taking an implicit stance on questions that many people would prefer to regard as outside the scope of science.
+
+&gt; (...)
+
+&gt; As far as I can see, the only hope for avoiding these diﬃculties is if—because of chaos, the limits of quantum measurement, or whatever other obstruction—minds *can’t* be copied perfectly from one physical substrate to another, as can programs on standard digital computers. So that’s a possibility that this essay explores at some length. To clarify, we can’t use any philosophical diﬃculties that would arise if minds were copyable, as evidence for the empirical claim that they’re *not* copyable. The universe has never shown any particular tendency to cater to human philosophical prejudices! But I’d say the diﬃculties provide more than enough reason to *care* about the copyability question.
+
+LW mostly prefers to bite the bullet on such questions, by using tools such as UDT. I'd be really curious to see Aaronson's response to [Wei's UDT post](http://lesswrong.com/lw/15m/towards_a_new_decision_theory/).

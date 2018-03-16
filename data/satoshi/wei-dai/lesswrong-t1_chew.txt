@@ -1,0 +1,27 @@
+I generally agree that learning values correctly will be a challenge, but it's closely related to general AGI challenges.  
+
+I'm also reasonably optimistic that we will be able to reverse engineer the brain's value learning mechanisms to create agents that are safer than humans.  Fully explaining the reasons behind that cautious optimism would require a review of recent computational neuroscience (the LW consensus on the brain is informed primarily by a particular narrow viewpoint from ev psych and the H&amp;B literature, and this position is in substantial disagreement with the viewpoint from comp neuroscience.) 
+
+&gt; 1.  The AI needs to know when to be uncertain about its values, 
+
+Mostly agreed.  However it is not clear that actively deferring to humans is strictly necessary.  In particular one route that circumvents most of these problems is testing value learning systems and architectures on a set of human-level AGIs contained to a virtual sandbox where the AGI does not know it is in a sandbox.  This allows safe testing of designs to be used outside of the sandbox.  The main safety control is knowledge limitation (which is something that MIRI has not considered much at all, perhaps because of their historical anti-machine learning stance).
+
+The fooling CNN stuff does not show a particularly important failure mode for AI.  These CNNs are trained only to recognize images in the sense of outputting a 10 bit label code for any input image.  If you feed them a weird image, they just output the closest category.  The fooling part (getting the CNN to misclassify an image) specifically requires implicitly reverse engineering the CNN and thus relies on the fact that current CNNs are naively deterministic.  A CNN with some amount of random sampling based on a secure irreversible noise generator would not have this problem. 
+
+&gt; 2. [Learning values could take too long, corps could take shortcuts.]
+
+This could be a problem, but even today our main technique to speed up AI learning relies more on parallelization than raw serial speedup.  The standard technique involves training 128 to 1024 copies of the AI in parallel, all on different data streams.  The same general technique would allow an AI to learn values from large number of humans in parallel.  This also happens to automatically solve some of the issues with value representativeness.
+
+&gt; 3. I don't know what my own values are, especially when it comes to exotic world states that are achievable post-Singularity.
+
+The current world is already exotic from the perspective of our recent ancestors.  We already have some methods to investigate the interaction of our values with exotic future world states: namely our imagination, as realized in thought experiments and especially science fiction.  AI could help us extend these powers.
+
+&gt;My point was that an AI could do well on test data, including simulations, but get tripped up at some later date
+
+This is just failure to generalize or overfitting, and how to avoid these problems is much of what machine learning is all about.
+
+&gt;Another way things could go wrong is that an AI learns wrong values, but does well in simulations because it infers that it's being tested and tries to please the human controllers in order to be released into the real world.
+
+This failure requires a specific combination of:  1. that the AI learns a good model of the world, but 2. learns a poor model of human values, and 3. learns that it is in a sim.  4. wants to get out.  5. The operators fail to ever notice any of 2 through 4.
+
+Is this type of failure possible?  Sure.  But the most secure/paranoid type of safety model I envision is largely immune to that class of failures.  In the most secure model, potentially unsafe new designs are constrained to human-level intelligence and grow up in a safe VR sim (medieval or earlier knowledge-base).  Designs which pass safety tests are then slowly percolated up to sims which are closer to the modern world.  Each up migration step is like reincarnation - a new AI is grown from a similar seed.  The final designs (seed architectures rather than individual AIs) that pass this vetting/testing process will have more evidence for safety/benevolence/altruism than humans. 

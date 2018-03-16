@@ -1,0 +1,3 @@
+Except that the analogy to rock-paper-scissors would be that I get to move *logically first* by deciding my *conditional strategy* "rock if you play scissors" etc., and simulating you simulating me *without* running into an apparently non-halting computation (that would otherwise have to be stopped by my performing counterfactual surgery on the part of you that simulates my own decision), then playing rock if I simulate you playing scissors.
+
+At least I think that's how the analogy would work.

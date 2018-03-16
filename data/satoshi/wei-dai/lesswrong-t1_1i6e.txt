@@ -1,0 +1,7 @@
+You say you have stacked assumptions in favor of project B, but then you make two quite bizarre assumptions:
+
+1. A singleton has a one in 5 billion chance of giving you control of the entire visible universe,
+
+2. In the non-singleton scenario, there is zero probability that any of the universe outside the solar system will have any utility.
+
+To make these assumptions is essentially to prejudge the matter in favor of project A, for obvious reasons; but that says nothing about what the outcome would be given more plausible assumptions.

@@ -1,0 +1,5 @@
+&gt;&gt;The empathy–altruism hypothesis, by contrast, predicts an elevated mood in all three conditions in which the peer escaped the shocks: perform + no prior relief, perform + prior relief, and not perform + prior relief. [...]
+
+&gt;Again, the results confirmed the empathy-altruism hypothesis over the empathy-specific reward hypothesis.
+
+Couldn't an egoist still answer, "Yes, my mood is elevated from seeing/knowing others escape pain, but that doesn't mean I place (or should place) a terminal value on other people's pain in addition to the value I place on my mood. In fact I don't / shouldn't." Scope insensitivity seems incompatible with valuing other people's lives directly, but perfectly compatible with this egoist position. See [Boredom vs. Scope Insensitivity](http://lesswrong.com/lw/196/boredom_vs_scope_insensitivity/) where I point out why this position is not easy to dismiss as a normative (ethical) theory. And given widespread scope insensitivity in people's actual behavior, I don't see how it can be dismissed as a positive (psychological) theory.

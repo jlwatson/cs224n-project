@@ -1,0 +1,39 @@
+&gt;&gt;the model and reward functions are not really well distinguished and either could potentially substitute for the other (as they just multiply)
+
+&gt;They can also substitute in more subtle ways, e.g. by learning R(s) = 1 if the last action implied by the state history matches the predicted human action. If the human is doing RL imperfectly then that is going to have a much better explanatory fit to the data (it can be arbitrarily good, while any model of a human as a perfect RL agent will lose Bayes points all over the place), so you have to rely on the prior to see that it's a "bad" model.
+
+That may or may not be a problem with the simplest version 1 of the idea, but it is not a problem in version 2 which imposes more realistic priors/constraints and also uses model pretraining on just state transitions to force differentiation of the model and reward functions.
+
+&gt; I think things get pretty hairy, and moreover I don't know whether the resulting systems would typically be competitive with (e.g.) the best RL agents that we could design by more direct methods.
+
+Ok, I think we are kindof in agreement, but first let me recap where we are.  This all started when I claimed that your 'easy IRL problem' - solve IRL given infinite compute and infinite perfect training data - is relatively easy and could probably be done in 100 lines of math.  We both agreed that supervised learning (reproducing the training set - the modal human policy) would be obviously easy in this setting.
+
+After that the discussion forked and got complicated - which I realize in hindsight - stems from not clearly specifying what would entail success.  So to be more clear - success of the IRL approach can be measured as improvement over supervised learning - as measured in the recovered utility function.  Which of course leads to this whole other complexity - how do we know that is the 'true utility function' - leave that aside for a second, and I'll get back to it.
+
+I then brought up a concrete example of using IRL on an deep RL Atari agent.  I described how learning the score function should be relatively straightforward, and this would allow an IRL agent to match the performance of the RL agent in this domain, which leads to better performance than the supervised/modal human policy.  
+
+You agreed with this:
+
+&gt;&gt; So here is a more practical set of experiments we could do today...
+
+&gt; I agree that this experiment can probably yield better behavior than training a supervised learner to reproduce human play.
+
+So it seems we have agreed that IRL surpassing the modal human policy is clearly possible - at least in the limited domain of atari.
+
+If we already know the utility function apriori, then obviously IRL given the same resources can only do as good as RL.  But that isn't that interesting, and remember IRL can do much more - as in the example of learning to maximize score while under other complex constraints.
+
+So in scaling up to more general problem domains, we have the issue of modelling mistakes - which you seem to be especially focused on - and the related issue of utility function uniqueness.
+
+Versions 2 and later of my simple proto-proposal use more informed priors for the circuit complexity combined with pretraining the model on just observations to force differentiate the model and utility functions.  In the case of atari, getting the utility function to learn the score should be relatively easy - as we know it is a simple immediate visual function.
+
+This type of RL architecture can model human's limited rationality by bounding the circuit complexity - at least that's the first step.  We could get increasingly more accurate models of the human decision surface by incorporating more of the coarse abstract structure of the brain as a prior over our model space.
+
+Ok, so backing up a bit : 
+
+&gt;&gt; it probably requires increasingly complex models of human-like brains (along with more complex training schemes) as priors
+
+&gt; That's my concern; I think things get pretty hairy, and moreover I don't know whether the resulting systems would typically be competitive with (e.g.) the best RL agents that we could design by more direct methods.
+
+For the full AGI problem, I am aware of a couple of interesting candidates for an intrinsic reward/utility function - the future freedom of action principle (power) and the compression progress measure (curiosity).  If scaled up to superhuman intelligence, I think/suspect you would agree that both of these candidates are probably quite dangerous.  On the other hand, they seem to capture some aspects of human's intrinsic motivators, so they may be useful as subcomponents or features.
+
+The IRL approach - if taken all the way - seems to require reverse engineering the brain.  It could be that any successful route to safe superintelligence just requires this - because the class of agents that combine our specific complex unknown utility functions with extrapolated superintelligence necessarily can only be specified in reference to our neural architecture as a starting point.

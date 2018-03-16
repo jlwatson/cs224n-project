@@ -1,0 +1,13 @@
+Well, we here agree that beliefs should pay rent. So you see the sentence "this sentence is false" or similar. What new things do you expect now?
+
+Me, I expect to see a philosopher trying to keep his sanity. But the only thing I learned about the sentence's subject is that it is that same sentence, and that it says it's false.
+
+So in that sense it's meaningless.
+
+EDIT: I thought about what I said a bit, and concluded that I'm probably not entirely correct. What the above sentence predicts is that I can read this sentence a second time and see a falsehood.
+
+I realized this after considering that "this sentence is true" is obviously true, yet very similar. And it can also be represented as an infinite recursive function.
+
+EDIT2: Actually, no. "This sentence is true" is NOT obviously true. Infinite recursion is what should happen for it, too.
+
+(I R confuzzled)

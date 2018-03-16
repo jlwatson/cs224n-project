@@ -1,0 +1,20 @@
+&gt; Disagree in which direction?
+
+My guess was that you think the things on [this list](http://lesswrong.com/lw/bnc/against_ai_risk/) are more probable and/or bad than I do, especially the first three. But to keep things focused, I suggest we not add those possible disagreements to the current thread.
+
+
+&gt; You got 11 comments here versus none at MIRI's blog. Seems like a no-brainer to me…
+
+In part, I'm also trying to see whether we can cause discussion to happen on MIRI's blog. If not, we'll have to do it on LW. But that'll be better when we've had enough development resources go into LW that we can have subreddits (e.g. one for astronomical stakes stuff). Right now the thing under development is a dashboard that will make it easier to follow the content you want to follow across multiple subreddits, and then after that we plan to create subreddits so that people can more easily follow only the things they care about, rather than having *everything* get dumped into Discussion, such that busier and less interested people can't be bothered to follow everything in order to occasionally find snippets of things they care about.
+
+
+&gt; Suppose at some point MIRI decides that P(eAI | FAI attempted) is too high and FAI shouldn't be attempted, or that people are doing a lot of unwanted AGI capability work as a result of your current activities, how do you get everyone to stop?
+
+Ok, gotcha. Since you're in town in a few days, Eliezer suggested that we three chat about this when you get here. See you soon!
+
+
+&gt; I find it relatively easy to write down my strategic thoughts in blog form, and they tend to be well-received on LW, so they seem to be a counterexample to your "difficulty of purchasing new strategic insights". Unless all my ideas/arguments were already thought of before and taken into account by "insiders", but just never written down somewhere public? But if that's the case, why haven't they been written down? Again, it wasn't that hard for me to write down my thoughts in a way that's understandable to more than just "insiders".
+
+My impression is that the ideas in your strategic posts are mostly ones already considered by Eliezer, Carl, Bostrom, and perhaps other people, though the three of them could confirm or deny this. And there's a lot more that hasn't been written down. E.g. whenever we have strategy meetings at MIRI, we very quickly find ourselves discussing arguments that people like Eliezer and Carl have known about for 5+ years but which haven't been written down anywhere that I know of.
+
+Why haven't these things been written down? Because there's so much to write up, because other projects often seem like higher value, because sometimes people are hesitant to publish half-baked reasoning under their own name… lots of reasons. I've been passionate about getting things written up since I arrived in April 2011, and tried lots of different things to get the people who know this stuff to write it down, but it's been a very slow process with many detours, and in the end I've had to do quite a bit of it myself. Beckstead's thesis helps. Bostrom's book will help, too.

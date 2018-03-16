@@ -1,0 +1,23 @@
+Here's how [my initial formulation](http://lesswrong.com/lw/15m/towards_a_new_decision_theory/) of UDT (let's call it UDT1 for simplicity) would solve Drescher's problem.
+
+Among the world programs embedded (and given a weight) in S, would be the following:
+
+    def P():
+        action = S("the value of action Ai is simply i")
+        S_utility = ActionToValue(action) # maps Ai to i
+
+If this is the only world program that calls S with "the value of action Ai is simply i", and S's utility function has a component for S\_utility at the end of this P, then upon that input, S would iterate over the Ai's, and for each Ai, compute what S\_utility would be at the end of P under the assumption that S returns Ai. Finally it returns An since that maximizes S_utility.
+
+Eliezer, the way you described it is:
+
+&gt; If combined with TDT, we would interpret UDT as having a never-updated weighting on all possible universes, and a causal structure (causal graph, presumably) on those universes.  Any given logical computation in UDT will count all instantiations of itself in all universes which have received exactly the same inputs - even if those instantiations are being imagined by Omega in universes which UDT would ordinarily be interpreted as "knowing to be logically inconsistent", like universes in which the third decimal digit of pi is 3.  Then UDT calculates the counterfactual consequences, weighted across all imagined universes, using its causal graphs on each of those universes, of setting the logical act to A\_i.  Then it maximizes on A\_i.
+
+The "causal graph" part doesn't *sound* like UDT1. Is it equivalent?
+
+ETA: To respond to Drescher's
+
+&gt; "Suppose I choose A6. I know I'm a utility-maximizing agent, and I already know there's another choice that has value 7. Therefore, if follows from my (hypothetical) choice of A6 that A6 has a value of at least 7."
+
+S is simply not programmed to think that. For A6 it would simulate P with "return A6" substituting for S, and calculate the utility of A6 that way.
+
+ETA2: The previous sentence assumes that's what the "mathematical intuition" black box does.

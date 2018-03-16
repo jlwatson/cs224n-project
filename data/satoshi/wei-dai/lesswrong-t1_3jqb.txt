@@ -1,0 +1,5 @@
+&gt; If we consider a human as a group of agents with different values
+
+Things like this is why it looks like a good idea to me to taboo "values". Human includes many heuristics that together add up to what counts as an "agent". Separate aspects/parts of a human include fewer heuristics, which makes these parts less like agents, and "values" for these parts become even less defined than for the whole. 
+
+So "human as group of agents with different values" translates as "human as a collection of parts with different structure", which sounds far less explanatory (as it should).

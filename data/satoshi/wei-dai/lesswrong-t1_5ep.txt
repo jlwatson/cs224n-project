@@ -1,0 +1,3 @@
+Things are actually a bit worse than this, because there is also no theorem that says there is only *one* valley, so there's no guarantee that even after you climb out of this valley, your next step won't cause you to go off a precipice.
+
+BTW, there's a very similar issue in economics, which goes under the name of the Theory of the Second Best. Markets will allocate resources efficiently if they are perfectly competitive and complete, but there is no guarantee that any incremental progress towards that state, such creating some markets that were previously missing, or making some markets more competitive, will improve social welfare.

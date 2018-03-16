@@ -1,0 +1,22 @@
+&gt;  Current rough hypothesis: evolution encodes sexual attraction as a highly compressed initial 'seed' which unfolds over time through learning. It identifies/finds and then plugs into the relevant learned sensory concept representations which code for attractive members of the opposite sex.
+
+How does this "seed" find the correct high-level sensory features to plug into? How can it wire complex high-level behavioral programs (such as courtship behaviors) to low-level motor programs learned by unsupervised learning?  
+This seems unlikely.
+
+&gt; For example you are probably aware of how you perform long multiplication, such that you could communicate the algorithm and steps.
+
+But long multiplication is something that you were taught in school, which most humans wouldn't be able to discover independently. And you are certainly not aware of how your brain perform visual recognition, the little you know was discovered through experiments, not introspection.
+
+&gt;  That being said, some systems - such as Atari's DRL agent - can be considered simple early versions of ULMs.
+
+Not so fast.
+
+The Atari DRL agent learns a good mapping between short windows of frames and button presses. It has some generalization capability which enables it to achieve human-level or sometimes even super human-level performances on games that are based on eye-hand coordination (after all it's not burdened by the intrinsic delays that occur in the human body), but it has no reasoning ability and fails miserably at any game which requires planning ahead more than a few frames.
+
+Despite the name, no machine learning system, "deep" or otherwise, has been demonstrated to be able to efficiently learn any provably deep function (in the sense of boolean circuit depth-complexity), such as the parity function which any human of average intelligence could learn from a small number of examples.
+
+I see no particular reason to believe that this could be solved by just throwing more computational power at the problem: you can't fight exponentials that way.
+
+UPDATE:
+
+Now it seems that Google DeepMind managed to train even feed-forward neural networks to solve the parity problem. My other [comment](http://lesswrong.com/lw/md2/the_brain_as_a_universal_learning_machine/cjee) down-thread.

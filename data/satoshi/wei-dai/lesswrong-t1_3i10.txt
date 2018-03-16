@@ -1,0 +1,5 @@
+&gt; So we need another word to filter out those kinds of somewhat-arbitrary proposed meta-ethical systems.  "Objective" probably is not the best word for the job, but it is the only one I can think of right now.
+
+This is where I stopped reading.
+
+I suggest that you actually read the SEP entry on meta-ethics instead of just linking there - if you did read it, feel free to correct my guess.  Metaethics does not mean what you said it did (metaethics is a theory of what morality is, not a way of comparing moralities), moral realism does not mean what you said it did (your belief that morality is a real thing out there constitutes moral realism), naturalistic metaethics do not mean what you said it did, CEV is totally not about convergence in all possible minds, etcetera.  I also have to ask whether you read the Metaethics Sequence, but I mostly regard that sequence as having failed so I won't be surprised if the answer is yes.

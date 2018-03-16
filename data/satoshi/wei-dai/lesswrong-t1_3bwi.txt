@@ -1,0 +1,7 @@
+ &gt;"What simple tricks can help turn humans -- haphazard evolutionary amalgams that we are -- into coherent agents?"
+
+One trick that we can always apply: disassemble the human and use his atoms to build a paperclip maximizer. The point is, we don't just want to turn humans into coherent agents, we want to turn them into coherent agents who can be said to have the same preferences as the original humans. But given that we don't have a theory of preferences for incoherent agents, how do we know that any given trick intended to improve coherence is preference-preserving? Right now we have little to guide us except intuition.
+
+To borrow an example from Robin Hanson, we have both preferences that are consciously held, and preferences that are unconsciously held, and many "rationality techniques" seem to emphasize the consciously held preferences at the expense of unconsciously held preferences. It's not clear this is kosher.
+
+I think there are many important unsolved problems in the theoretical/philosophical parts of rationality, and this post seems to under-emphasize them.

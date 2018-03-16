@@ -1,0 +1,17 @@
+&gt;I think we'll need different methods to deal with future exoticness though. See this post for some of the reasons.
+
+Perhaps.  The question of uploading comes to mind as something like an 'ontological crisis'.  We start with a intuitive model of selfhood built around the concept of a single unique path extending through time, and the various uploading thought experiments upend that model.  Humans (at least some) appear to be able to deal with these types of challenges given enough examples to cover the space and enough time to update models.
+
+&gt;Do you envision biological humans participating in the VR sim, in order to let the AI learn values from them?
+
+Of course.  And eventually we can join the AIs in the VR sim more directly, or at least that's the hope.
+
+&gt; If so, how to handle speed differences that may be up to a factor of millions (which you previously suggested will be the case)?
+
+Given some computing network running a big VR AI sim, in theory the compute power can be used to run N AIs in parallel or one AI N times accelerated or anything in between.  In practice latency and bandwidth overhead considerations will place limits on the maximum serial speedup.  
+
+But either way the results are similar - the core problem is the total throughput of AI thought volume to human monitor thought volume.  It's essentially the student/teacher ratio problem.  One human could perhaps monitor a couple dozen 'children' AI without sophisticated tools, or perhaps hundreds or even thousands with highly sophisticated narrow AI tools (automated thought monitors and visualizers).
+
+I don't expect this will be a huge issue in practice due to simple economical considerations.  AGI is likely to arrive near the time the hardware cost of an AGI is similar to human salary/cost.  So think of it in terms of the ratio of human teacher cost to AGI hardware cost.  AGI is a no brainer investment when that cost ratio is 1:1, and just gets better over time.  
+
+The point in time at which AGI hardware costs say 1/100th of a human teacher - (say 20 cents per hour) that time is already probably well in to the singularity anyway.  The current trend is steady exponential progress in driving down hypothetical AGI hardware cost.  (which I estimate is vaguely around $1,000/hr today - the cost of about 1000 gpus)  If that cost suddenly went down due to some new breakthrough, that would just accelerate the timeline.

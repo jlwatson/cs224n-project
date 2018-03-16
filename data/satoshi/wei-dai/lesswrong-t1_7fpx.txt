@@ -1,0 +1,9 @@
+&gt;I still don't like the idea of the indiscriminate whole-thread toll
+
+It [looks like](http://code.google.com/p/lesswrong/issues/detail?id=345) that idea has already been replaced with hiding subthreads rooted on comments that are -3 or lower from recent and top comments.
+
+I like the idea of hiding bad subthreads, but wish it's a manual moderator action instead of based on votes. A lot of discussions that descend from downvoted comments are perfectly fine and do not need to be hidden.
+
+&gt;I've thought of another option: maybe prohibit a user from posting anywhere in a subthread under any significantly-downvoted comments of their own?
+
+I don't think that's a good idea. What if its a non-troll user who just made a bad comment? They wouldn't be able to come back and admit their mistake or clarify their argument. An actual troll on the other hand could just make a new account and keep going in that thread.

@@ -1,0 +1,3 @@
+&gt;Such an agent would also not change its decision theory as a result of philosophical consideration, which potentially limits its power.
+
+I don't think that follows, or at least the agent could change its decision theory as a result of some consideration, which may or may not be "philosophical". We already have the example that a CDT agent that learns in advance it will face Newcomb's problem could predict it would do better if it switched to TDT.

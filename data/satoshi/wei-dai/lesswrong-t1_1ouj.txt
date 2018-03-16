@@ -1,0 +1,30 @@
+That's very elegant! But the trick here, it seems to me, lies in the rules for setting up the world program in the first place. 
+
+First, the world-program's calling tree should match the structure of TDT's graph, or at least match the graph's (physically-)causal links. The physically-causal part of the structure tends to be uncontroversial, so (for present purposes) I'm ok with just stipulating the physical structure for a given problem.
+
+But then there's the choice to use the same variable S in multiple places in the code. That corresponds to a choice (in TDT) to splice in a logical-dependency link from the Platonic decision-computation node to other Platonic nodes. In both theories, we need to be precise about the criteria for this dependency. Otherwise, the sense of dependency you're invoking might turn out to be wrong (it makes the theory prescribe incorrect decisions) or question-begging (it implicitly presupposes an answer to the key question that the theory itself is supposed to figure out for us, namely what things are or are not counterfactual consequences of the decision-computation).
+
+So the question, in UDT1, is: under what circumstances do you represent two real-world computations as being tied together via the same variable in a world-program?
+
+That's perhaps straightforward if S is implemented by literally the same physical state in multiple places. But as you acknowledge, you might instead have distinct Si's that diverge from one another for some inputs (though not for the actual input in this case). And the different instances need not have the same physical substrate, or even use the same algorithm, as long as they give the same answers when the relevant inputs are the same, for some mapping between the inputs and between the outputs of the two Si's. So there's quite a bit of latitude as to whether to construe two computations as "logically equivalent".
+
+So, for example, for the conventional transparent-boxes problem, what principle tells us to formulate the world program as you proposed, rather than having:
+
+	def P1(i):
+	   const S1;
+	   E = (Pi(i) == 0)
+	   D = Omega_Predict(S1, i, "box contains $1M")
+	   if D ^ E:
+	       C = S(i, "box contains $1M")
+	       payout = 1001000 - C * 1000
+	   else:
+	       C = S(i, "box is empty")
+	       payout = 1000 - C * 1000
+
+(along with a similar program P2 that uses constant S2, yielding a different output from Omega_Predict)?
+
+This alternative formulation ends up telling us to two-box. In this formulation, if S and S1 (or S and S2) are in fact the same, they would (counterfactually) differ if a different answer (than the actual one) were output from S—which is precisely what a causalist asserts. (A similar issue arises when deciding what facts to model as “inputs” to S—thus forbidding S to “know” those facts for purposes of figuring out the counterfactual dependencies—and what facts to build instead into the structure of the world-program, or to just leave as implicit background knowledge.)
+
+So my concern is that UDT1 may covertly beg the question by selecting, among the possible formulations of the world-program, a version that turns out to presuppose an answer to the very question that UDT1 is intended to figure out for us (namely, what counterfactually depends on the decision-computation). And although I agree that the formulation you've selected in this example is correct and the above alternative formulation isn't, I think it remains to explain why.
+
+(As with my comments about TDT, my remarks about UDT1 are under the blanket caveat that my grasp of the intended content of the theories is still tentative, so my criticisms may just reflect a misunderstanding on my part.)

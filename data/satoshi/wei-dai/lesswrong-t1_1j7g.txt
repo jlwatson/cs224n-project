@@ -1,0 +1,11 @@
+There are a lot of posts here that presuppose some combination of moral anti-realism and value complexity. These views go together well: if value is not fundamental, but dependent on characteristics of humans, then it can derive complexity from this and not suffer due to Occam's Razor. 
+
+There are another pair of views that go together well: moral realism and value simplicity. Many posts here strongly dismiss these views, effectively allocating near-zero probability to them. I want to point out that this is a case of non-experts being very much at odds with expert opinion and being clearly overconfident. In the Phil Papers survey for example, 56.3% of philosophers lean towards or believe realism, while only 27.7% lean towards or accept anti-realism. 
+
+http://philpapers.org/surveys/results.pl
+
+Given this, and given comments from people like me in the intersection of the philosophical and LW communities who can point out that it isn't a case of stupid philosophers supporting realism and all the really smart ones supporting anti-realism, there is no way that the LW community should have anything like the confidence that it does on this point.
+
+Moreover, I should point out that most of the realists lean towards naturalism, which allows a form of realism that is very different to the one that Eliezer critiques. I should also add that within philosophy, the trend is probably not towards anti-realism, but towards realism. The high tide of anti-realism was probably in the middle of the 20th Century, and since then it has lost its shiny newness and people have come up with good arguments against it (which are never discussed here...).
+
+Even for experts in meta-ethics, I can't see how their confidence can get outside the 30%-70% range given the expert disagreement. For non-experts, I really can't see how one could even get to 50% confidence in anti-realism, much less the kind of 98% confidence that is typically expressed here.

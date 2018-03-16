@@ -1,0 +1,89 @@
+Selective opinion and answers (for longer discussions, respond to specific points and I'll furnish more details):
+
+&gt;Which kinds of differential technological development should we encourage, and how?
+
+I recommend pushing for whole brain emulations, with scanning-first and emphasis on fully uploading actual humans. Also, military development of AI should be prioritised over commercial and academic development, if possible.
+
+&gt;Which open problems are safe to discuss, and which are potentially dangerous?
+
+Seeing what has already been published, I see little advantage to restricting discussion of most open problems.
+
+&gt;What can we do to reduce the risk of an AI arms race?
+
+Any methods that would reduce traditional arms races. Cross ownership of stocks in commercial companies. Investment funds with specific AI disclosure requirements. Rewards for publishing interim results.
+
+&gt; What can we do to raise the "sanity waterline," and how much will this help?
+
+Individual sanity waterline raising among researchers useful, but generally we want to raise the sanity waterline of institutions, which is harder but more important (and may have nothing to do with improving individuals).
+
+&gt;Which interventions should we prioritize?
+
+We need a solid push to see if reduced impact or Oracle AIs can work, and we need to make the academic and business worlds to take the risks more seriously. Interventions to stop the construction of dangerous AIs unlikely to succeed, but "working with your company to make your AIs safer (and offering useful advice along the way)" could work. We need to develop useful tools we can offer others, not solely nagging them all the time.
+
+&gt;How should x-risk reducers and AI safety researchers interact with governments and corporations?
+
+Beggars can't be choosers. For the moment, we need to make them take it seriously, convince them, and give away any safety-increasing info we might have. Later we may have to pursue different courses.
+
+&gt;How can optimal philanthropists get the most x-risk reduction for their philanthropic buck?
+
+Funding SIAI and FHI and similar, getting us in contact with policy makers, raising the respectability of xrisks.
+
+&gt;How does AI risk compare to other existential risks?
+
+Very different; no other xrisk has such uncertain probabilities and timelines, and such huge risks and rewards and various scenarios that can play out.
+
+&gt;Which problems do we need to solve, and which ones can we have an AI solve?
+
+We need to survive till AI, and survive AI. If we survive, most trends are positive, so don't need to worry about much else.
+
+&gt;How can we develop microeconomic models of WBEs and self-improving systems?
+
+With thought and research :-)
+
+&gt;How can we be sure a Friendly AI development team will be altruistic?
+
+Do it ourselves, normalise altruistic behaviour in the field, or make it in their self-interest to be altruistic.
+
+&gt;How hard is it to create Friendly AI?
+
+Probably extraordinarily hard if the FAI is as intelligent as we fear. More work needs to be done to explore partial solutions (limited impact, Oracle, etc...)
+
+&gt;Is there a safe way to do uploads, where they don't turn into neuromorphic AI?
+
+Keep them as human (in their interactions, in their virtual realities, in their identities etc...) as possible.
+
+&gt;How possible is it to do FAI research on a seastead?
+
+How is this relevant? If governments were so concerned about AI potential that the location of the research became important, then we would have made tremendous progress in getting people to take it seriously, and AI will most likely not be developed by a small seasteading independent group.
+
+&gt;How much must we spend on security when developing a Friendly AI team?
+
+We'll see at the time.
+
+&gt;What's the best way to recruit talent toward working on AI risks?
+
+General: get people involved as a problem to be worked on, socialise them into our world, get them to care. AI researchers: conferences and publications and getting more respectable publicity.
+
+&gt;How difficult is stabilizing the world so we can work on Friendly AI slowly?
+
+Very.
+
+&gt;How hard will a takeoff be?
+
+Little useful data. Use scenario planning rather than probability estimates.
+
+&gt;What is the value of strategy vs. object-level progress toward a positive Singularity?
+
+Both needed, both need to be closely connected, easy shifts from one to the other. Possibly should be more strategy at the current time.
+
+&gt;How feasible is Oracle AI?
+
+As yet unknown. Research progressing, based on past performance I expect new insights to arrive.
+
+&gt;Can we convert environmentalists into people concerned with existential risk?
+
+With difficulty for AI risks, with ease for some others (extreme global warming). Would this be useful? Smaller more tightly focused pressure groups would preform much better, even if less influence.
+
+&gt;Is there no such thing as bad publicity [for AI risk reduction] purposes?
+
+Anything that makes it seem more like an area for cranks is bad publicity.

@@ -1,0 +1,3 @@
+The last step doesn't look valid to me. After updating on the evidence, you have a human who thinks they've seen a halting oracle, and a Solomonoff agent who thinks he's seen a highly improbable event that doesn't involve a halting oracle. The fact that the human assigns a higher probability to the observations is unconvincing, because he could've just been extraordinarily lucky.
+
+Also, there are entities that are impossible to distinguish from halting oracles using all the computational resources in the universe, which are not actually halting oracles. For example, a "can be proven to halt using a proof shorter than 3^^^3 bits" oracle has nonzero probability under the Solomonoff prior.

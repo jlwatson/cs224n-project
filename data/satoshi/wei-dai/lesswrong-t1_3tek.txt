@@ -1,0 +1,7 @@
+It seems like you can start looking at easier issues even if the general picture remains opaque.
+
+For example, suppose I have an algorithm A that assigns probabilities to assertions. Can A axiomatically assign probability &gt;90% to an assertion like "If A assigns probability of 90% to X, then X is true." without automatically concluding X with probability 90%?
+
+Another example: what sort of consistency properties can we consistently enforce of beliefs? That is, we can define a bunch of rules that are satisfied by "reasonable" beliefs, such as P(A or B) &lt;= P(A) + P(B). What sets of rules can we satisfy simultaneously? Which sets of rules should we try to have our beliefs satisfy? Can we even describe inference as having some implicitly defined probability assignment which is updated over time?
+
+Another example: we would like to make ambient control work with probabilistic beliefs. Can we make any progress towards having this work? There seem to be a lot of approachable technical details, which you might be able to solve while still having some abstraction like a black box that directs the inference problem. 

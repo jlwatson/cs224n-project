@@ -1,0 +1,3 @@
+We can't use the universal prior in practice unless physics contains harnessable non-recursive processes. However, this is exactly the situation in which the universal prior doesn't always work. Thus, one source of the 'magic' is through allowing us to have access to higher levels of computation than the phenomena we are predicting (and to be certain of this).
+
+Also, the constants involved could be *terrible* and there are no guarantees about this (not even probabilistic ones). It is nice to reach some ratio in the limit, but if your first Graham's number of guesses are bad, then that is very bad for (almost) all purposes.

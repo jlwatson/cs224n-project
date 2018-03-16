@@ -1,0 +1,7 @@
+I like your post, but someone who doesn't already know UDT would find it unparseable. The problematic part is this:
+
+&gt; subjective anticipation is encoded in the utility function
+
+This assumes the reader already has the non-standard understanding of the term "utility function" that is required by UDT. Namely, up to now I have naively imagined that I have a utility function over my *personal futures*: I enjoy having a high chance of chocolate. But UDT's "utility functions" are very different beasts! UDT demands that you express a preference over futures of the *entire universe*. It requires you to make up your mind whether an additional copy of you getting a slightly inferior piece of chocolate makes you better off, worse off, or indifferent. In effect, this mixes probability and utility into one huge mathematical object that may be much harder to construct or infer by inspecting yourself, though it's certainly easier to reason about afterward.
+
+It's ironic that Wei originally invented UDT in an attempt to figure out anthropic reasoning, but now we can see that it mostly pushes the problem under the rug. No offense to him, UDT is a very solid advance, but we need even more novel insights to figure this stuff out.

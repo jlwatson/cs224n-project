@@ -1,0 +1,3 @@
+So, if human beings have a philosophical oversight that is self-shadowing, like that of a Bayesian that keeps two-boxing on Newcomb and defecting against copies of itself in PD, we wouldn't notice it. Ever. 
+
+So the question is not "why don't we have any self-shadowing blind-spots", it is "why do we have a nontrivial set of non-self-shadowing blind spots?" (non-self-shadowing blind spots being those that we can actually notice at some point)

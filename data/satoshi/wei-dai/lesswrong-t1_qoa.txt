@@ -1,0 +1,34 @@
+We can sort the values evolution gave us into the following categories (not necessarily exhaustive). Note that only the first category of values is likely to be preserved without special effort, if Eliezer is right and our future is dominated by singleton FOOM scenarios. But many other values are likely to survive naturally in alternative futures.
+
+- likely values for all intelligent beings and optimization processes
+(power, resources)
+- likely values for creatures with roughly human-level brain power
+(boredom, knowledge)
+- likely values for all creatures under evolutionary competition
+(reproduction, survival, family/clan/tribe)
+- likely values for creatures under evolutionary competition who cannot copy their minds
+(individual identity, fear of personal death)
+- likely values for creatures under evolutionary competition who cannot wirehead
+(pain, pleasure)
+- likely values for creatures with sexual reproduction
+(beauty, status, sex)
+- likely values for intelligent creatures with sexual reproduction
+(music, art, literature, humor)
+- likely values for intelligent creatures who cannot directly prove their beliefs
+(honesty, reputation, piety)
+- values caused by idiosyncratic environmental characteristics
+(salt, sugar)
+- values caused by random genetic/memetic drift and co-evolution
+(Mozart, Britney Spears, female breasts, devotion to specific religions)
+
+The above probably isn't controversial, rather the disagreement is mainly on the following:
+
+- the probabilities of various future scenarios
+- which values, if any, can be preserved using approaches such as FAI
+- which values, if any, we should try to preserve
+
+I agree with Roko that Eliezer has made his case in an impressive fashion, but it seems that many of us are still not convinced on these three key points.
+
+Take the last one. I agree with those who say that human values do not form a consistent and coherent whole. Another way of saying this is that human beings are not expected utility maximizers, not as individuals and certainly not as societies. Nor do most of us desire to become expected utility maximizers. Even amongst the readership of this blog, where one might logically expect to find the world's largest collection of EU-maximizer wannabes, few have expressed this desire. But there is no principled way to derive an utility function from something that is not an expected utility maximizer!
+
+Is there any justification for trying to create an expected utility maximizer that will forever have power over everyone else, whose utility function is derived using a more or less arbitrary method from the incoherent values of those who happen to live in the present? That is, besides the argument that it is the only feasible alternative to a null future. Many of us are not convinced of this, neither the "only" nor the "feasible".

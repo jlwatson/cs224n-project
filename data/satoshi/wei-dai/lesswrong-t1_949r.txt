@@ -1,0 +1,3 @@
+Why frame this problem as about tiling/self-modification instead of [planning/self-prediction](http://lesswrong.com/lw/hmt/tiling_agents_for_selfmodifying_ai_opfai_2/943m)? If you do the latter though, the problem looks more like an AGI (or AI capability) problem than an FAI (or AI safety) problem, which makes me wonder if it's really a good idea to publicize the problem and invite more people to work on it publicly.
+
+Regarding section 4.3 on probabilistic reflection, I didn't get a good sense from the paper of how Christiano et al's formalism relates to the concrete problem of AI self-modification or self-prediction. For example what are the functions P and p supposed to translate to in terms of an AI and its descendent or future self?

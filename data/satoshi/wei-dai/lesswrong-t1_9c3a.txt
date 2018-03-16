@@ -1,0 +1,5 @@
+Even more than an explanation, I would appreciate an explanation on the [LessWrong Wiki](http://wiki.lesswrong.com/wiki/Updateless_decision_theory) because there currently isn't one! I've just reread through the LW posts I could find about UDT and I guess I should let them stew for awhile. I might also ask people at the current MIRI workshop for their thoughts in person. 
+
+&gt; Another thing to keep in mind is that UDT is currently formulated mainly for AI rather than human use (whereas you seem to be thinking mostly in human terms).
+
+Only as an intuition pump; when it's time to get down to brass tacks I'm much happier to talk about a well-specified program than a poorly-specified human. 

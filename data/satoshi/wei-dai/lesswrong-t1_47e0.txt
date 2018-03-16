@@ -1,0 +1,15 @@
+&gt;...if it computes the expected utility of "provably modify myself to start a war against UDT-AI unless it gives me 99% of its resources" it might possibly get a low value (not sure because UDT isn't fully specified), because the UDT-AI, when choosing what to do when faced with this kind of threat, would take into account the logical correlation between its decision and the alien AI's prediction of its decision.
+
+Well, that's plausible.  I'll have to work through some UDT examples to understand fully.
+
+What model do you have of how entity X can prove to entity Y that X is running specific source code?
+
+The proof that I can imagine is entity Y gives some secure hardware Z to X, and then X allows Z to observe the process of X self-modifying to run the specified source code, and then X gives the secure hardware back to Y.  Both X and Y can observe the creation of Z, so Y can know that it's secure and X can know that it's a passive observer rather than a bomb or something.  
+
+This model breaks the scenario, since a CDT playing the role of Y could self-modify any time before it hands over Z and play the game competently.
+
+Now, if there's some way for X to create proofs of X's source code that will be convincing to Y without giving advance notice to Y, I can imagine a problem for Y here.  Does anyone know how to do that?
+
+(I acknowledge that if nobody knows how to do that, that means we don't know how to do that, not that it can't be done.)
+
+Hmm, this explains my aversion to knowing the details of what other people are thinking.  It can put me at a disadvantage in negotiations unless I am able to lie convincingly and say I do not know.

@@ -1,0 +1,1 @@
+This is a small point but "E includes complex claim C" does not imply that the (for instance, Kolmogorov) complexity of E is as large as the Kolmogorov complexity of C.  The complexity of the digits of square root of 2 is pretty small, but they contain strings of arbitrarily high complexity.

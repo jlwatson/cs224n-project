@@ -1,0 +1,3 @@
+I would ordinarily vote down a post that restated things that most people on LW should already know, but... LW is curiously devoid of discussion on this issue, whether criticism of CEV, or proposals of alternatives.  And LP's post hits all the key points, very efficiently.
+
+If LW has a single cultural blind spot, it is that LWers claim to be Bayesians, yet routinely analyze potential futures as if the single "most-likely" scenario, hypothesis, or approach accepted as dogma on LessWrong (fast takeoff, Friendly AI, multiple worlds, CEV, etc.) had probability 1.

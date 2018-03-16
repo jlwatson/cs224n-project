@@ -1,0 +1,3 @@
+&gt;it seems to me that you can tell what things are ontologically primitive in in reality by looking at what objects the fundamental laws of physics keep track of and directly operate upon.
+
+Suppose some people constructed an AI which is programmed to experience the world in terms of ontologically primitive things from the get go, and construct the rest of its (non-primitive) ontology from there. Do you think an AI, experiencing only ontologically primitive things and their behaviors according to fundamental physical laws could discover the existence of, say, living things?

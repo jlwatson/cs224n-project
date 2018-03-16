@@ -1,0 +1,9 @@
+&gt; But there are analogs of one-shot true PD everywhere.
+
+Name a single one-shot true PD that any human has ever encountered in the history of time, and be sure to calculate the payoffs in inclusive fitness terms.
+
+Of course that's a rigged question - if you can tell me the name of the villain, I can either say "look how they didn't have any children" or "their children suffered from the dishonor brought upon their parent".  But still, I think you are taking far too liberal a view of what constitutes one-shotness.
+
+Empirically, humans ended up with both a sense of temptation and a sense of honor that, to the extent it holds, holds when no one is looking.  We have separate impulses for "cooperate because I might get caught" and "cooperate because it's the honorable thing to do".
+
+Regarding your other comment, "Do what my programmer would want me to do" is not formally defined enough for me to handle it - all the complexity is hidden in "would want".  Can you walk me through what you think a CDT agent self-modifies to if it's not "use TDT for future decisions where Omega glimpsed my code after 7am and use CDT for future decisions where Omega glimpsed my code before 7am"?  (Note that calculations about general population frequency count as "before 7am" from the crazed CDT's perspective, because you're reasoning from initial conditions that correlate to the AI's state before 7am rather than after it.)

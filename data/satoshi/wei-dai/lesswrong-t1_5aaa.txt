@@ -1,0 +1,3 @@
+It seems that in this post, by "selfish" you mean something like "not updateless" or "not caring about counterfactuals". A meaning closer to usual sense of the word would be, "caring about welfare of a particular individual" (including counterfactual instances of that individual, etc.), which seems perfectly amenable to being packaged as a reflectively consistent agent (that is not the individual in question) with world-determined utility function.
+
+(A reference to usage in Stuart's paper maybe? I didn't follow it.)

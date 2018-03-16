@@ -1,0 +1,1 @@
+And that for every X *except* x0, it is mysteriously impossible to build any computational system which generates a range of actions, predicts the consequences of those actions relative to some ontology and world-model, and then selects among probable consequences using criterion X.

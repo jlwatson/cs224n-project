@@ -1,0 +1,5 @@
+&gt;The use of early AIs to solve AI safety problems creates an attractor for "safe, powerful AI." 
+
+What kind of "AI safety problems" are we talking about here? If they are like the "FAI Open Problems" that Eliezer has been posting, they would require philosophers of the highest (perhaps even super-human) caliber to solve. How could "early AIs" be of much help?
+
+If "AI safety problems" here do not refer to FAI problems, then how do *those* problems get solved, according to this argument?

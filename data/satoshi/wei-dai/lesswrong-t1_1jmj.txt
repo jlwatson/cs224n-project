@@ -1,0 +1,9 @@
+Deontological arguments (apart from helping with "[running on corrupted hardware](http://lesswrong.com/lw/uv/ends_dont_justify_means_among_humans/)") are useful for the compression of moral values. It's much easier to check your one-line deontology, than to run a complicated utility function through your best estimate of the future world.
+
+A simple "do not murder" works better, for most people, than a complex utilitarian balancing of consequences and outcomes. And most deontological aguments are not rigid; they shade towards consequentialism when the consequences get too huge:
+
+* Freedom of speech is absolute - but don't shout fire in a crowded theatre.
+* Don't murder - except in war, or in self-defence.
+* Do not lie - but tell the nazis your cellars are empty of jews.
+
+Where denotology breaks down is when the situation is unusual: where simply adding extra patches doesn't work. When dealing with large quantities of odd minds in odd universes; or the human race over the span of eons; then it's time to break out the consequentialism, and accept that our moral intutions can no longer be deontologically compressed.

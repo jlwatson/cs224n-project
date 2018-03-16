@@ -1,0 +1,11 @@
+&gt;If someone is altruistic because they've maxed out their own egoistic values (or has gotten to severely diminishing returns), I certainly wouldn't count that against their rationality. But if "egoistic returns" include abstract values that the rest of humanity doesn't necessarily share, "large apparent asymmetry" is unclear to me.
+
+I just meant that it seems to be possible to improve a lot of other people's expected quality of life at the expense of relatively small decreases to one's own (but that people are generally not doing so), and that this seems like it should cause the outcome of a process with moral uncertainty between egoism and altruism to skew more toward the altruist side in some sense, though I don't understand how to deal with moral uncertainty (if anyone else does, I'd be interested in your answers to [this](http://lesswrong.com/lw/673/model_uncertainty_pascalian_reasoning_and/4d3y)). If by "abstract values" you mean something like making the universe as simple as possible by setting all the bits to zero, then I agree there's no asymmetry, but I wouldn't call that "egoistic" as such.
+
+&gt;Where did you say that? (I wrote Shut Up and Divide? which may or may not be relevant depending on what you mean by "the topic".)
+
+[Here](http://lesswrong.com/lw/4ga/lw_was_started_to_help_altruists/3kwo). Yes, SUAD was a good and relevant contribution.
+
+&gt;Why "surely", given that I'm not a random member of humanity, and may have more values in common with a less altruistic candidate than a more altruistic candidate?
+
+You're right that it's not certain that altruism in a FAI team candidate is, all else equal, more desirable. I guess I'm just saying that if it is, then sufficiently large differences in altruism outweigh sufficiently small differences in rationality.

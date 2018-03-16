@@ -1,0 +1,10 @@
+In metaethics, there are typically very good arguments against all known views, and only relatively weak arguments for each of them. For anything in philosophy, a good first stop is the [Stanford Encyclopedia of Philosophy](http://plato.stanford.edu/). Here are some articles on the topic at SEP:
+
+- [Moral Anti-Realism](http://plato.stanford.edu/entries/moral-anti-realism/)
+- [Moral Realism](http://plato.stanford.edu/entries/moral-realism/)
+- [Metaethics](http://plato.stanford.edu/entries/metaethics/)
+- [Moral Cognitivism vs Non-cognitivism](http://plato.stanford.edu/entries/moral-cognitivism/)
+
+I think the best book to read on metaethics is:
+
+- [An Introduction to Contemporary Metaethics](http://www.amazon.com/Introduction-Contemporary-Metaethics-Alex-Miller/dp/074562345X)

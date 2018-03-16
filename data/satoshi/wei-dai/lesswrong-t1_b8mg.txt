@@ -1,0 +1,9 @@
+&gt;This seems to imply that general intelligences are more powerful, as it basically bakes in diminishing returns - but we haven't included effort yet. Imagine that the following three intelligences require equal effort: (10,10,10), (20,20,5), (100,5,5). Then the specialised intelligence is definitely the one you need to build.
+
+The (100,5,5) AI seems kind of like a Hitler-AI, very good at manipulating people and taking power over human societies, but stupid about what to do once it takes over. We can imagine lots of narrow intelligences that are better at destruction than helping us reach a positive Singularity (or any kind of Singularity). We already know that FAI is harder than AGI, and if such narrow intelligences are easier than AGI, then we're even more screwed.
+
+&gt;So let's caveat the proposition above: the most effective and dangerous type of AI might be one with a bare minimum amount of general intelligence, but an overwhelming advantage in one type of narrow intelligence.
+
+I want to point out that a purely narrow intelligence (without even a bare minimum amount of general intelligence, i.e., a Tool-AI), becomes this type of intelligence if you combine it with a human. This is why I don't think Tool-AIs are safe.
+
+So I would summarize my current position as this: General intelligence is possible and what we need in order to reach a positive Singularity. Narrow intelligences that are powerful and dangerous may well be easier to build than general intelligence, so yes, we should be quite concerned about them.

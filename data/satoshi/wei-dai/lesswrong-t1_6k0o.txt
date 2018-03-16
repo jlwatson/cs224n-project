@@ -1,0 +1,11 @@
+If Holden believes that:    
+A) reducing existential risk is valuable, and   
+B) SI's effectiveness at reducing existential risk is a significant contributor to the future of existential risk, and   
+C) SI is being less effective at reducing existential risk than they would be if they fixed some set of problems P, and  
+D) withholding GiveWell's endorsement while pre-committing to re-evaluating that refusal if given evidence that P has been fixed increases the chances that SI will fix P...
+
+...it seems to me that Holden should withhold GiveWell's endorsement while pre-committing to re-evaluating that refusal if given evidence that P has been fixed.   
+
+Which seems to be what he's doing. (Of course, I don't know whether those are his reasons.)
+
+What, on your view, ought he do instead, if he believes those things?

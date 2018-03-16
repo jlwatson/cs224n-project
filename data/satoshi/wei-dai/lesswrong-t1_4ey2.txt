@@ -1,0 +1,5 @@
+&gt; Yes, I agree. An upper bound on the complexity of a friendly superintelligence would be the total information content of all human brains, but you could probably compress that a lot.
+
+False. The upper bound on the complexity of a Friendly&lt;all humans&gt; superintelligence is [(total information content of all brains) + (minimum complexity of a what it takes to identify a superintelligence with a defined goal of deriving its objective from a set of agents according to some mechanism that represents what it would mean to be 'friendly' to them)].
+
+ie. Just having all the information content of all human brains is not enough. You can't avoid defining Friendliness in the search program.

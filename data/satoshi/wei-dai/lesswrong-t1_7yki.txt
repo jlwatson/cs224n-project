@@ -1,0 +1,13 @@
+Did he ever get around to explaining this in more detail? I don't remember reading a reply to this, but I think I've just figured out the idea: Suppose you get word that Omega is coming to the neighbourhood and going to offer counterfactual muggings. What sort of algorithm do you want to self-modify into? You don't know *what* CMs Omega is going to offer; all you know is that it will offer odds according to its well-calibrated prior. Thus, it has higher expected utility to be a CM-accepter than a CM-rejecter, and even a CDT agent would want to self-modify.
+
+I don't think that's a problem for UDT, though. What UDT will compute when asked to pay is the expected utility under its prior of paying up *when Omega asks it to*; thus, the condition for UDT to pay up is **NOT**
+
+    prior probability of heads * Omega's offered payoff  &gt;  prior of tails * Omega's price
+
+but
+
+    prior of (heads and Omega offers a CM for this coin) * payoff  &gt;  prior of (tails and CM) * price.
+
+In other words, UDT takes the quality of Omega's predictions into account and acts as if updating on them (the same way you would update if Omega told you who it expects to win the next election, at 98% probability).
+
+CDT agents, as usual, will actually want to self-modify into a UDT agent whose prior equals the CDT agent's posterior [**ETA:** wait, sorry, no, they won't act as if they can acausally control other instances of the same program, but they *will* self-modify so as to make future instances of themselves (which obviously they control causally) act in a way that maximizes EU according to the agent's *present* posterior, and that's what we need here], and will use the second formula above accordingly -- they don't want to be a general CM-rejecter, but they think that they can do even better than being a general CM-accepter if they refuse to pay up if *at the time of self-modification* they assigned low probability to tails, even conditional on Omega offering them a CM.

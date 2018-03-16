@@ -1,0 +1,180 @@
+&gt; &gt; How I came up with that mathematical intuition is an open problem.
+&gt;
+&gt; No it's not, you've chosen it so that it "proves" what we believe to be a correct conclusion.
+
+This is kind of interesting.  In Wei's [problem](http://lesswrong.com/lw/1s5/explicit_optimization_of_global_strategy_fixing_a/), I believe that I can force a winning mathematical intuition with just a few additional conditions, none of which assume that we know the correct conclusion.  They seem like reasonable conditions to me, though maybe further reflection will reveal counterexamples.
+
+Using my notation from [this comment](http://lesswrong.com/lw/2bt/udt_agents_as_deontologists/251g), we have to find right-hand values for the following 16 equations.
+
+    M(1, A, E) = .   M(1, A, F) = .   M(1, A, G) = .   M(1, A, H) = .
+
+    M(1, B, E) = .   M(1, B, F) = .   M(1, B, G) = .   M(1, B, H) = .
+
+    M(2, A, E) = .   M(2, A, F) = .   M(2, A, G) = .   M(2, A, H) = .
+
+    M(2, B, E) = .   M(2, B, F) = .   M(2, B, G) = .   M(2, B, H) = .
+
+In addition to the conditions that I mentioned in that comment, I add the following,
+
+* *Binary*: Each probability distribution M(X, Y, –) is binary.  That is, the mathematical intuition is certain about which execution history would follow from a given output on a given input.
+
+* *Accuracy*: The mathematical intuition, being certain, should be *accurate*.  That is, if the agent expects a certain amount of utility when it produces its output, then it should really get that utility.
+
+(Those both seem sorta plausible in such a simple problem.)
+
+* *Counterfactual Accuracy*: The mathematical intuition should behave well under counterfactual surgery, in the sense that I used in the edit to the comment linked above.  More precisely, suppose that the algorithm outputs Y*i* on input X*i* for all *i*.  Suppose that, for a single fixed value of *j*, we surgically interfered with the algorithm's execution to make it output Y'*j* instead of Y*j* on input X*j*.  Let E' be the execution history that would result from this.  Then we ought to have that M(X*j*, Y'*j*, E') = 1.
+
+I suspect that the counterfactual accuracy condition needs to be replaced with something far more subtle to deal with other problems, even in the binary case.
+
+Nonetheless, it seems interesting that, in this case, we don't need to use any prior knowledge about which mathematical intuitions win.
+
+I'll proceed by filling in the array above entry-by-entry.  We can fill in half the entries right away from the definitions of the execution histories:
+
+    M(1, A, E) = .   M(1, A, F) = .   M(1, A, G) = 0   M(1, A, H) = 0
+
+    M(1, B, E) = 0   M(1, B, F) = 0   M(1, B, G) = .   M(1, B, H) = .
+
+    M(2, A, E) = .   M(2, A, F) = 0   M(2, A, G) = .   M(2, A, H) = 0
+
+    M(2, B, E) = 0   M(2, B, F) = .   M(2, B, G) = 0   M(2, B, H) = .
+
+
+Now we have to consider cases.  Starting with the upper-left corner, the value of M(1, A, E) will be either 0 or 1.
+
+**Case I**: Suppose that M(1, A, E) = 0.  Normalization forces M(1, A, F) = 1:
+
+    M(1, A, E) = 0   M(1, A, F) = 1   M(1, A, G) = 0   M(1, A, H) = 0
+
+    M(1, B, E) = 0   M(1, B, F) = 0   M(1, B, G) = .   M(1, B, H) = .
+
+    M(2, A, E) = .   M(2, A, F) = 0   M(2, A, G) = .   M(2, A, H) = 0
+
+    M(2, B, E) = 0   M(2, B, F) = .   M(2, B, G) = 0   M(2, B, H) = .
+
+Now, in the second row, the value of M(1, B, G) will be either 0 or 1.
+
+*Case I A*: Suppose that M(1, B, G) = 0.  Normalization forces M(1, B, H) = 1:
+
+    M(1, A, E) = 0   M(1, A, F) = 1   M(1, A, G) = 0   M(1, A, H) = 0
+
+    M(1, B, E) = 0   M(1, B, F) = 0   M(1, B, G) = 0   M(1, B, H) = 1
+
+    M(2, A, E) = .   M(2, A, F) = 0   M(2, A, G) = .   M(2, A, H) = 0
+
+    M(2, B, E) = 0   M(2, B, F) = .   M(2, B, G) = 0   M(2, B, H) = .
+
+We have filled in enough entries to see that Run1 will output A.  (Recall that U(F) = 20 and U(H) = 0.)  Thus, if Run2 outputs A, then E will happen, not G.  Similarly, if Run2 outputs B, then F will happen, not H.  This allows us to complete the mathematical intuition function:
+
+    M(1, A, E) = 0   M(1, A, F) = 1   M(1, A, G) = 0   M(1, A, H) = 0
+
+    M(1, B, E) = 0   M(1, B, F) = 0   M(1, B, G) = 0   M(1, B, H) = 1
+
+    M(2, A, E) = 1   M(2, A, F) = 0   M(2, A, G) = 0   M(2, A, H) = 0
+
+    M(2, B, E) = 0   M(2, B, F) = 1   M(2, B, G) = 0   M(2, B, H) = 0
+
+Under this mathematical intuition function, Run1 outputs A and Run2 outputs B.  Moreover, this function meets the counterfactual accuracy condition.  Note that **this function wins**.
+
+
+*Case I B*: Suppose that M(1, B, G) = 1 in the second row.  Normalization forces M(1, B, H) = 0:
+
+    M(1, A, E) = 0   M(1, A, F) = 1   M(1, A, G) = 0   M(1, A, H) = 0
+
+    M(1, B, E) = 0   M(1, B, F) = 0   M(1, B, G) = 1   M(1, B, H) = 0
+
+    M(2, A, E) = .   M(2, A, F) = 0   M(2, A, G) = .   M(2, A, H) = 0
+
+    M(2, B, E) = 0   M(2, B, F) = .   M(2, B, G) = 0   M(2, B, H) = .
+
+In this case, Run1 will need to use a tie-breaker, because it predicts utility 20 from both outputs.  There are two cases, one for each possible tie-breaker.
+
+Case I B i:  Suppose that the tie-breaker leads Run1 to output A.  If Run2 outputs A, then E will happen, not G.  And if Run2 outputs B, then F will happen, not H.  This gives us a complete mathematical intuition function:
+
+    M(1, A, E) = 0   M(1, A, F) = 1   M(1, A, G) = 0   M(1, A, H) = 0
+
+    M(1, B, E) = 0   M(1, B, F) = 0   M(1, B, G) = 1   M(1, B, H) = 0
+
+    M(2, A, E) = 1   M(2, A, F) = 0   M(2, A, G) = 0   M(2, A, H) = 0
+
+    M(2, B, E) = 0   M(2, B, F) = 1   M(2, B, G) = 0   M(2, B, H) = 0
+
+Hence, Run2 will output B.  But this function fails the counterfactual accuracy condition.  It predicts execution history G if Run1 were to output B, when in fact the execution history would be H.  Thus we **throw out this function**.
+
+Case I B ii:  Suppose that the tie-breaker leads Run1 to output B.  Then, similar to Case I B i, the resulting function fails the counterfactual accuracy test.  (Run2 will output A.  The resulting function predicts history F if Run1 were to output A, when in fact the history would be E.)  Thus we **throw out this function**.
+
+Therefore, in Case I, all functions either win or are ineligible.
+
+
+**Case II**: Suppose that M(1, A, E) = 1.  Normalization forces M(1, A, F) = 0, getting us to
+
+    M(1, A, E) = 1   M(1, A, F) = 0   M(1, A, G) = 0   M(1, A, H) = 0
+
+    M(1, B, E) = 0   M(1, B, F) = 0   M(1, B, G) = .   M(1, B, H) = .
+
+    M(2, A, E) = .   M(2, A, F) = 0   M(2, A, G) = .   M(2, A, H) = 0
+
+    M(2, B, E) = 0   M(2, B, F) = .   M(2, B, G) = 0   M(2, B, H) = .
+
+Now, in the second row, the value of M(1, B, G) will be either 0 or 1.
+
+*Case II A*:  Suppose that M(1, B, G) = 0.  Normalization forces M(1, B, H) = 1:
+
+    M(1, A, E) = 1   M(1, A, F) = 0   M(1, A, G) = 0   M(1, A, H) = 0
+
+    M(1, B, E) = 0   M(1, B, F) = 0   M(1, B, G) = 0   M(1, B, H) = 1
+
+    M(2, A, E) = .   M(2, A, F) = 0   M(2, A, G) = .   M(2, A, H) = 0
+
+    M(2, B, E) = 0   M(2, B, F) = .   M(2, B, G) = 0   M(2, B, H) = .
+
+In this case, Run1 will need to use a tie-breaker, because it predicts utility 0 from both outputs.  There are two cases, one for each possible tie-breaker.
+
+Case II A i:  Suppose that the tie-breaker leads Run1 to output A.  If Run2 outputs A, then E will happen, not G.  And if Run2 outputs B, then F will happen, not H.  This gives us a complete mathematical intuition function:
+
+    M(1, A, E) = 1   M(1, A, F) = 0   M(1, A, G) = 0   M(1, A, H) = 0
+
+    M(1, B, E) = 0   M(1, B, F) = 0   M(1, B, G) = 0   M(1, B, H) = 1
+
+    M(2, A, E) = 1   M(2, A, F) = 0   M(2, A, G) = 0   M(2, A, H) = 0
+
+    M(2, B, E) = 0   M(2, B, F) = 1   M(2, B, G) = 0   M(2, B, H) = 0
+
+Hence, Run2 will output B.  But this function fails the accuracy condition.  Run1 expects utility 0 for its output, when in fact it will get utility 20.  Thus we **throw out this function**.
+
+Case II A ii: Suppose that the tie-breaker leads Run1 to output B.  If Run2 outputs A, then G will happen, not E.  And if Run2 outputs B, then H will happen, not F.  This gives us a complete mathematical intuition:
+
+    M(1, A, E) = 1   M(1, A, F) = 0   M(1, A, G) = 0   M(1, A, H) = 0
+
+    M(1, B, E) = 0   M(1, B, F) = 0   M(1, B, G) = 0   M(1, B, H) = 1
+
+    M(2, A, E) = 0   M(2, A, F) = 0   M(2, A, G) = 1   M(2, A, H) = 0
+
+    M(2, B, E) = 0   M(2, B, F) = 0   M(2, B, G) = 0   M(2, B, H) = 1
+
+Hence, Run2 will output A.  But this function fails the accuracy condition.  Run1 expects utility 0 for its output, when in fact it will get utility 20.  Thus we **throw out this function**.
+
+Case II B:  Suppose that M(1, B, G) = 1.  Normalization forces M(1, B, H) = 0:
+
+    M(1, A, E) = 1   M(1, A, F) = 0   M(1, A, G) = 0   M(1, A, H) = 0
+
+    M(1, B, E) = 0   M(1, B, F) = 0   M(1, B, G) = 1   M(1, B, H) = 0
+
+    M(2, A, E) = .   M(2, A, F) = 0   M(2, A, G) = .   M(2, A, H) = 0
+
+    M(2, B, E) = 0   M(2, B, F) = .   M(2, B, G) = 0   M(2, B, H) = .
+
+We have filled in enough entries to see that Run1 will output B.  (Recall that U(E) = 0 and U(G) = 20.)  Thus, if Run2 outputs A, then G will happen, not E.  Similarly, if Run2 outputs B, then H will happen, not F.  This allows us to complete the mathematical intuition function:
+
+    M(1, A, E) = 1   M(1, A, F) = 0   M(1, A, G) = 0   M(1, A, H) = 0
+
+    M(1, B, E) = 0   M(1, B, F) = 0   M(1, B, G) = 1   M(1, B, H) = 0
+
+    M(2, A, E) = 0   M(2, A, F) = 0   M(2, A, G) = 1   M(2, A, H) = 0
+
+    M(2, B, E) = 0   M(2, B, F) = 0   M(2, B, G) = 0   M(2, B, H) = 1
+
+Under this mathematical intuition function, Run1 outputs B and Run2 outputs A.  Moreover, this function meets the counterfactual accuracy condition.  Note that **this function wins**.
+
+Therefore, all cases lead to mathematical intuitions that either win or are ineligible.
+
+**ETA**: And I just discovered that there's a length-limit on comments.

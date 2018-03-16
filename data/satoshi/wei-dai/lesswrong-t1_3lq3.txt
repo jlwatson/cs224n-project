@@ -1,0 +1,3 @@
+It occurs to me that an important question is, if it turns out that our universe actually contains a halting oracle (or even more powerful oracles), can an AI programmed with the Solomonoff prior exploit it properly (i.e., do no worse than a human) to accomplish its goals? This question is not really captured by any of the three games, since they all force the player to make guesses without being able to interact with the universe.
+
+It seems hard to think of a game that *does* capture this question. Can anyone think of such a game?

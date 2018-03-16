@@ -1,0 +1,5 @@
+Yes. The problem is not the Hell scenarios, the problem is that we can make them artificially probable via language choice.
+
+&gt;I think this shows how the whole "language independent up to a constant" thing is basically just a massive cop-out.
+
+Some results are still true. An exploring agent (if it survives) will converge on the right environment, independent of language. And episodic environments do allow AIXI to converge on optimal behaviour (as long as the discount rate is gradually raised).

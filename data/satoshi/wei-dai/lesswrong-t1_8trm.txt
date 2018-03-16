@@ -1,0 +1,3 @@
+&gt; since my understanding is that Satoshi was not aware of either b-money or Bit Gold (both of which BTW were also developed outside of academia/government/industry) before he wrote his paper, and had reinvented the idea on his own.
+
+You've previously said that Satoshi was not aware of b-money (incidentally, [Adam Back](https://bitcointalk.org/index.php?topic=15672.msg1873483#msg1873483) recently took credit for telling Satoshi about b-money), but this is the first I've heard anyone suggest that Satoshi was unaware of Szabo's Bit Gold. What makes you say that?

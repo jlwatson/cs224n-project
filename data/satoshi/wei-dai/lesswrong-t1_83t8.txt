@@ -1,0 +1,4 @@
+&gt; Which kind of model does an instrumentalist use to guide their actions in this situation?
+
+In what situation? Calculus of infinitesimals is a convenient tool invented by Newton and Leibnitz to calculate planetary orbits and other things. The same can be done with differences and not differentials (and is, for numerical calculations), but requires more work. The situation is similar in most other areas. Kronecker delta is a convenient tool in physics and electrical engineering, without necessarily meaning that there is an infinitely strong and infinitely short spike of current somewhere in your circuit.
+ 

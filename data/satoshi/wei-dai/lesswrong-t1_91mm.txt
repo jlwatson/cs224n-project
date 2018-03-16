@@ -1,0 +1,17 @@
+I don't think it is; you can't even frame it as 'the beginning of the end' because the market doesn't seem perturbed at all - the current *MtGox* rate is $132!
+
+---
+
+However, this is a good excuse to post an interesting excerpt I found recently as any. On [11 January 2009](http://www.mail-archive.com/cryptography@metzdowd.com/msg10152.html), Hal Finney wrote:
+
+&gt; As an amusing thought experiment, imagine that Bitcoin is successful and
+becomes the dominant payment system in use throughout the world.  Then the
+total value of the currency should be equal to the total value of all
+the wealth in the world. Current estimates of total worldwide household
+wealth that I have found range from $100 trillion to $300 trillion. With
+20 million coins, that gives each coin a value of about $10 million. So the possibility of generating coins today with a few cents of compute
+time may be quite a good bet, with a payoff of something like 100 million
+to 1! Even if the odds of Bitcoin succeeding to this degree are slim,
+are they really 100 million to one against? Something to think about...
+
+If Bitcoin goes to $10m per coin, does that mean we get an anti-anti-Pascal's-mugging rhetorical weapon where we can say '100m to one payoffs do exist in the real world, look at Bitcoin!'?

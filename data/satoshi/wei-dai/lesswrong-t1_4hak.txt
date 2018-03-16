@@ -1,0 +1,29 @@
+&gt; But that assumes that two sides of the disagreement are both Taboo'ing correctly.
+
+Not sure what 'correctly' means, here. I'd feel safer saying they were both Tabooing 'acceptably'. In the above example, Albert and Barry were both Tabooing 'acceptably.' It would have been strange and unhelpful if one of them had Tabooed 'sound' to mean 'rodents on the moon'. But Tabooing 'sounds' to talk about auditory experiences or acoustic vibrations is fine, because those are two commonly used meanings for 'sound'. Likewise, 'stipulated meaning' and 'intuitive meaning' and a few other things are commonly used meanings of 'meaning.'
+
+If you're saying that there's "only one correct meaning for 'meaning'" or "only one correct meaning for 'ought'", then I'm not sure what to make of that, since humans employ the word-tool 'meaning' and the word-tool 'ought' in a variety of ways. If whatever you're saying predicts otherwise, then what you're saying is empirically incorrect. But that's so obvious that I keep assuming you must be saying something else.
+
+Also [relevant](http://lesswrong.com/lw/o0/where_to_draw_the_boundary/):
+
+&gt; Just because there's a word "art" doesn't mean that it has a meaning, floating out there in the void, which you can discover by finding the right definition.
+
+&gt; It [feels that way](http://lesswrong.com/lw/nq/feel_the_meaning/), but it is not so.
+
+&gt; Wondering how to define a word means you're looking at the problem the wrong way - searching for the mysterious essence of what is, in fact, a [communication signal](http://lesswrong.com/lw/nr/the_argument_from_common_usage/).
+
+Another point. Switching back to a particular 'conventional' meaning that doesn't match the stipulative meaning you just gave a word is one of the [ways words can be wrong](http://lesswrong.com/lw/od/37_ways_that_words_can_be_wrong/) (#4).
+
+And frankly, I'm worried that we are falling prey to the 14th way words can be wrong:
+
+&gt; You argue about a category membership even after screening off all questions that could possibly depend on a category-based inference. After you observe that an object is blue, egg-shaped, furred, flexible, opaque, luminescent, and palladium-containing, what's left to ask by arguing, "Is it a blegg?"  But if your brain's categorizing neural network contains a (metaphorical) central unit corresponding to the inference of blegg-ness, it may still feel like there's a leftover question.
+
+And, the 17th way words can be wrong:
+
+&gt; You argue over the meanings of a word, even after all sides understand perfectly well what the other sides are trying to say.  The human ability to associate labels to concepts is a tool for communication.  When people want to communicate, we're hard to stop; if we have no common language, we'll draw pictures in sand.  When you each understand what is in the other's mind, you are done.
+
+Now, I suspect you may be trying to say that I'm committing mistake #20:
+
+&gt; You defy common usage without a reason, making it gratuitously hard for others to understand you.  Fast stand up plutonium, with bagels without handle.
+
+But I've pointed out that, for example, stipulative meaning *is* a very common usage of 'meaning'...

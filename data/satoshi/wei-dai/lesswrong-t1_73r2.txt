@@ -1,0 +1,17 @@
+&gt;They're not explicitly trying to solve this problem because they don't think it's going to be a problem with their current approach of implementing goals.
+
+They do not expect foom either.
+
+&gt; Well such an AGI isn't very useful 
+
+You can still have formally defined goals - satisfy conditions on equations, et cetera. Defined internally, without the problematic real world component. Use this for e.g. designing reliable cellular machinery ('cure cancer and senescence'). Seems very useful to me.
+
+&gt; so wouldn't they just keep trying until they stumble onto a motivational system that isn't so prone to nihilism?
+
+How long would it take you to 'stumble' upon some goal for the UDT that translates to something actually real?
+
+&gt; Similarly, if we let evolution of humans continue, wouldn't humans pretty soon have a motivational system for reproduction that we won't want to cleverly work around?
+
+The evolution destructively tests designs against reality. Humans do have various motivational systems there, such as religion, btw.
+
+I am not sure how you think a motivational system for reproduction could work, so that we would not embrace a solution that actually does not result in reproduction. (Given sufficient intelligence)

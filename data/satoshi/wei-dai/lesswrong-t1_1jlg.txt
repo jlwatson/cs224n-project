@@ -1,0 +1,5 @@
+&gt; When I ask myself "what is rationality?" I think the computation I'm doing in my head is also about something external to me
+
+Well, if you're asking about human rationality, then the prudent-way-to-think involves lots of empirical info about the actual flaws in human cognition, and so on.  If you're asking about rationality in the sense of probability theory, then the only reference to the actual that I can discern is about anthropics and possibly prudent priors - things like the Dutch Book Argument are math, which we find compelling because of our values.
+
+If you think that we're referring to something else - what is it, where is it stored?  Is there a stone tablet somewhere on which these things are written, on which I can scrawl graffiti to alter the very fabric of rationality?  Probably not - so where are the facts that the discourse is about, in your view?

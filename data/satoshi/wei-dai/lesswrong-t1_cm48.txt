@@ -1,0 +1,19 @@
+
+&gt;It also does not explain why birds are better at language tasks than cats. Cat brains are much larger. The training rewards in the lab are the same. And, yet, cats significantly underperform parrots at every single language-related task we can come up with. Why? Because the parrots have had a greater evolutionary pressure to be good at language-style tasks - and, as a result, they have evolved task-specific neurological algorithms to make it easier.
+
+Cat brains are much larger, but physical size is irrelevant.  What matters is neuron/synapse count.
+
+According to my ULM theory - the most likely explanation for the superior learning ability of parrots is a larger number of neurons/synapses in their general learning modules - (whatever the equivalent of the cortex is in birds)  and thus more computational power available for general learning.
+
+Stop right now, and consider this bet - I will bet that parrots have *more* neurons/synapses in their cortex-equivalent brain regions than cats.
+
+Now a little google searching leads to this [blog article](http://mosaicscience.com/extra/does-brain-size-matter) which summarizes this recent research - [Complex brains for complex cognition - neuronal scaling rules for bird brains](http://www.abstractsonline.com/Plan/ViewAbstract.aspx?sKey=29a54d34-b73c-4003-ba28-3e9b0855a22d&amp;cKey=f2f31538-c6da-48b2-92c9-b47be0ff9665&amp;mKey=54c85d94-6d69-4b09-afaa-502c0e680ca7),
+
+
+From the abstract:
+
+&gt; We show that in parrots and songbirds the total brain mass as well as telencephalic mass scales approximately linearly with the total number of neurons, i.e. neuronal density does not change significantly as brains get larger. The neuronal densities in the telencephalon exceed those observed in the cerebral cortex of primates by a factor of 2-8. As a result, the numbers of telencephalic neurons in the brains of the largest birds examined (raven, kea and macaw) equal or exceed those observed in the cerebral cortex of many species of monkeys. 
+
+&gt;Finally, our findings of comparable numbers of neurons in the cerebral cortex of medium-sized primates and in the telencephalon of large parrots and songbirds (particularly corvids) strongly suggest that large numbers of forebrain neurons, and hence a large computational capacity, underpin the behavioral and cognitive complexity reported for parrots and songbirds, despite their small brain size.
+
+The telencephalon is believed to be the equivalent of the cortex in birds.  The cortex of the smallest monkeys have about 400 million neurons, whereas the cat's cortex has about 300 million neurons.  A medium sized monkey such as a night monkey has more than 1 billion cortical neurons.

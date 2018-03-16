@@ -1,0 +1,19 @@
+That's a great example. I'll reproduce it here for readability of this thread:
+
+&gt; Consider a hypothetical debate between two decision theorists who happen to be Taboo fans:
+
+&gt; A: It's rational to two-box in Newcomb's problem. 
+&gt; B: No, one-boxing is rational. 
+&gt; A: Let's taboo "rational" and replace it with math instead. What I meant was that two-boxing is what CDT recommends. 
+&gt; B: Oh, what I meant was that one-boxing is what EDT recommends. 
+&gt; A: Great, it looks like we don't disagree after all!
+
+&gt; What did these two Taboo'ers do wrong, exactly?
+
+I'd rather not talk about 'wrong'; that makes things messier. But let me offer a few comments on what happened:
+
+1. If this conversation occurred at a decision theory meetup known to have an even mix of CDTers and EDTers, then it was perhaps inefficient (for communication) for either of them to use 'rational' to mean either CDT-rational or EDT-rational. That strategy was only going to cause confusion until Tabooing occurred.
+
+2. If this conversation occurred at a decision theory meetup for CDTers, then person A might be forgiven for assuming the other person would think of 'rational' in terms of 'CDT-rational'. But then person A used Tabooing to discover that an EDTer had snuck into the party, and they don't disagree about the solutions to Newcomb's problem recommended by EDT and CDT.
+
+3. In either case, once they've had the conversation quoted above, they are correct that they don't disagree about the solutions to Newcomb's problem recommended by EDT and CDT. Instead, their disagreement lies elsewhere. They still disagree about what action has the highest expected value when an agent is faced with Newcomb's dilemma. Now that they've cleared up their momentary confusion about 'rational', they can move on to discuss the point at which they really *do* disagree. Tabooing for the win.

@@ -1,0 +1,5 @@
+Two other examples that I'm familiar with:
+
+In the mid 1990s, cryptographers at Microsoft were talking (at least privately, to each other) about how DRM technology is hopeless, which has turned out to be the case as every copy protection for mass market products (e.g., DVDs, Blu-Rays, video games, productivity software) has been quickly broken.
+
+A bit more than 10 years ago I saw that the economics of computer security greatly favored the offense (i.e., the cyberweapon will always get through) and [shifted](http://lesswrong.com/lw/dq9/work_on_security_instead_of_friendliness/) my attention away from that field as a result. This still seems to be the case today, maybe to an even greater extent.

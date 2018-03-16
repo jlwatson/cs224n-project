@@ -1,0 +1,11 @@
+I like this splitup!
+
+(From the great-grandparent.)
+
+&gt; Eliezer's standard use of 'logical' takes the 'abstract' part of logicalish vibes and runs with them; he adopts the convention that sufficiently careful purely abstract reasoning (i.e., reasoning without reasoning about any particular spatiotemporal thing or pattern) is 'logical,' whereas reasoning about concrete things-in-the-world is 'physical.'
+
+I think I want to make a *slightly* stronger claim than this; i.e. that by logical discourse we're thinning down a universe of possible models using axioms.
+
+One thing I didn't go into, in this epistemology sequence, is the notion of 'effectiveness' or 'formality', which is important but I didn't go into as much because my take on it feels much more standard - I'm not sure I have anything more to say about what constitutes an 'effective' formula or axiom or computation or physical description than other workers in the field.  This carries a lot of the load in practice in reductionism; e.g., the problem with irreducible fear is that you have to appeal to your own brain's native fear mechanisms to carry out predictions about it, and you can never write down what it looks like.  But after we're done being effective, there's still the question of whether we're navigating to a part of the physical universe, or narrowing down mathematical models, and by 'logical' I mean to refer to the latter sort of thing rather than the former.  The load of talking about sufficiently careful reasoning is mostly carried by 'effective' as distinguished from empathy-based predictions, appeals to implicit knowledge, and so on.
+
+I also don't claim to have given morality an effective description - my actual moral arguments generally consist in appealing to implicit and hopefully shared reasons-for-action, not derivations from axioms - but the metaphysical and normative claim is that these reasons-for-action both have an effective description (descriptively speaking) and that any idealized or normative version of them would still have an effective description (normatively speaking).

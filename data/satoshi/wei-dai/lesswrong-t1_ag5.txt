@@ -1,0 +1,1 @@
+*Look* innocent to a cursory human inspection, yes.  But if hardware is designed to be deterministically cooperative/coordinating and to provably *not* be a backdoor in combination with larger hardware, that sounds like something that should be provable if the hardware was designed with that provability in mind.

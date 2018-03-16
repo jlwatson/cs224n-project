@@ -1,0 +1,5 @@
+Thanks for referring to my comment :-) but now I think it wasn't very good. Today my view of these things is much simpler.
+
+Formal theories like PA support self-reference by the [diagonal lemma](http://en.wikipedia.org/wiki/Diagonal_lemma), a.k.a. quining. You can formulate statements like "this statement is not provable", which will in fact be true and not provable. But you can't formulate "this statement is false" or "this statement is true", due to [Tarski's undefinability of truth](http://en.wikipedia.org/wiki/Tarski's_undefinability_theorem).
+
+That's pretty much the whole story to me. If the liar statement can't be formulated in any formal theory, then it can't be part of any math I care about. Thinking in terms of formal theories also gives simple answers to many other paradoxes, like [Berry's paradox](http://en.wikipedia.org/wiki/Berry_paradox) and the [Unexpected Hanging paradox](http://en.wikipedia.org/wiki/Unexpected_hanging_paradox).

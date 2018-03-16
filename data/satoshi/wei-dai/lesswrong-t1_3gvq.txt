@@ -1,0 +1,5 @@
+This is actually a useful way of looking at what metaethics (decision theory) is: tools for self-improvement, explaining specific ways in which correctness of actions (or correctness of other tools of the same kind) can be judged. In this sense, useless metaethics is one that doesn't help you with determining what should be done, and wrong metaethics is one that's actively stupid, suggesting you to do things that you clearly shouldn't (for FAI based on that metaethics, correspondingly doing things that it shouldn't). 
+
+In this sense, the injunction of doing nothing in response to failed assumptions (i.e. no coherence actually present) in CEV is not stupid, since your own non-extrapolated mind is all you'll end up with in case CEV shuts down. It is a contingency plan for the case it turns out to be useless.
+
+(I find new obvious things everywhere after the recent realization that any explicit consideration an agent knows is subject to whole agent's judgment, even "preference" or "logical correctness". This also explains a bit of our talking past each other in the other thread.)

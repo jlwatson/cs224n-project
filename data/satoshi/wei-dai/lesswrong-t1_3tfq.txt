@@ -1,0 +1,7 @@
+Couldn't you ask the same question of any UDT agent? It seems like messy philosophical territory, but that people here implicitly wade into frequently. 
+
+Here is what I think I mean: I can control logical facts, insofar as they depend on my thoughts, but the question is: what do I want to achieve by that control? I care about the content of conscious experience, but what exactly is it that I value? 
+
+I have a preference over the possible observer-moments which I personally may experience--I can consider two probability distributions over observer-moments and decide which one it would rather experience. A probability distribution is a mental construct which I need to give as an input to my preference ordering. 
+
+The question is: how do I use this built in notion of preference to discriminate between two resolutions of my uncertainty about logical facts? My plan is to define a probability distribution over observer-moments and subject this distribution to my intuitive preferences. Then I can choose to determine logical facts to make this single fixed probability distribution over observer-moments as desirable as possible.

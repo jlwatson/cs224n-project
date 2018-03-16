@@ -1,0 +1,3 @@
+Stuart, I think this paradox is not related to Counterfactual Mugging, but is purely Sleeping Beauty. Consider the following modification to your setup, which produces a decision problem with the same structure:
+
+If the coin comes up heads, Omega does not simulate you, but simply asks you to give him £100. If you agree, he gives you back £360. If you don't, no consequences ensue.

@@ -1,0 +1,51 @@
+Will and I just spoke on the phone, so here's another way to present our discussion:
+
+Imagine a species of artificial agents. These agents have a list of belief statements that relate physical phenomena to normative properties (let's call them 'moral primitives'):
+
+- 'Liking' reward signals in human brains are good.
+- Causing physical pain in human infants is forbidden.
+- etc.
+
+These agents also have a list of belief statements about physical phenomena in general:
+
+- Sweet tastes on the tongue produces reward signals in human brains.
+- Cutting the fingers of infants produces physical pain in infants.
+- Things are made of atoms.
+- etc.
+
+These agents also have an 'ought' function that includes a series of logical statements that relate normative concepts to each other, such as:
+
+- A thing can't be both permissible and forbidden.
+- A thing can't be both obligatory and non-obligatory.
+- etc.
+
+Finally, these robots have actuators that are activated by a series of rules like:
+
+- When the agent observes an opportunity to perform an action that is 'obligatory', then it will take that action.
+- An agent will avoid any action that is labeled as 'forbidden.'
+
+Some of these rules might include utility functions that encode ordinal or cardinal value for varying combinations of normative properties.
+
+These agents can't see their own source code. The combination of the moral primitives and the ought function and the non-ought belief statements and a set of rules about behavior produces their action and their verbal statements about what ought to be done.
+
+From their behavior and verbal ought statements these robots can infer to some degree how their ought function works, but they can't fully describe their ought function because they haven't run enough tests or the ought function is just too complicated or the problem is made worse because they also can't see their moral primitives.
+
+The ought function doesn't reduce to physics because it's a set of purely logical statements. The 'meaning' of ought in this sense is determined by the role that the ought function plays in producing intentional behavior by the robots.
+
+Of course, the robots could speak in ought language in stipulated ways, such that 'ought' means 'that which produces pleasure in human brains' or something like that, and this could be a useful way to communicate efficiently, but it wouldn't capture what the ought function is doing or how it is contributing to the production of behavior by these agents. 
+
+What Will is saying is that it's convenient to use 'ought' language to refer to this ought function only, and not also to a combination of the ought function and statements about physics, as happens when we stipulatively use 'ought' to talk about 'that which produces well-being in conscious creatures' (for example).
+
+I'm saying that's fine, but it can also be convenient (and intuitive) for people to use 'ought' language in ways that reduce to logical-physical statements, and not only in ways that express a logical function that contains only transformations between normative properties. So we don't have substantive disagreement on this point; we merely have different intuitions about the pragmatic value of particular uses for 'ought' language.
+
+We also drew up a simplified model of the production of human action in which there is a cognitive module that processes the 'ought' function (made of purely logical statements like in the robots' ought function), a cognitive module that processes habits, a cognitive module that processes reflexes, and so on. Each of these produces an output, and another module runs arg(max) on these action options to determine which actions 'wins' and actually occurs.
+
+Of course, the human 'ought' function is probably spread across multiple modules, as is the 'habit' function.
+
+Will likes to think of the 'meaning' of 'ought' as being captured by the algorithm of this 'ought' function in the human brain. This ought function doesn't contain physical beliefs, but rather processes primitive normative/moral beliefs (from outside the ought function) and outputs *particular* normative/moral judgments, which contribute to the production of human behavior (including spoken moral judgments). In this sense, 'ought' in Will's sense of the term doesn't reduce to physical facts, but to a logical function.
+
+I'm fine with Will using 'ought' in that sense if he wants. I'll try to be clear how *I* am using the term when I use it.
+
+Will also thinks that the 'ought' function (in his sense) inside human brains is probably very similar between humans - ones that aren't brain damaged or neurologically deranged. I don't know how probable this is because cognitive neuroscience hasn't progressed that far. But if the 'ought' function is the same in all healthy humans, then there needn't be a separate 'meaning' of ought (in Will's sense) for each speaker, but instead there could be a shared 'meaning' of ought (in Will's sense) that is captured by the algorithms of the 'ought' cognitive module that is shared by healthy human brains.
+
+Will, did I say all of that correctly?

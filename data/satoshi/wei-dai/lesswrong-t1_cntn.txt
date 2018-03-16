@@ -1,0 +1,1 @@
+If we find a mathematical formula describing the "subjectively correct" prior P and give it to the AI, the AI will still effectively use a different prior initially, namely the convolution of P with some kind of "logical uncertainty kernel". IMO this means we still need a learning phase.

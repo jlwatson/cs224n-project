@@ -1,0 +1,5 @@
+&gt; We humans seem at best just barely smart enough to build a superintelligent UFAI.
+
+I haven't unpacked the intuition, but I feel humans are pretty far over the threshold of smart enough to build general AI given no giant-setback/existential catastrophes and no significant intelligence enhancement within the next 500 years. In the last 500 years we gained probability theory, in the last 100 utility theory, in the last 50 formal causality theory, and it seems we're making some progress on new decision theories now. (I don't claim to know if those are the most important theoretical inventions or anything, but they seem likely to be very important). And the progress we've made on mechanical integration of sensory input from the world feels like it's not going to be the bottleneck... so give me conservatively another 1 fundamental breakthrough per century and I'm not comfortable at all saying after 5 of those humans would be just barely smart enough to build UFAI.
+
+Did you have a much shorter time horizon, or do you know what other thing it is that fuels your just-barely-smart-enough intuition?

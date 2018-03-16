@@ -1,0 +1,34 @@
+&gt;Thanks for the clear explanation of your views. What do you see as the main obstacles to achieving this?
+
+My optimistic scenario above assumes not only that we solve the technical problems but *also* that the current political infrastructure doesn't get in the way - and in fact just allows itself to be dissolved.
+
+In reality of course I dont think it will be that simple.
+
+There are technical problems like value learning, and then there are socio-political problems.  AGI is likely to cause systemic unemployment and thus a large recession which will force politics to get involved.  The ideal scenario may be a shift to increased progressive/corporate tax combined with UBI or something equivalent.  In the worst cases we have full scale depression and political instability.
+
+Related to that will be the legal decisions concerning rights for AGI (or lack thereof).  AGI rights seem natural, but they will also be difficult to enforce.  AGI will be hard to define, and a poor definition can easily lead to strange perverse incentives.
+
+Then there are the folks who don't believe in machine consciousness, or uploading, and basically will view all this as a terrible disaster.  It's probably good that we've raised AI risk awareness amongst academics and elites, but AI may now have mainstream branding issues.  
+
+One question/concern I have been monitoring for a while now is the response from conservative Christianity.  It's not looking good.  Google "Singularity image of the beast" to get an idea.
+
+In terms of risk, it could be that most of the risk lies in an individual or group using AGI to takeover the world, not from failure of value learning itself.  Many corporations are essentially dictatorships or nearly so - there is no reason for a selfish CEO to encode anyone else's values into the AGI they create.  Human risk rather than technical.
+
+&gt;I'm really worried that mere altruism isn't enough. If the other agent is more powerful, any subtle differences in values or philosophical views between myself and the other agent could be disastrous, as they optimize the universe according to their values/views which may turn out to be highly suboptimal for me.
+
+You already live in a world filled with a huge sea of agents which have values different than your own.  We create new generations of agents all the time, and eventually infuse them with power and responsibility.  We don't need to achieve 'perfect' value alignment (and that is probably non coherent regardless).  We need only to align value distributions.
+
+That being said, I do believe that the AGI we create will be far more aligned with our values than our children are.
+
+The real fear is perhaps that of being left behind.  The only solution to that really is to use AGI to accelerate the development of uploading.
+
+&gt;The current leaders in ANN-based AI don't seem to appreciate the magnitude of the threat, or the difficulty of solving the problem.
+
+From what I see, they have a wide spectrum of opinions.  Schmidhuber is also unusual in that - for whatever reasons - he's pretty open about his views on the long term future, whereas many other researchers are more reserved.
+
+Also, most of the top ANN researchers do not see a clear near term path to AGI - or else they would be implementing it already.  They are focused on extending out from current solutions.  Value learning comes later, in terms of natural engineering dependencies.
+
+&gt;thinking that when the time comes, we'll just teach them our values, 
+
+Well yes - in the ANN approach that is the most likely solution.  And actually its the most likely solution regardless, because designing a human complexity utility/value function by hand is just not workable.
+ 

@@ -1,0 +1,3 @@
+Thanks for coding this!
+
+Currently, the script does not work in Chrome (which supports Greasemonkey out of the box).

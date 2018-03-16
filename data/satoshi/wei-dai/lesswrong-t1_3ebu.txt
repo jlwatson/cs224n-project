@@ -1,0 +1,3 @@
+&gt; I've seen/heard Eliezer state his position on AIXI several times, but can't locate a detailed argument.
+
+You may be thinking of a [2003 posting](http://www.mail-archive.com/agi@v2.listbox.com/msg00807.html) and [ensuing discussion](http://www.mail-archive.com/agi@v2.listbox.com/msg00862.html) on the AGI mailing list, in which Yudkowsky argued that AIXI's lack of reflectivity leaves it vulnerable in Prisoner's Dilemma-type situations. Best wishes, the *Less Wrong* Reference Desk.

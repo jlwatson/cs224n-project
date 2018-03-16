@@ -1,0 +1,5 @@
+&gt;As a result of this calculation, I will be thinking and writing about AI safety, attempting to convince others of its importance, and, in the moderately probable event that I become very rich, donating money to the SIAI so that they can pay others to do the same.
+
+Surely the most existential-risk-reduction-per-buck at this point is not "thinking and writing about AI safety", but thinking up more strategies like it in order to possibly find even better ones? Shouldn't SIAI (or perhaps FHI, depending on the comparative advantage between them) fund and publish some sort of systematic search-and-comparison of existential risk reduction strategies in order to have high confidence that the strategies it ends up pursuing are the optimal ones?
+
+ETA: To be more constructive, has anyone done a similar analysis for "pushing for world-wide safety regulations on AI research" or "spending money directly on building FAI"?

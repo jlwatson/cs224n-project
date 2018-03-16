@@ -1,0 +1,1 @@
+Oh god, running an Em could just be a function call.  Guess I'm not sleeping tonight.

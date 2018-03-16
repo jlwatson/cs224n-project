@@ -1,0 +1,14 @@
+Let me break down these "justifications" a little:
+
+&lt;blockquote&gt;Clearly, the Other's object-level arguments are flawed; no amount of trust that I can have for another person will make me believe that rocks fall upward.&lt;/blockquote&gt;
+This points to the fact that the other is &lt;i&gt;irrational&lt;/i&gt;. It is perfectly reasonable for two people to disagree when at least one of them is irrational. (It might be enough to argue that at least one of the two of you is irrational, since it is possible that your own reasoning apparatus is badly broken.)
+
+&lt;blockquote&gt;Clearly, the Other is not taking my arguments into account; there's an obvious asymmetry in how well I understand them and have integrated their evidence, versus how much they understand me and have integrated mine.&lt;/blockquote&gt;
+This would not actually explain the disagreement. Even an Other who refused to study your arguments (say, he didn't have time), but who nevertheless maintains his position, should be evidence that he has good reason for his views. Otherwise, why would your own greater understanding of the arguments on both sides (not to mention your own persistence in your position) not persuade him? Assuming he is rational (and thinks you are, etc) the only possible explanation is that he has good reasons, something you are not seeing. And that should persuade you to start changing your mind.
+
+&lt;blockquote&gt;Clearly, the Other is completely biased in how much they trust themselves over others, versus how I humbly and evenhandedly discount my own beliefs alongside theirs.&lt;/blockquote&gt;
+Again this is basically evidence that he is irrational, and reduces to case 1.
+
+The Aumann results require that the two of your are honest, truth-seeking Bayesian wannabes, to first approximation, and that you see each other that way. The key idea is not whether the two of you can understand each other's arguments, but that refusal to change position sends a very strong signal about the strength of the evidence.
+
+If the two of you are wrapping things up by preparing to agree to disagree, you have to bite the bullet and say that the other is being irrational, or is lying, or is not truth seeking. There is no respectful way to agree to disagree. You must either be extremely rude, or reach agreement.

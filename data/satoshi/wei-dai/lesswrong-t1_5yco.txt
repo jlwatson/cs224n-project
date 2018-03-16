@@ -1,0 +1,13 @@
+What changes with WBE? Waiting for it already forsakes significant part of the expected future, but then what? It accelerates the physical timeline towards FAI and catastrophe both, and squeezing more FAI than catastrophe out of it (compared to pre-WBE ratio) requires rather unlikely circumstances.
+
+&gt; The way I see it, even if we completely solve decision theory, there are so many other problems involved with building an FAI that the success probability (unless we first develop WBE or intelligence amplification) is still tiny.
+
+Yes. (With the caveat that I'm regarding decision theory as a currently salient instrumental focus in pursuing the overall FAI problem, not a goal in itself.)
+
+&gt; So working on decision theory is counterproductive if it raises the probability of UFAI coming before WBE/IA by even a small delta.
+
+There is probability and then probability in given period of time. Raising probability of catastrophe before WBE doesn't necessarily raise it overall (for example, suppose catastrophe is inevitable, then moving it closer doesn't change the probability of it eventually occurring, and introducing a bit of probability of lack of catastrophe in exchange for moving the catastrophe branch closer does reduce the long term risk). 
+
+Lack of a catastrophe is not a stable state, it can be followed by a catastrophe, while implemented FAI is stable.  You seem to be considering two alternatives: (1) reduction in obscure more immediate risk of UFAI, achieved by a few people deciding not to think about decision theory and hence not talking about it in public (this decision, as it's being made, doesn't take many out of the pool of those who would make progress towards UFAI); and (2) taking a small chance to get FAI right. Estimating FAI ever being solved as low, I think choosing (2) is the correct play. Alternatively, don't talk about the results openly, but work anyway (which is an important decision, but the community is too weak right now for closing itself off, and our present ideas are too feeble to pose significant risk; likely should turn to secrecy later).
+
+(I notice that I don't understand this clearly enough, will have to reflect in more detail.)

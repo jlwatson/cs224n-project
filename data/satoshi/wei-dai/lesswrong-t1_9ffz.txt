@@ -1,0 +1,3 @@
+You can restrict the MWBS to only consider strict Pareto improvements over default, if you want. That's another bargaining solution - call it PMWBS.
+
+My (informal) argument was that in situations of uncertainty as to who you are facing, MWBS gives you a higher expected value than PMWBS (informally because you expect to gain more when the deal disadvantages your opponent, than you expect to lose when it disadvantages you). Since the expected value of PMWBS is evidently positive, that of MWBS must be too.

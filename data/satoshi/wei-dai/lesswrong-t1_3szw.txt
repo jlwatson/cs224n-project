@@ -1,0 +1,5 @@
+&gt;The idea is that the Kolmogorov complexity of "3^^^^3 units of disutility" should be much higher than the Kolmogorov complexity of the number 3^^^^3.
+
+Is your utility function such that there is *some* scenario for which you assign -3^^^^3 utils? If so, then the Kolmogorov complexity of "3^^^^3 units of disutility" can't be greater than K(your brain) + K(3^^^^3), since I can write a program to output such a scenario by iterating through all possible scenarios until I find one which your brain assigns -3^^^^3 utils.
+
+A prior of 2^-(K(your brain) + K(3^^^^3)) is not nearly small enough, compared to the utility -3^^^^3, to make this problem go away.

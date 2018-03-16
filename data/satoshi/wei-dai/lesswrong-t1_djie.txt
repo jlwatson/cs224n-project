@@ -1,0 +1,25 @@
+&gt; Can you say something about who would be able to see the individual ratings of comments and users?
+
+Only people who police spam/abuse; I imagine they'd have full DB access anyway.
+
+&gt; What do you see are the pros and cons of this proposal vs other recent ones.
+
+An excellent question that deserves a longer answer, but in brief: I think it's more directly targeted towards the goal of creating a quality commons.
+
+&gt; What's the reason for this?
+
+Because I don't know how else to use the attention of readers who've pushed the slider high. Show them both the comment and the reply? That may not make good use of their attention. Show them the reply without the comment? That doesn't really make sense.
+
+Note that your karma is not simply the sum or average of the scores on your posts; it depends more on how people rate you than on how they rate your posts.
+
+&gt; This seems to create an opening for attack.
+
+Again, the abuse team really need full DB access or something very like it to do their jobs.
+
+&gt; Can you point to an intro to attack resistant trust metrics
+
+The only adequate introduction I know of is [Raph Levien's PhD draft](https://ng.gnunet.org/sites/default/files/compact.pdf) which I encourage everyone thinking about this problem to read.
+
+&gt; Why would it be annoying?
+
+When an untrusted user downvotes, a trusted user or two will end up being shown that content and asked to vote on it; it thus could waste the time of trusted users.

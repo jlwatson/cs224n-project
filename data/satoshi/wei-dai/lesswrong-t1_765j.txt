@@ -1,0 +1,11 @@
+The idea of [risk compensation](http://en.wikipedia.org/wiki/Risk_compensation) says that if you have a seatbelt in your car, you take more risks while driving. There seem to be many similar "compensation" phenomena that are not related to risk:
+
+* Building more roads might not ease congestion because people switch from public transport to cars.
+
+* Sending aid might not alleviate poverty because people start having more kids.
+
+* Throwing money at a space program might not give you Star Trek because people create make-work.
+
+* Having more free time might not make you more productive because you'll just waste it all on the internet.
+
+The common theme is that increasing available resources invites hungry entities to come out of the woodwork and eat the surplus, so you don't get the benefit you bargained for. Is there an accepted name for this phenomenon? Is it studied?

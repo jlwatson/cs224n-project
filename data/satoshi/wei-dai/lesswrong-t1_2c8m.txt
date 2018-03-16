@@ -1,0 +1,7 @@
+&gt;I disagree that posts from WrongBot, or others with similar failings in reasoning . . . pose a serious risk to LessWrong as a community.
+
+How much experience have you had watching the trajectory of online communities?
+
+Have you for example informed yourself of the case of Reddit (the original one) which is particularly relevant to this community in that the software is so similar?
+
+I have not, but Paul Graham has (since he was an investor in Reddit) and he has stated many times that he believes that his community, Hacker News, is in constant danger of falling prey to the dynamic that rendered Reddit worthless to thoughtful busy people, and he has taken many different measures, including banning a user relatively frequently, denying new users the right to cast downvotes -- or any votes at all if their karma is low enough -- and disappearing the "reply" link on certain posts based on an algorithm.

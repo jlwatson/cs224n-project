@@ -1,0 +1,3 @@
+&gt; It seems like the plan is to have one Eliezer-type (philosophy oriented) person in the team with the rest being math focused. I don't understand why it isn't more like half and half, or aiming for a balance of skills in all recruits. If there is only one philosophy oriented person in the team, how will the others catch his mistakes? If the reason is that you don't expect to be able to recruit more than one Eliezer-type (of sufficient skill), then I think that's enough reason to not build an FAI team.
+
+From what I understand from past utterances, core SingInst folks tend to extend their "elite math" obsession to very nearly equating it with capability for philosophy.

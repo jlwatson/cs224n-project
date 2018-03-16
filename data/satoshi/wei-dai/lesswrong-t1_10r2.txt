@@ -1,0 +1,5 @@
+What are the existential risks for a multi-galaxy super-civilization? Or even a multi-stellar civilization expanding outward at some fraction of light speed? I don't see how life can be exterminated once it has spread that far. "liberate much of the energy in the black hole at the center of our galaxy in a giant explosion" does not make sense, since a black hole is not considered a store of energy that can be liberated.
+
+If you are speculating about new physics that haven't been discovered yet, then "subjective-time exponential" and risk per century seems irrelevant (we can just assume that all of physics will be discovered sooner or later), and a more pertinent question might be how much of physics are as yet undiscovered, and what is the likelihood that some new physics will allow a galaxy/universe killer to be built.
+
+I argue that the amount of physics left to be discovered is finite, and therefore the likelihood that a galaxy/universe killer can be built in the future does not approach arbitrarily close to 1 as time goes to infinity.

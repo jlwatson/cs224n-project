@@ -1,0 +1,3 @@
+I'm very much out of touch with the AI scene, but I believe the key distinction is between Artificial General Intelligence, versus specialized approaches like chess-playing programs or systems that drive cars.
+
+A chess program's goal structure is strictly restricted to playing chess, but any AI with the ability to formulate arbitrary sub-goals could potentially stumble on self-improvement as a sub-goal.

@@ -1,0 +1,13 @@
+&gt; There is no finite amount of life lived N where I would prefer a 80.0001% probability of living N years to an 0.0001% chance of living a googolplex years and an 80% chance of living forever.  This is a sufficient condition to imply that my utility function is unbounded.
+
+Wait a second, the following bounded utility function can explain the quoted preferences:
+
+* U(live googolplex years) = 99
+* limit as N goes to infinity of U(live N years) = 100
+* U(live forever) = 101
+
+Benja Fallenstein gave an alternative formulation that does imply an unbounded utility function:
+
+&gt; For all n, there is an even larger n' such that (p+q)\*u(live n years) &lt; p\*u(live n' years) + q\*(live a googolplex years).
+
+But these preferences are pretty counter-intuitive to me. If U(live n years) is unbounded, then the above must hold for any nonzero p, q, and with "googolplex" replaced by any finite number. For example, let p = 1/3^^^3, q = .8, n = 3^^^3, and replace "googolplex" with "0". Would you really be willing to give up .8 probability of 3^^^3 years of life for a 1/3^^^3 chance at a longer (but still finite) one? And that's true no matter how many up-arrows we add to these numbers?

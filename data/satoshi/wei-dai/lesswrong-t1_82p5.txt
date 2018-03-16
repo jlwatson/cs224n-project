@@ -1,0 +1,7 @@
+Actually, dealing with a component of your ontology not being real seems like a far harder problem than the problem of such a component not being fundamental.
+
+According to the [Great Reductionist Thesis](http://lesswrong.com/lw/frz/mixed_reference_the_great_reductionist_project/) everything real can be reduced to a mix of physical reference and logical reference. In which case, if every component of your ontology is real, you can obtain a formulation of your utility function in terms of fundamental things.
+
+The case where some components of your ontology can't be reduced because they're not real and where your utility function refer explicitly to such entity seem considerably harder, but that is exactly the problem that someone who realize God doesn't actually exist is confronted with, and we do manage that kind of ontology crisis.
+
+So are you saying that the GRT is wrong or that none of the things that we value are actually real or that we can't program a computer to perform reduction (which seems absurd given that we have managed to perform some reductions already) or what? Because I don't see what you're trying to get at here.

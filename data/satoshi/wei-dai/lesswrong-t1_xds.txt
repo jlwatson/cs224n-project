@@ -1,0 +1,1 @@
+In an article like this, it might help to say what the terms "cooperative game theory" and "non-cooperative game theory" mean - or at least provide a reference.  These are esoteric technical terms with a counter-intuitive meaning.

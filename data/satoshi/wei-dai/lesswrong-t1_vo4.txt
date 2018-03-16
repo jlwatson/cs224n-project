@@ -1,0 +1,10 @@
+&gt; The second question is: if we're making some artificial utility function for an AI or just to prove a philosophical point, how should that work - and I think your answer is spot on. I would hope that people don't really disagree with you here and are just getting bogged down by confusion about real brains and some map-territory distinctions and importing epistemology where it's not really necessary.
+
+Where I've seen people use PDUs in AI or philosophy, they weren't confused, but rather chose to make the assumption of perception-determined utility functions (or even more restrictive assumptions) in order to prove some theorems. See these examples:
+
+* http://www.hutter1.net/ai/
+* http://www.spaceandgames.com/?p=22
+
+Here's a non-example, where the author managed to prove theorems without the PDU assumption:
+
+* http://www.idsia.ch/~juergen/goedelmachine.html

@@ -1,0 +1,1 @@
+A second, maybe more pertinent point: unlosing agents are also unexploitable (maybe I should have called them that to begin with). This is a very useful thing for any agent to be, especially one who's values are not yet jelled (just as, eg, a FAI still in the process of estimating the CEV).

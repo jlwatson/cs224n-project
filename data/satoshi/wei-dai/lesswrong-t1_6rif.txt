@@ -1,0 +1,1 @@
+Are you essentially saying Solomonoff Induction could be inferior to some other meta-algorithm (or whatever you call it) in uncomputable universes? 

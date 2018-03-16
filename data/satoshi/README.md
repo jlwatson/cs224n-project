@@ -43,7 +43,7 @@ David Mazieres
 - [x] Cypherpunks Mailing List - `David Mazieres <mazieres@pa.dec.com>`, `David Mazieres <dm@amsterdam.lcs.mit.edu>`
 
 Wei Dai
-- [ ] http://lesswrong.com/user/Wei_Dai/
+- [x] http://lesswrong.com/user/Wei_Dai/
 
 Micheal Clear
 - [ ] http://ciphron.netsoc.ie/

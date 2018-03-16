@@ -1,0 +1,26 @@
+&gt;This suggests 15000 GPUs is equivalent in computing power to a human brain, since we have about 150 trillion synapses? Why did you suggest 1000 earlier? 
+
+ANN based AGI will not need to reproduce brain circuits exactly.  There are general tradeoffs between serial depth and circuit size.  The brain is much more latency/speed constrained so it uses larger, shallower circuits whereas we can leverage much higher clock speeds to favour deeper smaller circuits.  You see the same tradeoffs in circuit design, and also in algorithms where parallel variants always use more ops than the minimal fully serial variant.
+
+Also, independent of those considerations, biological circuits and synapses are redundant, noisy, and low precision.
+
+If you look at raw circuit level ops/second, the brain's throughput is not that much.  A deeper investigation of the actual theoretical minimum computation required to match the human brain would be a subject for a whole post (and one I may not want to write up just yet).  With highly efficient future tech, I'd estimate that it would take far less than 10^15  32-bit ops/s (1000 gpus): probably around or less than 10^13 32 bit ops/s.  So we may already be entering into a hardware overhang situation.
+
+&gt;How much of a multiplier on top of that do you think we need for trial-and-error research and training, before we get the first AGI? 10x? 100x?
+
+One way to estimate that is to compare to the number of full train/test iterations required to reach high performance in particular important sub-problems such as vision.  The current successful networks all descend from designs invented in the 80's or earlier.  Most of the early iterations were on small networks, and I expect the same to continue to be true for whole AGI systems.  
+
+Let's say there are around 100 researchers who worked full time on CNNs for 40 years straight (4000 researcher years), and each tested 10 designs per year - so 40,000 iterations to go from perceptrons to CNNs.  A more accurate model should consider the distribution over design iterations times and model sizes.  Major new risky techniques are usually tested first on small problems and models and then scaled up.
+
+So anyway, let's multiply by 20 roughly and say it takes a million AGI 'lifetimes' or full test iterations, where each lifetime is 10 years, and it requires 10 GPU years per AGI year, this suggests 100 million GPU years or around 100 billion dollars.  
+
+Another more roundabout estimation - it seems that whenever researchers have the technical capability to create ANNs of size N, it doesn't take long in years to explore and discover what can be built with systems of that size.  Software seems to catch up fast.  Much of this effect could also be industry scaling up investment, but we can expect that to continue to accelerate.
+
+
+&gt;What other ideas do people have? Or have seen? I wonder what Shane Legg's plan is, given that he is worried about existential risk from AI, and also personally (as co-founder of DeepMind) racing to build neuromorphic AGI.
+
+I'm not sure.  He hasn't blogged in years.  I found [this](http://www.dailymail.co.uk/sciencetech/article-3143275/Artificial-intelligence-real-threat-robots-wipe-humanity-ACCIDENT-claims-expert.html) which quotes Legg as saying:
+
+&gt; 'Eventually, I think human extinction will probably occur, and technology will likely play a part in this,' DeepMind's Shane Legg said in a recent interview.
+
+So presumably he is thinking about it, although that quote suggests he perhaps thinks extinction is inevitable.  The most recent interview I can find is [this](http://www.nzherald.co.nz/business/news/article.cfm?c_id=3&amp;objectid=11384274) which doesn't seem much related.

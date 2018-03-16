@@ -1,0 +1,5 @@
+To clarify, for everyone:
+
+There are now three "major" responses from SI to Holden's [Thoughts on the Singularity Institute (SI)](http://lesswrong.com/lw/cbs/thoughts_on_the_singularity_institute_si/): (1) a [comments thread](http://lesswrong.com/lw/cbs/thoughts_on_the_singularity_institute_si/6jzn) on recent improvements to SI as an organization, (2) a [post series](http://lesswrong.com/lw/cs6/how_to_purchase_ai_risk_reduction/) on how SI is turning donor dollars into AI risk reduction and how it could do more of this if it had more funding, and (3) Eliezer's post on Tool AI above.
+
+At least two more major responses from SI are forthcoming: a detailed reply to Holden's earlier posts and comments on expected value estimates (e.g. [this one](http://lesswrong.com/lw/745/why_we_cant_take_expected_value_estimates/)), and a long reply from me that summarizes my responses to all (or almost all) of the many issues raised in [Thoughts on the Singularity Institute (SI)](http://lesswrong.com/lw/cbs/thoughts_on_the_singularity_institute_si/).

@@ -1,0 +1,3 @@
+You are correct. But if both utilities are linear in resources, then the outcome space forms a line in the joint utility space. And when maximising utility versus a line, the generic outcome is to pick one end of the line or the other, never a midpoint.
+
+This is a feature of any approach that maximises a summed utility: you (almost always) will pick the end point of any straight segment.

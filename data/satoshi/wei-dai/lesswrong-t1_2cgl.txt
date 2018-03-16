@@ -1,0 +1,47 @@
+**Edit**: The following is not obviously possible, see [this comment](http://lesswrong.com/lw/2ip/ai_cooperation_in_practice/2cnf?c=1).
+
+This can be generalized to provide even better algorithms for more general games. Let the following be a simplified outline of the algorithm for cooperation problem, with bounds omitted (players are A and B, our player is A):
+
+    function main1() {
+        if (proves("A()==B()"))
+            return "Cooperate";
+        return "Defect";
+    }
+The proof that the outcome is "Cooperate" basically hinges on the provability of Löb statement
+
+    proves("A()==B()") =&gt; (A()==B())
+from which we conclude that A()==B() and so A()=="Cooperate". The statement can be constructed from
+
+    proves("A()==B()") =&gt; (A()=="Cooperate")
+    proves("A()==B()") =&gt; (B()=="Cooperate")
+and so
+
+    proves("A()==B()") =&gt; (A()==B())
+
+Now, we can get basically the same proof if we use a simpler algorithm for the players:
+
+    function main2() {
+        if (proves("A()=="Cooperate" &amp;&amp; B()=="Cooperate""))
+            return "Cooperate";
+        return "Defect";
+    }
+This gets rid of the more general relation, but achieves basically the same result. We can improve on this by defecting against cooperating rocks:
+
+    function main3() {
+        if (proves("A()=="Defect" &amp;&amp; B()=="Cooperate""))
+            return "Defect";
+        if (proves("A()=="Cooperate" &amp;&amp; B()=="Cooperate""))
+            return "Cooperate";
+        return "Defect";
+    }
+
+This suggests a general scheme for construction of decision-making algorithms: for all possible actions a and b of players A and B, sort the pairs &lt;a,b&gt; by utility for A, starting from highest, and implement the Löb algorithm for each possibility in turn:
+
+    function main4() {
+        for(action pairs &lt;a,b&gt; in order of descending utility for A) {
+            if (proves("A()==a &amp;&amp; B()==b"))
+                return a;
+        }
+        return something;
+    }
+This plays against arbitrary opponents quite well.

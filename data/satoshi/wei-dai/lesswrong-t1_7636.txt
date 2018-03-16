@@ -1,0 +1,6 @@
+&gt;In his example there are 256 workers and 64 line bosses running at 1x, and a CEO running at 21x. Why not instead have 16 workers, 4 line bosses, 1 CEO, all running at 16x, which would do the same amount of work in the same amount of time?
+
+
+Evidence suggests that coordination is *hard*.  
+
+That 16 workers running at 16x overseen by 4 line bosses and 1 CEO will suffer more coordination failure that can be avoided by running 256 workers at 1x with one CEO running at 21x, seems plausible and even likely if you assume these are human-like minds. 

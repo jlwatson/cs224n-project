@@ -1,0 +1,15 @@
+EDIT: see this [comment](http://lesswrong.com/lw/mis/steelmaning_ai_risk_critiques/cm17) and this comment on [reddit](https://www.reddit.com/r/MachineLearning/comments/3eriyg/the_brain_vs_deep_learning_part_i_computational/cti3m7t) for some references on circuit efficiency.
+
+Computers are circuits and thus networks/graphs. For primitive devices the switches (nodes) are huge so they use up significant energy. For advanced devices the switches are not much larger than wires, and the wire energy dominates.  If you look at the cross section of a modern chip, it contains a hierarchy of metal layers of decreasing wire size, with the transistors at the bottom.  The side view section of the cortex looks similar with vasculature and long distance wiring taking the place of the upper meta layers.  
+
+The vast majority of the volume in both modern digital circuits and brain circuits consists of wiring.  The transistors and the synapses are just tiny little things in comparison.
+
+Modern computer mem systems have a wire energy eff of around 10^-12 to 10^-13 J/bit/mm.  The limit for reliable signals is perhaps only 10x better. I think the absolute limit for unreliable bits is 10^-15 or so, will check citation for that when I get home. Wire energy eff for bandwidth  is not improving at all and hasn't since the 90's. The next big innovation is simply moving the memory closer , that's about all we can do.
+
+The min wire energy is close to that predicted by a simple model of a molecular wire where each molecule sized 1 nm section is a switch (10^-19 to 10^-21 * 10^6 = 10^-13 to 10^-15).  In reality of course it's somewhat more complex - smaller wires actually dissipate more energy, but also require less to represent a signal.
+
+Also keep in mind that synapses are analog devices which require analog impulse inputs and outputs - they do more work than a single binary switch. 
+
+So moores law is ending and we are already pretty close to the limits of wire efficiency. If you add up the wiring paths in the brain you get a similar estimate. Axons/dendrites appear to be at least as efficient as digital wires and are thus near optimal.  None of this should be surprising - biological cells are energy optimal true nanocomputers.  Neural circuits evolved from the bottom up - there was never a time at which they were inefficient.
+
+However, it is possible to avoid wire dissipation entirely with some reversible signal path. Optics is one route but photons and thus photonic devices are impractically large.  The other option is superconducting circuits, which work in labs but also have far too many disadvantages to be practical yet. Eventually cold superconducting reversible computers could bypass energy issues, but that tech appears to be far.

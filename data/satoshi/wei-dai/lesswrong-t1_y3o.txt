@@ -1,0 +1,9 @@
+&gt; There does not appear to be any such thing as a dominant majority vote.
+
+Eliezer, are you aware that there's an academic field studying issues like this? It's called Social Choice Theory, and happens to be covered in chapter 4 of Hervé Moulin's [Fair Division and Collective Welfare](http://books.google.com/books?id=qQXtEnb2B2cC), which I recommended in my post about Cooperative Game Theory.
+
+I know you're probably approaching this problem from a different angle, but it should still be helpful to read what other researchers have written about it.
+
+A separate comment I want to make is that if you want others to help you solve problems in "timeless decision theory", you really need to publish the results you've got already. What you're doing now is like if Einstein had asked people to help him predict the temperature of black holes before having published the general theory of relativity. 
+
+As far as needing a long sequence, are you assuming that the reader has no background in decision theory? What if you just write to an audience of professional decision theorists, or someone who has at least read "The Foundations of Causal Decision Theory" or the equivalent?

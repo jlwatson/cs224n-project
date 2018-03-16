@@ -1,0 +1,25 @@
+Eliezer's metaethics might be clarified in terms of the distinctions between [sense, reference, and reference-fixing descriptions](http://www.philosophyetc.net/2004/09/naming-and-necessity.html).  I take it that Eliezer wants to use 'right' as a rigid designator to denote some particular set of terminal values, but this reference fact is fixed by means of a seemingly 'relative' procedure (namely, whatever terminal values the speaker happens to hold, on some appropriate [if somewhat mysterious] idealization).  Confusions arise when people mistakenly read this *metasemantic* subjectivism into the first-order semantics or *meaning* of 'right'.
+
+**In summary:**
+
+(i) 'Right' means, roughly, 'promotes external goods X, Y and Z'
+
+(ii) claim i above is true *because* I desire X, Y, and Z.
+
+Note that [Speakers Use Their Actual Language](http://www.philosophyetc.net/2006/09/speakers-use-their-actual-language.html), so murder would still be wrong even if I had the desires of a serial killer.  But if I had those violent terminal values, I would speak a slightly different language than I do right now, so that when KillerRichard asserts "Murder is right!" what he says is true.  We don't really disagree, but are instead merely talking past each other.
+
+**Virtues of the theory:**
+
+(a) By rigidifying on our actual, current desires (or idealizations thereupon), it avoids [Inducing Desire Satisfactions](http://www.philosophyetc.net/2008/07/inducing-desire-satisfactions.html).
+
+(b) Shifting the subjectivity out to the metasemantic level leaves us with a first-order semantic proposal that at least does a better job than simple subjectivism at 'saving the phenomena'.  (It has echoes of Mark Schroeder's desire-based view of reasons, according to which the facts that give us reasons are the propositional *contents* of our desires, rather than the *desires* themselves. Or something like that.)
+
+(c) It's naturalistic, if you find moral non-naturalism 'spooky'.  (Though I'd sooner recommend Mackie-style error theory for naturalists, since I don't think (b) above is *enough* to save the phenomena.) 
+
+**Objections**
+
+(1) It's incompatible with the datum that substantive, fundamental normative disagreement is in fact possible.  People may share the concept of a normative *reason*, even if they fundamentally disagree about which features of actions are the ones that give us reasons.
+
+(2) The semantic tricks merely shift the lump under the rug, they don't get rid of it.  Standard worries about relativism re-emerge, e.g. an agent can know *a priori* that their own fundamental values are right, given how the meaning of the word 'right' is determined.  This kind of (even merely 'fundamental') infallibility seems implausible.
+
+(3) Just as simple subjectivism is an implausible theory of what 'right' means, so Eliezer's meta-semantic subjectivism is an implausible theory of *why 'right' means promoting external goods X, Y, Z*.  An adequately objective metaethics shouldn't even give preferences a reference-fixing role.  

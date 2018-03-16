@@ -1,0 +1,3 @@
+What if the first AI can just ask the second AI to do anything with its resources, and the second AI just does that? Just because the AIs agree to some action (merging), doesn't mean that the action was really an optimal choice for them: they could be wrong. You need a more formal model to deal with such issues (for example, the AIs could have a utility function over outcomes, but then again we face the issue of bargaining). 
+
+I don't see how this setting helps to reduce bargaining/cooperation.

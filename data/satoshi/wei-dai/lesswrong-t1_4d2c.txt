@@ -1,0 +1,5 @@
+&gt; It gets closer to the solution in the sense that there is no longer a time pressure, since it's easier for an upload-singleton to ensure their own value stability, and they don't have to worry about people building uFAIs and other existential risks while they work on FAI. They can afford to try harder to get to the right solution than we can.
+
+There is a time pressure from existential risk (also, astronomical waste). Just as in FAI vs. AGI race, we would have a race between FAI-building and AGI-building uploads (in the sense of "who runs first", but also literally while restricted by speed and costs). And fast-running uploads pose other risks as well, for example they could form an unfriendly singleton without even solving AGI, or build runaway nanotech. 
+
+(Planning to make sure that we run a prepared upload FAI team before a singleton of any other nature can prevent it is an important contingency, someone should get on that in the coming decades, and better metaethical theory and rationality education can help in that task.)

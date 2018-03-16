@@ -1,0 +1,17 @@
+The algorithm I was referring to can be easily represented by an RNN with one hidden layer of a few nodes, the difficult part is learning it from examples.
+
+The examples for the n-parity problem are input-output pairs where each input is a n-bit binary string and its corresponding output is a single bit representing the parity of that string.
+
+In the code you linked, if I understand correctly, however, they solve a different machine learning problem:  here the examples are input-output pairs where both the inputs and the outputs are n-bit binary strings, with the i-th output bit representing the parity of the input bits up to the i-th one.
+
+It may look like a minor difference, but actually it makes the learning problem much easier, and in fact it basically guides the network to learn the right algorithm:  
+the network can first learn how to solve parity on 1 bit (identity), then parity on 2 bits (xor), and so on. Since the network is very small and has an ideal architecture for that problem, after learning how to solve parity for a few bits (perhaps even two) it will generalize to arbitrary lengths.
+
+By using this kind of supervision I bet you can also train a feed-forward neural network to solve the problem: use a training set as above except with the input and output strings presented as n-dimensional vectors rather than sequences of individual bits and make sure that the network has enough hidden layers.  
+If you use a specialized architecture (e.g. decrease the width of the hidden layers as their depth increases and connect the i-th output node to the i-th hidden layer) it will learn quite efficiently, but if you use a more standard architecture (hidden layers of constant width and output layer connected only to the last hidden layer) it will probably also work although you will need a quite a bit of training examples to avoid overfitting.
+
+The parity problem is artificial, but it is a representative case of problems that necessarily ( * ) require a non-trivial number of highly non-linear serial computation steps. In a real-world case (a planning problem, maybe), we wouldn't have access to the internal state of a reference algorithm to use as supervision signals for the machine learning system. The machine learning system will have to figure the algorithm on its own, and current approaches can't do it in a general way, even for relatively simple algorithms.
+
+You can read the (much more informed) opinion of Ilya Sutskever on the issue [here](http://yyue.blogspot.it/2015/01/a-brief-overview-of-deep-learning.html) (Yoshua Bengio also participated in the comments).
+
+( * at least for polynomial-time execution, since you can always get constant depth at the expense of an exponential blow-up of parallel nodes)

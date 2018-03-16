@@ -1,0 +1,41 @@
+&gt; I hold this suspicion with about 30% confidence, which is enough to worry me, since I mostly identify as a rationalist. What do you think about all this? How confident are you?
+
+I think the recent surge in meetups shows that people are mainly interested to group with other people who think like them rather than rationality in and of itself. There is too much unjustified agreement here to convince me that people really mostly care about superior beliefs. Sure, the available methods might not allow much disagreement about their conclusions, but what about doubt in the very methods that are used to evaluate what to do?
+
+Most of the posts on LW are not wrong, but many exhibit some sort of extraordinary idea. Those ideas seems mostly sound but if you take all of them together and arrive at something really weird, I think some skepticism is appropriate (at least more than can currently be found).
+
+---------------------------------------------------------
+
+**Here is an example:**
+
+1.) [MWI](http://lesswrong.com/lw/r8/and_the_winner_is_manyworlds/)
+
+The many-worlds interpretation seems mostly justified, probably the rational choice of all available interpretations (except maybe [Relational Quantum Mechanics](http://plato.stanford.edu/entries/qm-relational/)). How to arrive at this conclusion is also a good exercise in refining the art of rationality.
+
+2.) [Belief in the Implied Invisible](http://lesswrong.com/lw/pb/belief_in_the_implied_invisible/)
+
+P(Y|X) ≈ 1, then P(X∧Y) ≈ P(X) 
+
+In other words, logical implications do not have to pay rent in future anticipations.
+
+3.) [Decision theory](http://wiki.lesswrong.com/wiki/Decision_theory)
+
+Decision theory is an important field of research. We can *learn* a lot by studying it.
+
+4.) [Intelligence explosion](http://wiki.lesswrong.com/wiki/Intelligence_explosion)
+
+Arguments in favor of an intelligence explosion, made by people like I.J. Good, are food for thought and superficially sound. This line of reasoning should be taken seriously and further research should be conducted examining that possibility.
+
+---------------------------------------------------------
+
+Each of those points (#1,2,3,4) are valuable and should be taken seriously. But once you build conjunctive arguments out of those points (1∧2∧3∧4) you should be careful about the overall credence of each point and the probability of their conjunction. Because even if all of them seem to provide valuable insights, any extraordinary conclusions that are implied by their conjunction might outweigh the benefit of each belief if the overall conclusion is just slightly wrong.
+
+An example of where 1∧2∧3∧4 might lead:
+
+*"We have to take over the universe to save it by making the seed of an artificial general intelligence, that is undergoing explosive recursive self-improvement, extrapolate the coherent volition of humanity, while acausally trading with other superhuman intelligences across the multiverse."*
+
+or
+
+*"We [should walk into death camps](http://lesswrong.com/lw/5rs/the_aliens_have_landed/47s6) if it has no effect on the probability of being blackmailed."*
+
+**Careful!** The question is not if our results are sound but if the very methods we used to come up with those results are sufficiently trustworthy. This does not happen enough on LW, the methods are not examined, even though they lead to all kinds of problems like [Pascal's Mugging](http://wiki.lesswrong.com/wiki/Pascal%27s_mugging) or the '[The Infinitarian Challenge to Aggregative Ethics](http://www.nickbostrom.com/ethics/infinite.pdf)'. Neither are the motives and trustworthiness of the people who make those claims examined. Which wouldn't even be necessary if we were dealing with interested researchers rather than people who ask others to take their ideas seriously. 

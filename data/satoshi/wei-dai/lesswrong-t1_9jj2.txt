@@ -1,0 +1,7 @@
+&gt; My model of FAI development says that you have to get most of the way to being able to build an AGI just to be able to start working on many Friendliness-specific problems, and solving those problems would take a long time relative to finishing rest of the AGI capability work.
+
+Agree, though luckily there are other Friendliness-specific problems that we can start solving right now.
+
+&gt; Unless you're flying completely below the radar, which is incompatible with your plan for funding via public donations, what is stopping your unpublished results from being stolen or leaked in the mean time?
+
+Presumably, security technology similar to what has mostly worked for the Manhattan project, secret NSA projects, etc. But yeah, it's a big worry. But what did you have in mind about flying completely under the radar? There are versions of an FAI team that could be funded pretty discretely by just one person.

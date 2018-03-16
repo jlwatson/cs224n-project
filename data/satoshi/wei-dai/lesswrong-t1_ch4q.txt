@@ -1,0 +1,7 @@
+&gt;This sounds really interesting and important (if true), but I have only a vague understanding of how you arrived at this conclusion. Please consider writing a post about it.
+
+It's not so much a conclusion as an intuition, and most of the inferences leading up to it are contained in this thread with PaulChristiano and a related discussion with Kaj Sotala.
+
+I'm interested in IRL and I think it's the most promising current candidate for value learning, but I must admit I haven't read much of the relevant literature yet.  Reading up on IRL and writing a discussion post on it has been on my todo list - your comment just bumped it up a bit. :)
+
+Another related issue is the more general question of how the training data/environment determines/shapes safety issues for learning agents.

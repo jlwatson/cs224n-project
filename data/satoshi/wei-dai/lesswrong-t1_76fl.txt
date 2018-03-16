@@ -1,0 +1,11 @@
+If I am allowed to use only exponentially more computing power than you (are far cry from a halting oracle), then I can produce outputs that you cannot distinguish from a halting oracle.
+
+Consider the following program: Take some program P as input, and search over all proofs of length at most N, in some formal system that can describe the behaviour of arbitrary programs (ie first order PA) for a proof that P either does or does not halt. If you find a proof one way or the other, return that answer. Otherwise, return HALT.
+
+This will return the correct answer for all programs of which halt in less than (some constant multiple of) N, since actually running the program until it halts provides a proof of halting. But it also gives the correct answer for a lot of other cases: for example there is a very short proof that "While true print 1".
+
+Now, if I am allowed exponentially more computing power than you, then I can run this program with N equal to the number of computations that you are allowed to expend. In particular, any program that you query me on, I will either answer correctly, or give a false answer that you won't be able to call me out on.
+
+&gt;The Kolmogorov complexity of an uncomputable sequence is infinite, so Solomonoff induction assigns it a probability of zero, but there's always a computable number with less than epsilon error, so would this ever actually matter?
+
+Can you re-phrase this please? I don't understand what you are asking.

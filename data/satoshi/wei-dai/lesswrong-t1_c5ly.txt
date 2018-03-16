@@ -1,0 +1,9 @@
+Hi Wei Dai, thx for commenting!
+
+The "game of 3" problem indeed seems related. Apparently my decision theories solve it correctly, if we consider the precursor to be the "AI submitter". The discussion there is of enormous size, can you please point out the part about most of the agents in the multiverse?
+
+Regarding successor-simulating-precursor, I think that any way of applying logical uncertainty that solves logical counterfactual mugging should handle this as well, since the precursor's "Tegmark V" should be preserved by the successor in some sense, and the precursor cannot simulate itself (see also [this](http://lesswrong.com/lw/imz/notes_on_logical_priors_from_the_miri_workshop/)).
+
+A possible solution is evaluating the expectation value at a depth of analysis (reference amount of computing resources) corresponding to the precursor's computing power. This doesn't mean the successor's superior computing power is wasted since it allows for more exhaustive maximization. In case of equation (4') the extra power is also used for evaluating pi.
+
+Need to think more on this!

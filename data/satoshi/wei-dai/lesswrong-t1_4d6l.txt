@@ -1,0 +1,5 @@
+&gt; you ought to end up spending roughly half of your time/resources on what U1 says you should do, and half on what U2 says you should do
+
+That can't be right. What if U1 says you ought to buy an Xbox, then U2 says you ought to throw it away? Looks like a waste of resources. To avoid such wastes, your behavior must be Bayesian-rational. That means it must be governed by a utility function U3. What U3 is defined by the parliamentary model? You say it's not averaging, but it has to be *some* function defined in terms of U1 and U2.
+
+We've discussed a similar problem proposed by Stuart on the mailing list and I believe I gave a good argument (on Jan 21, 2011) that U3 must be some linear combination of U1 and U2 if you want to have nice things like Pareto-optimality. All bargaining should be collapsed into the initial moment, and output the coefficients of the linear combination which never change from that point on.

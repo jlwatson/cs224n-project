@@ -1,0 +1,19 @@
+Thx a lot for commenting!
+
+Your previous comment is definitely related. However, when you wrote:
+
+"Within a universe, different substructures (for example branches or slices of time) also have different measures, and if I value such substructures independently, my utilities for them are also bounded by their measures. For example, in a universe that ends at t = TREE(100), a time slice with t &lt; googolplex has a much higher measure than a random time slice (since it takes more bits to represent a random t)."
+
+it seems like you intended to insert a "weight over substructures" by hand whereas I claim that it is automatically there because a portion of a universe can be regarded as a universe in its own right. But maybe I misunderstood.
+
+Regarding Eliezer's comment that
+
+"But the part where later events have less reality-fluid within a single universe, just because they take more info to locate - that part in particular seems really suspicious."
+
+To me, it's not suspicious at all. If we didn't have a penalty for far places, our utility would be dominated by Boltzmann brains.
+
+Regarding uncomputable universes. I don't think we need to take these into account, because the agent itself is computable and cannot directly evaluate uncomputable hypotheses about the universe. Now, one can argue that the agent can reason about uncomputable hypotheses by mathematical proofs within some formal theory. Let's take an example.
+
+Suppose we find an alien artifact X and the hypothesis is that it's a halting oracle. How would we test the hypothesis? We can feed program P to X. Suppose we get 0. We can try to find a proof that P doesn't halt (say, within ZFC). Suppose we get 1. We can to try to find a proof that P does halt. Suppose every time we find a proof one way or the other, it is consistent with X(P). It would seem that the simplest hypothesis under such conditions should be "X is a halting oracle". However, I claim that instead the simplest hypothesis should be "X produces 0/1 whenever there is a ZFC proof that P doesn't halt / halt". One might object that if X literally searched for ZFC proofs it would occasionally fail to halt itself. OK, so what? I'm willing to allow for universes that fail to halt. More than allowing for uncomputable universes.
+
+IMO, the correct philosophical view is that only computable objects "exist" on the fundamental level, whereas uncomputable objects are "imaginary" structures that arise from the (computable) formal manipulation of mathematical symbols.

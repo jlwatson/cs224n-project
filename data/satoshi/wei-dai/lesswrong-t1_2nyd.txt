@@ -1,0 +1,7 @@
+Here are some more problems that have come up on LW:
+
+* [What is the right probability/decision theory for running on error-prone hardware](http://lesswrong.com/lw/1mw/advancing_certainty/1gvg?c=1)?
+* [What is my utility function?](http://lesswrong.com/lw/zv/post_your_utility_function/)
+* [Meta-philosophy](http://lesswrong.com/lw/2id/metaphilosophical_mysteries/)
+* How to think about “all mathematical structures” when no formal language is sufficiently expressive?
+* What is the nature of anticipation/surprise/disappointment/good and bad news? (For example, surprise wouldn't be a cognitive feature of an ideal utility maximizer. What purpose, if any, does it serve in us?)

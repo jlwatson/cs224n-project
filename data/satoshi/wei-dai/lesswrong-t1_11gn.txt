@@ -1,0 +1,3 @@
+2)  The key problem in Drescher's(?) Counterfactual Mugging is that after you actually *see* the coinflip, your posterior probability of "coin comes up heads" is no longer 0.5 - so if you compute the answer after seeing the coin, the answer is not the reflectively consistent one.  I still don't know how to handle this - it's not in the class of problems to which my TDT corresponds.
+
+Please note that the problem persists if we deal in a non-quantum coin, like an unknown binary digit of pi.

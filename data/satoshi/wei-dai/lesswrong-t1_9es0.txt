@@ -1,0 +1,3 @@
+&gt;I put "Friendliness" in quotes in the title, because I think what we really want, and what MIRI seems to be working towards, is closer to "optimality"
+
+Meh. If we can get a safe AI, we've essentially done the whole of the work. Optimality can be tacked on easily at that point, bearing in mind that what may seem optimal to some may be an utter hellish disaster to others (see Repugnant Conclusion), so some sort of balanced view of optimality will be needed.

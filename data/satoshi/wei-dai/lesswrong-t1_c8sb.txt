@@ -1,0 +1,5 @@
+I don’t think that the question-answerer or reinforcement learner needs to be superhuman. I describe them as using human-level abilities rather than superhuman abilities, and it seems like they could also work with subhuman abilities.  Concretely, if we imagine applying those designs with a human-level intelligence acting in the interests of a superhuman overseer, they seem (to me) to work fine. I would be interested in problems you see with this use case.
+
+Your objection to the question-answering system seemed to be that the AI may not recognize that human utterances are good evidence about what the overseer would ultimately do (even if they were), and that it might not be possible or easy to teach this. If I’m remembering right and this is still the problem you have in mind, I’m happy to disagree about it in more detail. But it seems that this objection couldn’t really apply to the reinforcement learning approach.
+
+It seems like these systems could be within a small factor of optimal efficiency (certainly within a factor of 2, say, but hopefully much closer). I would consider a large efficiency loss to be failure.

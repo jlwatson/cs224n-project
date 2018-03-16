@@ -1,0 +1,17 @@
+Just a fun little thing that came to my mind.
+
+1. If "anthropic probabilities" make sense, then it seems natural to use them as weights for aggregating different people's utilities. For example, if you have a 60% chance of being Alice and a 40% chance of being Bob, your utility function is a weighting of Alice's and Bob's.
+
+2. If the "anthropic probability" of an observer-moment depends on its K-complexity, as in Wei Dai's UDASSA, then the simplest possible observer-moments that have wishes will have disproportionate weight, maybe more than all mankind combined.
+
+3. If someday we figure out the correct math of which observer-moments can have wishes, we will probably know how to define the simplest such observer-moment. Following SMBC, let's call it Felix.
+
+4. All parallel versions of mankind will discover the same Felix, because it's singled out by being the simplest.
+
+5. Felix will be a utility monster. The average utilitarians who believe the above assumptions should agree to sacrifice mankind if that satisfies the wishes of Felix.
+
+6. If you agree with that argument, you should start preparing for the arrival of Felix now. There's work to be done.
+
+Where is the error?
+
+That's the sharp version of the argument, but I think it's still interesting even in weakened forms. If there's a mathematical connection between simplicity and utility, and we humans aren't the simplest possible observers, then playing with such math can strongly affect utility.

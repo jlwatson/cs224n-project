@@ -1,0 +1,5 @@
+I should add: 
+
+Ethics is a top-level problem that, even when "solved", can only be applied adequately once you have been able to define mathematically what constitutes a human being or values. If you can't even define some of the subject matter of ethics, e.g. pain and consciousness, then how will an AI know what constitutes a valid input of its friendliness function?
+
+If you believe that an AI is able to figure all that out on its own, why won't it be able to do the same with ethics? And if not, then why do you think ethics is of particular importance to friendly AI research if there are so many other basic problems to be solved before?

@@ -1,0 +1,14 @@
+Yes, the range of follow-up examples there was a bit too narrow, I was starting from the other end and working back. Smaller operations could be chained, parallelized (with limited thinking time and capacity per unit), used to check on each other in tandem with random human monitoring and processing, and otherwise leveraged to minimize the human bottleneck element.
+
+&gt;solve Friendliness, since solving technical problems is likely to be more of a strength for such an AI than predicting human philosophical judgments,
+
+A strong skew of abilities away from those directly useful for Friendliness development makes things worse, but leaves a lot of options. Solving technical problems can let you work to, e.g. 
+
+* Create AIs with ability distributions directed more towards "philosophical" problems
+* Create AIs with simple sensory utility functions that are easier to 'domesticate' (short time horizons, satiability, dependency on irreplaceable cryptographic rewards that only the human creators can provide, etc)
+* Solve the technical problems of making a working brain emulation model
+* Create software to better detect and block unintended behavior, 
+
+&gt;coordination 
+
+Yes, that's the biggest challenge for such bootstrapping approaches, which depends on the speedup in safety development one gets out of early models, the degree of international peace and cooperation, and so forth.

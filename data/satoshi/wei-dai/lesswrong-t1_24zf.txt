@@ -1,0 +1,7 @@
+&gt; But you seem to have the heuristic that the extrapolated volition of even the most evil human "won't be that bad". Where does that come from?
+
+That's not a heuristic in the sense I use the word in the comment above, it's (rather weakly) descriptive of a goal and not rules for achieving it.
+
+The main argument (and I changed my mind on this recently) is the same as for why another normal human's preference isn't that bad: sympathy. If human preference has a component of sympathy, of caring about other human-like persons' preferences, then there is always a sizable slice of the control of the universe pie going to everyone's preference, even if orders of magnitude smaller than for the preference in control. I don't expect that even the most twisted human can have a whole aspect of preference completely absent, even if manifested to smaller degree than usual.
+
+This apparently changes my position on the danger of value drift, and modifying minds of uploads in particular. Even though we will lose preference to the value drift, we won't lose it completely, so long as people holding the original preference persist.

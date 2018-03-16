@@ -1,0 +1,7 @@
+Anyone know more about this proposal from IDSIA?
+
+&gt;Technical Abstract: "Whenever one wants to verify that a recursively self-improving system will robustly remain benevolent, the prevailing tendency is to look towards formal proof techniques, which however have several issues: (1) Proofs rely on idealized assumptions that inaccurately and incompletely describe the real world and the constraints we mean to impose. (2) Proof-based self-modifying systems run into logical obstacles due to Löb's theorem, causing them to progressively lose trust in future selves or offspring. (3) Finding nontrivial candidates for provably beneficial self-modifications requires either tremendous foresight or intractable search.
+&gt;
+&gt;Recently a class of AGI-aspiring systems that we call experience-based AI (EXPAI) has emerged, which fix/circumvent/trivialize these issue. They are self-improving systems that make tentative, additive, reversible, very fine-grained modifications, without prior self-reasoning; instead, self-modifications are tested over time against experiential evidences and slowly phased in when vindicated or dismissed when falsified. We expect EXPAI to have high impact due to its practicality and tractability. Therefore we must now study how EXPAI implementations can be molded and tested during their early growth period to ensure their robust adherence to benevolence constraints.
+
+I did some searching but Google doesn't seem to know anything about this "EXPAI".

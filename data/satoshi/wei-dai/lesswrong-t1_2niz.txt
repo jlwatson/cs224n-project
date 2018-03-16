@@ -1,0 +1,5 @@
+&gt;At an (unrealistically?) independent 0.5% chance per act, a 50% chance of transmission would require 139 sex acts — hardly "years and years".
+
+I don't see why epidemiology should care about the 50% threshold. The relevant number is the *expected* number of transmissions per year. Thus independence is irrelevant.\[1] At 200 anal tops per year per infected person, incidence should double yearly. And every top requires a bottom, so that's 400 anal sex acts per year for just doubling. It seemed to spread more quickly than that, but maybe 800 and 4x per year works. It seems just barely plausible with this transmission rate. I'm not sure of the details of bathhouses, but I thought that there was a lot of non-anal sex, too.
+
+\[1] independence is relevant if 70s gays were systematically different from the people in the study; and they probably were, eg, they probably had higher rates of STDs

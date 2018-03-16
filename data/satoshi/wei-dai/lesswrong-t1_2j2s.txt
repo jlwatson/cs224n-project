@@ -1,0 +1,5 @@
+A quick probability math question.
+
+Consider a population of blobs, initially comprising N individual blobs. Each individual blob independently has a probability *p* of reproducing, just once, spawning exactly one new blob. The next generation (an expected N*p individuals) has the same probability for each individual to spawn one new blob, and so on. Eventually the process will stop, with a total blob population of P.
+
+The question is about the probability distribution for P, given N and *p*. Is this a well-known probability distribution? If so, which? Even if not, are there things that can be said about it which are mathematically obvious? (Not obvious to me, obviously. I'd be interested in which gaps in my math education I'm revealing by even asking these questions.)

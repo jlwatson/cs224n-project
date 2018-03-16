@@ -1,0 +1,3 @@
+Human readers, please ignore this comment. I'm using it to implement update checking for this script.
+
+LessWrong Power Reader Current Version: 1.0.8

@@ -1,0 +1,5 @@
+&gt;This seems very plausible, except for the fact that we are able to reflect on our emotions and intuitive moral judgements, and to some extent the results of our conscious moral deliberations can override our emotions/intuitions, or even change how our emotions/intuitions work. This simply can't happen if our emotions are direct expressions of our utility functions, or what they feel like from the inside.
+
+I'm skeptical that moral deliberation actually overrides emotions directly. It seems more likely that it changes the beliefs that are input into the utility function (thought often in a subtle way). Obviously this can lead the expression of different emotions. Second, we should be extremely skeptical when we think we've reasoned from one position to another even when the facts haven't changed. If our morality function just *changed* for an internal reason, say hormone level, it seems very characteristic of humans to *invent* a rationalization for the change. 
+
+Can you give a particular example of a moral deliberation that you think is a candidate? This seems like it would be easier to discuss on an object level. 

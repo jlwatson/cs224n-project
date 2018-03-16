@@ -1,0 +1,5 @@
+If we try to translate sentences involving "should" into descriptive sentences about the world, they will probably sound like "action A increases the value of utility function U". If I was a consistent utility maximizer, and U was my utility function, then believing such a statement would make me take action A. No further verbal convincing would be necessary.
+
+Since we are not consistent utility maximizers, we run an approximate implementation of that mechanism which is vulnerable to verbal manipulation, often by sentences involving "should". So the murkiness in the meaning of "should" is proportional to the difference between us and utility maximizers. Does that make sense?
+
+(It may or may not be productive to describe a person as a utility maximizer plus error. But I'm going with that because we have no better theory yet.)

@@ -1,0 +1,13 @@
+My main objection is that securing positive outcomes doesn't seem to inherently require solving hard philosophical problems (in your sense).  It might in principle, but I don't see how we can come to be confident about it or even why it should be much more likely than not. I also remain unconvinced about the conceptual difficulty and fundamental nature of the problems, and don't understand the cause for confidence on those counts either.
+
+To make things more concrete: could you provide a hard philosophical problem (of the kind for which feedback is impossible) together with an argument that this problem must be resolved before human-level AGI arrives? What do you think is the strongest example? 
+
+To try to make my point clearer (though I think I'm repeating myself): we can aim to build machine intelligences which pursue the outcomes we would have pursued if we had thought longer (including machine intelligences that allow human owners to remain in control of the situation and make further choices going forward, or bootstrap to more robust solutions). There are questions about what formalization of "thought longer" we endorse, but of course we must face these with or without machine intelligence. For the most part, the questions involved in building such an AI are empirical though hard-to-test ones---would we agree that the AI basically followed our wishes, if we in fact thought longer?---and these don't seem to be the kinds of questions that have proved challenging, and probably don't even count as "philosophical" problems in the sense you are using the term.
+
+I don't think it's clear or even likely that we necessarily have to resolve issues like metaethics,  anthropics, the right formalization of logical uncertainty, decision theory, etc. prior to building human-level AI. No doubt having a better grasp of these issues is helpful for understanding our goals, and so it seems worth doing, but we can already see plausible ways to get around them.
+
+In general, one reason that doing X probably doesn't require impossible step Y is that there are typically many ways to accomplish X, and without a strong reason it is unlikely that they will all require solving Y. This view seems to be supported by a reasonable empirical record. A lot of things have turned out to be possible.
+
+(Note: in case it's not obvious, I disagree with Eliezer on many of these points.)
+
+I suspect I also object to your degree of pessimism regarding philosophical claims, but I'm not sure and that is probably secondary at any rate.

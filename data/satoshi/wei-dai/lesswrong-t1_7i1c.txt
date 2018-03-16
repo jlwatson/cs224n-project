@@ -1,0 +1,12 @@
+&gt;you only get to 50% probability of dying as the game continues, which is better than the 75% from quitting the game.
+
+20% probability of losing $100 can be better than 10% probability of losing $100 dollars, if the 20% is independent but the 10% is correlated with other events (e.g., if you lose $100 in the 10% of states of the world where you are already poorest). (This is well known in investment theory where being uncorrelated with market risk is valuable for an asset.) Similarly, 50% probability of dying is not necessarily better than 75% probability of dying, if the 50% is correlated with other events (in this case, dying in other quantum branches), and the 75% is independent.
+
+To be more specific, let's analyze the decision problem using UDT. Suppose every copy of you in every branch is facing the same problem, and all of their "original" coins are perfectly correlated (which makes sense since the "original" coin is supposed to be a stand-in for "the laws of physics are such that LHC would destroy Earth if some accident didn't intervene"). You're trying to choose between the strategies (A) "keep flipping until the game ends" and (B) "keep flipping until either the game ends or I get to 1000 heads, then quit".
+
+* Consequences of A: 50% chance nobody survives, 50% chance nobody dies.
+* Consequences of B: 50% chance 1/4 * 2^-1000 of your copies survive, 50% chance 3/4 * 2^-1000 of your copies die.
+
+A UDT agent might choose B over A because saving 1/4 * 2^-1000 of its copies is considered more valuable in the state where there are already very few copies of itself. Perhaps our intuitions for "anthropic evidence" should be translated into such preferences, in line with my [previous suggestions](http://lesswrong.com/lw/175/torture_vs_dust_vs_the_presumptuous_philosopher/)?
+
+(My answer is very similar to [Benja's](http://lesswrong.com/r/discussion/lw/emt/no_anthropic_evidence/7hul). I'm guessing that our perspective is not the easiest to understand, and it helps to have multiple explanations.)

@@ -1,0 +1,3 @@
+&gt; Let’s say there is a civilization consisting of a number of individuals, each the owner of some matter with mass mi. They know that their civilization can’t produce more than (∑ mi)^2 bits of total entropy over its entire history
+
+Typo: (∑ mi)^2 should be mi^2

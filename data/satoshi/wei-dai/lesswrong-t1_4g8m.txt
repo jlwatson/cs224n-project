@@ -1,0 +1,7 @@
+People shouldn't neglect small probabilities.  The math works for small probabilities. 
+
+People *should* discount large utilities.  Utilities are not additive.  Nothing in economic theory suggests that they are additive.  
+
+It is well understood that the utility of two million dollars is not necessarily twice the utility of one million dollars.  Yet it is taken here as axiomatic that the utility of two saved lives is twice the utility of one saved life.  Two people tortured is taken to be twice the disutility of one person tortured.  Why?  As far as I can tell, the only answer given here is that our moral intuitions (against simple additivity) are wrong and will be corrected by sufficient reflection.
+
+That is my take on the issue.

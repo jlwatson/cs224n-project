@@ -1,0 +1,5 @@
+Why do you really like "math theory and teaching at a respected research university"? Is it for the money, the status, contributing to scientific progress in a "meaningful way", or benefiting society (in a utilitarian sense)? Do you intrinsically like doing research or teaching, and if so do you care about what area of math you research or teach? Which of these would you be most willing to give up if you had to?
+
+(One reason I ask these questions is that I'm not sure scientific/technological progress is generally a good thing at this point. The default Singularity scenario is probably a bad one, and most scientific/technological progress just brings the Singularity closer without making a positive scenario more likely. It would be nicer to have a few more decades of pre-Singularity time to solve FAI-related philosophical problems, for example.)
+
+Depending on your answers, there might be something else you should do instead of hacking yourself to like "writing computer code to build widgets for customers". Also, have you seen the [previous LW discussions](http://lesswrong.com/lw/6ny/smart_young_ambitious_and_clueless_what_to_do_to/4iod) on career choice?

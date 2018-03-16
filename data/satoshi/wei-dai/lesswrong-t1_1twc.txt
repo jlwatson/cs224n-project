@@ -1,0 +1,9 @@
+Here’s another, possibly more general, argument against subjective anticipation.
+
+Consider the following thought experiment. You’re told that you will be copied once and then the two copies will be randomly labeled A and B. Copy A will be given a button with a choice: either push the button, in which case A will be tortured, or don’t push it, in which case copy B will be tortured instead, but for a longer period of time.
+
+From your current perspective (before you’ve been copied), you would prefer that copy A push the button. But if A anticipates any subjective experiences, clearly it must anticipate that it would experience being tortured if and only if it were to push the button. Human nature is such that a copy of you would probably not push the button regardless of any arguments given here, but let’s put that aside and consider what ideal rationality says. I think it says that A should push the button, because to do otherwise would be to violate time consistency.
+
+If we agree that the correct decision is to push the button, then to reach that decision A must (dis)value any copy of you being tortured the same as any other copy, and its subjective anticipation of experiencing torture ends up playing no role in the decision.
+
+Eliezer wrote that we should [make beliefs pay rent in anticipated experiences](http://lesswrong.com/lw/i3/making_beliefs_pay_rent_in_anticipated_experiences/), and I think we should also make anticipation pay rent in correct decisions. It seems that is only possible under a limited set of circumstances (namely, with no mind copying).

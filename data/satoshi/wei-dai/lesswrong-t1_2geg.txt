@@ -1,0 +1,1 @@
+I think ADT is only described on Vladimir Nesov's blog (if there) and XDT nowhere findable. ADT stands for Ambient Decision Theory. Unfortunately there's no comprehensive and easy summary of any of the modern decision theories anywhere. Hopefully Eliezer publishes his TDT manuscript soon.

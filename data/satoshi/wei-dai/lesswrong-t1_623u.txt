@@ -1,0 +1,1 @@
+After googling [Reflexive](http://en.wikipedia.org/wiki/Reflexivity_%28social_theory%29) the only problem I have with using "Reflexive decision theories" is that it may prevent someone using Reflexive Decision Theory for an actual instance of a well developed decision theory. The name is perfect. (And the name UDT is just STUPID! It only makes sense by redefining 'update'.)

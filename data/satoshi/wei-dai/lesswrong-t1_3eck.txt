@@ -1,0 +1,9 @@
+&gt; I was thinking of a recent presentation I saw where the presenter said "It [AIXI] gets rid of all the humans, and it gets a brick, and puts it on the reward button." and it turns out that was Roko, not Eliezer.
+
+Hutter has discussed AIXI wireheading several times, most recenly in [his AGI-10 presentation](http://vimeo.com/14888930) - where he discusses wireheading in the Q &amp; A at the end (01:03:00) - claiming that he can prove it won't happen in some cases - but not all of them.
+
+Mostly he argues that it probably won't do it - for the same reason that many humans don't take drugs: the long-term rewards are low.
+
+Here's a quote:
+
+&gt; Another problem connected, but possibly not limited to embodied agents, especially if they are rewarded by humans, is the following: Sufficiently intelligent agents may increase their rewards by psychologically manipulating their human “teachers”, or by threatening them. This is a general sociological problem which successful AI will cause, which has nothing specifically to do with AIXI. Every intelligence superior to humans is capable of manipulating the latter. In the absence of manipulable humans, e.g. where the reward structure serves a survival function, AIXI may directly hack into its reward feedback. Since this will unlikely increase its long-term survival, AIXI will probably resist this kind of manipulation (like most humans don’t take hard drugs, due to their long-term catastrophic consequences).

@@ -1,0 +1,3 @@
+&gt; Third, I do tentatively hold that p(eAI | attempt towards FAI) &gt; p(eAI | attempt towards AGI).
+
+Clearly, this is *possible*. If an FAI team comes to think this is true during development, I hope they'll reconsider their plans. But can you provide, or link me to, some *reasons* for suspecting that p(eAI | attempt towards FAI) &gt; p(eAI | attempt towards AGI)?

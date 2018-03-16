@@ -1,0 +1,32 @@
+Eliezer,
+
+&gt; The point of Bayesianism is to provide a coherent background epistemology which underlies everything; when a frequentist algorithm works, there's supposed to be a Bayesian explanation of why it works. I have said this before many times but it seems to be a "resistant concept" which simply cannot sink in for many people.
+
+First, I object to the labeling of Bayesian explanations as a "resistant concept". I think it's not only uncharitable but also wrong. I started out with exactly the viewpoint that everything should be explained in terms of Bayes (see one of my earliest and most-viewed [blog posts](http://jsteinhardt.wordpress.com/2010/09/13/nobody-understands-probability/) if you don't believe me). I moved away from this viewpoint slowly as the result of accumulated evidence that this is not the most productive lens through which to view the world.
+
+More to the point: why is it that you think that everything should have a Bayesian explanation? One of the most-cited reasons why Bayes should be an empistemic ideal is the various "optimality" / Dutch book theorems, which I've already argued against in this post. Do you accept the rebuttals I gave, or disagree with them?
+
+My guess is that you would still be in favor of Bayes as a normative standard of epistemology even if you rejected Dutch book arguments, and the reason why you like it is because you feel like it has been useful for solving a large number of problems. But frequentist statistics (not to mention pretty much any successful paradigm) has also been useful for solving a large number of problems, some of which Bayesian statistics cannot solve, as I have demonstrated in this post. The mere fact that a tool is extremely useful does not mean that it should be elevated to a 
+universal normative standard.
+
+&gt; but found that the exact original problem specified may be NP-hard according to Wikipedia, much as my instincts said it should be
+
+We've already discussed this in one of the other threads, but I'll just repeat here that this isn't correct. With overwhelmingly high probability a Gaussian matrix will satisfy the restricted isometry property, which implies that appropriately L1-regularized least squares will return the exact solution.
+
+&gt; I could go on about how for any given solution I can compute its Bayesian likelihood assuming Gaussian noise, and so again Bayes functions well as a background epistemology
+
+The point of this example was to give a problem that, from a modeling perspective, was as convenient for Bayes as possible, but that was computationally intractable to solve using Bayesian techniques. I gave *other* examples (such as in Myth 5) that demonstrate situations where Bayes breaks down. And I argued indirectly in Myths 1, 4, and 8 that the prior is actually a pretty big deal and has the capacity to cause problems in ways that frequentists have ways of dealing with.
+
+&gt; I should very much like to see explained concretely how Jacob's favorite algorithm would handle the case of "You have a self-improving AI which turns out to maximize smiles, in all previous cases it produced smiles by making people happy, but once it became smart enough it realized that it ought to preserve your bad generalization and faked its evidence, and now that it has nanotech it's going to tile the universe with tiny smileyfaces."
+
+I think this is a very bad testing ground for how good a technique is, because it's impossible to say whether something would solve this problem without going through a lot of hand-waving. I think your "notion of how to solve it" is interesting but has a lot of details to fill in, and it's extremely unclear how it would work, especially given that even for concrete problems that people work on now, an issue with Bayesian methods is overconfidence in a particular model. I should also note that, as we've registered earlier, I don't think that what you call the Context Change Problem is actually a problem that an intelligent agent would face: any agent that is intelligent enough to behave at all functionally close to the level of a human would be robust to context changes.
+
+However, even given all these caveats, I'll still try to answer your question on your own terms. Short answer: do online learning with an additional action called "query programmer" that is guaranteed to always have some small negative utility, say -0.001, that is enough to outweigh any non-trivial amount of uncertainty but will eventually encourage the AI to act autonomously. We would need some way of upper-bounding the regret of other possible actions, and of incorporating this utility constraint into the algorithm, but I don't think the amount of fleshing out is any more or less than that required by your proposal.
+
+[WARNING: The rest of this comment is mostly meaningless rambling.]
+
+I want to stress again that the above paragraph is only a (sketch of) an answer to the question as you posed it. But I'd rather sidestep the question completely and say something like: "OK, if we make literally no assumptions, then we're completely screwed, because moving any speck of dust might cause the universe to explode. Being Bayesian doesn't make this issue go away, it just ignores it.
+
+So, what assumptions can we be reasonably okay with making that would help us solve the problem? Maybe I'd be okay assuming that the mechanism that takes in my past actions and returns a utility is a Turing machine of description length less than 10^15. But unfortunately that doesn't help me much, because for every Turing machine M, there's one of not that much longer description length that behaves identically to M up until I'm about to make my current decision, and then penalizes my current decision with some extraordinary large amount of disutility. Note that, again, being Bayesian doesn't deal with this issue, it just assigns it low prior probability.
+
+I think the question of exactly what assumptions one would be willing to make, that would allow one to confidently reason about actions with potentially extremely discontinuous effects, is an important and interesting one, and I think one of the drawbacks of "thinking like a Bayesian" is that it draws attention away from this issue by treating it as mostly solved (via assigning a prior)."

@@ -1,0 +1,1 @@
+Have an option when viewing [all recent comments on the site](http://lesswrong.com/comments/) to display the parent along with each comment, because many comments can't be understood out of context, and it's a pain to click on "Parent" for each such comment.

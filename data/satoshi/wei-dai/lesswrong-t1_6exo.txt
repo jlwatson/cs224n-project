@@ -1,0 +1,3 @@
+I often read LW on my phone and for that use case rot13 is the best spoiler method by far. It prevents immediately seeing words that would give away spoilers, but I can generally decode a given phrase in my head given the word lengths, punctuation, topic of conversation, and position of common words like 'gur', 'na', 'bs', 'vf', or 'gb'.
+
+Using reddit-style CSS spoiler tags means that I can't access the spoilered content at all AFAICT, and linking me to a decoder, while nice in theory, isn't very helpful because if I click it I will lose the nice highlighting of new posts. This is a Big Deal on long-running threads like the HPMoR discussions.

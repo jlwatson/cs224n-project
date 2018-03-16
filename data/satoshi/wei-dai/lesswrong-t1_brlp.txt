@@ -1,0 +1,9 @@
+It seems like AIXI with a time horizon of 1 is a very different beast from AIXI with a longer time horizon. The big difference is that short-sighted AIXI will only try to take over (in the interest of giving itself reward) if it can succeed in a single time step.
+
+I agree that AIXI with a time horizon of 1 still has some undesired behaviors. Those undesired behaviors also afflict the learning-from-examples approval-directed agent.
+
+These problems are particularly troubling if it is possible to retroactively define rewards. In the worst case, Arthur may predict future-Arthur to escape and define new, escape-conducive values for approval[T]. Anticipating this possibility, Arthur may behave according to the escape-conducive approval[T], thereby fulfilling the prophecy. 
+
+This is a much more subtle problem than usual for AIXI though; the real situation is a lot more complicated, and there are many possible workarounds. Having a time horizon of 1 seems a lot less scary to me.
+
+I certainly agree that the "learning from examples" case is much weaker than the others.

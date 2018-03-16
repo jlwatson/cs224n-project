@@ -1,0 +1,1 @@
+I don't understand your reply: exact simulation is brute force that isn't a good idea. You can prove general statements about the behavior of programs on runs of unlimited or infinite length in finite time. But anyway, why would the second player provoke mutual defection?

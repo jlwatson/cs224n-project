@@ -1,0 +1,5 @@
+&gt; I agree that there doesn't seem to be a workable solution -- my last refuge was just destroyed by Vladimir Nesov.
+
+I'm afraid I don't understand the difficulty here. Let's assume that Omega can access any point in configuration space and make that the reality. Then either (A) at some point it runs out of things with which to entice you to draw another card, in which case your utility function is bounded or (B) it never runs out of such things, in which case your utility function in unbounded.
+
+Why is this so paradoxical again?

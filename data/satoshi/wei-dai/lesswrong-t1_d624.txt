@@ -1,0 +1,22 @@
+Re 1:
+
+For a working scheme, I would expect it to be usable by a significant fraction of humans (say, comparable to the fraction that can learn to write a compiler).
+
+That said, I would not expect almost anyone to actually play the role of the overseer, even if a scheme like this one ended up being used widely. An existing analogy would be the human trainers who drive facebook's M (at least in theory, I don't know how that actually plays out). The trainers are responsible for getting M to do what the trainers want, and the user trusts the trainers to do what the user wants. From the user's perspective, this is no different from delegating to the trainers directly, and allowing them to use whatever tools they like.
+
+I don't yet see why "defer to human judgments and handle uncertainty in a way that they would endorse" requires evaluating complex philosophical arguments or having a correct understanding of metaphilosophy. If the case is unclear, you can punt it to the actual humans.
+
+If I imagine an employee who sucks at philosophy but thinks 100x faster than me, I don't feel like they are going to fail to understand how to defer to me on philosophical questions. I might run into trouble because now it is comparatively much harder to answer philosophical questions, so to save costs I will often have to do things based on rough guesses about my philosophical views. But the damage from using such guesses depends on the importance of having answers to philosophical questions in the short-term.
+
+It really feels to me like there are two distinct issues:
+
+1. Philosophical understanding may help us make good decisions in the short term, for example about how to trade off extinction risk vs faster development, or how to prioritize the suffering of non-human animals. So having better philosophical understanding (and machines that can help us build more understanding) is good.
+2. Handing off control of civilization to AI systems might permanently distort society's values. Understanding how to avoid this problem is good.
+
+These seem like separate issues to me. I am convinced that #2 is very important, since it seems like the largest existential risk by a fair margin and also relatively tractable. I think that #1 does add some value, but am not at all convinced that it is a maximally important problem to work on. As I see it, the value of #1 depends on the importance of the ethical questions we face in the short term (and on how long-lasting are the effects of differential technological progress that accelerates our philosophical ability).
+
+Moreover, it seems like we should evaluate solutions to these two problems separately. You seem to be making an implicit argument that they are linked, such that a solution to #2 should only be considered satisfactory if it also substantially addresses #1. But from my perspective, that seems like a relatively minor consideration when evaluating the goodness of a solution to #2. In my view, solving both problems at once would be at most 2x as good as solving the more important of the two problems. (Neither of them is necessarily a crisp problem rather than an axis along which to measure differential technological development.)
+
+I can see several ways in which #1 and #2 are linked, but none of them seem very compelling to me. Do you have something in particular in mind? Does my position seem somehow more fundamentally mistaken to you?
+
+(This comment was in response to point 1, but it feels like the same underlying disagreement is central to points 2 and 3. Point 4 seems like a different concern, about how the availability of AI would itself change philosophical deliberation. I don't really see much reason to think that the availability of powerful AI would make the endpoint of deliberation worse rather than better, but probably this is a separate discussion.)

@@ -1,0 +1,7 @@
+The axiom I object to there is independence, not continuity. If A &lt; B then pA+(1-p)C shouldn't necessarily be less than pB+(1-p)C for small values of p.
+
+I think it would be quite hard to object to the Archimedean formulation of continuity, and completeness and transitivity are obvious. But I see no reason why independence should be true. In particular, independence is basically saying that my preference over outcomes should be linear over the space of probability distributions, which will obviously lead to maximizing expected utility theory (assuming that a utility function exists, which is the part of VNM that I would agree with).
+
+Can someone who subscribes to VNM please justify why independence is a reasonable axiom? Given that VNM implies that we should perform ridiculous actions (like pay Pascal's mugger), I think this is quite relevant.
+
+Given the number of downvotes here, perhaps I will in a separate post present the version of VNM where we don't assume independence, after I work out exactly what we end up with.

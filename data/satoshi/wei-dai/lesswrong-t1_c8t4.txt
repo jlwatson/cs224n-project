@@ -1,0 +1,5 @@
+&gt; if I did not already have native philosophical abilities on par with the overseer, I I couldn't give answers to any philosophical questions that the overseer would find helpful, unless I had the superhuman ability to create a model of the overseer including his philosophical abilities, from scratch.
+
+I don't quite understand the juxtaposition to the white box metaphilosophical algorithm. If we could make a simple algorithm which exhibited weak philosphical ability, can't the RL learner also use such a simple algorithm to find weak philosophical answers (which will in turn receive a reasonable payoff from us)? 
+
+Is the idea that by writing the white box algorithm we are providing key insights about what metaphilosphy is, that an AI can't extract from a discussion with us or inspection of our philosphical reasoning? At a minimum it seems like we could teach such an AI how to do philosphy, and this would be no harder than writing an algorithm (I grant that it may not be much easier).

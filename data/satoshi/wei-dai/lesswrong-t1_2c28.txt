@@ -1,0 +1,5 @@
+&gt; But if you fix a language L for your universal prior, then there will be a more powerful metalanguage L' that allows finitely describing some structure, which can't be finitely described in the base language, right? So don't we still have the problem of the universal prior not really being universal?
+
+It can still talk *about* all structures, but sometimes won't be able to point at a specific structure, only a class containing it. You only need a language expressive enough to describe everything preference refers to, and no more. (This seems to be the correct solution to ontology problem - describe preference as being about mathematical structures (more generally, concepts/theories), and ignore the question of the nature of reality.)
+
+(Clarified the second part of the previous comment a bit.)

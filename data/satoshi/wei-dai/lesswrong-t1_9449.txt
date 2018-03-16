@@ -1,0 +1,8 @@
+Using probabilities instead of proofs seems to eliminate the old obstructions, but it does leave a sequence of challenging problems (hence the work on probabilistic reflection). E.g., we've proved that there is an algorithm P using a halting oracle such that:
+
+(Property R): Intuitively, we "almost" have a &lt; P(X | a &lt; P(X) &lt; b) &lt; b. Formally:
+
+- For each sentence X, each a, and each b, P(X AND a&lt;P(X)&lt;b ) &lt; b * P(a &lt;= P(X) &lt;= b).
+- For each sentence X, each a, and each b, P(X AND a&lt;=P(X)&lt;=b) &gt; a * P(a &lt; P(X) &lt; b)
+
+But this took a great deal of work, and we can't exhibit any algorithm that simultaneously satisfies Property R and has P(Property R) = 1. Do you think this is not an important question? It seems to me that we don't yet know how many of the Godelian obstructions carry in the probabilistic environment, and there are still real problems that will involve ingenuity to resolve.

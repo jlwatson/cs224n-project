@@ -1,0 +1,9 @@
+&gt;My own intuition seems to assign a probability to it that is greater than "very unlikely"
+
+Why? You're making an extraordinary claim. Something - undefined - called philosophical ability is needed (for some reason) to self improve and, for some extraordinary and unexplained reason, this ability causes an agent to have a goal G. Where goal G is similarly undefined.
+
+Let me paraphrase: *Consider the possibility that "mathematical ability" is needed to self-improve beyond some threshold of intelligence, and this same "mathematical ability" also reliably causes one to decide that some particular goal G is the right goal to have, and therefore beyond some threshold of intelligence all agents have goal G.*
+
+Why is this different? What in your intuition is doing the work "philosophical ability" -&gt; same goals? If we call it something else than "philosophical ability", would you have the same intuition? What raises the status of that implication to the level that it's worthy of consideration?
+
+I'm asking seriously - this is the bit in the argument I consistently fail to understand, the bit that never makes sense to me, but who's outline I can feel in most counterarguments.

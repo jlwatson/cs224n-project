@@ -1,0 +1,3 @@
+Re: Toby's "Regardless of the actual computational limits of our universe, I have no doubt that the study of hypercomputation will lead to many important theoretical results across computer science, philosophy, mathematics and physics."
+
+Hmm.  What have we got so far out of Omegas and Oracles?  I expect what we will get out of Hypercomputation will be mostly confusion - since it *sounds* as though it is a field with a real object of study.

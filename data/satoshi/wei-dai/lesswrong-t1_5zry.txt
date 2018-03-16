@@ -1,0 +1,5 @@
+There is a bit of terminological confusion here. Predictor makes a decision to either one-box or two-box, and the decision to one-box could be called "predicting that the agent one-boxes", but it isn't necessarily able to predict so unconditionally, so it's more like "predicting that the agent one-boxes given that the predictor one-boxes".
+
+The predictor is supposed to one-box, but the agent isn't supposed to infer (within M steps) that the predictor one-boxes (just as in finite diagonal step, the objective is to make a decision unpredictable, not impossible). On the other hand, if this plan works out, the agent should be able to infer that the predictor one-boxes conditional on the agent one-boxing.
+
+A common theme is that the diagonal rule could make events unpredictable, but still conditionally predictable. It's interesting whether it's possible to navigate this edge well.

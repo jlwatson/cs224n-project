@@ -1,0 +1,11 @@
+Among target faculty listing meta-ethics as their area of study moral realism's lead is  [much smaller](http://philpapers.org/surveys/metaresults.pl?affil=Target+faculty&amp;areas0=28&amp;areas_max=1&amp;normalize=Off): 42.5% for moral realism and 38.2% against.
+
+Looking further through the philpapers data, a big chunk of the belief in moral realism seems to be coupled with theism, where anti-realism is coupled with atheism and knowledge of science. The more a field is taught at Catholic or other religious colleges (medieval philosophy, bread-and-butter courses like epistemology and logic) the more moral realism, while philosophers of science go the other way. Philosophers of religion are 87% moral realist, while philosophers of biology are 55% anti-realist.
+
+In general, only 61% of respondents "accept" rather than lean towards atheism, and a quarter don't even lean towards atheism. Among meta-ethics specialists, 70% accept atheism, indicating that atheism and subject knowledge both predict moral anti-realism. If we restricted ourselves to the 70% of meta-ethics specialists who also accept atheism I would bet at at least 3:1 odds that moral anti-realism comes out on top.
+
+Since the Philpapers team will be publishing correlations between questions, such a bet should be susceptible to objective adjudication within a reasonable period of time.
+
+A similar pattern shows up for physicalism.
+
+In general, those interquestion correlations should help pinpoint any [correct contrarian cluster](http://lesswrong.com/lw/1kh/the_correct_contrarian_cluster/).

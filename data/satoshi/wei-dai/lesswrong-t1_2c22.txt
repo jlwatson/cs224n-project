@@ -1,0 +1,5 @@
+If you can refer to an individual structure informally, then either there is a language that allows finitely describing it, or ability to refer to that structure is an illusion and in fact you are only referring to some bigger collection of things (property) of which the object you talk about is an element. If you can't refer to a structure, then you don't need plausibility for it.
+
+&gt; Can't you give an example using a situation where Bayesian updating is non-problematic, and just show how we might use your idea for the prior with standard decision theory?
+
+This is only helpful is something works with tricky mathematical structures, and in all cases that seems to need to be preference. For example, you'd prefer to make decisions that are (likely!) consistent with a given theory (make it hold), then it helps if your decision and that theory are expressed in the same setting (language), and you can make decisions under logical uncertainty if you use the universal prior on statements. Normally, decision theories don't consider such cases, so I'm not sure how to relate. Introducing observations will probably be a mistake too.

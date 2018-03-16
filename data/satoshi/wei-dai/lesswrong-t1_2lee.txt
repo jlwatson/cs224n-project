@@ -1,0 +1,3 @@
+Nice! Thanks.
+
+*Edit:* "shows only new/unread comments upon refresh" — how does it determine readness?

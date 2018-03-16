@@ -1,0 +1,15 @@
+&gt; The first is that my preferences seem to have a logical dependency on the ultimate nature of reality. 
+
+An important principle of FAI design to remember here is "be lazy!". For any problem that people would want to solve, where possible, FAI design should redirect that problem to FAI, instead of actually solving it in order to construct a FAI.
+
+Here, you, as a human, may be interested in "nature of reality", but this is not a problem to be solved before the construction of FAI. Instead, the FAI should pursue this problem in the same sense you would.
+
+Syntactic preference is meant to capture this sameness of pursuits, without understanding of what these pursuits are about. Instead of wanting to do the same thing with the world as you would want to, the FAI having the same syntactic preference wants to perform the same actions as you would want to. The difference is that syntactic preference refers to actions (I/O), not to the world. But the outcome is exactly the same, if you manage to represent your preference in terms of your I/O.
+
+&gt; I don't know what my preferences are until I resolve what "all possible mathematical structures" means exactly
+
+You may still know the process of discovery that you want to follow while doing what you call getting to know your own preference. That process of discovery gives definition of preference. We don't need to actually compute preference in some predefined format, to solve the conceptual problem of defining preference. We only need to define a process that determines preference.
+
+&gt; The second is that I don't see how you plan to differentiate within "syntactic preference", those that are true preferences, and those that are caused by computational limitations and/or hardware/software errors.
+
+This issue is actually the last conceptual milestone I've reached on this problem, just a few days ago. The trouble is in how would the agent reason about the possibility of corruption of its own hardware. The answer is that *human* preference is to a large extent concerned with consequentialist reasoning about the world, so human preference can be interpreted as modeling the environment, including the agent's hardware. This is an informal statement, referring to the real world, but the behavior supporting this statement is also determined by formal syntactic preference that doesn't refer to the real world. Thus, just mathematically implementing human preference is enough to cause the agent to worry about how its hardware is doing (it isn't in any sense formally defined as its own hardware, but what happens in the agent's formal mind can be interpreted as recognizing the hardware's instrumental utility). In particular, this solves the issues of possible morally harmful impact of the FAI's computation (e.g. simulating tortured people and then deleting them from memory, etc.), and of upgrading the FAI beyond the initial hardware (so that it can safely discard the old hardware).

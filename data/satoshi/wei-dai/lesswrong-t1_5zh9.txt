@@ -1,0 +1,5 @@
+Well, not quite that old, but yes, not very recent. The [internet archive](http://wayback.archive.org/web/20090801000000*/http://www.acceleratingfuture.com/wiki/So_You_Want_To_Be_A_Seed_AI_Programmer) says the page was created at the end of 2009, but it was probably not done by EY himself. The earliest reference google gives is in 2007...
+
+So, you're saying, now the party line is on single-level formal system-style architectures? But does it even make sense to try to define FAI-meaningful concepts in such architecture? Isn't it like trying to define 'love', 'freedom', and 'justice' in terms of atoms?
+
+I remember EY saying somewhere (can't find where now) that AIXI design was very commendable in the sense that here finally is a full AGI design that can be clearly shown to kill you :)

@@ -1,0 +1,7 @@
+&gt; There are a bunch of technical nits I could pick with the article (the most salient one now being "Force them to seek a partner (co-parent).")
+
+I'm not insisting on that suggestion, but I'm curious why you want to single that one out as something to object to.
+
+&gt; I think Eliezer's response would be that value is fragile: it doesn't matter if we preserve most of our values if we lose a single critical one. ... What do you think?
+
+I probably agree with Eliezer on the importance of preserving our human values near-exactly (though I might disagree with him about what those values *are*).  But I don't see how preserving *all* of our values would be easier in the case of a FOOMing *singleton* than in the scenario I promote here - in which we have a collectively slow-FOOMing *society* of roughly-balanced-in-power AIs and (in the early stages) unenhanced humans.  In fact, I think that preserving human values will be easier if we have a large number of independent advocates of those values - each of them possibly characterizing those values in slightly different ways.

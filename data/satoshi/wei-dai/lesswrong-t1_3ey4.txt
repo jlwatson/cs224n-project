@@ -1,0 +1,3 @@
+I think the standard term for what you call "anthropic uncertainty" is "indexical uncertainty" (which, as far as I can tell, was first coined by [Nick Bostrom in his 2000 PhD thesis](http://web.archive.org/web/20070718005327/www.anthropic-principle.com/phd/phdhtml.html)).
+
+Also, I suggest that you say a bit more about the context and motivation for this post. I interpret what you wrote as an outline of some of the ambiguities/choices a human or Bayesian AI would face if they tried to convert their current preferences into UDT preferences. But I'm not sure if that's what you intended.

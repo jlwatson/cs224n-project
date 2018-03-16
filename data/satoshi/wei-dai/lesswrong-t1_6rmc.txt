@@ -1,0 +1,3 @@
+"ten trillion factorial factorial"
+
+This takes about 2 seconds to say. Anyone want to try for a shorter one?

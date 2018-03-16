@@ -1,0 +1,12 @@
+&gt;What I meant was, what point were you trying to make with that statement? According to Aumann's paper, every planning-optimal solution is also an action-optimal solution, so the decision procedure they endorse will end up picking the planning-optimal solution. 
+
+My understanding of their paper has changed somewhat since we began this discussion.  I now believe that repeating the planning-optimal analysis at every decision node is only guaranteed to give ideal results in simple cases like this one in which every decision point is in the same information set.  In more complicated cases,
+I can imagine that the policy of planning-optimal-for-the first-move, then action-optimal-thereafter might do better.  I would need to construct an example to assert this with confidence.
+
+&gt;(My complaint is just that it goes about it in an unnecessarily round-about way.) If theirs is a correct policy, then the policy of just recomputing the planning-optimal solution must also be correct. 
+
+In this simple example, yes.  Perhaps not in more complicated cases.
+
+&gt;That seems to disprove your "only correct policy" claim. I thought your "sequential equilibrium" line was trying to preempt this argument, but I can't see how.
+
+And I can't see how to explain it without an example

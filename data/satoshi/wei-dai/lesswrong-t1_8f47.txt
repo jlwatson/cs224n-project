@@ -1,0 +1,1 @@
+Actually, the third problem is probably the most relevant of them all - it's akin to a bounded paperclipper uncertain as to whether they've succeeded. Kind of like: "You get utility 1 for creating 1 paperclip and then turning yourself off (and 0 in all other situations)."

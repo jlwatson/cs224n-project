@@ -1,0 +1,7 @@
+&gt;And if we do discover the specific lines of code that will get an AI to perfectly care about its programmer's True Intentions, such that it reliably self-modifies to better fit them — well, then that will just mean that we've solved Friendliness Theory. The clever hack that makes further Friendliness research unnecessary is Friendliness.
+
+Some people seem to be arguing that it may not be that hard to discover these specific lines of code. Or perhaps that we don't need to get an AI to "perfectly" care about its programmer's True Intentions. I'm not sure if I understand their arguments correctly so I may be unintentionally strawmanning them, but the idea may be that if we can get an AI to approximately care about its programmer or user's intentions, and also prevent it from FOOMing right away (or just that the microeconomics of intelligence explosion doesn't allow for such fast FOOMing), then we can make use of the AI in a relatively safe way to solve various problems, including the problem of how to control such AIs better, or how to eventually build an FAI. What's your take on this class of arguments?
+
+&gt;Being Friendly is of instrumental value to barely any goals. 
+
+Tangentially, being Friendly is probably of instrumental value to *some* goals, which may turn out to be easier to instill in an AGI than solving Friendliness in the traditional terminal values sense. I came up with the term "Instrumentally Friendly AI" to describe such an approach.

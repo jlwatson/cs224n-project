@@ -1,0 +1,20 @@
+&gt;The kind of people we'd need for an FAI team are:
+
+&gt;1. Highly intelligent, and especially skilled in maths, probably at the IMO medal-winning level. (FAI team members will need to create lots of new math during the course of the FAI research initiative.)
+&gt;2. Trustworthy. (Most FAI work is not "Friendliness theory" but instead AI architectures work that could be made more dangerous if released to a wider community that is less concerned with AI safety.)
+
+If FAI is or can be made tractable, it will be a technological system: some combination of hardware and software, an actual practical *invention*.  The parenthetical comment in your second point indicates you seem to acknowledge that FAI work mainly consists of safe AI architecture work.
+
+If you look back on the mountain of historical evidence concerning invention, there is a rough general pattern or archetype for inventors.  They may have more names or synonyms today: entrepreneur,  hacker, programmer, engineer, etc, but  the historical pattern remains.
+
+The inventor mentality is characterized by relentless curiosity, creativity, dedication, knowledge, and intelligence.  Formal education appears to be of little importance, and may in fact slightly negatively correlate with invention capability.  Bill Gates dropped out of college, but Orville Wright dropped out of high school, and this trend appears across the technological landscape.  Early mathematical ability *may* correlate with later inventorhood, but studying formal mathematics (being a mathematician) has a strong negative correlation with later invention.  One immediate explanation is that any time spent studying formal mathematics is a waste of extremely precious higher cortical capacity which rivals are entirely devoting to pure technological study.
+
+The Wright brothers didn't need much or any mathematics to innovate in flight.  They needed to understand flight, understand the landscape of prior art, and then quickly iterate and innovate within that space.  Their most powerful tool was not mathematics or 'rationality', but rather the *wind tunnel*.
+
+&gt; We can attract some of the people meeting these criteria by . ..
+
+You don't need accomplished mathematicians, if anything they would actually reduce your chances of success.
+
+You need to attract the specific people who are going to or would develop AGI *before* you.  They will almost certainly not be mathematicians (think Wright, Farnsworth, Edison, Tesla, Bill Gates, and not Terrance Tao).  The historical evidence says they are unlikely to have any existing record of high status work.
+
+How could you identify a future AGI-inventor?  That should be the question, and the answer is *clearly not* "recruit math contest winners". 

@@ -1,0 +1,3 @@
+&gt; everyone makes a sacrifice to optimize for a zero-sum competition, ends up with the same relative status, but worse absolute status.
+
+I'm a bit surprised I haven't seen this particular incentives problem named in the academic literature. It is related in different ways to economic concepts like [tragedy of the commons](http://en.wikipedia.org/wiki/Tragedy_of_the_commons), [social trap](http://en.wikipedia.org/wiki/Social_trap), [tyranny of small decisions](http://en.wikipedia.org/wiki/Tyranny_of_small_decisions), and [information asymmetry](http://en.wikipedia.org/wiki/Information_asymmetry), but isn't identical with or fully captured by any of them.

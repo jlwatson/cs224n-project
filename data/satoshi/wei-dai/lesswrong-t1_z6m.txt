@@ -1,0 +1,15 @@
+But "status", itself, still seems like a [black box](http://lesswrong.com/lw/is/fake_causality/).
+
+I think "offense" is one emotion caused by a human-universal ability to recognize states of mind in other people that can motivate those people to take actions disadvantageous to oneself or one's allies, and to predict that tolerating an action associated with such a state of mind will set a disadvantageous precedent.
+
+The precedent would be as if the other person had negotiated a right to take those disadvantageous actions, and as if they might later negotiate a right to take actions even more disadvantageous.
+
+The state of mind "I am thinking of someone who has low status" is just one possible such state of mind. Other possibilities are "objectification", "depersonalization", "violent anger", "unwillingness to imitate sanity", "intent to theive", "intent to deceive", "sexual interest", "intent to slack", "unwillingness to obey a shared lord", "intent to obey the letter of the law and not the spirit", "intent to reduce a people to slavery"... But some of these cause "offense" and some cause other emotions. What is the pattern?
+
+I think "offense" only happens for states of mind that might cause another person to think of oneself (or maybe one's group) as having some intrinsic property disadvantageous to oneself. "Low status" is one such property. "Non-personhood" is another one. And if you are offended at a peer's unwillingness to obey a shared lord, maybe it is because *the lord* might think of *you* as having the intrinsic property "disobedient" and that would be disadvantageous to you. But maybe there's something I didn't think of.
+
+\[ETA\] Of the different states of mind that can cause "offense", it is possible to negotiate different precedents of levels of associated behavior. It is possible to negotiate a precedent of high toleration of "depersonalization"-associated behavior and low toleration of "sexual interest"-associated behavior or vice versa. If offense was only about status, these differences would have to be part of the machinery of status. \[/ETA\]
+
+My explanation also uses the ideas of "negotiated", "precedent", and "right". I don't know exactly how those ideas can be reduced to many-player game theory. But some related ideas and intuitions are in David Friedman's "[A Positive Account of Property Rights](http://www.daviddfriedman.com/Academic/Property/Property.html)", George Ainslie's [Breakdown of Will](http://picoeconomics.com/breakdown.htm), and Eliezer Yudkowsky's post [Interpersonal Morality](http://lesswrong.com/lw/sn/interpersonal_morality/). (Has anyone written about punishment of nonpunishers and punishment of too-eager punishers as two parts of the same problem?)
+
+I also had comments [here](http://lesswrong.com/lw/12w/absolute_denial_for_atheists/xs4), [here](http://lesswrong.com/lw/12w/absolute_denial_for_atheists/xsa), [here](http://lesswrong.com/lw/12w/absolute_denial_for_atheists/xtw), and [here](http://lesswrong.com/lw/12w/absolute_denial_for_atheists/y2v) that I thought had good ideas.

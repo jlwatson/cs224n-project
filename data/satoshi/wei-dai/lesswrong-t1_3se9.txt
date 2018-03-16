@@ -1,0 +1,3 @@
+It might be worth noting that I often phrase questions as "how would we design an FAI to think about that" not because I want to build an FAI, but because I want the answer to some philosophical question for myself, and phrasing it in terms of FAI seems to be (1) an extremely productive way of framing the problem, and (2) generates interest among those who have good philosophy skills and are already interested in FAI.
+
+ETA: Even if we don't build an FAI, eventually humanity might have god-like powers, and we'd need to solve those problems to figure out what *we* want to do.

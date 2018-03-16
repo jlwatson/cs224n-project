@@ -1,0 +1,7 @@
+&gt;I realized that it would essentially act as if it believed that the measurement would come out 0 with probability 1.
+
+Yes.
+
+&gt;The fact that it would fail to take into account the explosives in this calculation seems to make little difference to the eventual outcome.
+
+Little difference - but maybe some. Maybe it will neutralise all the other countermeasures first, giving us time? Anyways, the explosive example wasn't ideal; we can probably do better. And we can use indifference for other things, such as making an oracle indifferent to the content of its answers (pipe the answer though a channel that has a quantum process that deletes it with tiny probability). These seems many things we can use it for.

@@ -1,0 +1,3 @@
+The example doesn't show "pain that has no bad effects on decision-making".  That excruciating pain you're going to put the brain through will fundamentally alter what decisions that brain will make, via diversion of its cognitive resources.
+
+Perhaps you don't consider that effect on that brain's decision making to be bad.  Why wouldn't you?  If you're using the brain simulation to do human-level AI, you want it at its best.  If you're researching how people respond to pain, then it can be good or bad depending on what the purpose of that research is.

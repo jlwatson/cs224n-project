@@ -1,0 +1,11 @@
+&gt; ... I doubt you're going to convince me I'm wrong, or resolve that confusion, by refusing to talk about morality and only talking about what AIs will do.
+
+I have to apologize.  Apparently my writing was extremely unclear.  I wasn't refusing to talk about morality.  The whole posting was an exploration of some of the properties of the relation "A is at least as good as B" when A and B are normative ethical systems.
+
+Admittedly, I did not spend much time actually making ethical judgments,  I was operating at the meta level.
+
+&gt; I still have to decide what values to give it initially, because those values will partly determine the outcome of the universe. ...
+
+But the whole point of my posting was that, if there is convergence (in the second sense) then those initial values may make very little difference in the outcome of the universe - that is, they may be important initially, but in the longer term the ethical system that is converged upon depends less on the seed ethics than on issues of how AIs depend upon each other, how they reproduce, etc.
+
+I'm very sorry that you missed this - the main thrust of the posting.  If I had written more clearly, your response might have been a more productive disagreement about substance, rather than a complaint about the title.

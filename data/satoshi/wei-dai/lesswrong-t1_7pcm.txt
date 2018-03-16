@@ -1,0 +1,3 @@
+Ok - but I don't see that as being any better than CDT. In both cases we need a working module (that we don't have) to make the theory work.
+
+UDT is better than CDT because it allows correlations with "non-copies"; I think we should focus on that, not on CDT's lack of copy-finding modules.

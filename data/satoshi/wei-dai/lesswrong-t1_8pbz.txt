@@ -1,0 +1,17 @@
+&gt;What do you think represents the best moral philosophy that LW has to offer?
+
+The metaethics sequence sinks most of the standard confusions, though it doesn't offer actual conclusions or procedures.
+
+Complexity of value. Value being human specific. morality as optimization target. etc.
+
+Maybe it's just the epistemic quality around here though. LWers talking about morality are able to go much further without getting derailed than the best I've seen elsewhere, even if there weren't much good work on moral philosophy on LW.
+
+&gt;Just a few months ago you seemed to be saying that we didn't need to study moral philosophy, but just try to maximize "awesomeness", which "You already know that you know how to compute". I find it confusing that this post doesn't mention that one at all. Have you changed your mind since then, if so why? Or are you clarifying your position, or something else?
+
+Right. This is a good question.
+
+For actually making decisions, use Awesomeness or something as your moral proxy, because it more or less just works. For those of us who want to go deeper and understand the theory of morality declaratively, the OP applies; we basically don't have any good theory. They are two sides of the same coin; the situation in moral philosophy is like the situation in physics a few hundred (progress subjective) years ago, and we need to recognize this before trying to build the house on sand, so to speak. So we are better off just using our current buggy procedural morality.
+
+I could have made the connection clearer I suppose.
+
+This post is actually a sort of precurser to some new and useful (I hope) work on the subject that I've written up but haven't gotten around to polishing and posting. I have maybe 5 posts worth of morality related stuff in the works, and then I'm getting out of this godforsaken dungeon.

@@ -1,0 +1,13 @@
+Your title, "LessWrong usually assumes normativism about rationality; Elqayam &amp; Evans (2011) argue against it" makes it sound like the authors disagree with LW. I don't think they do. They're pointing out some methodological problems with psychological research that involves measuring people's actual cognitive processes against norms of rationality, which have little to do with our use of normativism (i.e., using normative rationality to improve people's reasoning and decision making). 
+
+In the conclusion they specifically disclaim that they're arguing against our kind of normativism:
+
+&gt;It is not our purpose to exclude normativism entirely from scientific endeavor. There is a
+need for research in education, planning, policy development and so on, in all of which norms
+play a crucial role. The Meliorist position is a strong case in point, both the version advocated
+so powerfully by the individual differences research program of Stanovich and West (2000;
+Stanovich, 1999; 2004; 2009b), and the version put forward by Baron (e.g., 2008). Such
+authors wish to find ways improve people’s reasoning and decision-making and therefore
+require some standard definition of what it means to be rational.
+
+I think they are also not saying that human thinking and decisions *can't* be measured against normative models. My understanding is that they are suggesting that doing so makes it easy for several fallacies and biases to sneak into one's research, so it's a bad idea *in practice* for someone trying to find out how humans actually think.

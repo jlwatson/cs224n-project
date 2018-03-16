@@ -1,0 +1,9 @@
+I've updated [the script](http://www.ibiblio.org/weidai/lesswrong_comments_reade.user.js) to version 1.0.5. Here are the new changes:
+
+* loads comments directly from LW instead of through another server
+* added Chrome support
+* auto checking/notification of new versions
+* can specify a starting point to load comments from (if you want, you can read all LW comments, 400 at a time, by starting at comment ID 1)
+* can collapse all comments under a post
+
+It was developed/tested on Windows / Firefox 6.0.2 / Greasemonkey 0.9.11 and Windows / Chrome 14.0.835.163.

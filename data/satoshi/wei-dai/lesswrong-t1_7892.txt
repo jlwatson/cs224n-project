@@ -1,0 +1,3 @@
+&gt;It's less well appreciated, but I think true (though fuzzy), that many fields manage to circumvent the effects of diagonalization a bit further by considering objects that in some sense live on multiple levels of the hierarchy at the same time. I'd call that "the parametric polymorphism trick", perhaps.
+
+Was the PA_K trick invented by you, and if not where can I learn more about it? Can you also give some references for other instances of this "parametric polymorphism trick"?

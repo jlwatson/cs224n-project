@@ -1,0 +1,5 @@
+I don't think this post adequately distinguishes between two concepts: how does the human utility function actually work, and how should it work.
+
+The answer to the first question is (I thought people here agreed) that humans weren't actually utility maximizers; this makes things like your descriptive argument against perceptive determinism unnecessary and a lot of your wording misleading.
+
+The second question is: if we're making some artificial utility function for an AI or just to prove a philosophical point, how should that work - and I think your answer is spot on. I would hope that people don't really disagree with you here and are just getting bogged down by confusion about real brains and some map-territory distinctions and importing epistemology where it's not really necessary.

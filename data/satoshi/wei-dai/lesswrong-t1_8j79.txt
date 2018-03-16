@@ -1,0 +1,5 @@
+I agree. I argued that values about the long term will dominate in the long term, and I suggested that our current long term values are mostly altruistic. But in the short term (particularly during a transition to machine intelligences) our values could change in important ways, and I didn't address that. 
+
+I expect we'll handle this ("expect" as in probability &gt;50%, not probability 90%) primarily because we all want the same outcome, and we don't yet see any obstacles clearly enough to project confidently that the obstacles are too hard to overcome. But like I said, it seems like an important thing to work on, directly or indirectly.
+
+I don't quite understand your point (3), which seems like it was addressed. A competitor who isn't able to reason about the future seems like a weak competitor in the long run. It seems like the only way such a competitor can win (again, in the long run) is by securing some irreversible victory like killing everyone else.

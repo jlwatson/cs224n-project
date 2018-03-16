@@ -1,0 +1,5 @@
+Did Eliezer's ever post his [planned](http://lesswrong.com/lw/tk/brief_break/) critique of AIXI? I've seen/heard Eliezer state his position on AIXI several times, but can't locate a detailed argument.
+
+Just now, I wanted to point the author of http://physicsandcake.wordpress.com/2011/01/22/pavlovs-ai-what-did-it-mean/ ("Even in our deepest theories of machine intelligence, the idea of reward comes up. There is a theoretical model of intelligence called AIXI, developed by Marcus Hutter...") to it, but I couldn't.
+
+Perhaps the flaws of AIXI are obvious to most of us here by now, but somebody should probably still write them down...

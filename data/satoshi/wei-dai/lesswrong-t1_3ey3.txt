@@ -1,0 +1,12 @@
+This is already being done on Less Wrong!
+
+Back in August 2010, I helped install an even more universal solution in the form of [VigLink](http://www.viglink.com) to experiment and see if it would work well for us. These are our recent earnings so far... I think all from Amazon:
+
+Aug 10: $0
+Sep 10: $0
+Oct 10: $1
+Nov 10: $1
+Dec 10: $12
+Jan 11: $37
+
+Also, I think we actually make more by paying VigLink's fees since they get paid the top-end volume bonuses by Amazon and then pass that great rate on to us (less their fees). It's really close though. I'll worry more about optimizing it when we're getting more commissions.

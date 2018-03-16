@@ -1,0 +1,7 @@
+&gt;Current ANN engines can already train and run models with around 10 million neurons and 10 billion (compressed/shared) synapses on a single GPU, which suggests that the goal could soon be within the reach of a large organization.
+
+This suggests 15000 GPUs is equivalent in computing power to a human brain, since we have about 150 trillion synapses? Why did you suggest 1000 [earlier](http://lesswrong.com/lw/m21/concept_safety_producing_similar_aihuman_concept/chi8)? How much of a multiplier on top of that do you think we need for trial-and-error research and training, before we get the first AGI? 10x? 100x? (If it isn't clear, I mean that if you only have hardware that's equivalent to a single human brain, it might take a few years to train it to exhibit general intelligence, which seems too slow for research that's based on trying various designs to see which one works.)
+
+&gt;What kind of leverage can we exert on a short timescale?
+
+Seems like a very good question that has been largely neglected. I know your ideas for training/testing neuromorphic AGI in VR environments. What other ideas do people have? Or have seen? I wonder what Shane Legg's plan is, given that he is worried about existential risk from AI, and also personally (as co-founder of DeepMind) racing to build neuromorphic AGI.

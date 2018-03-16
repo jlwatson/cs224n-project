@@ -1,0 +1,10 @@
+Thanks for pointing out this attack. The regret bound implies that adversarially-controlled-features can't hurt predictions much on average, but adversarially-controlled content can also makes the prediction problem harder (by forcing us to make more non-obvious predictions).
+
+Note that in terms of total loss this is probably better than the situation where someone just makes a bunch of spammy posts without bothering with the upvote-downvote pattern:
+
+1. If your moderation was able to filter out the spammy posts without the fake help (e.g. because other users downvote, or by using the fact that they are from new accounts), then the fake help won't increase the sockpuppet's weight (since the regularization pushes the weights towards zero, giving them positive weight isn't improving the loss).
+2. If your moderation wasn't good enough to filter out the spammy posts, then the loss from including the spammy posts would have been larger than the loss from incorrectly hiding the post.
+
+So I don't think this technically makes the worst case any worse, but it does increase the incentives to post hard-to-detect spammy content, which seems like a significant problem.
+
+Hopefully you have case #1, and you could try to respond to this problem in the same way that you'd respond to other kinds of spam.

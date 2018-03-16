@@ -1,0 +1,9 @@
+&gt;there must be many truths that are not feasibly rederivable from first principles, and highly evolved traditions related to to interpersonal behavior is a likely place to find them
+
+Yes. Hence the "don't spend more than a few seconds trying" implication of it being a 5 second skill.
+
+&gt;Additionally, I think the kind of "re-derivations from first principles" that we can actually do often just amount to handwaving ("Courage" in the OP is a good example of this) and offers rather little evidence that the rule or heuristic we're trying to derive is actually correct.
+
+Handwaving or not, habitually looking at *actual specific mechanisms* and *actual math* has been hugely informative to me for what things actually matter; Is this thing actually true, What are the limits, etc.
+
+It's not like I just handwaved up something that looked like the classical concept of courage and then said "oh look, now we can be reckless". No. I gave a specific example of what decision theory says is best in a particular case. We got actual narrow advice with explicit domain bounds, which overrides whatever we thought before. I omitted some details, and reported it in english, so it seems a bit fuzzy, but I did do the math and warn the reader to do the math for themselves to fill in the blanks. If you have some specific flaw with what I laid out, I'd like to hear about it.

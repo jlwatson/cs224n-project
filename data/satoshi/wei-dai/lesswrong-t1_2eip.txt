@@ -1,0 +1,5 @@
+Your proof can't be right because it doesn't use the concept of "complexity" in any non-trivial manner. If we replace "complexity" with "flubbity", so that there's only a finite number of hypotheses for any given "flubbity", your proof will still go through.
+
+For some actual work on justifying Occam's Razor, see Kevin T. Kelly's [Ockham Efficiency](http://www.andrew.cmu.edu/user/kk3n/ockham/Ockham.htm) results. Kelly  unpacks "complexity" in a nontrivial way that isn't just description length.
+
+ETA: see [this earlier discussion](http://lesswrong.com/lw/16x/open_thread_september_2009/1368?c=1) about learning and simplicity, it's very relevant to the topic of your interest.

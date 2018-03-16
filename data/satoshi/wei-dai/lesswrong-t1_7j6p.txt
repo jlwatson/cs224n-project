@@ -1,0 +1,19 @@
+&gt; And no, I did not in that instance mean to accuse you of a fallacy. The "non sequitur fallacy" is only one of two commonly used senses of the term "non sequitur". The other is a remark which is inappropriate in the context. 
+
+To be sure, I expressed disagreement regarding the inappropriateness too but the difference in interpretation regarding whether the 'fallacy' sense applies is interesting (well, slightly, anyhow). By my reading both senses apply. The first ("WTF? That's completely irrelevant.") is obviously there. While [your question](http://lesswrong.com/lw/9c/mandatory_secret_identities/7j3j) and [nsheppard's reply](http://lesswrong.com/lw/9c/mandatory_secret_identities/7j3n) constitute a simple question and answer pair they also convey implied arguments. That is, a rhetorical question with an answer that invalidates the implied argument of that question. If the answer is *non-sequitur* ("Well, that was random") then the implied argument is, in fact, fallacious reasoning.
+
+Note that even if the question is interpreted to be nothing more than an expression of curiosity the answer still represents an argument. Something along the lines of "The Joker is fictional. Psychiatric diagnosis categories are created for real people. There doesn't need to be any psychiatric label that applies to a category represented by a fictional entity." That implied argument would certainly be falacious if the answer was irrelevant.
+
+The above said I can certainly see why you could legitimately interpret the fallacy as not applying and I am naturally willing to retroactively change my claimed offense to the charge that I was saying things that make no sense in the context. ;)
+
+&gt; Anybody trying to be charitable would realize, would assume, that the fictional character was cited only for the sake of convenience.
+
+My original charitable interpretation was abandoned when "fictional" was challenged as non-sequitur and the Joker was maintained over a series of comments. The most significant benefit-of-the-doubt destroyer was actually a reply to [this comment](http://lesswrong.com/lw/9c/mandatory_secret_identities/7j5j) by JoshuaZ that doesn't seem to exist any more. 
+
+&gt; Had I known your and JoshuaZ's beliefs about the matter, I never would have used a fictional example.
+
+For what it is worth if you had said "Lex Luthor" I would have agreed that he (approximately) represents real sociopaths and even agreed that such people are the closest thing that we have to UFAI. It is only the details of what a sociopath actually is that I disagreed with.
+
+&gt;  your comments, which seemed rhetorically excessive
+
+That much I wouldn't object to.

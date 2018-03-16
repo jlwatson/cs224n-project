@@ -1,0 +1,5 @@
+Why? If you can end up on either end of a long line segment, then you have a chance of winning a lot or losing a lot. But you shouldn't be risk averse with your utility - risk aversion should already be included. So "towards the middle" is no better in expectation than "right end or left end".
+
+Maybe you're thinking we shouldn't be maximising expected utility? I'm actually quite sympathetic to that view...
+
+And with complex real world valuations (eg anything with a diminishing marginal utility), then any Pareto line segments are likely to be short.

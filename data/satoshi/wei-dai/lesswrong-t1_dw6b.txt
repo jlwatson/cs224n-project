@@ -1,0 +1,27 @@
+The article links to a [translation](https://na-production.s3.amazonaws.com/documents/translation-fulltext-8.1.17.pdf) of the full Chinese document, but I've noticed some errors and awkwardness in the translation, so I decided to do my own, just for the part that deals with AI safety. (The main error is that in Chinese "safety" and "security" are the same word, and for this section of the document, they always translate it to "security" instead of trying to figure out what's appropriate based on context.)
+
+Establish an AI safety supervision and evaluation system
+
+Strengthen research and evaluation of the impact of AI on national security and secrecy protection; improve the safety and security protection system, with mutually supporting human, technological, material, and organizational elements; and construct an AI safety monitoring and early warning mechanism. Strengthen the prediction, assessment, and follow-up research of AI technology; maintain a problem-focused orientation [standard political slogan]; accurately apprehend technological and industrial trends. Enhance risk awareness, emphasize risk assessment and management, and strengthen prevention, guidance, and regulation, with a short-term focus on impacts on employment and a long-term focus on impacts on social ethics, to ensure that AI development remains safe and controllable. Establish a robust, open, and transparent AI regulatory system, with a two-tiered structure of design accountability and application monitoring, thus realizing oversight of the entire process of algorithm design, product development, and deployment. Promote industry and enterprise self-regulation; effectively strengthen control; increase disciplinary efforts aimed at the abuse of data, violations of personal privacy, and actions contrary to morality and ethics. Strengthen research and development of AI cybersecurity technologies, and improve the cybersecurity protection of AI products and systems. Establish dynamic AI research and development evaluation mechanisms; develop systematic testing methods and benchmark systems for complexity, risk, uncertainty, interpretability, potential economic impact, and other AI issues; construct a cross-domain AI test platform to promote AI safety certification and assessment of capability/performance of AI products and systems.
+
+ETA: There's another part of the document that's also relevant for AI safety. I'll just copy from the linked full translation for this part:
+
+&gt;Develop laws, regulations, and ethical norms that promote the development of AI
+&gt;
+&gt;Strengthen research on legal, ethical, and social issues related to AI, and establish laws,
+regulations and ethical frameworks to ensure the healthy development of AI. Conduct
+research on legal issues such as civil and criminal responsibility confirmation, proteciton of
+privacy and property, and information security utilization related to AI applications.
+Establish a traceability and accountability system, and clarify the main body of AI and
+related rights, obligations, and responsibilities. Focus on autonomous driving, service
+robots, and other application subsectors with a comparatively good usage foundation, and
+speed up the study and development of relevant safety management laws and regulations,
+to lay a legal foundation for the rapid application of new technology. Launch research on AI
+behavior science and ethics and other issues, establish an ethical and moral multi-level
+judgment structure and human-computer collaboration ethical framework. Develop an
+ethical code of conduct and R&amp;D design for AI products, strengthen the assessment of the
+potential hazards and benefits of AI, and build solutions for emergencies in complex AI
+scenarios. China will actively participate in global governance of AI, strengthen the study of
+major international common problems such as robot alienation and safety supervision,
+deepen international cooperation on AI laws and regulations, international rules and so on,
+and jointly cope with global challenges.

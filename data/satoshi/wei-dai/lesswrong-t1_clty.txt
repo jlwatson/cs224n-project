@@ -1,0 +1,5 @@
+&gt;Isn't Stuart just assuming standard decision theory, where you choose actions by predicting their consequences and then evaluating your utility function over your predictions? Are you arguing that real AIs won't be making decisions like this?
+
+While I do think that real AIs *won't* make decisions in this fashion, that aside, as I had understood Stuart's article, the point was not to address decision theory, which is a mathematical subject, but instead that he hypothesized a scenario in which "the AI" was used to *forecast* possible future events, with *humans* in the loop doing the actual evaluation based on simulations realized in high detail, to the point that the future-world simulation would be as thorough as a film might be today, at which point it could appeal to people on a gut level and bypass their rational faculties, *but also have a bunch of other extra-scary features above and beyond other scenarios of people being irrational, just because.*
+
+The "But also..." part is the bit I actually object to.

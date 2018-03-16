@@ -1,0 +1,9 @@
+Consider a hypothetical debate between two decision theorists who happen to be Taboo fans:
+
+A: It's rational to two-box in Newcomb's problem.  
+B: No, one-boxing is rational.  
+A: Let's taboo "rational" and replace it with math instead. What I meant was that two-boxing is what CDT recommends.  
+B: Oh, what I meant was that one-boxing is what EDT recommends.  
+A: Great, it looks like we don't disagree after all!
+
+What did these two Taboo'ers do wrong, exactly?

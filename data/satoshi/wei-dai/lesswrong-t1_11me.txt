@@ -1,0 +1,1 @@
+AI's creator was running BRAINS, not a decision theory. I don't see how "what the AI's creator was running" can be a meaningful consideration in a discussion of what constitutes a good AI design. Beware [naturalistic fallacy](http://en.wikipedia.org/wiki/Naturalistic_fallacy).

@@ -1,0 +1,17 @@
+&gt; A causal decision theorist (C) and an evidential decision theorist (E) have different definitions of "maximize your expected utility", and so when C says to E "you should two-box in Newcomb's problem" he is not just saying "If you two-box in Newcomb's problem then you will maximize your expected utility according to the CDT formula" since E wouldn't care about that. So my point is that "you should two-box in Newcomb's problem" is usually not a "decision-theoretical injunction" in your sense of the phrase, but rather a normative statement as I claimed.
+
+I was assuming implicitely that we were talking in the context of EDT.
+
+In general, you can say "Two-boxing in Newcomb's problem is the optimal action for you", where the definition of "optimal action" depends on the decision theory you use.
+
+If you use EDT, then "optimal action" means "maximizes expected utility", hence the statement above is false (that is, it is inconsistent with the axioms of EDT and Newcomb's problem).
+
+If you use CDT, then "optimal action" means "maximizes expected utility under a causality assumption". Hence the statement above is technically true, although not very useful, since the axioms that define Newcomb's problem specifically violate the causality assumption.
+
+So, which decision theory should you use? An answer like "you should use the decision theory that determines the optimal action without any assumption that violates the problem constraints" seems irreducible to an epistemic statement. But is that actually correct?
+
+If you are studing actual agents, then the point is moot, since these agents already have a decision theory (in practice it will be an approximation of either EDT or CDT, or something else), but what if you want to improve yourself, or build an artificial agent?
+
+Then you evaluate the new decision theory according to the decision theory that you already have. Then, assuming that in principle your current decision theory can be described epistemically, you can say, for instance: "A decision theory that determines the optimal action without any assumption that violates the problem constraints is optimal for me".
+
+If you want to suggest a decision theory to somebody who is not you, you can say:  "A decision theory that determines the optimal action without any assumption that violates the problem constraints is optimal for you", or, more properly but less politely:  "You using a decision theory that determines the optimal action without any assumption that violates the problem constraints are optimal for me".

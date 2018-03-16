@@ -1,0 +1,11 @@
+A good question from Wei Dai:
+
+&gt;In the selfish sleeping beauty case, assuming the incubator variant, what does your solution say a Beauty should do if we tell her that she is in Room 1 and ask her what price she would pay for a lottery ticket that pays $1 on Heads?
+
+Selfish agents have problems with precommitments. When you tell them "you are in Room 1", this is not only changing their information, but also changing their utility. To wit:
+
+Before being told where they are, selfish and average utilitarians have identical preferences over outcomes. When they consider the potential "if I was to be told I was in room 1 and offered that lottery ticket for $x, would I take it", they calculate the expected utility of doing so as 1-x in the heads world and -x/2 in the tails world (from the selfish point of view, "in the tails world, there's a 50% chance I won't have to pay, even if I commit to accepting"), hence 1-3/2x in total. So she would precommit to taking the deal if x&lt;2/3.
+
+However, after being told that she is in room 1, the selfish SB's preferences change: her previous utility in the tails world was the average of the utilities of the SBs in room 1 and 2, but now it is entirely the utility of the SB in room 1. Her expected utility is now 1-x -x, so she would only want to take it for x&lt;1/2.
+
+So, if she sticks to her precommitments, she would accept x&lt;2/3; if she breaks her precommitments (leaving her possibly money-pumpable), she would only accept x&lt;1/2.

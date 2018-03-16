@@ -1,0 +1,9 @@
+It's not clear that reflective consistency is feasible for human beings.
+
+Consider the following thought experiment. You’re about to be copied either once (with probability .99) or twice (with probability .01). After that, one of your two or three instances will be randomly selected to be the decision-maker. He will get to choose from the following options, without knowing how many copies were made:
+
+A: The decision-maker will have a pleasant experience. The other(s) will have unpleasant experience(s).
+
+B: The decision-maker will have an unpleasant experience. The other(s) will have pleasant experience(s).
+
+Presumably, you’d like to commit your future self to pick option B. But without some sort of external commitment device, it’s hard to see how you can prevent your future self from picking option A.

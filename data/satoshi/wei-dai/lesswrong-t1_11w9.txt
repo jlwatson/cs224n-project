@@ -1,0 +1,24 @@
+Today I finally came up with a simple example where TDT clearly loses and CDT clearly wins, and as a bonus, proves that TDT isn't reflectively consistent.
+
+Omega comes to you and says
+
+&gt;I'm hosting a game with 3 players. Two players are AIs I created running TDT but not capable of self-modification, one being a paperclip maximizer, the other being a staples maximizer. The last player is an AI you will design. When the game starts, my two AIs will first get the source code of your AI (which is only fair since you know the design of my AIs). Then 2 of the 3 players will be chosen randomly to play a one-shot true PD, without knowing who they are facing. What AI do you submit?
+
+Say the payoffs of the PD are
+
+* 5/5 0/6
+* 6/0 1/1
+
+Suppose you submit an AI running CDT. Then, Omega's AIs will reason as follows: "I have 1/2 chance of playing against a TDT, and 1/2 chance of playing against a CDT. If I play C, then my opponent will play C if it's a TDT, and D if it's a CDT, therefore my expected payoff is 5/2+0/2=2.5. If I play D, then my opponent will play D, so my payoff is 1. Therefore I should play C." Your AI then gets a payoff of 6, since it will play D.
+
+Suppose you submit an AI running TDT instead. Then everyone will play C, so your AI will get a payoff of 5.
+
+So you submit a CDT, whether *you* are running CDT or TDT. That's because explicitly giving the source code of your submitted AI to the other AIs makes the consequences of your decision the same under CDT and under TDT.
+
+Suppose you have to play this game yourself instead of delegating it, you can self-modify, and the payoffs are large enough, you'd modify yourself from running TDT to running some other DT that plays D in this game! (Notice that I specified that Omega's AIs can't self-modify, so your decision to self-modify won't have the logical consequence that they also self-modify.)
+
+It seems that I've given a counter-example to the claim that
+
+&gt; the behavior of TDT corresponds to reflective consistency on a problem class in which your payoff is determined by the type of decision you make, but not sensitive to the exact algorithm you use apart from that
+
+Or does my example fall outside of the specified problem class?

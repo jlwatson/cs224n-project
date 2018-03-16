@@ -1,0 +1,9 @@
+&gt; What is your answer to The Lifespan Dilemma, for example?
+
+I only skimmed that posting, and I failed to find any single question there which you apparently meant for me to answer.  But let me invent my own question and answer it.
+
+Suppose I expect to live for 10,000 years.  Omega appears and offers me a deal.  Omega will extend my lifetime to infinity if I simply agree to submit to torture for 15 minutes immediately - the torture being that I have to actually read that posting of Eliezer's with care.
+
+I would turn down Omega's offer without regret, *because I believe in (exponentially) discounting future utilities*.  Roughly speaking, I count the pleasures and pains that I will encounter next year to be something like 1% less significant than this year.  I'm doing the math in my head, but I estimate that this makes my first omega-granted bonus year 10,000 years from now worth about 1/10^42 as much as this year.  Or, saying it another way, my first 'natural' 10,000 years is worth about 10^42 times as much as the infinite period of time thereafter.  The *next fifteen minutes* is more valuable than that infinite period of time.  And I don't want to waste that 15 minutes re-reading that posting.
+
+And I am quite sure that 99% of mankind would agree with me that 1% discounting per year is not an excessive discount rate.  That is, in large part, why I think negotiation is important.  It is because typical SIAI thinking about morality is completely unacceptable to most of mankind and SIAI seem to be in denial about it.

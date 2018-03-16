@@ -1,0 +1,5 @@
+&gt; Note that spreading the idea that the transmission rate of AIDS is low has negative utility, regardless of whether it's true or not, since it would encourage dangerous behavior.
+
+This is untrue. Consider a similar claim: "spreading the idea that very few passengers on planes are killed by terrorists has negative utility, regardless of whether it is true or not, since it would encourage dangerous behavior."
+
+Informing people of the true risks of any activity will not in general have negative utility. If you believe a particular case is an exception you need to explain in detail why you believe this to be so.

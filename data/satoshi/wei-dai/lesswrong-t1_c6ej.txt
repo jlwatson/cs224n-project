@@ -1,0 +1,11 @@
+One thing I've been wondering about deep neural networks: to what extent are neural networks novel and non-obvious? To what extent has evolution invented and thus taught us something very important to know for AI? (I realize this counterfactual is hard to evaluate.)
+
+That is, imagine a world like ours but in which for some reason, no one had ever been sufficiently interested in neurons &amp; the brain as to make the basic findings about neural network architecture and its power like Pitts &amp; McCulloch. Would anyone reinvent them or any isomorphic algorithm or discover superior statistical/machine-learning methods?
+
+For example, Ilya comments elsewhere that he doesn't think much of neural networks inasmuch as they're relatively simple, 'just' a bunch of logistic regressions wired together in layers and adjusted to reduce error. True enough - for all the subleties, even a big ImageNet-winning neural network is not *that* complex to implement; you don't have to be a genius to create some neural nets.
+
+Yet, offhand, I'm having a hard time thinking of any non-neural network algorithms which operate like a neural network in putting together a lot of little things in layers and achieving high performance. That's not like any of your usual regressions or tests, multi-level models aren't very close, random forests and bagging and factor analysis may be universal or consistent but are 'flat'...
+
+Nor do I see many instances of people proposing new methods which turn out to just be a convolutional network with nodes and hidden layers renamed. (A contrast here would be Turing's halting theorem: it seems like you can't throw a stick among language or system papers without hitting a system complicated enough to be Turing-complete and hence indecidable, and like there were a small cottage industry post-Turing of showing that yet another system could be turned into a Turing machine or a result could be interpreted as proving something well-known about Turing machines.) There don't seem to be 'multiple inventions' here, as if the paradigm were non-obvious and, without the biological inspiration.
+
+So if humanity had had no biological neural networks to steal the general idea and as proof of feasibility, would machine learning &amp; AI be far behind where they are now?

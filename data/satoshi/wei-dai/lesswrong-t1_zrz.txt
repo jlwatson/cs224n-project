@@ -1,0 +1,3 @@
+The "consensual" one. 
+
+For a rigorous demonstration, imagine this: while preparing to play the Freaky Fairness game, I managed to install a subtle bug into the tournament code that will slightly and randomly distort all source code inputs passed to *my* algorithm. Then I submit some nice regular  quining-cooperative program. In the actual game your program will assume I will cooperate, while mine will see you as a defector and play to win. When the game gives players an incentive to misunderstand, even a slight violation of "you know that I know that you know..." can wreak havoc, hence my emphasis on common knowledge.

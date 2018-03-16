@@ -1,0 +1,7 @@
+Wei_Dai,
+
+Alonzo Fyfe and I are currently researching and writing a podcast on desirism, and we'll eventually cover this topic. The most important thing to note right now is that desirism is set up as a theory that explains things very specific things: human moral concepts like negligence, excuse, mens rea, and a dozen other things. You can still take the foundational meta-ethical principles of desirism - which are certainly not unique to desirism - and come up with implications for FAI. But they may have little in common with the bulk of desirism that Alonzo usually talks about.
+
+But I'm not trying to avoid your question. These days, I'm inclined to do meta-ethics without using moral terms at all. Moral terms are *so* confused, and carry *such* heavy connotational weights, that using moral terms is probably the worst way to talk about morality. I would rather just talk about reasons and motives and counterfactuals and utility functions and so on.
+
+Leaving out ethical terms, what implications do my own meta-ethical views have for Friendly AI? I don't know. I'm still catching up with the existing literature on Friendly AI.

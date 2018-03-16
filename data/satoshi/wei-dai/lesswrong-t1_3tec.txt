@@ -1,0 +1,1 @@
+I don't expect there is any clever simple trick to it. (But I also don't think that assigning probabilities to logical statements is a terribly useful activity, or one casting foundational light on decision theory.)

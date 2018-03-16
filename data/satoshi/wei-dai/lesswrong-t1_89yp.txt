@@ -1,0 +1,3 @@
+&gt;No, because for different feasible sets
+
+It's not clear to me what you mean by different feasible sets. Do you think your objection holds if you limit 'different feasible sets' to subsets of the original set that you picked the weights over? 

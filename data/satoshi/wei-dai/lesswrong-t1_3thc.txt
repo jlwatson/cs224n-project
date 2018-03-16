@@ -1,0 +1,7 @@
+Seems like we have a lot of similar ideas/interests. :) This is was my main approach for solving anthropic reasoning, until I gave it up in favor of UDT.
+
+Here are some previous related discussions.
+
+* http://www.finney.org/~hal/udassa/summary1.html
+* http://lesswrong.com/lw/1g4/tips_and_tricks_for_answering_hard_questions/1gwq?c=1
+* http://lesswrong.com/lw/py/the_born_probabilities/141m

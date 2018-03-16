@@ -1,0 +1,7 @@
+Indeed, all of this was discussed at the time, and these complexities do indeed make the model produce an overestimate. However, I really don't think think the difference is whole orders of magnitude, and this
+
+&gt;All academic persuasion does is buy time, and not very much of that - the return on effort invested seems to be pretty low.
+
+is definitely wrong. While there is a great deal more that needs to be figured out in order for an AI to be friendly, much of it is research that academia could do, too, if only they thought it was worthwhile.
+
+I plan to write an article about just what "being safety conscious" would mean, but it's not "spending a few extra days on safety features before flipping the switch", it's more like handing the whole project over to friendliness researchers experts and taking advantage of whatever friendliness research has been done up to that point. Those experts and that research need to exist, but I don't think those differences are on the margin of current existential risk reduction spending, since the limiting resource there isn't money.

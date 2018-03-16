@@ -1,0 +1,5 @@
+&gt;To give an idea of the kind of "backup plan" I have in mind, one idea I've been playing with is to have the seed AI make multiple simulations of the entire Earth (i.e., with different "random seeds"), for several years or decades into the future, and have a team of humans pick the best outcome to be released into the real world.
+
+How many simulations are we running? Is it feasible that we could run enough to actually make a good decision? What moral weight should we give to the inhabitants of those simulated world, especially those in worlds that will be substantially worse than our own (ie Negative Singularity), relative to the people that we might save by increasing the chance that a Singularity will eventually be positive? How do we ensure that we don't just select a decision process that creates desirable outcomes several decades into the future, but fails a century from now?
+
+Your proposal is interesting, but there do appear to be a number of substantial issues with it that I would like to see answered before this proposal is implemented.

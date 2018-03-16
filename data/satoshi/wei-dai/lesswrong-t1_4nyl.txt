@@ -1,0 +1,3 @@
+Interesting! But let's go back to the roots... 
+
+You're proposing to equip an agent with a prior over the effectiveness of its actions instead of (in addition to?) a prior over possible worlds. Will such an agent be Bayesian-rational, or will it exhibit weird preference reversals? If the latter, do you see that as a problem? If the former, Bayesian-rationality means the agent must behave as though its actions were governed *only* by some prior over possible worlds; what does that prior look like?

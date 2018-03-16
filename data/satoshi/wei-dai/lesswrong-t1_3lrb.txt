@@ -1,0 +1,1 @@
+It seems that you could design such games by taking any of the games we are discussing and modifying it so the agent is allowed to ask an oracle questions and get answers before making its decision. Predicting the results of such games seems harder.

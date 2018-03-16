@@ -1,0 +1,5 @@
+&gt; That our most promising approach for how to define "utility function" gives at least fairly clear conceptual guidance as to the domain
+
+Given that the standard of being "fairly clear" is rather vague, I don't know if I disagree, but at the moment I don't know of any approach to a potentially FAI-grade notion of preference of any clarity. Utility functions seem to be a wrong direction, since they don't work in the context of the idea of control based on resolution of logical uncertainty (structure). (UDT's "utility function" is more of a component of definition of something that is not a utility function.) 
+
+ADT utility value (which is a UDT-like goal definition) is somewhat formal, but only applies to toy examples, it's not clear what it means even in these toy examples, it doesn't work at all when there is uncertainty or incomplete control over that value on part of the agent, and I have no idea how to treat physical world in its context. (It also doesn't have any domain, which seems like a desirable property for a structuralist goal definition.) This situation seems like the opposite of "clear" to me...

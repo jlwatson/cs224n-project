@@ -1,0 +1,5 @@
+&gt; Branching preserves measure, while quantum suicide doesn't, so you can't make up for it by branching more times if what you care about is measure.
+
+Preserves measure of what, exactly? The integral of &lt;Psi|Psi&gt; over all arrangements of particles that we classify into the "Roko ALIVE" category? 
+
+I.e. it preserves the measure of the set of all arrangements of particles that we classify into the "Roko ALIVE" category.

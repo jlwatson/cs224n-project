@@ -1,0 +1,1 @@
+Robin may have been assuming abundant memory and scarce CPU time? I agree though that unless memory costs are very low this is a problem in the examples.

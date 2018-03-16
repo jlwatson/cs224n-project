@@ -1,0 +1,3 @@
+In your story, does the AGI share the goals of the team that created it? I guess if not, you're assuming that the AGI can convince them to take on its goals, by writing a book for each member of the team?
+
+Once it has done that, it's not clear to me what it has to gain from hacking the minds of the rest of humanity. Why not do research in memristor theory/implementation, parallel algorithms, OS/programming languages/applications for massively parallel CPUs (start by writing code in assembly if you have to), optimizing the manufacturing of such CPUs, theory of intelligence, experiment in self-modification, etc., which all seem to be part of the critical path to the Singularity? It doesn't seem like most of humanity has much to offer the AGI (in the instrumental sense).

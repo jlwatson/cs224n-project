@@ -1,0 +1,3 @@
+&gt;whereas the Solomonoff prior treats it like a random string and would converge to answering .5 for the probability of the next bit being 1.
+
+Isn't something like "If you have access to a halting oracle, ask it for Chaitin's Ω" among the computable generators included in the Solomonoff prior? If so, the Solomonoff agent should converge to the correct sequence.

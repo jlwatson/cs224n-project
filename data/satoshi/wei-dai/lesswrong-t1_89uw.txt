@@ -1,0 +1,5 @@
+&gt; If fairness is one of my values, it can't necessary be represented by such a function. (I.e., it may need to be a function from lotteries over world-histories to real numbers.)
+
+You refer to cases such as A = “I give the last candy to Alice”, B = “I give the last candy to Bob” and you strictly prefer the lottery {50% A, 50% B} to {100% A} or {100% B}?
+
+But remember that we're talking about entire world histories, not just world states -- If you take A0 = “I arbitrarily give the last candy to Alice”, A1 = “I flip a coin to decide whom to give the last candy to, and Alice wins”, etc., you can easily have A1 = B1 &gt; A0 = B0, since A1 and A0 are different (one includes you flipping a coin, the other doesn't). So a function from world histories would suffice, after all.

@@ -1,0 +1,3 @@
+I'm saying that the "confusion-extinguishing" heuristic is a better one for identifying good answers to philosophical questions, as judged by me, and probably as judged by you as well.
+
+Also that, given the topic matter, truth may be undecidable for some questions (owing to the process by which philosophers arrived at them), in which case you'd want the confusion-extinguishing answer anyway.

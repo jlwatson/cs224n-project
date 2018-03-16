@@ -1,0 +1,5 @@
+The short version is that I can observe the gradient of change in people's values and I see what look like clear attractors.  
+
+Also, if learning is central to fun, the activities that maximize rate of learning have a good prior on being most fun.  Hyperspecialization pulls away from such activities, while cultivating basic competence in and awareness of domains with evolutionary support maximizes speed of learning.  Cross-disciplinary insight can even make this the best way to maximize effectiveness in a specialized discipline, simply by developing new neural regions which offer hardware support for concrete metaphors.  
+
+The long version is that I think I have a very detailed and basically correct model of human psychology.  By basically correct, I largely mean wrong, e.g. good enough that it can and does make wrong predictions and be partially falsified and incrementally refined through the creation of high generality mechanisms to correct specific errors.  This is, as opposed to most psychological theories, which aren't even wrong.

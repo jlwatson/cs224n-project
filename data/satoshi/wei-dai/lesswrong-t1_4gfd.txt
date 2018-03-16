@@ -1,0 +1,15 @@
+&gt; Does your utility function treat "a life saved by Perplexed" differently from just "a life"?
+
+I'm torn between responding with "Good question!" versus "What difference does it make?".  Since I can't decide, I'll make both responses.
+
+**Good question!**  You are correct in surmising that the root justification for much of the value that I attach to other lives is essentially instrumental (via channels of reciprocity).  But not all of the justification.  Evolution has instilled in me the instinct of valuing the welfare (fitness) of kin at a significant fraction of the value of my own personal welfare.  And then there are cases where kinship and reciprocity become connected in serial chains.  So the answer is that I discount based on 'remoteness' where remoteness is a distance metric reflecting both genetic and social-interactive inverse connectedness.
+
+**What difference does it make?**  This is my utility function we are talking about, and it is only operational in deciding my own actions.  So, even if my utility function attached huge value to lives saved by other people, it is not clear how this would change my behavior.  The question seems to be whether people ought to have multiple utility functions - one for directing their own rational choices; the others for some other purpose.
+
+I am currently reading Binmore's two-volume opus *Game Theory and the Social Contract*.  I strongly recommend it to everyone here who is interested in decision theory and ethics.  Although Binmore doesn't put it in these terms, his system does involve two different sets of values, which are used in two different ways.  One is the set of values used in the *Game of Life* - a set of values which may be as egoistic as the agent wishes (or as altruistic).  However, although the agent is conceptually free in the Game of Life, as a practical matter, he is *coerced* by everyone else to adhere to a *Social Contract*.  Due to this coercion, he mostly behaves morally.  
+
+But how does the Social Contract arise?  In Binmore's normative fiction, it arises by negotiated consensus of all agents.  The negotiation takes place in a Rawlsian Original Position under a Veil of Ignorance.  Since the agent-while-negotiating has different self-knowledge than does the agent-while-living, he manifests different values in the two situations - particularly with regard to utilities which accrue indexically.  So, according to Binmore, even an agent who is inherently egoistic in the Game of Life will be egalitarian in the *Game of Morals* where the Social Contract is negotiated.  Different values for a different purpose.
+
+That is the concise summary of the ethical system that Binmore is constructing in the two volumes.  But he does a marvelously thorough job of ground-clearing - addressing mistakes made by Kant, Rawls, Nozick, Parfit, and others regarding the Prisoner's Dilemma, Newcomb's 'paradox', whether it is rational to vote (probably wasted), etc.  And in the course of doing so, he pretty thoroughly demolishes what I understand to be the orthodox position on these topics here at Less Wrong.
+
+Really, really recommended.

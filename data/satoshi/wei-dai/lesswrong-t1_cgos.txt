@@ -1,0 +1,15 @@
+&gt;The problem I see here is that the mainstream AI / machine learning community measures progress mainly by this kind of contest.
+
+The mainstream AI/ML community measures progress by these types of contests because they are a straightforward way to objectively measure progress towards human-level AI, and also tend to result in meaningful near-term applications.
+
+&gt;Researchers are incentivized to use whatever method they can find or invent to gain a few tenths of a percent in some contest, which allows them to claim progress at an AI task and publish a paper.
+
+Gains of a few tenths of a percent aren't necessarily meaningful - especially when proper variance/uncertainty estimates are unavailable.
+
+The big key papers that get lots of citations tend to feature large, meaningful gains.
+
+The problem in this specific case is that the Imagenet contest had an unofficial rule that was not explicit enough.  They could have easily prevented this category of problem by using blind submissions and separate public/private leaderboards, ala kaggle.
+
+&gt;Even as the AI safety / control / Friendliness field gets more attention and funding, it seems easy to foresee a future where mainstream AI researchers continue to ignore such work because it does not contribute to the tenths of a percent that they are seeking but instead can only hinder their efforts. What can be done to change this?
+
+You have the problem reversed.  AI safety/conrol/friendliness currently doesn't have any standard tests to measure progress, and thus there is little objective way to compare methods.  You need a clear optimization criteria to drive forward progress.

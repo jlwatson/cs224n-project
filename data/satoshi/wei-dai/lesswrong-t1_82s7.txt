@@ -1,0 +1,5 @@
+There is an [entire sequence](http://wiki.lesswrong.com/wiki/A_Human%27s_Guide_to_Words) dedicated to how to define concepts and the specific problem of categories as they matter for your utility function is studied in [this post](http://lesswrong.com/lw/tc/unnatural_categories/) where it is argued those problems should be solved by moral arguments and the whole [metaethics sequence](http://wiki.lesswrong.com/wiki/Metaethics_sequence) argue for the fact that moral arguments are meaningful.
+
+Now if you're asking me if we have a complete reduction of some concept relevant to our utility function all the way down to fundamental physics then the answer is no. That doesn't mean that partial reductions of some concepts potentially relevant to our utility function has never been accomplished or that complete reduction is not possible.
+
+So are you arguing that the metaethics sequence is wrong and that moral arguments are meaningless or are you arguing that the GRT is wrong and that reduction of the concept which appear in your utility function is impossible despite them being real or what? I still have no idea what it is that you're arguing for exactly.

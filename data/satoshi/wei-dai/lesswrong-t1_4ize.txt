@@ -1,0 +1,3 @@
+I wrote a script that puts all of someone's posts and comments on one long page, for easy backup and searching.
+
+http://www.ibiblio.org/weidai/lesswrong_user.php

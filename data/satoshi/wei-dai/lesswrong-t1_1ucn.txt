@@ -1,0 +1,7 @@
+The certainly looks like a relevant book.  I didn't like some of Keith Stanovich's earlier offerings much, and so probably won't get on with it, though :-(
+
+Reading summaries makes me wonder whether Stanovich have any *actual evidence* of important general intellectual capabilities that are *not* strongly correlated with Spearman's g.
+
+It is easy to bitch about IQ tests missing things.  The philosophy behind IQ tests is that most significant mental abilities are  strongly correlated - so you don't *have* to measure everything.  Instead people deliberately measure using a subset of tests that are "g-loaded" - to maximise signal and minimise noise. E.g. see:
+
+http://en.wikipedia.org/wiki/General_intelligence_factor#Mental_testing_and_g

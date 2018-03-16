@@ -1,0 +1,1 @@
+It would help if you gave an example of two simple programs that undergo "secure joint construction" in some formal setting and without any source-code equality tricks. For example, assume that initially they both implement algorithms that want to agree but this fact is Rice-unknowable. This stuff isn't obvious to me. It would be progress.

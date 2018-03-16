@@ -1,0 +1,28 @@
+&gt;But how will the safe projects exclude the unsafe projects from economies of scale and favorable terms of trade, if the unsafe projects are using the same basic design but just have overseers who care more about capability than safety?
+
+Controlling the distribution of AI technology is one way to make someone's life harder, but it's not the only way. If we imagine a productivity gap as small as 1%, it seems like it doesn't take much to close it.  
+
+(Disclaimer: this is unusally wild speculation; nothing I say is likely to be true, but hopefully it gives the flavor.)
+
+If unsafe projects perfectly pretend to be safe projects, then they aren't being more efficient. So it seems like we can assume that they are observably different from safe projects. (For example, there can't just be complexity-loving humans who oversee projects exactly as if they had normal values; they need to skimp on oversight in order to actually be more eficient. Or else they need to differ in some other way...) If they are observably different, then possible measures include:
+
+* Even very small tax rates coupled with redistribution that is even marginally better-directed at safe projects (e.g. that goes to humans)
+* Regulatory measures to force everyone to incur the overhead, or most of the overhead, of being safe, e.g. lower bounds on human involvement.
+* Today many trades involve trust and understanding between the parties (e.g. if I go work for you). Probably some trades will retain this character. Honest people may be less happy to trade with those they expect to be malicious. I doubt this would be a huge factor, but 1% seems tiny. 
+* Even in this scenario it may be easy to make technology which is architecturally harder to use by unsafe projects. E.g., it's not clear whether the end user is the only overseer, or whether some oversight can be retained by law enforcement or the designers or someone else.
+
+Of course unsafe projects can go to greater lengths in order to avoid these issues, for example by moving to friendlier jurisdictions or operating a black market in unsafe technology. But as these measures become more extreme they become increasingly easy to identify. If unsafe jurisdictions and black markets have only a few percent of the population of the world, then it's easy to see how they could be less efficient.
+
+(I'd also expect e.g. unsafe jurisdictions to quickly cave under international pressure, if the rents they could extract were a fraction of a percent of total productivty. They could easily be paid off, and if they didn't want to be paid off, they would not be miliratily competitive.)
+
+All of these measures become increasingly implausible at large productivty differentials. And I doubt that any of these particular foreseeable measures will be important. But overall, given that there are economies of scale, I find it very likely that the majority can win. The main question is whether they care enough to.
+
+Normally I am on the other side of a discussion similar to this one, but involving much larger posited productivity gaps and a more confident claim (things are so likely to be OK that it's not worth worrying about safety). Sorry if you  were imagining a very much larger gap, so that this discussion isn't helpful. And I do agree that there is a real possibility that things won't be OK, even for small productivity gaps, but I feel like it's more likely than not to be OK.
+
+---
+
+Also note that at a 1% gap, we can basically wait it out. If 10% of the world starts out malicious, then by the time the economy has grown 1000x, then 11% of the world is malicious, and it seems implausible that the AI situation won't change during that time---certainly contemporary thinking about AI will be obsoleted, in an economic period as long as 0-2015AD. (The discussion of social coordination is more important in the case where there are larger efficiency gaps, and hence probably larger differences in how the projects look and what technology they need.) 
+
+ETA: Really the situation is not so straightforward, since 1% more productivity leads to more than 1% more profit; overall this issue really seems too complicated for this kind of vague theoretical speculation to be meaningfully accurate, but I hope I've given the basic flavor of my thinking.
+
+And finally, I intended 1% as a relatively conservative estimate. I don't see any particular reason you need to have so much waste, and I wouldn't be surprised if it end up much lower, if future people end up pursuing some strategy along these lines.

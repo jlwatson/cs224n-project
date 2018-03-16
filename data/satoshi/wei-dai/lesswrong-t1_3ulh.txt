@@ -1,0 +1,7 @@
+I oversimplified there [1], but even with your corrected phrasing of the situation, that suggests some room for cryptanalysis-based improvement in science, because finding any pattern distinguishable from randomness is a win for science as well.
+
+Given that nature does not deliberately or intelligently add the entropy that halfway-decent ciphers add, then the patterns belonging to the weaker, lower-entropy set of observable data that nature is limited to should be a much easier problem for cryptanalysts than the ciphers they normally try to attack.
+
+In other words, when it comes to injecting entropy into ciphertexts, nature couldn't hold a candle to even the easily-broken ciphers.  Right?
+
+[1] To be precise, it would have to be something more tautologous like, "For a given cryptanalytic goal, the best cryptanalytic methods can meet that goal for a cipher with the level of complexity in the most complex cipher broken for that goal and all ciphers of lower complexity."

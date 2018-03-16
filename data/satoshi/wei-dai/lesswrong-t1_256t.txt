@@ -1,0 +1,5 @@
+While searching for literature on "intuition", I came upon a book chapter that gives "the state of the art in moral psychology from a social-psychological perspective". This is the best summary I've seen of how morality actually works in human beings.
+
+The authors gives out the chapter for free by email request, but to avoid that [trivial inconvenience](http://lesswrong.com/lw/f1/beware_trivial_inconveniences/), I've put up a [mirror](http://www.ibiblio.org/weidai/temp/haidt.kesebir.2010.morality.handbook-of-social-psych.pub077.pdf) of it.
+
+ETA: Here's the citation for future reference: [Haidt, J.](http://people.virginia.edu/~jdh6n/), &amp; Kesebir, S. (2010). Morality. In S. Fiske, D. Gilbert, &amp; G. Lindzey (Eds.) Handbook of Social Psychology, 5th Edition. Hobeken, NJ: Wiley. Pp. 797-832.

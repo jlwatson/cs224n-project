@@ -1,0 +1,11 @@
+&gt;It's easy to imagine AIXI-like Bayesian EU maximizers that are powerful optimizers but incapable of solving philosophical problems like consciousness, decision theory, and foundations of mathematics, which seem to be necessary in order to build an FAI. It's possible that that's wrong, that one can't actually get to "not very superintelligent AIs" unless they possessed the same level of philosophical ability that humans have, but it certainly doesn't seem safe to assume this.
+
+Such systems, hemmed in and restrained, could certainly work on better AI designs, and predict human philosophical judgments. Predicting human philosophical judgments accurately and reporting those predictions is close enough.
+
+&gt;Nick considered and discarded before settling on "AI control".
+
+"Control problem." 
+
+&gt;It seems like he'd want to run at least some of the more novel or potentially controversial ideas in his book by a wider audience, before committing them permanently to print.)
+
+He circulates them to reviewers, in wider circles as the book becomes more developed. And blogging half-finished idea on the internet is exactly what one shouldn't do if one is worried about committing controversial ideas to print.

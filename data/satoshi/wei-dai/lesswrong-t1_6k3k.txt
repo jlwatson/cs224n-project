@@ -1,0 +1,3 @@
+My understanding of Holden's argument was that powerful optimization processes can be run in either tool-mode or agent-mode.
+
+For example, Google maps optimizes routes, but returns the result with alternatives and options for editing, in "tool mode".

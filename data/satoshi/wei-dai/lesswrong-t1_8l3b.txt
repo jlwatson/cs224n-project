@@ -1,0 +1,3 @@
+If I understand what you're proposing correctly then that doesn't work either.
+
+Suppose it is a theorem of PA that this algorithm return an error, then all theorems of the form A()=a =&gt; U()&gt;=u are demonstrable in PA and so there is no action with the highest u and the algorithm return an error, because that is demonstrable in PA the algorithm must return an error by Löb's theorem.

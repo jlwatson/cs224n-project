@@ -1,0 +1,10 @@
+&gt;I think that you are saying that there are 'real' values of position, momentum, spin, etc., but that quantum mechanics only describes our knowledge about them.
+
+I *am* saying that the wave function (to be specific) describes one's knowledge about position, momentum, spin, etc., but I make *no* claim that these have any ‘real' values.
+
+In the absence of a real post, here are some links:
+
+*  John Baez (ed, 2003), [Bayesian Probability Theory and Quantum Mechanics](http://math.ucr.edu/home/baez/bayes.html) (a collection of Usenet posts, with an introduction);
+*  Carlton Caves et al (2001), [Quantum probabilities as Bayesian probabilities](http://arxiv.org/abs/quant-ph/0106133)  (a paper published in Physical Reviews A).
+
+By the way, you seem to have got this, but I'll say it anyway for the benefit of any other readers, since it's short and sums up the idea: *The wave function exists in the map, not in the territory.*

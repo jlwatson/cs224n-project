@@ -1,0 +1,3 @@
+This is the first step (pointed more towards philosophers). Formalise the "we could construct an AI with arbitrary goals", and with that in the background, zoom in on the practical arguments with the AI researchers.
+
+Will restructure the Bayesian section. Some philosophers argue things like "we don't know what moral theories are true, but a rational being would certainly find them"; I want to argue that this is equivalent, from our perspective, with the AI's goals ending up anywhere. What I meant to say is that ignorance of this type is like any other type of ignorance, hence the "Bayesian" terminology.

@@ -1,0 +1,3 @@
+My intuitive proposal for M.i's negentropy is to take a fraction of the total entropy equal to M.i's fraction of the total mass, and I see this is equal to the Shapley value. Does this continue to be the case for other negentropy(mass) functions?
+
+(Regardless, Shapley's algorithm seems more fair than mine.) 

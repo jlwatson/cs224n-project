@@ -1,0 +1,5 @@
+It's hard for me to imagine 100 good papers on the subject of AI safety (as opposed to say, FAI design). Once you have 10 good papers with variations of "AGI is dangerous, please be careful!", what can you say in the 11th one that you haven't already said? Also, 100 papers all carrying the same basic message, all funded by the same organization... that seems a bit surreal.
+
+ETA: Sorry, I'm being overly skeptical and nitpicking. On reflection I think something like this probably is a good idea and should be pursued (unless money is a constraint and someone can come up with better use for it).
+
+ETA2: If someone has done serious thinking about the feasibility of convincing a substantial fraction of AGI researchers about the need for safety, by "publishing X good quality papers", could they please explain their thoughts in more detail? (My mind keeps changing about whether this is feasible or not.)

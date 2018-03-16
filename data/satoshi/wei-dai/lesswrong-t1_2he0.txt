@@ -1,0 +1,5 @@
+Thx for the escape character info.  That really ought to be added to the editing help popup.
+
+Yes, I see the difference.  I claim that what they are saying here is that you need to do the planning-optimal calculation in order to find p\*1 as the unique best solution (among the three solutions that the action-optimal method provides).  Once you have this, you can use it at the first intersection.  But at the other intersections, you have some choices:  either recalculate the planning-optimal solution each time, or write down enough information so that you can recognize that p\*1 is the solution you are already committed to among the three (in section 5) solutions returned by the action-optimality calculation.
+
+ETA in response to your ETA.  Yes they do.  Good point.  I'm pretty sure there are cases more complicated than this perfectly amnesiac driver where that would be the only correct policy.  (ETA:To be more specific, cases where the planning-optimal solution is not a sequential equilibrium).  But then I have no reason to think that UDT would yield the correct answer in those more complicated cases either.

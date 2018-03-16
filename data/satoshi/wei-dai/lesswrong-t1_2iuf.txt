@@ -1,0 +1,15 @@
+While raking, I think I finally thought of a proof that the before-offer-probability can't be known.
+
+The question is basically 'what fraction of all Turing machines making an offer (which is accepted) will then output a certain result?'
+
+We could rewrite this as 'what is the probability that a random Turing machine will output a certain result?
+
+ We could then devise a rewriting of all those Turing machines into Turing machines that halt or not when their offer is accepted (eg. halting might = delivering, not halting = welshing on the deal. This is like [Rice's theorem](http://en.wikipedia.org/wiki/Rice%27s_theorem)). 
+
+Now we are asking 'what fraction of all these Turing machines will halt?' 
+
+However, this is asking 'what is [Chaitin's constant](http://en.wikipedia.org/wiki/Chaitin%27s_constant) for this rewritten set of Turing machines?' and *that* is uncomputable!
+
+Since Turing machine-based agents are a subset of all agents that might try to employ Pascal's Mugging (even if we won't grant that agents must be Turing machines), the probability is at least partially uncomputable. A decision procedure which entails uncomputability is unacceptable, so we reject giving the probability in advance, and so our probability must be contingent on the offer's details (like its payoff).
+
+Thoughts?

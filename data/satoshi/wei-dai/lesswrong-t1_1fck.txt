@@ -1,0 +1,10 @@
+I'd like a way to display all of a user's posts and comments on a single HTML page, so I can find things easily. I've written a PHP script to mechanically "press" the "next" button repeatedly and collate all of the pages into one, and I've found it very useful. I would make the URL public and let everyone use it, but unless I add some kind of caching, it might put a lot of stress on my my server and Less Wrong's if many people use it at the same time on some prolific contributor (e.g., Eliezer).
+
+So my questions are:
+
+1. Is there much demand for this feature from others?
+2. Is there hope to have it implemented on Less Wrong directly?
+
+If the answer to 1 is yes, but 2 is no, then I'll code the caching and make the URL public.
+
+ETA: In case anyone wonders why I didn't submit a patch to the Less Wrong codebase, it's because I can't understand how it works. Is there some documentation for potential developers?

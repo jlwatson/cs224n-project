@@ -1,0 +1,9 @@
+&gt;You could generate a random number using a distribution that has infinite expected value
+
+Can a bounded agent actually do this? I'm not entirely sure.
+
+Even so, given any distribution f, you can generate a better (dominant) distribution by taking f and adding 1 to the result. So now, as a bounded agent, you need to choose among possible distributions - it's the same problem again. What's best distribution you can specify and implement, without falling into a loop or otherwise saying yes forever?
+
+&gt;But if there is a non-zero chance of an Omega existing that can grant you an arbitrary amount of utility, then there must also a non-zero chance of some Omega deciding on its own at some future time to grant you a random amount of utility using the above distribution, so you've already got infinite expected utility, no matter what you do.
+
+??? Your conclusion does not follow, and is irrelevant - we care about the impact of our actions, not about hypothetical gifts that may or may not happen, and are disconnected from anything we do.

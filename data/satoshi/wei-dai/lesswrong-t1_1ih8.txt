@@ -1,0 +1,22 @@
+&gt;What makes one method of mind alteration more acceptable than another? 
+
+It so happens that there are people working on this problem right now. See for example the [current discussion](http://causalityrelay.wordpress.com/2010/01/24/fai-vector-for-human-preference) taking place on Vladmir Nesov's blog. 
+
+As a preliminary step we can categorize the ways that our "wants" can change as follows (these are mostly taken from a [comment](http://causalityrelay.wordpress.com/2010/01/24/fai-vector-for-human-preference/#comment-142) by Andreas):
+
+1. resolving a logical uncertainty
+2. updating in light of new evidence
+3. correcting a past computational error
+4. forgetting information
+5. committing a new computational error
+6. unintentional physical modification (i.e., brain damage)
+7. intentional physical modification
+8. other
+
+Can we agree that categories 1, 2, and 3 are acceptable, 5 and 6 are unacceptable, and 4, 7, and 8 are "it depends"?
+
+The change that I suggested in my argument belongs to category 2, updating in light of new evidence. I wrote that the FAI would "try to extrapolate what your preferences would be if you knew what it felt like to be wireheaded." Does that seem more reasonable now?
+
+&gt;For instance, what about our anti-wirehead?
+
+If the FAI tries to extrapolate whether you'd want to be anti-wireheaded if you knew what it felt like to be anti-wireheaded, the obvious answer is no. You seem to assume that the FAI would instead try to predict whether you'd prefer to be anti-wireheaded after you were *actually* anti-wireheaded, but that change would be more like category 6.

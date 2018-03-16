@@ -1,0 +1,3 @@
+&gt; This comment should help you understand why I disagree. Does it make sense?
+
+I don't claim that all injunctions can be rephrased as epistemic statements. I claim that decision-theoretic injunctions can be rephrased as epistemic statements. Moral injunctions can't.

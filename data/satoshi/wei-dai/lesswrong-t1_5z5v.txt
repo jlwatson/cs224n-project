@@ -1,0 +1,15 @@
+&gt;What about pushing on neuroscience and neuroimaging hard enough so that when there is enough computing power to do brain-inspired AI or low-fidelity emulations,
+
+I would think that brain-inspired AI would use less hardware (taking advantage of differences between the brain and the digital/serial computer environment, along with our software and machine learning knowledge.
+
+&gt;the technology for high-fidelity emulations will already be available, so people will have little reason to do brain-inspired AI or low-fidelity emulations (especially if we heavily publicize the risks).
+
+Different relative weightings of imaginging, comp neurosci, and hardware would seem to give different probability distributions over brain-inspired AI, low-fi WBE, and hi-fi WBE, but I don't see a likely track that goes in the direction of "probably WBE" without a huge (non-competitive) willingness to hold back on the part of future developers.
+
+&gt;Or what if we push on neuroimaging alone hard enough so that when neuron simulation technology advances far enough to do brain emulations, high-fidelity brain scans will already be readily available and people won't be tempted to use low-fidelity scans.
+
+Of the three, neuroimaging seems most attractive to push (to me, Robin might say it's the worst because of more abrupt/unequal transitions), but that doesn't mean one should push any of them.
+
+&gt;How hard have FHI/SIAI people thought about these issues? (Edit: Not a rhetorical question, it's hard to tell from the outside.)
+
+A number of person-months, but not person-years.

@@ -1,0 +1,34 @@
+Wei-Dai wrote a post entitled [The Absent-Minded Driver](http://lesswrong.com/lw/182/the_absentminded_driver/) which I labeled "snarky".  Moreover, I suggested that the snarkiness was so bad as to be nauseating, so as to drive reasonable people to flee in horror from LW and SAIA.  I here attempt to defend these rather startling opinions.  Here is what Wei-Dai wrote that offended me:
+
+&gt;This post examines an attempt by professional decision theorists to treat an example of time inconsistency, and asks why they failed to reach the solution (i.e., TDT/UDT) that this community has more or less converged upon. (Another aim is to introduce this example, which some of us may not be familiar with.) Before I begin, I should note that I don't think "people are crazy, the world is mad" (as Eliezer puts it) is a good explanation. Maybe people are crazy, but unless we can understand how and why people are crazy (or to put it more diplomatically, "make mistakes"), how can we know that we're not being crazy in the same way or making the same kind of mistakes? 
+
+The paper that Wei-Dai reviews is ["The Absent-Minded Driver"](http://digital.cs.usu.edu/~allanv/cs6100/papers/drivr.pdf) by Robert J. Aumann, Sergiu Hart, and Motty Perry.  Wei-Dai points out, rather condescendingly:
+
+&gt; (Notice that the authors of this paper worked for a place called Center for the Study of Rationality, and one of them won a Nobel Prize in Economics for his work on game theory. I really don't think we want to call these people "crazy".)
+
+Wei-Dai then proceeds to give a competent description of the problem and the standard "planning-optimality" solution of the problem.  Next comes a description of an alternative seductive-but-wrong solution by Piccione and Rubinstein.  I should point that everyone - P&amp;R, Aumann, Hart, and Perry, Wei-Dai, me, and hopefully you who look into this - realizes that the alternative P&amp;R solution is wrong.  It gets the wrong result.  It doesn't win.  The only problem is explaining exactly where the analysis leading to that solution went astray, and in explaining how it might be modified so as to go right.  Making this analysis was, as I see it, the whole point of both papers - P&amp;R and Aumann et al.  Wei-Dai describes some characteristics of Aumann et al's corrected version of the alternate solution.  Then he (?) goes horribly astray:
+
+&gt;In problems like this one, UDT is essentially equivalent to planning-optimality. So why did the authors propose and argue for action-optimality despite its downsides ..., instead of the alternative solution of simply remembering or recomputing the planning-optimal decision at each intersection and carrying it out?
+
+But, as anyone who reads the paper carefully should see, they weren't arguing for action-optimality as the solution.  They never abandoned planning optimality.  Their point is that if you insist on reasoning in this way, (and Seldin's notion of "subgame perfection" suggests some reasons why you might!) then the algorithm they call "action-optimality" is the way to go about it.
+
+But Wei-Dai doesn't get this.  Instead we get this analysis of how these brilliant people just haven't had the educational advantages that LW folks have: 
+
+&gt;Well, the authors don't say (they never bothered to argue against it), but I'm going to venture some guesses:
+
+&gt;    * That solution is too simple and obvious, and you can't publish a paper arguing for it.
+&gt;    * It disregards "the probability of being at X", which intuitively ought to play a role.
+&gt;    * The authors were trying to figure out what is rational for human beings, and that solution seems too alien for us to accept and/or put into practice.
+&gt;    * The authors were not thinking in terms of an AI, which can modify itself to use whatever decision theory it wants to.
+&gt;    * Aumann is known for his work in game theory. The action-optimality solution looks particularly game-theory like, and perhaps appeared more natural than it really is because of his specialized knowledge base.
+&gt;    * The authors were trying to solve one particular case of time inconsistency. They didn't have all known instances of time/dynamic/reflective inconsistencies/paradoxes/puzzles laid out in front of them, to be solved in one fell swoop.
+
+&gt;Taken together, these guesses perhaps suffice to explain the behavior of these professional rationalists, without needing to hypothesize that they are "crazy". Indeed, many of us are probably still not fully convinced by UDT for one or more of the above reasons.
+
+Let me just point out that the reason it is true that "they never argued against it" is that they had already argued *for* it.  Check out the implications of their footnote #4!
+
+Ok, those are the facts, as I see them.  Was Wei-Dai snarky?  I suppose it depends on how you define snarkiness.  Taboo "snarky".  I think that he was overbearingly condescending without the slightest real reason for thinking himself superior.  "Snarky" may not be the best one-word encapsulation of that attitude, but it is the one I chose.  I am unapologetic.  Wei-Dai somehow came to believe himself better able to see the truth than a Nobel laureate *in the Nobel laureate's field*.  It is a mistake he would not have made had he simply read a textbook or taken a one-semester course in the field.  But I'm coming to see it as a mistake made frequently by SIAI insiders.
+
+Let me point out that the problem of forgetful agents may seem artificial, but it is actually extremely important.  An agent with perfect recall playing the iterated PD, knowing that it is to be repeated exactly 100 times, should rationally choose to defect.  On the other hand, if he cannot remember how many iterations remain to be played, and knows that the other player cannot remember either, should cooperate by playing Tit-for-Tat or something similar.
+
+Well, that is my considered response on "snarkiness".  I still have to respond on some other points, and I suspect that, upon consideration, I am going to have to eat some crow.  But I'm not backing down on this narrow point.  Wei-Dai blew it in interpreting Aumann's paper.  (And also, other people who know some game theory should read the paper and savor the implications of footnote #4.  It is totally cool).

@@ -1,0 +1,7 @@
+I think the main problem with ill-defined questions is that they don't sufficiently constrain the answer space: you end up with people arguing over multiple proposed answers and no clear way to determine which is right. Replacing them with crisp technical questions can be useful but the ill-defined questions tend not to fully constrain how you're supposed to translate them into crisp technical questions either.
+
+An approach that I've found helpful is to gather many ill-defined questions in the same field and try to find some single insight (or a small set of related insights) that answers all of them simultaneously. While each question on its own may not narrow down the answer space down to a single point, the whole collection has a much better chance of doing so.
+
+To illustrate this, compare philosophers who tries to solve individual seemingly crisp toy problems within anthropic reasoning, such as the Sleeping Beauty Problem, to those who worked on anthropic reasoning in general, to my attempt to solve [many ill-defined problems](http://lesswrong.com/lw/cs9/list_of_problems_that_motivated_udt/) simultaneously with UDT.
+
+This isn't to deny that there are lots of other examples where "hacking around the edges" or "pushing into the shadows" did work, but one should be careful not to elevate the heuristic to some sort of dogma, even to the extent of having someone be in charge of reminding others to not "bite too much".

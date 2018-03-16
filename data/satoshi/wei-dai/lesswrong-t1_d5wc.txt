@@ -1,0 +1,3 @@
+As far as I can tell, Paul's current proposal might still suffer from blackmail, like his earlier proposal which I [commented on](http://lesswrong.com/lw/i49/an_argument_against_indirect_normativity/). I vaguely remember discussing the problem with you as well.
+
+One big lesson for me is that AI research seems to be more incremental and predictable than we thought, and garage FOOM probably isn't the main danger. It might be helpful to study the strengths and weaknesses of modern neural networks and get a feel for their generalization performance. Then we could try to predict which areas will see big gains from neural networks in the next few years, and which parts of Friendliness become easy or hard as a result. Is anyone at MIRI working on that?

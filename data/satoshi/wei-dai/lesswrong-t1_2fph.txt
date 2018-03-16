@@ -1,0 +1,3 @@
+Sorry, I misparsed your comment and gave a wrong answer, which I then deleted.
+
+Your original comment was trivially correct, and my reply missed the point. We can never justify our concept of complexity by thinking like that - linguistically - because this would be like trying to justify our prior with our prior, "a priori". If my prior is based on complexity and Bob's prior is based on foobity (religion, or whatever), we will find each other's priors weird. So if you ask whether all imaginable creatures have to use our concept of complexity, the easy answer is no. Instead we look at the outside world and note that our brand of razor seems to work. When it doesn't (religion, or whatever), we update it. Is there any other aspect to your question that I missed?

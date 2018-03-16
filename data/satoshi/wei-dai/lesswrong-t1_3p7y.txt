@@ -1,0 +1,1 @@
+An AI in a simulated universe can self-improve, which would make it more powerful than the theorem provers of today. I'm not convinced that AI-ish behavior, like self-improvement, requires empirical uncertainty about the universe.

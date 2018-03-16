@@ -1,0 +1,9 @@
+Why don't these writers post or at least cross-post on LW? I would really prefer that they did, for these reasons
+
+* It would give their posts more visibility and hence more comments and discussions. (I often learn more from the comments sections of a LW post than the post itself.)
+* I don't have to learn a new commenting system (get a new login and learn the markup/formatting, threading, and voting schemes).
+* I think the LW commenting system is generally better than that of any other blog I've seen.
+* If I comment on their posts, my comments can be backed up and searched along with all of my other LW comments.
+* I'm more motivated to comment (and to spend more effort on my comments) since my comments will be seen by more people, and I'm less worried about my comments disappearing when their blogs stop getting maintained.
+
+Does it also have something to do with [identity and affiliation](http://lesswrong.com/lw/do9/welcome_to_less_wrong_july_2012/8fpg)? If so, maybe that's another reason to try to make people think of LW in less identity-related ways, or perhaps make the LW identity smaller / more inclusive somehow? (I don't know and I'd very much like to hear from one or more of these writers.)

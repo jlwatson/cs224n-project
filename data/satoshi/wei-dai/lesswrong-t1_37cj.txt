@@ -1,0 +1,5 @@
+Thanks for the link.
+
+So that particular method (the one in the paper you link) has, to my mind, a rather troubling flaw: it bases subjective probability on so-called physical probability. I agree with what appears to be the dominant position here that all probabilities are subjective probabilities which makes the Anscombe and Aumann proof rather less interesting-- in fact it is question begging. (though it does work as a way of getting from more certain "objective" probabilities to less certain probabilities). They say that most of the other attempts have *not* relied on this, so I guess I'll have to look at some of those. I'm also not sure Anscombe and Aumann have in anyway motivated agents to treat degrees of belief as probability: they've just defined such a agent, not shown that such conditions are necessary and sufficient for that agent to be considered rational (I suppose an extended discussion of those central assumptions might do the the trick).
+
+But yes, these arguments are somewhat on topic.

@@ -1,0 +1,7 @@
+&gt; I do wonder why MIRI people often do not respond to my criticisms about their strategy.
+
+Speaking for myself...
+
+Explaining strategic choices, and replying to criticisms, takes *enormous* amounts of time. For example, Nick Bostrom set out to explain what MIRI/FHI insiders might consider to be "10% of the basics about AI risk" in a clear and organized way, and by the time he's done with the *Superintelligence* book it will have taken him something like *2.5 years of work* just to do that, with hundreds of hours of help from other people — and he was *already* an incredibly smart, productive academic writer who had a strong comparative advantage writing exactly that book. It would've taken me, or Carl, or anybody else besides Nick a lot *more* time and effort to write that book at a similar level of quality.
+
+Which of your many discussion threads on AI risk strategy do you most wish would be engaged further by somebody on staff at MIRI?

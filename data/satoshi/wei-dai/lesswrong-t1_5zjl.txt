@@ -1,0 +1,17 @@
+&gt;P(neuromorphic AI is feasible | hi-fi WBE is feasible) Has this been considered?
+
+Yes. You left out lo-fi WBE: insane/inhuman brainlike structures, generic humans, recovered brain-damaged minds, artificial infants, etc. Those paths would lose the chance at using humans with pre-selected, tested, and trained skills and motivations as WBE templates (who could be allowed relatively free rein in an institutional framework of mutual regulation more easily).
+
+&gt;Why not? SIAI is already pushing on decision theory (e.g., by supporting research associates who mainly work on decision theory). What's the rationale for pushing decision theory but not neuroimaging?
+
+As I understand it the thought is that an AI with a problematic decision theory could still work, while an AI that could be trusted with high relative power ought to also have a correct (by our idealized standards, at least) decision theory. Eliezer thinks that, as problems relevant to FAI go, it has among the best ratios of positive effect on FAI vs boost to harmful AI. It is also a problem that can be used to signal technical chops, the possibility of progress, and for potential FAI researchers to practice on.
+
+&gt;I guess both of us think abrupt/unequal transitions are better than Robin's Malthusian scenario, but I'm not sure why pushing neuroimaging will tend to lead to more abrupt/unequal transitions.
+
+Well, there are conflicting effects for abruptness and different kinds of inequality. If neuroimaging is solid, with many scanned brains, then when the computational neuroscience is solved one can use existing data rather than embarking on a large industrial brain-slicing and analysis project, during which time players could foresee the future and negotiate. So more room for a sudden ramp-up, or for one group or country getting far ahead. On the other hand, a neuroimaging bottleneck could mean fewer available WBE templates, and so fewer getting to participate in the early population explosion.
+
+Here's Robin's [post](http://www.overcomingbias.com/2009/11/bad-emulation-advance.html) on the subject, which leaves his views more ambiguous:
+
+&gt;Cell modeling – This sort of progress may be more random and harder to predict – a sudden burst of insight is more likely to create an unexpected and sudden em transition.  This could induce large disruptive inequality in economic and military power,
+
+&gt;Brain scanning – As this is also a relatively gradually advancing tech, it should also make for a more gradual predictable transition.  But since it is now a rather small industry, surprise investments could make for more development surprise.  Also, since the use of this tech is very lumpy, we may get billions, even trillions, of copies of the first scanned human.

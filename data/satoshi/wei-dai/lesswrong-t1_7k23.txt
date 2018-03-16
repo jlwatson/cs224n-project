@@ -1,0 +1,9 @@
+&gt; Maybe the first two just argues for Platonism and modal realism (although I note that Eliezer explicitly disclaimed being a modal realist).
+
+I think Yudkowsky is a Platonist, and I'm not sure he has a consistent position on modal realism, since when arguing on morality he seemed to espouse it: see his comment [here](http://www.overcomingbias.com/2012/08/no-theory-x-in-shining-armour.html).
+
+&gt; For example, "You should two-box in Newcomb's problem." If I say "Alice has a false belief that she should two-box in Newcomb's problem" it doesn't seem like I'm saying that her map doesn't correspond to the territory.
+
+I don't think that "You should two-box in Newcomb's problem." is actually a normative statement, even if it contains a "should": you can rephrase it epistemically as "If you two-box in Newcomb's problem then you will maximize your expected utility".
+
+Therefore, if you say "Alice has a false belief that if she two-boxes in Newcomb's problem then she will maximize her expected utility" you are saying that her belief doesn't correspond to the mathematical constructs underlying Newcomb's problem. If you take the Platonist position that mathematical constructs exist as external entities ("the territory"), then yes, you are saying  that her map doesn't correspond to the territory.

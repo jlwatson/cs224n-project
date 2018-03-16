@@ -1,0 +1,1 @@
+An AI running causal decision theory will lose on Newcomblike problems, be defected against in the Prisoner's Dilemma, and otherwise undergo behavior that is far more easily interpreted as "losing" than "having different preferences over final outcomes".

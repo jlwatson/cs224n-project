@@ -1,0 +1,19 @@
+&gt;not right to just implicitly assume that they are the same thing.
+
+Yes, good point. I was just listing words that people tend to throw around for that sort of problem. "awesome" is likewise not *necessarily*  "good". I wonder how I might make that clearer...
+
+&gt;If we take an outcome to be a world history, then "being turned into a whale for a day" isn't an outcome.
+
+Thanks for pointing this out. I forgot to substantiate on that. I take "turned into a whale for a day" to be referring to the probability distribution over total world histories consistent with current observations and with the turned-into-a-whale-on-this-day constraint.
+
+Maybe I should have explained what I was doing... I hope no one gets too confused.
+
+&gt;I'm having trouble reconciling this
+
+"Awesomeness" is IMO the simplest effective pointer to morality that we currently have, but that morality is still inconsistent and dynamic. I take the "moral philosophy" problem to be working out in explicit detail what exactly is awesome and what isn't, from our current position in morality-space, with all its meta-intuitions. I think this problem is incredibly hard to solve completely, but most people can do better than usual by just using "awesomeness". I hope this makes that clearer?
+
+&gt;VNM, or just the concept of utility function, implies consequentialism
+
+In some degenerate sense, yes, but you can easily think up a utility function that cares what rules you followed in coming to a decision, which is generally not considered "consequentialism". It is after all part of the world history and therefor available to the utility function.
+
+We may have reached the point where we are looking at the problem in more detail than "consequentialism" is good for. We may need a new word to distinguish mere VNM from rules-don't-matter type stuff.

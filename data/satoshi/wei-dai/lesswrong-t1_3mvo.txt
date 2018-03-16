@@ -1,0 +1,3 @@
+I'm equally afraid ;).  The Axiom of Independence is intuitively appealing *to me*, but I don't posit it to be a basic principle of rationality, because that smells like a mind projection fallacy.  I suspect you're right, also, about dutch book/money pump arguments.
+
+I tentatively conclude that a rational agent need not evince preferences that can be represented as an attempt to maximize such a utility function.  That doesn't mean Expected Utility Theory can't be useful in many circumstances or for many agents, but this still seems like important news, which merits more discussion on Less Wrong.

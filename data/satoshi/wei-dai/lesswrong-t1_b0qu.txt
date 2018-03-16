@@ -1,0 +1,5 @@
+&gt;It seems worth reflecting on the fact that the point of the foundational LW material discussing utility functions was to make people better at reasoning about AI behavior and not about human behavior. 
+
+I think part of Eliezer's point was also to introduce decision theory as an ideal for human rationality. (See http://lesswrong.com/lw/my/the_allais_paradox/ for example.) Without talking about utility functions, we can't talk about expected utility maximization, so we can't define what it means to be ideally rational in the instrumental sense (and we also can't justify Bayesian epistemology based on decision theory).
+
+So I agree with the problem stated here, but "let's stop talking about utility functions" can't be the right solution. Instead we need to emphasize more that having the wrong values is often worse than being irrational, so until we know how to obtain or derive utility functions that aren't wrong, we shouldn't try to act as if we have utility functions.

@@ -1,0 +1,6 @@
+How do you pick a career if your goal is to maximize your income (technically, maximize the expected value of some function of your income)? The sort of standard answer is "comparative advantage", but it's unclear to me how to apply that concept in practice. For example how much demand there is for each kind of job is obviously very important, but how do you take that into consideration, exactly? I've been thinking about this and came up with the following. I'd be interested in any improvements or alternative ideas.
+
+1. For each career under consideration, estimate your potential income ranking or percentile within that career if you went into it (as a probability distribution).
+2. For each career, estimate its income distribution (how much will the top earner make, how much will the second highest earner make, etc.).
+3. From 1 and 2, obtain a probability distribution of your income within each career.
+4. Pick the career with maximum expected utility.

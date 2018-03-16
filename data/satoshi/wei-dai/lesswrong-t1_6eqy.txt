@@ -1,0 +1,5 @@
+Wot cousin_it [said](http://lesswrong.com/lw/ajm/ai_risk_and_opportunity_a_strategic_analysis/6ekk).
+
+Of course the model "OAIs are extremely dangerous if not properly contained; let's let everyone have one!" isn't going to work. But there are many things we can try with an OAI (building a FAI, for instance), and most importantly, some of these things will be experimental (the FAI approach relies on getting the theory right, with no opportunity to test it). And there is a window that doesn't exist with a genie - a window where people realise superintelligence is possible and where we might be able to get them to take safety seriously (and they're not all dead). We might also be able to get exotica like a limited impact AI or something like that, if we can find safe ways of experimenting with OAIs.
+
+And there seems no drawback to pushing an UFAI project into becoming an OAI project.

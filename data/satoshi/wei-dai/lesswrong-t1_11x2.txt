@@ -1,0 +1,11 @@
+Moving second is a disadvantage (at least it seems to always work out that way, counterexamples requested if you can find them) and A can always use less computing power.  Rational agents should not regret having more computing power (because they can always use less) or more knowledge (because they can always implement the same strategy they would use with less knowledge) - this sort of thing is a sure sign of reflective inconsistency.
+
+To see why moving *logically* second is a disadvantage, consider that it lets an opponent playing Chicken always toss their steering wheel out the window and get away with it.
+
+That both players desire to move "logically first" argues strongly that neither one will; that the resolution here does not involve any particular fixed global logical order of decisions.
+
+(I should comment in the future about the possibility that bio-values-derived civs, by virtue of having evolved to be crazy, can succeed in moving logically first using crazy reasoning, but that would be a whole 'nother story, and of course also falls into the "Way the fuck too dangerous to try in real life" category relative to my present knowledge.)
+
+&gt; With timeless agents, we can't do backwards induction using the physical order of decisions. We need some notion of the logical order of decisions.
+
+BTW, thanks for this compact way of putting it.

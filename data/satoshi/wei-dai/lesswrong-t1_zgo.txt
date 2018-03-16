@@ -1,0 +1,3 @@
+I'd like to see more results in this the vein. For example, what if there is asymmetric information? Can you still get Pareto optimality? What about non-transferable utilities? Thanks for writing up your results as you go. It's fun to follow along.
+
+I'm also curious about Vladimir Nesov's current approach, which he alluded to earlier as trying to understand the properties of agents as processes (or something like that). That also sounds intriguing and I'd like to learn more.

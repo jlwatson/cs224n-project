@@ -1,0 +1,9 @@
+Right, so in my present epistemological state I find it _extremely_ unlikely that Eliezer will succeed in building a Friendly AI. I gave an estimate [here](http://lesswrong.com/lw/2lr/the_importance_of_selfdoubt/2h9y?c=1) which proved to be surprisingly controversial. 
+
+The main points that inform my thinking here are:
+
+1. The precedent for people outside of the academic mainstream having mathematical/scientific breakthroughs in recent times is _extremely_ weak. In my own field of pure math I know of only two people without PhD's in math or related fields who have produced something memorable in the last 70 years or so, namely [Kurt Heegner](http://en.wikipedia.org/wiki/Kurt_Heegner) and [Martin Demaine](http://en.wikipedia.org/wiki/Martin_Demaine). And even Heegner and Demaine are (relatively speaking) quite minor figures. It's *very common* for self-taught amateur mathematicians to greatly underestimate the difficulty of substantive original mathematical research. I find it very likely that the same is true in virtually all scientific fields and thus have an extremely skeptical Bayesian prior against any proposition of the type "amateur intellectual X will solve major scientific problem Y."
+
+2. From having talked with computer scientists and AI researchers, I have a very strong impression that the consensus is that AGI is *way* out of reach at present. See for example points #1 and #5 of Scott Aaronson's [The Singularity is Far](http://scottaaronson.com/blog/?p=346).
+
+The fact that Eliezer does not appear to have seriously contemplated or addressed the  the two points above and their implications diminishes my confidence in his odds of success still further.

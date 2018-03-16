@@ -1,0 +1,11 @@
+Differentiating your first equation by B at B=0 after rearranging the terms a bit, we get a differential equation:
+
+![](http://www.codecogs.com/png.latex?u'(x\)=2u(x\)/x-u'(0\))
+
+Solving the equation using the first method from [this page](http://tricksandshortcuts.blogspot.com/2007/12/first-and-second-order-differential.html) yields
+
+![](http://www.codecogs.com/png.latex?u(x\)=C_1x+C_2x^2)
+
+This gives the necessary and sufficient condition for the Shapley value to coincide with proportional allocation for two participants. The result also holds for three or more participants because the Shapley value is linear with respect to the utility function. So yeah, Wei Dai just got lucky with that example.
+
+(I'd nearly forgotten how to do this stuff. Thanks for the exercise!)

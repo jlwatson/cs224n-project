@@ -1,0 +1,5 @@
+&gt; But why is it that I feel uncertain about which premises I should accept? 
+
+You've got meta-moral criteria for judging between possible terms in your utility function, a reconciliation process for conflicting terms, other phenomena which are *very* interesting and I do wish someone would study in more detail, but so far as *metaethics* goes it would tend to map onto a computation whose uncertain output is your utility function.  Just more logical uncertainty.
+
+How can I put it?  The differences here are probably very important to FAI designers *and* object-level moral philosophers, but I'm not sure they're *metaethically* interesting... or they're metaethically interesting, but they don't make you *confused* about what sort of stuff morality could possibly be made out of.  Moral uncertainty is still made out of a naturalistic mixture of physical uncertainty and logical uncertainty.

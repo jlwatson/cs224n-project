@@ -1,0 +1,1 @@
+It does indeed imply a form of convergence. I would assume Stuart thinks of the convergence as an artifact of the game environment the agents are in. Not a convergence in goals, just behavior. Albeit the results are basically the same.

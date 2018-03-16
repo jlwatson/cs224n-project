@@ -1,0 +1,5 @@
+&gt; I think the natural way to classify that is to look at when the pure machine intelligences exceed the augmented humans.
+
+So: by far the most important human augmentation in the future is going to involve preprocessing sensory inputs using machines, post-processing motor outputs by machines, and doing processing that bypasses the human brain entirely.  Not drugs, or eduction, or anything else.
+
+In such scenarios, the machines won't ever really "overtake" the augmented humans, they will just catch up with them.  So, for instance, a human with a robot army is not functionally very much different from a robot army.  Eventually the human becomes unnecessary and becomes a small burden, but that hardly seems very significant.  So: the point that you are talking about seems to be far future, difficult to measure, and seems to me to be inappropriate as the basis of a classification scheme.

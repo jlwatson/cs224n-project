@@ -1,0 +1,23 @@
+&gt;I'm curious what your impression is after reading the above, and whether there is other specific evidence that I should be paying more attention to
+
+Sure.
+
+&gt;because it involved major technical and conceptual/philosophical advances on the existing state of the art, 
+
+I agree Bitcoin is relatively audacious, novel, and technically sophisticated .
+
+
+
+&gt;and these advances didn't originate from nor was likely funded/supported by academia, government or industry
+
+Couldn't you describe many early-stage self-funded startups that way? Or do you mean you guess that Satoshi was not working in academia, government, or industry before developing Bitcoin?
+
+&gt;Also, its social impact seems larger - if Craigslist or PayPal didn't exist, something essentially identical would have been created very soon anyway, but if Bitcoin didn't exist, another Bitcoin may not have been created for another decade, and/or may have been created with very different characteristics
+
+What kind of impact? So far the volume of Bitcoin transactions is still relatively small, and presumably a large portion of the transactions conducted using Bitcoin would otherwise be undertaken using other payment systems. So getting a version of PayPal or Craigslist working somewhat earlier or better could easily affect more transactions and generate more consumer surplus if Bitcoin does not grow to larger scales.
+
+ETA:
+
+&gt;PayPal’s net Total Payment Volume for 2012, the total value of transactions, was $145 billion, up 22% year over year.
+
+Cf [Bitcoin transaction volumes](http://blockchain.info/charts/estimated-transaction-volume-usd).

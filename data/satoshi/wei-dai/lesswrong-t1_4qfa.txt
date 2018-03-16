@@ -1,0 +1,13 @@
+Allow me to offer further clarifications; I think our intuitions about metaethics may diverge less than you think.
+
+*One.* [Pluralistic Moral Reductionism](http://lesswrong.com/lw/5u2/pluralistic_moral_reductionism/) is *not* the "right track." In that post I write:
+
+&gt; But one must not fall into the trap of thinking that a definition you've stipulated (aloud or in your head) for 'ought' must match up to your intended meaning of 'ought' (to which you don't have introspective access). In fact, I suspect it never does, which is why the conceptual analysis of 'ought' language can go in circles for centuries, and why any stipulated meaning of 'ought' is a fake utility function. To see clearly to our intuitive concept of ought, we'll have to try empathic metaethics...
+
+Plualistic moral reductionism is merely a way of dissolving some common debates in philosophical metaethics, so they don't waste our time and we can move on to tackle the *hard* problems of metaethics.
+
+*Two.* I agree that human neuroscience may not turn out to be relevant for metaethics, but it seems *plausible* that it will turn out to be relevant because (1) perhaps the only value in the universe is the type created when sentient beings value things, and hence we can learn about what has value by studying how sentient beings value things, and (2) if CEV is a good plan for Friendly AI, then we'll be extrapolating human values, and thus it'll be worth knowing what the heck we're extrapolating. And thus, in the spirit of exploring multiple approaches simultaneously, I'm trying to make sure we all have a cursory understanding of the neuroscience of human values.
+
+*Three.* I don't consider *human neuroscience* to be "a clear and stable platform from which to solve the hard questions of morality." That phrase was meant to talk about the 'dissolving away' of common metaethical debates (e.g. moral realism vs. antirealism) so that they don't confuse us when we're trying to solve the harder problems of metaethics.
+
+Do you still think we disagree on much? If so, I'm curious to hear what you think we disagree about.

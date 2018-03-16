@@ -1,0 +1,7 @@
+&gt; (Do you mean it's not useful as a way to build FAI?)
+
+Yes.
+
+&gt; we don't have an argument showing that our "actual values" are complex
+
+Do you agree that FAI probably needs to have a complex utility function, because most simple ones lead to futures we wouldn't want to happen? The answer to that question doesn't seem to depend on notions like reflective equilibrium or Yvain's "actual values", unless I'm missing something again.

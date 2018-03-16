@@ -1,0 +1,3 @@
+I'm feeling great about turning on PDF uploads, but allowing PPT uploads includes the ability to upload Office macro malware.
+
+Do we want to allow random people to sign up for accounts then upload potentially malware bearing files?

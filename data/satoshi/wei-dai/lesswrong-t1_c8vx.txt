@@ -1,0 +1,27 @@
+I don’t see how this could predictably happen without something else going wrong first. I agree and acknowledged that the question-learning solution is hard-to-test, so let’s focus on the RL approach. (Though I also don’t expect this to happen for the question-answering solution.) In this comment I’ll focus on the misunderstanding case.
+
+So in the future, you expect to predictably make a decision which the aliens would consider catastrophically bad. It seems to me like:
+
+1. If the solution would really be considered catastrophically bad, and it chosen for evaluation, then it will receive a very low payoff—unless the scheme fails in some other way that we have not yet discussed.
+
+2. So you would only make such mistakes if you thought that you would receive enough expected benefit from more aggressive decisions that it offsets this predictable possibility of a low payoff from catastrophic error.
+
+3. But if you took more conservative actions, you could justify those actions (when they were evaluated) by explaining the predicted possibility of a catastrophic outcome. Unless something else has gone wrong, the aliens care more about averting this prospect of a bad outcome than saving time by you being more aggressive, so they shouldn’t penalize you for this.
+
+So if you behave aggressively even at the risk of a catastrophic error, it seems like one of the following must have gone wrong:
+
+1. In fact the aliens wouldn’t be able to detect a catastrophic error during evaluation.
+
+2. The conservative policy is actually worse than the aggressive policy in expectation, based on the considered judgment of the aliens.
+
+3. The aliens wouldn’t accept the justification for conservatism, based on a correct argument that its costs are outweighed by the possibility for error.
+
+4. This argument is wrong, or else it’s right but you wouldn’t recognize this argument or something like it.
+
+Any of these could happen. 1 and 3 seem like they lead to more straightforward problems with the scheme, so would be worthwhile to explore on other grounds. 2 doesn’t seem likely to me, unless we are dealing with a very minor catastrophe. But I am open to arguing about it. The basic question seems to be how tough it is to ask the aliens enough questions to avoid doing anything terrible.
+ 
+The examples you give in the parallel thread don’t seem they could present a big problem; you can ask the alien a modest number of questions like “how do you feel about the tradeoff between the world being destroyed and you controlling less of it?” And you can help to the maximum possible extent in answering them. Of course the alien won’t have perfect answers, but their situation seems better than the situation prior to building such an AI, when they were also making such tradeoffs imperfectly (presumably even more imperfectly, unless you are completely unhelpful to the aliens for answering such questions). And there don’t seem to be many plans where the cost of implementing the plan is greater than the cost of consulting the alien about how it feels about possible consequences of that plan.
+
+Of course you can also get this information in other ways (e.g. look at writings and past behavior of the aliens) or ask more open-ended questions like “what are the most likely way things could go wrong, given what I expect to do over the next week,” or pursue compromise solutions that the aliens are unlikely to consider too objectionable.
+
+ETA: actually it's fine if the catastrophic plan is not evaluated badly, all of the work can be done in the step where the aliens prefer conservative plans to aggressive ones in general, after you explain the possibility of a catastrophic error.

@@ -1,0 +1,3 @@
+&gt; Now consider what happens if the second player has more computing power than the first, so that it can perfectly simulate the first player and compute its move. After it finishes that computation and knows the first player's move, the logical correlation between them disappears, because no uncertainty implies no correlation. So, given there's no logical correlation, it ought to play D. The first player would have expected that, and also played D.
+
+The first player's move could depend on the second player's, in which case the second player won't get the answer is a closed form, the answer must be a function of the second player's move...

@@ -1,0 +1,1 @@
+With smart contracts you can implement such escrow accounts. Which is a step into the right direction I think.

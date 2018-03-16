@@ -1,0 +1,3 @@
+&gt; If it turns out that such subjectivity and/or arbitrariness can't be avoided, that would be hard to square with objective morality actually existing.
+
+Compare with formal systems giving first-order theories of standard model of natural numbers. You can't specify the whole thing, and at some point you run into (independent of what comes before) statements for which it's hard to decide whether they hold for the standard naturals, and so you could add to the theory either those statements or their negation. Does this break the intuition that there is some intended structure corresponding to natural numbers, or more pragmatically that we can still usefully seek better theories that capture it? For me, it doesn't in any obvious way.

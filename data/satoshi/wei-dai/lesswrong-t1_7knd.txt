@@ -1,0 +1,11 @@
+&gt; This seems to be worth a discussion post since most people are probably still voting things to below -3 without knowing the new consequences of doing so.
+
+There is a moderation mechanism designed to do *X* when users do *Y*. If this mechanism is good, we should keep it. If this mechanism is bad, we should remove or modify it. But we should not *think* about this mechanism while voting. That's *gaming* the mechanism.
+
+* Upvote = "LessWrong discussions should have *more* of this."
+
+* Downvote = "LessWrong discussions should have *less* of this."
+
+That's all. There is nothing more to think about while voting. If you think there should be more things to consider while voting, please explain what and why.
+
+I can imagine a situation where a stupid comment leads to smart discussion. How often? What is the *conditional probability* that a heavily downvoted comment will have a discussion worth watching? What are the benefits of watching that discussion in Recent Comments? What are the costs of watching an *average* discussion below a heavily downvoted comment in Recent Comments?

@@ -1,0 +1,7 @@
+&gt;* Second-order logical version of Solomonoff induction.
+
+I'm not sure this is the right problem. See [this post](http://lesswrong.com/lw/cw1/open_problems_related_to_solomonoff_induction/) I just made.
+
+&gt;* Non-Cartesian version of Solomonoff induction.
+
+UDT seems to solve this well enough that I no longer consider it a major open problem. Is this not your or Eliezer's evaluation?

@@ -1,0 +1,1 @@
+Wei Dai begins by assuming that cooperation on the Prisoner's Dilemma is not rational, which is the same decision theory that two-boxes on Newcomb's Problem.

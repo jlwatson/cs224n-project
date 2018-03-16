@@ -1,0 +1,5 @@
+&gt;We humans don't exhibit a lot of goal-directed behavior
+
+Do you not count reward-seeking / reinforcement-learning / AIXI-like behavior as goal-directed behavior? If not, why not? If yes, it doesn't seem possible to build an AI that makes intelligent decisions without a goal-directed architecture.
+
+A superintelligence might be able to create a jumble of wires that happen to do intelligent things, but how are we humans supposed to stumble onto something like that, given that all existing examples of intelligent behavior and theories about intelligent decision making are goal-directed? (At least if "intelligent" is interpreted to mean general intelligence as opposed to narrow AI.) Do you have something in mind when you say "shallow insights"?

@@ -1,0 +1,17 @@
+(1) Given: AI risk comes primarily from [AI optimizing for things besides human values](https://wiki.lesswrong.com/wiki/Orthogonality_thesis).
+
+(2) Given: humans already are [optimizing for things besides human values](http://www.overcomingbias.com/2008/09/politics-isnt-a.html). (or, at least besides our [Coherent Extrapolated Volition](https://wiki.lesswrong.com/wiki/Coherent_Extrapolated_Volition))
+
+(3) Given: Our world is okay.^[CITATION NEEDED!]
+
+(4) Therefore, imperfect value loading *can* still result in an okay outcome.
+
+This is, of course, not necessarily always the case for any given imperfect value loading. However, our world serves as a single counterexample to the rule that *all* imperfect optimization will be disastrous.
+
+(5) Given: A [maxipok strategy](http://www.nickbostrom.com/existential/risks.html) is optimal. ("Maximize the probability of an okay outcome.")
+
+(6) Given: Partial optimization for human values is easier than total optimization. (Where "partial optimization" is at least close enough to achieve an okay outcome.)
+
+(7) ∴ MIRI should focus on imperfect value loading.
+
+Note that I'm not convinced of several of the givens, so I'm not certain of the conclusion. However, the argument itself looks convincing to me. I’ve also chosen to leave assumptions like “imperfect value loading results in partial optimization” unstated as part of the definitions of those 2 terms. However, I’ll try and add details to any specific areas, if questioned.

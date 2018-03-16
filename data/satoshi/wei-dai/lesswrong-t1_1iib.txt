@@ -1,0 +1,11 @@
+In the ice cream example, yes, I'll switch to the blue one. But that one is like my previous example of choosing where to live: I switched because I gained information that allowed me to better fulfill my intrinsic preferences. It's not that my actual preferences would have changed. If my preference would have been "I want to eat the best ice cream I can have, for as long as the taste doesn't come from a blue ice cream", (analogous to "I want to experience the best life there is, for as long as the enjoyment doesn't come from wireheading"), I wouldn't have switched.
+
+&gt; Know that it's the "best" is hardly having full declarative knowledge, when we don't know how good "best" is.
+
+Fair enough. But even if a person declining to be wireheaded was provided information of exactly how much better "best" would be, I doubt that would sway very many of them. (Though it may sway some, and in that case yes, an FAI telling them this could make them switch.)
+
+&gt; I don't see how that makes any sense, given my ice cream example.
+
+Sorry, poor wording on my behalf. Let me reword it:
+
+"If an FAI simply simulates a state of mind where a memory of the experience of wireheadedness has been added, I don't think that will change the person's preferences at all. The recollection of the wirehead state is just the previously known 'wireheading is a thousand times better than any other pleasure I could have' knowledge, stored in a different format. But if no emotional or motivational associations are added, having the same information in a different format shouldn't change any preferences."

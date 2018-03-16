@@ -1,0 +1,9 @@
+&gt;This form of Counterfactual Mugging may be instructive, as it slaughters the following false intuition, or equivalently conceptualization of "could": "the coin could land either way, but a logical truth couldn't  be either way".
+
+Perhaps this version of Counterfactual Mugging is not really about logical uncertainty, but rather uncertainty about one's source code. In [UDT1](http://lesswrong.com/lw/15m/towards_a_new_decision_theory/), I assumed that an agent would know its own source code with certainty, but here, if we suppose that Omega does its counterfactual prediction using source-code surgery plus simulation, then our agent can't distinguish whether it's the agent with the original source code, or the one in the simulation with the modified source code.
+
+Although I haven't worked out the details, it seems possible to modify UDT1 to handle uncertainty about one's source code, with the result that such an agent would give Omega $100 in this situation. Basically, when Is_Odd(Pi(n)) returns "true", you would think:
+
+Did it return "true" because Pi(n) is odd, or because Pi(n) is even and my source code has been modified for it to return true anyway? I don't know, so I don't know whether Pi(n) is even or odd, and I better act as if I don't know.
+
+This doesn't seem to require slaughtering the intuition that "a logical truth couldn't  be either way" because I can think that a logical truth couldn't be either way but I just don't know which way it is, and that still allows me to make the right decision. Do you agree, or do you still think that intuition needs to go?

@@ -1,0 +1,5 @@
+There is truth to this sentiment, but you should keep in mind results like [this one](http://www.scottaaronson.com/papers/agree-econ.pdf) by Scott Aaronson, that the amount of info that people actually have to transmit is independent of the amount of evidence that they have (even given computational limitations).
+
+It seems like doubting each other's rationality is a perfectly fine explanation. I don't think most people around here are perfectly rational, nor that they think I'm perfectly rational, and definitely not that they all think that I think they are perfectly rational. So I doubt that they've updated enough on the fact that my views haven't converged towards theirs, and they may be right that I haven’t updated enough on the fact that their views haven’t converged towards mine.
+
+In practice we live in a world where many pairs of people disagree, and you have to disagree with a lot of people. I don’t think the failure to have common knowledge is much of a vice, either of me or my interlocutor. It’s just a really hard condition.

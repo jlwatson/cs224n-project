@@ -1,0 +1,5 @@
+What if, as I suspect, UFAI is much easier than IA, where IA is at the level you're hoping for?  Moreover, what evidence can you offer that researchers of von Neumann's intelligence face a significantly smaller difficulty gap between UFAI and FAI than those of mere high intelligence?  For some determinacy, let "significantly smaller difficulty gap" mean that  von Neumann level intelligence gives at least twice the probability of FAI, conditional on GAI.
+
+Basically, I think you overestimate the value of intelligence.
+
+Which is not to say that a parallel track of IA might not be worth a try.

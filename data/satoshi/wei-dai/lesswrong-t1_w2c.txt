@@ -1,0 +1,11 @@
+&gt; So the universe was created by an intelligent agent.  Well, that's the standard Simulation Hypothesis [...]
+
+I've been thinking about a slightly different question: is base-level reality physics-like, or optimization-like, and if it's optimization-like, did it start out that way?
+
+Here's an example that illustrates what my terms mean. Suppose we are living in base-level reality which started with the Big Bang and evolution, and we eventually develop an AI that takes over the entire universe. Then I would say that base-level reality started off physics-like, then becomes optimization-like. 
+
+But it's surely conceivable that a universe could start off being optimization-like, and this hypothesis doesn't seem to violate [Occam's Razor](http://lesswrong.com/lw/jp/occams_razor/) in any obvious way. Consider this related question: what is the shortest program that outputs a human mind? Is it an optimization program, or a physics simulation?
+
+An optimization procedure can be very simple, if computing time isn't an issue, but we don't know whether there is a concisely describable objective function that we are the optimum of. On the other hand, the mathematical laws of physics are also simple, but we don't know how rare intelligent life is, so we don't know how many bits of coordinates are needed to locate a human brain in the universe.
+
+Does anyone have an argument that settles these questions, in either direction?

@@ -1,0 +1,7 @@
+I vote for spending the resources in one or more of the following ways instead:
+
+1. Write down any previously unpublished ideas in SIAI people's heads, as concisely and completely as possible, as blog posts or papers.
+2. Incrementally improve the LW Wiki. Add entries for any of the topics on your list that are missing, and link to existing blog posts and papers.
+3. Make a push for "AI Risk" (still don't like the phrase, but that's a different issue) to become a proper academic discipline (i.e., one that's studied by many academics outside FHI and SIAI). I'm not sure how this is usually done, but I think hosting an academic conference and calling for papers would help accomplish this.
+
+(I've noticed a tendency in Luke's LW writings (specifically the Metaethics and AI Risk Strategy sequences) to want to engage in scholarship and systematically write down the basics in preparation for "getting to the good stuff" and then petering out before actually getting to the good stuff, and don't want to see this repeated by SIAI as a whole, on a larger scale.)

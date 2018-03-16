@@ -1,0 +1,12 @@
+I played around a bit with quining solutions, and came up with the following, which solves this toy problem fairly well:
+
+    def AI_Q2(n)(p):
+    - Look at the first n^^^n theorems of PA(n).
+    - if (one of them says "for each q, there exists an m such that p(q) != 'self-destruct' and p(q) = 'double down' implies AI_Q2(m)(q) = 'double down'"):
+     -- double down
+    - else:
+     -- take winnings
+
+AI\_Q2(3) should double down on AI\_Q2(4) as well as AI\_Q2(4^^^^4). (As well as variants that are provably equivalent to itself like speed/size-optimized versions of itself.) I sent this to Benja last night and he responded with (in part) "You've succeeded in making me uncertain whether quining approaches could actually be directly useful in solving the real problem (though it still doesn't seem likely)."
+
+I agree it doesn't seem likely the real problem can be solved with quining approaches, but I'm post this solution here in case anyone can extend the idea further. At the very least it should be interesting to understand *why* quining approaches don't work on the real problem. What relevant aspect of the real problem isn't being captured by this toy problem?

@@ -1,0 +1,3 @@
+&gt;Do you disagree with them?
+
+If we condition on having all other variables optimized, I'd expect a team to adopt very high standards of proof, and recognize limits to its own capabilities, biases, etc. One of the primary purposes of organizing a small FAI team is to create a team that can actually stop and abandon a line of research/design (Eliezer calls this "halt, melt, and catch fire")  that cannot be shown to be safe (given limited human ability, incentives and bias). If that works (and it's a separate target in team construction rather than a guarantee, but you specified optimized non-talent variables) then I would expect a big shift of probability from "UFAI" to "null."

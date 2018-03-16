@@ -1,0 +1,9 @@
+UDT may indeed be an aspect of bridging laws.  The reason I'm not willing to call it a full solution is as follows:
+
+1)  Actually, the current version of UDT that I write down as an equation involves maximizing over maps from sensory sequences to actions.  If there's a version of UDT that maximizes over something else, let me know.
+
+2)  We could say that it ought to be obvious to the math intuition module that choosing a map R := S-&gt;A ought to logically imply that R^ = S^-&gt;A for simple isomorphisms over sensory experience for isomorphic reductive hypotheses, thereby eliminating a possible degree of freedom in the bridging laws.  I agree in principle.  We don't actually have that math intuition module.  This is a problem with all logical decision theories, yes, but that *is* a problem.
+
+3)  Aspects of the problem like "What prior space of universes?" aren't solved by saying "UDT".  Nor, "How exactly *do* you identify processes computationally isomorphic to yourself inside that universe?"  Nor, "How do you manipulate a map which is smaller than the territory where you don't reason about objects by simulating out the actual atoms?"  Nor very much of, "How do I modify myself given that I'm made of parts?"
+
+There's an aspect of UDT that plausibly answers one particular aspect of "How do we do naturalized induction?", especially a particular aspect of how we write bridging laws, and that's exciting, but it doesn't answer what I think of as the entire problem, including the problem of the prior over universes, multilevel reasoning about physical laws and high-level objects, the self-referential aspects of the reasoning, updating in cases where there's no predetermined Cartesian boundary of what constitutes the senses, etc.

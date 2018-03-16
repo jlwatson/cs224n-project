@@ -1,0 +1,9 @@
+&gt;But I think [Hanson] also thinks that we do not actually have a choice between such evolution and a FOOMing singleton (i.e. FOOMing singleton is nearly impossible to achieve), whereas you think we might have a choice or at least you're not taking a position on that. Correct me if I'm wrong here.
+
+I tend toward FOOM skepticism, but I don't think it is "nearly impossible".  Define a FOOM as a scenario leading in at most 10 years from the first human-level AI to a singleton which has taken effective control over the world's economy.  I rate the probability of a FOOM at 40% assuming that almost all AI researchers *want* a FOOM and at 5% assuming that almost all AI researchers want to prevent a FOOM.  I'm under the impression that currently a majority of singularitarians want a FOOM, but I hope that that ratio will fall as the dangers of a FOOMing singleton become more widely known.
+
+&gt; I contend we still have to figure out what we want, so that we know how to apply that leverage. ... Do you disagree on this point?
+
+No, I agree.  Agree enthusiastically.  Though I might change the wording just a bit.  Instead of "we still have to *figure out* what we want", I might have written "we still have to *negotiate* what we want".
+
+My turn now.  Do you disagree with this shift of emphasis from the intellectual to the political?

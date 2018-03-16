@@ -1,0 +1,7 @@
+&gt; problem is twofold: somehow assign everyone a strategy so that the overall outcome is "good and fair", then somehow force everyone to play the assigned strategies.
+
+That's not how I see the PD at all; each agent is only interested in maximizing individually, but they have common knowledge of each other's source code and hence realize that their actions will be in some sense *correlated*; informally, Hofstadterian superrationality is a fine way of looking at it.  The problem is how this extends to asymmetrical problems in which the Nash equilibrium is not a Pareto optimum.
+
+There is no global "good and fair" pure external Archimedean viewpoint.  Just a flock of agents only trying to maximize their own utilities, who are all using the same *base* decision algorithm, and who all *know* it, and who understand the correlation this implies.
+
+Think bootstraps, not skyhooks.

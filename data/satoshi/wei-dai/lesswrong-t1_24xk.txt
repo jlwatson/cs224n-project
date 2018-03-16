@@ -1,0 +1,13 @@
+&gt; It's not accurate to describe strategies as mappings f: X-&gt;Y.
+
+I'm following this paragraph from Wei Dai's post on UDT1.1:
+
+&gt;\[U\]pon receiving input X, \[the agent\] would put that input aside and first iterate through all possible input/output mappings that it could implement and determine the logical consequence of choosing each one upon the executions of the world programs that it cares about. After determining the optimal S* that best satisfies its preferences, it then outputs S*(X).
+
+So, "input/output mappings" is Wei Dai's language.  Does he not mean mappings between the set of possible inputs and the set of possible outputs?
+
+&gt;  A strategy can be interactive: it takes input, produces an output, and then environment can prepare another input depending on this output, and so on.
+
+It seems to me that this could be captured by the right function f: X -&gt; Y.  The set **I** of input-output mappings could be a big collections of GLUTs.  Why wouldn't that suffice for Wei Dai's purposes?
+
+ETA:  And it feels weird typing out "Wei Dai" in full all the time.  But the name looks like it might be Asian to me, so I don't know which part is the surname and which is the given name.

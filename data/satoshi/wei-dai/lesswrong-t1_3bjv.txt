@@ -1,0 +1,5 @@
+&gt; The above seems fairly obvious, but the details of some of these heuristics are still puzzling. For example, why does payment or other form of obligation reduce motivation?
+
+Supply and demand.  If you have a skill that's has worth a lot in trade, evolution doesn't want you lowering the price by doing it for free.  Conversely, if something isn't worth a lot in trade, but gets you friends/allies (i.e. you get smiles and small praise), then you're motivated to do it more.
+
+It's only paradoxical until you imagine what would happen in a small community if the motivation scale was reversed.

@@ -1,0 +1,19 @@
+&gt; You seem to think that I'm claiming that UDT's notion of utility function is the only way real-world goals might be implemented in an AGI. I'm instead suggesting that it is one way to do so. It currently seems to be the most promising approach for FAI, but I certainly wouldn't say that only AIs using UDT can be said to have real-world goals.
+
+Then you having formalized your utility function has nothing to do with allegations of vagueness when it comes to defining the utility in the argument of how utility maximizers are dangerous. With regards to it being 'the most promising approach', I think it is a very, very silly idea to have an approach so general that we all may well end up sacrificed in the name of huge number of imaginary beings that might exist, an AI pascal-wagering itself on it's own. It looks like a dead end, especially for friendliness.
+
+&gt;At this point I'm wondering if Nick's complaint of vagueness was about this more general usage of "goals". It's unclear from reading his comment, but in case it is, I can try to offer a definition: an AI can be said to have real-world goals if it tries to (and generally succeeds at) modeling its environment and chooses actions based on their predicted effects on its environment.
+
+This does necessarily work like 'I want most paperclips to exist therefore I will talk my way into controlling the world, then kill everyone and make paperclips', though.
+
+&gt; Goals in this sense seems to be something that AGI researchers actively pursue, presumably because they think it will make their AGIs more useful or powerful or intelligent. If you read Goertzel's papers, he certainly talks about "goals", "perceptions", "actions", "movement commands", etc.
+
+They also don't try to make goals that couldn't be outsmarted into nihilism. We humans sort-of have a goal of reproduction, except we're too clever, and we use birth control.
+
+In your UDT, the actual intelligent component is this mathematical intuition that you'd use to process this theory in reasonable time. The rest is optional and highly difficult (if not altogether impossible) icing, even for the most trivial goal such as paperclips, which may well in principle never work.
+
+And the technologies employed in the intelligent component are, without any of those goals, and with much less intelligence (as in computing power and their optimality) requirement, sufficient for e.g. using them to design machinery for mind uploading.
+
+Furthermore, and that is the most ridiculous thing, there is this 'oracle AI' being talked about, where an answering system is modelled as based on real world goals and real world utilities, as if those were somehow primal and universally applicable.
+
+It seems to me that the goals and utilities are just an useful rhetorical device used to trigger anthropomorphization fallacy at will (in a selective way), as to solicit donations.

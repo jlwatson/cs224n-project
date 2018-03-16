@@ -1,0 +1,5 @@
+Thank you for introducing me to the "universal prior".
+
+The model I'd have used in explaining a sequence of such coin flips would indeed assume that the machine generates each coin independently as heads-biased with fixed probability H.  But rather than fixing H=1/2, I'd have a prior distribution for H (probably uniform).
+
+How superior would the universal prior be to this?  I confess I can't do the math.

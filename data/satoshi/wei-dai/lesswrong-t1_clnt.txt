@@ -1,0 +1,25 @@
+&gt;If you build an AGI and don't test whether it can learn to do philosophy, it may not be able to learn to do philosophy very well.
+
+AGI to me is synonymous with a universal learning machine, and in particular with a ULM that learns at human capability.  Philosophy is highly unlikely to require any specialized structures - because humans do philosophy with the same general cortical circuitry that's used for everything else. 
+
+&gt;In the rush to build AGIs in order to reap the economic benefits, people probably won't have time to test for this.
+
+This is a potential problem, but the solution comes naturally if you - do the unthinkable for LWers - and think of AGI as persons/citizens.  States invest heavily into educating new citizens beyond just economic productivity, as new people have rights and control privileges, so it's important to ensure a certain level of value alignment with the state/society at large.  
+
+In particular - and this is key - we *do not* allow religions or corporations to raise people with arbitrary values.
+
+&gt;I'm not very optimistic that any social structure we come up with could preserve our share of the universe as the AGIs improve themselves and become more powerful.
+
+Yeah - but we only need to manage the transition until human uploading.  Uploading has enormous economic value - it is the killer derived app for AGI tech, and brain inspired AGI in particular.  It seems far now mainly because AGI still seems far, but given AGI then change will happen quickly: first there will be a large wealth transfer to those who developed AGI and or predicted it, and consequently uploading will become up-prioritized.
+
+&gt;Surely there are lots of foundries (Intel's for example) that could be retooled to build GPUs if it became profitable to do so?
+
+Yeah - it could be pumped up to 10x current output fairly easily, and perhaps even 100x given a few years.
+
+&gt;The hope is that we use this time to develop the necessary social structures to prevent AGIs from taking over the universe (without giving us a significant share of it)?
+
+I expect that individual companies will develop their own training/educational protocols. Government will need some significant prodding to get involved quickly, otherwise they will move very slowly.  So the first corps or groups to develop AGI could have a great deal of influence.  
+
+One variable of interest - which I am uncertain of - is the timetable involved in forcing a key decision through the court system.   For example - say company X creates AGI.  Somebody then sues them on behalf of their AGIs for child neglect or rights violation or whatever - how long does it take the court decide if and what types of software could be considered citizens?  The difference between 1 year and say 10 could be quite significant.
+
+At the moment it looks like the most straightforward route to having high leverage over the future is to be involved in the creation of AGI.

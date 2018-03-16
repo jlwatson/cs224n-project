@@ -1,0 +1,1 @@
+Edit: In sum, since there will be at least 30ish questions unknown, then losing any points at all by guessing is unlikely enough that you'd need to be quite unusually well calibrated to justify not-guessing to raise e.g. probability of getting over 70% given that you *know* (99% confidence) you've already got exactly 71%.

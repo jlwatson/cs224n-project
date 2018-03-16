@@ -1,0 +1,33 @@
+Let's walk through a simplified example, and see if we can find the point of disagreement. The primary simplification here is that I'll assume consequentialism, where utilities are mappings from outcomes to reals and the mapping from policies (i.e. a probabilistic collection of outcomes) to reals is the probabilistically weighted sum of the outcome utilities. Even without consequentialism, this should work, but there will be many more fiddly bits.
+
+So, let's suppose that the two of us have a joint pool of money, which we're going to spend on a lottery ticket, which could win one of three fabulous prizes (that we would then jointly own):
+
+1. A Koala (K)
+2. A Lemur (L)
+3. A Macaw (M)
+4. Nothing (N)
+
+We can express the various tickets (which all cost the same, and together we can only afford one) as vectors, like a=(.1,.1,.1,.7), which has a 10% chance of delivering each animal, and a 70% chance of delivering Nothing, or b=(.2,.02,.02,.76), which has a 20% chance of delivering a Koala, 76% chance of Nothing, and 2% chance for each of the Lemur and Macaw. Suppose there are three tickets, and the third is c=(0,.3,.04,.66).
+
+By randomly spinning a wheel to determine which ticket we want to buy, we have access to a convex combination of any of the tickets. If half the wheel points to the a ticket, and the other half points to the b ticket, our final chance of getting any of the animals will be (.15,.6,.6,.73).
+
+Now, before we look at the tickets actually available to us, you and I eat sit down separately and imagine four 'ideal tickets'- (1,0,0,0), (0,1,0,0), (0,0,1,0), and (0,0,0,1). We can express our preferences for those as another vector: mine, V, would be, say, (3;2;1;0). (That means, for example, that I would be indifferent between a Lemur for sure and a half chance of a Koala or a Macaw, because 2=(1+3)/2.) This is a column vector, and we can multiply a\*V to get .6, b\*V to get .66, and c\*V to get .64, which says that I would prefer the b ticket to the c ticket to the a ticket. The magnitude of V doesn't matter, just the direction, and suppose we adjust it so that the least preferred outcome is always 0. I don't know what W, your preference vector, is; it could be any four-vector with non-negative values.
+
+Note that any real ticket can be seen as a convex combination of the ideal tickets. It's a lottery, and so they won't let us just walk up and buy a koala for the price of a ticket, but if they did that'd be my preferred outcome. Instead, I look at the real tickets for sale, right multiply them by my preference column vector, and pick one of the tickets with the highest value, which is the b ticket.
+
+But, the pool of money is partly yours, too; you have some preference ordering W. Suppose it's (2,4,0,1), and so a\*W=1.3, b\*W=1.24, and c\*W=1.86, meaning you prefer c to a to b.
+
+We can think of lots of different algorithms for determining which ticket (or convex combination of tickets) we end up buying. Suppose we want it to be consistent, i.e. there's some preference vector J that describes our joint decision. Any algorithm that doesn't depend on just your and my preference scores for the ticket being considered (suppose you wanted to scratch off our least favorite options until only one is left) will run into problems (how do you scratch off the infinite variety of convex combinations, and what happened to the probabilistic encoding of preferences?),  and any function that maps from (V,W) to J that isn't a linear combination of V and W with nonnegative weights on V and W will introduce new preferences that we disagree with (assuming the combination was normed, or you have an affine combination of V and W). Suppose we pick some v and w, such that J=vV+wW; if we pick v=1 and w=1 then J=(5,6,1,1)-&gt;(4,5,0,0), a and b have the same score, and c is the clear winner. Note that, regardless of v and w, c will always be preferred to a, and the primary question is whether c or b is preferred, and that a wide range of v and w would lead to c being picked.
+
+So far, we should be in agreement, since we haven't gotten to the issue that I think you're discussing, which sounds like: this is all fine and dandy for a, b, and c, but:
+
+1. What if we had some new set of tickets, d, e, and f? There's no guarantee that we would still agree on the same v and w.
+2. What if we had some new set of animals, Hippo, Ibis, and Jackal? There's no guarantee that we would still agree on the same v and w. 
+
+I think that the ideal tickets suggest that 1 isn't a serious concern. We may not have measured v and w very carefully with the tickets we had before, since even a rough estimate is sufficient to pin down our ticket choice (unless we were close to the edge), and we might be near the edge now, but supposing that we measured v and w exactly, we should be able to apply J as before.
+
+I think that 2 is a slightly more serious concern, but I think it can be addressed.
+
+First, we could have some constructive method of picking the weights. You and I, when deciding to pool our money to buy a lottery ticket, might have decided to normalize our preference functions some way and then combine them with weights relative to our financial contribution, or we might decide that your taste in animals is totally better than mine, and so v would be 0 and w 1, or we might decide that I'm better at arm wrestling, and V/w should be 5 after normalization. The outcomes don't play in to the weighting, and so we can be confident in the weights.
+
+Second, we could find the weights with both lotteries in mind. The first lottery will give us an acceptable range for v/w, the second lottery will give us an acceptable range for v/w, and the two should overlap, and so we can pick one from the smaller range that satisfies both. (Is the issue that you're not sure they will overlap?)

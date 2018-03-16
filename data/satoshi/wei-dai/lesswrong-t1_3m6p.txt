@@ -1,0 +1,1 @@
+Bitcoins are awfully deflationary. This makes them a good investment, but isn't healthy for a long-term bitcoin economy. Is there any way to program an electronic currency system that will make the creation of currency dependent on recent changes in value to maintain a stable value of currency? Like the Fed, except automated?

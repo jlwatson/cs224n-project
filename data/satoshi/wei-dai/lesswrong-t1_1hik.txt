@@ -1,0 +1,1 @@
+Unless you can directly extract a sincere and accurate utility function from the participants' brains, this is vulnerable to exaggeration in the AI programming.  Say my optimal amount of X is 6.  I could program my AI to want 12 of X, but be willing to back off to 6 in exchange for concessions regarding Y from other AIs that don't want much X.

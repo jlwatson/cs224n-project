@@ -1,0 +1,3 @@
+&gt;Is there anything we should do?
+
+When reporters interviewed me about Bitcoin, I tried to point to LW as a potential source of stories and described in a positive way. Several of them showed interest, but no stories came out. I wonder why it's so hard to get positive coverage for LW and so easy to get negative coverage, when in contrast Wired magazine gave Cypherpunks a highly positive cover story in 1993, when Cypherpunks just got started and hadn't done much yet except publish a few manifestos.

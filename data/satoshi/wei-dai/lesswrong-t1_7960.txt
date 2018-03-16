@@ -1,0 +1,3 @@
+Do you gain anything by parameterizing on PA(n)? It seems like you could get a sound algorithm by replacing PA(n) in your definition by T, for any trustworthy system of axioms T. My first instinct was to pick T=ZFC, while you pick a dynamically changing subset of  PA(omega), i.e. PA + a countably infinite sequence of consistency assertions. 
+
+Certainly PA(omega) is trustworthy, but there is nothing particularly canonical about it (you could equally well pick PA(omega)+CON(PA(omega))), and I don't think there is any loss of generality in picking the axioms up-front.

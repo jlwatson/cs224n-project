@@ -1,0 +1,15 @@
+&gt;We should look at this problem and think, ”I want to output A or B, but in such a way that has the side effect that the other copy of me outputs B or A respectively.” S could search through functions considering their output on input 1 and the side effects of that function. S might decide to run the UDT 1.1 algorithm, which would have the desired result.
+
+This seems very similar to what I named "UDT2" on the decision theory mailing list. Here's how I described it:
+
+&gt;How to formulate UDT2 more precisely is not entirely clear yet. Assuming the 
+existence of a math intuition module which runs continuously to refine its 
+logical uncertainties, one idea is to periodically interrupt it, and during 
+the interrupt, ask it about the logical consequences of statements of the 
+form "S, upon input X, becomes T at time t" for all programs T and t being 
+the time at the end of the current interrupt. At the end of the interrupt, 
+return T(X) for the T that has the highest expected utility according to the 
+math intuition module's "beliefs". (One of these Ts should be equivalent to 
+"let the math intuition module run for another period and ask again later".)
+
+So aside from the unfortunately terminology, I think you're probably going in the right direction.

@@ -1,0 +1,2 @@
+In the 2x2 reduced game, Player One's strategy is 1/3 B, 2/3 C; Two's strategy is 2/3 X, 1/3 Y.
+In the complete game with trembling hands, Player Two's strategy remains unchanged, as you wrote in the starter of the linked thread, invoking proper equilibrium.

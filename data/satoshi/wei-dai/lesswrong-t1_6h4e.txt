@@ -1,0 +1,13 @@
+An experiment I tried once, when I was helping mediate a 60-person round-robin discussion group (1), was to give everyone in the room four colored index cards: red, blue, green, and white, and assign them meanings by convention:  
+red = "I disagree with what the speaker is saying"   
+green = "I agree with what the speaker is saying"  
+blue = "I have a question about what the speaker is saying"  
+white = "I do not care about what the speaker is saying"  
+
+My theory was that by establishing a communication channel that supported multiple simultaneous inputs, I could get the flow control to be a lot more efficient.
+
+The experiment mostly failed, in that people didn't use the cards, so I can't really speak to results. It still seems plausible to me, and I haven't seen it done elsewhere.
+
+===
+
+1 - Don't try this at home.

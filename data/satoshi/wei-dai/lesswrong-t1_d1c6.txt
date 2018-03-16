@@ -1,0 +1,3 @@
+I think my point wasn't about what computer security precisely does, but about the _mindset_ of people who do it (security people cultivate an adversarial point of view about systems).
+
+My secondary point is that computer security is a very solid field, and doesn't look wishy washy or science fictiony.  It has serious conferences, it has research centers, industry labs, intellectual firepower, etc.

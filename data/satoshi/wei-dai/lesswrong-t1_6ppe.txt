@@ -1,0 +1,32 @@
+I spent quite a few hours going through Peterson's 2008 book (online copy available [here](https://www.msb.se/Upload/Om%20MSB/Forskning/Projektrapporter/Peterson_artiklar/Non-Bayesian%20Decision%20Theory.pdf)) to see if there were any interesting ideas, and found the time largely wasted. (This was my initial intuition, but I thought I'd take a closer look since Luke emailed me directly to ask me to comment.) It would take even more time to write up a good critique, so I'll just point out the most glaring problem: Peterson's proposal for how to derive a utility function from one's subjective uncertainty about one's own choices, as illustrated in this example:
+
+&gt;This means that if the probability that you choose salmon is 2/3, and the probability
+that you choose tuna is 1/3, then your utility of salmon is twice as high as that
+of tuna.
+
+What if we apply this idea to the choice between $20 and $30?
+
+&gt;Let us now return to the problem of perfect discrimination mentioned above.
+As explained by Luce, the problem is that ‘the [utility] scale is defined only over
+a set having no pairwise perfect discriminations, which is probably only a small
+portion of any dimension we might wish to scale That is, the problem lies in the
+assumption that p(x  &gt; y) != 0,1 for all x,y in B. After all, this condition is rather
+unlikely to be satisfied, because most agents know for sure that they prefer $40 to
+$20, and $30 to $20, etc.
+
+Peterson tries to solve this problem in section 5.3, but his solution makes no sense. From page 90:
+
+&gt;Suppose, for example,
+that I wish to determine my utility of $20, $30, and $40, respectively. In this case,
+the non-perfect object can be a photo of my beloved cat Carla, who died when I was
+fourteen. If offered a choice between $20 and the photo, the probability is 1/4 that I
+would choose the money; if offered a choice between $30 and the photo, the probability
+is 2/4 that I would choose the money; and if offered a choice between $40 and
+the photo, the probability is 3/4 that I would choose the money. This information is
+sufficient for constructing a single ratio scale for all four objects. Here is how to do
+it: The point of departure is the three local scales, which have one common element,
+the photo of Carla. The utility of the photo is the same in all three pairwise choices.
+Let u(photo) = 1. Then the utility of money is calculated by calibrating the three
+local scales such that u(photo) = 1 in all of them.
+
+So we end up with u($20)=1/3, u($30)=u(photo)=1, u($40)=3. But this utility function now implies that given a choice between $20 and $30, you'd choose $20 with probability 1/4, and $30 with probability 3/4, contradicting the initial assumption that you'd choose $30 with certainty. I have no idea how Peterson failed to notice this.

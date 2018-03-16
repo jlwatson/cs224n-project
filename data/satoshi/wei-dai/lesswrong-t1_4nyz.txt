@@ -1,0 +1,1 @@
+Approximately normal distributions arise from the assumption of the involvement of many independent random variables with the largest ones being of roughly comparable size. It's intuitively plausible that a Solomonoff type prior would (at least approximately) yield such an assumption.

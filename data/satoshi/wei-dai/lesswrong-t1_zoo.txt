@@ -1,0 +1,3 @@
+In the radio example, there is no way for me to *convince* you that the receive capability is truly broken. Given that, there is no reason for me to actually break the receive ability, and you should distrust any claim on my part that the receive ability has been broken.
+
+But Schelling must have been able to follow this reasoning, so what point was he trying to illustrate with the radio example?

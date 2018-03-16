@@ -1,0 +1,11 @@
+&gt; Hi Nate, can you briefly describe this second approach?
+
+Yep! This is a question we've gotten a few times already, and the answer will likely appear in a blog post later in the fundraiser. In the interim, the short version is that there are a few different promising candidates for a second approach, and we haven't settled yet on exactly which would be next in line. (This is one of the reasons why our plans extend beyond $6M.) I can say that the new candidates would still be aimed towards ensuring that the creation of human-programmed AGI goes well -- the other pathways (whole-brain emulation, etc.) are very important, but they aren't within our purview. It's not clear yet whether we'd focus on new direct approaches to the technical problems (such as, e.g., Paul Christiano's "can we reduce this problem to reliable predictions about human behavior" approach) or whether we'd focus on projects that would be particularly exciting to modern AI professionals or modern security professionals, in attempts to build stronger bridges to academia.
+
+ In fact, I'd actually be quite curious about which approaches you think are the most promising before deciding.
+
+&gt; On another note, do you know anything about Elon Musk possibly having changed his mind about the threat of AI and how that might affect future funding of work in this area?
+
+I wasn't at the ICML workshop, so I can't say much about how that summary was meant to be interpreted. That said, I wouldn't read too much into it: "Hassabis has convinced Musk" doesn't tell us much about what Demis claimed. Best I can guess from the context is that he said he convinced Elon that overhyping concern about AI could be harmful, but it's hard to be sure.
+
+I can say, however, that I'm in contact with both Elon and Demis, and that I'm not currently worried about Elon disappearing into the mist :-)

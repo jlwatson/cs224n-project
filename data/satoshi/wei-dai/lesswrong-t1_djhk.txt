@@ -1,0 +1,19 @@
+Interesting proposal. Can you say something about who would be able to see the individual ratings of comments and users? What do you see are the pros and cons of this proposal vs [other recent ones](http://lesswrong.com/r/discussion/lw/o8w/combining_prediction_technologies_to_help/).
+
+&gt;the site will never rate a response higher than its parent, or a top-level comment higher than the post it replies to
+
+What's the reason for this? It seems to lead to some unfortunate incentives for commenting. Suppose someone posts a new and exciting idea and you find a subtle but fatal flaw with it. If you comment right away then people will realize the flaw and not rate the post as high as they otherwise would, which would limit the rating of your comment, so the system encourages you to wait until the post is rated higher before commenting. 
+
+More generally this feature seems to discourage people from commenting early, before they're sure that the post/comment they're responding to will be rated highly.
+
+&gt;Content ratings above 2 never go down, except to 0; they only go up. Thus, the content in these circles can grow but not shrink, to create a stable commons.
+
+This seems to create an opening for attack. If an attacker gets a high enough rating to unilaterally push content from 2 to 3 stars, they can sprinkle a lot of spam throughout the site, rate them to 3 stars, and all of that spam would have to be individually marked as such even if the attacker's rating is subsequently reduced.
+
+&gt;Trust flows from these users using some attack resistant trust metric.
+
+Can you point to an intro to attack resistant trust metrics. I think a lot of people are not familiar with them.
+
+&gt;Downvoting sprees from untrusted users will thus be annoying but ineffective.
+
+Why would it be annoying? I'm not sure I understand what would happen with such a downvoting spree.

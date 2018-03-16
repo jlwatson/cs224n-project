@@ -1,0 +1,1 @@
+Would you consider making display of author names and points a toggle and hidden by default, à la Anti-Kibitzer?

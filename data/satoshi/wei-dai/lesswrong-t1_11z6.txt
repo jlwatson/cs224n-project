@@ -1,0 +1,5 @@
+&gt; The reason to self-modify is to make yourself indistinguishable from players who started as CDT agents, so that Omega's AIs can't condition their moves on the player's type.
+
+Being (or performing an action) indistinguishable from X doesn't protect you from the inference that X probably resulted from such a plot. That you can decide to camouflage like this may even reduce X's own credibility (and so a lot of platonic/possible agents doing that will make the configuration unattractive). Thus, the agents need to decide among themselves what to look like: first-mover configurations is a limited resource. 
+
+(This seems like a step towards solving bargaining.)

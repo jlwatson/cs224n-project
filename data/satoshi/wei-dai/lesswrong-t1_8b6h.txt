@@ -1,0 +1,5 @@
+Funny, it's broken for me too. I know it was just working on 10 January because I did a full archive of all my comments/posts.
+
+You know what, I bet that it was the update to the user profiles where http://lesswrong.com/user/gwern got moved to http://lesswrong.com/user/gwern/overview/
+
+So probably an easy fix.

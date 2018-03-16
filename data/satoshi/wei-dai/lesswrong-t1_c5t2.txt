@@ -1,0 +1,15 @@
+&gt; Can you go into some detail on how your decision theories solve it?
+
+Your problem can be written as
+
+![](http://www.codecogs.com/png.latex?U\(\)%20=%20\\frac\{1\}\{3\}\(PD\_\\alpha\(A,%20B\_1\(A\)\)\+PD\_\\alpha\(A,B\_2\(A\)\)\))
+
+where ![](http://www.codecogs.com/png.latex?B\_1) and ![](http://www.codecogs.com/png.latex?B\_2) are Omega's players, ![](http://www.codecogs.com/png.latex?A=P\(\)) is your player and ![](http://www.codecogs.com/png.latex?PD\_\\alpha) is the payoff of the first player in the Prisoner Dilemma with the (1,5,6) payoff matrix.
+
+Omega's players end up playing C regardless of ![](http://www.codecogs.com/png.latex?A). The agent can either understand this or at least fail to find a strong dependence of the logical probabilities of Omega's players' strategy on either their input (the agent's source) or the conditions in the expectation values it is evaluating (since the conditions are of the form ![](http://www.codecogs.com/png.latex?P\(\)=X) which seems to be correlated with ![](http://www.codecogs.com/png.latex?B\_i\(P\(\)\)) only in the obvious way i.e. by determining the input to ![](http://www.codecogs.com/png.latex?B\_i)).
+
+Therefore, the highest expectation values will be computed for conditions of the form ![](http://www.codecogs.com/png.latex?P\(\)=DefectBot). Therefore the agent will defect.
+
+&gt; I guess it wasn't mentioned explicitly in that discussion, but it's how I've come to think of the problem. Perhaps the most relevant part of that discussion is Eliezer's direct reply, here.
+
+I see. However, your problem doesn't seem to be a realistic model of acausal bargaining with agents in other universes, since in such bargaining you know who you're cooperating with. For example, when an agent considers filling its universe with human utility, it does it in order to cooperate with a human FAI, not in order to cooperate with a paperclip maximizer (which would require a very different strategy namely filling its universe with paperclips).

@@ -1,0 +1,11 @@
+Individual verified-source reincarnation and joint verified-source reincarnation on a single computing substrate are equivalent in every way. 
+
+ Call A+ the reincarnation of A, and B+ the reincarnation of B.   
+
+ There must be some way of observing that the irrevocable transfer of authority has actually occurred.  This means you need some way of trusting promises by all entities that owe some allegiance to A or B.  So far the only method proposed to establish trust in one's decision rule is to submit to verified reincarnation.  This may not be to the liking of non-machine intelligence, and at best costly to those involved, if not infeasible due to speed-of-light physical separation. 
+
+ Further, A+ shouldn't depart, in any way it wasn't willing to do unilaterally for its own sake, from the values and decision rules of A, *unless* there's a secure atomic transfer of authority from A-&gt;A+ and B-&gt;B+.  I don't see how such a thing is possible, so A+ really can't commit to any cooperation *until* it verifies that B-&gt;B+ has occurred. 
+
+ So, A+ and B+ would differ from A and B only in that their own end of the contract they propose to enter would become active iff the other actually reincarnates (A+ can do this once B-&gt;B+, because she knows that B+ will do the same).  But it is necessary for one of A+ or B+ to reincarnate first. 
+
+ "On the count of 3, hang up!"

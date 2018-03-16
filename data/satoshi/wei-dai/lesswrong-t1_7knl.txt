@@ -1,0 +1,5 @@
+Care to translate that "should" into a well-specified forecast with attached probability? :)
+
+We are assuming that the change will affect comments at -4 or lower, but it might not change the number of large discussions under comments at -3. There might be discussions that transition between censored and uncensored. The censorship might actually prevent comments at -4 from being downvoted even worse, and thus could perversely make transitions back to -3 more likely.
+
+It would be interesting to run some stats on how frequent the event of interest is (assuming we can specify it coherently), before and after the change. Based on my memory of the LW codebase, votes are stored transactionally, so it should be possible to compute before/after statistics at any time.

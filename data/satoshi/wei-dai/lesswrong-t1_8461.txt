@@ -1,0 +1,38 @@
+M2: Apparently it's not possible to recover the original spin, so I guess you just end up with a random spin.
+
+[Stern-Gerlach Interferometer with Realistic Magnetic Field](http://www.nus.edu.sg/nurop/2010/Proceedings/FoS/Physics/Yang%20Tzyh%20Haur_U061744Y.pdf):
+
+&gt;Abstract: In this report, we investigate the spin dynamics of a neutron beam in a Stern-Gerlach
+experiment. In contrast to the simple constant gradient magnetic 
+field assumed in most
+literatures which violates Maxwell Equations, we work with a model of magnetic fi
+eld
+which satis
+es Maxwell Equations. The spin dynamics is investigated by solving the
+Schrodinger equation using Fast Fourier Transform method. The spin coherence of the
+neutron beam is found to exhibit the humpty-dumpty behaviour[1, 2, 3] even though
+there is no 
+fluctuation to the magnetic 
+field nor any environmental noise. The main
+cause of the spin decoherence is identi
+fied as the inhomogeneity of the magnetic 
+field in
+the x and y components. In addition, the nonlinear terms in the z component of the
+magnetic fi
+eld, zn, n &gt; 1 also contribute to the loss of the spin coherence. Although only
+magnetic 
+field model considered is very speci
+fic, the cause of the loss of spin coherence
+identi
+fied using this model is a common features of any realistic magnetic to be used in a
+SGA experiment. Therefore the humpty-dumpty nature of the spin coherence exist even
+without any 
+fluctuation to the magnetic 
+field and is inherent to the SGA experiment itself.
+
+And see also this earlier paper, [Is spin coherence like Humpty-Dumpty? I. Simplified treatment](http://link.springer.com/article/10.1007%2FBF01909939) (free full text), which gives a more understandable qualitative argument:
+
+&gt;Why should it be so difficult to maintain spin coherence? The essential
+features of the following qualitative argument are due to Heisenberg.
+
+I won't try to quote the actual argument, which is on page 3 of the PDF, but it seems that the main problem *isn't* entanglement between the particle and the apparatus.

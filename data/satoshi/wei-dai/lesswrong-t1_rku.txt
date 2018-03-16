@@ -1,0 +1,4 @@
+* Programming, mechanical work = single-player games
+* Management, politics = multi-player games
+
+I think the appeal of single-player games is clear. Besides the latency issue in multi-player games (i.e. having a delayed feedback on your actions), they are just harder than single-player games, as in [NP-Hard](http://arxiv.org/abs/cs.GT/0205074). Human beings probably do have dedicated neural circuitry to deal with social situations, which makes them a little easier, but those weren't adapted for deep hierarchies like the ones in modern corporations.

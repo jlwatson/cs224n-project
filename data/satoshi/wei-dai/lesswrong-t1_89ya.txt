@@ -1,0 +1,5 @@
+I think I found a clearer way to state an argument that I and a few others have been trying to make. Sorry for the repetition if you already understood! The claim is that Pareto-optimal is *not equivalent* to utility weighting, in the following important sense:
+
+Consider a decision procedure as a function from a set of feasible outcomes (lotteries over world-histories) to a particular outcome. Let's say we have a decision procedure that is guaranteed to always output Pareto optimal outcomes, against some set of utility functions. Is this decision procedure necessarily equivalent to maximizing EU using a linear aggregation of those utility functions? No, because for different feasible sets, you may need different weights on the individual utility functions to reach the decisions that the original decision procedure would make, in which case we cannot specify an equivalent *function* using EU maximization.
+
+(Feedback requested as to whether this made the argument clearer to anyone.)

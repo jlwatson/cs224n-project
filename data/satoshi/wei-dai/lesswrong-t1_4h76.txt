@@ -1,0 +1,13 @@
+If the deontologist and the consequentialist have previously stipulated *different* definitions for 'should' as used in sentences D and C, then they aren't necessarily disagreeing with each other by having one state D and the other state C.
+
+But perhaps we aren't considering propositions D and C using meaning_stipulated. Perhaps we decide to consider propositions D and C using meaning-cognitive-algorithm. And perhaps a completed cognitive neuroscience would show us that they both mean the same thing by 'should' in the meaning-cognitive-algorithm sense. And in that case they *would* be having a substantive disagreement, when using meaning-cognitive-algorithm to determine the truth conditions of D and C.
+
+Thus:
+
+meaning-stipulated of D is X, meaning-stipulated of C is Y, but X and Y need not be mutually exclusive.
+
+meaning-cognitive-algorithm of D is A, meaning-cognitive-algorithm of C is B, and in my story above A and B *are* mutually exclusive.
+
+Since people have different ideas about what 'meaning' is, I'm skipping past that worry by tabooing 'meaning.'
+
+[Damn I wish LW would let me use underscores or subscripts instead of hyphens!]

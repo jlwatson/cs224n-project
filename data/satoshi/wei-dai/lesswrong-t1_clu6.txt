@@ -1,0 +1,9 @@
+&gt;What about just replacing the copper wire inside a conventional CMOS chip with a superductor?
+
+That is the type of tech I was referring to by superconducting circuits as precursor to full reversible.  From what I understand, if you chill everything down then you also change resistance in the semiconductor along with all the other properties, so it probably isn't as easy as just replacing the copper wires.
+
+A room temperature superconductor circuit breakthrough is one of the main wild cards over the next decade or so.  Cryogenic cooling is pretty impractical for mainstream computing.
+
+&gt;So it looks like there's no fundamental reason why it couldn't be done, just a matter of finding the right substrate material and solving other engineering problems.
+
+Yeah, its just a question of timetables.  If it's decades away, we have a longer period of stalled moore's law during which AGI will slowly surpass the brain, rather than rapidly.

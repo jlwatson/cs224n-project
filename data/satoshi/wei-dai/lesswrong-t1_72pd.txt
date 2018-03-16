@@ -1,0 +1,5 @@
+&gt;That seems pretty harsh! 
+
+There's 0.0001 prior for 1 in 10000 intelligence level. It's a low prior, you need a genius detector with an incredibly low false positive rate before most of your 'geniuses' are actually smart. A very well defined problems with very clear 'solved' condition (such as multiple novel mathematical proofs or novel algorithmic solution to hard problem that others try to solve) would maybe suffice, but 'he seems smart' certainly would not. This also goes for IQ tests themselves - while a genius would have high IQ score, high IQ scored person would most likely be someone somewhat smart slipping through the crack between what IQ test measures and what intelligence is (case example, Chris Langan, or Keith Raniere, or other high IQ 'geniuses' we would never suspect of being particularly smart if not for IQ tests). 
+
+Weak and/or subjective evidence of intelligence, especially given lack of statistical independence of evidence, should not get your estimate of intelligence of anyone very high.

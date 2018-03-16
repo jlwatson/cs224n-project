@@ -1,0 +1,7 @@
+&gt; First consider a 10000-dimensional unit ball. If we shift this ball by two units in one of the dimensions, it would no longer intersect at all with the original volume. But if we were to shift it by 1/1000 units in each of the 10000 dimensions, the shifted ball would still mostly overlap with the original ball even though we've shifted it by a total of 10 units (because the distance between the centers of the balls is only sqrt(10000)/1000 = 0.1).
+
+Actually no, it doesn't mostly overlap. If we consider a hypercube of radius 1 (displaced along the diagonal) instead of a ball, for simplicity, then the overlap fraction is 0.9995^10000 = 0.00673. If we hold the manhattan distance (10) constant and let number of dimensions go to infinity, then overlap converges to 0.00674 while euclidean distance goes to 0. If we hold the euclidean distance (0.1) constant instead, then overlap converges to 0 (exponentially fast).
+
+For the ball, I calculate an overlap fraction of 5.6×10^-7, and the same asymptotic behaviors.
+
+(No comment on the physics part of your argument.)

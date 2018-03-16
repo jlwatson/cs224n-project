@@ -1,0 +1,9 @@
+I share your skepticism about Luke's statement (but I've been waiting to criticize until he finishes his sequence to see if he addresses the problems later).
+
+&gt;My goal here is to get people to feel the intuition that "I ought to do X" means something, and that thing is not "I think I ought to do X" or "I would think that I ought to do X if I were smarter and some other stuff".
+
+To help pump that intuition, consider this analogy:
+
+"X is true" (where X is a mathematical statement) means something, and that thing is not "I think X is true" or "I would think that X is true if I were smarter and some other stuff".
+
+On the other hand, I think it's also possible that "I ought to do X" doesn't really mean anything. See my [What does a calculator mean by "2"?](http://lesswrong.com/r/discussion/lw/451/what_does_a_calculator_mean_by_2/). (ETA: To clarify, I mean some usages of "ought" may not really mean anything. There are some usages that clearly do, for example "If you want to accomplish X, then you ought to do Y" can in principle be straightforwardly reduced to a mathematical statement about decision theory, assuming that our current strong intuition that there is such a thing as "the right decision theory" is correct.)

@@ -1,0 +1,5 @@
+&gt; For example I could use a variant of CEV (call it Coherent Extrapolated Pi Estimation) to answer "What is the trillionth digit of pi?" but that doesn't imply that by "the trillionth digit of pi" I actually mean "the output of CEPE"
+
+&gt; (I notice an interesting subtlety here. Even though what I infer from "you should order X" is (1) "according to Bob's computation, the arg max of ... is X", what Bob means by "you should order X" must be (2) "the arg max of ... is X", because if he means (1), then "you should order X" would be true even if Bob made an error in his computation.)
+
+Do you accept the conclusion I draw from my version of this argument?

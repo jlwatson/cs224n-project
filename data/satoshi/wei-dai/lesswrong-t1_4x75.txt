@@ -1,0 +1,3 @@
+I'm inclined towards the view that we shouldn't even try to capture all human [complexity of value](http://wiki.lesswrong.com/wiki/Complexity_of_value). Instead, we should just build a simple utility function that captures some value that we consider important, and sacrifices everything else. If humans end up unhappy with this, the AI is allowed to modify us so that we become happy with it.
+
+Yes, being turned to [orgasmium](http://wiki.lesswrong.com/wiki/Orgasmium) is in a sense much worse than having an AI satisfying all the [fun theory](http://lesswrong.com/lw/xy/the_fun_theory_sequence/) criteria. But surely it's still much better than just getting wiped out, and it should be considerably easier to program than something like CEV.

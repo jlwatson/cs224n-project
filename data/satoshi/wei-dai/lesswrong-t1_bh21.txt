@@ -1,0 +1,3 @@
+As far as AI is concerned, you don't need to go anywhere near as specialised as FAI to find something where logical uncertainty is directly applicable. 
+
+Every search problem in AI is an instance of logical uncertainty, and every search algorithm is a different way of attempting to deal with that uncertainty.

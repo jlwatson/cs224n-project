@@ -1,0 +1,1 @@
+Give me a set of formal languages over which you can say the phrase "for any formal language", and the truth predicate for the union of the set won't be in any language in the set.  I'm still trying to understand how to deal with this inside AI, but I'm not sure that blaming it on second-order logical induction is putting the blame in the right place.

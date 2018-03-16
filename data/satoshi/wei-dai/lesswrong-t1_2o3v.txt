@@ -1,0 +1,35 @@
+I'm pretty sure that "but the US/China/North Korea do it" isn't what you meant to say, so I'll ignore that part and focus on the other bit.
+
+What we have here is the simple series of questions:
+
+1. Did EY's actions decrease existential risk, or provide other benefit to myself and others?
+
+2. Did EY's actions cause existential risk, or cause harm to myself and others?
+
+3. Do we want to prevent EY from doing that again in the future?
+
+4. Is it possible to stop EY from doing that again in the future?
+
+**In answer to #1** I disagree with EY's thinking that an AI is likely to care about which questions people asked vs. didn't ask, and what they did about those conclusions. Even if I take his guess at face value it's 0.0001% more existential risk in the world.
+
+**In answer to #2** I think it's pretty clear that there were:
+
+* a lot of hurt feelings
+* some bad press / bad publicity
+* more exposure of the thing that EY thinks would increase existential risk (there's a link to it on LW's rationalitywiki page for no other reason than the deletion).
+* a bad precedent for free speech on LW
+* another reason for people to avoid LW, and think of LW as cultish / crazies
+* the loss of a top LW contributer
+
+My thinking is that the above is on the whole worse than #1's benefits, even from a purely existential risk perspective.
+
+**In answer to #3** For me the answer is yes w/ regard to EY being a dick about LW moderation
+
+**In answer to #4** I have no clue really. He's citing motivation about existential risk, even in amounts that are essentially rounding error and can be trivially caused with a well placed blog comment or phone call, so the logical method seems to be to turn his own motivations back on himself.
+
+Since I assume he doesn't want to have existential risk increase, a credible threat is all that's necessary.
+
+I personally don't think we should sweat a 0.0001% increases in existential risk if there are tangible benefits from it, and since it's not hard to find worthwhile ways to increase existential risk, this seems like the best method. It's win/win for everyone: less temptation to abuse moderation privileges means a happier community down the road.
+
+
+Okay, well that's my reasoning. Hope that made sense &amp; thanks for the response.

@@ -1,0 +1,3 @@
+&gt; It seems to me that vagueness is different from having competing definitions (e.g., AIXI's notion of utility function vs UDT's) that may turn out to be wrong.
+
+AIXI's utility function is useless, the fact that it can be called "utility function" notwithstanding. UDT's utility function is not defined formally (its meaning depends on "math intuition"). For any real-world application of a utility function, we don't have a formal notion of its domain. These definitions are somewhat vague, even if not hopelessly so. They *are* hopelessly vague for the purpose of building a FAI.

@@ -1,0 +1,25 @@
+&gt; suggestions in that regard
+
+I wrote a few here, then stored them away: I want to hold off on proposing solutions. Let's discuss the problem instead.
+
+What started the whole thing was a question asked by komponisto, presumably intended to get at some interesting aspect of the object-level discussion, but which rapidly went meta (not "meta" in the sense of discussing LW, but "meta" in the sense of discussing the discussion).
+
+Going meta isn't the problem, per se. Losing track of the object-level inquiry altogether, while the meta discussion explodes into a 167-comment beast from a **one-word comment**? Yes, I think that qualifies.
+
+The original comment which led to the explosion is upvoted at +8. (That's one way the "technical" fix of censoring descendants of highly downvoted comments might be missing its target, not so much low-quality comments as polarizing, i.e. trollish, comments.)
+
+The thread rapidly hits the limit of reply nesting (10 levels), so that only a portion of it can be seen simultaneously with the original exchange (komponisto's question and nsheppard's one-word reply). Your replies, for instance, appear only on page 2. It's a safe assumptions that readers who are coming across your replies have lost the original context, unless they were involved in the controversy from the start.
+
+On this first page, several of wedrifid's comments - and only wedrifid's - are highly downvoted. This further reinforces the hypothesis that the thread is polarizing and information cascades are taking place.
+
+Reading your first intervention requires loading page 2 of the thread, and reading through to the bitter end requires one more page. This is way beyond what adds value to most LW readers except the most dedicated, and reminds me of the admonitions against [thread mode](http://meatballwiki.org/wiki/ThreadModehttp://meatballwiki.org/wiki/ThreadMode).
+
+Starting from your first intervention, the pattern becomes mostly a "ping-pong" one of you and wedrifid going back and forth. Only one other commenter is active on page 2 of the thread (TheOtherDave). A few others pipe up on page 3, but I suspect that by that point these are people being dragged into the conversation (from Recent Comments) *because* it has started to resemble a flamefest.
+
+Between page 2 and 3, the discussion has drifted from "meta" in the sense of discussion-on-discussion, to "meta" in the sense of discussion-about-who-downvotes-what, i.e. into [slime-dripping cancer](http://lesswrong.com/lw/eb9/meta_karma_for_last_30_days/7ax7) territory.
+
+Yes, Eliezer's "cancer" pronouncement is downvoted and ironically buried in a thread that has several ancestor comments which are Eliezer's *and* highly downvoted. It nevertheless captures a key truth: extended discussions of the game-theoretical aspects of the filtering features of LW *do not have much potential to generate useful inferences from true beliefs*. (Or stated more succinctly: most meta-discussion is neither epistemically nor instrumentally rational.)
+
+I *do* think there is value in "meta" in the sense of discussion-about-discussion, however, and in particular in discussion of community norms, and I agree with your assessment of your own contributions.
+
+That's about as much as I can say without starting to make recommendations.

@@ -1,0 +1,5 @@
+Right, and...
+
+&gt;A trivial but noteworthy fact is that every finite sequence of Σ values, such as Σ(0), Σ(1), Σ(2), ..., Σ(n) for any given n, is computable, even though the infinite sequence Σ is not computable (see computable function examples.
+
+So why can't the universal prior use it?

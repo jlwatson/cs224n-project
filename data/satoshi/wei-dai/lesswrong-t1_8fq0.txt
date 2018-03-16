@@ -1,0 +1,9 @@
+&gt; Why are we causing them to think of LW in terms of *identity* in the first place, instead of, say, a place to learn about and discuss some interesting ideas?
+
+Some possibilities:
+
+1. There have been deliberate efforts at community-building, as evidenced by all the meetup-threads and [one whole sequence](http://wiki.lesswrong.com/wiki/Sequences#The_Craft_and_the_Community), which may suggest that one is *supposed* to identify with the locals. Even relatively innocuous things like introduction and census threads can contribute to this if one chooses to take a less than charitable view of them, since they focus on LW itself instead of any "interesting idea" external to LW.
+
+2. Labeling and occasionally hostile rhetoric: Google gives dozens of hits for terms like "lesswrongian" and "LWian", and there have been recurring dismissive attitudes regarding The Others and their intelligence and general ability. This includes all snide digs at "Frequentists", casual remarks to the effect of how people who don't follow certain precepts are "insane", etc.
+
+3. The demographic homogeneity probably doesn't help.

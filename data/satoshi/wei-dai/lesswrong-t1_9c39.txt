@@ -1,0 +1,3 @@
+&gt; Quantum Immortality/Suicide
+
+This doesn't seem to fit. There isn't anything about Quantum Immortality that requires UDT (except in as much as any decision requires at least some kind of decision theory). The difficulty (and common  confusion) is around translating primitive preference-intuitions into preference-beliefs about wavefunctions or branches. Once the values are given, both CDT and EDT will just result in the same decision that UDT would make (unless the specific decision also combines one of the other issues UDT is required for.)

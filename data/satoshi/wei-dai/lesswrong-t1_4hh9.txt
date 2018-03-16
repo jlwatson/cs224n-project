@@ -1,0 +1,7 @@
+&gt; Perhaps you'd answer that a stipulated meaning is just that, a guess about the nature of something. But as you know, words have connotations, and I think the connotation of "guess" is more appropriate here than "meaning".
+
+The problem is that we have to act in the world *now*. We can't wait around for metaethics and decision theory to be solved. Thus, science books have glossaries in the back full of highly useful operationalized and stiuplated definitions for hundreds of terms, whether or not they match the intended meanings (that we don't have access to) of those terms for person A, or the intended meanings of those terms for person B, or the intended meanings for those terms for person C.
+
+I think this glossary business is a familiar enough practice that calling that thing a glossary of 'meanings' instead of a glossary of 'guesses at meanings' is fine. Maybe 'meaning' doesn't have the connotations for me that it has for you.
+
+Science needs doing, laws need to be written and enforced, narrow AIs need to be programmed, best practices in medicine need to be written, agents need to act... all before metaethics and decision theory are solved. In a great many cases, we need to have meaning\_stipulated before we can figure out meaning\_intended.

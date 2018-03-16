@@ -1,0 +1,1 @@
+You need to [escape](http://wiki.lesswrong.com/wiki/Comment_formatting#Escaping_special_symbols) it to avoid its interpretation as a markup element.

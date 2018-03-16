@@ -1,0 +1,5 @@
+Every value loading agent I've considered (that pass the naive cake-or-death problem, at least) can be considered equivalent to a UDT agent.
+
+I'm just not sure it's a useful way of thinking about it, because the properties that we want - "conservation of moral evidence" and "don't manipulate your own moral changes" - are not natural UDT properties, but dependent on a particular way of conceptualising a value loading agent. For instance, the kid that doesn't ask whether eating cookies is bad, has a sound formulation as a UDT agent, but this doesn't seem to capture what we want.
+
+EDIT: this may be relevant http://lesswrong.com/r/discussion/lw/kdx/conservation_of_expected_moral_evidence_clarified/

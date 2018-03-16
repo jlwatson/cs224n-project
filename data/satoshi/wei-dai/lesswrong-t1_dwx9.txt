@@ -1,0 +1,10 @@
+Some ideas:
+
+* Open up MIRI's internal discussions about strategy as they happen.
+* Open up MIRI's workshops as they happen, let people participate remotely.
+* Prizes, like Quantified Health or Paul's recent offer of funding for AI alignment research.
+* Post drafts of papers before publishing them.
+* Summarize and discuss ideas from Arbital.
+* Summarize and discuss Paul's work.
+* Guest posts / debates / AMAs with high profile non-LW people. Think someone like Nick Bostrom ideally.
+* Merge IAFF and the MIRI news blog into LW 2.0.

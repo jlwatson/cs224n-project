@@ -1,0 +1,11 @@
+&gt;With morality though, we have no such method,
+
+Every act of lying is morally prohibited / This act would be a lie // This act is morally prohibited.
+
+So here I have a bit of moral reasoning, the conclusion of which follows from the premises. The argument is valid, so if the premises are true, the conclusion can be considered proven. So given that I can give you valid proofs for moral conclusions, in what way is morality not logical?
+
+&gt;doesn't have any of the nice properties of that a well-constructed system of logic would have, for example, consistency, validity, soundness...
+
+The above example of moral reasoning (assume for the sake of simplicity that this is my entire moral system) is consistant, and valid, and (if you accept the premises) sound. Anyone who accepts the premises _must_ accept the conclusion. One might waver on acceptance of the premises (this is true for every subject) but the conclusion follows from them regardless of what one's mood is. 
+
+All that said, our moral reasoning is often fraught. But I don't think makes morality peculiar. The mistakes we often make with regard to moral reasoning don't seem to be different in kind from the mistakes we make in, say, economics. Ethics, they say, is not an exact science. 

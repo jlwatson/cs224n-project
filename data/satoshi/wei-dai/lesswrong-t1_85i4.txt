@@ -1,0 +1,1 @@
+In that case I'm not sure what you mean by "second-order analogue of Solomonoff induction".  Solomonoff induction is about the universe and proceeds from sensory experiences.  What does it mean to induct that something may produce the truth of sentences "about a second-order logic"?

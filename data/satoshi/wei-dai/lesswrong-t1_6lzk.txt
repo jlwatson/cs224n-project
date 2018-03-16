@@ -1,0 +1,5 @@
+Why not have team members whose entire job is to prevent this sort of thing from happening? At least one team writing software for NASA has software testers who have a semi-antagonistic relationship with the software engineers.
+
+http://www.fastcompany.com/magazine/06/writestuff.html
+
+What would a good checks and balances style structure for an FAI team look like?

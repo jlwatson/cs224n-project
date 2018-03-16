@@ -1,0 +1,3 @@
+Google is using a much more complicated algorithm that is constantly tweaked, and is a trade secret -- precisely because  as soon as it became profitable to do so, the ecosystem proceeded to game the hell out of PageRank.
+
+Google hasn't been using PageRank-as-in-the-paper for ages.  The real secret sauce behind Google is not eigenvalues, it's the fact that it's effectively anti-inductive, because the algorithm isn't open and there is an army of humans looking for attempts to game it, and modifying it as soon as such an attempt is found.

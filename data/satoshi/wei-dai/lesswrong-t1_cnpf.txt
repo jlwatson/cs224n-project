@@ -1,0 +1,3 @@
+&gt; I'm not sure about "no correct prior", and even if there is no "correct prior", maybe there is still "the right prior for me", or "my actual prior", which we can somehow determine or extract and build into an FAI?
+
+This sounds much closer home. Note, however, that there is certain ambiguity between the prior and the utility function. UDT agents maximize Sum Prior(x) U(x) so certain simultaneous redefinitions of Prior and U will lead to the same thing.

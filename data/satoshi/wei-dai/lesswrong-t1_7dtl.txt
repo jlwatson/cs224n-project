@@ -1,0 +1,3 @@
+&gt;given a payoff matrix in general, Masquerade enumerates all of the constant strategies and all of the "mutually beneficial deals" of the FairBot form
+
+But here, you *didn't* enumerates all of the constant strategies. To do that, we would change "for Y in [DefectBot, FairBot]" to "for Y in [DefectBot, CooperateBot, FairBot]". Then Masquerade(CB)=D and Masquerade(Masquerade)=D because when it gets to "if utility &gt; U(D,D)" it will be the case that my\_move=D and their\_move=C. Correct?

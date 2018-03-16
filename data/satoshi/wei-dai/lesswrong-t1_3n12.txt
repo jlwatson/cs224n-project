@@ -1,0 +1,9 @@
+&gt;Earlier, I lamented that even though Eliezer named scholarship as one of the Twelve Virtues of Rationality, there is surprisingly little interest in (or citing of) the academic literature on some of Less Wrong's central discussion topics.
+
+Eliezer defined the virtue of scholarship as (a) "Study many sciences and absorb their power as your own." He was silent on whether, after you survey a literature and conclude that nobody has the right approach yet, you should (b) still cite the literature (presumably to show that you're familiar with it), and/or (c) rebut the wrong approaches (presumably to try to lead others away from the wrong paths).
+
+I'd say that (b) and (c) are much more situational than (a). (b) is mostly a signaling issue. If you can convince your audience to take you seriously without doing it, then why bother? And (c) depends on how much effort you'd have to spend to convince others that they are wrong, and how likely they are to contribute to the correct solution after you turn them around. Or perhaps you're not sure that your approach is right either, and think it should just be explored alongside others.
+
+At least some of the lack of scholarship that you see here just reflect a cost-benefit analysis on (b) and (c), instead of a lack of "interest" or "virtue". (Of course you probably have different intuitions on the costs and benefits involved, and I think you should certainly pursue writing your book if you think it's a good use of your time.)
+
+Also, I note that there is remarkably little existing research on some of the topics we discuss here. For example, for my [The Nature of Offense](http://lesswrong.com/lw/13s/the_nature_of_offense/) post, I was able to find just one existing article on the topic, and that was in a popular online magazine, instead of an academic publication.

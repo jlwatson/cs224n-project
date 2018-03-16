@@ -1,0 +1,1 @@
+In theory, changing the exploration rate and changing the prior are equivalent. I think that it might be easier to decide upon an exploration rate that gives a good result for generic priors, than to be sure that generic priors have good exploration rates. But this is just an impression.

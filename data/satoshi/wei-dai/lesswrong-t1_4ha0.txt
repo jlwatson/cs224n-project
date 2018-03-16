@@ -1,0 +1,21 @@
+&gt; I'm not sure that "mean" can ever be correctly taboo'ed into "mean_stipulated".
+
+It seems a desperate move to say that stipulative meaning just *isn't* a kind of meaning wielded by humans. I use it all the time, it's used in law, it's used in other fields, it's taught in textbooks... If you think stipulative meaning just *isn't* a legitimate kind of meaning commonly used by humans, I don't know what to say.
+
+&gt; One can easily taboo a word in a wrong way, and end up adding to confusion, for example by giving the appearance that there is no disagreement when there actually is.
+
+I agree, but 'tabooing' 'meaning' to mean (in *some* cases) 'stipulated meaning' shouldn't be objectionable because, as I said above, it's a very commonly used kind of 'meaning.' We can also taboo 'meaning' to refer to other types of meaning.
+
+And like I said, there often *is* substantive disagreement. I was just trying to say that sometimes there isn't substantive disagreement, and we can figure out whether or not we're having a substantive disagreement by playing a little Taboo (and by checking anticipations). This is precisely the kind of use for which playing Taboo was [originally proposed](http://lesswrong.com/lw/nu/taboo_your_words/):
+
+&gt; the principle [of Tabooing] applies much more broadly:
+
+&gt; Albert:  "A tree falling in a deserted forest makes a sound."
+&gt; Barry:  "A tree falling in a deserted forest does not make a sound."
+
+&gt; Clearly, since one says "sound" and one says "~sound", we must have a contradiction, right?  But suppose that they both dereference their pointers before speaking:
+
+&gt; Albert:  "A tree falling in a deserted forest matches [membership test: this event generates acoustic vibrations]."
+Barry:  "A tree falling in a deserted forest does not match [membership test: this event generates auditory experiences]."
+
+&gt; Now there is no longer an apparent collision - all they had to do was prohibit themselves from using the word sound. If "acoustic vibrations" came into dispute, we would just play Taboo again and say "pressure waves in a material medium"; if necessary we would play Taboo again on the word "wave" and replace it with the wave equation.  (Play Taboo on "auditory experience" and you get "That form of sensory processing, within the human brain, which takes as input a linear time series of frequency mixes.")

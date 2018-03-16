@@ -1,0 +1,17 @@
+The particles example is derived from one of Kelly's examples (marbles in a box).
+
+Kolmogorov complexity is unavailable - only approximations it are available, and they're not unique. There are multiple reasonable grammars that we can use to do MDL, and no clear justification for why we should use one rather than another. For an extreme example, imagine measuring simplicity by "size of the patch to the Catholic Church's dogma."
+
+Kelly's notion that Occam means worst-case-efficient-in-mind-changes allows us to avoid the prior "dropping like manna from heaven". 
+
+I recommend this paper:
+
+http://www.hss.cmu.edu/philosophy/kelly/papers/bonn5.pdf
+
+but if that one doesn't do it for you, there are others with more cartoons and less words:
+
+ http://www.fitelson.org/few/few_05/kelly_2.pdf
+
+Or ones with more words and less cartoons: 
+
+http://www.hss.cmu.edu/philosophy/kelly/papers/Ch4-Glymour%20&amp;%20Kelly-final.pdf

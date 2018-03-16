@@ -1,0 +1,1 @@
+(Quick note:  Wei's quining violates the naturalistic principle, not the Vingean principle.  Wei's actions were still inside quantifiers but had separate forms for self-modification and action.  So did Benja's original proposal in the Quirrell game, which Wei modified - I was surprised and impressed when Benja's polymorphism approach carried over to a naturalistic system.)

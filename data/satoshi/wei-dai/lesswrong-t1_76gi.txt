@@ -1,0 +1,7 @@
+&gt;Did you mean to write "for all programs that halt in less than (some constant multiple of) N steps", because what you wrote doesn't make sense.
+
+Yes. Edited.
+
+&gt;What if I give you a program that enumerates all proofs under PA and halts if it ever finds proof for a contradiction? There is no proof under PA that this program doesn't halt, so your fake oracle will return HALT, and then I will have reasonable belief that your oracle is fake.
+
+That's cool. Can you do something similar if I change my program to output NOT-HALT when it doesn't find a proof?

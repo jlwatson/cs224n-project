@@ -1,0 +1,3 @@
+&gt;Sometimes, though, it gives an interesting insight into what's going on-- often cases where classical logic tells us that an inference is just fine, but informal pragmatics tell us that there is something silly about it. 
+
+Can you please give an example of this?

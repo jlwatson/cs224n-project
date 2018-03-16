@@ -1,0 +1,5 @@
+&gt;If I were a professional philosopher working in anthropic reasoning, I don't see how I can justify not taking a paper about anthropic reasoning seriously
+
+But there are no/few philosophers working in "anthropic reasoning" - there are many working in "anthropic probability", to which my paper is an interesting irrelevance. it's essentially asking and answering the wrong question, while claiming that their own question is meaningless (and doing so without quoting some of the probability/decision theory stuff which might back up the "anthropic probabilities don't exist/matter" claim from first principles).
+
+I expected the paper would get published, but I always knew it was a bit of a challenge, because it didn't fit inside the right silos. And the main problem with academia here is that people tend to stay in their silos.

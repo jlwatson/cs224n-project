@@ -1,0 +1,9 @@
+Thank you, I saw this earlier but posting it here makes it easier for me to comment. :)
+
+In order for an AI to learn a utility function from humans that is safe to maximize over, it needs to have no errors over its whole domain (if there is a single error in the utility function arbitrarily far away from the training distribution, the AI could eventually seek it out when it gets powerful enough to be able to reach that point in state space). Not only that, but it has to correct the errors that are in the training data. So from current learning algorithms whose average case error can suffer badly when the input distribution is slightly shifted, we have to get to one with a worst case error of zero and *negative* average case error. Does this seem like a fair or useful way to state the severity of the problem in ML terms?
+
+(BTW, I'm aware of work by Paul Christiano to try to design FAI that can tolerate *some* errors made by the learning algorithm, but I'm not sure that the cost in terms of higher complexity and lower efficiency is worth it, since it may not be much easier to get the kind of theoretical guarantees that his designs need.)
+
+Another issue that makes me pessimistic about the long run outcome is the seeming inevitability of AI arms races and resulting incentives to skimp on ethics and safety in order to beat the competition to market or publication. I haven't seen much discussion of this by people who are "in" AI / ML. What's your view on this, and do you think there should be greater awareness/discussion of this issue?
+
+Do you have a reference for "weakly supervised learning"? I did some searches but couldn't find anything that seemed especially relevant to the way you're using it.

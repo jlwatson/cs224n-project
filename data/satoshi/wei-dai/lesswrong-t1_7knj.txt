@@ -1,0 +1,11 @@
+This opens up a new aspect of downvoting, which I've just now tried out, and will describe in the interest of full disclosure: you can "swim up" the chain of comment parents until you find one that is at -3, and by downvoting *that* cause the entire downthread discussion to be effectively censored.
+
+Swimming upthread is something I do quite often in the course of trying to understand what sparked a particular controversy - I'm often dismayed to see that these are tangents that had nothing to do with the original question being investigated and not a whole lot to do with rationality.
+
+[This comment](http://lesswrong.com/lw/9c/mandatory_secret_identities/7kne) by Wei Dai was the trigger for my looking to use this tactic (it felt like it belonged in a low-overall-value discussion of the kind I'd like to see less of), showing up at the top of Recent comments.
+
+No less than *eight* levels above was [this comment](http://lesswrong.com/lw/9c/mandatory_secret_identities/7j66) by wedrifid, sitting at -3, with a total of 38 children comments. Downvoting it (without the slightest qualm, given the first non-quoted words were a rhetorical "How dare you" that I strongly prefer not to see around here) did in fact cause Wei Dai's comment to disappear from Recent. (Here's the [starting point](http://lesswrong.com/lw/9c/mandatory_secret_identities/7j3j) of the whole subthread.)
+
+So, that's one (possibly unexpected) consequence of the new rule. Good? Bad? I haven't formed an opinion yet.
+
+(Some disclaimers: I have no particular antipathy toward either Wei Dai or wedrifid, nor did I allow myself to develop a particular attachment to either "side" in that particular controversy, given that the appearance of "sides" at all didn't strike me as particularly productive. I'm aware that my commenting on this may negate the censorship consequences on this particular discussion, but it seemed to me that bringing this out in the open had greater expected value than just quietly censoring one subthread and retaining the power to do it again on other occasions.)

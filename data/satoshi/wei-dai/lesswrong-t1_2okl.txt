@@ -1,0 +1,25 @@
+Preamble: This topic is of interest to me (right now) as a case study in practical rationality. This reply is primarily about exploring the ways to influence reality in this sort of situation. I have made other comments that are more about the Roko topic.
+
+&gt; I don't understand why, just because Eliezer chose to move the game from one of persuasion to one about power and enforcement, you have to keep playing it that way.
+
+You don't need to. But nor do you need to place yourself in a subordinate position to Eliezer such that you can only influence reality by persuading him with words. In general I am in favour of taking practical actions to seek what you want. It relates to the lesson from Quirrel: you don't need to ask the teacher to do something for you when there is a way to do it for yourself. 
+
+If a group of people considered the topic 'is this AI going to torture us?' something that is important to debate then they are free to do so. It doesn't need to be via changing the moderation policy on Lesswrong. They could talk about it elsewhere. This requires solving a cooperation problem, which is difficult but probably less difficult than finding a way to coerce or persuade Eliezer.
+
+When I said 'power' I wasn't meaning to limit options to coercive uses of power. Using influence on people other than Eliezer makes the whole thing not about the initial obstacle but about achieving your goal despite it.
+
+&gt; If Eliezer is really so irrational that once he has exercised power on some issue, he is no longer open to any rational arguments on that topic, then what are we all doing here?
+
+While I did talk about both these things I wasn't trying to suggest 'Eliezer not likely to be influenced by argument on this topic' is entirely to do with having already exercised power. Things that influence my prediction that Eliezer is unlikely to be persuaded:
+
+* A public commitment has been made.
+* A transition to prohibition, threat and punishment has already been made. When people do that kind of thing I take it as evidence that they will be less open to persuasion. This is based of observations of how people in general seem to act. "You shouldn't because" indicates a different state of mind than "If you do then".
+* Eliezer has a bias toward secrecy. This is apparent in discussions about conspiracies and is a common theme in his fanfiction (where the important part is what Eliezer says in discussions thereof.)
+* In my observation Eliezer becomes irrational when it comes to dealing with risk. His usual high standards of rational thinking seem to go out the window . This includes being less able to understand and respond coherently to discussions. (The sample size that leads me to this conclusion is not enormous.)
+* Eliezer has (much) higher status. Status drastically hinders the ability to take on board other people's ideas when they contradict your own.
+* Eliezer is (unashamedly) arrogant. This isn't always a bad thing but does involve reducing the expected receptivity to persuasion.
+* The most important rational arguments that weigh into the decision involve discussing the subject matter itself. This is forbidden.
+
+&gt; If Eliezer is really so irrational that once he has exercised power on some issue, he is no longer open to any rational arguments on that topic, then what are we all doing here? Shouldn't we be trying to hinder his efforts (to "not take over the world") instead of (however indirectly) helping him?
+
+I actually don't think that flaw (even in the extreme case as worded here that I don't claim) must necessarily lead to the conclusion that it would be better to hinder a FAI researcher's efforts than aid them. Someone does need to take over the world for us to have a chance of surviving. The expected output of the work could still be acceptable even with that flaw in rationality. There just aren't all that many FAI researcher's out there. In the wise words from Starship Troopers "You're it until you're dead or I find someone better".

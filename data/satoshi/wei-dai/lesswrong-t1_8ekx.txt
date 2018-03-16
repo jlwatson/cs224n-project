@@ -1,0 +1,7 @@
+"Fruit" is a natural category; apples and oranges share interesting characteristics that make it useful to talk about them in general.
+
+"Utility" is not. The two concepts, "that for which expectation is legitimate", and some quantity related to inter-agent preference aggregation do not share very many characteristics, and they are not even on the same conceptual abstraction layer.
+
+The VNM-stuff is about decision theory. The preference aggregation stuff is about moral philosophy. Those should be completely firewalled. There is no value to a superconcept that crosses that boundary.
+
+As for me using the word "utility" in this discussion, I think it should be unambiguous that I am speaking of VNM-stuff, because the OP is about VNM, and utilitarianism and VNM *do not belong in the same discussion*, so you can infer that all uses of "utility" refer to the same thing. Nevertheless, I will try to come up with a less ambiguous word to refer to the output of a "preference function".

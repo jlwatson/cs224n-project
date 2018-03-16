@@ -1,0 +1,5 @@
+There was a thought related to this that I've been trying to untangle. Assuming the brain is computable, which seems to me to be quite a safe assumption, doesn't that imply that all of mathematics should be able to be framed computationally? It seems obvious to me that there should be some algorithm that could create mathematics by organizing a stream of input data in some fashion. After all, there is a (presumably) computable subsystem of Earth that does that, namely the mathematics community.
+
+That said, in what light are we to consider "incomputable" mathematics?  It seems like this is drawing a meaningless distinction given the computable universe hypothesis. Perhaps it can be thought of as a sort of counterfactual reasoning? This certainly seems to be the case with, say, accelerated Turing machines, the counterfactual being "what if there were no universal speed cap?" 
+
+Apologies if I'm not making sense, I've been awake for quite a while.

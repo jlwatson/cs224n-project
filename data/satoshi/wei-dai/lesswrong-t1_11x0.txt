@@ -1,0 +1,5 @@
+&gt; Omega will now create his TDT AIs after you design yours, and hard code the source code of your AI into it as givens. His AIs won't even know about you, the real player.
+
+They might simply *infer* you, the real player.  You might as well tell the TDT AIs that they're up against a hardcoded Defect move as the "other player", but they won't know if that player has been selected.  In fact, that pretty much is what you're telling them, if you show them a CDT player.  The CDT player is a red herring - the decision to defect was made by you, in the moment of submitting a CDT player.  There is no law against TDT players realizing this after Omega codes them.
+
+I should note that in matters such as these, the phrase "hard code" should act as a warning sign that you're trying to fix something that, at least in your own mind, doesn't want to be fixed.  (E.g. "hard code obedience into AIs, build it into the very circuitry!")  Where you are tempted to say "hard code" you may just need to accept whatever complex burden you were trying to get rid of by saying "fix it in place with codes of iron!"

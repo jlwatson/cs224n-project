@@ -1,0 +1,1 @@
+Yes, I think you are right.  I wonder if there is a way of changing the payoffs so there isn't any trembling mixed equilibrium.

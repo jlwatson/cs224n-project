@@ -1,0 +1,5 @@
+Your comment reminded me of a post I've long wanted to write. The idea is that examining assumptions is unproductive. The only way to make intellectual progress, either individually or as a group, is to stop arguing about assumptions and instead explore their implications wherever they might lead. The #1 reason why I took so long to understand Newcomb's Problem or Counterfactual Mugging was my insistence on denying the assumptions behind these problems. Instead I should have said to myself, okay, is this direction of inquiry interesting when taken on its own terms?
+
+Many assumptions seemed divorced from real life at first, e.g. people dismissed the study of electromagnetism as an impractical toy, and considered number theory hopelessly abstract until cryptography arrived. People seem unable to judge the usefulness of assumptions before exploring their implications in detail, but they absolutely *love* arguing about assumptions instead of getting anything *done*.
+
+There, thanks for encouraging me to write the first draft :-)

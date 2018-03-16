@@ -1,0 +1,11 @@
+&gt; You seem to be taking a position that's different from Eliezer's, since AFAIK he has consistently defended this approach that you call "wrong" (for example in the thread following my first linked comment).
+
+Well, Eliezer_2009 do seem to underestimate the difficulty of the extrapolation problem.
+
+&gt; If you have some idea of how to "derive the computation that we approximate when we talk about morality by examining the dynamic of how people reacts to moral arguments" that doesn't involve just "looking at where people moralities concentrate as you present moral arguments to them" then I'd be interested to know what it is.
+
+Have I solved that problem? No. But humans do seem to be able to infer from the way pebblesorters reason that they are referring to primality and also it seem that by looking at mathematicians reasoning about Goldbach's Conjecture we should be able to infer what they refer to when they speak about Goldbach's Conjecture and we don't do that by looking at what position they end up concentrating at when we present them with all possible arguments. So the problem ought to be solvable.
+
+&gt; Assuming "when we do moral reasoning we are approximating some computation", what reasons do we have for thinking that the "some computation" will allow us to fully reduce "pain" to a set of truth conditions? What are some properties of this computation that you can cite as being known, that leads you to think this?
+
+Are you trying to imply that it could be the case that the computation that we approximate is only defined over a fixed ontology which doesn't correspond to the correct ontology and simply return a domain error when one try to apply it to the real world? Well that doesn't seem to be the case because we are able to do moral reasoning at a more fine-grained level than the naive ontology and a lot of the concept that seems relevant to moral reasoning, like qualia for example, seems like they ought to have canonical reductions. I detail the way in which I see us doing that kind of elucidation in [this comment](http://lesswrong.com/lw/fyb/ontological_crisis_in_humans/82uq).

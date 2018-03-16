@@ -1,0 +1,3 @@
+"any coalition of players that decides to deviate (collectively or individually) cannot win total payoff greater than their group security value"
+
+This phrase was what caused me to assume that a strong Nash Equilibrium was meant.

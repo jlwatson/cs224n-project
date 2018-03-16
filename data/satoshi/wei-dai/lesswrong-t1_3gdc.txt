@@ -1,0 +1,7 @@
+I think Eliezer's meta-ethics is wrong because it's possible that we live in a world where Eliezer's "right" doesn't actually designate anything. That is, where a typical human's morality, when extrapolated, [fails to be coherent](http://lesswrong.com/lw/sm/the_meaning_of_right/to4). "Right" should still mean something in a world like that, but it doesn't under Eliezer's theory.
+
+Also, to jump the gun a bit, your own meta-ethics, desirism, [says](http://commonsenseatheism.com/?p=2982):
+
+&gt;Thus, morality is the practice of shaping malleable desires: promoting desires that tend to fulfill other desires, and discouraging desires that tend to thwart other desires. 
+
+What does this mean in the FAI context? To a super-intelligent AI, it's own desires, as well as those of everyone else on Earth, can be considered "malleable", in the sense that it can change all of them if it wanted to. But there might be some other super-intelligent AIs (created by aliens) whose desires it is powerless to change. I hope desirism doesn't imply that it should change my desires so as to fulfill the alien AIs' desires...

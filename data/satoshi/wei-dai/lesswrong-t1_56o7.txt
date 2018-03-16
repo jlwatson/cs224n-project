@@ -1,0 +1,11 @@
+&gt;However, there's a problem - Eliezer is an expert on AI risk because he believes that AI risk is a bigger risk than nuclear war.
+
+This isn't right. Eliezer got  into the AI field because he wanted to make a Singularity happen sooner, and only later determined that AI risk is high. Even if Eliezer thought that nuclear war is a bigger risk than AI, he would still be in AI, because he would be thinking that creating a Singularity ASAP is the best way to prevent nuclear war.
+
+&gt;Is there a sensible way for these people to correct for the fact that the people studying these risks are those that have high estimate of them in the first place?
+
+I suggest that if you have the ability to evaluate the arguments on an object level, then do that, otherwise try to estimate P(E|H1) and P(E|H2) where E is the evidence you see and H1 is the "low risk" hypothesis (i.e., AI risk is actually low), H2 is the "high risk" hypothesis, and apply Bayes' rule.
+
+Here's a simple argument for high AI risk. "AI is safe" implies that either superintelligence can't be created by humans, or any superintelligence we do create will somehow converge to a "correct" or "human-friendly" morality. Either of these may turn out to be true, but it's hard to see how anyone could (justifiably) have high confidence in either of them at this point in our state of knowledge.
+
+As for P(E|H1) and P(E|H2), I think it's likely that even if AI risk is actually low, there would be someone in the world trying to make a living out of "crying wolf" about AI risk, so that alone (i.e., an apparent expert warning about AI risk) doesn't increase the posterior probability of H2 much. But what would be the likelihood of that person also creating a rationalist community and trying to "raise the sanity waterline"?

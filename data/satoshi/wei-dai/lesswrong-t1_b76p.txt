@@ -1,0 +1,36 @@
+&gt;I read this as saying the USSR should call the bluff, which made no sense in relation to gwern's other posts. When I asked whether this was actually what was intended
+
+You didn't only do that. You also claimed that he misunderstood Punoxysm which means that you started by claiming implicitly that you think you understand roughly what gwern wanted to say.
+
+If two people discuss something and you don't fully understand the positions then it's often a bad step to suggest that one misunderstands what the other is saying. 
+
+Punoxysm made a point suggesting that Iraq is somehow comparable to Russia as far as the response to threats goes. That's pretty obviously wrong. The US can't simply start a war against Russia but can against Iraq. Russia is not in the same reference class as the Iraq. If Punoxysm feels misunderstood then it's his role to say.
+
+You coming in and accusing Gwern of misunderstanding provoked an annoyed response. It's not that you violated a rule, but him getting annoyed would have been predictable. 
+
+&gt; I have bent over backwards to resolve this civilly, but my repeated attempts to get gwern to explain how I had misunderstood the sentence achieved nothing but the accusation that I was making an “underhanded” effort to get gwern to respond.
+
+Eh, no. 
+
+Saying: "If you can't have a calm, rational, and civil conversation about this, **then I can only conclude that it you are not a rationalist.**", is not trying to resolve the issue civilly. A sentence like this doesn't indicate that there's value to be gained from continuing the conversation. It's the kind of sentence that can happen in a burst of emotions but it doesn't help if you want to be taken seriously.
+
+Gwern allegation that you are trolling instead of being sincere is probably wrong and accusing other people of trolling isn't useful.
+
+&gt;So I would like to know whether gwern's behavior is the sort of thing that people here think is acceptable in this garden.
+
+If that's what you want to know look at the karma votes of the corresponding posts. People vote down posts they don't consider acceptable. 
+
+&gt;If some random poster were being rude, that would be worrisome, but the fact that the top contributor thinks that a high karma score is license to egregiously violate Wheton's rule suggests that there may be something wrong with the site as a whole.
+ 
+This sentence is passive aggressive by making an allegation that the site as a whole might be bad. Did you intend to make that allegation? Do you think making such an allegation makes it more likely that your post while be positively received and people side with you?
+
+
+___________________
+
+To go from the details of this case to something more general, it seems like to me like a conflict of values. Gwern communicates in a way that optimizes for information transmitted instead of avoiding to say specific things to be respectful. 
+
+You think that part of being civil means to move within some fixed social norms and leaving them is *bad*.
+
+Gwern might be jerky is the same way Harry in HPMOR is. We have at the moment another [thread](http://lesswrong.com/r/discussion/lw/kox/why_are_people_put_off_by_rationality/) about how that kind of rationality rubs some people the wrong way.
+
+I remember Nietzsche's distinction of master and slave morality. It might be useful for understanding value conflicts like this one. 

@@ -1,0 +1,5 @@
+This just bugs me too much.
+
+No, I do not think there is disagreement. You tell many people that X is a largest member of the set. They come up with members that are larger than X. If they give different answers, that is not disagreement of some kind. If X is particularly ill chosen for being the largest member of the set, then there can be enormous number of members larger than X. 
+
+If you want to claim substantial disagreement, e.g. if you claim that promoters of intelligence amplification see computer security as entirely unhelpful and a net increase in the risk, you got to provide examples (surely a sufficiently twisted reasoner can argue that computer security will be an annoying obstacle that will piss off the future cyborg overlord). edit: that's it, I think claiming that those who disagree are selling their examples as 'the best that could be done' is a bit of uncharitable interpretation (or actually, a lot). For the most part, it's just examples of what is better to do than FAI.

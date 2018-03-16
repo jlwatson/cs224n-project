@@ -1,0 +1,3 @@
+I don't understand your comment. \[**Edit**: [I probably do](http://lesswrong.com/r/discussion/lw/c0k/formalizing_value_extrapolation/6gmw) now.] You output something that the outer AGI uses to optimize the world as you intend, you don't "let the AGI in". You are living in its goal definition, and your decisions determine AGI's values. 
+
+Are you perhaps referring to the idea that AGI's actions control its goal state? But you are not its goal state, you are a principle that determines its goal state, just as the AGI is. You show the AGI where to find its goal state, and the AGI starts working on optimizing it.

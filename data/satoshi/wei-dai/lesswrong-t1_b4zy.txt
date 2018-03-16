@@ -1,0 +1,3 @@
+I can't see how this would work. Wouldn't the UDT-ish approach be to ask an MMEU agent to pick a strategy once, before making any updates? The MMEU agent would choose a strategy that makes it equivalent to a Bayesian agent, as I describe. The characteristic ambiguity-averse behaviour only appears if the agent is *allowed* to update.
+
+Given a Cartesian boundary between agent and environment, you could make an agent that prefers to have its future actions be those that are prescribed by MMEU, and you'd then get MMEU-like behaviour persisting upon reflection, but I assume this isn't what you mean since it isn't UDT-ish at all.

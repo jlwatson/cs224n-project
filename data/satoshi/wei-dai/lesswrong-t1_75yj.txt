@@ -1,0 +1,7 @@
+&gt;A: But why are the dynamics of the electromagnetic field derived from Maxwell's Lagrangian rather than some other equation? And why does the path integral method work at all?
+&gt;
+&gt;B: BECAUSE IT IS THE LAW.
+
+What do you think of Max Tegmark's answer, that it's because universes with every possible (i.e., non-contradictory) set of laws of physics exist and we happen to be in one with electromagnetic dynamics derived from Maxwell's Lagrangian? (Or alternatively, every mathematical structure exist in a platonic sense and we happen to inhabit one that looks like this from the inside.)
+
+I'm not sure if this can be called a LW consensus, but it has at least a large minority following here. One important reason is that this view seems to make it much easier to do decision theory, because it means that goals/values can be stated in terms of preferences about how mathematical structures turn out or unfold, instead of about "physical stuff". In particular, UDT was heavily influenced by Tegmark's ideas and there seems to be a consensus among people interested in decision theory here that UDT is a step in the right direction. If you're not already familiar with Tegmark's ideas, user ata wrote a [post](http://lesswrong.com/lw/1zt/the_map_that_is_the_territory/) that can serve as an introduction.

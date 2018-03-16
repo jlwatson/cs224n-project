@@ -1,0 +1,9 @@
+&gt;What are your most important disagreements with other FHI/SIAI people? How do you account for these disagreements?
+
+Main disagreement with FHI people is that I'm more worried about AI than they are (I'm probably up with the SIAI folks on this). I suspect an anchoring effect here - I was drawn to the FHI's work through AI risk, others were drawn in through other angles (also I spend much more time on Less Wrong, making AI risks very salient). Not sure what this means for accuracy, so my considered opinion is that AI is less risky than I individually believe.
+
+&gt;Are you saying we should push them simultaneously, or what?
+
+My main disagreement with SIAI is that I think FAI is unlikely to be implementable on time. So I want to explore alternative avenues, several ones ideally. Oracle to FAI would be one route; Oracle to people taking AI seriously to FAI might be another. WBE opens up many other avenues (including "no AI"), so is also worth looking into.
+
+I haven't bothered to try and close the gap between me and SIAI on this, because even if they are correct, I think it's valuable for the group to have someone looking into non-FAI avenues.

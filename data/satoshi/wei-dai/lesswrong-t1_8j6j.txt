@@ -1,0 +1,5 @@
+&gt;If humans ever manage to build systems which are properly consequentialist---organizations or automations which are capable of expanding because it is instrumentally useful---we should not expect natural selection to discriminate at all on the basis of those systems' values.
+
+You seem to be making several more assumptions for your "median future" that you haven't made explicit here. 1) Humans will manage to build such properly consequentialist systems not subject to value drift *soon*, before too much further evolution will have taken place. 2) We will succeed in imbuing such systems with the altruistic values that we still have at that point. 3) Such properly consequentialist systems will be able to either out-compete other entities that are subject to short-range consequentialism and value drift, or at least survive into the far future in an environment with such competitors.
+
+Have you discussed (or seen good arguments made elsewhere) why these are likely to be the case?

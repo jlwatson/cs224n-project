@@ -1,0 +1,17 @@
+&gt;would it make sense to implement a time-sharing system where one set of neurons is used to implement multiple AIs running at slower speed? Wouldn't that create unnecessary communication costs
+
+In short, If you don't time share, then you are storing all synaptic data on the logic chip.  Thus you need vastly more logic chips to simulate your model, and thus you have more communication costs.
+
+There are a number of tradeoffs here that differ across GPUs vs neuro ASICs like HICANN or IBM TruNorth.  The analog memristor approaches, if/when they work out, will have similar tradeoffs to neuro-ASICs.  (for more on that and another viewpoint see [this discussion](http://www.reddit.com/r/singularity/comments/381cx7/neuromorphic_hardware_a_path_towards_humanlevel/) with the Knowm guy )
+
+GPUs are von neumman machines that take advantage of the 10x or more cost difference between the per transistor cost of logic vs that of memory.  Logic is roughly 10x more expensive, so it makes sense to have roughly 10x more memory bits than logic bits.  ie: a GPU with 5 billion transistors might have 4 gigabytes of offchip RAM.
+
+So on the GPU (or any von neumman), typically you are always doing time-swapping: simulating some larger circuit by swapping pieces in and out of memory.
+
+The advantage of the neuro-ASIC is energy efficiency: synapses are stored on chip, so you don't have to pay the price of moving data which is most of the energy cost these days.  The disadvantages are threefold: you lose most of your model flexibility, storing all your data on the logic chip is vastly more expensive per synapse, and you typically lose the flexibility to compress synaptic data - even basic weight sharing is no longer possible.  Unfortunately these  problems combine.
+
+Lets look at some numbers.  The HICANN chip has 128k synapses in 50 mm^2, and their 8-chip reticle is thus equivalent to a mid-high end GPU in die area.  That's 1 million synapses in 400 mm^2.  It can update all of those synapses at about 1 mhz - which is about 1 trillion synop-hz.  
+
+A GPU using SOTA ANN simulation code can also hit about 1 trillion synop-hz, but with much more flexibility in the tradeoff between model size and speed.  In particular 1 million synapses isn't really enough - most competitive ANNS trained today are in the 1 to 10 billion synapse range - which would cost about 1000 times more for the HICANN, because it can only store 1 million synapses per chip, vs 1 billion or more for the GPU.
+
+IBM's truenorth can fit more synapses on a chip - 256 million on a GPU sized chip (5 billion transistors), but it runs slower, with a similar total synop-hz throughput.  The GPU solutions are just far better, overall - for now.

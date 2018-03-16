@@ -1,0 +1,9 @@
+No, it's not really the same at all.
+
+In a classical iterated PD the only motive for cooperating is to avoid retaliation on the next round, and this only works if the number of rounds is either infinite or large but unknown.
+
+However, if we use a decision theory that wins at Newcomblike problems, we are both essentially taking the role of (imperfect) Omegas. If we both know that we both know that we both one-box on Newcomblike problems, then we can cooperate (analogous to putting the $1M in the box). It doesn't matter if the number of rounds is known and finite, or even if there is only one round. My action depends on my confidence in the other's ability to correctly play Omega relative to the amount of utility at stake.
+
+There's no particular requirement for this info to come from a track record of public one-shot PDs. That's just the most obvious way humans could do it without using brain emulations or other technologies that don't exist yet.
+
+Although I doubt it's possible for a normal human to be 99% accurate as in my example, any accuracy better than chance could make it desirable to cooperate, depending on the payoff matrix.

@@ -1,0 +1,9 @@
+&gt; what would you say to a utilitarian who say: "Evolution (memetic evolution, that is) has instilled in me the idea of that I should linearly value the welfare of others regardless of kinship, regardless of what instincts I got from my genes."
+
+There are two separate issues here.  I assume that by "linearly" you are referring to the subject that started this conversation: my claim that utilities "are not additive", an idea also expressed as "diminishing returns", or diminishing marginal utility of additional people.  I probably would not dispute the memetic evolution claim if it focused on "linearity".
+
+The second issue is a kind of universality - all people valued equally regardless of kinship or close connectedness in a network of reciprocity.  I would probably express skepticism at this claim.  I would probe the claim to determine whether the selection operates at the level of the meme, the individual, or the society.  And then I would ask how that meme contributes to its own propagation at that level.
+
+&gt; By "orthodox position" are you referring to TDT-related ideas?
+
+Mostly, I am referring to views expressed by EY in the sequences and frequently echoed by LW regulars in comments.  Some of those ideas were apparently repeated in the TDT writeup (though I may be wrong about that - the write-up was pretty incoherent.)

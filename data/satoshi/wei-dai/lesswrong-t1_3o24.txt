@@ -1,0 +1,5 @@
+&gt;(2) the mainstream community has not caught up with SIAI's advances because SIAI has not shared them with anyone - at least not in their language, in their journals, to their expectations of clarity and style.
+
+Are you sure that's the problem? The fact that SIAI wants to build Friendly AI has been [mentioned](http://www.time.com/time/printout/0,8816,2048138,00.html) in Time magazine and such places. Surely if mainstream machine ethicists read those stories, they would be as curious as anyone else what SIAI means by "Friendly AI", which ought to start a chain of events eventually leading to them learning about SIAI's ideas. 
+
+I mean, if you were a mainstream machine ethicist, and you read that or a similar article, wouldn't you be curious enough to not let language/journals/etc. stop you from finding out what this "institute" is talking about?

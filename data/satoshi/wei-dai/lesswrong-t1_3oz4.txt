@@ -1,0 +1,1 @@
+Start the AI in a sandbox universe, like the "game of life". Give it a prior saying that universe is the only one that exists (no universal priors plz), and a utility function that tells it to spell out the answer to some formally specified question in some predefined spot within the universe. Run for many cycles, stop, inspect the answer.

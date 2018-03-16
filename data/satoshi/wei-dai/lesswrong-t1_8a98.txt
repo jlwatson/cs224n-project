@@ -1,0 +1,7 @@
+Ah yes, this is clear to me.
+
+Now, if we have a prior over the possible sets of lotteries you'll be presented with, then for each decision procedure and each utility function, we have the expected utility given that you follow that decision procedure. These expected utilities give us a new sense of Pareto optimality: A non-optimizing decision procedure that is Pareto-optimal in your sense will not be Pareto-optimal with respect to these expected utilities.
+
+So, Pareto-optimal decision procedure is not equivalent to utility weighting, but Pareto-optimal (decision-procedure + prior) is equivalent to utility weighting.
+
+The complete class theorem gives a reason for having a prior, but it assumes that you're an optimizer :)

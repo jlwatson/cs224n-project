@@ -1,0 +1,17 @@
+&gt; An FAI would have some security advantages. It can achieve physical security by taking over the world and virtualizing everyone else
+
+That is your exact wording.  Not "In the event that the AGI determines that it's safe to [euphemism for doing something that could mean killing the entire human race] because there are software copies." or "if virtualizing is safe..."
+
+Even if your wording was that, I'd still disagree with it.
+
+I thought the most important reason to do friendliness research was to give the AGI what it needs to avoid making decisions that could kill all of humanity.  It is humanity's responsibility to dictate what should happen in this case and ensure that the AGI understands enough to choose the option we dictate.  If you aren't in favor of micromanaging the millions of tiny ethical decisions it will have to make like exactly how many months to put a lawbreaker in jail, that's one thing.  If you aren't in favor of making sure it decides correctly on issues that could kill all of humanity, that's negligent beyond imagining.  If you are aware of a decision that an AGI could make that could kill all of humanity, and you are in favor of creating an AGI that hasn't been given guidance on that issue, then you're in favor of creating a very dangerous AGI.  
+
+Advocating for an AGI that *will* kill all of humanity vs. advocating for an AGI that *could* kill all of humanity is a variation on "advocating violence" (it's advocating possible violence) but, to me, it's no different from saying:  "I'm going to put one bullet in my gun, aim at so-and-so, and pull the trigger!" - Just because the likelihood of killing so-and-so is reduced to 1 in 6 from what's more or less a certainty does not mean it's not a murder threat.  
+
+Likewise, adding the word "possibly" into a sentence that would otherwise break the censorship policy is a cheap way of trying to get through the filter.  That should not work.  "We should possibly go on a killing rampage." - no.
+
+What's most alarming is that you've done work for SIAI.
+
+The whole point of SIAI is *not* to go "Let's let the AGI decide what is ethical" but "Let's iron out all the ethical problems *before* making an AGI!"
+
+If Eliezer doesn't want to look bad, he should consider this.

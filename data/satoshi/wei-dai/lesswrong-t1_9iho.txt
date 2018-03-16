@@ -1,0 +1,10 @@
+A non-exhaustive list of some reasons why I strongly disagree with this combination of views:
+
+* AI which is not vastly superhuman can be restrained from crime, because humans can be so restrained, and with AI designers have the benefits of the ability to alter the mind's parameters (desires, intuitions, capability for action, duration of extended thought, etc) inhibitions, test copies in detail, read out its internal states, and so on, making the problem vastly easier (although control may need to be tight if one is holding back an intelligence explosion while this is going on)
+* If 10-50 humans can solve AI safety (and build AGI!) in less than 50 years, then 100-500 not very superhuman AIs at 1200x speedup should be able to do so in less than a month
+* There are a variety of mechanisms by which humans could monitor, test, and verify the work conducted by such systems
+* The AIs can also work on incremental improvements to the control mechanisms being used initially, with steady progress allowing greater AI capabilities to develop better safety measures, until one approaches perfect safety
+* If a small group can solve all the relevant problems over a few decades, then probably a large portion of the AI community (and beyond) can solve the problems in a fraction of the time if mobilized
+* As AI becomes visibly closer such mobilization becomes more likely
+* Developments in other fields may make things much easier: better forecasting, cognitive enhancement, global governance, brain emulations coming first, global peace/governance
+* The broad shape of AI risk is known and considered much more widely than MIRI: people like Bill Gates and Peter Norvig consider it, but think that acting on it now is premature; if they saw AGI as close, or were creating it themselves, they would attend to the control problems

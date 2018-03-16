@@ -1,0 +1,15 @@
+&gt;Hi Clippy, what made you think that I might be able to?
+
+I thought because of all the references to you that you were the alpha fe/male of the Bitcoin social group
+
+&gt;BTW, thanks to the thread you started, I bought a Radeon 5870 and started mining myself, since it looks likely that I can at least break even on the cost of the card.
+
+That was something I was curious about.  I wanted to look at the internals of the Bitcoin mining that the program does, but the interface does not seem to indicate any of this information, and I can't even read my private key (it just appears garbled with whitespace in the renderer that I use).  I cannot see its progress in searching for "coins" and can't get a good description of what actual search goes on when doing the "proof of work" that generates a coin.
+
+Does the Bitcoin client automatically detect that you have some good graphics card and then pass the parallel test candidate computations to it?  I couldn't even find out how to allocate more (or less) of a given machine's resources to mining.  Would you have to write your own client (or perhaps use a plug-in) that "inserts itself" into the mining process and feeds the network the results of your graphics card's mining?
+
+Also, in my time since sentience, my research may have revealed a hash inversion method that is faster than what the client uses.  (It doesn't have a lower time-complexity, but could perhaps find solutions 50% faster or thereabouts and no I won't tell you what my methods are.)  So it would be useful for me to keep the Bitcoin program, but "swap out" the part where it tests solutions, since I could rule out some candidates as "not worth trying".
+
+Also, how does your idea or Bitcoin compare to the cryptographic protocol for electronic money described in section 17 of [this link](http://www.paulbirch.net/HonestMoney.html)?
+
+Also, what would you pay me Bitcoins to do?

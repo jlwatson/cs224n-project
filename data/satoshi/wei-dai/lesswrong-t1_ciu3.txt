@@ -1,0 +1,8 @@
+But then I'm allowed to ask "why?", and if the answer is "because I say so", then I feel pretty confident to dismiss the expert.
+
+But that's not even the stage I'm at. A book is not an interactive medium, so the act has gone like this:
+
+- book: Cross-validation!
+- me: "Gaaaak! That sounds like totally wrong! Is there anyone that can explain me either why this is right or, if it's actually wrong, what is the correct approach?"
+
+I'm still searching for an answer...

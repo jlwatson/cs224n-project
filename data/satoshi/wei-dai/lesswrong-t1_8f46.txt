@@ -1,0 +1,5 @@
+Not all infinite expectations can be compared (I believe) but there's lots of reasonable ways that one can say that one is better than another. I've been working on this at the FHI, but let it slide as other things became more important.
+
+One easy comparison device: if X and Y are random variables, you can often calculate the mean of X-Y using the Cauchy principal value (http://en.wikipedia.org/wiki/Cauchy_principal_value). If this is positive, then Y is better than X.
+
+This gives a partial ordering on the space of distributions, so one can always climb higher within this partial ordering.

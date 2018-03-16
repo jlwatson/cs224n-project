@@ -1,0 +1,3 @@
+Much of SIAI's research ([Carl Shulman's](http://lesswrong.com/r/discussion/lw/7ob/timeline_of_carl_shulman_publications/) in particular) are focused not directly on FAI but more generally on better understanding the dynamics of various scenarios that could lead to a Singularity. Such research could help us realize a positive Singularity through means other than directly building an FAI.
+
+Does SIAI have any plans to expand such research activities, either in house, or by academia or independent researchers? (If not, why?)

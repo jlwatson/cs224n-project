@@ -1,0 +1,9 @@
+&gt; So, my impression is that you and Eliezer have different views of this matter. My impression is that Eliezer's goal is for SIAI to actually build an AGI unilaterally.
+
+Still, build AGI *eventually*, and not now. Expertise in AI/AGI is of low relevance at present.
+
+&gt; It seems much more feasible to develop a definition of friendliness and then get governments to mandate that it be implemented in any AI or something like that.
+
+It seems obviously infeasible to me that governments will chance upon this level of rationality. Also, we are clearly not on the same page if you say things like "implement in any AI". Friendliness is not to be "installed in AIs", Friendliness is the AI (modulo initial optimizations necessary to get the algorithm going and self-optimizing, however fast or slow that's possible). The AGI part of FAI is exclusively about optimizing the definition of Friendliness (as an algorithm), not about building individual AIs with standardized goals.
+
+See also [this post](http://causalityrelay.wordpress.com/2010/01/24/fai-vector-for-human-preference/) for a longer explanation of why weak-minded AIs are not fit to carry the definition of Friendliness. In short, such AIs are (in principle) as much an existential danger as human AI researchers.

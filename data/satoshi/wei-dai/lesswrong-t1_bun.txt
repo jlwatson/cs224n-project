@@ -1,0 +1,3 @@
+Suppose someone offered you a bet on P = NP. How should you go about deciding whether or not to take it?
+
+Does it make sense to assign probabilities to unproved mathematical conjectures? If so, what is the probability of P = NP? How should we compute this probability, given what we know so far about the problem? If the answer is no, what is a rational way to deal with mathematical uncertainty?

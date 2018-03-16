@@ -1,0 +1,5 @@
+No fact alone can imply anything: true and important.  For example, a description of my brain at the neuronal level does not imply that I'm awake.  To get the implication, we need to add a definition (or at least some rule) of "awake" in neuronal terms.  And this definition will **not** capture the **meaning** of "awake."  We could ask, "given that a brain is &lt;insert neuronal definition here&gt;, is it awake?" and intuition will tell us that it is an open question.
+
+But that is beside the point, if what we want to know is whether the definition succeeds.  The definition does not have to capture the *meaning* of "awake".  It only needs to get the reference correct.
+
+Reduction doesn't typically involve capturing the meaning of the reduced terms - Is the (meta)ethical case special?  If so, why and how?

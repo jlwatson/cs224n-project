@@ -1,0 +1,5 @@
+You seem to be calling it "incorrect" if I say that "X = Y" when X is only approximately equal to Y. Obviously you're right in a literal sense, but it's an inappropriate criticism in this context. 
+
+"Suspect and victim are acquaintances" here is essentially the same event as "Knox's roommate was killed" -- something which significantly raises the prior probability that Knox committed murder. However, once we learn the details of the case, we find that the killing is entirely explained by the actions of Guede. ("Entirely" here is to be understood in an approximative sense.) 
+
+While it is perhaps true, using your labels above, that P(A|E&amp;D) &gt; P(A|E&amp;~D), the difference between these quantities is surely very small compared to the difference between P(A|D) and P(A|E&amp;D).

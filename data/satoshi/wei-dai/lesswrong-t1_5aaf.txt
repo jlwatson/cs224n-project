@@ -1,0 +1,3 @@
+Why does AIXI refuse to pay in CM? I'm not sure how to reason about the way AIXI solves its problems, and updating on statement of the problem is something that needed to be stipulated away even for the more transparent decision processes. 
+
+There is possibly a CM variant whose analysis by AIXI can be made sense of, but it's not clear to me.

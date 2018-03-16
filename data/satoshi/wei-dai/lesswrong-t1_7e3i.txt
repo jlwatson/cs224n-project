@@ -1,0 +1,6 @@
+    def SlowCooperateBot(X):
+    - if 2+2=3 is provable in PA+1:
+    - - return D
+    - else return C
+
+It looks to me like OpportunisticBot cooperates with SlowCooperateBot, simply because the latter takes too long to be shown a cooperator, while Masquerade rightly defects against it.

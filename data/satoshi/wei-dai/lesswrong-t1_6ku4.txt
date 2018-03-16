@@ -1,0 +1,5 @@
+&gt; you periodically take neuroimaging scans of your brain and save them to multiple backup locations (1010 bits is only about 1 gigabyte)
+
+I think I understand but I'm lost as to why that 10^10 is showing up here. Wouldn't it be whatever the scan happens to be rather than a reference to the compressed size of a human's unique experiences? We might plausibly have a 10^18 scan that is detailed in the wrong ways (like it carries 1024 bits per voxel of color channel info :p).
+
+eta: In case it's not clear, I can't actually help you answer the question of just how useful a scan is.

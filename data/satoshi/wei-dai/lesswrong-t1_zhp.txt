@@ -1,0 +1,5 @@
+Thanks for the encouragement! Although if people started solving problems in a similar vein and wrote them up, that would be nicer still. :-)
+
+The NTU case doesn't look clear-cut at all, thanks to the PDFs you gave me; most likely there will be multiple Pareto-optimal equilibria with no clear way to tell which is "better". The general case of incomplete information also looks bewilderingly hard; I don't even understand what "equilibrium" means in this context. If I work something out, I will surely post it.
+
+Also very curious about Nesov's approach, but he has told me mutiple times that there's nothing to write up mathematically yet.

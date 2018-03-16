@@ -1,0 +1,6 @@
+I'm still [confused](http://lesswrong.com/lw/6r6/tendencies_in_reflective_equilibrium/4jgm) about what point Yvain might be making by substituting "tendency" for "intuition" in this formulation of reflective equilibrium. I can think of two possibilities, but neither of them seems like something he might endorse.
+
+1. When we reflect on what we really want, we should take into consideration not just our intuitions, but our behavioral tendencies. (But Yvain previously wrote "NO NEGOTIATION WITH UNCONSCIOUS".)
+2. After we've reached reflective equilibrium, our behavioral tendencies can be said to be our preferences. (But suppose I have a tendency to reflexively slap myself whenever I see the color red. After reflecting on it, I decided this is not something I should do, but I have no power to actually edit the reflex away. Based on what Yvain wrote in The Blue-Minimizing Robot, I don't think he would say that I actually do prefer to slap myself (or have myself slapped) whenever the color red is in my field of vision.)
+
+The only other explanation I have is that Yvain has gotten used to writing "tendency" for his other recent posts, and kept using it even when it no longer makes sense to. Does anyone else have other ideas?

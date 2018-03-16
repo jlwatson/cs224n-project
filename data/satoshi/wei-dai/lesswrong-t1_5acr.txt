@@ -1,0 +1,7 @@
+Have you considered evolution? This may be relevant to human selfishness. If there are n agents that have a chance of dying or reproducing (for argument's sake, each reproduction creates a single descendant, and the original agent dies immediately, so as to avoid kin-altruism issues - ie everyone is a [phoenix](http://en.wikipedia.org/wiki/Phoenix_(mythology)) ).
+
+Then each agent has the ability to dedicate a certain amount of effort to increasing or decreasing their own, or the other agent's, chances of survival (assume they are equally skilled at affecting anyone's chances). The agents don't interact in any other way, and have no goals. We start them off with a lot of different algorithms to make their decisions.
+
+Then after running the system through a few reproductive cycles, the surviving agents will be the ones who either increase their own survival chances entirely (selfish agents) or a few small groups that boost each other's chances.
+
+But unless the agents in the small group are running complicated altruistic algorithms, the groups will be unstable: when one of them dies, the strategy they are following will be less optimal. And if there is any noise or imperfection in the system (you don't know for sure who you're helping, or you're less good at helping other agents than yourself), the groups will also decay, leaving only the selfish agents.

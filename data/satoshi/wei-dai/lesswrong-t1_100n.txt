@@ -1,0 +1,9 @@
+Good catch. To tell the truth, I didn't even think about mixing strategies in G\_M and G\_S, only playing deterministically and purely "on top of" mixed strategies in G. When we add mixing, G\_S does turn out to be stronger than G\_M due to correlated play; your construction is very nice.
+
+Your final result is correct, here's a proof:
+
+1) Any Nash equilibrium of G\_S or "new" G\_M plays a correlated strategy profile of G (by definition of correlated strategy profile, it's broad enough) that on average gives each player no less than their security value (otherwise they'd switch).
+
+2) Any such "good" profile can be implemented as a Nash equilibrium of G\_S in mixed strategies, using your construction above and the usual method of punishment by security level. If all of the enemy's strategies are quine-compatible with yours, the profile gets played exactly thanks to the niceties of your construction. If any small part of his strategies are incompatible with yours, that's enough to bring him down on average.
+
+3) For "new" G\_M you just submit the profile and the punishment fallback. So "new" G\_M doesn't actually need mixed strategies, our latest deus ex machina is too strong.

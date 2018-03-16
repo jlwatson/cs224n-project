@@ -1,0 +1,5 @@
+To clarify, the claim is not "all agents should prefer wireheading" or "humans should have wireheading-compatible values", but "if an agent has this set of values and this decision algorithm, then it should wirehead", with humans being such an agent. The wireheading argument does not propose that humans change their values, but that wireheading actually is a good fulfillment of their existent values (despite seeming objections). That's as much a factual claim as evolution.
+
+The reason I don't easily expect rational disagreement is that I expect a) all humans to have the same decision algorithm and b) terminal values are simple and essentially hard-coded.
+
+b) might be false, but then I don't see a realistic mechanism how they got there in the first place. What's the evolutionary advantage of an agent that has highly volatile terminal values and can easily be hijacked, or relies on fairly advanced circuitry to even do value calculations?

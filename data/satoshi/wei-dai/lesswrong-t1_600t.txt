@@ -1,0 +1,11 @@
+&gt;I don't understand why you say that. Wouldn't safety-oriented WBE projects have greater requirements for neuroimaging? As I mentioned before, pushing neuroimaging now reduces the likelihood that by the time cell modeling and computing hardware let us do brain-like simulations, neuroimaging isn't ready for hi-fi scanning so the only projects that can proceed will be lo-fi simulations.
+
+In the race to first AI/WBE, developing a technology privately gives the developer a speed advantage, ceteris paribus. The demand for hi-fi WBE rather than lo-fi WBE or brain-inspired AI is a disadvantage, which could be somewhat reduced with varying technological ensembles.
+
+&gt;For example, suppose pushing decision theory raises the probability of FAI to 10x (compared to not pushing decision theory), and the probability of UFAI to 1.1x, but the base probability of FAI is too small for pushing decision theory to be a net benefit. 
+
+As I said earlier, if you think there is ~0 chance of an FAI research program leading to safe AI, and that decision theory of the sort folk have been working on plays a central role in AI (a 10% bonus would be pretty central), you would come to different conclusions re the tradeoffs on decision theory. Using the Socratic method to reconstruct standard WBE analysis, which I think we are both already familiar with, is a red herring.
+
+&gt;I certainly agree with that, but I don't understand why SIAI isn't demanding a similar level of analysis before pushing decision theory.
+
+Most have seemed to think that decision theory is a very small piece of the AGI picture. I suggest further hashing out your reasons for your estimate with the other decision theory folk in the research group and Eliezer.

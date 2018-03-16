@@ -1,0 +1,1 @@
+Only a very rough one, I'm afraid. The number n1 is chosen to "contain" the blow-up from the short proof of 10 to the proof of 11, which grows with the computational complexities of n1,...,nmax, not their values. These computational complexities can be made way smaller than n1.

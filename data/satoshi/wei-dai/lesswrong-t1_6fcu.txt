@@ -1,0 +1,46 @@
+The general scenario plays out rather frequently and the game-theoretic incentives are of interest to me (far more so than the specifics of to just what degree Wei\_Dai should be honored as a universal role model.) Let me see if I can explain clearly, at least for the specific variant encountered a couple of ancestors up.
+
+Background preferences:
+
+* Being downvoted - and in particular the social opposition that represents - is an undesirable thing. It induces negative affect and I take (and reflectively endorse myself taking) actions to minimise this.
+* The aversion I feel (and endorse feeling) for a given instance of being downvoted or subject to verbal social aggression varies greatly depending on context. Not all downvotes are equal.
+* Being downvoted for expressing a position that would reflect negatively on a user with many allies is a minor cost. Not only is expected it is behavior I endorse as [the right thing for them to do](http://lesswrong.com/lw/bdo/rationality_quotes_april_2012/6ey8), except in as much as it is based on false premises. That is the error in judgement on the behalf of the voters is in not believing that the expressed position is valid.
+* More broadly than the above, being downvoted for things that I want to do is a moderate-to-low cost. I am being opposed but I am in essence paying for the opportunity to seek a goal that I desire and endorse.
+* Being punished for answering a question for the sake of someone else's interest is a major cost. I find it highly unpleasant to be punished for doing something I did only out of courtesy. The verbal string provoked in my mind tends to include the phrase "Fuck That!" The aversion to being in such circumstances is high and represents my instincts rightly telling me that my behavior was naive. Following someone else's frame when to do so is to self-sabotage - to be baited into an intentional or unintentional trap - is a gross social blunder.
+* All else being equal I love to answer the questions of others and in general to assist them in understanding me or, for that matter, assist them in just about anything.
+
+With that in mind consider my incentives [at this point](http://lesswrong.com/lw/btc/how_can_we_get_more_and_better_lw_contrarians/6f5q):
+
+* It was my judgement that I would certainly be downvoted and possibly sniped for just about any reply I gave (short of being blatantly dishonest by making some sort of retraction.) Voting responses in such situations are just political - the aforementioned social alliances dictate that my comments in the thread would be systematically downvoted to a more or less uniform degree based on how many people are on the 'blue' side. I can accept that.
+* Following your frame, answering your question would result in penalties - the same penalties I would get if I was actually trying to achieve my own goal. I've mentioned how much I dislike being in such situations and that I consider walking into them to be an inexcusable social blunder.
+* In such context a non-reply isn't about you, the person being ignored. It doesn't mean that the question is considered disingenuous or manipulative (although in other cases - not this one - it often is). It doesn't mean that there is any assumption that the situation is transparent. It doesn't mean that there is no desire to accede to your wishes and give you an answer. What it is about is the incentives implied by the predicted behavior of your allies.
+
+&gt; I'm afraid you're either having an illusion of transparency (i.e., the thing you believe to be obvious is entirely unclear to others), or perhaps just making up excuses to avoid admitting an error.
+
+I hope the above gives you an alternative understanding to 'transparency' issues. I further hope you understand that if you had not at least couched the latter option with at least a somewhat less dire dichotomous option as the alternative that I would have taken a rather significant degree of offense, in accordance to the social implications of underlying the move.
+
+&gt; Or are you objecting to the fact that I used the word "deserve" while asking for such an example, and "detrimental" refers to the possibility of encouraging such thinking and/or language in the future?
+
+This applies to a certain extent. The 'deserve' claim applied to the desire of someone to that another voluntarily does something that amounts to self-sabotage requires a high degree of endorsement before I will refrain from expressing an objection to it - regardless of whether it is directed at myself.
+
+&gt; But I only used the word after you refused my first request for an example. Why did you refuse that one?
+
+I gave you an answer, when I had the option of simply ignoring your comment. It consisted of giving the clear option to dismiss my objection to David\_Gerard as merely different subjective preferences about how people should interact socially while giving a clear social cue that I didn't want to go looking up ancient history. As a general rule we should not expect others to exactly follow the instructions we give them regarding what to speak on and it is discourteous to try to press them to do so. ([See also](http://lesswrong.com/lw/btc/how_can_we_get_more_and_better_lw_contrarians/6eme?context=3).) This isn't to say that it is always necessarily inappropriate for you to so but it does mean that the nature of the interaction moves from being a request to a coercion via the manipulation of perceptions within the social environment. Your expectation of getting an answer should move from being based on expectations of goodwill toward how effectively you can apply social force in the context.
+
+As for the reasons I didn't directly respond with a link or detailed description:
+* See my several previous mentions of the difference between desiring to bring up specific history from multiple years ago to the desire to insist that general claims of your wonderfully consistent tone be tempered. But mostly:
+* When you executed the behaviors that you did you (probably) considered them the right thing to do. I didn't and don't. I did not wish to create a battle about whether said responses are right or wrong. Hence giving a pre-emptive and lite version of a 'lets agree that we will probably disagree'.
+* Frankly, it's a lot of work both in terms of time and emotional effort to dredge up details of past conflicts.
+* It is almost certain that we are already talking about the same incident (and month or so of context) but that we recall vastly different salient features.
+
+By way of elaboration of the final point and also in answer to the question you have been asking, I refer to a case where you made false, highly personal and significant accusations regarding my nature and motives and backed it up by taking unrelated expressions of mine completely out of context, complete with links. A (yes) 'flagrant' and unacceptable attempt to do reputation damage against a target - a violation that both includes and exceeds that of mere 'tone'. This is was prompted by a disagreement with you regarding your post saying that lesswrong is biased because we didn't support a post by a (high status) outsider making, if I recall, claims about how clearly guilty Amanda Knox was.
+
+I have commented on how ironic it is that of all the hundreds of social attacks I've endured on lesswrong - from vulgar name calling through denigration of my intellect or 'rationality' and even somehow to 'fanboy' - the most vicious and memorable attack has been by Wei\_Dai, a user who is usually well be behaved and is universally respected. 'Universally respected' includes my own respect for the intellectual contributions you have made via object level posts.
+
+The above is my best attempt to answer the question directly and is approximately what I had mentally rehearsed prior to the negative incentives prompting me to abort the reply. I don't expect you agree with my evaluation. I don't expect you like hearing it. While my decision to not directly answer the question (until now) was not based on how it effects you, do you really think it would have been better for me to say the above than to dodge with "we probably think different things are ok"?
+
+&gt; ETA: Just saw Tyrrell's sibling comment, and I guess this whole incident could be explained by the fact that I think the norm suggested by Tyrrell already exists whereas you don't. Can you confirm that's what's going on?
+
+Maybe somewhat. I accept a norm that all else being equal answering people's questions is desirable. A significant issue is that to the extent that Tyrrell's norm exists it is negatively enforced. By which I mean effective punishment of 'norm violaters', assuming said norm, has a sign bit that points in the wrong direction.
+
+If people *punish you* for what they would advocate as 'the right thing to do' then *don't do it*. 

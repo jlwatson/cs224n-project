@@ -1,0 +1,11 @@
+&gt; Have you considered that you may be spending a lot of time writing up a problem that has already been solved, and should spend a bit more time checking whether this is the case, before going much further on your path? 
+
+Yes! If UDT solves this problem, that's extremely good news. I mention the possibility [here](http://lesswrong.com/lw/jiu/can_we_do_without_bridge_hypotheses). Unfortunately, I (and several others) don't understand UDT well enough to tease out all the pros and cons of this approach. It might take a workshop to build a full consensus about whether it solves the problem, as opposed to just reframing it in new terms. (And, if it's a reframing, how much it deepens our understanding.)
+
+Part of the goal of this sequence is to put introductory material about this problem in a single place, to get new workshop attendees and LWers on the same page faster. A lot of people are already familiar with these problems and have made important progress on them, but the opening moves are still scattered about in blog comments, private e-mails, wiki pages, etc.
+
+It would be very valuable to pin down concrete examples of how UDT agents behave better than AIXI. (That may be easier after my next post, which goes into more detail about how and why AIXI misbehaves.) Even people who aren't completely on board with UDT itself should be very excited about the possibility of showing that AIXI not only runs into a problem, but runs into a formally *solvable* problem. That makes for a much stronger case.
+
+&gt; But these seem to be two instances of the same general problem, and it seems like an AGI problem rather than an FAI problem -- if you don't know how to do this, then you can't use math to make predictions about physical systems, which makes it hard to be generally intelligent.
+
+Goal stability looks like an 'AGI problem' in the sense that nearly all superintelligences converge on stable goals, but in practice it's an FAI problem because a UFAI's method of becoming stable is probably very different from an FAI's method of being stable. Naturalized induction is an FAI problem in the same way; it would get solved by an UFAI, but that doesn't help us (especially since the UFAI's methods, even if we knew them, might not generalize well to clean, transparent architectures).

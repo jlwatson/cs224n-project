@@ -1,0 +1,5 @@
+Thanks for writing this, I found it helpful for understanding the motivation behind Benja's proposal and to develop some intuitions about it. I'd like to see some explanation of how statements involving quantifiers are supposed to work in the proposal. Here's my understanding, and please let me know if it's correct.
+
+A statement with a "for all" quantifier is also supposed to start with 1/2 probability. Consider "For all X, Q(X)" for some equation Q. This implies Q(0) and Q(1), etc., each of which also starts with 1/2 probability. What happens as the robot proves individual implications of the form "(For all X, Q(X)) implies Q(0)"? The probability of the quantified statement is reduced by half each time. Proving that individual statements like Q(0) are true can only bring the probability of the quantified statement back up to 1/2 but not above that.
+
+Since proving Q(i) tends to be harder (take longer) than proving "(For all X, Q(X)) implies Q(i)", probability of the quantified statement goes to 0 as we increase the time/length limit even if all of the individual Q(i) are provable. This doesn't seem to be desirable, if my understanding is correct.

@@ -1,0 +1,3 @@
+I think I'm missing something.  What is the motivation for this post?  Does it fit into the context of some larger discussion, or are these just meant as isolated thoughts?  
+
+(It sounds like maybe you're trying to contrast what you see as the mainstream CS perspective from some other view -- one advocated on LessWrong perhaps?  But I'm not sure exactly what view that would be.)
