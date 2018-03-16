@@ -4,6 +4,7 @@ from keras.layers import Dense, Embedding
 from keras.layers import LSTM
 from keras.preprocessing.text import Tokenizer
 from keras import utils
+from keras.callbacks import ModelCheckpoint
 
 import numpy as np
 import matplotlib.pyplot as plt
@@ -12,6 +13,7 @@ import os
 import glob
 import random
 import itertools
+import argparse
 
 from utils import plot_confusion_matrix, get_split
 from sklearn.metrics import confusion_matrix
@@ -20,9 +22,14 @@ BATCH_SIZE = 32
 TRAIN_EPOCHS = 15
 MIN_SEQUENCE_LEN = 10
 MAX_SEQUENCE_LEN = 200
+WEIGHTS_FILE = "results/satoshi-weights.hdf5"
 CANDIDATES = ["gavin-andresen", "hal-finney", "jed-mccaleb", "nick-szabo", "roger-ver", "dorian-nakamoto"]
 
 if __name__ == "__main__":
+    parser = argparse.ArgumentParser()
+    parser.add_argument('--skip-training', help='Skip training.', action='store_true')
+    args = parser.parse_args()
+
     print("======= Loading in Texts =======")
     texts = []
     texts_by_candidate = {}
@@ -95,11 +102,18 @@ if __name__ == "__main__":
                   optimizer='adam',
                   metrics=['accuracy'])
 
-    print('Train...')
-    model.fit(x_train, y_train,
-              batch_size=BATCH_SIZE,
-              epochs=TRAIN_EPOCHS,
-              validation_data=(x_val, y_val))
+    if os.path.isfile(WEIGHTS_FILE):
+        model.load_weights(WEIGHTS_FILE)
+
+    if not args.skip_training:
+        print('======= Training Network =======')
+        checkpointer = ModelCheckpoint(monitor='val_loss', filepath=WEIGHTS_FILE, verbose=1,
+            save_best_only=True, mode='min')
+        model.fit(x_train, y_train,
+                  batch_size=BATCH_SIZE,
+                  epochs=TRAIN_EPOCHS,
+                  validation_data=(x_val, y_val),
+                  callbacks=[checkpointer])
 
     score, acc = model.evaluate(x_test, y_test,
                                 batch_size=BATCH_SIZE)
@@ -111,14 +125,15 @@ if __name__ == "__main__":
     cnf_matrix = confusion_matrix(truth, pred)
     plot_confusion_matrix(cnf_matrix, classes=CANDIDATES, normalize=True,
                           title='Confusion Matrix')
-    plt.savefig('satoshi-confusion-matrix.png')
+    plt.savefig('results/satoshi-confusion-matrix.png')
 
     print("======= Testing Satoshi Writings =======")
     satoshi_seqs = tokenizer.texts_to_sequences(t for t, p in texts_by_candidate['satoshi-nakamoto'])
     paths = [p for t, p in texts_by_candidate['satoshi-nakamoto']]
     padded = sequence.pad_sequences(satoshi_seqs)
-    pred = np.argmax(model.predict(padded, batch_size=BATCH_SIZE), axis=1)
-    with open("satoshi-results.txt", "w") as f:
+    scores = model.predict(padded, batch_size=BATCH_SIZE)
+    pred = np.argmax(scores, axis=1)
+    with open("results/satoshi-results.txt", "w") as f:
         for i, c in enumerate(pred):
-            f.write(os.path.basename(paths[i]) + "\t" + CANDIDATES[c])
+            f.write(os.path.basename(paths[i]) + "\t" + CANDIDATES[c] + "\t" + str(scores[i]))
             f.write('\n')
