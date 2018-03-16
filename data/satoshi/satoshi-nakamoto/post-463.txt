@@ -9,8 +9,6 @@ four functions that interface from the node to the UI. In the bitcoind build,
 we don't link ui.o or uibase.o.  
   
 
-It started increasing right away. I'll see if valgrind can help me.  
-
 Sure feels like it could be something in wxWidgets retrying endlessly because
 some UI thing failed or something wasn't inited correctly. Our hack to ignore
 the initialize failure and run anyway means we're in uncharted territory.

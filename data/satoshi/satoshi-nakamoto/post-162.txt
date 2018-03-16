@@ -1,13 +1,3 @@
-
-
-Most people running clients are not reading this message thread. So... Silly
-questions:  
-  
-1) How will this continue to affect version 3.8.1 (pre-catastrophe) clients
-with bad block chain?  
-2) How will this affect clients that upgrade to 3.8.10 but don't remove their
-block chain files?  
-
 1) Once more than 50% of the node power is upgraded and the good chain
 overtakes the bad, the 0.3.10 nodes will make it hard for any bad transactions
 to get any confirmations.  

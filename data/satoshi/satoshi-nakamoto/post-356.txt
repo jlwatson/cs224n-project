@@ -1,7 +1,3 @@
-
-
-So if your computer was only 1% towards solving block 68000
-
 This is a common point of confusion. There's no such thing as being 1% towards
 solving a block. You don't make progress towards solving it. After working on
 it for 24 hours, your chances of solving it are equal to what your chances

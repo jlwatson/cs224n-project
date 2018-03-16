@@ -16,11 +16,6 @@ still need a substantial portion of the network's power to benefit from a DoS
 attack.  
   
 
-Bitcoin's p2p network is subject to various kinds of denial of service
-attacks.  
-  
-There, I said it.  
-
 +1  
   
 Any demonstration tests at this point would only show what we already know,

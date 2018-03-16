@@ -4,9 +4,6 @@ Right, the SVN has the almost-release-candidate 0.2 source, which can also be
 built and run on Linux. It hasn't been tested on FreeBSD.  
   
 
-If we can get to the point where we have a working backend process that will
-run on FreeBSD I can run always-on seeds.  
-
 That would be a big help. TOR users wouldn't have to worry about how to get
 seeded, and we wouldn't depend on IRC.  
   
@@ -31,22 +28,10 @@ wallet.dat: if you happened to kill the program at the exact moment that it
 generated a coin or received a payment, wallet.dat might not work by itself
 and you'd have to copy the whole directory.  
   
-
-I really think that having the download package contain a daily seed snapshot
-will improve the bootstrapping. I have seen instances on new test installs
-here where the application will sit with 0 connections / 1 block. Upon
-inspecting the debug.log I find that the IRC server (freenode, I believe)
-claims I am already connected and refuses to let me seed the application.
-(Just an example).  
-
 I see, that would happen with multiple nodes using the same NAT or VPN or some
 ISP that funnels everyone through a few proxy servers. I just committed a fix
 to SVN for this. If it gets "433" name already in use (it was error 433,
 right?), it'll retry with a non-address random username.  
   
-
-In any event, I would like to help. I have a lot of time and a project like
-this one is very exciting.  
-
 That's great, any help is really appreciated!  
 

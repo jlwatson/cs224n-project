@@ -1,14 +1,5 @@
-
-
-Does the sending client send more BitCoins to account for the fee (so the
-recipient gets what he's expecting)?  
-
 Yes.  
   
-
-why do we even need fees ? i thougt the no-fees-feature was one of the
-advantages of bitcoin ?!  
-
 Almost all transactions are free. A transaction is over the maximum size limit
 if it has to add up more than 500 of the largest payments you've received to
 make up the amount. A transaction over the size limit can still be sent if a

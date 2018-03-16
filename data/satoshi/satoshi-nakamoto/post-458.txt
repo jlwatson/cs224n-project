@@ -1,8 +1,3 @@
-
-
-How about an SVG version? That way we could automatically generate smaller and
-larger versions as needed.  
-
 I don't know how to do SVG, but I did the original very large, over 500 pixels
 across, so it can be scaled down. I'll give the original when I'm finished.  
   

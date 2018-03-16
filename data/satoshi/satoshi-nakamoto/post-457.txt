@@ -1,8 +1,3 @@
-
-
-Looking through the source of 2.8.10 it appears that _unicode_ is possible
-with that version too.  
-
 In the Windows world, "unicode" means UTF-16 (wchar).  
   
 2.8 has two build variations, ANSI and UTF-16 (unicode). The UTF-16 version is

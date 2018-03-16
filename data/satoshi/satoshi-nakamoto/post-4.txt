@@ -7,11 +7,6 @@ DNS. And CA problem solved, neat.
 3) Expiration and significant renewal costs, very important.  
   
 
-However, thinking more about this now I support inclusion of additional
-coinbases / tracking systems in the main network. The reason for doing this is
-so as not to water down CPU power into multiple networks. We want one strong
-network, so the network should be versatile.  
-
 Avoiding CPU power fragmentation is no longer a reason. Independent
 networks/chains can share CPU power without sharing much else. See:
 http://bitcointalk.org/index.php?topic=1790.msg28696#msg28696 and

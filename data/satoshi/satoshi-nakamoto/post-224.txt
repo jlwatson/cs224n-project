@@ -1,9 +1,3 @@
-
-
-Payments would generally be advanced, say 1 BTC at a time and when the
-connection closes any "change" would be returned. This rule makes it
-impossible to pay for a simple "search query" with no further transactions.  
-
 One alternative is to use a round-up system. You pay for, say, 1000 pages or
 images or downloads or searches or whatever at a time. When you've used up
 your 1000 pages, you pay for another 1000 pages. If you only use 1 page, then

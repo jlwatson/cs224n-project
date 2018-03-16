@@ -1,9 +1,3 @@
-
-
-1\. Download site like rapidshare and other crappy host. Inconvenient captcha
-and required paypal. Bitcoin can possibly take both roles and streamline the
-whole process.  
-
 Repeating myself here, but there is open source software for that, so it would
 just be a matter of bolting on a Bitcoin payment mechanism. One good one I
 found was Mihalism Multi Host. It's designed as a free host, so it would just

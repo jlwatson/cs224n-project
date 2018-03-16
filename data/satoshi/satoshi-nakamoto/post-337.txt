@@ -1,7 +1,3 @@
-
-
-in 120DPI mode.  
-
 What is "120DPI mode"? Is that an actual setting somewhere? Sounds like an
 obscure enough candidate. I suppose it needs twice the resolution icon to fill
 the size of the upper left corner icon. Only one size is provided.

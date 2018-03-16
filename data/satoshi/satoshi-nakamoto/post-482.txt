@@ -1,14 +1,6 @@
-
-
-. Perhaps it has to do with my connection's very high latency (2000ms or more
-on average)  
-
 2 seconds of latency in both directions should reduce your generation success
 by less than 1%.  
   
-
-and/or my high packet loss (sometimes up to 10% loss)?  
-
 Probably OK, but I'm not sure. The protocol is designed to resync to the next
 message, and messages get re-requested from all the other nodes you're
 connected to until received. If you miss a block, it'll also keep requesting

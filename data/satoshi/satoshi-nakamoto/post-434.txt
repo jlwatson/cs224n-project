@@ -1,9 +1,3 @@
-
-
-An optional parameter to specify the minimum number of blocks after that
-transaction (getallreceived 1 for current behavior, or just getallreceived,
-getallreceived 5 for the paranoid, getallreceived 0 for instant confirms)?  
-
 Yeah, that actually is what it is. getallreceived 0 should do what you want.
 (now it's renamed to listreceivedbyaddress 0) The default is 1 confirmation,
 but I think in reality most digital goods and services can be 0 confirmations.

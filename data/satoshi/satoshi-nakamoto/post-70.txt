@@ -1,10 +1,3 @@
-
-
-That's nice, however the automatic 4way detection is not working on my Gentoo
-AMD 64 version client.  
-  
-I still have to add the "-4way" switch.  
-
 Forgot to say, I suspected the detect might not work on 64-bit AMD. I found it
 hard to believe but AMD reports a different model number in 64-bit mode.  
   

@@ -4,9 +4,6 @@ I came to agree with Gavin about whitelisting when I realized how quickly new
 transaction types can be added.  
   
 
-why not make it easier on everyone and just allow say, 64 or 128 bytes of
-random data in a transaction?  
-
 That's already possible. <pubkey> OP_CHECKSIG. <pubkey> can be 33 to 120
 bytes.  
   

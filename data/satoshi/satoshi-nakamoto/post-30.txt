@@ -14,11 +14,6 @@ requests the next 500 blocks from other nodes, and continues the download from
 the one that sends it fastest. At least, that's how it should work.  
   
 
-Maybe Berkeley DB has some tweaks we can make to enable or increase cache
-memory.  
-
-Which of the ACID properties do you need, while downloading?  
-
 It may only need more read caching. It has to read randomly all over
 blk0001.dat and blkindex.dat to index. It can't assume the file is smaller
 than memory, although it currently still is. Caching would be effective, since
@@ -28,9 +23,5 @@ Someone should experiment with different Berkeley DB settings and see if
 there's something that makes the download substantially faster. If something
 substantial is discovered, then we can work out the particulars.  
   
-
-Adding BDB records is simply appending to a log file, until you issue a
-checkpoint. The checkpoint then updates the main database file.
-
 We checkpoint every 500 blocks.
 

@@ -1,9 +1,3 @@
-
-
-EXCEPTION: 22DbRunRecoveryException  
-DBENv::open: DB_RUNRECOVERY: Fatal error, run database recovery  
-C:\Program Files\Bitcoin\bitcoin.exe in OnInit()  
-
 What operating system?  
   
 Normally when it does that it's because the directory where the data directory

@@ -4,10 +4,6 @@ I doubt there's an mmap(2) on Windows. I'd rather call an existing file copy
 function than make and test my own.  
   
 
-But if you are already using features from boost::filesystem you can use
-copy_file from that. I just think that, if not already required for something
-else, it's a tad overkill.  
-
 Thanks. I thought it would be in there somewhere.  
   
 We already use boost::filesystem in a dozen places. It's not a new added

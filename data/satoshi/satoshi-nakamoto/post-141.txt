@@ -1,14 +1,6 @@
-
-
-Any non-Mac i5 love?  
-Windows i5 64-bit got slower here.  
-
 That's the first I've heard anyone say i5 was slower. Everyone else has said
 4way was faster on i5. Moreso with hyperthreading enabled.  
   
-
-And i5, at least on my macbookpro  
-
 Good, so I take it that's a confirmation that it's working on Mac as well?  
   
 Laszlo told me he did compile in the -4way stuff on Mac, so the -4way switch

@@ -19,6 +19,7 @@ def process_email(email):
 def process_post(post_html):
     post = pq(post_html)
     post.remove('div.quoteheader')
+    post.remove('div.quote')
     return post.html(method='html')
 
 if __name__ == "__main__":

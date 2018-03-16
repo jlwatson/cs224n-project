@@ -1,7 +1,3 @@
-
-
- _/etc/init.d/gdm start_ and it will start gdm!  
-
 Ah yes, there we go, back to normal again.  
   
 The ctrl+alt+F[1-8] thing never worked on this computer. The screen just goes

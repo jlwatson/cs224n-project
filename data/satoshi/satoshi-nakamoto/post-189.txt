@@ -1,7 +1,3 @@
-
-
-But there will be no irc server to bootstrap from.  
-
 Which doesn't matter because you can't access sourceforge to download the
 software either.  
   

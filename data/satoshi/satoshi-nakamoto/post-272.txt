@@ -1,13 +1,3 @@
-
-
-If I figure out that Public Key 123456 generates Hash ABCD  
-and  
-Public Key 654321 also generates Hash ABCD  
- _I'm still left without the Private Key._  
-  
-But from what you are saying, all I need is Public Key 654321 and I can spend
-coin pretending to be Public Key 123456.  
-
 You would still have to sign it with public key 654321. You need to find a
 collision using a public key for which you know the private key.  
   

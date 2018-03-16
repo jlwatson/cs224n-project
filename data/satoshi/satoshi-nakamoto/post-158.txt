@@ -1,7 +1,3 @@
-
-
-try -march=amdfam10  
-
 That works.  
   
 That's strange... are we sure that's the same thing? tcatm, try amdfam10 and

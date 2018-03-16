@@ -1,9 +1,3 @@
-
-
-However, if something happened and the signatures were compromised (perhaps
-integer factorization is solved, quantum computers?), then even agreeing upon
-the last valid block would be worthless.  
-
 True, if it happened suddenly. If it happens gradually, we can still
 transition to something stronger. When you run the upgraded software for the
 first time, it would re-sign all your money with the new stronger signature

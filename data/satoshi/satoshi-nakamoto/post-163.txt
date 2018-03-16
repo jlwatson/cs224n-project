@@ -1,8 +1,3 @@
-
-
-I did all steps, now my client is 0.3.10 and it stopped at block 74638. Is all
-fine?  
-
 If you still show 74638 blocks then you aren't connected to any 0.3.10 nodes.  
   
 For today, try adding these parameters:  

@@ -1,7 +1,3 @@
-
-
-Applying this patch will make you incompatible with other Bitcoin clients.  
-
 +1 theymos. Don't use this patch, it'll make you incompatible with the
 network, to your own detriment.  
   

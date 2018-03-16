@@ -1,6 +1,2 @@
-
-
-My coins disappeared, but I assume they'll come back when it's up to current?  
-
 Right, they'll re-appear when it's finished downloading all the blocks.
 

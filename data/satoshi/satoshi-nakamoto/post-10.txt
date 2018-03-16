@@ -1,10 +1,3 @@
-
-
-seems that the miner would have to basically do "extra work". and if there's
-no reward from the bitdns mining from the extra work (which of course, slows
-down the main bitcoin work), what would be a miner's incentive to include
-bitdns (and whatever other side chains) ?  
-
 The incentive is to get the rewards from the extra side chains also for the
 same work.  
   

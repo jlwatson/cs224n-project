@@ -1,8 +1,3 @@
-
-
-So that last command should simply be  
- **sudo apt-get install libboost1.37-dev**  
-
 Except that wouldn't work for boost 1.40+ (on Ubuntu 10.04), where you need to
 get libboost-all-dev.  
   

@@ -28,7 +28,5 @@ it should just add it automatically. It's trivial compared to the fees many
 other types of services add automatically.  
   
 
-Does including more slow down your hashing rate?  
-
 No, not at all.  
 

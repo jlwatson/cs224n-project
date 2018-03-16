@@ -1,8 +1,3 @@
-
-
-Where can I find the latest English .po file to keep the translation up-to-
-date?  
-
 poedit does it. Either get the src directory from a release, or download it
 with SVN. Place your .po file 3 directories deep under the src directory. Open
 it with poedit and do Catalog->Update from sources.  

@@ -17,13 +17,3 @@ current best block. If blocks is 10, then the highest block number you have is
 It would reduce the confusion we had here:  
   
 
-... It already is on block 74638. I assume that means that block is now a good
-one?  
-
-  
-I had some confusion on this myself and got clarification in #bitcoin-dev:  
-  
-The bad block was number 74638, the last good one was 74637. The numbers start
-at 0, so when your client shows there are 74638 blocks then that means you
-have up to block number 74637, the last good one.  
-

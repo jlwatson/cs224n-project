@@ -1,9 +1,3 @@
-
-
-I suspect something weird going on with ByteReverse (or lack thereof). It's
-quite unclear whether or not 'data' and 'nonce' must be byte-reversed, and in
-what way.  
-
 getwork does the byte-reversing. midstate, data and hash1 are already big-
 endian, and you pass data back still big-endian, so you work in big-endian and
 don't have to do any byte-reversing. They're the same data that is passed to
@@ -20,10 +14,6 @@ target is little endian, it's supposed to be the same as how m0mchil's did it.
 use byte reverse. I think you do it like: if ByteReverse((unsigned
 int*)hash[6]) < (unsigned int*)target[6].  
   
-
-Satoshi, please fix your implementation of getwork so it complies with
-m0mchill's specification  
-
 This is the new spec. It shouldn't be hard to update your miner to use it.  
   
 The changes are:  

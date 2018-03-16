@@ -1,8 +1,3 @@
-
-
-TODO: dialog box or debug.log warning if no rpc.user/rpc.password is set,
-explaining how to set.  
-
 In many of the contexts of this RPC stuff, you can print to the console with
 fprintf(stdout, like this:  
 #if defined(__WXMSW__) && wxUSE_GUI  

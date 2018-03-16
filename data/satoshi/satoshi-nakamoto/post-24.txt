@@ -1,7 +1,3 @@
-
-
-Will it be synchronized automatically?  
-
 Very much not. Using multiple copies of wallet.dat is not recommended or
 supported, in fact all of Bitcoin is designed to defeat that. Both copies will
 get screwed up.  

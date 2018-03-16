@@ -1,9 +1,3 @@
-
-
-When I run bitcoin it becomes very sluggish, almost unusable. When I stop
-bitcoin everything goes ok again. Its running Ubuntu desktop 10.04 amd64 using
-ia32libs and the binary in bitcoin 0.20 tarball.  
-
 0.3.1 fixes that, sets the generate threads to the lowest priority. Download
 links are on the homepage now.
 

@@ -1,8 +1,3 @@
-
-
- ~~Also, does Bitcoin open the BerkeleyDB as exclusive, precluding the need
-for a file lock?~~ It does not -- did my own tests.  
-
 Is there a way to open BerkeleyDB exclusive?  
   
 DB_PRIVATE is the worst of both worlds. DB_PRIVATE is not exclusive, but it

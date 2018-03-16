@@ -1,8 +1,3 @@
-
-
-Are generated bitcoins encrypted with whichever address is currently displayed
-in the main Bitcoin window?  
-
 No, each generated transaction uses a new, single-use address.  
   
 Nothing uses the address in the main window, it's just there for convenience

@@ -1,9 +1,3 @@
-
-
-Crypto++ 5.6.0: http://www.cryptopp.com/  
-Cached SHA256: http://pastebin.com/rJAYZJ32 (although I'm pretty sure this is
-publically submitted elsewhere, I was linked to it on IRC)  
-
 I added the cached SHA256 state idea to the SVN, rev 113. The speedup is about
 70%. I credited it to tcatm based on your post in the x64 thread.  
   

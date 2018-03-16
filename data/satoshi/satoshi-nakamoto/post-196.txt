@@ -1,12 +1,3 @@
-
-
-I believe the clients would have to keep the entire history back to the
-original generated coins. The fact that clients have to keep the entire
-history reduces the privacy benefit.  
-
-  
-I thought this too at first. But then I convinced myself otherwise.  
-
 Are you back to talking about the existing Bitcoin system here?  
   
 I was talking about in the hypothetical system I was describing, if the

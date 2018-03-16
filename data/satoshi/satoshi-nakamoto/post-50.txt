@@ -1,7 +1,3 @@
-
-
-his block count remains "stuck" at 1698.  
-
 He was generating invalid blocks at difficulty 1.0. He must have a corrupted
 entry in his blk0001.dat or blkindex.dat file. He just needs to delete
 blk*.dat and let it redownload.  
@@ -11,10 +7,6 @@ Displayed transactions may not be correct!" because it saw a longer chain
 existed that it was unable to accept. The safety lockdown cannot stop
 generation or it would create an attack possibility.  
   
-
-The Bitcoin client really shouldn't allow coin generation until you have all
-of the blocks up to the last block checkpoint.  
-
 Good idea, I made a change to make sure it won't generate before checkpoint
 block 74000.  
 

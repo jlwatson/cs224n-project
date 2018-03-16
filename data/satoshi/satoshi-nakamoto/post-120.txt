@@ -8,9 +8,6 @@ copyfile(path from, path to), preferably something in Boost if it has it. If
 you find it for me, it's more likely I'll get to implementing it.  
   
 
-As for the file copy, why add to the boost dependency? I for one would love to
-get a core lib with very little deps.  
-
 We require Boost for JSON and a dozen things replacing dependencies on
 wxWidgets. Boost is good, portable stuff, we should not shy away from it.
 

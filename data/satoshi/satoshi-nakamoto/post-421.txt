@@ -1,8 +1,3 @@
-
-
-Adding transactions to the block you're working on will slow down your
-generation rate  
-
 The premise is false. Adding more transactions to the block you're working on
 does NOT slow down your generation rate. When generate is scanning hashes, it
 only hashes the header of the block, which is constant size. The header

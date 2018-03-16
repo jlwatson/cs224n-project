@@ -1,7 +1,3 @@
-
-
-Fault Module Name: mingwm10.dll  
-
 This is the important clue. I believe it's saying it crashed in that. Maybe
 there are other versions of it to try. mingwm10.dll is just a simple
 placeholder thing that satisfies some callback requirement for multithreaded

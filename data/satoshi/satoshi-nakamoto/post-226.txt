@@ -1,8 +1,3 @@
-
-
-It seems to do more harm than good because it prevents micropayment
-implementations such as the one bytemaster is suggesting.
-
 Bitcoin isn't currently practical for very small micropayments. Not for things
 like pay per search or per page view without an aggregating mechanism, not
 things needing to pay less than 0.01. The dust spam limit is a first try at

@@ -1,6 +1,2 @@
-
-
-How is the strength of the chain calculated?  
-
 Total proof-of-work.
 

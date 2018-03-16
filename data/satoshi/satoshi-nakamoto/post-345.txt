@@ -1,11 +1,3 @@
-
-
-I recommend to remove the download links at the bottom of the main page.  
-As you can see the links on the English page points to the new 0.3 release,
-but the other languages only contain links for the old 0.2 version.  
-There's a download box with the current releases on the right anyway, so why
-not remove the links from the translated pages.  
-
 I updated them to 0.3.0.  
   
 I am tempted to remove the download links from the other languages and only

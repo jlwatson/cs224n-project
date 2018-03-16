@@ -1,9 +1,3 @@
-
-
-The current threshold is 200KB per block, or about 1000 transactions per
-block. I think it should be lowered to 50KB per block. That would still be
-more than 100 times the average transactions per block.  
-
 I implemented this change in SVN rev 157.  
   
 The reason I previously made it so high was to allow very large transactions

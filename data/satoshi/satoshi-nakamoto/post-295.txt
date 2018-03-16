@@ -15,9 +15,5 @@ it off the parameter list but then you still have to specific it in a more
 esoteric place I'm not sure is a net win.  
   
 
-I was confused for a bit because the password is given LAST on the command
-line, but FIRST in the JSON-RPC params list. I agree that reading the command-
-line password from a file would be more convenient and more secure.  
-
 You're also confusing me, what do you mean? Did I do something unintended?
 
