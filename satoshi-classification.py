@@ -17,6 +17,10 @@ import argparse
 
 from utils import plot_confusion_matrix, get_split
 from sklearn.metrics import confusion_matrix
+from keras import backend as K
+
+from jinja2 import Environment, FileSystemLoader, select_autoescape
+
 
 BATCH_SIZE = 32
 TRAIN_EPOCHS = 15
@@ -26,9 +30,17 @@ WEIGHTS_FILE = "results/satoshi-weights.hdf5"
 CANDIDATES = ["gavin-andresen", "hal-finney", "jed-mccaleb", "nick-szabo", "roger-ver",
     "dorian-nakamoto", "craig-steven-wright", "wei-dai", "david-mazieres"]
 
+def is_valid_candidiate(c):
+    if c not in CANDIDATES:
+        raise argparse.ArgumentTypeError("%s is an invalid candidiate" % c)
+    return c
+
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument('--skip-training', help='Skip training.', action='store_true')
+    parser.add_argument('--skip-testing', help='Skip testing.', action='store_true')
+    parser.add_argument('--saliency-map', help='Generate a saliency map for this text.')
+    parser.add_argument('--saliency-class', help='Generate a saliency map for this class.', type=is_valid_candidiate)
     args = parser.parse_args()
 
     print("======= Loading in Texts =======")
@@ -48,6 +60,7 @@ if __name__ == "__main__":
     print("======= Generating vocabulary =======")
     tokenizer = Tokenizer()
     tokenizer.fit_on_texts(texts)
+    reverse_word_map = dict(map(reversed, tokenizer.word_index.items()))
     print(len(tokenizer.word_counts), "words in vocab.")
 
     print("======= Generating Data Tuples =======")
@@ -116,25 +129,59 @@ if __name__ == "__main__":
                   validation_data=(x_val, y_val),
                   callbacks=[checkpointer])
 
-    score, acc = model.evaluate(x_test, y_test,
-                                batch_size=BATCH_SIZE)
-    print('Test score:', score)
-    print('Test accuracy:', acc)
+    if not args.skip_testing:
+        score, acc = model.evaluate(x_test, y_test,
+                                    batch_size=BATCH_SIZE)
+        print('Test score:', score)
+        print('Test accuracy:', acc)
 
-    pred = np.argmax(model.predict(x_test, batch_size=BATCH_SIZE), axis=1)
-    truth = np.argmax(y_test, axis=1)
-    cnf_matrix = confusion_matrix(truth, pred)
-    plot_confusion_matrix(cnf_matrix, classes=CANDIDATES, normalize=True,
-                          title='Confusion Matrix')
-    plt.savefig('results/satoshi-confusion-matrix.png')
+        pred = np.argmax(model.predict(x_test, batch_size=BATCH_SIZE), axis=1)
+        truth = np.argmax(y_test, axis=1)
+        cnf_matrix = confusion_matrix(truth, pred)
+        plot_confusion_matrix(cnf_matrix, classes=CANDIDATES, normalize=True,
+                              title='Confusion Matrix')
+        plt.savefig('results/satoshi-confusion-matrix.png')
 
-    print("======= Testing Satoshi Writings =======")
-    satoshi_seqs = tokenizer.texts_to_sequences(t for t, p in texts_by_candidate['satoshi-nakamoto'])
-    paths = [p for t, p in texts_by_candidate['satoshi-nakamoto']]
-    padded = sequence.pad_sequences(satoshi_seqs)
-    scores = model.predict(padded, batch_size=BATCH_SIZE)
-    pred = np.argmax(scores, axis=1)
-    with open("results/satoshi-results.txt", "w") as f:
-        for i, c in enumerate(pred):
-            f.write(os.path.basename(paths[i]) + "\t" + CANDIDATES[c] + "\t" + str(scores[i]))
-            f.write('\n')
+        print("======= Testing Satoshi Writings =======")
+        satoshi_seqs = tokenizer.texts_to_sequences(t for t, p in texts_by_candidate['satoshi-nakamoto'])
+        paths = [p for t, p in texts_by_candidate['satoshi-nakamoto']]
+        padded = sequence.pad_sequences(satoshi_seqs)
+        scores = model.predict(padded, batch_size=BATCH_SIZE)
+        pred = np.argmax(scores, axis=1)
+        with open("results/satoshi-results.txt", "w") as f:
+            for i, c in enumerate(pred):
+                f.write(os.path.basename(paths[i]) + "\t" + CANDIDATES[c] + "\t" + str(scores[i]))
+                f.write('\n')
+
+    if args.saliency_map:
+        print("======= Generating Salinecy Map =======")
+        with open(args.saliency_map, "r", encoding="utf-8") as f:
+            text = f.read()
+
+        input = model.layers[0].output
+        output = model.layers[-1].output[:,CANDIDATES.index(args.saliency_class)]
+        grad = K.gradients(output, input)[0]
+        saliency = K.sum(K.pow(grad, 2), axis=2)
+        compute_fn = K.function([model.layers[0].input, K.learning_phase()], [saliency])
+
+        seq = tokenizer.texts_to_sequences([text])[0]
+        data = sequence.pad_sequences([seq])
+        saliency_mat = compute_fn([data, 0])[0][0]
+        saliency_mat = saliency_mat / np.max(saliency_mat)
+
+        scores = model.predict(data)[0]
+        pred = np.argmax(scores)
+
+        env = Environment(
+            loader=FileSystemLoader('.'),
+            autoescape=select_autoescape(['html', 'xml'])
+        )
+        template = env.get_template('saliency-vis-template.html')
+
+        tokens = list(reverse_word_map[id] for id in seq)
+
+        with open("results/salinecy-map.html", "wb") as f:
+            f.write(template.render(words=zip(tokens, saliency_mat)).encode('utf-8'))
+
+        print("Scores:", scores)
+        print("Predicted Class:", CANDIDATES[pred])
