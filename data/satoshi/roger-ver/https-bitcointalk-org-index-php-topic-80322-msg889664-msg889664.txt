@@ -1,76 +1,71 @@
-Yesterday I attended the first Bitcoin meetup group in China.  
-Photo here:
-https://twitter.com/#!/rogerkver/status/199841022946185216/photo/1/large  
-It was organized with only one day notice, but we had over 30 people show up.  
-Some traveled several hours all the way from Hong Kong for the meeting.  
+Yesterday I attended the first Bitcoin meetup group in China.
+It was organized with only one day notice, but we had over 30 people show up.
+Some traveled several hours all the way from Hong Kong for the meeting.
 The Chinese version of Twitter, Weibo, was buzzing with talk about the Bitcoin
-meeting.  
-One of my vendors who attended the meeting emailed me today saying:  
-  
+meeting.
+One of my vendors who attended the meeting emailed me today saying:
+
 _Thanks for your last night's dinner and your introduction of bitcoin. I'm
 very interested in bitcoin even if I'm not quite understand how it workds.
-Anyway I'd like to trade with you through bitcorn in furture.  
+Anyway I'd like to trade with you through bitcorn in furture.
 Let's talk about the 200 pcs of Finisar FCMJ-8521-3 GLC-T? How many bitcorns
-would you buy them from me?  Thanks!  
-_  
-  
-I suspect many of my vendors in China will now be much more open to the idea
-of using Bitcoins for their normal day to day business transactions.  
-I also know that there are currently talks between Russian telecom companies
-and Chinese suppliers about conducting their payments via Bitcoin.  
-  
-  
-In the meeting the following problem & Bitcoin solution was brainstormed, but
-most of this idea came from Yifu Guo.  
-  
-  
-1) Chinese love to Gamble  
-2) Macau has gambling  
-3) Chinese are not allowed to bring more than $6,000 USD worth of currency to
-Macau.  
-4)Chinese cash deposits for Bitcoin  
-5)??  
-6) PROFIT!  
-  
-  
-The ideal way for something like this to occur is for a Macau based casino to
-open their own bitcoin exchange.  
-It could be open to casino customers only, or to people around the world.  
-  
-WIN: Customers would love it, because they can bring as much money to gamble
-with as they want.  
-WIN: Casinos would love it, because customers can bring as much money to
-gamble with as they want.  
-  
-I can't think of any reason why anyone involved wouldn't like this idea.  
-Myself and some of my Chinese friends intend to approach Macau casinos about
-this idea.  
-  
-In order for this to become a reality we need:  
-  
-1\. An easy way for anyone in China to buy any amount of Bitcoins.  
-2\. Casinos to allow cash IN/OUT via Bitcoins.  
-  
-For #1  
-Bitinstant.com would like to allow everyone in China to be able to buy
-Bitcoins, but we needs some help finding the right partner company in China.  
-  
-It will need the following requirements:  
-  
-1) No Chargebacks  
-2) Easily available across China.  
-3) Allows for automatic communication with the Bitinstant system via API.  
-  
-  
-Can anyone recommend a company like this in China?  
-  
-  
-For #2  
-I suspect we only need to convince the Casinos that #1 is already in place.  
-  
-Please add your thoughts or suggestions to the above idea.  
-Feel free to email me at roger@memorydealers.com  
-I also do my best to tweet about interesting Bitcoin developments as they
-happen.  
-Follow me @rogerkver
+would you buy them from me?  Thanks!
+_
 
+I suspect many of my vendors in China will now be much more open to the idea
+of using Bitcoins for their normal day to day business transactions.
+I also know that there are currently talks between Russian telecom companies
+and Chinese suppliers about conducting their payments via Bitcoin.
+
+
+In the meeting the following problem & Bitcoin solution was brainstormed, but
+most of this idea came from Yifu Guo.
+
+
+1) Chinese love to Gamble
+2) Macau has gambling
+3) Chinese are not allowed to bring more than $6,000 USD worth of currency to
+Macau.
+4)Chinese cash deposits for Bitcoin
+5)??
+6) PROFIT!
+
+
+The ideal way for something like this to occur is for a Macau based casino to
+open their own bitcoin exchange.
+It could be open to casino customers only, or to people around the world.
+
+WIN: Customers would love it, because they can bring as much money to gamble
+with as they want.
+WIN: Casinos would love it, because customers can bring as much money to
+gamble with as they want.
+
+I can't think of any reason why anyone involved wouldn't like this idea.
+Myself and some of my Chinese friends intend to approach Macau casinos about
+this idea.
+
+In order for this to become a reality we need:
+
+1\. An easy way for anyone in China to buy any amount of Bitcoins.
+2\. Casinos to allow cash IN/OUT via Bitcoins.
+
+For #1
+Bitinstant.com would like to allow everyone in China to be able to buy
+Bitcoins, but we needs some help finding the right partner company in China.
+
+It will need the following requirements:
+
+1) No Chargebacks
+2) Easily available across China.
+3) Allows for automatic communication with the Bitinstant system via API.
+
+
+Can anyone recommend a company like this in China?
+
+
+For #2
+I suspect we only need to convince the Casinos that #1 is already in place.
+
+Please add your thoughts or suggestions to the above idea.
+I also do my best to tweet about interesting Bitcoin developments as they
+happen.

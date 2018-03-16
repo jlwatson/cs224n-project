@@ -1,1 +1,1 @@
-You can toggle between BCH and USD integers by tapping the box that says either one on the send screen. Please email roger@bitcoin.com the tx ID so we can check why it hasn’t confirmed.   
+You can toggle between BCH and USD integers by tapping the box that says either one on the send screen. Please email the tx ID so we can check why it hasn’t confirmed.   

@@ -1,37 +1,34 @@
 Yesterday I was trying to place an online order with
 http://www.specialtys.com/ but had some trouble, so I filled out a contact
-form.  
-  
-In passing, I asked when I will be able to pay with Bitcoin on their site.  
-  
-Today I received the following reply:  
-  
- _Good Afternoon Roger,  
+form.
+
+In passing, I asked when I will be able to pay with Bitcoin on their site.
+
+Today I received the following reply:
+
+ _Good Afternoon Roger,
 Thank you so much for your email. Unfortunately because our catering staff end
 there day at 5, 5pm pickup is the absolute latest. To ensure you receive the
 5:00pm time slot you would need to place your order by 4:30pm. Paying with
 Bitcoin is an excellent idea! I will certainly pass your suggestions to the
 web development team for consideration and review. Please let me know if I can
-assist you further._  
-  
+assist you further._
+
 For those who don't know, Specialty's is a chain with about 40 locations. They
 have a high tech image with a great website that customers can order online
 with. In-person customers don't tell a clerk what kind of sandwich they want.
 Instead, they order and pay on an Ipad, and then wait for their number to be
 called. This sort of high tech restaurant seems to be a perfect fit for
-Bitcoins.  
-  
+Bitcoins.
+
 If you live in a town with a specialtys, I think it would be useful for you to
-POLITELY contact them here:  
-  
-http://www.specialtys.com/ContactUs.aspx?Ref=Header  
-  
+POLITELY contact them here:
+
 You should send an email something along the lines of:  
-  
+
  _I heard that you were considering accepting Bitcoins as a payment method. I
 just wanted to let you know that I would also be interested in paying with
-Bitcoins_  
-  
+Bitcoins_
+
 Please customize your request, and add any other information for them that you
 think would be useful.
-

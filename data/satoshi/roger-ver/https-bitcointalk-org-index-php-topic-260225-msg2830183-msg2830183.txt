@@ -1,44 +1,43 @@
-Blame the victim much?  
-  
+Blame the victim much?
+
 I wasn't. The video was posted to my own youtube channel because I thought the
 world might like an update on what is going on over there.
-http://www.youtube.com/watch?v=UP1YsMlrfF0  
-  
+http://www.youtube.com/watch?v=UP1YsMlrfF0
+
 I've actually done a lot, but have been asked to keep it confidential at the
-moment.  
-  
+moment.
+
 I'm not an active part of the coinlab team in anyway. I provided part of the
 seed money to get them started. Now I hear from Peter once or twice a month
-when he sends out investor update emails.  
-  
-Way to blame the victim.  
-  
-  
+when he sends out investor update emails.
+
+Way to blame the victim.
+
+
 There is no secret deal. I'm still owed 24,841 BTC and haven't gotten a single
-one back.  
-  
+one back.
+
 Unfortunately I don't have as much time as I would like to surf the forums
 providing updates. Anyone is welcome to contact me any time by email. My PGP
-keys are listed on rogerver.com  
-  
+keys are listed on 
+
 Placing blame at this point doesn't do much good, but in my opinion, in order
-of responsibility, the blame belongs with:  
-  
-1\. The Bitcoinica Hacker  
+of responsibility, the blame belongs with:
+
+1\. The Bitcoinica Hacker
 The hacker is obviously smart enough to earn money honestly and has no excuse
-for what he has done.  
-  
-2\. Amir Taaki  
+for what he has done.
+
+2\. Amir Taaki
 He released the Bitcoinica source code while an offer was on the table to buy
 Bitcoinica for enough money to pay back everyone %100 of what they were owed,
 except myself, Jesse Powell, Jed McCaleb, Brian Cartmell. Amir's publishing of
 the source code destroyed any value Bitcoinica had left, and directly led to
 an additional $40,000 USD and 40,000 BTC to be stolen from Bitcoinica's mtgox
-accounts.  
-  
-3\. Patrick Strateman  
+accounts.
+
+3\. Patrick Strateman
 Patrick has refused to cooperate in any way with the liquidators or anyone
 else involved. He has blocked myself, Jesse, and Jed on skype, and does not
 reply to any of our emails. Recently Patrick's mother contacted me, and I met
 with her in person about the situation since Patrick isn't willing to.
-

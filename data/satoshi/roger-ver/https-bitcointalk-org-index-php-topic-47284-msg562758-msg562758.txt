@@ -1,71 +1,12 @@
 I recently posted that I wanted to buy two Iphone 4Ss (They will not be onsale
-until Oct 14th)  
-  
-I received the following reply:  
- _  
-"Hey I have two unlocked iphone 4s's. How much are you willing to pay for
-each?"  
-_  
-  
+until Oct 14th)
+
+I received the following reply:
+
 I replied asking how he has them before they are even on sale and to send some
 photos as proof. He never replied, so I suspect he was just hoping to get me
-to pay in advance.  
-  
-This IS NOT proof of a scam, but I find it very suspicious.  
-  
-Here is the email header information:  
-  
-From: Eric Tang <eriicc99@yahoo.com>  
-Subject: iphones  
-Date: October 7, 2011 7:18:36 PM PDT  
-To: Roger Ver <roger@memorydealers.com>  
-X-Apparently-To: roger@memorydealers.com via 98.138.83.190; Fri, 07 Oct 2011
-19:19:36 -0700  
-Received-Spf: none (domain of yahoo.com does not designate permitted sender
-hosts)  
-X-Ymailisg: Qmgo7tIWLDt.odilBDHFvxVwsm2vQ7LIlQTUR0.8ifP0dYah
-e5CzRp1.iPfmzVysI9az2ag6mQpzzOghhkBP0IAR4u7gGjqY4yI0FycHTaj1
-1hq7rTWKqHrKC9zBjQB_x7hlLDvlRaks1YSWWgFlCpGO1TgWzAXhwMTkHw72
-77f7pu3XpnSIuG7trdihjLkF46syaxXPRN7SNBp76cVLEDdO7F5xTOrRRDaK
-Gud_wk8CdCZ9GXR5LUyvzqVmJ5Rro20X.qKID89PEkbRenvrqwu4G8nVIbbj
-YfirrxW8dpJACow9nIMM4.lGTkZzHhpSP_858grw0rNkT6VZzX.Ou7Fgk.7V
-r158rsHvjfCFgrq6ARIB.9dFQ4PCkie5X6P4Yy6xcgKPFg6_XjMS  
-X-Originating-Ip: [98.139.91.236]  
-Authentication-Results: mta1003.biz.mail.sk1.yahoo.com from=yahoo.com;
-domainkeys=pass (ok); from=yahoo.com; dkim=pass (ok)  
-Received: from 127.0.0.1 (HELO nm29-vm0.bullet.mail.sp2.yahoo.com)
-(98.139.91.236) by mta1003.biz.mail.sk1.yahoo.com with SMTP; Fri, 07 Oct 2011
-19:19:36 -0700  
-Received: from [98.139.91.63] by nm29.bullet.mail.sp2.yahoo.com with NNFMP; 08
-Oct 2011 02:19:36 -0000  
-Received: from [98.139.91.21] by tm3.bullet.mail.sp2.yahoo.com with NNFMP; 08
-Oct 2011 02:18:36 -0000  
-Received: from [127.0.0.1] by omp1021.mail.sp2.yahoo.com with NNFMP; 08 Oct
-2011 02:18:36 -0000  
-Received: (qmail 18865 invoked by uid 60001); 8 Oct 2011 02:18:36 -0000  
-Received: from [128.208.117.230] by web110508.mail.gq1.yahoo.com via HTTP;
-Fri, 07 Oct 2011 19:18:36 PDT  
-X-Yahoo-Newman-Id: 720384.77691.bm@omp1021.mail.sp2.yahoo.com  
-Dkim-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.com; s=s1024;
-t=1318040316; bh=KoFnCCW9vGKCR7lBjSXZoU4PN24BYAKOEQ+jgtFUQn0=; h=X-YMail-
-OSG:Received:X-Mailer:Message-ID:Date:From:Subject:To:MIME-Version:Content-
-Type;
-b=UzDEdOKs3ls5z8P6NHQNUdTaOPPU4LU+8BioiIumWt+iyNmqCQ7vLUa+54Uw6RV+FxxYtCRzY6LiEGEtdw/lUbTJH0Cg0JLE83zvyy7mCguNRlqNYamnbIkwhqO//dMhbTIlSlS/DjfeWhhSkSxxQG0h5hyW3SIL1k2BH/1DeRI=  
-Domainkey-Signature: a=rsa-sha1; q=dns; c=nofws; s=s1024; d=yahoo.com;
-h=X-YMail-OSG:Received:X-Mailer:Message-ID:Date:From:Subject:To:MIME-
-Version:Content-Type;
-b=dLyh+f0MBO+4Af1jA+L+UerQbLV2c5KTQv5ImYFUzxv8vkMbSrzlAuWbsKpio4ShYUeiQ2/tEgdWxhMSaxomrMHTKUNdA3pXKK0CIam+5KVScKLiPxhQ7e6ipPD660jWYXX9+A7uMuN4hx7c/c/nRXcBFSrDBO7QDSG8GZjUyes=;  
-X-Ymail-Osg: lgCHrRIVM1mylmseRFoLoM0nxwa4zNrOOLIws0UokbeuYxN
-nUfNzge4s7PnNY5G3AxDNi6W6GNHM1Bm9J6NGbAZjktKq8TgBaQnuz_UNoNk
-0sQHTqpoVfXLkboMr10L2O6iE5HCAHB_LoSyJ01XEPvHb7DzfY5g3PqS6OAp
-OQ3zHaa8uacFbhBLIxEAeDiek3.LEBiXigYXLn3PzxCqJ2garPq1oqNTrP18
-mZzO4fDCx5zJEnkPZvXbMtwFF_5ZLOTuNzVX6x6hdvjaHA5Lt2FFN4eHPmj.
-K8BgU33JRO5PHl_DhnWrbX54hEcAaHtahCm3HNHpKrRSov1vrQQXSu_o2_Oq
-BsxR4eH81DXwr9bf3jFX5GS2Kvh52WMwY80q4MRdQfj74gBzo0DkNhVUbb4I
-Ri8v42FtuWcEf2zVo66gKvHcgs.Tb1UQbRzDDq7aYjxMZT98E_tygL0D.NAV 6  
-X-Mailer: YahooMailClassic/14.0.7 YahooMailWebService/0.8.114.317681  
-Message-Id: <1318040316.12776.YahooMailClassic@web110508.mail.gq1.yahoo.com>  
-Mime-Version: 1.0  
-Content-Type: multipart/alternative;
-boundary="962008489-766526026-1318040316=:12776"
+to pay in advance.
 
+This IS NOT proof of a scam, but I find it very suspicious.
+
+Here is the email header information:

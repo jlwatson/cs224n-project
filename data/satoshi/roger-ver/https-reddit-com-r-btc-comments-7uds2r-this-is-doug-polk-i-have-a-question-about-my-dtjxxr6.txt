@@ -1,15 +1,7 @@
-> You should never post someones information, regardless of the source you got it from.
-
 We disagree on this point,  and it has absolutely nothing to do with Bitcoin.
-
-> can you elaborate on the [May 2nd](https://twitter.com/rogerkver/status/859400405033156608)/[May 4th](https://twitter.com/rogerkver/status/860148053486862336) tweets?
 
 There is no contradiction here at all.  Layer two solutions have more risk than layer one, but that doesn't mean than we should never use layer two solutions.  We should just be aware of the additional risk. Bitcoin Cash supports scaling on both layers.  Bitcoin Core only supports scaling on the riskier layer two that requires counter party risk.
 
->there is no reason why you shouldn't sell you BTC for BCH anyway. 
+I agree,  and it is nobody's business what I do with my own money. I'm sorry if anyone felt misled.
 
-I agree,  and it is nobody's business what I do with my own money. I'm sorry if anyone felt misled. 
-
->My understanding is that BCH is quicker currently, however not by much
-
-That just shows that you are new to BTC/BCH, or never actually tried using them. [Here is some data showing BTC's average confirmation time is currently greater than 24 hours.](https://blockchain.info/charts/avg-confirmation-time?daysAverageString=7) BCH's average confirmation time is about 10 minutes.
+That just shows that you are new to BTC/BCH, or never actually tried using them. Here is some data showing BTC's average confirmation time is currently greater than 24 hours. BCH's average confirmation time is about 10 minutes.

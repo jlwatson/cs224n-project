@@ -1,16 +1,12 @@
-  
-It's time to think about how to design an easy to use Bitcoin privacy tool at
-privacy.bitcoin.com  
-  
-I'll be brainstorming implementation ideas and taking feedback at:  
-  
-https://forum.bitcoin.com/project-development/privacy-bitcoin-com-is-coming-
-soon-t1208.html  
-  
-I'll likely have some sort of bounty for the best ideas as well.  
-  
-Please join us today!  
-  
-  
-Roger Ver
 
+It's time to think about how to design an easy to use Bitcoin privacy tool at
+privacy.bitcoin.com
+
+I'll be brainstorming implementation ideas and taking feedback at:
+
+https://forum.bitcoin.com/project-development/privacy-bitcoin-com-is-coming-
+soon-t1208.html
+
+I'll likely have some sort of bounty for the best ideas as well.
+
+Please join us today!
