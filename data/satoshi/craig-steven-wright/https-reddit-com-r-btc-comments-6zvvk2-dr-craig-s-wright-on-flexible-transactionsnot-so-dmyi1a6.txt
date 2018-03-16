@@ -1,0 +1,5 @@
+"Next to that this protocol upgrade will re-order the data-fields which allows us to cleanly fix the malleability issue which means that future technologies like Lightning Network will depend on this BIP being deployed."
+
+No, they do not depend on this - that is false, it was simply used as a means to argue that it was necessary.
+
+https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2016-September/013125.html

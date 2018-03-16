@@ -1,0 +1,11 @@
+Unrealistic at best. Disingenuous at the extreme.
+
+A miner COULD write a chained TX in a single block cycle paying from a miner to the same miner. This ends in a digital sig. It means that a miner pays based on a hash to a hash and in a single block pays themselves. At the end, it is a chain that they risk on an orphan for no real use.
+
+So, it is not a use case. It is a failed example to make a point that is not the case and to try and introduce the idea that the signature need not be a part of the chain.
+
+It is an idea that changes Bitcoin fundamentally and one that I at least will oppose. With every Bitcoin I have and all the contacts I have and all the hash we are bringing online if we need to. You can oppose this, and that is your right, but then, you would be better to do it on SegWit coin.
+
+So, your case is flawed, it is a Signature and a chain in that signature to another signature. It is not safe outside of the single block scenario and more, if the block is orphaned, these are lost. So again it is not secure.
+
+Stating that you can create an insecure use case means little. You can publish your keys as well.

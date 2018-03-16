@@ -1,0 +1,17 @@
+No, you claim the majority never will, but you do and speak for a majority of people and never will.
+
+As for the other claim. Theymos and Cobra each planned to change the whitepaper. It was and remains a planned change. 
+
+https://news.bitcoin.com/revising-satoshi-white-paper/
+
+https://bitcointalk.org/index.php?topic=1534826.0
+
+Maybe Github?
+https://github.com/bitcoin-dot-org/bitcoin.org/issues/1325
+
+Being that there IS a change request by Cobra on the Bitcoin.org Git, this shows either you do not follow what is occurring or do not care.
+
+Not about changing the whitepaper... Never said:
+"I believe the paper was always designed to be a high level overview of the current reference implementation, and that we should update it now that the paper is outdated and the reference implementation has changed significantly from 2009."
+
+Open your eyes.

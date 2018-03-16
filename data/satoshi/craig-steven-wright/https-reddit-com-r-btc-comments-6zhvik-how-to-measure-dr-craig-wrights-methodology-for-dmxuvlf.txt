@@ -1,0 +1,2 @@
+Read and study competing epidemics and SEIR models.
+

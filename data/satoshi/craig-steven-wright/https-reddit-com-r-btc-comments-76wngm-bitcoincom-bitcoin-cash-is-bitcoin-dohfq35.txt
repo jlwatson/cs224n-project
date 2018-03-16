@@ -1,0 +1,9 @@
+No, the paper defined this very succinctly:
+
+"We define an electronic coin as a chain of digital signatures"
+
+SegWit is not a chain of signatures, it is a chain of hashes related to a signature. This is a vastly different system.
+
+So, we have the electronic coin (not electronic settlement system) with the longest chain that is formed using a chain of digital signatures as the true Bitcoin, there is only one of these.
+
+It is Bitcoin Cash.

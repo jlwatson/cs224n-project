@@ -1,0 +1,5 @@
+"Bitcoin needs a similar way of making the transaction future-proof because
+re-purposing not used fields for new features is not good for creating
+maintainable code."
+
+Basically, it is a statement of not understanding the capability and extensiblity of Bitcoin as it is right now. 

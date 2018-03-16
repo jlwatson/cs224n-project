@@ -1,0 +1,11 @@
+No, you have your keys, but those keys are also the same for may other things if you like (not recommending this here).
+
+You own keys that allow access to validate an entry on a ledger.
+
+That system is Bitcoin IFF it fulfils the requirements to be Bitcoin.
+
+I also said much more than that single line. To quote myself, So, we have the electronic coin (not electronic settlement system) with the longest chain that is formed using a chain of digital signatures as the true Bitcoin, there is only one of these.
+
+Now, that does not mean it si not also other things. Saying a Cat is a mammal does not state more than what is required for it to be a mammal. It does state a set of defined baselines that are not able to be breached. If the female of the species in general does not produce milk, it is not a member of the class mammal. There are other parts to any class, but for bitcoin, that is a base state.
+
+The keys alone mean little. These are what secures your coins, but they also could simply be a set of SSH keys that would in the end also map to a Bitcoin address.

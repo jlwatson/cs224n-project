@@ -1,0 +1,8 @@
+The problem is being misunderstood. 
+
+The issue is not the halting problem, that is not solved, but what you can do on a decider is run a program that must end and has been tested to end. The form of machine is known as a Decider (Sipser) or a TTM (Total Turing Machine).
+
+There is no need to change anything in script now to do this but it would be better with:
+ - Increased space,
+ - More Sig Ops
+ - Fixing and re-enabling the Script primitives that are disabled

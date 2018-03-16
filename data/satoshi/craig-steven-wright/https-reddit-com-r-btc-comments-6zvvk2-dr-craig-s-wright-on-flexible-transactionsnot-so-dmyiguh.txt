@@ -1,0 +1,3 @@
+Yes, this is what Tom does. He fails to explain the technical debt he wants to add and simply states it helps. Helps what Tom?
+
+What does this fix? Long term, what does it add to the system that will increase uptake?

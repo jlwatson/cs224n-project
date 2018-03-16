@@ -1,0 +1,9 @@
+So, the simple answer remains. Gregory Maxwell had stated that “both keys use a list of cipher-suites that don’t match up to the Original Key, and weren’t added to GPG until 2009”.
+
+ftp://ftp.gnupg.org/gcrypt/binary/gnupg-w32cli-1.4.7.exe
+
+Seems to be there. It is on the NIST hash list.
+
+Not proof of, but it is proof that NullC lied. That is all I am showing. 
+
+Degrees are real, They lied and deceived people there. PGP issue was a lie by Core as well...

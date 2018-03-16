@@ -1,0 +1,22 @@
+
+
+For you /u/nullc, My post does not admit or deny being who YOU claim that I claim to be. You don't see that do you? You also have not refuted ANYTHING in my post. Not a single thing, nothing at all. 
+Because your best argument is providing links to false information from the media as well as this classic : 
+
+So, yes, you have another sleight of hand as you attempt to trick others into your deceptions. 
+
+/u/nullc
+
+Yes, about that. More attempts to deceive.
+
+That timestamp is set by the machine. It only demonstrates that the system time was the one you claim.
+
+The proposed thesis in your claim is that:
+1. NIST was hacked
+2. The WayBack machine is Hacked
+3. The FTP site of the PGP binaries was hacked.
+And, at the same time, the hash signatures for PGP 1.4.7 just happened to be altered on the Library of Congress site. For, the test is not your attempted fallacy of division, but rather is the simple fact that anyone **CAN** download the version of the code as a compiled binary. This is the version from 2008. Version 1.4.7 and in doing so, discredit all you have just claimed. 
+If we look at the archive of the PGP downloader, the copy from 2007, we see that the 1.4.7 binary is available:
+https://web.archive.org/web/20070827230454/ftp://ftp.gnupg.org/gcrypt/binary/
+
+

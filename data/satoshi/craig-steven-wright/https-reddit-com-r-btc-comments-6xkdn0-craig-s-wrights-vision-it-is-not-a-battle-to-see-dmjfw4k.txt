@@ -1,0 +1,4 @@
+
+The reality is that 99.8% of hash power have received blocks in a couple seconds.
+
+No other nodes matter. They do not change anything. The error is in thinking you need to account for non-mining nodes here.

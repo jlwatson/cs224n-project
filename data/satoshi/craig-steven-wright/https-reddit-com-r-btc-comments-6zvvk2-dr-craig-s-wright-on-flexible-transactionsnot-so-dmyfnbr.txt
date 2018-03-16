@@ -1,0 +1,9 @@
+It is really a means to have LN. It does not remove tech debt, it adds it.
+
+Malleability is and never was the issue that it has been painted to be.
+
+It is a radical redesign of the transaction protocol that leads to many later problems.
+
+What is the problem to be fixed. Not the engineering issue of this is a engineering problem that has been added for form, but one of user and merchant deployment. 
+
+That is where you start. Not at engineering solutions but at real issues.

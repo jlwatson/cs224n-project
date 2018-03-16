@@ -1,0 +1,3 @@
+That is a brilliant and succinct summary. It is a 8MB fork that can also be scaled easily to 32MB and then as large as is needed.
+
+Users matter, not playing with tools.

@@ -1,0 +1,25 @@
+I did. Many times. It stated that miners are nodes. 
+
+Fees you give nodes (aka miners)
+https://github.com/trottier/original-bitcoin/blob/92ee8d9a994391d148733da77e2bbc2f4acc43cd/src/uibase.cpp#L354
+
+and
+
+https://github.com/trottier/original-bitcoin/blob/92ee8d9a994391d148733da77e2bbc2f4acc43cd/readme.txt#L30
+
+And I always thought this was clear:
+"// Nodes collect new transactions into a block, hash them into a hash tree,
+// and scan through nonce values to make the block's hash satisfy proof-of-work
+// requirements.  When they solve the proof-of-work, they broadcast the block
+// to everyone and the block is added to the block chain.  The first transaction
+// in the block is a special one that creates a new coin owned by the creator
+// of the block."
+
+https://github.com/trottier/original-bitcoin/blob/92ee8d9a994391d148733da77e2bbc2f4acc43cd/src/main.h#L795
+
+
+You mean that source code?
+
+Or the readme.txt files that stated this before Core deleted or altered the comments?
+
+Seems that you are being a little disingenuous again Luke.

@@ -1,0 +1,8 @@
+Transaction malleability / transaction mutability (although non-default sighash flags do allow optional malleability, malleability comprises any way a transaction may be mutated)
+
+
+https://bitcoin.org/en/glossary/signature-hash
+
+Think of the other Sig Hash types...
+
+What are they, what can they do? What if you allow TXs that can have added and altered inputs and outputs?

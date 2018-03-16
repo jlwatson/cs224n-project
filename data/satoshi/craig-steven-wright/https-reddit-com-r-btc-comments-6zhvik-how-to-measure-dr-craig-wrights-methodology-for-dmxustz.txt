@@ -1,0 +1,7 @@
+https://github.com/gfanti/bips/blob/master/bip-dandelion.mediawiki
+
+Sorry, this in fact of point makes the methods I have discussed here simpler. 
+
+The nodes involved all have to be running this and it also makes double spending far simpler. As soon as the TX hits a miner, the game is over. Now, this is the key. You need to isolate the TX from miners as long as possible.
+
+This is a very poorly thought through proposal that makes Bitcoin less secure and far simpler to trace. The error again is not understanding the network and more importantly in not taking the time to start with this understanding. 

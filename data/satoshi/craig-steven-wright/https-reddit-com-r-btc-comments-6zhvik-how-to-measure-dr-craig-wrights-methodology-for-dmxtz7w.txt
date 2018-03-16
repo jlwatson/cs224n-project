@@ -1,0 +1,11 @@
+This assumption is flawed I am sorry to say. You are assuming from a single point that collects data. Having a diverse set of collection points makes this a simple exercise in machine learning and statistics. The following link is for a presentation I gave in 2008.
+https://www.scribd.com/presentation/358776685/Application-Determination
+
+There are related documents as well from that time:
+https://www.scribd.com/presentation/358777250/The-Quantification-of-Information-Systems-Risk
+
+It is possible to determine if two transactions are related to the same initial host even if the system goes via Tor. So, the initial point is that there are methods to model and map transactions. This allows us to determine the application version (which version of Bitcoin software) as well as the operating system. 
+
+With a series of collectors at different points around the network, it is simple to collect the timing data for a transaction. Nodes do not add random sending delays and if they did it would not aid them greatly other than being less likely to have a TX accepted in certain cases. Slight differences allow for the mapping of the data source. 
+
+There are a few conference and journal papers of mine on the topic from a decade ago that you can search up. They are not well known, but they do cover the techniques. The end of this is that you can map the initial node that receives a TX and then the network path. This information will bring a few tin foil hats out, but it is something that we are going to be releasing and offering to a few Universities in the coming months. 

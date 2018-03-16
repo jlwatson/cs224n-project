@@ -1,0 +1,9 @@
+"Although there isn't an analytical solution to the three-body problem, we can solve it numerically."
+
+https://www.wired.com/2016/06/way-solve-three-body-problem/
+
+PSO [1] and other forms of code and probabilistic systems can be used to solve this. It is an optimisation and constraint issue. Although this cannot be solved in exact terms, it can be approximated to a fine degree and to an extent that is closer to the exact value than we can measure error. 
+
+Techniques including Derivative Free Optimisations align extremely well with the tool-set in Bitcoin and allow us to solve many issues though unsolvable.
+
+[1] https://en.wikipedia.org/wiki/Particle_swarm_optimization

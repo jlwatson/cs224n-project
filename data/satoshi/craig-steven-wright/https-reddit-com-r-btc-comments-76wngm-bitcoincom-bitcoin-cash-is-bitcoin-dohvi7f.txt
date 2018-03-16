@@ -1,0 +1,9 @@
+If you have a car, it is defined in a certain manner. If you use that car as a pot plant, it remains a car even though it is not a good use case.
+
+If you state that mammals have females that provide milk, yoiu can always find older females or others that do not.
+
+It is a part of the definition and any attempt to remove it changes the definition. 
+
+Bitcoin has a chain of digital signatures. The fact that a miner can create an insecure and at risk means to send a TX (in a shitty way) to themselves that they could lose if they have an orphaned block does not change bitcoin nor does it redefine the system.
+
+At all points, Bitcoin ends in a chain of signatures. It remains such no matter what you do to change or twist this. 

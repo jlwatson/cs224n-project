@@ -1,0 +1,17 @@
+The idea that growth as an issue is flawed. For the next 100 years, there is no reason to assume that storage will not grow at the rate it has (which is greater than Moore's law).
+
+The flaw is the idea that all people need to run nodes. Bitcoin was never designed in this manner and it was and should not be a goal. 
+
+Use is logistic, not exponential. As a consequence, the issue of growth becomes less and less relevant over time. If we have the concept that keys matter and it is the consensus of miners that hold the chain, then this idea that all users must have a copy is demonstrated to be flawed. 
+
+We are working on solutions including blinded transactions, dealerless thresholds and microservices architecture.
+
+These will allow companies to easily implement nodes and start services for users whist also not having trust issues. Threshold blinding means that a group of web based companies can be selected and not know which of these are a part of the system. They compete to hold a part of your key and protect it without even knowing which addresses they are maintaining.
+
+The focus of the scaling debate is wrong. Bitcoin scales right now. The issue being fought is one of corporations being involved. This is a matter of economic efficiency and is not one that a group of collectivists will even solve. Economic efficiency always wins in the end. 
+
+All that stated. Yes, we are implementing the examples you listed.
+
+In a modularised system (rather than the existing monolithic system) we can make it simple to decide how you want to save data. This includes reclaiming disk space if you want.
+
+I would not say it is an end in itself, but we have incorporated this function.

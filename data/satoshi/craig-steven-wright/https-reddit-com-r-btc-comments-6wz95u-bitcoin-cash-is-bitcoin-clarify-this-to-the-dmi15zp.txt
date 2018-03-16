@@ -1,0 +1,27 @@
+
+The miners save as this is a competitive business and the miners are seeking profit, that is the core of the system.
+
+You are correct, the miners should be ordering the code they wish and not leaving themselves reliant on the whims of a technocratic group. It remains competition that makes the system work. 
+
+The UASF issue is one of planned vs emergent systems. This dichotomy was demonstrated in 1974 with the polar opposites in awards being granted for the Nobel in Economics*. Hayek was a firm believer in emergence and one of the fathers if the Austrian school of economics. His speech is here [1]. Gunnar Myrdal shared the award with him for his work on planned economics. The two could not be more in opposition. Gunnar Myrdal taught how the poor could not be entrusted to help themselves. He argued that they needed to have paternalistic 'guidance'. 
+
+For a long time, society has been slowly being conditioned. The works of intellectuals including Myrdal have 'demonstrated' how society needs to be led and we have been taught not to question those in power. This is analogous to the current scenario. The miners have entrusted themselves to a small group. Not an open group as is argued, but a small group of technocratic experts who purport to understand better than the market. 
+
+That is what needs to be changed. 
+
+The most egregious flaw is built on the erroneous assumption that Bitcoin is a random scale free network. Most researchers have blindly assumed this [2] following the analysis of the transaction graph, a mapping that models the flow of transactions. The error in this line of thought is that node connectivity has no relationship nor correlation to the node network. In [2] is it noted that "In random networks the majority of nodes have approximately the same degree, close to the average
+degree k of the network". This follows for earlier network analysis such as that of [3].  What is overlooked is the work of researchers such as Watts and Strogatz [4].
+
+In the work of Watts, Newman and Strogatz [5] it was proven that whilst 'purely random graphs, built according to the Erdős–Rényi (ER) model, exhibit a small average shortest path length (varying typically as the logarithm of the number of nodes) along with a small clustering coefficient' that real world models with evolutionary techniques have a small average shortest path length not explained in the former model. Watts and Strogatz analysed real-world networks and showed a clustering coefficient significantly higher than expected by random chance. Bitcoin is such a network. 
+
+I recommend reading materials including [6] to see how Small world models develop in economic system (including Bitcoin).
+
+
+[1] https://www.nobelprize.org/nobel_prizes/economic-sciences/laureates/1974/hayek-lecture.html
+[2] file:///C:/Users/craig/Downloads/futureinternet-08-00007.pdf
+[3] Albert, R.; Barabasi, A.-L. Statistical Mechanics of Complex Networks. Rev. Mod. Phys. 2002, 74, 47.
+[4] Watts, D. J. (1999). Small Worlds: The Dynamics of Networks Between Order and Randomness. Princeton University Press
+[5] http://noduslabs.com/radar/types-networks-random-small-world-scale-free/
+[6] https://www.hindawi.com/journals/mpe/2014/693743/
+
+* Nobel Memorial Prize in Economic Sciences

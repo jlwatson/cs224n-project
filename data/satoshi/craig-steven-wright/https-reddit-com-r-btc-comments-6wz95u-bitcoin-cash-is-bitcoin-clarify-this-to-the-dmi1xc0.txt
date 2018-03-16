@@ -1,0 +1,3 @@
+There are many aspects of the system that people fail to understand. 
+
+Explaining the difference from a  Erdős–Rényi (ER) system to a Watts, Newman and Strogatz [5] form small world graph would be remarkably helpful, esp if it was in a simple form.

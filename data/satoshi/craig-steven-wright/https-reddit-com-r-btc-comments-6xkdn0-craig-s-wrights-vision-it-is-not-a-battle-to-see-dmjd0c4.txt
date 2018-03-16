@@ -1,0 +1,3 @@
+Both are a bad idea long term. The complexity and timing results in issues. The bitcoin protocol is an SEIR-c.
+
+I will have a paper explaining more of this out when it is published later this year.

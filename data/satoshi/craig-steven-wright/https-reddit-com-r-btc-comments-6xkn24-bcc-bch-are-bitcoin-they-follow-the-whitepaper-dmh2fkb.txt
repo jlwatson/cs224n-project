@@ -1,0 +1,5 @@
+I can sign a message to say this is me, but what does this prove. PGP, Bitcoin etc are not identity based systems. 
+
+Keys can be transferred and exchanged. What proof is holding a key? Even if I set an account up, I could pay another to answer. Is that me or another?
+
+I see that few understand this. 

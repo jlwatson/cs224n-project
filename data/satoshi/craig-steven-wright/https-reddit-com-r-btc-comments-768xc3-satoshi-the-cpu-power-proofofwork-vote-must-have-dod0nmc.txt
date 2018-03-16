@@ -1,0 +1,3 @@
+Miners are not a consolidated group. They are competitive.
+
+This is your biggest flaw and misunderstanding, this "Occupy" idea that companies are bad. It is flawed in more ways that I care to cover. Only miners add blocks. Users with a User node do not impact the network at all as they never create anything. 

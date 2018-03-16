@@ -1,0 +1,3 @@
+Bitcoin is an SEIR-c propagation model, so the waves could be similarly modelled to wave like forms in epidemics. 
+
+http://www.elixirpublishers.com/articles/1350135435_42%20(2012)%206062-6064.pdf

@@ -30,7 +30,7 @@ Nick Szabo
 
 Craig Stephen Wright
 - [x] https://web.archive.org/web/20160502071722/http://www.drcraigwright.net/
-- [ ] https://www.reddit.com/user/Craig_S_Wright
+- [x] https://www.reddit.com/user/Craig_S_Wright
 
 Dorian Nakamoto
 - [x] https://www.reddit.com/user/DSPNakamoto

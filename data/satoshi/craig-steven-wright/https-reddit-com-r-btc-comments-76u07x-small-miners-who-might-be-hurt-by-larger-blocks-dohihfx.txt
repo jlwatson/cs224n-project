@@ -1,0 +1,21 @@
+
+You FOUND the internet archive and it is not a paywall as the original site is a free site:
+https://arxiv.org/abs/1111.2626
+
+No paywall. So, stop with the spurious claims. The terminology, the "The depth of a node" refers to distance. This is incorporated into statements in the paper including:
+
+"We start with describing the distribution network. We assume that the network consists of a forest of d-ary directed trees, each of them of height H. The distribution phase starts when the buyer sends the details of the transaction to the t roots of the trees (which we shall term seeds)."
+
+Yes, I know that this seems to be "gibberish" to you, but then, what would that matter. Maybe... just maybe, you should read what a small world graph is. Most of these ARE connected directly. This, in the mining network of Bitcoin is connected with a very high edge count. 
+
+That is what makes the distance so low. And no, A Ras Pi cannot handle this, but then, miners do not run Ras Pis do they?
+
+For all your incomprehension, it is how the network works. 
+
+This is the thing. i really do not care what any of the small block side thinks. We do not need you. You are against business and globalisation of Bitcoin and that is what we seek. 
+
+So, please, take SegWit Coin and try and then fail (as you refuse to learn how the system works). Listen and learn if you like.
+
+What you will see, is that not a thing of what you claim matters. Business is coming. Merchants are coming.
+
+And they are coming to Bitcoin Cash. Enjoy the Ponzi that is segwit.

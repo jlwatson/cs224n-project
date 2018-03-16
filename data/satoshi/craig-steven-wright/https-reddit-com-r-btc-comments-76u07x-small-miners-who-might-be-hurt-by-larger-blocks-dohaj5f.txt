@@ -1,0 +1,11 @@
+Only if you want to ensure that Bitcoin cannot scale. If you want to ensure that it fails.If this is your goal, if you want to ensure that it is too expensive, too slow and too difficult for others to use... then all users need nodes.
+
+The FACT that it makes more distance and thus cannot be secured [1] as it is open to Sybils, that is ignored. The fact that Bitcoin was designed as a small world system with a low hop count that cannot be attacked, yes, all people need nodes if you want to remove that. 
+
+If you want a payment system, cash that is peer to peer.
+
+If you care for low cost exchange that is safe. If you want to have P2P exchange as you send from one party to another directly and settle - not exchange, settle on chain... Then it is cash. And then you do not need a node for all people. SPV is and was all that is needed.
+
+Harm. That is damages. Adding fees, making it less secure, that is harm.
+
+1. https://arxiv.org/abs/1111.2626

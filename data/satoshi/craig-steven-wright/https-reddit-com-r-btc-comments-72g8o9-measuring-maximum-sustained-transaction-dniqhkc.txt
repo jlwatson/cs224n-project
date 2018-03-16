@@ -1,0 +1,1 @@
+SPV. The idea of Bitcoin was never to have all users running nodes and it was only that you have nodes where they are mining.

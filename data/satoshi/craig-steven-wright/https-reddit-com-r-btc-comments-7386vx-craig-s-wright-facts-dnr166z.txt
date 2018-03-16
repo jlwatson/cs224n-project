@@ -1,0 +1,3 @@
+I completely agree, security is a dynamical system. Investment needs to be applied constantly. In CH 4 of my thesis I demonstrated this quantitatively and used a series of firm analysis and experiments to qualify it as well. 
+
+The same applied in other parts of my papers and thesis. If we have a dynamical multi stage game, we see that we are able to treat risk and security as a depreciating good. It requires a constant input (of energy) to be maintained at any level.

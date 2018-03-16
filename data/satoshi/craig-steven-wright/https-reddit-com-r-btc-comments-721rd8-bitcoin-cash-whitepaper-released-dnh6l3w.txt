@@ -1,0 +1,1 @@
+No. Trustless works with thresholds and blinding.

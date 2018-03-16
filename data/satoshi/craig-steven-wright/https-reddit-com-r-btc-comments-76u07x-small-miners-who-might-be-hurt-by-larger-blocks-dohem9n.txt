@@ -1,0 +1,29 @@
+Again, no fact. Just It is...
+
+Luke, LN is a mesh. That is simple. It is admitted already that it will require hubs. These are choke points. Poon even states this. 
+
+Even the assertions against centrality fail to see that they prove centrality:
+https://hackernoon.com/simulating-a-decentralized-lightning-network-with-10-million-users-9a8b5930fa7a
+
+Any network with >3 hops (network distance) is centralised to an extent. As the network distance increases, it becomes more highly concentrated at choke points. The best case (and this is in an idealised system) was a network hop count >10.
+
+That is the best case from a Lightning developer. D>10 is considered incredibly centralised. Again, I point to:
+https://arxiv.org/abs/1111.2626
+
+This paper from Microsoft Research again did not test the distance of the Bitcoin network (it is D~1.32). So they can be forgiven to an extent in that they did mathematically validate for all distances. What they stated and demonstrate is that:
+
+"There is no Sybil-proof reward scheme in which information
+propagation and no duplication are dominant strategy for all nodes at depth 3
+or less."
+
+So, LN for ONLY 10 million users has already failed, miserably. 
+
+Bitcoin at d~1.32 is incredibly secure.
+
+The move to create a Bitcoin user mesh, well that makes the network distance > 3 and hence not secure.
+
+See also:
+DYAGILEV, K., MANNOR, S., AND YOM-TOV, E. 2010. Generative models for rapid information propagation. In Proceedings of the First Workshop on Social Media Analytics. SOMA ’10. ACM, New York, NY, USA, 35–43
+
+And Also (on how and what a Small World system is):
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3604768/

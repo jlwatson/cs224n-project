@@ -1,0 +1,5 @@
+The HF for Cash addresses a S vs -S issue. This is not a problem re future scripts.
+
+I have no issue with forcing the use of only S and rejecting (R, -S).
+
+This is one simple form of malleability and if this is all that is being fixed, then there is no issue.

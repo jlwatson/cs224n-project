@@ -1,0 +1,4 @@
+Yes, I have read that, your emails and the BIP.
+
+"Soft fork upgrades will become much easier and cleaner this
+way." Basically, it makes many changes into ones that can be slowly added. 

@@ -1,0 +1,7 @@
+I had originally submitted my thesis in 2012 . This was 340 pages longer. I cut this to 450 pages in 2013 and finally to a little over 300 pages in 2014 before that submission. 
+
+I also needed to do a lot of external (not presented in the thesis) justification. I argue that Akerlof's market for lemons is flawed. It is, horribly so. In time, I will publish the data I used to have others accept my thesis as is, but there are other things first to complete. 
+
+The idea that security and risk are economic functions is not something many in the industry like or accept. I can and have demonstrated it empirically, but this goes against the ingrained ideals of many IT security and risk people. They seek perfection, not probability and economic optimisation.
+
+https://twitter.com/ProfFaustus/status/914419984771710976

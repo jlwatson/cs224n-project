@@ -1,0 +1,20 @@
+Yes, this is not "my" methodology. It derives from a field of mathematics known as percolation theory. It is a part of statistical physics and mathematics and was a topic that I have both taught and studied. So, I can gladly direct people to it.
+
+Some references are listed below. There are many more, but I have a car coming and I am on my way to Paris, so this will have to wait. Sorry.
+ 
+It is a well-defined science already and Einstein’s Nobel was for one aspect of this, Brownian motion. 
+
+I guess my greatest talent (as many state) is not coming up with things that are completely new, but in using the range of tools available. I have a paper in for peer review as well as a few others coming that cover the topic when applied to Bitcoin. But I am glad to be able to point others towards the topic in order for them to discover more.
+
+http://www.stats.ox.ac.uk/~reinert/talks/swtalkparis.pdf
+https://arxiv.org/pdf/cond-mat/0001118.pdf
+NEWMAN, M. E. J. AND WATTS, D. J. 1999b Scaling and percolation in the small-world network model. Physical Review E 60, 7332–7342.
+Watts, D. J.; Strogatz, S. H. (1998). "Collective dynamics of 'small-world' networks" (PDF). Nature. 393 (6684): 440–442. Bibcode:1998Natur.393..440W. 
+Erdos, P. (1960). "Publications Mathematicae 6, 290 (1959); P. Erdos, A. Renyi". Publ. Math. Inst. Hung. Acad. Sci. 5: 17.
+Ravasz, E. (30 August 2002). "Hierarchical Organization of Modularity in Metabolic Networks". Science. 297 (5586): 1551–1555. Bibcode:2002Sci...297.1551R. doi:10.1126/science.1073374.
+Al-Anzi, Bader; Arpp, Patrick; Gerges, Sherif; Ormerod, Christopher; Olsman, Noah; Zinn, Kai (2015). "Experimental and Computational Analysis of a Large Protein Network That Controls Fat Storage Reveals the Design Principles of a Signaling Network". PLOS Computational Biology. 11 (5): e1004264. Bibcode:2015PLSCB..11E4264A. PMID 26020510. doi:10.1371/journal.pcbi.1004264.
+Albert, R., Barabási, A.-L. (2002). "Statistical mechanics of complex networks". Reviews of Modern Physics. 74 (1): 47–97. Bibcode:2002RvMP...74...47A. arXiv:cond-mat/0106096 Freely accessible. doi:10.1103/RevModPhys.74.47.
+Barrat, A.; Weigt, M. (2000). "On the properties of small-world network models" (PDF). European Physical Journal B. 13 (3): 547–560. doi:10.1007/s100510050067. Retrieved 2008-02-26
+
+Percolation
+http://www.math.chalmers.se/~steif/perc.pdf 

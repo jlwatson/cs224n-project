@@ -1,0 +1,5 @@
+Unfortunately your assumptions on the network are not correct.
+
+You should try and read a little on competing epidemics, this is what you are discussing and it is what is not being used. 
+
+Again, under attack you need to model the means of how it functions and it does this as an SEIR net. 

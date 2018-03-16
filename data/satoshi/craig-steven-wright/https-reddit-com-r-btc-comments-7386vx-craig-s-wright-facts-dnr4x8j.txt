@@ -1,0 +1,5 @@
+Oh, that was you?
+
+Yes, but I did not match the person to the reddit account. I am a little autistic when it comes to matching people... sorry :)
+
+Bitcoin is NOT exponential, that would be easy. It is Logistic. At the current phase it can model an exponential process approximately, but it will diverge in time. 

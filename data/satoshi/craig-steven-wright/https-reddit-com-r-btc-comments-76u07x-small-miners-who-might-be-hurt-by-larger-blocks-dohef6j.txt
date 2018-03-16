@@ -1,0 +1,12 @@
+
+The issue is that this paper grossly misrepresents how the Bitcoin network functions. The idea that they model is when a TX is to the majority of home nodes. This is not the issue. It is only when it is to the majority of mining nodes.
+
+99.8% of mining nodes receive a TX in under 2 seconds (well they did before RBF and Core's alterations).
+
+99.8% of nodes receive a TX in 44 seconds. 
+
+These are separate issues. All that matters is that the majority of hash power has a TX. The flaw in the paper is that it fails to account for this. It confuses peers with nodes and also does not see that a peer in Bitcoin is a party involved in a transaction. That is a user and a merchant pair for example, the miners are a settlement and clearing system. The miners ensure the validity of the Peer exchange, they are not the peers. 
+
+So, the reality of that result is that the authors completely mis-comprehended how Bitcoin works. They confused the distribution of nodes and mining power.
+
+As a hypothesis this would be fine. However, like most of what is called science in Bitcoin land, they failed to test anything empirically. They made (invalid) assumptions that could have been tested simply. In this, they utterly failed in understanding how Bitcoin really works. 

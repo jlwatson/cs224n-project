@@ -1,0 +1,8 @@
+Tom tomz at freedommail.ch 
+Tue Sep 20 17:15:45 UTC 2016
+
+"At the same time, due to this re-ordering of data fields, it becomes very
+easy to remove signatures from a transaction without breaking its tx-id,
+which is great for future pruning features."
+
+Your quote Tom

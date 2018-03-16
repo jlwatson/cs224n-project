@@ -1,0 +1,5 @@
+Again, these are signed.
+
+They are to and from signatures at some point. Yes, they are paid to anyone who has the hash (and this means miners as well), but they are signed from and later when collected to.
+
+So, a partial signature is not the same as no signatures. 

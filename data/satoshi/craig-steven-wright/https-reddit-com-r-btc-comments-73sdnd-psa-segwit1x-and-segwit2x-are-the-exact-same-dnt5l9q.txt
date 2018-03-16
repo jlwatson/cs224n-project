@@ -1,0 +1,8 @@
+Not in Reddit. 
+
+If this links correctly...
+https://play.google.com/books/reader?printsec=frontcover&output=reader&id=JQv2ySOsQkQC&pg=GBS.PA39
+
+Malleability is what is know as an "Attack-Like Attribute" it is not an attack but something that needs ot be accounted for in business rules. 
+
+When explicit, it forces people to code well to not be caught out. When hidden, it leads to catastrophic breaches. So it is better to not hide it and by hiding it trust to obscurity. 

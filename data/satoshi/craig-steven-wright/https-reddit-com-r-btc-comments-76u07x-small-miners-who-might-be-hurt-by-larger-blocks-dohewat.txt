@@ -1,0 +1,19 @@
+Yes, it is somewhere in the pipe-line.
+
+Right now, we are creating PoC code. Soon we will be starting to have more of this released (some is to selected groups now). We do not want to own this per se. We want to have others take the PoC systems and code and allow a vibrant ecosystem. Not centred on us, but using what we seed and then in time what many others also develop.
+
+If you read the whitepaper, this is the heart of what SPV in S.8 is really about. We call it a "Fast Payment" Network. The concept is to allow merchants to have their own information and then to assess and validate the transactions that they require. Not all of the Blockchain, this is simply a series of chained hashes that can be validated without a good deal of effort but the TXs that the merchant is associated with. 
+
+This can be probabilistic in nature (as Master Slave Bloom Filters and other hierarchical systems are) and this suffices for a merchant based on the level of TX size (value) they seek to accept. 
+
+A small TX value does not require much at all. The cost of a Double spend is over $68,000 USD today. And this is for a ~10% success rate with a 2 second validation. So, the reality is that we have a lot of work to do in order to make this a global system and we do not have the time to play the games about block size and collectivist ideals of world social ownership.
+
+In 10 years, we will have halved 3 more times. The block reward will be low and it is not possible at this point for any low volume scheme to function. The costs to maintain the Bitcoin network would exceed the amount mined in 8 to 10 years, and if this is not made up from transaction fees, it will collapse. It is not altruistic, it is purely profit driven.
+
+As such, there remains a single hope. A large (huge) volume of very small fees. Not USD1 each. Fees under 0.01 USD. This is viable in volume. If we scale to 1 to 5 billion people, we can make Bitcoin a global force and it will be unstoppable. 
+
+As a settlement system it is terrible, there are so many more effective settlement systems. I worked with the CHESS (Aust Stock Exchange Clearing and Settlement) system in the 90s. This was more advanced than Bitcoin then and scaled more if settlement is all you seek.
+
+So. Yes, we are planning to open up a good number of systems to allow merchant adoption. But, we do not want to be the centralised system that sits are a gatekeeper.
+
+We want to give technology to others and make a dynamic ecosystem in Bitcoin.

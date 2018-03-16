@@ -1,0 +1,5 @@
+That is not correct. 
+
+It is a common statistical method. Each edge can be assigned to the same machine and even different IP addresses fail to hide hosts. This was a part of 2007/8 work I did and published on system and application modelling. We developed neural nets that could determine hosts even through Tor. 
+
+Some of this is floating about but I will dig it up later in the week.

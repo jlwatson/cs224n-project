@@ -1,0 +1,13 @@
+Yes, I have read a number of papers from Daniel Kahneman.
+
+"Scholarly articles for Choices, values, and frames" is very interesting.
+
+As for how to explain to line managers... well these are not the people for whom/where issues exist. The problem is the "geek" community. Those who feel they understand security and risk and code. It is rare for then to also understand finance and economics and hence trade-offs. 
+
+All security is a risk and hence an economic trade-off.
+
+Later in the thesis, I document failure rates and modelling. This is a Poisson process and the maths does get a little difficult for most, but it can be coded fairly simply.  
+
+Our self-contradictory contrarian may like to try and learn some. As much as they want to argue, I used to teach statistics and maths at a post graduate level. 
+
+People have ideas and beliefs that are difficult to change. The idea of accepting that a criminal can be acting rationally is just an example. Here, economic incentives matter. 

@@ -1,0 +1,1 @@
+The goal of trying to remove signatures from transactions is also something that needs be avoided. 

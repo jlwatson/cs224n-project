@@ -1,0 +1,11 @@
+Malleability is an excuse to implement SegWit. It is a state of EcDSA. All Digital Signature systems have some forms of Malleability, but the ones being argued are not even defined to most people when it is stated, malleability is bad.
+
+Malleability is not needed for LN and it is not for payment channels generally.
+
+Even having people explain why this is wad starts to demonstrate why this is a non issue, few understand what it really means. The ONLY way to remove transaction malleation is to not incorporate the signature. This is a major change in the protocol. 
+
+When sending, the to and from addresses do not change even if Malleated.
+
+If people used CPFP systems or if they implemented better business rules in the code they write, it would not be even a minor issue.
+
+SigHash_AnyoneCanPay forms allow for chained TXs. And this is even without creating complex self signed systems (and yes, this is known and can be done but is computationally expensive and not necessary). 

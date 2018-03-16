@@ -1,0 +1,5 @@
+"It also shows to be possible to remove signatures from transactions with minimal upgrades of software and still maintain a coherent transaction history. Tests show that this can reduce space usage to about 75%." [1]
+
+As always, there is this drive to hobble Bitcoin through removing signatures. Yes, it remains one of the aspects of FT as well.
+
+[1] https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2016-September/013125.html

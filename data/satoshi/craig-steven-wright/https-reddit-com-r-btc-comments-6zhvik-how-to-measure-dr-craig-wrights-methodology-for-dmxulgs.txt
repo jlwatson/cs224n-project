@@ -1,0 +1,9 @@
+A distinction I would use is to map the system. Neural networks and back learning would be a good starting technique.
+
+Here, you start looking at the system and what it is doing and trace TXs. You link the system to mining and TX broadcasts. Miners have a separate profile to TX sending nodes (that is exchanges etc).
+
+The source of a TX is not likely from a mining node (other than coin base and a few special TXs). So, these timing and broadcast differences lead to a method to map if a node is an economic node, a carrier node (not adding anything) or a miner. 
+
+I have a paper using SEIR and SEIR-C methods being published this year.
+
+I will tweet some images today including of an old (2008) method I had).

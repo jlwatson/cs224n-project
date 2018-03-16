@@ -1,0 +1,3 @@
+LN is NOT a trustless system. It is also not routed in the way Bitcoin  is.
+
+Bitcoin is a small world network and not the large distance scale free one that LN is.

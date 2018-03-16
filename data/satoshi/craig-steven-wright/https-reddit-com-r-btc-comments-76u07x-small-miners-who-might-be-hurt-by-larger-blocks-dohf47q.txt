@@ -1,0 +1,5 @@
+Again, this is a cost benefit issue. It does not mean a thing for a home user. 
+
+It does for a miner. Here in the UK, I have a 1GB fibre line. My US latency to Google is 1 ms over the theoretical minimum that is allowed using the speed of light.
+
+Companies in competition will use the lowest cost infrastructure they can that delivers a profit. A merchant just needs to validate a TX and that can be done as a separate function in less than Square or Visa do now.

@@ -1,0 +1,11 @@
+P2SH is an ugly hack. (SORRY GAVIN).
+
+It is not necessary. It is refund and and we can open more without a protocol change using thresholds. Those things Greg and co. said cannot be done in EdDSA... we have working. That is what we are building when we discuss blinded thresholds.
+
+There are no use cases we cannot do without P2SH and in the original bitcoin protocol minus these changes.
+
+In fact. They are faster. They are more secure. They take less TX space. 
+
+So... p2SH is a kludge.
+
+We will provide something better and ad this is not detectable by miners from a type 1 address... There is no way to stop us rolling it out. Then... use a type 3 at a disadvantage. 

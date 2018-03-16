@@ -1,0 +1,11 @@
+Luke has the idea that competing companies will collude. Basically, it comes down to the argument that all businesses are in collusive alignment and act as one entity. 
+
+This is a common socialist/collectivist argument. It is easy to falsify, but this is not the issue. There are always many willing to listen without evidence. 
+
+The attack is where >50% of the miners can reverse transactions. This is simple to check for. This does not require that you run a full node. A home user could even checkpoint transactions and only validate a part of the UTXO set, that they are associated with. This is of course what SPV was all about. You prune anything that you are not associated with and only validate the blocks you need to check remembering that the nature of the Merle tree ensure that you are not somehow receiving a TX that was wrongly hashed. 
+
+If users do this, the system is safe. Not checking all the chain, just parts as needed. If there is ever an attempt to collude, all users can instantly check and validate this and know that a miner was defecting. So, as such, there is not requirement for all users to repeat all work. This is what the system was. Bitcoin alters that.
+
+You do not need to trust miners but the underlying system. Luke does not and did not understand this and hence we are in this position where we still teach people how they cannot trust Bitcoin. We falsely propagate the lie that security is an all or nothing thing. It is far from this. It is a >50% of miners being will to support the system thing. 
+
+What Luke and others refuse to say is that home nodes for what of a better term offer nothing. They never manage to propagate blocks to miners and more crucially, they never create a block. In this, they never have a say. A home node can never form a mining network as it does not mine and hence it cannot ever aid in securing the system. Not a bit.

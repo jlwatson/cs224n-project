@@ -1,0 +1,10 @@
+As always Tom, I would be, but this is all I would gain back.
+
+You seek a radical [1] change. It is an extensive redesign of the transaction and it also removes the signature components from 
+
+"At the same time, due to this re-ordering of data fields, it becomes very easy to remove signatures from a transaction without breaking its tx-id,  which is great for future pruning features."
+
+I suggest that you look up the word radical and then look at the changes FT creates. 
+
+[1] (especially of change or action) relating to or affecting the fundamental nature of something; far-reaching or thorough.
+[2] https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2016-September/013125.html

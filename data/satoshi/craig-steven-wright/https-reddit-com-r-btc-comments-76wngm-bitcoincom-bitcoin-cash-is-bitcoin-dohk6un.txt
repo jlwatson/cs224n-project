@@ -1,0 +1,3 @@
+If you select to drop money, this is what you do. The exchange is still swept into a chain of signatures.
+
+The definition remains. Stating that you can create a form that goes to any address (and all payments to miners go to an address) is not a change in definition.

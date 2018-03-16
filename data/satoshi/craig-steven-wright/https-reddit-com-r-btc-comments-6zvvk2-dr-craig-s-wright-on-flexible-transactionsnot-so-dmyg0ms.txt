@@ -1,0 +1,3 @@
+Additionally, hardforks are not the evil they are made to be. The protocol was always made to be a choice by miners and even in an orphan, it is a fork where a vote is made. 
+
+Soft forks are not a goal that should be pushed for itself. They are about updates. As a result, why hide the change. It should not be something that is hidden. This has been the worst aspect of Core and BTC and that being made simpler is not a goal to make a resilient system, it is a system that developers can more easily control. 

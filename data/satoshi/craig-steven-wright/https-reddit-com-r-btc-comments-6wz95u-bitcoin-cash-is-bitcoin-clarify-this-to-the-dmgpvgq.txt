@@ -1,0 +1,5 @@
+If you are not mining, what is the point. 
+
+The lie is that a non mining node has any effect, it does not. Bitcoin is not a random scale free network. It is a near complete small world. 
+
+So, the lie is that you have an impact at all. The reality is that the network distance is a d=1.32 range and miners have 99.8% of TXs in under 2 seconds and the so called full nodes in 40+ seconds. The result is that non mining nodes react after the game is over.

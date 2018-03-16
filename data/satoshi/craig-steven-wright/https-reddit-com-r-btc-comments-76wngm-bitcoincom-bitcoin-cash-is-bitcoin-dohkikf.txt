@@ -1,0 +1,7 @@
+Oh, at no point is there a no  sig to no sig transaction. 
+
+You can sign so anyone can have the TX at will, but this is still swept into an address and that requires a sig. So, your argument is false.
+
+There can be an open TX that can go to any address, but at all points it is a chain of signatures.
+
+There is no such thing as a hash to hash Bitcoin TX

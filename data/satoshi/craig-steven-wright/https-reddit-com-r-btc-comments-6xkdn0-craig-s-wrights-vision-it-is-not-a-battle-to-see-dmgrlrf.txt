@@ -1,0 +1,5 @@
+On that note. Do you know what 500,000 Sig ops a second is? That is what 20k USD buys.
+
+It is  Visa, Mastercard, The New York Stock Exchange, 20,000 global banks, Swift, the Fed, and all but the dark OTC pools handled on a business quality server...
+
+Compare that to 30 a second limited by Core. Then tell me if 20k (and this goes down logistically every year in cost) is worth it?

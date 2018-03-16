@@ -1,0 +1,13 @@
+
+The followup is correct. My estimates are the largest use case. When I stated a 20k USD host, I was referring to a system that could handle 500,000 Sig ops [1] each second. A single Bitcoin transaction (TX) will have at least 2 and sometimes many operations with a mean between 4 -8 signatures which varies over time and is larger in consolidating and joining transactions. Even at an average of 8 signatures in a transaction, we are looking at 62,500 transactions a second for a single host. 
+
+Right now, Bitcoin can handle 4. 
+
+Visa hits 11,000 a second at peak [2]. Bitcoin can do this. It is not a factor of every block, but some and the issue is not a battle within the space but externally with the incumbents. The banks, the card processors and other existing forms of money transfer. 
+
+The system does not require every packet to handle this peak, just some and even then, the ability to grow to this will take time. Bitcoin is limited not  in its ability to grow as is argued, but in the lack of a system that merchants wish to use. Some started, the fees are stopping this.  What we need is a simple and robust front end and PoS and the back-end to ensure this is not stifled by fees.  
+
+So, yes, I overestimate, but the fact is we can start to grow now and Moore's law will be there to ensure this is possible for decades to come.
+
+[1] Sig ops are signature operations and refers to a single ECDSA operation. 
+[2] http://www.visa.com/blogarchives/us/2011/01/12/visa-transactions-hit-peak-on-dec-23/index.html

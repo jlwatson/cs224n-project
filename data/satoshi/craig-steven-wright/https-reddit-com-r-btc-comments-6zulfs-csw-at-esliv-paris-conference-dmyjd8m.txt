@@ -1,0 +1,13 @@
+Sorry. You have the wrong material. 
+
+There is a good analysis of this that is presented here:
+http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.432.7815
+
+Turing's original paper was:
+A. Turing, On Computable Numbers, With an Application to the
+Entscheidungsproblem, Proceedings of the London Mathematical Society
+42 (1937), 230–65.
+
+You are linking a later set of lectures. 
+
+Then this was never about having the truth told for you was it?
