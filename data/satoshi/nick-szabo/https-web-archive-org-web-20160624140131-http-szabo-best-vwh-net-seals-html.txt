@@ -1,20 +1,4 @@
-Nick Szabo's Papers and Concise Tutorials  
-Commercial security at the birth of writing, arithmetic, and religion in
-ancient Sumer (modern Iraq). Copyright (c) 2002 by Nick Szabo
-
-redistribution without permission of the author prohibited
-
-### Table of Contents
-
-Introduction  
-Seals and Sealing  
-Clay Documents and Envelopes  
-Tamper Evident Numbers  
-Modern Sealing  
-Conclusion  
-References  
-Stop the Looting  
-Acknowledgements It is five thousand years ago, and you pace fretfully in your
+It is five thousand years ago, and you pace fretfully in your
 office. Located in the temple of the great goddess Inanna in ancient Nippur
 (now in Iraq) you are buried, not in a blizzard of paper, but an avalanche of
 clay. You fret. You have entrusted a valuable cargo of sheep, barley, and beer
@@ -43,13 +27,13 @@ our technological and institutional descendants of the ancients' clay. And
 using the digital equivalent of seals, we can bring data integrity and
 unforgeable identities to online commerce.
 
-### Seals and Sealing  
-  
-  
+### Seals and Sealing
+
+
 _Terra cotta sealing (bottom) and rectangular stamp seals, Mohenjo-Daro, Indus
 Valley, c. 2,000 B.C. The central sign on the top seal may represent a house
 or temple and is a symbol that is often repeated on Indus seals with horned
-deities seated in yogic position. Courtesy harappa.com._  
+deities seated in yogic position. Courtesy harappa.com._
 Let 's follow the professional archaeologists and distinguish between _seals_
 , the often cleverly carved cylinders or stamps that make the impressions, and
 _sealings_ , the resulting impressions rolled or stamped on wet clay, and the
@@ -87,11 +71,11 @@ Ancient inspectors undoubtedly became experts at looking for clues to
 distinguish accident from fraud. In any case, a broken seal then as now
 indicated suspect goods suitable perhaps for the discount bin, but more
 normally for the trash. It also indicated error for fraud -- and potential
-punishment.  
-  
-  
+punishment.
+
+
 _Cylinder seal (left) and its sealing (right), King Darius the Great, Persia,
-586-522 B.C., with weapons of war_  
+586-522 B.C., with weapons of war_
 The earliest stamp seals found were used in Iran in 5,000 B.C. Later on
 archaeologists can use both the trade in seals themselves, as well as the
 distances between seals and the corresponding sealings, to trace long-distance
@@ -133,20 +117,20 @@ that could be unleashed by breaking a seal are well illustrated by his book of
 Revelations, in which the breaking of the first four seals of a holy book
 release the Four Horsemen of the Apocalypse:
 
-    
-    
+
+
     6:1 And I saw in the right hand of him that sat on the throne a book written within and on the backside, sealed with seven seals. 6:2 And I saw a strong angel proclaiming with a loud voice, Who is worthy to open the book, and to loose the seals thereof? ...
-      
-  
-  
-_Wire ring and coil money, Sumeria, c. 2,500 B.C._  
+
+
+
+_Wire ring and coil money, Sumeria, c. 2,500 B.C._
 A worthy deity is found, who starts breaking the seals and thereby loosing the
 Horsemen --
 
-    
-    
+
+
     6:5 When he opened the third seal, I heard the third living creature saying, "Come and see!" And behold, a black horse, and he who sat on it had a balance in his hand. 6:6 I heard a voice in the midst of the four living creatures saying, "A choenix of wheat for a denarius, and three choenix of barley for a denarius! Don't damage the oil and the wine!" [2]
-    
+
 
 The Sumerians used thin wires and flat ingots of gold and silver, carefully
 weighed in balance scales, rather than coins like the Roman denarius. Except
@@ -187,11 +171,11 @@ is simply an empty furrow. Many other cultures (though not this one) have
 taken this to the next step and used this abacus, in the form of pebbles on a
 board or beads strung on rods, to add, subtract, multiply, and perform other
 computations. Indeed, until the advent of our modern Arabic numbers,
-everywhere calculations were done by the abacus or fingers, not on paper.  
-  
-  
-_Clay envelope and tokens, Sumer, c. 3,400 B.C._  
-  
+everywhere calculations were done by the abacus or fingers, not on paper.
+
+
+_Clay envelope and tokens, Sumer, c. 3,400 B.C._
+
 In the ancient Middle East, these pebbles took the form of dried clay tokens.
 The clay was formed into pebbles of various shapes and sizes. Some represented
 sheep, some standard sized pots of barley, and so on. The number of kinds grew
@@ -281,11 +265,11 @@ using cryptographic methods, can now compute unspoofable checksums.
 
 ### Modern Sealing
 
-  
-  
----  
-_Evidence bag. Courtesy Custom Specialties Inc. [no relationship to author]._  
-  
+
+
+---
+_Evidence bag. Courtesy Custom Specialties Inc. [no relationship to author]._
+
 Breaking a seal still, but fortunately only quite rarely, can have
 implications that are apocalyptic -- at least for the individuals involved.
 Tylenol in 1982 and 1986, Excedrin and Lipton Cup-A-Soup in 1986, Sudafed in
@@ -319,12 +303,12 @@ recorded and checked detects the replacement of the original tape with a new
 one. (The security of the serial number assumes that this label is not easy to
 duplicate using a laser printer). On the right, the broken seal has left a
 difficult to remove mark including the word "tamper". Courtesy tamper.com [no
-relationship to author]._  
-  
-  
-|  
-  
-  
+relationship to author]._
+
+
+|
+
+
 Many other kinds of security, from ancient to modern, can be thought of as
 providing a kind of tamper evidence. Laser-break and glass-break sensors can
 make an entire building trespass evident. Similarly, guard dogs bark to
@@ -357,20 +341,3 @@ The digital signature can be made only by the possessor of a private key just
 as a seal could be made only by the possessor of the unique seal carving. If
 the digital signature is bad, this provides evidence that the data was
 tampered with or the signature forged.
-
-### References
-
-[1] Colon, Dominique, _Near Eeastern Seals_  
-[2] _Book of Revelations_ , Ch. 6  
-[3] Ifrah, Georges, _The Universal History of Numbers_ , John Wiley & Sons
-1998, pg. 73  
-[4] Robinson, Andrew, _The Story of Writing_ [5] Rhee, 1981
-
-[6] Schmandt-Bessarat, Denise, Accounting with Tokens in the Ancient Near East
-
-### Acknowledgements
-
-My thanks to Andrew Odlyzko and K. Eric Drexler for their insightful comments.
-
-Nick Szabo's Papers and Concise Tutorials
-

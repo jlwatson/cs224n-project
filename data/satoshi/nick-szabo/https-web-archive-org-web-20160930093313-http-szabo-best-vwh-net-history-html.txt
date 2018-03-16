@@ -1,9 +1,3 @@
-Nick Szabo's Papers and Concise Tutorials Copyright (c) 2005, 2006 by Nick
-Szabo  
-Earlier versions of portions of this article previously appeared on the
-author's blog, Unenumerated and on comments the author has made on various
-blogs.
-
 ### Introduction
 
 Of the security and productivity of farmland -- and of other, less
@@ -63,13 +57,13 @@ and thus property law (and political structure in general) will vary depending
 upon the interaction of agricultural productivity and security, and vice
 versa.
 
-* There are some economies of scale in protecting farmland. An obvious economy of scale is that the area (a good proxy measure for value) of farmland increases as the square of the length of boundary that must be guarded. 
+* There are some economies of scale in protecting farmland. An obvious economy of scale is that the area (a good proxy measure for value) of farmland increases as the square of the length of boundary that must be guarded.
 
-* There are some diseconomies of scale in protecting farmland. An important diseconomy of scale is that it becomes more difficult to coordinate ever larger armies (the knowledge problem familiar to Austrian economists) and to coordinate the tax collection needed to fund those armies. 
+* There are some diseconomies of scale in protecting farmland. An important diseconomy of scale is that it becomes more difficult to coordinate ever larger armies (the knowledge problem familiar to Austrian economists) and to coordinate the tax collection needed to fund those armies.
 
-* There is a tension between the optimal size of a farm for the application of organizational labor and technology and the optimal size for military protection. If security needs become too great, the two can become mismatched and farm productivity will fall. If this is not to occur some military coordination between landowners is needed (this may be feudal, or democratic/agrarian as in the classic Greek polis, or a wide variety of other kinds of coordination including the modern state). 
+* There is a tension between the optimal size of a farm for the application of organizational labor and technology and the optimal size for military protection. If security needs become too great, the two can become mismatched and farm productivity will fall. If this is not to occur some military coordination between landowners is needed (this may be feudal, or democratic/agrarian as in the classic Greek polis, or a wide variety of other kinds of coordination including the modern state).
 
-* Geographic features can help protect farmland, allowing its size and organization to be optimized for productivity. Which geographic features are important depends on the scale on which farmland is defended. During many eras of history (from large-scale feudal coordination to the state) such coordination has occurred on a large scale.   
+* Geographic features can help protect farmland, allowing its size and organization to be optimized for productivity. Which geographic features are important depends on the scale on which farmland is defended. During many eras of history (from large-scale feudal coordination to the state) such coordination has occurred on a large scale.
 
 In Japan with its four large islands, Great Britain, Italy, Iceland, Ireland,
 and the Low Countries, ocean or mountain barriers or floodable lowlands
@@ -93,7 +87,7 @@ the industrial revolution had extraordinarily low taxes and secure, yet
 flexible, property rights, made possible by the relatively low cost of
 securing the productive property of these islands from neighbor states.
 
-* Geographical barriers have interacted with the geographical variations of climate to create some of the main geographical patterns of history. Inland areas tend to be drier, and that may explain some of the discrepancy in farming productivity. However, there are plenty of inland places (e.g. some parts of southern Russia, some temperate parts of Siberia, northern China, and southern Mongolia) that had good rainfall or potential irrigation or both, and good soils, and access to technology diffusion, yet lacked substantial fixed agriculture. Some of these on the European side are visible on the annual precipitation map to the left: darker means more precipitation. In general, except for the minority of drier climates (which however can be remedied by irrigation where rivers are available) and the most extreme wet climates, the correlation between agricultural productivity and rainfall is small and can be dwarfed by other factors. See also the global preciptiation map below. 
+* Geographical barriers have interacted with the geographical variations of climate to create some of the main geographical patterns of history. Inland areas tend to be drier, and that may explain some of the discrepancy in farming productivity. However, there are plenty of inland places (e.g. some parts of southern Russia, some temperate parts of Siberia, northern China, and southern Mongolia) that had good rainfall or potential irrigation or both, and good soils, and access to technology diffusion, yet lacked substantial fixed agriculture. Some of these on the European side are visible on the annual precipitation map to the left: darker means more precipitation. In general, except for the minority of drier climates (which however can be remedied by irrigation where rivers are available) and the most extreme wet climates, the correlation between agricultural productivity and rainfall is small and can be dwarfed by other factors. See also the global preciptiation map below.
 
 Security constraints were probably the main factor that prevented the rise of
 fixed agriculture in inland regions unprotected by geographical barriers. The
@@ -366,10 +360,10 @@ to that of the canals in medieval low country cities such as Bruges, Ghent,
 and Amsterdam. Most of the ditches were smaller than the medieval canals, but
 one of the inner ditches was up to 4.5 meters in width and 3.5 meters in
 depth. The ditches were in various places reinforced by walls of mud-brick or
-stone.  
-  
+stone.
+
 _Genoa, protected by a wall on a mountain summit on one side and the ocean on
-the other._  
+the other._
 In late medieval Europe cities became so independently defensible and had such
 different laws (specialized for commerce in commodities instead of
 agriculture) that they often became politically independent. Indeed, four of
@@ -585,9 +579,9 @@ is still very important, our political forms and laws are probably very ill-
 suited to securing information wealth. The bare outlines of how to secure
 information, and how to use information technology to secure goods, in order
 to optimize our productive generation and use of that information and of those
-goods, have barely begun to be recognized.  
-  
----  
+goods, have barely begun to be recognized.
+
+---
 _Many measures of governmental efficiency and political freedom tend to be
 lower in the interior of the Eurasian landmass and higher in penninsula areas
 and islands, reflecting the large and insecure land frontiers of the mainlands
@@ -613,35 +607,4 @@ encountered in North America. On the other hand, there have been only a few
 minor wars within and no hostile invasion of Great Britain in the last 950
 years. Our political cultures are the legacy of thousands of years of
 agricultural security, even though many of us no longer live in primarily
-agricultural societies. (Click to enlarge). _  
-  
-### References
-
-[F06] Thomas L. Friedman, "The First Law of Petropolitics", Foreign Policy
-May/June 2006.
-
-[K04] Dimitra Kokkinidou and Marianna Nikolaidou, "Neolithic enclosures in
-Greek Macedonia: violent and non-violent aspects of territorial demarcation"
-in Carman & Harding, eds., _Ancient Warfare_.
-
-[H98] Victor Davis Hanson, _Warfare and Agriculture in Classical Greece_.
-
-[M97] Alan McFarlane,  "'Japan' in an English Mirror", _Modern Asian Studies_
-31:4 (Oct. 1997).
-
-[O00] Mancur Olson, _Power and Prosperity_.
-
-[R01] Michael L. Ross, "Does Oil Hinder Democracy?"
-
-[S76] Adam Smith, _The Wealth of Nations_.
-
-[S05] Nick Szabo, "Jurisdiction as Property".
-
-Comments and criticisms to  
-Nick Szabo's Papers and Concise Tutorials War Dead and Rebellion dead cause
-genocidal reaction: http://www.hawaii.edu/powerkills/SOD.FIG21.1.GIF War Dead
-vs. Totalitarian Power http://www.hawaii.edu/powerkills/SOD.FIG21.3.GIF
-Predicted vs. Actual Democide:
-http://www.hawaii.edu/powerkills/SOD.FIG22.1.GIF The Worst Generation:
-http://www.hawaii.edu/powerkills/SOD.FIG23.2.GIF -->
-
+agricultural societies. (Click to enlarge). _

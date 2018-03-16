@@ -1,8 +1,5 @@
 
 
-Nick Szabo's papers and concise tutorials Copyright (c) 1997 by Nick Szabo  
-permission to redistribute without alteration hereby  granted
-
 Outside of the financial cryptography community, and long predating it, there
 is a deep tradition of protocols used in the course of performing contracts.
 These protocols consist of a flow of forms ("data flow", canonically displayed
@@ -137,11 +134,5 @@ replacing traditional controls.
 2\. George H. Bodnar and William S. Hopwood, 1987.Accounting Information
 Systems. 3rd ed. Boston: Allyn and Bacon.
 
-(Derived from  "Formalizing and Securing Relationships on Public Networks" ,
-by Nick Szabo)
-
 There is also a  formal language  useful in accounting for derivatives and
-other sophsticated contracts. Please send your comments to
-
-Nick Szabo's papers and concise tutorials
-
+other sophsticated contracts.

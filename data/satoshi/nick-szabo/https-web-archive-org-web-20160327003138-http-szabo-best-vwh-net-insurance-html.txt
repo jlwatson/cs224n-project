@@ -1,7 +1,3 @@
-Nick Szabo's Papers and Concise Tutorials Copyright (c) 2005 by Nick Szabo  
-(Here's an excerpt from a history of commercial institutions that I am
-writing.)
-
 Northern Italy responded to the crises of the 14th century in a remarkable way
 -- with further innovation. In short succession Genoa developed insurance,
 insurance pools secured by landed estates, and reinsurance. Exchanges sprang
@@ -163,15 +159,3 @@ in short order conquered the strategic points of Chinese, Indian, and Arab
 trading routes and became masters of the Oriental sea trade. It was the most
 shocking development in world history to date, and pioneered the way for other
 Europeans to follow.
-
-### References
-
-[1]  Medieval Trade in the Mediterranean World: Illustrative Documents,
-Translated by Robert S. Lopez & Irving W. Raymond
-
-[2] Science and Conjecture: Probability Before Pascal, James Franklin
-
-Comments and criticisms to  
-Nick Szabo's Papers and Concise Tutorials My thanks to Rodrigo Carvalho for
-his helpful comments.
-

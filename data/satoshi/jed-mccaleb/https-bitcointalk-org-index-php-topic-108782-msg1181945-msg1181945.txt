@@ -1,11 +1,9 @@
 Hi I'm involved in a cryptocurrency related project and we are looking for
-someone that can work magic with javascript and jQuery.  
-We are also hiring an experienced C++ developer.  
-  
-We aren't ready to release details of the project but it is very exciting.  
-  
-We are funded and based in the SF bay area. We strongly prefer people local
-but can make exceptions for the right person.  
-please email jed ! open coin dot com if you are interested. Please send links
-to things you have done preferably outside of work/school.
+someone that can work magic with javascript and jQuery.
+We are also hiring an experienced C++ developer.
 
+We aren't ready to release details of the project but it is very exciting.
+
+We are funded and based in the SF bay area. We strongly prefer people local
+but can make exceptions for the right person. Please send links
+to things you have done preferably outside of work/school.

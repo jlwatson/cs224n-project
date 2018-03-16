@@ -1,6 +1,3 @@
-Copyright (c) 1999 by Nick Szabo  
-permission to redistribute without alteration hereby granted
-
 Researchers have proposed a variety of "client puzzle" or "busy-work"
 proposals like hashcash, MicroMint, bit gold, and compute-cost postage to
 create independent currencies or make spamming costly. The mathematical
@@ -15,14 +12,14 @@ cryptography _is_ intrapolynomial rather than superpolynomial.
 
 I propose the following formalization:
 
-    
-    
+
+
      f: {0,1}* --> {0,1}* is called a strong k-benchmark function for machine model M and k>=1 if the following hold: 1. f is computable in O(p(n)) time on M, where p is a polynomial.
     2. f does not shrink the input more than q(n,k), where q(n,k)
     is a polynomial of degree k.
     3. For every randomized algorithm A running on M in time
     less than q(n,k)p(n), there exists an N such that for n > N Pr[A(f(x)) = f^-1(f(x))] < 1/q(n,k)p(n)
-    
+
 
 In other words, there is no algorithm running faster than q(n,k)p(n) which can
 invert f for more than a negligibly small number of values.
@@ -36,13 +33,13 @@ function and k >=1 on some realizable machine model such as RAM-log?
 Strong and average case are most apropos to cryptography related applications.
 Unfortunately for these purposes we'd also need
 
-    
-    
+
+
     (a) a list of machine models which is comprehensive
     of all physically realizable machines, in the sense
     that any such machine can be simulated with a very small overhead, such as constant or O(log(n)), by some model on the list, and
     (b) to prove lower bounds on a benchmark function for all models on the list
-    
+
 
 Since this is at least very tedious, one hopes we can in practice get away
 with a short list which covers all plausibly implemented machine
@@ -61,4 +58,3 @@ not make sense to analyze the security or cost of these schemes without
 reference to machine architecture. For example, spammers may be able to defeat
 compute-cost postage by using custom chips optimized for computing the
 particular puzzle function.
-

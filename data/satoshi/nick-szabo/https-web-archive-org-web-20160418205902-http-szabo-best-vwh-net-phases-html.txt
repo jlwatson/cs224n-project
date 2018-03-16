@@ -1,14 +1,13 @@
 
 
-Copyright (c) 1998 by Nick Szabo  
-permission to redistribute without alteration hereby granted For the temporal
+For the temporal
 phases of contracting we use the following schema, classified according to the
 two-phase model used in economics:
 
-    
-    
+
+
      Ex-Ante Search Negotiation Commitment Ex-Post Performance Adjudication
-    
+
 
 Smart contracts often involve trusted third parties, exemplified by an
 intermediary, who is involved in the performance, and an adjudicator, who is
@@ -20,9 +19,4 @@ actions (moral hazards) occur ex-post.
 Here are some examples of contemporary electronic commerce activities and the
 phases of contracting they deal with:
 
-    
-    
-     EDI commitment, performance Contract drafting negotiations Web surfing search Payment performance Online exchange search, negotiation, commitment "I agree" button commitment 
-
-Please send your comments to
-
+     EDI commitment, performance Contract drafting negotiations Web surfing search Payment performance Online exchange search, negotiation, commitment "I agree" button commitment

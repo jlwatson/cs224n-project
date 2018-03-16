@@ -1,8 +1,3 @@
-### Negative Reputations
-
-Copyright (c) 1996 by Nick Szabo  
-permission to redistribute without alteration hereby granted
-
 An important and general problem seems to be that of tagging a negative
 behavior source for future recognition. The tag might be used for negative
 information shared publically (eg, credit ratings) or kept private (eg, kill
@@ -75,9 +70,9 @@ a negative. And so on.
 The question may become one of deciding what of these three dimensions are
 most important, and how they can be traded off:
 
-  * The gains to be had from tracking and thereby avoiding negative behavior sources 
-  * The gains to be had from a nonviolent digital world (ie, a virtual realm within which any digital action can have no physically violent consequences). 
-  * The inconvenience (and perhaps impracticality) of partitioning the physical and digital worlds into different ID systems (more realistically, some "pure" subset of the digital world completely partitioned from location devices, physical shipping information, etc.) 
+  * The gains to be had from tracking and thereby avoiding negative behavior sources
+  * The gains to be had from a nonviolent digital world (ie, a virtual realm within which any digital action can have no physically violent consequences).
+  * The inconvenience (and perhaps impracticality) of partitioning the physical and digital worlds into different ID systems (more realistically, some "pure" subset of the digital world completely partitioned from location devices, physical shipping information, etc.)
 
 Keep in mind too, that in practice these are evaluated primarily by a market
 evolving from its current state, rather than by abstract ethical philosophies.
@@ -128,6 +123,3 @@ the SSN is a shared database key, not used for the purpose of securely
 identifying a faceless transaction, there is little need for revocation beyond
 the undesired erasure of negative history. Combining a secret authentication
 key, which must be revocable, with a public universal ID is quite problematic.
-
-Please send your comments to
-

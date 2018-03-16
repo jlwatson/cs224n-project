@@ -1,8 +1,5 @@
 
 
-Nick Szabo's Papers and Concise Tutorials Copyright (c) 1999 by Nick Szabo  
-permission to redistribute without alteration hereby granted
-
 Cryptographers too often abuse statistical tests, leading to a potentially
 large number of security holes in today's ciphers. (Fortunately, most ciphers
 are also engineered to be secure despite partial failures when using strong
@@ -39,11 +36,11 @@ FIPS-140 or MUST can fill this role or that their imperfections are slight.
 However they fail to find any regularity in the even simplest of completely
 predictable sequences, like the following:
 
-    
-    
+
+
     (1) pi
     (2) Champernowne's number (0.12345678901011121314151617181920...)
-    
+
 
 One can show that in Champernowne's number each digit of the base, and each
 block of digits of any length, occurs with equal asymptotic frequency. This is
@@ -133,6 +130,3 @@ In such ways we can design RNGs, PRNGs, and ciphers to do their jobs against
 active, intelligent, knowledgeable, and computationally powerful opponents
 rather than applying the weak methods of traditional statistics used for
 finding regularity in more tractable phenomena.
-
-Nick Szabo's Papers and Concise Tutorials
-

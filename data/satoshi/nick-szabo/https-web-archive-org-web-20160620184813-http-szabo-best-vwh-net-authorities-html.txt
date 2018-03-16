@@ -1,8 +1,4 @@
-### Distributing Authorities and Verifying Their Claims
-
-Copyright (c) 1997 by Nick Szabo  
-permission to redistribute without alteration hereby granted Reputation
-systems ultimately need to be based on fact rather than mere opinion or faith
+Reputation systems ultimately need to be based on fact rather than mere opinion or faith
 to be effective. For example, if we are to have a good credit rating system,
 we need to be confident that the credit record assembled by the agency is
 sufficiently accurate. Reputation information is typical gathered and
@@ -88,25 +84,3 @@ underlying those reports. These provide the basis for solid reputation
 systems, and other trusted third party systems, that maintain integrity across
 time, communications, and summarization, and preserve confidentiality for
 transaction participants.
-
-#### References:
-
-BRICS, A BRICS Course on Secure Multi-Party Computation
-
-Carol Brown, Internal Control Concepts
-
-Publius (James A. Madison), Federalist No. 47 -- The Particular Structure of
-the New Government and the Distribution of Power Among Its Different Parts
-
-Publius (James A. Madison), Federalist No. 47 -- Federalist No. 48 -- These
-Departments Should Not Be So Far Separated as to Have No Constitutional
-Control Over Each Other
-
-Douglas Stinson, Bibliography on Secret Sharing Schemes
-
-Surety Technologies, Digital Fingerprints
-
-Nick Szabo, Negative Reputation Systems
-
-Please send your comments to
-

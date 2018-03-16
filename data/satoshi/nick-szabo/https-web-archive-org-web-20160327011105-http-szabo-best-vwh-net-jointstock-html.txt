@@ -1,7 +1,3 @@
-Nick Szabo's Papers and Concise Tutorials Copyright (c) 2005 by Nick Szabo  
-(Here's an excerpt from the history of commercial institutions that I am
-writing. A version of this previously appeared on my blog, Unenumerated)
-
 The modern joint-stock corporation has many sources in medieval Europe. First
 among these was corporate law itself. Although the era is commonly referred to
 as "feudalism," for the hierarchy of individually owned "fiefs" of land and
@@ -122,22 +118,3 @@ home with the trading and conquest companies. However, these two different
 organizational forms with two different legal structures -- the share company
 and the corporation -- had now been combined into a single entity that served
 both purposes: the joint-stock company.
-
-### References
-
-Harold Berman, _Law and Revolution_.
-
-G.R. Elton, _England Under the Tudors _
-
-Guido Ferrarini,  "Origins of Limited Liability Companies and Company Law
-Modernisation in Italy: A Historical Outline", _Centro di Diritto e Finanza_
-WP 5-2002.
-
-Meir Kohn, "The Capital Market Before 1600", working paper 99-06, February
-1999.
-
-Comments and criticisms to  
-Nick Szabo's Papers and Concise Tutorials
-
-__
-

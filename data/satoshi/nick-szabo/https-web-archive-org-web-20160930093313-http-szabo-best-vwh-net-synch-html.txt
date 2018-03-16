@@ -1,7 +1,3 @@
-
-
-Copyright (c) 2002,2005 by Nick Szabo  
-
 ### Introduction
 
 By the late 13th century western Europeans had developed a new culture.�� They
@@ -623,7 +619,7 @@ The employer takes on these risks, while at the same time through promotion,
 raises, demotions, wage cuts or firing retaining incentives for quality
 employee output.��
 
-  
+
 
 Besides lacking implicit insurance for the employee, another limit to market
 purchase of each worker�s output is that it can be made prohibitively costly
@@ -873,7 +869,7 @@ the bells it chimed synchronized the relations among men.
 The productivity of Europe greatly increased over this period.�� This
 productivity can be estimated by measuring how it was consumed, including:
 
-  * Increasing the ecological carrying capacity, and thus the population (except as offset by plagues) 
+  * Increasing the ecological carrying capacity, and thus the population (except as offset by plagues)
   * A vast increase in the quantity, quality, and variety of goods and services beyond basic foods,
   * Shortening of the work day and work week.
 
@@ -903,54 +899,3 @@ accurately and fairly verify its crucial measurement of sacrifice, time.� Time
 rates also became the most common relationship for the mines, mills,
 factories, and other industries that rapidly grew after the advent of the
 clock.� �
-
-### References
-
-[1] A good discussion of time-wage vs. piece-rate vs. other kinds of
-employment contracts can be found in McMillan, _Games, Strategies, and
-Managers_ , Oxford University Press 1992
-
-[2] A secondary source for clocks and their impacts is Crosby, _The Measure of
-Reality � Quantification and Western Society, 1250-1600_, Cambridge University
-Press 1997.
-
-[3] Discussions of the unreliability and insecurity of broadcasting time and
-other information on computer networks can be found in Jalote, _Fault
-Tolerance in Distributed Systems_ , PTR Prentice-Hall 1994.
-
-[4] My main source for clocks and their impact is Dohrn-van Rossum, _History
-of the Hour � Clocks and Modern Temporal Orders, _University of Chicago Press,
-1996.
-
-[5] Another secondary source for clocks and their impacts is Landes,
-_Revolution in Time_ , Belknap Harvard 2000
-
-[6] The keeping of weights and measures by the Church, and description of the
-ceremony and consequences of excommunication for breach of contract in 14th
-century France from Wroe, _A Fool and His Money_ , Hill and Wang 1995
-
-[7] Lopez and Raymond, trans. _Medieval Trade in the Mediterranean World �
-Illustrative Documents_
-
-����������������������������
-
-[8] Vicente Goyzueta,� �Cathedral of Qosco City�
-http://users.bestweb.net/~goyzueta/qosqo/catedral.htm
-
-[9] �The original sources for much of the time rate contract discussion is
-Seiler, Eric (1984) �Piece rate vs. Time Rate: The Effect of Incentives on
-Earnings�, _Review of Economics and Statistics_ 66: 363-76 and Ehrenberg,
-Ronald G., editor (1990)  �Do Compensation Policies Matter?�, Special Issue of
-_Indsturial and Labor Relations Review_ 43: 3-S-273-S
-
-[10] The Hourglass Connection, �A Brief History [of the Hourglass]�,
-http://www.hourglasses.com/html/body_brief_history.html
-
-[11] Coase, R.H., _The Firm, the Market and the Law_ , University of Chicago
-Press 1988
-
-[12] Williamson, Oliver, _The Economic Institutions of Capitalism_ , Free
-Press 1985
-
-[13] Hayek, F.,� _The Use of Knowledge in Society_
-

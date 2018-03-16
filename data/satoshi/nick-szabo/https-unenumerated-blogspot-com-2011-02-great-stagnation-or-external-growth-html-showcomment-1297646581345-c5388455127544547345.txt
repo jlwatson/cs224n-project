@@ -1,12 +1,12 @@
-Kevembuangga,  
-  
+Kevembuangga,
+
 Thoughtful comments as usual. I haven't heard of Joseph Tainter, thanks for
-the ref I'll take a look at his stuff. Per your points:  
-  
+the ref I'll take a look at his stuff. Per your points:
+
 (1) waste disposal problems that are prerequisites for the existence of
 civilization are easy. Only a few such problems that are luxuries are actually
-hard, with the possible exception of CO2 emissions in the long term.  
-  
+hard, with the possible exception of CO2 emissions in the long term.
+
 (2) as for energy resources, see my link above to my essay "Mining the Vasty
 Deep". We have barely scratched the surface of this billiard ball we live on.
 Also, I suspect the main barrier to cheap nuclear energy are the severe
@@ -18,14 +18,14 @@ existence. So if the BRICs countries reduce the growth of their CO2 outputs
 energy over the next 50 years. Only the wealth-but-stupid countries that
 regulate all the very good but dirty sources of energy (oil, coal, nuclear)
 into oblivion are screwed unless solar becomes economical (which is possible)
-or there is some breakthrough in fusion.  
-  
+or there is some breakthrough in fusion.
+
 The only possible exception to (1) above is CO2 emissions, which I consider a
 long-term not a short-term problem, for various reasons too tedious to fit
 into a comment (and I'm not a climate expert, but my comments on the
 unadmitted complexity and poor incentives of much of modern "science" probably
-apply there too).  
-  
+apply there too).
+
 If, highly improbably, energy prices in terms of gold quadruple over the long
 term, we'll have to return to an economy similar to that of about 1920 (or
 China just two decades ago) with most transportation by bicycle and having to
@@ -39,18 +39,16 @@ extremely unlikely, as gasoline prices even doubling in terms of gold over the
 next thirty years, absent draconian regulations or taxes, is improbable. The
 much more likely outcome is that, given a fair and free market, the prices of
 gasoline and near substitutes (e.g. methanol) will fall significantly over the
-next 50 years (conditional on absence of draconian regulations/taxes).  
-  
+next 50 years (conditional on absence of draconian regulations/taxes).
+
 Murat, I'm not sure I fully understand your proposal but the part that makes
 sense sounds similar to a proposal I made to combine tipping with social
 network rating schemes like Digg/Reddit and "Like" buttons. The main barrier
-to easy payments is mental transaction costs:  
-  
-http://szabo.best.vwh.net/micropayments.html  
-  
+to easy payments is mental transaction costs:
+
 People don't want to have to keep track of lots of tiny donations, they want
-to make a handful of large ones and then get on with the rest of their lives.  
-  
+to make a handful of large ones and then get on with the rest of their lives.
+
 How about an online organization of like-minded people that consists of two
 classes: (1) raters and (2) philanthropists. The philanthropists donate based
 on how the raters vote (i.e. on what they "Like"), similar to the idea of
@@ -60,4 +58,3 @@ friends to do their selecting for them. The main drawback I can see is that
 voting is so cheap it doesn't have same commitment signal that fellow
 philanthropist's donations do in grant-matching. But it may be sufficient if
 restricted to like-minded friends.
-

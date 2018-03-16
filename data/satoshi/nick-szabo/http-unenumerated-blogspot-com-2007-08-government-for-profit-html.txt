@@ -4,13 +4,13 @@ force." Federalism, separation of powers, and many examples of legally "taking
 the law into one's own hands" are just three categories of examples. Here, we
 look at another, mostly forgotten but once ubiquitous category from history:
 political power wielded by private individuals or commercial organizations,
-with profits or the equivalent as a primary incentive of the organization.  
-  
+with profits or the equivalent as a primary incentive of the organization.
+
 These were entities quite different from both modern governments and modern
 economic corporations. These wielders of coercive power for profit combined
 the efficiency of private enterprise with the often ruthless coercion of
-government.  
-  
+government.
+
 In the Roman Republic there were a number of corporations that were granted
 various kinds of political power. The most notorious were the _publicani_ ,
 the ruthlessly efficient tax farmers. Tax farmers were private contractors to
@@ -19,15 +19,15 @@ corporations, examples of which we will see below). Through history tax
 farmers have been famed and reviled for their efficient operations and
 ruthless treatment of taxpayers. The _publicani_ , for example, deployed
 crucifixion and other forms of torture to extract financial information from
-their victims.  
-  
+their victims.
+
 Tax farmers were, however, at least more honest than modern tax collectors.
 Tax farmers knew who their customers were -- governments or other coercively
 funded organizations. Like any other collection agency their customers were
 the creditors, not the debtors. They never propounded the pathetic mythology
 of some modern government tax collectors that their quite involuntary debtors,
-rather than their respective governments, are their "customers".  
-  
+rather than their respective governments, are their "customers".
+
 It is not well understood by Romanist moderns that monarchy was based, not
 primarily on Burkean romantic worship or the divine right of kings, but rather
 on the political property rights of an individual and his heirs. The laws of
@@ -41,8 +41,8 @@ as Property", the most basic aspects of the medieval and Renaissance English
 legal system -- from which much of the modern writs, common law, and
 constitutions of England, Commonwealth and United States legal systems are
 derived -- were the laws that defined the rights and trespasses involving
-political property.  
-  
+political property.
+
 After a long lapse from the records of history, the Roman corporate form
 reanimated in the form both of independent cities -- municipal corporations
 that gave rise to republics -- and in forms like the Genovese _maone_ and
@@ -52,10 +52,10 @@ dividends, although technically they were treated as debt instruments rather
 than ownership shares. They engaged in colonial conquests and administration,
 tax farming, or other subsets of governmental functions. A fuller account of
 the maone and their role in originating the modern corporation can be found
-here.  
+here.
 
- _Sir Francis Drake, commander of joint-stock navies._  
-  
+ _Sir Francis Drake, commander of joint-stock navies._
+
 There is also a long history of armed forces for profit -- of mercenaries,
 private escorts, privateering, and sheer piracy. The main colonial companies,
 such as the East and West India companies of Britain, the Netherlands, and
@@ -63,16 +63,16 @@ other colonial powers, deployed their own naval forces to protect their own
 fleets and on occasion to attack rival shipping. Among the first English
 joint-stock corporations were the temporary joint-stock companies set up by
 Drake and Hawkins to trade with the Spanish colonies (from the Spanish point
-of view to smuggle) and raid the Spanish gold and silver fleets.  
-  
+of view to smuggle) and raid the Spanish gold and silver fleets.
+
 Despite their profit motive, which put a premium on trading and raiding rather
 than defense, these private navies also successfully defended England. The
 battle of against the Spanish Armada was won, not by the Royal Navy (which did
 not yet exist), but by the joint-stock naval corporations of Drake and
 Hawkins. Drake's circumnavigation of the globe in 1577-80 was also funded by a
 joint-stock company created for the purpose. The profits came from
-trading/smuggling and privateering against the Spanish Main.  
-  
+trading/smuggling and privateering against the Spanish Main.
+
 Most of the British colonies overseas (and many of those of Brtitain's rivals)
 were organized as corporations for profit, and most of these at one point or
 another issued stock. The political consequences of such corporate colonies
@@ -90,10 +90,10 @@ judicial review (because the charter -- in modern corporate parlance the
 articles of incorporation -- trumps mere legislation -- in modern corporate
 parlance the by-laws).
 
-  
+
  _Charter of the Massachusetts Bay Company, 1628_
 
-  
+
 In Africa, by sharp contrast, the main business was slaving, and the charters
 of the African corporations authorized them to wield martial law, which they
 did with ruthlessnes. The most infamous of these African companies operated,
@@ -101,8 +101,8 @@ however, after the era of individual slavery had ended. Instead of overt
 slavery the Congo Free State instituted a system effectively worse than
 slavery -- a tax system based on in-kind payments of rubber. The barbarous
 cruelty of the resulting system was immortalized in Joseph Conrad's _Heart of
-Darkness_.  
-  
+Darkness_.
+
 In between these political extremes, the East India Companies and many other
 colonial companies operated across the globe, at first assisting local
 entities in military, tax collecton, and administration, but eventually taking
@@ -110,8 +110,8 @@ over these governmental functions and reaping often immense profits as a
 result. They brought literacy and very efficient and modern administration but
 also often engaged in an exploitation that was widely percieved as so ruthless
 that the East India Company became profoundly unpopular and was eventually
-nationalized.  
-  
+nationalized.
+
 Administration by the colonial companies was usually far more efficient, for
 example in terms of European manpower deployed, than the later administration
 by the governments of European powers when these companies were nationalized
@@ -124,26 +124,3 @@ epitomized the evil of capitalism generally, whereas Smith and Burke were
 careful to distinguish the wielding of coercive political power, which they
 found particularly destructive in this form, from the wielding of voluntary
 economic power, which they found highly beneficial.  
-  
-Besides the links above, here are some further references:  
-  
-E. Burke, "The Nabob of Arcot's Debts" \-- a screed against the exploitation
-of "the Carnitic" (part of modern India) by the British East India Company  
-  
-Charter of the Massachusetts Bay Company (1628)  
-  
-G.R. Elton, _England Under the Tudors_ , Third Edition (1991)  
-  
-H.C. Hockett, _The Constitutional History of the United States, 1776-1826_
-(despite the title has some good descriptions of pre-Revolution developments
-including corporate colonies and judicial of local legislation against the
-corporate charters)  
-  
-A. Smith, _The Wealth of Nations_ (esp. Book 4, Ch. 7 "Of Colonies")  
-  
-N. Szabo, Charters and Judicial Review  
-  
-N. Szabo, Origins of the Joint-Stock Company  
-  
-N. Szabo, Jurisdiction as Property
-

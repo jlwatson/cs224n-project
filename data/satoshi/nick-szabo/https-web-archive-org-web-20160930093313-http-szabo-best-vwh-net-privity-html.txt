@@ -1,7 +1,4 @@
-
-
-Copyright (c) 1997 by Nick Szabo  
-permission to redistribute without alteration hereby granted In the process of
+In the process of
 cultural evolution loss accompanies progress. As we progress through, for
 example, economic phases of civilization -- agriculutral, industrial,
 information \-- concepts useful in one phase may become less useful (or at
@@ -117,22 +114,3 @@ renewed idea of privity, as clarified boundaries of knowledge, control, and
 responsibility within and between relationships, is ideal for specifying a
 variety of cyberspace relationships, whether informal or formalized via legal
 code or software.
-
-    
-    
-    References:
-    [0] My web essays can be found under http://www.best.com/~szabo/
-    [1] Lysander Spooner, "No Treason: The Constitution of No Authority"
-    [2] Palmer, _The Paths to Privity: The History of Third-Party Beneficiary Contracts at English Law_
-    [3] John Bouvier, _A Law Dictionary_ , http://www.constitution.org/bouv/bouvierp.txt
-    [4] English translation of Josephus by William Whiston.  http://wesley.nnc.edu/josephus/ant-18.htm
-    [5]  William Shakespeare, "Henry VIII".  http://the-tech.mit.edu/Shakespeare/History/kinghenryviii/kinghenryviii.1.1.html
-    [5] The 14th-century mystical tome of Walter Hilton, The Scale or Ladder 
-    _of Perfection_ http://ccel.wheaton.edu/hilton/ladder/ladder-PART-3.html
-    [6] Michael Polanyi, _Personal Knowledge_ [7] Edward, Earl of Clarendon, "A Survey of Hobbes and His Leviathan"
-    http://socserv2.socsci.mcmaster.ca/~econ/ugcm/3ll3/hobbes/clarend
-    [8] Friedrich Hayek, "On the Use of Knowledge in Society"
-    [9] Bruce Schneier, _Applied Cryptography_
-
-Please send your comments to
-

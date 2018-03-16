@@ -1,9 +1,3 @@
-The God Protocols
-November 15, 1999
-Nick Szabo,
-
-Acknowledgement: This article first appeared in Nick Szabo's E-Commerce and Security White Papers (http://www.best.com/~szabo/) and is reprinted with permission from the author, Nick Szabo, who holds the copyright.
-
 Imagine the ideal protocol. It would have the most trustworthy third party imaginable — a deity who is on everybody's side. All the parties would send their input to this god. God would reliably determine the results and return the output. In addition, God, being the ultimate in confessional discretion, would ensure that no party would learn anything more about the other party's input than they could learn from their own input and the output.
 
 Alas, in our temporal world we deal with humans rather than deities. Yet, too often we are forced to treat people in a nearly god-like manner because our infrastructure lacks the security needed to protect ourselves.

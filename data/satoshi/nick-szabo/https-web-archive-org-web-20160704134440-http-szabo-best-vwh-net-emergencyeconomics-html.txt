@@ -1,8 +1,3 @@
-Nick Szabo's Papers and Concise Tutorials Copyright (c) 2005 by Nick Szabo  
-
-(Earlier versions of the following previous appeared on the econlaw mailing
-list and on my blog, Unenumerated)
-
 Abstract: _Both governments and volunary institutions respond quite poorly in
 emergencies. Price gouging laws may reflect insurance contracts buyers would
 have made ahead of time but for high transaction costs. However, price gouging
@@ -72,9 +67,9 @@ scarcity of goods.
 Given that waiting in line, or doing without, are very painful (even sometimes
 deadly) alternatives, and that allowing the charge of very high prices can
 largely prevent use of these extreme and wasteful forms of rationing, why do
-we have price gouging laws?  
-  
----  
+we have price gouging laws?
+
+---
 Can price gouging laws be explained as follows? In a zero transaction cost
 world, consumers would successfully negotiate with retailers for an insurance
 policy that caps prices in case of emergency. This may be, for example,
@@ -88,9 +83,9 @@ all of us would like to purchase insurance against volatile prices in order to
 make our budgets more predictable. However, the transaction costs for
 negotiating with consumers for such contracts are too high. Therefore, the
 default retail sales contract should include such insurance. Price gouging
-laws are a convenient way to do this.  
-  
----  
+laws are a convenient way to do this.
+
+---
 Whether and when wholesale contracts include such price caps provisions would
 provide interesting evidence in favor of or against this hypothesis, and under
 what conditions it would have been rational to for consumers and retailers to
@@ -132,7 +127,3 @@ function of price gouging laws, while maintaining normal economic incentives
 to distribute goods and services in an emergency, by focusing price gouging
 laws on profits of abnormal proportion, rather than on profits or prices of
 abnormal absolute magnitude.
-
-Comments and criticisms to  
-Nick Szabo's Papers and Concise Tutorials
-

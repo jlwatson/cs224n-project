@@ -1,8 +1,3 @@
-
-
-Copyright 1993 by Nick Szabo  
-permission to redistribute without al teration hereby granted
-
 Currently the vast majority of businesses on the planet are small, but the
 vast bulk of multinational business is conducted by large corporations.
 
@@ -14,17 +9,17 @@ businesses.
 
 Barriers to multinational small business include
 
-* legal: prohibitively complex maze of jurisdictions 
-  
+* legal: prohibitively complex maze of jurisdictions
 
-* language/culture 
-  
 
-* telecomm costs 
-  
+* language/culture
 
-* transport costs 
-  
+
+* telecomm costs
+
+
+* transport costs
+
 
 Both transport and telecomm costs have become unprecedentedly low, and with
 fiber optics telecomm costs will drop orders of magnitude further.
@@ -57,11 +52,11 @@ governments in both macro and micro markets.
 
 Language and culture may remain the largest barriers. Two methods of attack:
 
-* The rise of virtual nations. Multinational small businesses might speak entirely English, Japanese, Mandarin, etc. Their employees might live primarily within a single cultural milieu, dispersed thru a large number of small ethnic communities around the world, keeping close culture-specific, multimedia communications links between the communities. The worldwide Anglo, Japanese, and Mandarin business networks will be taken up by other cultures, and physically dispersed in most cases. 
+* The rise of virtual nations. Multinational small businesses might speak entirely English, Japanese, Mandarin, etc. Their employees might live primarily within a single cultural milieu, dispersed thru a large number of small ethnic communities around the world, keeping close culture-specific, multimedia communications links between the communities. The worldwide Anglo, Japanese, and Mandarin business networks will be taken up by other cultures, and physically dispersed in most cases.
 
-* Language-translation software. Crude, specialized versions might soon be reliable, convenient, and inexpensive enough for many kinds of small business uses, such as translating technical manuals. 
+* Language-translation software. Crude, specialized versions might soon be reliable, convenient, and inexpensive enough for many kinds of small business uses, such as translating technical manuals.
 
-* English is becoming increasingly the _de facto_ language for business and technology. 
+* English is becoming increasingly the _de facto_ language for business and technology.
 
 One interesting question is what small changes might bring about the phase
 change faster. Something as simple as a user-friendly voice teleconferencing
@@ -78,4 +73,3 @@ small business.
 
 The flip side of multinational small business is setting up  market processes
 internal to the large multinational corporation.  Please send your comments to
-

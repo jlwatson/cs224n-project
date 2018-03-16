@@ -1,7 +1,3 @@
-Nick Szabo's Papers and Concise Tutorials Copyright (c) 1998, 2001 by Nick
-Szabo  
-permission to redistribute without alteration hereby granted
-
 N parties, comprising the set U ("universe"), want to engage in a protocol.
 They may want to reach agreement on the transfer of property titles,
 settlement of replicated books, distribution of credit reports and virus
@@ -77,17 +73,11 @@ computation. Threshold correctness results for multiparty computation and
 quorum correctness results for secure replication suggest the possibility of,
 and an approach to, a quorum correctness result for multiparty computations.
 
-    
-    
+
+
     References: The full older version of this article BW98  D. Beaver and A. Wool, "Quorum-based Secure Multi-Party Computation"
     also in Eurocrypt '98 HM97 M. Hirt and U. Maurer, "Complete characterization
     of adversaries tolerable in secure multi-party computation",
     16th ACM PODC M91 R. Myerson, _Game Theory: Analysis of Conflict_ MR97  D. Maklhi & M. Reiter, "Byzantine Quorum Systems", also in 21st ACM STOC. NW96 M. Naor and A. Wool, "Access control and signatures
     via quorum secret sharing", 3rd ACM Conf. on Computer and
     Communications Security S96  On secure credit reporting, virus list distribution, etc. S97  A gentle introduction to multiparty computation and its potential applications S98  Secure property titles
-    
-
-Please send your comments to
-
-Nick Szabo's Papers and Concise Tutorials
-

@@ -1,24 +1,18 @@
-Nick Szabo's Papers and Concise Tutorials  
-Copyright (c) 2003 by Nick Szabo
-
-rough draft -- quoting or redistribution without permission of the author
-prohibited
-
 ### Table of Contents
 
-Introduction  
-Fault Tolerance and Security in Networks and Their Services  
-Partial and Total Orders  
-Some Cryptographic Primitives  
-Physical Broadcasts and Global Clocks  
-Secure Time-stamping  
-The Byzantine Generals Problem  
-Logical Broadcast Over the Internet  
-Byzantine-Resilient Replication  
-Some Applications  
-Conclusion  
-Appendex A -- Implementations  
-References  
+Introduction
+Fault Tolerance and Security in Networks and Their Services
+Partial and Total Orders
+Some Cryptographic Primitives
+Physical Broadcasts and Global Clocks
+Secure Time-stamping
+The Byzantine Generals Problem
+Logical Broadcast Over the Internet
+Byzantine-Resilient Replication
+Some Applications
+Conclusion
+Appendex A -- Implementations
+References
 
 ### Introduction
 
@@ -200,9 +194,9 @@ in other words, by sending each other messages. Lamport used these messages as
 the basic building block for constructing his partial order, according to the
 following rules:
 
-  * 1\. If an event is local to node P, every nonfaulty node agrees on P's opinion of it. 
-  * 2\. Every correct node agrees that every message was sent before it was received. 
-  * 3\. If we agree that event A occured before event B and that event B occured before event C, then we agree that event A occured before event C. In other words, this partial order is transitive. 
+  * 1\. If an event is local to node P, every nonfaulty node agrees on P's opinion of it.
+  * 2\. Every correct node agrees that every message was sent before it was received.
+  * 3\. If we agree that event A occured before event B and that event B occured before event C, then we agree that event A occured before event C. In other words, this partial order is transitive.
 
 #### Breaking Ties -- Creating a Fair Total Order
 
@@ -523,16 +517,16 @@ this means anybody. and many orders of magnitude more accurate than random
 delays that face attackers on the Internet. If critical Internet servers were
 synchronized to natural clocks in a secure and timely fashion, they would be
 immune to attacks that relied on uncertainties in timing. Here are some
-comparisons of the stability (error creep) in good natural clocks:  
-**Oscillator Stability** |  1 sec  | 1 day  | 1 month  
----|---|---|---  
-Quartz  | 10^-12  | 10^-9  | 10^-8  
-Rubidium  | 10^-11  | 10^-12  | 10^-11  
-Cesium Beam  | 10^-10  | 10^-13  | 10^-13  
-Hydrogen Maser  | 10^-13  | 10^-14  | 10^-13  
-Pulsar  | 10^-11  | 10^-12  | 10^-13  
-Io orbit  |  |  |  
-  
+comparisons of the stability (error creep) in good natural clocks:
+**Oscillator Stability** |  1 sec  | 1 day  | 1 month
+---|---|---|---
+Quartz  | 10^-12  | 10^-9  | 10^-8
+Rubidium  | 10^-11  | 10^-12  | 10^-11
+Cesium Beam  | 10^-10  | 10^-13  | 10^-13
+Hydrogen Maser  | 10^-13  | 10^-14  | 10^-13
+Pulsar  | 10^-11  | 10^-12  | 10^-13
+Io orbit  |  |  |
+
 Pulsars overtake atomic clocks in accuracy after about 4 months.
 
 #### Ladies and Gentlemen, Set Your Watches
@@ -609,8 +603,8 @@ They can send and receive messages between each other. The Byzantine generals
 problem is to develop a protocol for the commanding general to send messages
 to his N-1 subordinates so that
 
-  * (1) all loyal generals obey the same order, and 
-  * (2) if the field marshall is loyal, every loyal general obeys the orders he sends. 
+  * (1) all loyal generals obey the same order, and
+  * (2) if the field marshall is loyal, every loyal general obeys the orders he sends.
 
 The protocol should be able to resist up to T traitorous generals. In the case
 of a fully deterministic protocol (no random choices or cryptography allowed)
@@ -791,10 +785,10 @@ media was capable of.
 
 #### Traffic Analysis Reistant Messaging
 
-  * MixMaster 
-  * MixMinion 
-  * Onion Routing 
-  * 
+  * MixMaster
+  * MixMinion
+  * Onion Routing
+  *
 
 #### Blind Signatures and Bearer Instruments
 
@@ -802,182 +796,9 @@ media was capable of.
 
 #### Oblivious Transfer and Multiparty Secure Computation
 
-  * Intrusion Detection via Threshold Cryptography 
+  * Intrusion Detection via Threshold Cryptography
 
 #### Capabilities / Smart Sandboxes
 
   * EROS operating system
-  * E programming language 
-
-###  References
-
-[A01] Agilent Application Note AN 1289,  "The Science of Timekeeping"
-
-[AMPR00] L. Alvisi, D. Malkhi, L. Pierce, and M. Reiter,  "Fault detection for
-Byzantine quorum systems."
-
-[AMPW00] L. Alvisi, D. Malkhi, L. Pierce, M. Reiter, and R. Wright,  �Dynamic
-Byzantine Quorum Systems�,
-
-[B83] M. Ben-Or, "Another advantage of free choice: Completely asynchronous
-agreement protocols", in Proc. 2nd ACM Symposium on Principles of Distributed
-Computing (PODC), 1983
-
-[B82] M. Blum, "Coin Flipping by Telephone: A Protocol for Solving Impossible
-Problems", Proceedings of the 24th IEEE Computer Conference (CompCon), 1982,
-pp. 133-137.
-
-[BT85] G. Bracha and S. Toueg, "Asynchronous consensus and broadcast
-protocols", Journal of the ACM, vol. 32, pp. 824-840, Oct. 1985
-
-[CP02] C. Cachin, J. Poritz,  "Secure Intrusion-tolerant Replication on the
-Internet"
-
-[C01] C. Cachin,  "Distributing Trust on the Internet" Conference on
-dependable systems and networks (DSN-2001). This is an excellent survey of the
-state of the art in Byzantine-resililient replication as well as presenting
-his own Byzantine-resilient replication system that uses fair toin cossing.
-
-[C98] C. Cachin ,  "On the foundations of oblivious transfer", Advances in
-Cryptology: EUROCRYPT '98, Lecture Notes in Computer Science v. 1403, Kaisa
-Nyberg, ed., pp. 361-374. Springer-Verlag, 1998.
-
-[CT96] T.D. Chandra and S. Toueg, "Unreliable failure detectors for reliable
-distributed systems", Journal of the ACM, vol. 43, no. 2, pp. 225-267, 1996
-
-[C81] �Untraceable Electronic Mail, Return Addresses, and Digital Pseudonyms,�
-D. Chaum, Communications of the ACM, vol. 24 no. 2, February, 1981.
-
-[C82] �Blind Signatures for Untraceable Payments,� D. Chaum, Advances in
-Cryptology Proceedings of Crypto 82, D. Chaum, R.L. Rivest, & A.T. Sherman
-(Eds.), Plenum, pp. 199-203.
-
-[C85] �Online Cash Checks�,
-http://www.chaum.com/articles/Online_Cash_Checks.html
-
-[CE86] A Secure and Privacy-Protecting Protocol for Transmitting Personal
-Information Between Organizations,� D. Chaum & J.-H. Evertse, Advances in
-Cryptology CRYPTO '86, A.M. Odlyzko (Ed.), Springer-Verlag, pp. 118-167.
-
-[C89] �Showing Credentials Without Identification: Signatures Transferred
-Between Unconditionally Unlinkable Pseudonyms,� D. Chaum, Accepted but not
-Presented Auscrypt '89\.
-
-[C89] �Privacy Protected Payments: Unconditional Payer and/or Payee
-Untraceability,� D. Chaum, Smart Card 2000, D. Chaum & I. Schaumuller-Bichl
-(Eds.), North Holland, 1989, pp. 69-93.
-
-[CV] �Group Signatures,� D. Chaum & E van Heyst, Advances in Cryptology
-EUROCRYPT '91, D.W. Davies (Ed.), Springer-Verlag, pp. 257-265
-
-[C97] C. Cocks. Split knowledge generation of RSA paremeters. Presented at the
-6th IMA Conference on Coding and Cryptography, Cirencester, England, to appear
-in the proceedings, December 17--19, 1997.
-
-[CGT95] C. Cr�peau , J. van de Graaf , and A. Tapp ,  "Committed Oblivious
-Transfer and Private Multi-Party Computations"; Advances in Cryptology:
-Proceedings of Crypto '95, Springer-Verlag, pages 110-123, 1995.
-
-[C???] F. Cristian [et. al?] on external clock synchronization
-
-[CF94] F. Cristian and C. Fetzer, "Probabilistic Internal Clock
-Synchronization", 13th Symposium on Reliable Distributed Systems", 1994
-
-[D96] Dohrn-van Rossum, _History of the Hour � Clocks and Modern Temporal
-Orders_, University of Chicago Press, 1996.
-
-[DA01] W. Du, M. Atallah,  "Secure Multi-Party Computation Problems and Their
-Applications: A Review And Open Problems" (2001), New Security Paradigms
-Workshop
-
-[FLP85]M.J. Fischer, N.A. Lynch,, and M.S. Peterson, "Impossibility of
-distributed consensus with one faulty process", Journal of the ACM, vol 32,
-pp. 374-382, April 1985
-
-[G95] Vicente Goyzueta,  �Cathedral of Qosco City�
-
-[HM97] M. Hirt and U. Maurer, "Complete characterization of adversaries
-tolerable in secure multi-party computation", 16th ACM PODC J. Kilian, Uses of
-Randomness in Algorithms and Protocols, MIT Press 1990
-
-[ISN93] M. Ito, A. Saito and T. Nishizeki. Secret Sharing Scheme Realizing
-General Access Structure. J. Cryptology, 6 (1993) 15--20.
-
-[K90] J. Kilian, _The Use of Randomness in Algorithms and Protocols_ , MIT
-Press 1990
-
-[L78] L. Lamport, "Time, Clocks, and the Ordering of Events in a Distributed
-System", _Communications of the ACM_ 21(7):558-565, July 1978
-
-[L95] Susan K. Langford. Threshold DSS signatures without a trusted party. In
-D. Coppersmith, editor, Advances in Cryptology Crypto  '95 proceedings, number
-963 in LNCS, pages 397 409. Springer-Verlag, 1995. (some context online at
-http://citeseer.nj.nec.com/context/478327/0)
-
-[MR97] D. Maklhi & M. Reiter,  "Byzantine Quorum Systems", also in 21st ACM
-STOC, 1979
-
-[MM95] L. E. Moser and P. M. Melliar-Smith,  "Total ordering algorithms for
-asynchronous Byzantine systems." In Proceedings of the 9th International
-Workshop on Distributed Algorithms, Springer-Verlag, September 1995.
-
-[MMA99] L. Moser, P.M. Melliar-Smith, V. Agrawala,  "Total ordering
-algorithms", Proceedings of the 19th annual conference on Computer Science
-1991 , San Antonio, Texas, United States, Pages: 375 - 380 Series-Proceeding-
-Article Year of Publication: 1999 ISBN:0-89791-382-5 ACM Press New York, NY,
-USA
-
-[MM99] L.E. Moser and P.M. Mellar-Smith, "Byzantine-resistant total ordering
-algorithms", Information and Computation, vol. 150, pp. 75-111, 1999
-
-[NW96] M. Naor and A. Wool, "Access control and signatures via quorum secret
-sharing", 3rd ACM Conf. on Computer and Communications Security
-
-[MB94] M.K. Reiter and K.P. Birman, "How to securely replicate services", ACM
-Transactions on Programming Languages and Systems, vol. 16, pp. 986-1000, May
-1994
-
-[MB94] M. Reiter and K. P. Birman. How to securely replicate services. ACM
-Transactions on Programming Languages and Systems, 16(3):986--1009, May 1994.
-
-[P91] T.P. Pedersen. A Threshold Cryptosystem without a Trusted Party. In
-Eurocrypt'91, LNCS 547, pages 522--526. Springer-Verlag, 1991.
-
-[PSL80] M. Pease, R. Shostak, and L. Lamport, "Reaching Agreement in the
-Presence of Faults", _Journal of the ACM_ 27(2):228-234, April 1980
-
-[Rab83] M. Rabin,  "Randomized Byzantine Generals," _Proceedings of the IEEE
-Symposium on the Foundations of Computer Science_ , pp. 403-409, IEEE, 1983
-
-[SMNTWB02] David Sames, Brian Matt, Brian Niebuhr, Gregg Tally, Brent
-Whitmore, and David Bakken, "Developing a Heterogeneous Intrusion Tolerant
-CORBA System", Proceedings of the 2002 International Conference on Dependable
-Systems & Networks, Washington, D.C., June 23-26, 2002.
-
-[Sh79] A. Shamir. How to share a secret. In Com. of the ACM, 22(11):612613,
-1979. (online at secret.html)
-
-[Sh96] B. Schneier, _Applied Cryptography_ , 2nd edition, John Wiley & Sons
-1996
-
-[SG98] V. Shoup and R. Gennaro. "Securing Threshold Cryptosystems against
-Chosen Ciphertext Attack", in Eurocrypt '98, LNCS 1403, pages 1--16.
-SpringerVerlag, 1998. cf. the extended version for the Journal of Cryptology,
-available at http://www.shoup.net/papers/
-
-[Sh00] V. Shoup, "Practical threshold signatures", in Advances in Cryptology:
-EUROCRYPT 2000 (B. Preneel, ed.) vol. 1087 of Lecture Notes in Computer
-Science, pp. 207-220, Springer, 2000
-
-[S97] N. Szabo,  "Contracts With Bearer"
-
-[S97b] N. Szabo,  "The God Protocols"
-
-[S98] N. Szabo,  "Secure Property Titles with Owner Authority"
-
-[S00] N. Szabo,  "Trusted Third Parties are Security Holes"
-
-### Acknowledgements
-
-Nick Szabo's Papers and Concise Tutorials
-
+  * E programming language

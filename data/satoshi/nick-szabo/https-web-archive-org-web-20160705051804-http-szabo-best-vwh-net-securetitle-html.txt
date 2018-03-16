@@ -1,8 +1,4 @@
 
-
-Copyright (c) 1998,1999,2002,2005 by Nick Szabo  
-permission to redistribute without alteration hereby granted
-
 The advent of writing greatly improved the tracking of property rights, and
 indeed gave rise to our modern systems of property rights and law. However,
 written records have proven to be quite vulnerable to abuse. A common pattern
@@ -229,14 +225,14 @@ For some kinds of property we might want to add the right of adverse
 possession, or formalized squatting. Here's one general way to implement a
 kind of adverse possession:
 
-    
-    
+
+
     (1) Transfers must be securely timestamped.
     (2) Transfers expire. To maintain ownership, the
     owner must issue a new transfer to self before expiration.
     (3) Upon expiration, the property may be homestead
     on a first-come or emergent respect basis.
-    
+
 
 This method doesn't attempt to define or utilize a state of "disuse". Instead
 it equates activity of the property with the ongoing active online presence of
@@ -289,32 +285,3 @@ automated, as envisioned above. However the introduction as rule criteria of
 unrecorded (or unsecurely recorded) transient states common in physical
 property causes auditing, and thus the titles, to become both less secure and
 more expensive.
-
-### Acknowledgements
-
-My thanks to Gregory Burch, J.D., Eileen O'Connor, J.D., Melora Svoboda, and
-many others for their helpful comments.
-
-#### References
-
-[1] Malkhi & Reiter, "Byzantine Quorum Systems", STOC97  
-[2] Property on the Internet may take all kinds of new forms. For analysis one
-recently emerged form, the ownership of open source software projects, see
-Eric Raymond, "Homesteading the Noosphere".  
-[3]  Reasons to buy title insurance  
-[4] Bryce "Zooko" Wilcox, Names: Decentralized, Secure, Human-Meaningful:
-Choose Two  
-[5] Hernando de Soto, _The Mystery of Capital_  
-[6] Kelly McCollum, "Using Phone Books, Scholars Build a Data Base for
-Resettling Kosovars"
-
-Please send your comments to  <!-- Byzantine Quorum Systems Dahlia Malkhi and
-Michael Reiter. Byzantine quorum systems. Journal of Distributed Computing,
-11(4):203--213, 1998. Dahlia Malkhi, Michael Reiter, and Rebecca Wright.
-Probabilistic quorum systems. Proceeding of the 16th Annual ACM Symposium on
-the Principles of Distributed Computing (PODC 97), pages 267--273, Santa
-Barbara, CA, August 1997. Lorenzo Alvisi, Dahlia Malkhi, Evelyn Pierce,
-Michael Reiter, and Rebecca Wright. Dynamic Byzantine Quorum Systems
-International Conference on Dependable Systems and Networks (DSN, FTCS-30 and
-DCCA-8), New York, 2000. ->
-

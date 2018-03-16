@@ -1,28 +1,18 @@
-  
-Nick Szabo's Papers and Concise Tutorials  
-New theories on the origins and nature of money Copyright (c) 2002, 2005 by
-Nick Szabo Permission to redistribution with attribution and without
-alteration hereby granted. The precursors of money, along with language,
-enabled early modern humans to solve problems of cooperation that other
-animals cannot -- including problems of reciprocal altruism, kin altruism, and
-the mitigation of aggression. These precursors shared with non-fiat currencies
-very specific characteristics -- they were not merely symbolic or decorative
-objects.  
 
 ### Table of Contents
 
-Money  
-Collectibles  
-Evolution, Cooperation, and Collectibles  
-Gains From Wealth Transfers  
-Starvation Insurance  
-Kin Altruism Beyond the Grave  
-The Family Trade  
-The Spoils of War  
-Disputes and Remedies  
-Attributes of Collectibles  
-Conclusion  
-References  
+Money
+Collectibles
+Evolution, Cooperation, and Collectibles
+Gains From Wealth Transfers
+Starvation Insurance
+Kin Altruism Beyond the Grave
+The Family Trade
+The Spoils of War
+Disputes and Remedies
+Attributes of Collectibles
+Conclusion
+References
 Acknowledgements From the very start, England's 17th century colonies in
 America had a problem -- a shortage of coins [D94, T01] The British idea was
 to grow large amounts of tobacco, cut timber for the ships of their global
@@ -42,13 +32,13 @@ political leaders stamped on it constituted real money. Worse, the New England
 natives used neither silver nor gold. Instead, they used the most appropriate
 money to be found in their environment --durable skeleton parts of their prey.
 Specifically, they used wampum, shells of the clam _venus mercenaria_ and its
-relatives, strung onto pendants.  
-  
+relatives, strung onto pendants.
+
 _Necklace of wampum. During trade the beads were counted, removed, and re-
 assembled on new necklaces. Native American shell beads were also sometimes
 woven into belts or other mnemonic and ceremonial devices that demonstrated
-the wealth and commitment of a tribe to a treaty._  
-  
+the wealth and commitment of a tribe to a treaty._
+
 Clams were found only at the ocean, but wampum traded far inland. Sea-shell
 money of a variety of types could be found in tribes across the American
 continent. The Iriquois managed to collect the largest wampum treasure of any
@@ -82,11 +72,11 @@ gone in the West after the invention of coinage -- from well crafted money to
 decoration. The American language of shell money became a quaint holdover --
 "a hundred clams" became "a hundred dollars". "Shelling out" came to mean
 paying in coins or bills, and eventually by check or credit card. [D94] Little
-did we know that we had touched the very origins of our species.  
+did we know that we had touched the very origins of our species.
 
 ### Collectibles
 
-  
+
 Native American money took many forms besides shells. Furs, teeth, and a
 variety of other objects with properties we will discuss below were also
 commonly used as media of exchange. 12,000 years ago, in what is now
@@ -104,12 +94,12 @@ teeth for money -- not to mention cattle, gold, silver, weapons, and much
 else. Asians had used all that and faux axes issued by governments to boot,
 but they as well imported this institution. For archaeologists have found
 pendants of shells dating to the early Paleolithic that could easily have
-substituted for Native American money.  
-  
-  
+substituted for Native American money.
+
+
 _Beads made from shells of the pea-sized snail Nassarius kraussianus, that
-lived in a nearby estuary. Blombos Cave, South Africa, 75,000 B.P.[B04]_  
-  
+lived in a nearby estuary. Blombos Cave, South Africa, 75,000 B.P.[B04]_
+
 In the late 1990s archaeologist Stanley Ambrose discovered, in the a rock-
 shelter in the Rift Valley of Kenya, a cache of beads made of ostrich
 eggshell, blanks, and shell fragments. They are dated using the argon-argon
@@ -117,12 +107,12 @@ eggshell, blanks, and shell fragments. They are dated using the argon-argon
 have been found in Spain also dating to this time. [W95] Perforated shells
 have also been recovered from early Paleolithic sites in Lebanon [G95].
 Recently regular shells, prepared as strung beads and dating further back
-still, to 75,000 BP, have been found in Blombos Cave in South Africa.[B04]  
-  
-  
+still, to 75,000 BP, have been found in Blombos Cave in South Africa.[B04]
+
+
 _Ostrich-eggshell beads, Kenya Rift Valley, 40,000 B.P. (Courtesy Stanley
-Ambrose)_  
-  
+Ambrose)_
+
 Our modern subspecies had migrated to Europe and necklaces of shell and tooth
 appear there, from 40,000 B.P. onward. Shell and tooth pendants appear in
 Australia from 30,000 B.P. onward [M93]. In all cases, the work is highly
@@ -142,15 +132,15 @@ an explanation that humans do something for  "the sheer enjoyment of it" is
 not an explanation at all -- but the posing of a problem. Why do so many
 people find the collection and wearing of jewelry enjoyable? For the
 evolutionary psychologist, this question becomes -- what caused this pleasure
-to evolve?  
-  
-  
+to evolve?
+
+
 _Detail of necklace from a burial at Sungir, Russia, 28,000 BP. Interlocking
 and interchangeable beads. Each mammoth ivory bead may have required one to
-two hours of labor to manufacture. [W97]_  
-  
-  
-  
+two hours of labor to manufacture. [W97]_
+
+
+
 ### Evolution, Cooperation, and Collectibles
 
 Evolutionary psychology starts with a key mathematical discovery of John
@@ -468,8 +458,8 @@ often spent large amounts of time on the seemingly frivolous tasks of
 manufacturing and exploring for the raw materials of jewelry and other
 collectibles.
 
-__  
-  
+__
+
 _The Kula trading network of pre-colonial Melanesia. The kula valuables
 doubled as "high power" money and mnemonic for stories and gossip. Many of the
 goods traded, mostly agricultural products, were available in different
@@ -482,14 +472,14 @@ cost after only a few trades, but could circulate for decades. Gossip and
 stories that about prior owners of the collectibles further provided
 information about upstream credit and liquidity. In other Neolithic cultures
 collectibles, usually shells, circulated in a less regular pattern but had
-similar purposes and attributes.[L94]_  
-  
-  
-_Kula armshell (mwali)._  
-  
-  
-_Kula necklaces (bagi)._  
-  
+similar purposes and attributes.[L94]_
+
+
+_Kula armshell (mwali)._
+
+
+_Kula necklaces (bagi)._
+
 For any institution in which wealth transfer is an important component, we
 will ask the following questions:
 
@@ -633,9 +623,9 @@ Thus there were at least four gains, or sources of surplus, from a trade cycle
 as simple as two prey species and two non-simultaneous but offsetting trades.
 These gains are distinct but not necessarily independent:
 
-    
-    
-     (1) An available source of meat at a time of the year when one would otherwise starve. (2) An increase in the total supply of meat -- they traded the surplus beyond what they could eat immediately or store; what they didn't trade would have gone to waste. (3) An increase in the variety of nutrition from meat, by eating different kinds of meat. (4) Increased productivity from specialization in a single prey species 
+
+
+     (1) An available source of meat at a time of the year when one would otherwise starve. (2) An increase in the total supply of meat -- they traded the surplus beyond what they could eat immediately or store; what they didn't trade would have gone to waste. (3) An increase in the variety of nutrition from meat, by eating different kinds of meat. (4) Increased productivity from specialization in a single prey species
 
 Making or saving collectibles to trade for food itself was not the only way to
 insure against bad times. Perhaps even more common, especially where large
@@ -1095,9 +1085,9 @@ commodity to be chosen as a valuable collectible, it would have had, relative
 to products less valuable as collectibles, at least the following desirable
 qualities:
 
-    
-    
-     (1) More secure from accidential loss and theft. For most of history this meant carriable on the person and easy to hide. (2) Harder to forge its value. An important subset of these are products that are unforgeably costly, and therefore considered valuable, for reasons explained below. (3) This value was more accurately approximated by simple observations or measurements. These observations would have had more reliable integrity yet have been less expensive. 
+
+
+     (1) More secure from accidential loss and theft. For most of history this meant carriable on the person and easy to hide. (2) Harder to forge its value. An important subset of these are products that are unforgeably costly, and therefore considered valuable, for reasons explained below. (3) This value was more accurately approximated by simple observations or measurements. These observations would have had more reliable integrity yet have been less expensive.
 
 Humans the world over are strongly motivated to collect items that better
 satisfy these properties. Some of this motivation probably includes
@@ -1156,11 +1146,11 @@ transfer was a fortuitous side effect that enabled the institutions described
 in this article to blossom. These institutions, in turn, would have motivated
 the manufacture of special-purpose collectibles, at first flints that need
 have no actual use as cutting tools, then the wide variety of other kinds of
-collectibles that were developed by _homo sapiens sapiens_.  
-  
-  
-_Shell money from Sumer, c. 3,000 B.C._  
-  
+collectibles that were developed by _homo sapiens sapiens_.
+
+
+_Shell money from Sumer, c. 3,000 B.C._
+
 During the Neolithic era, in many parts of the Middle East and Europe, some
 kinds of jewelry became more standardized -- to the point where standard sizes
 and assayability were often valued over beauty. In commercial areas the
@@ -1176,15 +1166,15 @@ spot.
 It is no coincidence that the attributes of collectibles are shared with
 precious metals, coins, and the reserve commodities that have backed most non-
 fiat currencies. Money proper implemented these properties a purer form than
-the collectibles used during almost all of human prehistory.  
-  
-  
+the collectibles used during almost all of human prehistory.
+
+
 _Silver ring and coil money from Sumer, c. 2,500 B.C. Note the standard size
 of cross-sections. Many of the pieces had a standard weight, ranging from one-
 twelfth of a shekel to sixty shekels. To assay a ring or coil, it could be
 weighed and cut at random locations. (Courtesy Oriental Institute, University
-of Chicago)_  
-  
+of Chicago)_
+
 A novelty of the 20th century was the issue of fiat currencies by governments.
 ( "Fiat" means not backed by any reserve commodity, as the gold- and silver-
 based currencies of previous centuries were). While generally excellent as a
@@ -1231,14 +1221,14 @@ have been minimal. Between clans within a tribe both favor tracking and
 collectibles were used. Between tribes, collectibles entirely replaced
 reputation as the enforcer of reciprocation, although violence still played a
 major role in enforcing rights as well as being a high transaction cost that
-prevented most kinds of trade.  
-  
-  
+prevented most kinds of trade.
+
+
 _**When costliness becomes forgeable --** Glass trade beads, manufactured in
 Venice in the 16th or 17th century, excavated from Mali, Africa. Such beads
 were very popular wherever European colonialists encountered Neolithic or
-hunter-gatherer cultures._  
-  
+hunter-gatherer cultures._
+
 To be useful as a general-purpose store of wealth and means of wealth
 transfer, a collectible had to be embedded in at least one institution with a
 closed-loop cycle, so that the cost of discovering and/or manufacturing the
@@ -1281,86 +1271,3 @@ just as many modern humans expend substantial resources on these activities as
 hobbies. The results for our ancient forebears were the first secure forms of
 embodied value very different from concrete utility -- and the forerunner of
 today's money.
-
-### References
-
-[A90] Adams, Charles, _For Good and Evil: The Impact of Taxes on Civilization_
-
-[A98] Tim Appenzeller,  "Art: Evolution or Revolution?", Science 282(Nov 20,
-1998), p. 1452. ]. See also the home page of Stanley Ambrose
-
-[B04] The Blombos Cave Project
-
-[C94] Culiffe, Barry, ed., _The Oxford Illustrated History of Prehistoric
-Europe_ , Oxford University Press 1994
-
-[D89] Dawkins, Richard, _The Selfish Gene_ , Oxford University Press 1989.
-
-[D94] Davies, Glyn, _A History of Money, From Ancient Times to the Present
-Day_ , University of Wales Press 1994
-
-[DW88] Daly, Martin and Wilson, Margo, _Homicide_ , New York: Aldine (1998).
-
-[G95] Gilead, I. 1995. �The Foragers of the Upper Paleolithic Period,� in
-Archaeology and Society in the Holy Land. Ed. by T. E. Levy. New York, Facts
-on File. [G01] [ref: http://www-geology.ucdavis.edu/~GEL115/115CH1.html]
-
-[Gr01] Graeber, David, _Towards an Anthropological Theory of Value_ , Palgrave
-2001
-
-[I98] Ifrah, Georges, _The Universal History of Numbers_ , John Wiley & Sons
-1998, pg. 73
-
-[K99] Kohn, M. and Mithen, S. "Handaxes: Products of sexual selection?",
-Antiquity, 73, 518-526
-
-[L94] Landa, Janet, _Trust, Ethnicity, and Identity: Beyond the New
-Institutional Economics of Ethnic Trading Networks, Contract Law, and Gift-
-Exchange_ , The University of Michigan Press, second edition, 1998.
-
-[M1892] Menger, Carl, "On the Origins of Money" Economic Journal, volume
-2,(1892) p. 239-55. translated by C.A. Foley, at
-http://www.socsci.mcmaster.ca/~econ/ugcm/3ll3/menger/money.txt
-
-[M50] Mauss, Marcel, _The Gift_ , 1950, English translation by W.D. Halls,
-W.W. Norton 1990
-
-[M93] (Morse 1993) via
-http://www.wac.uct.ac.za/wac4/symposia/papers/s095wht1.pdf
-
-[R96] Riddley, Matt, _The Origins of Virtue_ , Viking 1996
-
-[T01] Taylor, Alan, _American Colonies -- The Settling of North America_ ,
-Penguin 2001
-
-[P89] Plattner, Stuart, _Economic Anthropology_ , Stanford University Press
-1989
-
-[W77] Wiessner, P. 1977. Hxaro: a regional system at reciprocity for reducing
-risk among the !Kung San. Unpublished PhD thesis: University of Michigan.
-
-[W82] Wiessner, P. 1982. Risk, reciprocity and social influences on !Kung San
-economies. In: Leacock, H. R. & Lee, R.B. (eds) _Politics and history in band
-societies_ : 61-84. London: Cambridge University Press.
-
-[W95] White, Randall, "Ivory Personal Ornaments of Aurignacian Age:
-Technologic al, Social and Symbolic Perspectives", Institute For Ice Age
-Studies, http://www.insticeagestudies.com/library/Ivory/Ivorypersonal.html
-[W97] White, Randall, "From Materials To Meaning", Institute For Ice Age
-Studie s,
-http://www.insticeagestudies.com/library/materialstomeaning/index.html [W98]
-Winterhalder, Bruce, "Intra-Group Resource Transfers: Comparative Evidence,
-Models, and Implications for Human Evolution",
-http://www.unc.edu/depts/ecology/winterweb/intra_group.html [W02] Wilford,
-John, "Debate is Fueled on When Humans Became Human", New York Times, February
-26th, 2002 --
-http://www.bebeyond.com/LearnEnglish/DailyReadings/Science2/Humans.htm
-
-### Acknowledgements
-
-My thanks to Jerome Barkow, Andrew Odlyzko, Bruce Smith, K. Eric Drexler,
-Markus Krummenacker, Mark Wiley, Norm Hardy, and others for their insightful
-comments.
-
-Please send your comments to
-

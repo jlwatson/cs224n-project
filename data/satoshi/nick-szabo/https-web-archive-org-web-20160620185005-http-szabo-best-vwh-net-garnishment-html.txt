@@ -1,21 +1,18 @@
 
 
-Copyright (c) 1996-1999 by Nick Szabo  
-permission to redistribute without alteration hereby granted
-
 One of the basic outstanding problems in smart contracts is the ensurement of
 credit. This comes up not only in loans, but in any other contract which
 involves a temporal lag between performance and reciprocal performance of the
 contractual terms. Currently there are several partially effective processes
 for ensuring such performance:
 
-* Reputation (especially credit reports): often effective, but only to a point, as it is often hard for the debtor to accurately judge the future reputational effects of an action (eg failure to pay a bill, taking out too large a loan, etc.) that has clear, local, beneficial effects today. There is more imbalance in knowledge between current and distant consequences among individual consumers, but even among large organizations with high credit ratings it is not an irrelevant factor. 
+* Reputation (especially credit reports): often effective, but only to a point, as it is often hard for the debtor to accurately judge the future reputational effects of an action (eg failure to pay a bill, taking out too large a loan, etc.) that has clear, local, beneficial effects today. There is more imbalance in knowledge between current and distant consequences among individual consumers, but even among large organizations with high credit ratings it is not an irrelevant factor.
 
-* Secured transactions: liens, escrow, etc. 
+* Secured transactions: liens, escrow, etc.
 
-* Garnishment of future income 
+* Garnishment of future income
 
-* Law enforcement, especially to enforce transfer of control over liened assets, garnishment, etc. 
+* Law enforcement, especially to enforce transfer of control over liened assets, garnishment, etc.
 
 These processes have a fundamental property in common -- they violate the
 privity of credit transactions -- they bring in third parties to track
@@ -30,12 +27,12 @@ enforcement issues, it will help to categorize the kinds of credit. I'm not
 sure this classification is exhaustive or makes all the right distinctions,
 but it's a good start.
 
-    
-    
+
+
     Performance Bonds Bond controlled by counterparty Bond controlled by third party Digital ripped instruments Escrows
     Unsecured Loans student loans some business loans
     Secured Loans Against property held by debtor consumer: auto, home, etc. business assets Against property held by creditor balance (margin, insurance, etc.) pawning
-    
+
 
 It's reasonable that performance bonds and loans secured by property held by
 the creditor can be anonymous. It's less precedented, but plausible, that
@@ -184,10 +181,3 @@ is that while negative reputation information can still be accumulated when
 participants fail to pay back the standard amount, positive reputation
 information cannot, since participants who borrow and loan are
 indistinguishable.
-
-#### References
-
-Markus Jacobsonn, "Ripping Coins for a Fair Exchange"
-
-Please send your comments to
-

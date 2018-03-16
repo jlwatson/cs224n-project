@@ -1,7 +1,4 @@
-
-
-Nick Szabo's Papers and Concise Tutorials Copyright (c) 2001 by Nick Szabo  
-permission to redistribute without alteration hereby granted The ideas of
+The ideas of
 "absolute compression" has on a Turing machine the same meaning as the idea of
 "truly random numbers", and for the same reason. The assumption of randomness
 used in proving that one-time pads and other protocols are "unconditionally"
@@ -31,28 +28,11 @@ absolute compression (I believe the probability converges on a number related
 to Chaitin's "Omega" halting probability as t grows, but don't quote me --
 this would make an interesting research topic).
 
-    
-    
-    probably_absolute_compress(data,t) {
-    for all binary programs smaller than data { run program until it halts or it has run for time t if (output of program == data AND length(program) < length(shortest_program)) { shortest_program = program }
-    }
-    print "the data: ", data
-    print "the (probably) absolute compression of the data", shortest_program
-    return shortest_program
-    }
-    
-
 (We have to makes some reasonable assumption about what the binary programming
 language is -- see below).
 
 We can then use our probably-absolute compression algorithm as a statstical
 test of randomness as follows:
-
-    
-    
-    probably_true_random_test(data,t) { if length(probably_absolute_compress(data,t)) = length(data) then print "data is probably random" else print "pattern found, data is not random"
-    }
-    
 
 We can't *prove* that we've found the absolute compression. However, I bet we
 can get a good idea of the *probability* that we've found the absolute
@@ -66,12 +46,6 @@ from non-Turing physical sources are another story).
 
 We can distill probably-true-random numbers from data of sufficient entropy as
 follows:
-
-    
-    
-    probably_true_random_distill(data,t) { return probably_absolute_compress(seed,t)
-    }
-    
 
 For cryptographic applications there are two important ideas, one-wayness and
 expanding rather than contracting the seed, that are not captured here.
@@ -116,10 +90,3 @@ one can make highly confident, if still mathematically unproven, assumptions
 of "true randomness", but said phenomena don't help with perfect compression).
 Similar problems occur in other designs for cryptographic protocols in which
 statistical tests are abused.
-
-### References
-
-Szabo, Nick An Introduction to Algorithmic Information Theory
-
-Nick Szabo's Papers and Concise Tutorials
-

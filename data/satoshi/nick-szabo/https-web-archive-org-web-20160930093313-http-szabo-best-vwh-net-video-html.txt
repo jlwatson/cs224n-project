@@ -1,6 +1,3 @@
-Copyright (c) 1998 by Nick Szabo  
-permission to redistribute without alteration hereby granted
-
 ### Introduction
 
 Qualities important to contracting, such as understanding, agreement, and
@@ -184,9 +181,3 @@ commitment can communicate to principles and adjudicators readily recognizable
 and valuable information about the meeting of minds. Video will thus play an
 important role in smart contracts, and should take its place in the legal
 system beside written contracts.
-
-### Acknowledgements
-
-My thanks to Gregory Burch, J.D. for his many useful comments and examples.
-Nick Szabo's Papers and Concise Tutorials
-

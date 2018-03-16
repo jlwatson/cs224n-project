@@ -1,6 +1,3 @@
-Nick Szabo's Papers and Concise Tutorials Copyright (c) 1997 by Nick Szabo  
-permission to redistribute without alteration hereby granted
-
 What is the meaning and purpose of "security"? How does it relate the the
 relationships we have? I argue that the formalizations of our relationships --
 especially contracts -- provide the blueprint for ideal security.
@@ -50,10 +47,10 @@ For example, it would be rude to revoke operation of the car while it's doing
 In this process of successive refinement we've gone from a crude security
 system to a reified contract:
 
-    
-    
+
+
      (1) A lock to selectively let in the owner and exlude third parties; (2) A back door to let in the creditor; (3a) Creditor back door switched on only upon nonpayment for a certain period of time; and (3b) The final electronic payment permanently switches off the back door.
-    
+
 
 Mature security systems will be undertaking different behavior for different
 contracts. To continue with our example, if the automobile contract were a
@@ -64,9 +61,5 @@ rights and obligations covering the object, information, or computation being
 secured. Qualitatively different contractual terms, as well as technological
 differences in the property, give rise to the need for different protocols.
 
-(Derived from  "Formalizing and Securing Relationships on Public Networks" ,
-by Nick Szabo)
-
 A related article discusses a formal language for analyzing contracts and
 specifying smart contracts.
-

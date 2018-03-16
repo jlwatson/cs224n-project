@@ -1,5 +1,4 @@
-Copyright (c) 2000 by Nick Szabo  
-redistribution without permission of the author prohibited How much trust
+How much trust
 should we place in strangers? This isn't just a question for children. It is a
 central issue in the business world. Over the centuries paper-based business
 communities evolved sophisticated answers to such questions. The new world of
@@ -123,6 +122,3 @@ examined in terms of the overall attack threat. Group control structures allow
 us to design trustworthy services and to communicate to customers why these
 services, conducted by individuals who are total strangers to the customers,
 can nevertheless be trusted.
-
-Please send your comments to
-

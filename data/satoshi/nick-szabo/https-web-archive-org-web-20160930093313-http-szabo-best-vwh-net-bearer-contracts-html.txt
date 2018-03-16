@@ -1,6 +1,3 @@
-Copyright (c) 1997, 1999 by Nick Szabo  
-permission to redistribute without alteration hereby granted
-
 ####  Bearer Certificates
 
 "Digital bearer certificate" is a broad term developed by this author[1]
@@ -38,10 +35,10 @@ coins and physical bearer certificates, we need to add unlinkability features.
 
 Meet the greatest simple equation since e=mc2:
 
-    
-    
+
+
     gSf(m) = S(m)
-    
+
 
 S is a digital signature. f is the blinding function, and g an unblinding
 function. The blinding functions are usually based on a secret random number
@@ -74,12 +71,12 @@ carbon paper inside the envelope!
 In particular for RSA signatures, with public key (pq, e) and private key d,
 the blind signature functions are the following modulo pq:
 
-    
-    
+
+
     S(x) = xd
     g(x) = xk-1
     f(x)= xke
-    
+
 
 We can check that the blind signature property holds: gSf(m) = (m(ke))d * k-1
 = md * k * k-1 = md, which is the valid RSA signature of private key d on m.
@@ -317,26 +314,3 @@ failed to do so, the Provider could identify him as the actual user of the
 resource. Thus for full privacy generic transfers are cheap, and nonexclusive
 transfers are cheap, while specific exsclusive transfers and actually using
 the object seem to require the expensive communications mix.
-
-#### Acknowledgements
-
-My thanks to David Chaum, Mark Miller, Bill Frantz, Norm Hardy, and many
-others for taking the time to give me their valuable insights into these
-issues.
-
-#### References
-
-[1] The first public references to this idea can be found here,, here. I also
-referred to this idea during this period in many personal communications,
-using the phrases "digital bearer instrument", "digital bearer certificate",
-"scarce object", and "conserved object". The idea of digital bearer
-certificates as a serious proposal for the financial industry has been
-popularized, with many intruiging additional ideas, by Bob Hettinga.  
-[2] David Chaum, Online Cash Checks [3] "Blind Signatures for Untraceable
-Payments," D. Chaum, Advances in Cryptology Proceedings of Crypto 82, D.
-Chaum, R.L. Rivest, & A.T. Sherman (Eds.), Plenum, pp. 199-203.
-
-[4] The E distributed object language
-
-Please send your comments to
-

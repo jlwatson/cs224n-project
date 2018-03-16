@@ -1,8 +1,5 @@
 
 
-Nick Szabo's Papers and Concise Tutorials Copyright (c) 1998 by Nick Szabo  
-permission to redistribute without alteration hereby granted
-
 There is no universal security architecture. Rather, there are a wide variety
 of human relationships, (often formalized as contracts), and the security
 system used should reflect the relationship desired by its participants.
@@ -52,8 +49,3 @@ should be treated as snake oil.
 To sum up, the nature of the relationship must determine the security used.
 Sweeping statements about "all resource owners want such-and-such" are quite
 unwarranted.
-
-Please send your comments to
-
-Nick Szabo's Papers and Concise Tutorials
-

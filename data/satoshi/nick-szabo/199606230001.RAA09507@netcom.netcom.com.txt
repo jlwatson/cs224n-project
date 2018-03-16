@@ -1,8 +1,8 @@
 A general limitation of level and rate gauges is that they apply
 only to fungible commodities.  One gallon of gas is roughly as
 good as any other, and one dollar is as good as any other(*),
-so that the a gas pump gauge reflects the information important to the 
-gas buyer.  Where variety in quality or features is important, or 
+so that the a gas pump gauge reflects the information important to the
+gas buyer.  Where variety in quality or features is important, or
 different products and services need to be purchased, the graphical
 display of levels and rates does not reflect that information.
 
@@ -23,17 +23,15 @@ disk space, CPU time, memory, etc.  Such transactions can be summarized
 losslessly, and comparability also facilitates agents automation,
 so these areas provide a potential niche for micropayments.  However,
 before such commodities can be traded they must be somehow be unbundled
-from each other and related factors which may (availability, 
+from each other and related factors which may (availability,
 response time) or may not (human support) themselves be fungible.
 Keeping track of a wide variety of unbundled services is itself
 a big transaction cost.
 
-http://www.best.com/~szabo/
-
 (*) In general, currencies are linearly comparable via exchange
-rates, so that currency exchange can be accurately summarized via 
+rates, so that currency exchange can be accurately summarized via
 gauges.  More sophisticated financial transactions require more
-sophisticated interfaces.  Many of these relationships can 
-in principal still be graphed continuously and even monotonically, 
-but there are a wide variety of such relationships, so our work 
+sophisticated interfaces.  Many of these relationships can
+in principal still be graphed continuously and even monotonically,
+but there are a wide variety of such relationships, so our work
 is cut out for us here.

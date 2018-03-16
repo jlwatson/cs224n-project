@@ -1,29 +1,9 @@
-Nick Szabo's Papers and Concise Tutorials a concise tutorial Copyright (c)
-1996 by Nick Szabo
-
-Permission to redistribute without alteration hereby granted.
-
-### Contents
-
-Introduction  
-Part and Whole  
-Application  
-Deconstruction  
-Hermeneutics of the Law  
-Gadamer and The Value of Tradition  
-Computational Hermeneutics  
-Evolutionary Hermeneutics
-
-### Introduction
-
 Hermeneutics[5] derives from the Greek _hermeneutika_ , "message analysis", or
 "things for interpreting": the interpretation of tradition, the messages we
 receive from the past. Hermeneutics is usually applied to areas where
 tradition is considered important in people's lives -- religious texts, legal
 precedents, and so on. It is usually applied to text, but Derrida has
 pioneered its application to other media.
-
-###  Part and Whole
 
 The part/whole debate in hermeneutics is much like the stock-market prediction
 problem (a message from the present!) -- how many weeks of prices should you
@@ -35,8 +15,6 @@ struck -- look at the part and whole alternatively, in a kind of iterative and
 cumulative process of learning. Shown as a flow chart this gives us a circular
 graph, the famous "hermeneutical circle".
 
-###  Application
-
 Application is where the "rubber meets the road": where the tradition
 demonstrates its value, or lack thereof, when applied to contemporary life. An
 application is the "end use" of a traditional text, such the judge applying
@@ -46,8 +24,6 @@ the tradition. For example a judge, in the process of resolving a novel case
 sets a precedent, and the preacher, in the process of applying a religious
 doctrine to a novel contemporary moral problem, thereby change the very
 doctrine they apply.
-
-### Deconstruction
 
 The popular epithet "deconstruction" comes from hermeneutics.
 "Dekonstruction", as originated by Heidegger, did not, contrary to its current
@@ -85,8 +61,6 @@ modern scholars have deconstructed further and found that there was no
 "original" text but an evolution of texts from the Essenes, the Dead Sea
 Scrolls, St. Paul, then (finally) the Gospels.
 
-###  Hermeneutics of the Law
-
 Natural law theorists are trying to do a Heideggerean deconstruction when they
 try to find the original meaning and intent of the documents deemed to express
 natural law, such as codifications of English common law, the U.S. Bill of
@@ -108,8 +82,6 @@ the post-Founder constructions that gave rise to radio censorship can be shown
 to be economically silly ("scarcity"), inapplicable (broadcast model), and so
 on. This creates a clearing for the original intent to shine through and
 reignite itself in cyberspace.
-
-###  Gadamer and The Value of Tradition
 
 The purpose of Heidegger's deconstruction was to recover prior or primordial
 forms of a living tradition, and the issues that led to its formation.
@@ -170,8 +142,6 @@ idea of application as hermeneutical truth. The question of when
 intersubjective truth is preferable to objective (standard scientific) truth
 may be be mathematically formalizable via algorithmic information theory.
 
-###  Computational Hermeneutics
-
 I suggest that the "hermeneutical circle" of part and whole can be formalized
 along the following lines -- the more bits of pattern, the more information we
 have; but it is infeasible to learn from the whole. So we need algorithms that
@@ -195,8 +165,6 @@ used in hermeneutics, again showing the strong similarities between these
 disciplines heretofore seen as about as distant as one could imagine -- AIT at
 the forefront of modern computer science, and hermeneutics a seeming throwback
 to Reformation theology.
-
-### Evolutionary Hermeneutics
 
 Spencer, Popper, and Hayek pioneered the study of culture developing via a
 process analogous to Darwinian natural selection; this study is called
@@ -242,9 +210,9 @@ and biomotivation.
 
 Synthetic construction consists of one or more of:
 
-* the development of a new element that synthesizes traditions * the synthesis of texts or parts of texts into new texts 
+* the development of a new element that synthesizes traditions * the synthesis of texts or parts of texts into new texts
 
-* new texts which incorporate such syntheses 
+* new texts which incorporate such syntheses
 
 I shouldly quickly note that I mean "synthesis" the broad sense of a
 consistent combination of subsets of two or more traditions. I hardly suggest
@@ -277,42 +245,3 @@ large role in determining the function of a tradition.
 This view of tradition unifies evolutionary epistimology and hermeneutics, and
 suggests a broader range of analysis for the study of religion, law, and other
 institutions based on tradition.
-
-Refs:
-
-[0], Szabo,  Objective Versus Intersubjective Truths
-
-  
-[1] Radzinsky & Bartley ed., _Evolutionary Epistimology_  
-[2] Dawkins, _The Selfish Gene_  
-[3] Heidegger, _Early Greeks Thinkers_ [4] Of course, something need not be
-consciously designed for a function to act as if it had been designed for a
-function. See [2]
-
-and Dennett, _The Intentional Stance_
-
-  
-[5] Gadamer, _Truth and Method_ is a Heidegger-inspired survey of  
-hermeneutics  [6] This resonates with a curious fact of political geography:
-the line between nations that settled on being either Catholic or Protestant
-almost neatly follows the Rhine-Danube frontier between the Romans and the
-Germans which persisted for 400 years after Julius Caesar, but had been
-interrupted by Christianizing Germans 1,000 years prior to the Reformation.
-[7] "Genetic operators" refer to the kinds of editing operations performed in
-genetic algorithms, a practical computer implementation of Darwinian
-evolution. Here the "operator set" refers to the set of possible constructions
-or "editing operations" on a traditional text: translation, application, and
-now synthesis and biomotivation.
-
-[8] Wilson, E.O. _Sociobiology_
-
-  
-[9] Li & Vitanyi, _An Introduction to Kolmogorov Complexity and Its
-Applications_ Related articles
-
-Algorithmic Information Theory
-
-  
-
-Please send your comments to  Nick Szabo's Papers and Concise Tutorials
-

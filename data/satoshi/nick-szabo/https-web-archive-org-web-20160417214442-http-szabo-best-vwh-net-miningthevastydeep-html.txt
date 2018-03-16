@@ -1,5 +1,3 @@
-Nick Szabo's Papers and Concise Tutorials Copyright (c) 2007 by Nick Szabo  
-
 ### Part I
 
 The first part of this essay discusses the first and largest underseas
@@ -343,9 +341,3 @@ Guinea granted Nautilus was a world first.
 More here.  See also here. Note: Earlier versions of portions of this article
 previously appeared on the author's blog, Unenumerated and on comments the
 author has made on various blogs.
-
-### References
-
-Comments and criticisms to  
-Nick Szabo's Papers and Concise Tutorials
-

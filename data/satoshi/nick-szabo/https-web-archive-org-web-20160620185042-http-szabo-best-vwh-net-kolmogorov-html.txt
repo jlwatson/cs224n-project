@@ -1,6 +1,3 @@
-Nick Szabo's Papers and Concise Tutorials Copyright (c) 1996 by Nick Szabo  
-permission to redistribute without alteration hereby granted
-
 Recent discoveries have unified the fields of computer science and information
 theory into the field of algorithmic information theory. This field is also
 known by its main result, Kolmogorov complexity. Kolmogorov complexity gives
@@ -248,18 +245,3 @@ Algorithmic information theory is a far-reaching synthesis of computer science
 and information theory. Its resonances and applications go far beyond
 computers and communications to fields as diverse as mathematics, scientific
 induction and hermeneutics.
-
-### References
-
-Gregory Chaitin
-
-Gregory Chaitin, _Algorithmic Information Theory_
-
-Ming Li & Paul Vitanyi, _An Introduction to Kolmogorov Complexity and Its
-Applications_
-
-Paul Vitanyi
-
-Comments and criticisms to  
-Nick Szabo's Papers and Concise Tutorials
-

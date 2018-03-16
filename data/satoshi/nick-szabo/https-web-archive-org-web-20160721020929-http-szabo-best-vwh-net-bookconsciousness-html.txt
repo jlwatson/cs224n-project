@@ -1,5 +1,3 @@
-Nick Szabo's Papers and Concise Tutorials Copyright (c) 2006, 2007 by Nick
-Szabo  
 Marshall McLuhan, Elizabeth Eisenstein and others have described the
 importance of the "printing revolution" to European developments such the
 Reformation, Renaissance, and science. According to Eisenstein, printing
@@ -259,7 +257,3 @@ Calvinist literacy-investment theory ("The Roundhead Revolution") is true, we
 should see a similar departure from the Malthusian curve at the same time or
 perhaps even somewhat earlier in the Netherlands, and also in Scotland, but
 probably not in Catholic countries of that period.
-
-(Earlier versions of this article appeared on the authors' blog, Nick Szabo's
-Papers and Concise Tutorials
-

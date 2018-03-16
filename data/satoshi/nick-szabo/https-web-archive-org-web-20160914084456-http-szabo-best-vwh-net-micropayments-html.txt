@@ -1,9 +1,4 @@
-Nick Szabo's Essays and Concise Tuturials
-
 ### The Mental Accounting Barrier to Micropayments
-
-Copyright (c) 1996 by Nick Szabo  
-permission to redistribute without alteration hereby granted
 
 Some electronic commerce projects promise dramatically lower transaction
 costs, so that we can achieve "micropayments", "microintermediation", and so
@@ -56,9 +51,9 @@ There are plenty of things most folks normally don't work out regarding their
 electricity bills, which could improve the value they get for their
 electricity payments:
 
-  * Which appliances are using more electricity with less personal benefit (not available on the electricity bill -- but one can conceive of a personal accounting program tied to smart appliances that let you do this). 
-  * How to better balance electric vs. gas heat (you could compute this in detail and save a few bucks, but you'd earn extra money faster by moonlighting). 
-  * If the electricity company was a less reliable and widely known entity, you also might not trust them with the billing and would recompute it to the resolution you felt comfortable with, and accept fraud or fine-print trickery below that level. (Since electricity is fungible and the pricing ruleset small you could have a program check the bill, which is efficient if it catches enough fine-print shenanigans for enough people to recoup software development & marketing costs). 
+  * Which appliances are using more electricity with less personal benefit (not available on the electricity bill -- but one can conceive of a personal accounting program tied to smart appliances that let you do this).
+  * How to better balance electric vs. gas heat (you could compute this in detail and save a few bucks, but you'd earn extra money faster by moonlighting).
+  * If the electricity company was a less reliable and widely known entity, you also might not trust them with the billing and would recompute it to the resolution you felt comfortable with, and accept fraud or fine-print trickery below that level. (Since electricity is fungible and the pricing ruleset small you could have a program check the bill, which is efficient if it catches enough fine-print shenanigans for enough people to recoup software development & marketing costs).
 
 The reason we don't do the things is that they're not worth the brain cycles:
 we have reached the mental accounting barrier.
@@ -188,9 +183,7 @@ is involved).
 Price is one kind of contractual term; we also need nice metaphors to keep
 track of other kinds of contractual terms. Lack of observability of the
 protocol on the part of the user leads to the ability of the counterparty to
-engage in hidden actions. See
-"http://szabo.best.vwh.net/smart.contracts.2.html" for further discussion of
-this and other computerized contracting issues.
+engage in hidden actions.
 
 One of the barriers to creating good contracts is determining what the parties
 want in the first place. People tend to think in terms of standard or
@@ -214,11 +207,3 @@ lies between in a combination of these two technologies.
 
 (*) contracting-like transactions done by automated agents raise interesting
 questions about what constitutes a "meeting of the minds".
-
-#### References
-
-[1] The most advanced such proposal is still to be found in the Agorics
-Papers.
-
-Please send your comments to  Nick Szabo's Essays and Concise Tuturials
-
