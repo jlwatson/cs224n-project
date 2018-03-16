@@ -1,7 +1,6 @@
 from keras.preprocessing import sequence
 from keras.models import Sequential
-from keras.layers import Dense, Embedding
-from keras.layers import LSTM
+from keras.layers import Dense, Embedding, LSTM, Bidirectional
 from keras.preprocessing.text import Tokenizer
 from keras import utils
 from keras.callbacks import ModelCheckpoint
@@ -24,8 +23,13 @@ from jinja2 import Environment, FileSystemLoader, select_autoescape
 
 BATCH_SIZE = 32
 TRAIN_EPOCHS = 15
+
+EMBEDDING_SIZE = 128
+HIDDEN_STATE_SIZE = 128
+
 MIN_SEQUENCE_LEN = 10
 MAX_SEQUENCE_LEN = 200
+
 WEIGHTS_FILE = "results/satoshi-weights.hdf5"
 CANDIDATES = ["gavin-andresen", "hal-finney", "jed-mccaleb", "nick-szabo", "roger-ver",
     "dorian-nakamoto", "craig-steven-wright", "wei-dai", "david-mazieres"]
@@ -108,8 +112,8 @@ if __name__ == "__main__":
 
     print('Build model...')
     model = Sequential()
-    model.add(Embedding(vocab_size, 128))
-    model.add(LSTM(128, dropout=0.2, recurrent_dropout=0.2))
+    model.add(Embedding(vocab_size, EMBEDDING_SIZE))
+    model.add(Bidirectional(LSTM(HIDDEN_STATE_SIZE, dropout=0.2, recurrent_dropout=0.2)))
     model.add(Dense(len(CANDIDATES), activation='softmax'))
 
     model.compile(loss='categorical_crossentropy',
