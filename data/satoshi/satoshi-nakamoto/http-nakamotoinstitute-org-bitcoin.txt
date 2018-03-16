@@ -1,7 +1,3 @@
-####  October 31, 2008
-
-##  Abstract
-
 A purely peer-to-peer version of electronic cash would allow online payments
 to be sent directly from one party to another without going through a
 financial institution. Digital signatures provide part of the solution, but
@@ -17,8 +13,6 @@ generate the longest chain and outpace attackers. The network itself requires
 minimal structure. Messages are broadcast on a best effort basis, and nodes
 can leave and rejoin the network at will, accepting the longest proof-of-work
 chain as proof of what happened while they were gone.
-
-##  1\. Introduction
 
 Commerce on the Internet has come to rely almost exclusively on financial
 institutions serving as trusted third parties to process electronic payments.
@@ -47,8 +41,6 @@ chronological order of transactions. The system is secure as long as honest
 nodes collectively control more CPU power than any cooperating group of
 attacker nodes.
 
-##  2\. Transactions
-
 We define an electronic coin as a chain of digital signatures. Each owner
 transfers the coin to the next by digitally signing a hash of the previous
 transaction and the public key of the next owner and adding these to the end
@@ -75,8 +67,6 @@ participants to agree on a single history of the order in which they were
 received. The payee needs proof that at the time of each transaction, the
 majority of nodes agreed it was the first received.
 
-##  3\. Timestamp Server
-
 The solution we propose begins with a timestamp server. A timestamp server
 works by taking a hash of a block of items to be timestamped and widely
 publishing the hash, such as in a newspaper or Usenet post[2-5]. The timestamp
@@ -84,8 +74,6 @@ proves that the data must have existed at the time, obviously, in order to get
 into the hash. Each timestamp includes the previous timestamp in its hash,
 forming a chain, with each additional timestamp reinforcing the ones before
 it.
-
-##  4\. Proof-of-Work
 
 To implement a distributed timestamp server on a peer-to-peer basis, we will
 need to use a proof-of-work system similar to Adam Back's Hashcash[6], rather
@@ -118,16 +106,14 @@ nodes over time, the proof-of-work difficulty is determined by a moving
 average targeting an average number of blocks per hour. If they're generated
 too fast, the difficulty increases.
 
-##  5\. Network
-
 The steps to run the network are as follows:
 
-  1. New transactions are broadcast to all nodes. 
-  2. Each node collects new transactions into a block. 
-  3. Each node works on finding a difficult proof-of-work for its block. 
-  4. When a node finds a proof-of-work, it broadcasts the block to all nodes. 
-  5. Nodes accept the block only if all transactions in it are valid and not already spent. 
-  6. Nodes express their acceptance of the block by working on creating the next block in the chain, using the hash of the accepted block as the previous hash. 
+  1. New transactions are broadcast to all nodes.
+  2. Each node collects new transactions into a block.
+  3. Each node works on finding a difficult proof-of-work for its block.
+  4. When a node finds a proof-of-work, it broadcasts the block to all nodes.
+  5. Nodes accept the block only if all transactions in it are valid and not already spent.
+  6. Nodes express their acceptance of the block by working on creating the next block in the chain, using the hash of the accepted block as the previous hash.
 
 Nodes always consider the longest chain to be the correct one and will keep
 working on extending it. If two nodes broadcast different versions of the next
@@ -142,8 +128,6 @@ as they reach many nodes, they will get into a block before long. Block
 broadcasts are also tolerant of dropped messages. If a node does not receive a
 block, it will request it when it receives the next block and realizes it
 missed one.
-
-##  6\. Incentive
 
 By convention, the first transaction in a block is a special transaction that
 starts a new coin owned by the creator of the block. This adds an incentive
@@ -167,8 +151,6 @@ using it to generate new coins. He ought to find it more profitable to play by
 the rules, such rules that favour him with more new coins than everyone else
 combined, than to undermine the system and the validity of his own wealth.
 
-##  7\. Reclaiming Disk Space
-
 Once the latest transaction in a coin is buried under enough blocks, the spent
 transactions before it can be discarded to save disk space. To facilitate this
 without breaking the block's hash, transactions are hashed in a Merkle Tree
@@ -181,8 +163,6 @@ blocks are generated every 10 minutes, 80 bytes * 6 * 24 * 365 = 4.2MB per
 year. With computer systems typically selling with 2GB of RAM as of 2008, and
 Moore's Law predicting current growth of 1.2GB per year, storage should not be
 a problem even if the block headers must be kept in memory.
-
-##  8\. Simplified Payment Verification
 
 It is possible to verify payments without running a full network node. A user
 only needs to keep a copy of the block headers of the longest proof-of-work
@@ -204,8 +184,6 @@ alerted transactions to confirm the inconsistency. Businesses that receive
 frequent payments will probably still want to run their own nodes for more
 independent security and quicker verification.
 
-##  9\. Combining and Splitting Value
-
 Although it would be possible to handle coins individually, it would be
 unwieldy to make a separate transaction for every cent in a transfer. To allow
 value to be split and combined, transactions contain multiple inputs and
@@ -218,8 +196,6 @@ It should be noted that fan-out, where a transaction depends on several
 transactions, and those transactions depend on many more, is not a problem
 here. There is never the need to extract a complete standalone copy of a
 transaction's history.
-
-##  10\. Privacy
 
 The traditional banking model achieves a level of privacy by limiting access
 to information to the parties involved and the trusted third party. The
@@ -237,8 +213,6 @@ unavoidable with multi-input transactions, which necessarily reveal that their
 inputs were owned by the same owner. The risk is that if the owner of a key is
 revealed, linking could reveal other transactions that belonged to the same
 owner.
-
-##  11\. Calculations
 
 We consider the scenario of an attacker trying to generate an alternate chain
 faster than the honest chain. Even if this is accomplished, it does not throw
@@ -258,14 +232,6 @@ to a Gambler's Ruin problem. Suppose a gambler with unlimited credit starts at
 a deficit and plays potentially an infinite number of trials to try to reach
 breakeven. We can calculate the probability he ever reaches breakeven, or that
 an attacker ever catches up with the honest chain, as follows[8]:
-
-$$ \begin{eqnarray*} \large p &=& \text{ probability an honest node finds the
-next block}\\\ \large q &=& \text{ probability the attacker finds the next
-block}\\\ \large q_z &=& \text{ probability the attacker will ever catch up
-from $z$ blocks behind} \end{eqnarray*} $$
-
-$$\large q_z = \begin{Bmatrix} 1 & \textit{if}\; p \leq q\\\ (q/p)^z &
-\textit{if}\; p > q \end{Bmatrix}$$
 
 Given our assumption that $p \gt q$, the probability drops exponentially as
 the number of blocks the attacker has to catch up with increases. With the
@@ -292,72 +258,15 @@ the attacker has made, but assuming the honest blocks took the average
 expected time per block, the attacker's potential progress will be a Poisson
 distribution with expected value:
 
-$$\large \lambda = z \frac qp$$
-
 To get the probability the attacker could still catch up now, we multiply the
 Poisson density for each amount of progress he could have made by the
 probability he could catch up from that point:
 
-$$\large \sum_{k=0}^{\infty} \frac{\lambda^k e^{-\lambda}}{k!} \cdot
-\begin{Bmatrix} (q/p)^{(z-k)} & \textit{if}\;k\leq z\\\ 1 & \textit{if} \; k >
-z \end{Bmatrix}$$
-
 Rearranging to avoid summing the infinite tail of the distribution...
-
-$$\large 1 - \sum_{k=0}^{z} \frac{\lambda^k e^{-\lambda}}{k!} \left (
-1-(q/p)^{(z-k)} \right )$$
 
 Converting to C code...
 
-    
-    
-    #include 
-    double AttackerSuccessProbability(double q, int z)
-    { double p = 1.0 - q; double lambda = z * (q / p); double sum = 1.0; int i, k; for (k = 0; k <=> 
-    
-     Running some results, we can see the probability drop off exponentially with $z$. 
-    
-     
-    
-    
-    q=0.1
-    z=0 P=1.0000000
-    z=1 P=0.2045873
-    z=2 P=0.0509779
-    z=3 P=0.0131722
-    z=4 P=0.0034552 z=5 P=0.0009137
-    z=6 P=0.0002428
-    z=7 P=0.0000647
-    z=8 P=0.0000173
-    z=9 P=0.0000046
-    z=10 P=0.0000012 q=0.3
-    z=0 P=1.0000000
-    z=5 P=0.1773523
-    z=10 P=0.0416605
-    z=15 P=0.0101008
-    z=20 P=0.0024804
-    z=25 P=0.0006132
-    z=30 P=0.0001522
-    z=35 P=0.0000379
-    z=40 P=0.0000095
-    z=45 P=0.0000024
-    z=50 P=0.0000006 
-
 Solving for P less than 0.1%...
-
-    
-    
-    P < 0.001
-    q=0.10 z=5
-    q=0.15 z=8
-    q=0.20 z=11
-    q=0.25 z=15
-    q=0.30 z=24
-    q=0.35 z=41
-    q=0.40 z=89
-    q=0.45 z=340 
-
-##  12\. Conclusion
 
 We have proposed a system for electronic transactions without relying on
 trust. We started with the usual framework of coins made from digital
@@ -374,22 +283,3 @@ what happened while they were gone. They vote with their CPU power, expressing
 their acceptance of valid blocks by working on extending them and rejecting
 invalid blocks by refusing to work on them. Any needed rules and incentives
 can be enforced with this consensus mechanism.
-
-##  References
-
-  1. W. Dai, "b-money," http://www.weidai.com/bmoney.txt, 1998. ↩
-
-  2. H. Massias, X.S. Avila, and J.-J. Quisquater, "Design of a secure timestamping service with minimal trust requirements," In _20th Symposium on Information Theory in the Benelux_ , May 1999. ↩ ↩
-
-  3. S. Haber, W.S. Stornetta, "How to time-stamp a digital document," In _Journal of Cryptology_ , vol 3, no 2, pages 99-111, 1991. ↩
-
-  4. D. Bayer, S. Haber, W.S. Stornetta, "Improving the efficiency and reliability of digital time-stamping," In _Sequences II: Methods in Communication, Security and Computer Science_ , pages 329-334, 1993. ↩
-
-  5. S. Haber, W.S. Stornetta, "Secure names for bit-strings," In _Proceedings of the 4th ACM Conference on Computer and Communications Security_ , pages 28-35, April 1997. ↩ ↩
-
-  6. A. Back, "Hashcash - a denial of service counter-measure," http://www.hashcash.org/papers/hashcash.pdf, 2002. ↩
-
-  7. R.C. Merkle, "Protocols for public key cryptosystems," In _Proc. 1980 Symposium on Security and Privacy_ , IEEE Computer Society, pages 122-133, April 1980. ↩
-
-  8. W. Feller, "An introduction to probability theory and its applications," 1957. ↩
-

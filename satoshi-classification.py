@@ -23,7 +23,8 @@ TRAIN_EPOCHS = 15
 MIN_SEQUENCE_LEN = 10
 MAX_SEQUENCE_LEN = 200
 WEIGHTS_FILE = "results/satoshi-weights.hdf5"
-CANDIDATES = ["gavin-andresen", "hal-finney", "jed-mccaleb", "nick-szabo", "roger-ver", "dorian-nakamoto"]
+CANDIDATES = ["gavin-andresen", "hal-finney", "jed-mccaleb", "nick-szabo", "roger-ver",
+    "dorian-nakamoto", "craig-steven-wright", "wei-dai", "david-mazieres"]
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
