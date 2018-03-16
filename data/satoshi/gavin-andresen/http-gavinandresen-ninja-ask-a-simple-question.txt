@@ -3,28 +3,19 @@
 This is a conversation with Matt Corallo (Bitcoin Core contributor) that
 started on twitter and migrated into email:
 
-**Matt Corallo** @TheBlueMatt - Mar 19  
-Bitcoin Core does not want to and does not make decisions on Bitcoin 's
-consensus rules
 
-**Gavin Andresen** @gavinandresen - Mar 23  
 Might a small, well-tested patch that added a default-false option to disable
 block-size checks be accepted by Core?
 
-**Matt Corallo**  
-if it a) took HF risks seriously and had protections for then and b) had
-community consensus to do a HF, sure!
-
-**Gavin Andresen**  
 I 'll email you- if you really don't want to dictate consensus rules, give
 your users a choice!
 
-**Matt Corallo**  
+**Matt Corallo**
 cool. You may also want to check out some of the HF proposals at
 https://bitcoinhardforkresearch.github.io
 
-**From: Gavin**  
-**To: Matt**  
+**From: Gavin**
+**To: Matt**
 **Subject: Expanding an idea from Twitter …**
 
 > If Core really wants to avoid taking sides in the Great Scaling Debate, why
@@ -148,4 +139,3 @@ many great SPV clients out there for people to run.
 
 > As for making it public, oops…I already posted my response (with your name
 and original email omitted, of course).
-

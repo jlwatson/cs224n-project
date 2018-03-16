@@ -1,8 +1,6 @@
 We're getting reports that version 0.7.0 isn't working on OSX 10.5-- are there
-any Mac developers with a 10.5 machine who can help figure out what is wrong?  
-  
-The OSX builds are done on my OSX 10.6.8 machine, compiled against the 10.5
-SDK in 32-bit mode (see http://gavintech.blogspot.com/2011/11/deploying-
-bitcoin-qt-on-osx.html ) for maximum compatibility. I'm not sure what changed
-between bitcoin versions 0.6.3 and 0.7.0 that would break compatibility...  
+any Mac developers with a 10.5 machine who can help figure out what is wrong?
 
+The OSX builds are done on my OSX 10.6.8 machine, compiled against the 10.5
+SDK in 32-bit mode for maximum compatibility. I'm not sure what changed
+between bitcoin versions 0.6.3 and 0.7.0 that would break compatibility...

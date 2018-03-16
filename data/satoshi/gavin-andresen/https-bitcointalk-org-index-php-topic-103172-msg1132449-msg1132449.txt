@@ -1,13 +1,10 @@
 That's wrong; you wouldn't be able to send a new-style transaction to a
 merchant unless they'd already upgraded and were publishing new-style
-addresses.  
-  
-... which would actually just be BIP16 addresses, with the redemption script
-being something like <ed25519_pubkey> OP_NOP1  
-(I'm wrong about needing a new bitcoin address type).  
-  
-Obviously merchants wouldn't start doing that until a majority of miners were
-interpreting OP_NOP1 as OP_ED25519_VERIFY.  
-  
-http://gavintech.blogspot.com/2012/07/off-chain-transactions.html  
+addresses.
 
+... which would actually just be BIP16 addresses, with the redemption script
+being something like <ed25519_pubkey> OP_NOP1
+(I'm wrong about needing a new bitcoin address type).
+
+Obviously merchants wouldn't start doing that until a majority of miners were
+interpreting OP_NOP1 as OP_ED25519_VERIFY.

@@ -1,6 +1,4 @@
-A hard fork won't happen unless the vast super-majority of miners support it.  
-  
-E.g. from my "how to handle upgrades" gist
-https://gist.github.com/gavinandresen/2355445  
-  
+A hard fork won't happen unless the vast super-majority of miners support it.
 
+E.g. from my "how to handle upgrades" gist
+  
