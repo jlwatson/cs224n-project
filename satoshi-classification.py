@@ -3,7 +3,9 @@ from keras.models import Sequential
 from keras.layers import Dense, Embedding, LSTM, Bidirectional
 from keras.preprocessing.text import Tokenizer
 from keras import utils
-from keras.callbacks import ModelCheckpoint
+from keras.callbacks import ModelCheckpoint, EarlyStopping
+
+from mkdir_p import mkdir_p
 
 import numpy as np
 import matplotlib.pyplot as plt
@@ -14,12 +16,16 @@ import random
 import itertools
 import argparse
 
+import pickle
+
 from utils import plot_confusion_matrix, get_split
 from sklearn.metrics import confusion_matrix
 from keras import backend as K
 
 from jinja2 import Environment, FileSystemLoader, select_autoescape
+from attention_layer import Attention
 
+from keras.utils import plot_model
 
 BATCH_SIZE = 32
 TRAIN_EPOCHS = 15
@@ -31,8 +37,9 @@ MIN_SEQUENCE_LEN = 10
 MAX_SEQUENCE_LEN = 200
 
 WEIGHTS_FILE = "results/satoshi-weights.hdf5"
-CANDIDATES = ["gavin-andresen", "hal-finney", "jed-mccaleb", "nick-szabo", "roger-ver",
-    "dorian-nakamoto", "craig-steven-wright", "wei-dai", "david-mazieres"]
+CANDIDATES = ["gavin-andresen", "hal-finney", "jed-mccaleb", "nick-szabo", "roger-ver", "craig-steven-wright", "wei-dai"]
+
+TOKENIZER_FILE = "results/tokenizer.pickle"
 
 def is_valid_candidiate(c):
     if c not in CANDIDATES:
@@ -41,11 +48,14 @@ def is_valid_candidiate(c):
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
-    parser.add_argument('--skip-training', help='Skip training.', action='store_true')
-    parser.add_argument('--skip-testing', help='Skip testing.', action='store_true')
+    parser.add_argument('--train', help='Run training.', action='store_true')
+    parser.add_argument('--evaluate-test', help='Run evaluations on the test split.', action='store_true')
+    parser.add_argument('--evaluate-val', help='Run evaluations on the val split.', action='store_true')
     parser.add_argument('--saliency-map', help='Generate a saliency map for this text.')
     parser.add_argument('--saliency-class', help='Generate a saliency map for this class.', type=is_valid_candidiate)
     args = parser.parse_args()
+
+    mkdir_p("results")
 
     print("======= Loading in Texts =======")
     texts = []
@@ -61,9 +71,17 @@ if __name__ == "__main__":
     for auth, txts in texts_by_candidate.items():
         print (auth, "has", len(txts), "texts...")
 
-    print("======= Generating vocabulary =======")
-    tokenizer = Tokenizer()
-    tokenizer.fit_on_texts(texts)
+    if os.path.isfile(TOKENIZER_FILE):
+        print("======= Loading Tokenizer =======")
+        with open(TOKENIZER_FILE, 'rb') as handle:
+            tokenizer = pickle.load(handle)
+    else:
+        print("======= Generating vocabulary =======")
+        tokenizer = Tokenizer()
+        tokenizer.fit_on_texts(texts)
+        with open(TOKENIZER_FILE, 'wb') as handle:
+            pickle.dump(tokenizer, handle, protocol=pickle.HIGHEST_PROTOCOL)
+
     reverse_word_map = dict(map(reversed, tokenizer.word_index.items()))
     print(len(tokenizer.word_counts), "words in vocab.")
 
@@ -112,30 +130,46 @@ if __name__ == "__main__":
 
     print('Build model...')
     model = Sequential()
-    model.add(Embedding(vocab_size, EMBEDDING_SIZE))
-    model.add(Bidirectional(LSTM(HIDDEN_STATE_SIZE, dropout=0.2, recurrent_dropout=0.2)))
+    model.add(Embedding(vocab_size, EMBEDDING_SIZE, mask_zero=False))
+    model.add(LSTM(HIDDEN_STATE_SIZE, dropout=0.2, recurrent_dropout=0.2, return_sequences=True))
+    model.add(Attention())
     model.add(Dense(len(CANDIDATES), activation='softmax'))
 
     model.compile(loss='categorical_crossentropy',
                   optimizer='adam',
                   metrics=['accuracy'])
 
+    plot_model(model, to_file='results/satoshi-model.png')
+    model.summary()
+
     if os.path.isfile(WEIGHTS_FILE):
         model.load_weights(WEIGHTS_FILE)
 
-    if not args.skip_training:
+    if args.train:
         print('======= Training Network =======')
-        checkpointer = ModelCheckpoint(monitor='val_loss', filepath=WEIGHTS_FILE, verbose=1,
-            save_best_only=True, mode='min')
+        checkpointer = ModelCheckpoint(monitor='val_acc', filepath=WEIGHTS_FILE, verbose=1, save_best_only=True)
+        earlystopping = EarlyStopping(monitor='val_acc', patience=10)
         model.fit(x_train, y_train,
                   batch_size=BATCH_SIZE,
                   epochs=TRAIN_EPOCHS,
                   validation_data=(x_val, y_val),
-                  callbacks=[checkpointer])
+                  callbacks=[checkpointer, earlystopping])
 
-    if not args.skip_testing:
-        score, acc = model.evaluate(x_test, y_test,
-                                    batch_size=BATCH_SIZE)
+    if args.evaluate_val:
+        score, acc = model.evaluate(x_val, y_val, batch_size=BATCH_SIZE)
+        print('Val score:', score)
+        print('Val accuracy:', acc)
+
+        pred = np.argmax(model.predict(x_val, batch_size=BATCH_SIZE), axis=1)
+        truth = np.argmax(y_val, axis=1)
+        cnf_matrix = confusion_matrix(truth, pred)
+        plot_confusion_matrix(cnf_matrix, classes=CANDIDATES, normalize=True,
+                              title='Val Split Confusion Matrix')
+        plt.savefig('results/satoshi-val-confusion-matrix.png')
+        plt.close()
+
+    if args.evaluate_test:
+        score, acc = model.evaluate(x_test, y_test, batch_size=BATCH_SIZE)
         print('Test score:', score)
         print('Test accuracy:', acc)
 
@@ -143,8 +177,9 @@ if __name__ == "__main__":
         truth = np.argmax(y_test, axis=1)
         cnf_matrix = confusion_matrix(truth, pred)
         plot_confusion_matrix(cnf_matrix, classes=CANDIDATES, normalize=True,
-                              title='Confusion Matrix')
-        plt.savefig('results/satoshi-confusion-matrix.png')
+                              title='Test Split Confusion Matrix')
+        plt.savefig('results/satoshi-test-confusion-matrix.png')
+        plt.close()
 
         print("======= Testing Satoshi Writings =======")
         satoshi_seqs = tokenizer.texts_to_sequences(t for t, p in texts_by_candidate['satoshi-nakamoto'])
@@ -158,7 +193,7 @@ if __name__ == "__main__":
                 f.write('\n')
 
     if args.saliency_map:
-        print("======= Generating Salinecy Map =======")
+        print("======= Generating Saliency Map =======")
         with open(args.saliency_map, "r", encoding="utf-8") as f:
             text = f.read()
 
@@ -184,7 +219,7 @@ if __name__ == "__main__":
 
         tokens = list(reverse_word_map[id] for id in seq)
 
-        with open("results/salinecy-map.html", "wb") as f:
+        with open("results/saliency-map.html", "wb") as f:
             f.write(template.render(words=zip(tokens, saliency_mat)).encode('utf-8'))
 
         print("Scores:", scores)
