@@ -132,7 +132,7 @@ if __name__ == "__main__":
     print('Build model...')
     model = Sequential()
     model.add(Embedding(vocab_size, EMBEDDING_SIZE, mask_zero=False))
-    model.add(LSTM(HIDDEN_STATE_SIZE, dropout=0.2, recurrent_dropout=0.2, return_sequences=True))
+    model.add(Bidirectional(LSTM(HIDDEN_STATE_SIZE, dropout=0.2, recurrent_dropout=0.2, return_sequences=True)))
     model.add(Attention())
     model.add(Dense(len(CANDIDATES), activation='softmax'))
 
