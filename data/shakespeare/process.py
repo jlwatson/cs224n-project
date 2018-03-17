@@ -37,21 +37,26 @@ class FileProcessing:
         if os.path.isfile('/usr/local/bin/sublime'):
             call(['sublime'])
 
+        return self
+
     def output(self, final_filename):
         with open(final_filename, 'w+') as final:
             final.writelines(
                 [l + '\n' for l in self.lines]
             )
+        return self
 
     def close(self):
         self.temp_file.close()
         os.remove(self.temp_filename)
+        return self
 
     def _save(self):
         self.prev = {
             'lines': self.lines,
             'prev': self.prev,
         }
+        return self
 
     def undo(self):
         if self.prev is not None:
@@ -60,6 +65,7 @@ class FileProcessing:
             self.flush()
         else:
             print("Nothing to undo.")
+        return self
 
     def operation(self, op):
         self._save()
@@ -70,49 +76,87 @@ class FileProcessing:
         self.operation(
             lambda lines: [l for l in lines if l != ""]
         )
+        return self
 
     def remove_contains(self, a):
-        self.operation(
-            lambda lines: [l for l in lines if a not in l]
-        )
+        if type(a) != list:
+            a = [a]
+
+        for c in a:
+            self.operation(
+                lambda lines: [l for l in lines if c not in l]
+            )
+        return self
 
     def remove_exact(self, a):
-        self.operation(
-            lambda lines: [l for l in lines if a != l]
-        )
+        if type(a) != list:
+            a = [a]
+
+        for c in a:
+            self.operation(
+                lambda lines: [l for l in lines if c != l]
+            )
+        return self
 
     def remove_prefix(self, a):
-        self.operation(
-            lambda lines: [l for l in lines if not l.startswith(a)]
-        )
+        if type(a) != list:
+            a = [a]
+
+        for c in a:
+            self.operation(
+                lambda lines: [l for l in lines if not l.startswith(c)]
+            )
+        return self
 
     def remove_suffix(self, a):
-        self.operation(
-            lambda lines: [l for l in lines if not l.endswith(a)]
-        )
+        if type(a) != list:
+            a = [a]
+
+        for c in a:
+            self.operation(
+                lambda lines: [l for l in lines if not l.endswith(c)]
+            )
+        return self
 
     def remove_range(self, start, end):
         self.operation(
             lambda lines: lines[:start] + lines[end:]
         )
+        return self
 
     def strip_contains(self, a):
-        self.operation(
-            lambda lines: [strip_substring(l, a) if a in l else l for l in lines]
-        )
+        if type(a) != list:
+            a = [a]
+
+        for c in a:
+            self.operation(
+                lambda lines: [strip_substring(l, c) if c in l else l for l in lines]
+            )
+        return self
 
     def strip_prefix(self, a):
-        self.operation(
-            lambda lines: [strip_substring(l, a) if l.startswith(a) else l for l in lines]
-        )
+        if type(a) != list:
+            a = [a]
+
+        for p in a:
+            self.operation(
+                lambda lines: [strip_substring(l, p) if l.startswith(p) else l for l in lines]
+            )
+        return self
 
     def strip_suffix(self, a):
-        self.operation(
-            lambda lines: [strip_substring(l, a, True) if l.endswith(a) else l for l in lines]
-        )
+        if type(a) != list:
+            a = [a]
+
+        for s in a:
+            self.operation(
+                lambda lines: [strip_substring(l, s, True) if l.endswith(s) else l for l in lines]
+            )
+        return self
 
     def remove_predicate(self, pred):
         self.operation(
             lambda lines: [l for l in lines if pred(l)]
         )
+        return self
 
