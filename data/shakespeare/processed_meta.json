@@ -11,43 +11,43 @@
             "id": 0,
             "author": 1,
             "title": "The Pleasant Comedie of Old Fortunatus",
-            "filename": "fortunatus_dekker.txt"
+            "filename": "processed/fortunatus_dekker.txt"
         },
         {
             "id": 1,
             "author": 0,
             "title": "All's Well That Ends Well",
-            "filename": "endswell_shakespeare.txt"
+            "filename": "processed/endswell_shakespeare.txt"
         },
         {
             "id": 2,
             "author": 1,
             "title": "The Noble Spanish Soldier",
-            "filename": "spanish_dekker.txt"
+            "filename": "processed/spanish_dekker.txt"
         },
         {
             "id": 3,
             "author": 0,
             "title": "As You Like It",
-            "filename": "likeit_shakespeare.txt"
+            "filename": "processed/likeit_shakespeare.txt"
         },
         {
             "id": 4,
             "author": 2,
             "title": "The Alchemist",
-            "filename": "alchemist_jonson.txt"
+            "filename": "processed/alchemist_jonson.txt"
         },
         {
             "id": 5,
             "author": 0,
             "title": "Antony and Cleopatra",
-            "filename": "antony_shakespeare.txt"
+            "filename": "processed/antony_shakespeare.txt"
         },
         {
             "id": 6,
             "author": 3,
             "title": "Vortigern and Rowena",
-            "filename": "vortigern_apocrypha.txt"
+            "filename": "processed/vortigern_apocrypha.txt"
         }
     ]
 }
