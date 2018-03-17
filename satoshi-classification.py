@@ -57,32 +57,33 @@ if __name__ == "__main__":
 
     mkdir_p("results")
 
-    print("======= Loading in Texts =======")
-    texts = []
-    texts_by_candidate = {}
-    for c in CANDIDATES + ['satoshi-nakamoto']:
-        texts_by_candidate[c] = []
-        for path in glob.iglob("./data/satoshi/%s/*.txt" % c, recursive=True):
-            with open(path, "r", encoding="utf-8") as f:
-                text = f.read()
-                texts.append(text)
-                texts_by_candidate[c].append((text, path))
+    if os.path.isfile(TOKENIZER_FILE):
+        print("======= Loading Tokenizer =======")
+        with open(TOKENIZER_FILE, 'rb') as handle:
+            texts, texts_by_candidate, tokenizer, reverse_word_map = pickle.load(handle)
+    else:
+        print("======= Loading in Texts =======")
+        texts = []
+        texts_by_candidate = {}
+        for c in CANDIDATES + ['satoshi-nakamoto']:
+            texts_by_candidate[c] = []
+            for path in glob.iglob("./data/satoshi/%s/*.txt" % c, recursive=True):
+                with open(path, "r", encoding="utf-8") as f:
+                    text = f.read()
+                    texts.append(text)
+                    texts_by_candidate[c].append((text, path))
+
+        print("======= Generating vocabulary =======")
+        tokenizer = Tokenizer()
+        tokenizer.fit_on_texts(texts)
+        reverse_word_map = dict(map(reversed, tokenizer.word_index.items()))
+
+        with open(TOKENIZER_FILE, 'wb') as handle:
+            pickle.dump((texts, texts_by_candidate, tokenizer, reverse_word_map), handle, protocol=pickle.HIGHEST_PROTOCOL)
 
     for auth, txts in texts_by_candidate.items():
         print (auth, "has", len(txts), "texts...")
 
-    if os.path.isfile(TOKENIZER_FILE):
-        print("======= Loading Tokenizer =======")
-        with open(TOKENIZER_FILE, 'rb') as handle:
-            tokenizer = pickle.load(handle)
-    else:
-        print("======= Generating vocabulary =======")
-        tokenizer = Tokenizer()
-        tokenizer.fit_on_texts(texts)
-        with open(TOKENIZER_FILE, 'wb') as handle:
-            pickle.dump(tokenizer, handle, protocol=pickle.HIGHEST_PROTOCOL)
-
-    reverse_word_map = dict(map(reversed, tokenizer.word_index.items()))
     print(len(tokenizer.word_counts), "words in vocab.")
 
     print("======= Generating Data Tuples =======")
