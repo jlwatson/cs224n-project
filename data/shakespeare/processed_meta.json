@@ -47,72 +47,66 @@
         },
         {
             "id": 6,
-            "author": 3,
-            "title": "Vortigern and Rowena",
-            "filename": "processed/vortigern_apocrypha.txt"
-        },
-        {
-            "id": 7,
             "author": 4,
             "title": "A Chaste Maid in Cheapside",
             "filename": "processed/chastemaid_middleton.txt"
         },
         {
-            "id": 8,
+            "id": 7,
             "author": 0,
             "title": "A Comedy of Errors",
             "filename": "processed/comedyoferrors_shakespeare.txt"
         },
         {
-            "id": 9,
+            "id": 8,
             "author": 0,
             "title": "Coriolanus",
             "filename": "processed/coriolanus_shakespeare.txt"
         },
         {
-            "id": 10,
+            "id": 9,
             "author": 0,
             "title": "Cymbeline",
             "filename": "processed/cymbeline_shakespeare.txt"
         },
         {
-            "id": 11,
+            "id": 10,
             "author": 5,
             "title": "Dido (Act I)",
             "filename": "processed/dido_i_marlowe.txt"
         },
         {
-            "id": 12,
+            "id": 11,
             "author": 5,
             "title": "Dido (Act II)",
             "filename": "processed/dido_ii_marlowe.txt"
         },
         {
-            "id": 13,
+            "id": 12,
             "author": 5,
             "title": "Dido (Act III)",
             "filename": "processed/dido_iii_marlowe.txt"
         },
         {
-            "id": 14,
+            "id": 13,
             "author": 5,
             "title": "Dido (Act IV)",
             "filename": "processed/dido_iv_marlowe.txt"
         },
         {
-            "id": 15,
+            "id": 14,
             "author": 5,
             "title": "Dido (Act V)",
             "filename": "processed/dido_v_marlowe.txt"
         },
         {
-            "id": 16,
+            "id": 15,
             "author": 5,
             "title": "The Tragical History of the Life and Death of Doctor Faustus",
             "filename": "processed/faustus_marlowe.txt"
         },
         {
-            "id": 17,
+            "id": 16,
             "author": 4,
             "title": "Your Five Gallants",
             "filename": "processed/fivegallants_middleton.txt"
