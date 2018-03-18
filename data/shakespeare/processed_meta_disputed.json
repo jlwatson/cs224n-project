@@ -1,0 +1,13 @@
+{
+    "description": "Metadata for disputed Shakespeare works.",
+        ["unknown", 0]
+    ],
+    "works": [
+        {
+            "id": 0,
+            "author": 0,
+            "title": "Vortigern and Rowena",
+            "filename": "processed/disputed/vortigern.txt"
+        }
+    ]
+}

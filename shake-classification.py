@@ -166,7 +166,7 @@ if __name__ == "__main__":
         pred = np.around(model.predict(X_val, batch_size=BATCH_SIZE))
         truth = np.around(y_val)
         cnf_matrix = sklearn.metrics.confusion_matrix(truth, pred)
-        utils.plot_confusion_matrix(cnf_matrix, classes=["William Shakespeare", "Other period playwrights"], normalize=True, title="Val Split Confusion Matrix")
+        utils.plot_confusion_matrix(cnf_matrix, classes=["William Shakespeare", "Period playwrights"], normalize=True, title="Val Split Confusion Matrix")
         plt.savefig('shake_results/shake-val-confusion-matrix.png')
         plt.close()
 
@@ -178,7 +178,7 @@ if __name__ == "__main__":
         pred = np.around(model.predict(X_test, batch_size=BATCH_SIZE))
         truth = np.around(y_test)
         cnf_matrix = sklearn.metrics.confusion_matrix(truth, pred)
-        utils.plot_confusion_matrix(cnf_matrix, classes=["William Shakespeare", "Other period playwrights"], normalize=True, title="Test Split Confusion Matrix")
+        utils.plot_confusion_matrix(cnf_matrix, classes=["William Shakespeare", "Period playwrights"], normalize=True, title="Test Split Confusion Matrix")
         plt.savefig('shake_results/shake-test-confusion-matrix.png')
         plt.close()
 
