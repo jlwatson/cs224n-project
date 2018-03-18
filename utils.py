@@ -36,6 +36,13 @@ def plot_confusion_matrix(cm, classes,
     plt.ylabel('True label')
     plt.xlabel('Predicted label')
 
+def chunks(iterable, size):
+    it = iter(iterable)
+    chunk = list(itertools.islice(it, size))
+    while chunk:
+        yield chunk
+        chunk = list(itertools.islice(it, size))
+
 def get_split(string, test_split = 0.1, validation_split = 0.1):
     string_hash = hashlib.md5(string.encode('utf-8')).digest()
     prob = int.from_bytes(string_hash[:2], byteorder='big') / 2**16

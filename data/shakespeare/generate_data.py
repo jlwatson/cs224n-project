@@ -21,7 +21,9 @@ if __name__ == "__main__":
     random.shuffle(output)
 
     with open(args.out_filename, 'w+') as f:
-        f.write("(sentence, author_id, work_id)\n")
+        f.write("// Metadata\n")
+        f.write(json.dumps(metadata) + "\n\n")
+        f.write("// (sentence, author_id, work_id)\n")
         for o in output:
             f.write(str(o) + "\n")
 
