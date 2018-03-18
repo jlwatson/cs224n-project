@@ -1,6 +1,6 @@
 from keras.preprocessing import sequence
 from keras.models import Sequential
-from keras.layers import Dense, Embedding, LSTM, Bidirectional
+from keras.layers import Dense, Embedding, LSTM, Bidirectional, Dropout
 from keras.preprocessing.text import Tokenizer
 from keras import utils
 from keras.callbacks import ModelCheckpoint, EarlyStopping
@@ -29,9 +29,6 @@ from keras.utils import plot_model
 
 BATCH_SIZE = 32
 TRAIN_EPOCHS = 15
-
-EMBEDDING_SIZE = 128
-HIDDEN_STATE_SIZE = 128
 
 MIN_SEQUENCE_LEN = 10
 MAX_SEQUENCE_LEN = 200
@@ -131,9 +128,11 @@ if __name__ == "__main__":
 
     print('Build model...')
     model = Sequential()
-    model.add(Embedding(vocab_size, EMBEDDING_SIZE, mask_zero=False))
-    model.add(Bidirectional(LSTM(HIDDEN_STATE_SIZE, dropout=0.2, recurrent_dropout=0.2, return_sequences=True)))
+    model.add(Embedding(vocab_size, 128, mask_zero=False))
+    model.add(Bidirectional(LSTM(64, dropout=0.4, recurrent_dropout=0.4, return_sequences=True)))
     model.add(Attention())
+    model.add(Dense(50, activation='relu'))
+    model.add(Dropout(0.4))
     model.add(Dense(len(CANDIDATES), activation='softmax'))
 
     model.compile(loss='categorical_crossentropy',
