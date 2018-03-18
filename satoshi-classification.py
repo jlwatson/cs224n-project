@@ -160,6 +160,9 @@ if __name__ == "__main__":
         print('Val score:', score)
         print('Val accuracy:', acc)
 
+        with open("results/satoshi-val-metrics.txt", "w") as f:
+            f.write("Val score: %s\nVal accuracy: %s" % (score, acc))
+
         pred = np.argmax(model.predict(x_val, batch_size=BATCH_SIZE), axis=1)
         truth = np.argmax(y_val, axis=1)
         cnf_matrix = confusion_matrix(truth, pred)
