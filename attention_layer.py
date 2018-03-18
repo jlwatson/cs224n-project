@@ -5,7 +5,8 @@ from keras.engine.topology import Layer
 from keras.layers import Wrapper, Recurrent
 
 class Attention(Layer):
-    def __init__(self, **kwargs):
+    def __init__(self, direction = "forward", **kwargs):
+        self.direction = direction
         super(Attention, self).__init__(**kwargs)
 
     def build(self, input_shape):
@@ -15,8 +16,26 @@ class Attention(Layer):
     def call(self, x):
         shape = K.shape(x)
         samples, time_steps, embedding_dim = shape[0], shape[1], shape[2]
-        prev_hidden_states = x[:, :time_steps-1, :]
-        final_hidden_state = x[:, time_steps-1, :]
+
+        if self.direction == "forward":
+            prev_hidden_states = x[:, :time_steps-1, :]
+            final_hidden_state = x[:, time_steps-1, :]
+        elif self.direction == "backward":
+            prev_hidden_states = x[:, 1:, :]
+            final_hidden_state = x[:, 0, :]
+        elif self.direction == "bidirectional":
+            forward_states = x[:, :, :(embedding_dim // 2)]
+            backward_states = x[:, :, (embedding_dim // 2):]
+
+            prev_hidden_states = K.concatenate([
+                forward_states[:, :time_steps-1, :],
+                backward_states[:, 1:, :]])
+
+            final_hidden_state = K.concatenate([
+                forward_states[:, time_steps-1, :],
+                backward_states[:, 0, :]])
+        else:
+            raise ArgumentTypeError("Invalid direction %s" % self.direction)
 
         scores = K.sum(prev_hidden_states * K.expand_dims(final_hidden_state, axis=1), axis=2)
         weights = K.softmax(scores)
