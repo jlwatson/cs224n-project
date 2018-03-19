@@ -1,6 +1,6 @@
 from keras.preprocessing import sequence
 from keras.models import Sequential
-from keras.layers import Dense, Embedding, LSTM, Bidirectional, Dropout
+from keras.layers import Dense, Embedding, LSTM, Bidirectional, Dropout, GRU
 from keras.preprocessing.text import Tokenizer
 from keras import utils
 from keras.callbacks import ModelCheckpoint, EarlyStopping
@@ -129,7 +129,7 @@ if __name__ == "__main__":
     print('Build model...')
     model = Sequential()
     model.add(Embedding(vocab_size, 128, mask_zero=False))
-    model.add(Bidirectional(LSTM(128, dropout=0.5, recurrent_dropout=0.5, return_sequences=True)))
+    model.add(Bidirectional(GRU(128, dropout=0.5, recurrent_dropout=0.5, return_sequences=True)))
     model.add(Attention(direction="bidirectional"))
     model.add(Dense(50, activation='relu'))
     model.add(Dropout(0.5))
