@@ -27,9 +27,6 @@ BATCH_SIZE = 32
 SPLIT_FRACTION = 0.1
 TRAIN_EPOCHS = 15
 
-EMBEDDING_SIZE = 128
-HIDDEN_STATE_SIZE = 128
-
 MIN_SEQUENCE_LEN = 4
 MAX_SEQUENCE_LEN = 20
 
@@ -134,8 +131,8 @@ if __name__ == "__main__":
 
     print('Build model...')
     model = Sequential()
-    model.add(Embedding(vocab_size, EMBEDDING_SIZE, mask_zero=False))
-    model.add(LSTM(HIDDEN_STATE_SIZE, dropout=0.2, recurrent_dropout=0.2, return_sequences=True))
+    model.add(Embedding(vocab_size, 128, mask_zero=False))
+    model.add(LSTM(128, dropout=0.2, recurrent_dropout=0.2, return_sequences=True))
     model.add(Attention())
     model.add(Dense(1, activation='sigmoid'))
 
