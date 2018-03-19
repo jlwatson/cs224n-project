@@ -15,7 +15,7 @@ from mkdir_p import mkdir_p
 
 from keras.callbacks import ModelCheckpoint, EarlyStopping
 from keras.datasets import imdb
-from keras.layers import Dense, Embedding, LSTM
+from keras.layers import Dense, Embedding, LSTM, Dropout
 from keras.models import Sequential
 from keras.preprocessing import sequence
 from keras.preprocessing.text import Tokenizer
@@ -163,6 +163,9 @@ if __name__ == "__main__":
         score, acc = model.evaluate(X_val, y_val, batch_size=BATCH_SIZE)
         print("Validation score:", score)
         print("Validation accuracy:", acc)
+
+        with open("shake-results/val-metrics.txt", "w") as f:
+            f.write("Val score: %s\nVal accuracy: %s" % (score, acc))
 
         pred = np.around(model.predict(X_val, batch_size=BATCH_SIZE))
         truth = np.around(y_val)
