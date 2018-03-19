@@ -73,11 +73,14 @@ if __name__ == "__main__":
     for d in data:
         lines_by_author_and_work[d[1]][d[2]].append(d[0])
 
-    tokenizer = Tokenizer()
-    tokenizer.fit_on_texts(texts)
-
-    with open(TOKENIZER_FILE, 'wb') as handle:
-        pickle.dump((texts, lines_by_author_and_work, tokenizer, author_id_map, works_id_map), handle, protocol=pickle.HIGHEST_PROTOCOL)
+    if os.path.isfile(TOKENIZER_FILE):
+        with open(TOKENIZER_FILE, 'rb') as handle:
+            texts, lines_by_author_and_work, tokenizer, author_id_map, works_id_map = pickle.load(handle)
+    else:
+        tokenizer = Tokenizer()
+        tokenizer.fit_on_texts(texts)
+        with open(TOKENIZER_FILE, 'wb') as handle:
+            pickle.dump((texts, lines_by_author_and_work, tokenizer, author_id_map, works_id_map), handle, protocol=pickle.HIGHEST_PROTOCOL)
 
     for author, works in lines_by_author_and_work.items():
         print(author_id_map[author], "has", len(works.keys()), "works...")
@@ -112,6 +115,7 @@ if __name__ == "__main__":
     print("Shakespeare has", counts[0], "labelled examples.")
     print("Other authors have", counts[1], "labelled examples.")
 
+    random.seed(259812)
     random.shuffle(data_tuples)
 
     vocab_size = len(tokenizer.word_docs) + 1
