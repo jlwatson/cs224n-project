@@ -50,6 +50,7 @@ if __name__ == "__main__":
     parser.add_argument('--evaluate-val', help='Run evaluations on the val split.', action='store_true')
     parser.add_argument('--saliency-map', help='Generate a saliency map for this text.')
     parser.add_argument('--saliency-class', help='Generate a saliency map for this class.', type=is_valid_candidiate)
+    parser.add_argument('--activation-map', help='Generate an activation map for this text.')
     args = parser.parse_args()
 
     mkdir_p("results")
@@ -227,3 +228,24 @@ if __name__ == "__main__":
 
         print("Scores:", scores)
         print("Predicted Class:", CANDIDATES[pred])
+
+    if args.activation_map:
+        print("======= Generating Activation Map =======")
+        with open(args.activation_map, "r", encoding="utf-8") as f:
+            text = f.read()
+
+        activations = model.layers[1].output
+        compute_fn = K.function([model.layers[0].input, K.learning_phase()], [activations])
+
+        seq = tokenizer.texts_to_sequences([text])[0]
+        data = sequence.pad_sequences([seq])
+        activation_mat = compute_fn([data, 0])[0][0]
+
+        env = Environment(loader=FileSystemLoader('.'),
+            autoescape=select_autoescape(['html', 'xml']))
+        env.globals.update(zip=zip, npmax=np.max, npabs=np.abs)
+        template = env.get_template('activation-vis-template.html')
+        tokens = list(reverse_word_map[id] for id in seq)
+
+        with open("results/activation-map.html", "wb") as f:
+            f.write(template.render(tokens=tokens, activation_mat=activation_mat.T).encode('utf-8'))
