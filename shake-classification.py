@@ -15,7 +15,7 @@ from mkdir_p import mkdir_p
 
 from keras.callbacks import ModelCheckpoint, EarlyStopping
 from keras.datasets import imdb
-from keras.layers import Dense, Embedding, LSTM, Dropout
+from keras.layers import Dense, Embedding, LSTM, Dropout, Bidirectional, GRU
 from keras.models import Sequential
 from keras.preprocessing import sequence
 from keras.preprocessing.text import Tokenizer
@@ -132,8 +132,10 @@ if __name__ == "__main__":
     print('Build model...')
     model = Sequential()
     model.add(Embedding(vocab_size, 128, mask_zero=False))
-    model.add(LSTM(128, dropout=0.2, recurrent_dropout=0.2, return_sequences=True))
-    model.add(Attention())
+    model.add(Bidirectional(LSTM(128, dropout=0.5, recurrent_dropout=0.5, return_sequences=True)))
+    model.add(Attention(direction="bidirectional"))
+    model.add(Dense(50, activation='relu'))
+    model.add(Dropout(0.5))
     model.add(Dense(1, activation='sigmoid'))
 
     model.compile(
