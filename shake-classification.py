@@ -164,7 +164,7 @@ if __name__ == "__main__":
         print("Validation score:", score)
         print("Validation accuracy:", acc)
 
-        with open("shake-results/val-metrics.txt", "w") as f:
+        with open("shake_results/val-metrics.txt", "w") as f:
             f.write("Val score: %s\nVal accuracy: %s" % (score, acc))
 
         pred = np.around(model.predict(X_val, batch_size=BATCH_SIZE))
