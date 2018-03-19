@@ -18,7 +18,7 @@ import argparse
 
 import pickle
 
-from utils import plot_confusion_matrix, get_split
+from utils import plot_confusion_matrix, get_split, plot_length_vs_accuracy
 from sklearn.metrics import confusion_matrix
 from keras import backend as K
 
@@ -168,8 +168,12 @@ if __name__ == "__main__":
         truth = np.argmax(y_val, axis=1)
         cnf_matrix = confusion_matrix(truth, pred)
         plot_confusion_matrix(cnf_matrix, classes=CANDIDATES, normalize=True,
-                              title='Val Split Confusion Matrix')
+                              title='Satoshi Val Split Confusion Matrix')
         plt.savefig('results/satoshi-val-confusion-matrix.png')
+        plt.close()
+
+        plot_length_vs_accuracy(10, data_tuples, pred, truth,
+            MAX_SEQUENCE_LEN, "Satoshi Accuracy vs. Sequence Length (Val)")
         plt.close()
 
     if args.evaluate_test:
@@ -181,20 +185,35 @@ if __name__ == "__main__":
         truth = np.argmax(y_test, axis=1)
         cnf_matrix = confusion_matrix(truth, pred)
         plot_confusion_matrix(cnf_matrix, classes=CANDIDATES, normalize=True,
-                              title='Test Split Confusion Matrix')
+                              title='Satoshi Test Split Confusion Matrix')
         plt.savefig('results/satoshi-test-confusion-matrix.png')
         plt.close()
 
+        plot_length_vs_accuracy(10, data_tuples, pred, truth,
+            MAX_SEQUENCE_LEN, "Satoshi Accuracy vs. Sequence Length")
+        plt.close()
+
         print("======= Testing Satoshi Writings =======")
+        candidate_counts = [0] * len(CANDIDATES)
         satoshi_seqs = tokenizer.texts_to_sequences(t for t, p in texts_by_candidate['satoshi-nakamoto'])
         paths = [p for t, p in texts_by_candidate['satoshi-nakamoto']]
         padded = sequence.pad_sequences(satoshi_seqs)
         scores = model.predict(padded, batch_size=BATCH_SIZE)
+        print(np.sum(scores, axis=0))
+
         pred = np.argmax(scores, axis=1)
         with open("results/satoshi-results.txt", "w") as f:
             for i, c in enumerate(pred):
+                candidate_counts[c] += 1
                 f.write(os.path.basename(paths[i]) + "\t" + CANDIDATES[c] + "\t" + str(scores[i]))
                 f.write('\n')
+
+        plt.bar(np.arange(len(CANDIDATES)), candidate_counts)
+        plt.ylabel('Documents')
+        plt.xlabel('Candidates')
+        plt.title('Classification of Satoshi Writings')
+        plt.xticks(np.arange(len(CANDIDATES)), CANDIDATES)
+        plt.close()
 
     if args.saliency_map:
         print("======= Generating Saliency Map =======")

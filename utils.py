@@ -43,6 +43,24 @@ def chunks(iterable, size):
         yield chunk
         chunk = list(itertools.islice(it, size))
 
+def plot_length_vs_accuracy(bins, data_tuples, pred, truth, max_seq_len, title):
+    correct_bins = [0] * bins
+    total_bins = [0] * bins
+    bin_size = (max_seq_len // bins)
+
+    for seq, pred, truth in zip([d[0] for d in data_tuples if d[2] == 'val'], pred, truth):
+        bin = int(((len(seq) - 1) / max_seq_len) * bins)
+        total_bins[bin] += 1
+        if pred == truth:
+            correct_bins[bin] += 1
+    accuracy = [correct / total for correct, total in zip(correct_bins, total_bins)]
+    plt.bar(np.arange(bins), accuracy)
+    plt.ylabel('Accuracy')
+    plt.xlabel('Sequence Size')
+
+    plt.title(title)
+    plt.xticks(np.arange(bins), ["%d-%d" % (bin_size * i, bin_size * (i + 1)) for i in range(bins)])
+
 def get_split(string, test_split = 0.1, validation_split = 0.1):
     string_hash = hashlib.md5(string.encode('utf-8')).digest()
     prob = int.from_bytes(string_hash[:2], byteorder='big') / 2**16
