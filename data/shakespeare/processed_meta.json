@@ -121,6 +121,36 @@
             "author": 4,
             "title": "Hengist and Horsa",
             "filename": "processed/hengist_middleton.txt"
+        },
+        {
+            "id": 19,
+            "author": 0,
+            "title": "Henry IV, Part 1",
+            "filename": "processed/hen_iv_i_shakespeare.txt"
+        },
+        {
+            "id": 20,
+            "author": 0,
+            "title": "Henry IV, Part 2",
+            "filename": "processed/hen_iv_ii_shakespeare.txt"
+        },
+        {
+            "id": 21,
+            "author": 5,
+            "title": "The Jew of Malta (Act I)",
+            "filename": "processed/jewofmalta_i_marlowe.txt"
+        },
+        {
+            "id": 22,
+            "author": 5,
+            "title": "The Jew of Malta (Act II)",
+            "filename": "processed/jewofmalta_ii_marlowe.txt"
+        },
+        {
+            "id": 23,
+            "author": 5,
+            "title": "The Jew of Malta (Act III)",
+            "filename": "processed/jewofmalta_iii_marlowe.txt"
         }
     ]
 }
