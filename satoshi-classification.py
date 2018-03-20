@@ -185,7 +185,7 @@ if __name__ == "__main__":
         truth = np.argmax(y_test, axis=1)
         cnf_matrix = confusion_matrix(truth, pred)
         plot_confusion_matrix(cnf_matrix, classes=CANDIDATES, normalize=True,
-                              title='Satoshi Test Split Confusion Matrix')
+                              title="Satoshi Confusion Matrix")
         plt.savefig('results/satoshi-test-confusion-matrix.png')
         plt.close()
 
