@@ -27,8 +27,8 @@ BATCH_SIZE = 32
 SPLIT_FRACTION = 0.1
 TRAIN_EPOCHS = 3
 
-MIN_SEQUENCE_LEN = 4
-MAX_SEQUENCE_LEN = 20
+MIN_SEQUENCE_LEN = 10
+MAX_SEQUENCE_LEN = 100
 
 DISPUTED_FILE = 'data/shakespeare/disputed_works_75.data'
 
@@ -76,15 +76,20 @@ if __name__ == "__main__":
     tokenizer = Tokenizer()
     tokenizer.fit_on_texts(texts)
 
+    data_tuples = []
     for author, works in lines_by_author_and_work.items():
         print(author_id_map[author], "has", len(works.keys()), "works...")
         for work, lines in works.items():
             print("    ", str(works_id_map[work][0]) + ":", len(lines), "examples")
+            for l in tokenizer.texts_to_sequences(lines):
+                # 0 == shakespeare, plz don't be mad
+                data_tuples.append((l, 0 if author == 0 else 1))
         print()
 
     print(len(tokenizer.word_counts), "words in vocab.")
     print()
 
+    '''
     print("======= Generating Data Sequences =======")
     print()
 
@@ -100,6 +105,7 @@ if __name__ == "__main__":
                 if len(chunk) >= MIN_SEQUENCE_LEN:
                     # 0 == shakespeare, plz don't be mad
                     data_tuples.append((chunk, 0 if a == 0 else 1))
+    '''
 
     print(len(data_tuples), "data tuples.")
     counts = [0] * len(author_id_map)
