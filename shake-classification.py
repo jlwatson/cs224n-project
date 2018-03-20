@@ -43,7 +43,6 @@ if __name__ == "__main__":
 
     mkdir_p("shake_results")
 
-    # TODO: just load the pickle if it exists
     print("======= Loading Plays =======")
     print()
 
@@ -70,19 +69,13 @@ if __name__ == "__main__":
     for d in data:
         lines_by_author_and_work[d[1]][d[2]].append(d[0])
 
-    if os.path.isfile(TOKENIZER_FILE):
-        with open(TOKENIZER_FILE, 'rb') as handle:
-            texts, lines_by_author_and_work, tokenizer, author_id_map, works_id_map = pickle.load(handle)
-    else:
-        tokenizer = Tokenizer()
-        tokenizer.fit_on_texts(texts)
-        with open(TOKENIZER_FILE, 'wb') as handle:
-            pickle.dump((texts, lines_by_author_and_work, tokenizer, author_id_map, works_id_map), handle, protocol=pickle.HIGHEST_PROTOCOL)
+    tokenizer = Tokenizer()
+    tokenizer.fit_on_texts(texts)
 
     for author, works in lines_by_author_and_work.items():
         print(author_id_map[author], "has", len(works.keys()), "works...")
         for work, lines in works.items():
-            print("    ", str(works_id_map[work][0]) + ":", len(lines), "lines")
+            print("    ", str(works_id_map[work][0]) + ":", len(lines), "examples")
         print()
 
     print(len(tokenizer.word_counts), "words in vocab.")
@@ -132,7 +125,7 @@ if __name__ == "__main__":
     print('Build model...')
     model = Sequential()
     model.add(Embedding(vocab_size, 128, mask_zero=False))
-    model.add(LSTM(128, dropout=0.2, recurrent_dropout=0.2, return_sequences=True))
+    model.add(LSTM(128, dropout=0.4, recurrent_dropout=0.4, return_sequences=True))
     model.add(Attention())
     model.add(Dense(1, activation='sigmoid'))
 
@@ -164,7 +157,7 @@ if __name__ == "__main__":
         print("Validation score:", score)
         print("Validation accuracy:", acc)
 
-        with open("shake-results/val-metrics.txt", "w") as f:
+        with open("shake-results/val-metrics.txt", "w+") as f:
             f.write("Val score: %s\nVal accuracy: %s" % (score, acc))
 
         pred = np.around(model.predict(X_val, batch_size=BATCH_SIZE))
