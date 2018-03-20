@@ -245,21 +245,21 @@ if __name__ == "__main__":
         # make the bar graph
         N = len(results)
 
-        ws_counts = [r[1] for r in results]
-        notws_counts = [r[2] for r in results]
+        ws_counts = [r[1]/(r[1]+r[2]) for r in results]
+        notws_counts = [r[2]/(r[1]+r[2]) for r in results]
 
         indexes = np.arange(N)
         width = 0.35
 
         p1 = plt.bar(indexes, ws_counts, width, color=(0.3, 0.45, 1.0))
-        p2 = plt.bar(indexes, notws_counts, width, color=(0.3, 1.0, 0.45))
+        p2 = plt.bar(indexes, notws_counts, width, bottom=ws_counts, color=(0.3, 1.0, 0.45))
         plt.ylabel('% passages in work')
         plt.xlabel('Works')
-        plt.title('Classification of passages in contemporary Shakespearean works with disputed attribution')
-        plt.xticks(indexes + width/2.0)
+        plt.title('Classification of passages with disputed attribution')
+        plt.xticks(indexes + width/2.0, [works_id_map[r[0]] for r in results], rotation=70)
         plt.yticks(np.arange(0, 1.0, 0.05))
 
-        plt.savefig(RESULT_DIR+'/shake-disputed-result-bar.png')
+        plt.savefig(RESULT_DIR+'/shake-disputed-result-bar.png', bbox_inches='tight', pad_inches=2)
         plt.close()
         
 
