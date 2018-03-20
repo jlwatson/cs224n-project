@@ -23,19 +23,19 @@ if __name__ == "__main__":
             if args.chunk_size == 0: # line by line
                 output += [(s.strip(), w["author"], w["id"]) for s in f.readlines()]
             else:
-                '''
                 alllines = "\n".join([s.strip() for s in f.readlines()])
                 words_list = text.text_to_word_sequence(alllines)
-                while len(alllines) >= args.chunk_size:
-                    output.append((" ".join(alllines[:args.chunk_size]), w["author"], w["id"]))
-                    alllines = alllines[args.chunk_size:]
-                output.append((" ".join(alllines), w["author"], w["id"]))
+                while len(words_list) >= args.chunk_size:
+                    output.append((" ".join(words_list[:args.chunk_size]), w["author"], w["id"]))
+                    words_list = words_list[args.chunk_size:]
+                output.append((" ".join(words_list), w["author"], w["id"]))
                 '''
                 alllines = [s.strip() for s in f.readlines()]
                 while len(alllines) >= args.chunk_size:
                     output.append((" ".join(alllines[:args.chunk_size]), w["author"], w["id"]))
                     alllines = alllines[args.chunk_size:]
                 output.append((" ".join(alllines), w["author"], w["id"]))
+                '''
 
         print("done.", flush=True)
 

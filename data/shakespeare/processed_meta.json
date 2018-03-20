@@ -4,7 +4,6 @@
         ["shakespeare", 0],
         ["dekker", 1],
         ["jonson", 2],
-        ["apocrypha", 3],
         ["middleton", 4],
         ["marlowe", 5]
     ],
@@ -116,6 +115,12 @@
             "author": 0,
             "title": "Hamlet",
             "filename": "processed/hamlet_shakespeare.txt"
+        },
+        {
+            "id": 18,
+            "author": 4,
+            "title": "Hengist and Horsa",
+            "filename": "processed/hengist_middleton.txt"
         }
     ]
 }

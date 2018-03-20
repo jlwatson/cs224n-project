@@ -25,10 +25,12 @@ from attention_layer import Attention
 
 BATCH_SIZE = 32
 SPLIT_FRACTION = 0.1
-TRAIN_EPOCHS = 15
+TRAIN_EPOCHS = 3
 
 MIN_SEQUENCE_LEN = 4
 MAX_SEQUENCE_LEN = 20
+
+DISPUTED_FILE = 'data/shakespeare/disputed_works_75.data'
 
 RESULT_DIR = "shake_results"
 TOKENIZER_FILE = RESULT_DIR + "/tokenizer.pickle"
@@ -40,6 +42,7 @@ if __name__ == "__main__":
     parser.add_argument('--train', help='Run training.', action='store_true')
     parser.add_argument('--evaluate_test', help='Run evaluations on the test split.', action='store_true')
     parser.add_argument('--evaluate_val', help='Run evaluations on the val split.', action='store_true')
+    parser.add_argument('--evaluate_disputed', help='Run model on disputed W.S. works.', action='store_true')
     args = parser.parse_args()
 
     mkdir_p(RESULT_DIR)
@@ -141,9 +144,6 @@ if __name__ == "__main__":
     plot_model(model, to_file=RESULT_DIR+'/shake-model.png')
     model.summary()
 
-    if os.path.isfile(WEIGHTS_FILE):
-        model.load_weights(WEIGHTS_FILE)
-
     if args.train:
         print("======= Training Network =======")
         print()
@@ -182,4 +182,57 @@ if __name__ == "__main__":
         plt.savefig(RESULT_DIR+'/shake-test-confusion-matrix.png')
         plt.close()
 
-        # TODO: run with Apocrypha separate?
+    if args.evaluate_disputed:
+        print()
+        print("======= Evaluating Disputed Documents =======")
+        print()
+
+        with open(DISPUTED_FILE, 'r') as disputed_data_handle:
+            all_lines = [l.strip() for l in disputed_data_handle.readlines()]
+
+        # strip "// Metadata", extract json metadata object, strip "\n // (<fields>)"
+        metadata = json.loads(all_lines[1])
+        data = [ast.literal_eval(l) for l in all_lines[4:]]
+        texts = [d[0] for d in data]
+
+        works = metadata["works"]
+        works_id_map = {w["id"]: w["title"] for w in works}
+
+        lines_by_work = defaultdict(list)
+        for d in data:
+            lines_by_work[d[2]].append(d[0])
+
+        tokenizer = Tokenizer()
+        tokenizer.fit_on_texts(texts)
+
+        for work, lines in lines_by_work.items():
+            print(str(works_id_map[work]) + ":", len(lines), "examples")
+        print()
+
+        random.seed(259812)
+
+        for w in works_id_map.keys():
+
+            data_tuples = []
+            seqs = tokenizer.texts_to_sequences(lines_by_work[w])
+            for j, seq in enumerate(seqs):
+                for chunk in utils.chunks(seq, MAX_SEQUENCE_LEN):
+                    if len(chunk) >= MIN_SEQUENCE_LEN:
+                        # 0 is NOT a label here, just a placeholder
+                        data_tuples.append((chunk, 0))
+
+            random.shuffle(data_tuples)
+
+            # vocab_size = len(tokenizer.word_docs) + 1
+            disputed_X = sequence.pad_sequences([d[0] for d in data_tuples], maxlen=MAX_SEQUENCE_LEN)
+
+            pred = np.around(model.predict(disputed_X, batch_size=BATCH_SIZE))
+            notws = np.sum(pred)
+            ws = pred.shape[0] - notws
+
+            print("Predicting authorship of", works_id_map[w] + "...")
+            print("     total passages:", pred.shape[0])
+            print("    ", ws, "passages attributed to William Shakespeare")
+            print("    ", notws, "passages attributed to other authors")
+            print("     classification consensus:", "William Shakespeare" if ws > notws else "Other contemporary authors")
+            print()

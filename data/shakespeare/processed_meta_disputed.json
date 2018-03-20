@@ -21,5 +21,36 @@
             "author": 0,
             "title": "The Birth of Merlin",
             "filename": "processed/disputed/cromwell.txt"
+        },
+        {
+            "id": 3,
+            "author": 0,
+            "title": "Pericles (Act I)",
+            "filename": "processed/disputed/pericles_i.txt"
+        },
+        {
+            "id": 4,
+            "author": 0,
+            "title": "Pericles (Act II)",
+            "filename": "processed/disputed/pericles_ii.txt"
+        },
+        {
+            "id": 5,
+            "author": 0,
+            "title": "Pericles (Act III)",
+            "filename": "processed/disputed/pericles_iii.txt"
+        },
+        {
+            "id": 6,
+            "author": 0,
+            "title": "Pericles (Act IV)",
+            "filename": "processed/disputed/pericles_iv.txt"
+        },
+        {
+            "id": 7,
+            "author": 0,
+            "title": "Pericles (Act V)",
+            "filename": "processed/disputed/pericles_v.txt"
+        }
     ]
 }
