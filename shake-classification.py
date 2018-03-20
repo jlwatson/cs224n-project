@@ -25,7 +25,7 @@ from attention_layer import Attention
 
 BATCH_SIZE = 32
 SPLIT_FRACTION = 0.1
-TRAIN_EPOCHS = 15
+TRAIN_EPOCHS = 5
 
 MIN_SEQUENCE_LEN = 10
 MAX_SEQUENCE_LEN = 100
@@ -33,6 +33,7 @@ MAX_SEQUENCE_LEN = 100
 DISPUTED_FILE = 'data/shakespeare/disputed_works_75.data'
 
 RESULT_DIR = "shake_results"
+
 TOKENIZER_FILE = RESULT_DIR + "/tokenizer.pickle"
 WEIGHTS_FILE = RESULT_DIR + "/shake-weights.hdf5"
 
@@ -47,65 +48,56 @@ if __name__ == "__main__":
 
     mkdir_p(RESULT_DIR)
 
-    print("======= Loading Plays =======")
-    print()
+    if os.path.isfile(TOKENIZER_FILE):
+        print("======= Loading Tokenizer =======")
+        with open(TOKENIZER_FILE, 'rb') as handle:
+            tokenizer, data_tuples, author_id_map, works_id_map, lines_by_author_and_work = pickle.load(handle)
 
-    with open(args.data, 'r') as data_handle:
-        all_lines = [l.strip() for l in data_handle.readlines()]
-
-    # strip "// Metadata", extract json metadata object, strip "\n // (<fields>)"
-    metadata = json.loads(all_lines[1])
-    data = [ast.literal_eval(l) for l in all_lines[4:]]
-    texts = [d[0] for d in data]
-
-    authors = metadata["authors"]
-    works = metadata["works"]
-
-    # author_id -> author_name
-    author_id_map = {a[1]: a[0] for a in authors}
-    # work_id -> (work_name, author_id)
-    works_id_map = {w["id"]: (w["title"], w["author"]) for w in works}
-
-    lines_by_author_and_work = {}
-    for a in author_id_map.keys():
-        lines_by_author_and_work[a] = defaultdict(list)
-
-    for d in data:
-        lines_by_author_and_work[d[1]][d[2]].append(d[0])
-
-    tokenizer = Tokenizer()
-    tokenizer.fit_on_texts(texts)
-
-    data_tuples = []
-    for author, works in lines_by_author_and_work.items():
-        print(author_id_map[author], "has", len(works.keys()), "works...")
-        for work, lines in works.items():
-            print("    ", str(works_id_map[work][0]) + ":", len(lines), "examples")
-            for l in tokenizer.texts_to_sequences(lines):
-                # 0 == shakespeare, plz don't be mad
-                data_tuples.append((l, 0 if author == 0 else 1))
+    else:
+        print("======= Loading Plays =======")
         print()
+
+        with open(args.data, 'r') as data_handle:
+            all_lines = [l.strip() for l in data_handle.readlines()]
+
+        # strip "// Metadata", extract json metadata object, strip "\n // (<fields>)"
+        metadata = json.loads(all_lines[1])
+        data = [ast.literal_eval(l) for l in all_lines[4:]]
+        texts = [d[0] for d in data]
+
+        authors = metadata["authors"]
+        works = metadata["works"]
+
+        # author_id -> author_name
+        author_id_map = {a[1]: a[0] for a in authors}
+        # work_id -> (work_name, author_id)
+        works_id_map = {w["id"]: (w["title"], w["author"]) for w in works}
+
+        lines_by_author_and_work = {}
+        for a in author_id_map.keys():
+            lines_by_author_and_work[a] = defaultdict(list)
+
+        for d in data:
+            lines_by_author_and_work[d[1]][d[2]].append(d[0])
+
+        tokenizer = Tokenizer()
+        tokenizer.fit_on_texts(texts)
+
+        data_tuples = []
+        for author, works in lines_by_author_and_work.items():
+            print(author_id_map[author], "has", len(works.keys()), "works...")
+            for work, lines in works.items():
+                print("    ", str(works_id_map[work][0]) + ":", len(lines), "examples")
+                for l in tokenizer.texts_to_sequences(lines):
+                    # 0 == shakespeare, plz don't be mad
+                    data_tuples.append((l, 0 if author == 0 else 1))
+            print()
+
+        with open(TOKENIZER_FILE, 'wb') as handle:
+            pickle.dump((tokenizer, data_tuples, author_id_map, works_id_map, lines_by_author_and_work), handle, protocol=pickle.HIGHEST_PROTOCOL)
 
     print(len(tokenizer.word_counts), "words in vocab.")
     print()
-
-    '''
-    print("======= Generating Data Sequences =======")
-    print()
-
-    data_tuples = []
-    for a in author_id_map.keys():
-        line_lists = [w for w in lines_by_author_and_work[a].values()]
-        author_lines = []
-        for line_list in line_lists:
-            author_lines += line_list
-        seqs = tokenizer.texts_to_sequences(author_lines)
-        for j, seq in enumerate(seqs):
-            for chunk in utils.chunks(seq, MAX_SEQUENCE_LEN):
-                if len(chunk) >= MIN_SEQUENCE_LEN:
-                    # 0 == shakespeare, plz don't be mad
-                    data_tuples.append((chunk, 0 if a == 0 else 1))
-    '''
 
     print(len(data_tuples), "data tuples.")
     counts = [0] * len(author_id_map)
@@ -149,6 +141,9 @@ if __name__ == "__main__":
 
     plot_model(model, to_file=RESULT_DIR+'/shake-model.png')
     model.summary()
+
+    if os.path.isfile(WEIGHTS_FILE):
+        model.load_weights(WEIGHTS_FILE)
 
     if args.train:
         print("======= Training Network =======")
