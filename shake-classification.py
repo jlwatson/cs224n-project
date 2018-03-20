@@ -15,7 +15,7 @@ from mkdir_p import mkdir_p
 
 from keras.callbacks import ModelCheckpoint, EarlyStopping
 from keras.datasets import imdb
-from keras.layers import Dense, Embedding, LSTM, Dropout
+from keras.layers import Dense, Embedding, LSTM, Dropout, Bidirectional, GRU
 from keras.models import Sequential
 from keras.preprocessing import sequence
 from keras.preprocessing.text import Tokenizer
@@ -125,8 +125,10 @@ if __name__ == "__main__":
     print('Build model...')
     model = Sequential()
     model.add(Embedding(vocab_size, 128, mask_zero=False))
-    model.add(LSTM(128, dropout=0.4, recurrent_dropout=0.4, return_sequences=True))
-    model.add(Attention())
+    model.add(Bidirectional(LSTM(128, dropout=0.5, recurrent_dropout=0.5, return_sequences=True)))
+    model.add(Attention(direction="bidirectional"))
+    model.add(Dense(50, activation='relu'))
+    model.add(Dropout(0.5))
     model.add(Dense(1, activation='sigmoid'))
 
     model.compile(
@@ -157,7 +159,7 @@ if __name__ == "__main__":
         print("Validation score:", score)
         print("Validation accuracy:", acc)
 
-        with open("shake-results/val-metrics.txt", "w+") as f:
+        with open("shake_results/val-metrics.txt", "w") as f:
             f.write("Val score: %s\nVal accuracy: %s" % (score, acc))
 
         pred = np.around(model.predict(X_val, batch_size=BATCH_SIZE))
@@ -175,7 +177,7 @@ if __name__ == "__main__":
         pred = np.around(model.predict(X_test, batch_size=BATCH_SIZE))
         truth = np.around(y_test)
         cnf_matrix = sklearn.metrics.confusion_matrix(truth, pred)
-        utils.plot_confusion_matrix(cnf_matrix, classes=["William Shakespeare", "Period playwrights"], normalize=True, title="Test Split Confusion Matrix")
+        utils.plot_confusion_matrix(cnf_matrix, classes=["William Shakespeare", "Period playwrights"], normalize=True, title="Shakespeare Confusion Matrix")
         plt.savefig('shake_results/shake-test-confusion-matrix.png')
         plt.close()
 
