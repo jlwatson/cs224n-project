@@ -217,6 +217,8 @@ if __name__ == "__main__":
 
         random.seed(259812)
 
+
+        results = []
         for w in works_id_map.keys():
 
             data_tuples = []
@@ -242,3 +244,43 @@ if __name__ == "__main__":
             print("    ", notws, "passages attributed to other authors")
             print("     classification consensus:", "William Shakespeare" if ws > notws else "Other contemporary authors")
             print()
+
+            results.append((w, ws, notws))
+
+        # make the bar graph
+        N = len(results)
+
+        ws_counts = [r[1] for r in results]
+        notws_counts = [r[2] for r in results]
+
+        indexes = np.arange(N)
+        width = 0.35
+
+        p1 = plt.bar(indexes, ws_counts, width, color=(0.3, 0.45, 1.0))
+        p2 = plt.bar(indexes, notws_counts, width, color=(0.3, 1.0, 0.45))
+        plt.ylabel('% passages in work')
+        plt.xlabel('Works')
+        plt.title('Classification of passages in contemporary Shakespearean works with disputed attribution')
+        plt.xticks(indexes + width/2.0)
+        plt.yticks(np.arange(0, 1.0, 0.05))
+
+        plt.savefig(RESULT_DIR+'/shake-disputed-result-bar.png')
+        plt.close()
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
