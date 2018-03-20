@@ -9,6 +9,17 @@
             "author": 0,
             "title": "Vortigern and Rowena",
             "filename": "processed/disputed/vortigern.txt"
-        }
+        },
+        {
+            "id": 1,
+            "author": 0,
+            "title": "Thomas Lord Cromwell",
+            "filename": "processed/disputed/cromwell.txt"
+        },
+        {
+            "id": 2,
+            "author": 0,
+            "title": "The Birth of Merlin",
+            "filename": "processed/disputed/cromwell.txt"
     ]
 }

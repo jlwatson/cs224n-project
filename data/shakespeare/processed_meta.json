@@ -110,6 +110,12 @@
             "author": 4,
             "title": "Your Five Gallants",
             "filename": "processed/fivegallants_middleton.txt"
+        },
+        {
+            "id": 17,
+            "author": 0,
+            "title": "Hamlet",
+            "filename": "processed/hamlet_shakespeare.txt"
         }
     ]
 }
