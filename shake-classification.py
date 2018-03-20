@@ -30,8 +30,9 @@ TRAIN_EPOCHS = 15
 MIN_SEQUENCE_LEN = 4
 MAX_SEQUENCE_LEN = 20
 
-TOKENIZER_FILE = "shake_results/tokenizer.pickle"
-WEIGHTS_FILE = "shake_results/shake-weights.hdf5"
+RESULT_DIR = "shake_results"
+TOKENIZER_FILE = RESULT_DIR + "/tokenizer.pickle"
+WEIGHTS_FILE = RESULT_DIR + "/shake-weights.hdf5"
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
@@ -41,7 +42,7 @@ if __name__ == "__main__":
     parser.add_argument('--evaluate_val', help='Run evaluations on the val split.', action='store_true')
     args = parser.parse_args()
 
-    mkdir_p("shake_results")
+    mkdir_p(RESULT_DIR)
 
     print("======= Loading Plays =======")
     print()
@@ -137,7 +138,7 @@ if __name__ == "__main__":
         metrics=['accuracy']
     )
 
-    plot_model(model, to_file='shake_results/shake-model.png')
+    plot_model(model, to_file=RESULT_DIR+'/shake-model.png')
     model.summary()
 
     if os.path.isfile(WEIGHTS_FILE):
@@ -159,14 +160,14 @@ if __name__ == "__main__":
         print("Validation score:", score)
         print("Validation accuracy:", acc)
 
-        with open("shake_results/val-metrics.txt", "w") as f:
+        with open(RESULT_DIR+"/val-metrics.txt", "w") as f:
             f.write("Val score: %s\nVal accuracy: %s" % (score, acc))
 
         pred = np.around(model.predict(X_val, batch_size=BATCH_SIZE))
         truth = np.around(y_val)
         cnf_matrix = sklearn.metrics.confusion_matrix(truth, pred)
         utils.plot_confusion_matrix(cnf_matrix, classes=["William Shakespeare", "Period playwrights"], normalize=True, title="Val Split Confusion Matrix")
-        plt.savefig('shake_results/shake-val-confusion-matrix.png')
+        plt.savefig(RESULT_DIR+'/shake-val-confusion-matrix.png')
         plt.close()
 
     if args.evaluate_test:
@@ -178,7 +179,7 @@ if __name__ == "__main__":
         truth = np.around(y_test)
         cnf_matrix = sklearn.metrics.confusion_matrix(truth, pred)
         utils.plot_confusion_matrix(cnf_matrix, classes=["William Shakespeare", "Period playwrights"], normalize=True, title="Shakespeare Confusion Matrix")
-        plt.savefig('shake_results/shake-test-confusion-matrix.png')
+        plt.savefig(RESULT_DIR+'/shake-test-confusion-matrix.png')
         plt.close()
 
         # TODO: run with Apocrypha separate?
