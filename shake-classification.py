@@ -25,7 +25,7 @@ from attention_layer import Attention
 
 BATCH_SIZE = 32
 SPLIT_FRACTION = 0.1
-TRAIN_EPOCHS = 3
+TRAIN_EPOCHS = 15
 
 MIN_SEQUENCE_LEN = 10
 MAX_SEQUENCE_LEN = 100
